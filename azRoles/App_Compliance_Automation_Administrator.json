@@ -1,0 +1,24 @@
+{
+  "Name": "App Compliance Automation Administrator",
+  "Id": "0f37683f-2463-46b6-9ce7-9b788b988ba2",
+  "IsCustom": false,
+  "Description": "App Compliance Automation Administrator Role",
+  "Actions": [
+    "Microsoft.AppComplianceAutomation/*",
+    "Microsoft.Storage/storageAccounts/blobServices/write",
+    "Microsoft.Storage/storageAccounts/fileservices/write",
+    "Microsoft.Storage/storageAccounts/listKeys/action",
+    "Microsoft.Storage/storageAccounts/write",
+    "Microsoft.Storage/storageAccounts/blobServices/generateUserDelegationKey/action",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/write",
+    "Microsoft.Storage/storageAccounts/blobServices/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

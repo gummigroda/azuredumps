@@ -1,0 +1,30 @@
+{
+  "Name": "Cognitive Services Language Writer",
+  "Id": "f2310ca1-dc64-4889-bb49-c8e0fa3d47a8",
+  "IsCustom": false,
+  "Description": " Has access to all Read, Test, and Write functions under Language Portal",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LanguageAuthoring/*",
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*",
+    "Microsoft.CognitiveServices/accounts/Language/*",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/publish/action",
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/deployments/write",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/*",
+    "Microsoft.CognitiveServices/accounts/Language/*/projects/delete",
+    "Microsoft.CognitiveServices/accounts/Language/*/projects/deployments/write",
+    "Microsoft.CognitiveServices/accounts/Language/*/projects/deployments/delete",
+    "Microsoft.CognitiveServices/accounts/Language/*/projects/deployments/swap/action"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

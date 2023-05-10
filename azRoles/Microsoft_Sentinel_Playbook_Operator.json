@@ -1,0 +1,18 @@
+{
+  "Name": "Microsoft Sentinel Playbook Operator",
+  "Id": "51d6186e-6489-4900-b93f-92e23144cca5",
+  "IsCustom": false,
+  "Description": "Microsoft Sentinel Playbook Operator",
+  "Actions": [
+    "Microsoft.Logic/workflows/read",
+    "Microsoft.Logic/workflows/triggers/listCallbackUrl/action",
+    "Microsoft.Web/sites/hostruntime/webhooks/api/workflows/triggers/listCallbackUrl/action",
+    "Microsoft.Web/sites/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

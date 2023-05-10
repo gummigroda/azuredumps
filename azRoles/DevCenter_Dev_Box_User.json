@@ -1,0 +1,29 @@
+{
+  "Name": "DevCenter Dev Box User",
+  "Id": "45d50f46-0b78-4001-a660-4198cbe8cd05",
+  "IsCustom": false,
+  "Description": "Provides access to create and manage dev boxes.",
+  "Actions": [
+    "Microsoft.DevCenter/projects/read",
+    "Microsoft.DevCenter/projects/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DevCenter/projects/users/devboxes/userStop/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userStart/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userGetRemoteConnection/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userRead/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userWrite/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userDelete/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userUpcomingActionRead/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userUpcomingActionManage/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userActionRead/action",
+    "Microsoft.DevCenter/projects/users/devboxes/userActionManage/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

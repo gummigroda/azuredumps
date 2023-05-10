@@ -1,0 +1,17 @@
+{
+  "Name": "Purview role 3 (Deprecated)",
+  "Id": "ff100721-1b9d-43d8-af52-42b69c1272db",
+  "IsCustom": false,
+  "Description": "Deprecated role.",
+  "Actions": [
+    "Microsoft.Purview/accounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Purview/accounts/data/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}
