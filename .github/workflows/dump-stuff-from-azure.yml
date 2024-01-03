@@ -78,9 +78,9 @@ jobs:
         id: githubPR
         if: steps.gitDiff.outputs.FILES_CHANGED == 'yes'
         shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           $prBody = "Changes downloaded from Azure: {0}" -f (Get-Date).ToString('s')
           gh pr create --title "Automated Dumps from Azure" --body $prBody --base 'main' --head $env:newBranch
           gh pr merge "$env:newBranch" --squash --delete-branch
-
-          
