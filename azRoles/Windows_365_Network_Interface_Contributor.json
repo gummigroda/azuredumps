@@ -1,0 +1,29 @@
+{
+  "Name": "Windows 365 Network Interface Contributor",
+  "Id": "1f135831-5bbe-4924-9016-264044c00788",
+  "IsCustom": false,
+  "Description": "This role is used by Windows 365 to provision required network resources and join Microsoft-hosted VMs to network interfaces.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourcegroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/deployments/delete",
+    "Microsoft.Resources/deployments/operations/read",
+    "Microsoft.Resources/deployments/operationstatuses/read",
+    "Microsoft.Network/locations/operations/read",
+    "Microsoft.Network/locations/operationResults/read",
+    "Microsoft.Network/locations/usages/read",
+    "Microsoft.Network/networkInterfaces/write",
+    "Microsoft.Network/networkInterfaces/read",
+    "Microsoft.Network/networkInterfaces/delete",
+    "Microsoft.Network/networkInterfaces/join/action",
+    "Microsoft.Network/networkInterfaces/effectiveNetworkSecurityGroups/action",
+    "Microsoft.Network/networkInterfaces/effectiveRouteTable/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Stack HCI Device Management Role",
+  "Id": "865ae368-6a45-4bd1-8fbf-0d5151f56fc1",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureStackHCI Device Management Role",
+  "Actions": [
+    "Microsoft.AzureStackHCI/Clusters/*",
+    "Microsoft.AzureStackHCI/EdgeDevices/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

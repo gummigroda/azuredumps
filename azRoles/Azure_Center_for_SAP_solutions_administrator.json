@@ -4,6 +4,8 @@
   "IsCustom": false,
   "Description": "This role provides read and write access to all capabilities of Azure Center for SAP solutions.",
   "Actions": [
+    "Microsoft.Advisor/configurations/read",
+    "Microsoft.Advisor/recommendations/read",
     "Microsoft.Workloads/sapvirtualInstances/*/read",
     "Microsoft.Workloads/sapVirtualInstances/*/write",
     "Microsoft.Workloads/sapVirtualInstances/*/delete",
@@ -11,6 +13,9 @@
     "Microsoft.Workloads/Locations/*/read",
     "Microsoft.Workloads/sapVirtualInstances/*/start/action",
     "Microsoft.Workloads/sapVirtualInstances/*/stop/action",
+    "Microsoft.Workloads/connectors/*/read",
+    "Microsoft.Workloads/connectors/*/write",
+    "Microsoft.Workloads/connectors/*/delete",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Insights/metrics/read",
