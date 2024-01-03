@@ -1,0 +1,54 @@
+name: "Dump stuff from Azure"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '44 6 * * *'
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  Get-AzRoles:
+    runs-on: ubuntu-latest
+    env:
+      jsonPath: 'azRoles/'
+    steps:
+      ## CHECKOUT CODE
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      ## LOG IN TO AZURE
+      - name: Login with AZ CLI
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          enable-AzPSSession: true
+
+      ## DUMP AZ ROLE DEFINITIONS
+      - name: Get Azure Role Definitions
+        id: getAzRolDefs
+        uses: azure/powershell@v1
+        with:
+          azPSVersion: "latest"
+          inlineScript: ./scripts/Get-AzureRoleDefinitions.ps1 -Path $env:jsonPath
+
+      ## Add, commit and push if needed
+      - name: "Add, Commit and Push"
+        shell: pwsh
+        run: |
+          $sts=(git status --short)
+          Write-Output ("Git Status:`n{0}" -f $sts)
+          if ($sts -match $env:jsonPath){
+            git config user.name DumpTruck
+            git config user.email dumptruck@github.com
+            git add $env:jsonPath
+            git commit -m "Added updated role definitions"
+            git push
+          }
+          else{
+            Write-Output "No Update"
+          }
