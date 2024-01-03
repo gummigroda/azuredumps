@@ -1,0 +1,81 @@
+site_name: Azure Dumps
+site_url: https://gummigroda.github.io/azuredumps/
+theme:
+  name: material
+  icon:
+    logo: material/library-shelves
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: blue grey
+      accent: orange 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+plugins:
+  - search
+  - offline
+  - tags
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/gummigroda
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/0sterberg/
+    - icon: fontawesome/solid/globe
+      link: https://powershell.se/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/gummigroda/azuredumps"  target="_blank" rel="noopener">Osterberg</a>
+
+watch:
+  - azRoles
