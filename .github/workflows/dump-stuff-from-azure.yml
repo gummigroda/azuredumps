@@ -33,7 +33,7 @@ jobs:
         id: getAzRolDefs
         uses: azure/powershell@v1
         with:
-          azPSVersion: "latest"
+          azPSVersion: "11.1.0"
           inlineScript: ./scripts/Get-AzureRoleDefinitions.ps1 -Path $env:jsonPath
 
       ## Add, commit and push if needed
