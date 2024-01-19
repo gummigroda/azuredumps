@@ -1,0 +1,40 @@
+{
+  "Name": "465f0161-0087-490a-9ad9-ad6217f4f43a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/465f0161-0087-490a-9ad9-ad6217f4f43a",
+  "ResourceName": "465f0161-0087-490a-9ad9-ad6217f4f43a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy enforces enabling automatic OS image patching on Virtual Machine Scale Sets to always keep Virtual Machines secure by safely applying latest security patches every month.",
+    "DisplayName": "Require automatic OS image patching on Virtual Machine Scale Sets",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Compute"
+    },
+    "Mode": "All",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/virtualMachineScaleSets"
+          },
+          {
+            "field": "Microsoft.Compute/VirtualMachineScaleSets/upgradePolicy.automaticOSUpgradePolicy.enableAutomaticOSUpgrade",
+            "notEquals": "True"
+          },
+          {
+            "field": "Microsoft.Compute/VirtualMachineScaleSets/upgradePolicy.automaticOSUpgrade",
+            "notEquals": "True"
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/465f0161-0087-490a-9ad9-ad6217f4f43a"
+}

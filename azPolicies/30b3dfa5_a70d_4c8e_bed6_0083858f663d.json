@@ -1,0 +1,63 @@
+{
+  "Name": "30b3dfa5-a70d-4c8e-bed6-0083858f663d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/30b3dfa5-a70d-4c8e-bed6-0083858f663d",
+  "ResourceName": "30b3dfa5-a70d-4c8e-bed6-0083858f663d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable public network access for your Azure Cache for Redis resource so that it's not accessible over the public internet. This helps protect the cache against data leakage risks.",
+    "DisplayName": "Configure Azure Cache for Redis to disable public network access",
+    "Metadata": {
+      "category": "Cache",
+      "version": "1.0.0"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Cache/Redis"
+          },
+          {
+            "field": "Microsoft.Cache/Redis/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "conflictEffect": "audit",
+          "roleDefinitionIds": [
+            "/providers/microsoft.authorization/roleDefinitions/e0f68234-74aa-48ed-b826-c38b57376e17"
+          ],
+          "operations": [
+            {
+              "condition": "[greaterOrEquals(requestContext().apiVersion, '2020-06-01')]",
+              "operation": "addOrReplace",
+              "field": "Microsoft.Cache/Redis/publicNetworkAccess",
+              "value": "Disabled"
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/30b3dfa5-a70d-4c8e-bed6-0083858f663d"
+}

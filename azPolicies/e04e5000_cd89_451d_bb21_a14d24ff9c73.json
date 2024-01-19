@@ -1,0 +1,60 @@
+{
+  "Name": "e04e5000-cd89-451d-bb21-a14d24ff9c73",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e04e5000-cd89-451d-bb21-a14d24ff9c73",
+  "ResourceName": "e04e5000-cd89-451d-bb21-a14d24ff9c73",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Auditing on your Synapse workspace should be enabled to track database activities across all databases on the dedicated SQL pools and save them in an audit log.",
+    "DisplayName": "Auditing on Synapse workspace should be enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Synapse"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      },
+      "setting": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Desired Auditing setting"
+        },
+        "allowedValues": [
+          "enabled",
+          "disabled"
+        ],
+        "defaultValue": "enabled"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Synapse/workspaces"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Synapse/workspaces/auditingSettings",
+          "name": "default",
+          "existenceCondition": {
+            "field": "Microsoft.Synapse/workspaces/auditingSettings/state",
+            "equals": "[parameters('setting')]"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e04e5000-cd89-451d-bb21-a14d24ff9c73"
+}

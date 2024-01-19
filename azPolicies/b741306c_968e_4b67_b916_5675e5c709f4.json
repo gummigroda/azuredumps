@@ -1,0 +1,50 @@
+{
+  "Name": "b741306c-968e-4b67-b916-5675e5c709f4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b741306c-968e-4b67-b916-5675e5c709f4",
+  "ResourceName": "b741306c-968e-4b67-b916-5675e5c709f4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "The direct management REST API in Azure API Management bypasses Azure Resource Manager role-based access control, authorization, and throttling mechanisms, thus increasing the vulnerability of your service.",
+    "DisplayName": "API Management direct management endpoint should not be enabled",
+    "Metadata": {
+      "version": "1.0.2",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "Deny"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/tenant"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/tenant/enabled",
+            "equals": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b741306c-968e-4b67-b916-5675e5c709f4"
+}

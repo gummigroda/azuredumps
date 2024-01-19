@@ -1,0 +1,45 @@
+{
+  "Name": "9b8b05ec-3d21-215e-5d98-0f7cf0998202",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9b8b05ec-3d21-215e-5d98-0f7cf0998202",
+  "ResourceName": "9b8b05ec-3d21-215e-5d98-0f7cf0998202",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0417 - Provide security awareness training for insider threats",
+    "DisplayName": "Provide security awareness training for insider threats",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0417"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9b8b05ec-3d21-215e-5d98-0f7cf0998202"
+}

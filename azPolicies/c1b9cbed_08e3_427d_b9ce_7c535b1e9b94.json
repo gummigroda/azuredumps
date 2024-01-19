@@ -1,0 +1,39 @@
+{
+  "Name": "c1b9cbed-08e3-427d-b9ce-7c535b1e9b94",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c1b9cbed-08e3-427d-b9ce-7c535b1e9b94",
+  "ResourceName": "c1b9cbed-08e3-427d-b9ce-7c535b1e9b94",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Allows resource creation in the following locations only: East Asia, Southeast Asia, West India, South India, Central India, Japan East, Japan West",
+    "DisplayName": "[Deprecated]: Allow resource creation only in Asia data centers",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "General",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "not": {
+          "field": "location",
+          "in": [
+            "eastasia",
+            "southeastasia",
+            "westindia",
+            "southindia",
+            "centralindia",
+            "japaneast",
+            "japanwest"
+          ]
+        }
+      },
+      "then": {
+        "effect": "Deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c1b9cbed-08e3-427d-b9ce-7c535b1e9b94"
+}

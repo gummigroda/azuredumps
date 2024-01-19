@@ -1,0 +1,55 @@
+{
+  "Name": "bd352bd5-2853-4985-bf0d-73806b4a5744",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/bd352bd5-2853-4985-bf0d-73806b4a5744",
+  "ResourceName": "bd352bd5-2853-4985-bf0d-73806b4a5744",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enabling IP forwarding on a virtual machine's NIC allows the machine to receive traffic addressed to other destinations. IP forwarding is rarely required (e.g., when using the VM as a network virtual appliance), and therefore, this should be reviewed by the network security team.",
+    "DisplayName": "IP Forwarding on your virtual machine should be disabled",
+    "Metadata": {
+      "version": "3.0.0",
+      "category": "Security Center"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "in": [
+          "Microsoft.Compute/virtualMachines",
+          "Microsoft.ClassicCompute/virtualMachines"
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/assessments",
+          "name": "c3b51c94-588b-426b-a892-24696f9e54cc",
+          "existenceCondition": {
+            "field": "Microsoft.Security/assessments/status.code",
+            "in": [
+              "NotApplicable",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/bd352bd5-2853-4985-bf0d-73806b4a5744"
+}

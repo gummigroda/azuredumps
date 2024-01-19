@@ -1,0 +1,50 @@
+{
+  "Name": "ab9ca4fc-5d29-4c62-bbad-018df1f5f0dd",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ab9ca4fc-5d29-4c62-bbad-018df1f5f0dd",
+  "ResourceName": "ab9ca4fc-5d29-4c62-bbad-018df1f5f0dd",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "By default, if one uses regional Azure Virtual Network (VNET) integration, the app only routes RFC1918 traffic into that respective virtual network. Using the API to set 'vnetRouteAllEnabled' to true enables all outbound traffic into the Azure Virtual Network. This setting allows features like network security groups and user defined routes to be used for all outbound traffic from the App Service app.",
+    "DisplayName": "[Deprecated]: App Service app slots should enable outbound non-RFC 1918 traffic to Azure Virtual Network",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "App Service",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Web/sites/slots"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Web/sites/slots/config",
+          "name": "web",
+          "existenceCondition": {
+            "field": "Microsoft.Web/sites/slots/config/vnetRouteAllEnabled",
+            "equals": "true"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ab9ca4fc-5d29-4c62-bbad-018df1f5f0dd"
+}

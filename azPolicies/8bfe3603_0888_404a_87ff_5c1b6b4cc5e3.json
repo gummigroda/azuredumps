@@ -1,0 +1,50 @@
+{
+  "Name": "8bfe3603-0888-404a-87ff-5c1b6b4cc5e3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/8bfe3603-0888-404a-87ff-5c1b6b4cc5e3",
+  "ResourceName": "8bfe3603-0888-404a-87ff-5c1b6b4cc5e3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access improves security by ensuring that Media Services resources are not exposed on the public internet. Creating private endpoints can limit exposure of Media Services resources. Learn more at: https://aka.ms/mediaservicesprivatelinkdocs.",
+    "DisplayName": "Azure Media Services accounts should disable public network access",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Media Services"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Media/mediaservices"
+          },
+          {
+            "field": "Microsoft.Media/mediaservices/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/8bfe3603-0888-404a-87ff-5c1b6b4cc5e3"
+}

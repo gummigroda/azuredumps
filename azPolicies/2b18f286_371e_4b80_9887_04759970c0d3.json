@@ -1,0 +1,67 @@
+{
+  "Name": "2b18f286-371e-4b80-9887-04759970c0d3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2b18f286-371e-4b80-9887-04759970c0d3",
+  "ResourceName": "2b18f286-371e-4b80-9887-04759970c0d3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To ensure your audit logs are as thorough as possible, the AuditActionsAndGroups property should include all the relevant groups. We recommend adding at least SUCCESSFUL_DATABASE_AUTHENTICATION_GROUP, FAILED_DATABASE_AUTHENTICATION_GROUP, and BATCH_COMPLETED_GROUP. This is sometimes required for compliance with regulatory standards.",
+    "DisplayName": "Synapse workspace auditing settings should have action groups configured to capture critical activities",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Synapse"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Synapse/workspaces"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Synapse/workspaces/auditingSettings",
+          "name": "default",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "not": {
+                  "field": "Microsoft.Synapse/workspaces/auditingSettings/auditActionsAndGroups[*]",
+                  "notEquals": "SUCCESSFUL_DATABASE_AUTHENTICATION_GROUP"
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Synapse/workspaces/auditingSettings/auditActionsAndGroups[*]",
+                  "notEquals": "FAILED_DATABASE_AUTHENTICATION_GROUP"
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Synapse/workspaces/auditingSettings/auditActionsAndGroups[*]",
+                  "notEquals": "BATCH_COMPLETED_GROUP"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2b18f286-371e-4b80-9887-04759970c0d3"
+}

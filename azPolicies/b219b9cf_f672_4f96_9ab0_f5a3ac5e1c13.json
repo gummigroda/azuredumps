@@ -1,0 +1,97 @@
+{
+  "Name": "b219b9cf-f672-4f96-9ab0-f5a3ac5e1c13",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b219b9cf-f672-4f96-9ab0-f5a3ac5e1c13",
+  "ResourceName": "b219b9cf-f672-4f96-9ab0-f5a3ac5e1c13",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Databases should avoid using the default geo-redundant storage for backups, if data residency rules require data to stay within a specific region. Note: Azure Policy is not enforced when creating a database using T-SQL. If not explicitly specified, database with geo-redundant backup storage is created via T-SQL.",
+    "DisplayName": "SQL Database should avoid using GRS backup redundancy",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/servers/databases"
+          },
+          {
+            "field": "Microsoft.Sql/servers/databases/edition",
+            "notEquals": "DataWarehouse"
+          },
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  {
+                    "value": "[requestContext().apiVersion]",
+                    "lessOrEquals": "2020-08-01-preview"
+                  },
+                  {
+                    "not": {
+                      "anyOf": [
+                        {
+                          "field": "Microsoft.Sql/servers/databases/storageAccountType",
+                          "equals": "LRS"
+                        },
+                        {
+                          "field": "Microsoft.Sql/servers/databases/storageAccountType",
+                          "equals": "ZRS"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "allOf": [
+                  {
+                    "value": "[requestContext().apiVersion]",
+                    "greater": "2020-08-01-preview"
+                  },
+                  {
+                    "not": {
+                      "anyOf": [
+                        {
+                          "field": "Microsoft.Sql/servers/databases/requestedBackupStorageRedundancy",
+                          "equals": "Local"
+                        },
+                        {
+                          "field": "Microsoft.Sql/servers/databases/requestedBackupStorageRedundancy",
+                          "equals": "Zone"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b219b9cf-f672-4f96-9ab0-f5a3ac5e1c13"
+}

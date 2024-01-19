@@ -1,0 +1,50 @@
+{
+  "Name": "ff1f1879-a60d-4f23-9641-41e7391ec19a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ff1f1879-a60d-4f23-9641-41e7391ec19a",
+  "ResourceName": "ff1f1879-a60d-4f23-9641-41e7391ec19a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Requires Azure Application Gateway resources to be deployed with Azure WAF. ",
+    "DisplayName": "Azure Application Gateway should be deployed with Azure WAF",
+    "Metadata": {
+      "category": "Network",
+      "version": "1.0.0"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Action taken when WAF is not deployed with a given resource"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/applicationGateways"
+          },
+          {
+            "field": "Microsoft.Network/applicationGateways/firewallPolicy.id",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ff1f1879-a60d-4f23-9641-41e7391ec19a"
+}

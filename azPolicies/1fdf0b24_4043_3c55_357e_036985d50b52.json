@@ -1,0 +1,45 @@
+{
+  "Name": "1fdf0b24-4043-3c55-357e-036985d50b52",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1fdf0b24-4043-3c55-357e-036985d50b52",
+  "ResourceName": "1fdf0b24-4043-3c55-357e-036985d50b52",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1183 - Ensure security safeguards not needed when the individuals return",
+    "DisplayName": "Ensure security safeguards not needed when the individuals return",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1183"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1fdf0b24-4043-3c55-357e-036985d50b52"
+}

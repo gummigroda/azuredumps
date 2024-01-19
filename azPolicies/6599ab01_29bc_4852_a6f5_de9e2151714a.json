@@ -1,0 +1,57 @@
+{
+  "Name": "6599ab01-29bc-4852-a6f5-de9e2151714a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/6599ab01-29bc-4852-a6f5-de9e2151714a",
+  "ResourceName": "6599ab01-29bc-4852-a6f5-de9e2151714a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enable transparent data encryption (TDE) at-rest on an Azure Arc-enabled SQL Managed Instance. Learn more at https://aka.ms/EnableTDEArcSQLMI.",
+    "DisplayName": "Transparent Data Encryption must be enabled for Arc SQL managed instances.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "SQL Managed Instance"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AzureArcData/sqlmanagedinstances"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption.mode",
+                "equals": "Disabled"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6599ab01-29bc-4852-a6f5-de9e2151714a"
+}

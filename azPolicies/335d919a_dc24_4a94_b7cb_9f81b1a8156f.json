@@ -1,0 +1,52 @@
+{
+  "Name": "335d919a-dc24-4a94-b7cb-9f81b1a8156f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/335d919a-dc24-4a94-b7cb-9f81b1a8156f",
+  "ResourceName": "335d919a-dc24-4a94-b7cb-9f81b1a8156f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Block creation of MCPP resources.",
+    "DisplayName": "Do Not Allow MCPP resources",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "General"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "in": [
+              "Microsoft.CloudPartnerProgram/memberships"
+            ]
+          },
+          {
+            "value": "[field('type')]",
+            "exists": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/335d919a-dc24-4a94-b7cb-9f81b1a8156f"
+}

@@ -1,0 +1,51 @@
+{
+  "Name": "523b5cd1-3e23-492f-a539-13118b6d1e3a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/523b5cd1-3e23-492f-a539-13118b6d1e3a",
+  "ResourceName": "523b5cd1-3e23-492f-a539-13118b6d1e3a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Defender for Kubernetes provides real-time threat protection for containerized environments and generates alerts for suspicious activities.",
+    "DisplayName": "[Deprecated]: Azure Defender for Kubernetes should be enabled",
+    "Metadata": {
+      "version": "1.0.3-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/pricings",
+          "name": "KubernetesService",
+          "existenceScope": "subscription",
+          "existenceCondition": {
+            "field": "Microsoft.Security/pricings/pricingTier",
+            "equals": "Standard"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/523b5cd1-3e23-492f-a539-13118b6d1e3a"
+}

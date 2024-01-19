@@ -1,0 +1,63 @@
+{
+  "Name": "3d02a511-74e5-4dab-a5fd-878704d4a61a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3d02a511-74e5-4dab-a5fd-878704d4a61a",
+  "ResourceName": "3d02a511-74e5-4dab-a5fd-878704d4a61a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To prevent data & token exfiltration, set the domains that Azure Data Factory should be allowed to communicate with. Note: While in public preview, the compliance for this policy is not reported, & for policy to be applied to Data Factory, please enable outbound rules functionality in the ADF studio. For more information, visit https://aka.ms/data-exfiltration-policy.",
+    "DisplayName": "[Preview]: Azure Data Factory pipelines should only communicate with allowed domains",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Data Factory",
+      "preview": true
+    },
+    "Mode": "Microsoft.DataFactory.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Deny' blocks the communication with untrusted domains during execution of pipeline."
+        },
+        "allowedValues": [
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      },
+      "allowedDomainNames": {
+        "type": "Array",
+        "metadata": {
+          "displayName": "Allowed domain names",
+          "description": "The list of allowed domain names."
+        }
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DataFactory.Data/factories/outboundTraffic"
+          },
+          {
+            "count": {
+              "field": "Microsoft.DataFactory.Data/factories/outboundTraffic/properties.domainNames[*]",
+              "where": {
+                "field": "Microsoft.DataFactory.Data/factories/outboundTraffic/properties.domainNames[*]",
+                "notIn": "[parameters('allowedDomainNames')]"
+              }
+            },
+            "greater": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3d02a511-74e5-4dab-a5fd-878704d4a61a"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "0a24f5dc-8c40-94a7-7aee-bb7cd4781d37",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0a24f5dc-8c40-94a7-7aee-bb7cd4781d37",
+  "ResourceName": "0a24f5dc-8c40-94a7-7aee-bb7cd4781d37",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1824 - Issue guidelines for ensuring data quality and integrity",
+    "DisplayName": "Issue guidelines for ensuring data quality and integrity",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1824"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0a24f5dc-8c40-94a7-7aee-bb7cd4781d37"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "a28323fe-276d-3787-32d2-cef6395764c4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a28323fe-276d-3787-32d2-cef6395764c4",
+  "ResourceName": "a28323fe-276d-3787-32d2-cef6395764c4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0154 - Develop audit and accountability policies and procedures",
+    "DisplayName": "Develop audit and accountability policies and procedures",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0154"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a28323fe-276d-3787-32d2-cef6395764c4"
+}

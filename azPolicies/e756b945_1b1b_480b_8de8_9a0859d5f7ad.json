@@ -1,0 +1,50 @@
+{
+  "Name": "e756b945-1b1b-480b-8de8-9a0859d5f7ad",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e756b945-1b1b-480b-8de8-9a0859d5f7ad",
+  "ResourceName": "e756b945-1b1b-480b-8de8-9a0859d5f7ad",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "It is recommended to enable all Advanced Threat Protection types on your SQL servers. Enabling all types protects against SQL injection, database vulnerabilities, and any other anomalous activities.",
+    "DisplayName": "[Deprecated]: Advanced Threat Protection types should be set to 'All' in SQL server Advanced Data Security settings",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "SQL",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "Disabled"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Sql/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/securityAlertPolicies",
+          "name": "default",
+          "existenceCondition": {
+            "field": "Microsoft.Sql/servers/securityAlertPolicies/disabledAlerts[*]",
+            "equals": ""
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e756b945-1b1b-480b-8de8-9a0859d5f7ad"
+}

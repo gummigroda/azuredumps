@@ -1,0 +1,50 @@
+{
+  "Name": "cb3738a6-82a2-4a18-b87b-15217b9deff4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/cb3738a6-82a2-4a18-b87b-15217b9deff4",
+  "ResourceName": "cb3738a6-82a2-4a18-b87b-15217b9deff4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Setting TLS version to 1.2 or newer improves security by ensuring your Azure Synapse workspace SQL server can only be accessed from clients using TLS 1.2 or newer. Using versions of TLS less than 1.2 is not recommended since they have well documented security vulnerabilities.",
+    "DisplayName": "Azure Synapse Workspace SQL Server should be running TLS version 1.2 or newer",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Synapse"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings"
+          },
+          {
+            "field": "Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings/minimalTlsVersion",
+            "notEquals": "1.2"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cb3738a6-82a2-4a18-b87b-15217b9deff4"
+}

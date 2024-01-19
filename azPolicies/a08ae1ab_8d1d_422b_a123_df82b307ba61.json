@@ -1,0 +1,56 @@
+{
+  "Name": "a08ae1ab-8d1d-422b-a123-df82b307ba61",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a08ae1ab-8d1d-422b-a123-df82b307ba61",
+  "ResourceName": "a08ae1ab-8d1d-422b-a123-df82b307ba61",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Remote debugging requires inbound ports to be opened on an App Service app. Remote debugging should be turned off.",
+    "DisplayName": "App Service app slots should have remote debugging turned off",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "App Service"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites/slots"
+          },
+          {
+            "field": "kind",
+            "notContains": "functionapp"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Web/sites/slots/config",
+          "existenceCondition": {
+            "field": "Microsoft.Web/sites/slots/config/web.remoteDebuggingEnabled",
+            "equals": "false"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a08ae1ab-8d1d-422b-a123-df82b307ba61"
+}

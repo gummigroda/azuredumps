@@ -1,0 +1,82 @@
+{
+  "Name": "c15dcc82-b93c-4dcb-9332-fbf121685b54",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c15dcc82-b93c-4dcb-9332-fbf121685b54",
+  "ResourceName": "c15dcc82-b93c-4dcb-9332-fbf121685b54",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Calls from API Management to backends should use some form of authentication, whether via certificates or credentials. Does not apply to Service Fabric backends.",
+    "DisplayName": "API Management calls to API backends should be authenticated",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "Deny"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/backends"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/backends/url",
+            "exists": "true"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/backends/protocol",
+            "equals": "http"
+          },
+          {
+            "allOf": [
+              {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.ApiManagement/service/backends/credentials.certificate",
+                    "exists": "false"
+                  },
+                  {
+                    "value": "[length(field('Microsoft.ApiManagement/service/backends/credentials.certificate[*]'))]",
+                    "equals": 0
+                  }
+                ]
+              },
+              {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.ApiManagement/service/backends/credentials.authorization.scheme",
+                    "exists": "false"
+                  },
+                  {
+                    "field": "Microsoft.ApiManagement/service/backends/credentials.authorization.parameter",
+                    "exists": "false"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c15dcc82-b93c-4dcb-9332-fbf121685b54"
+}

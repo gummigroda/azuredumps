@@ -1,0 +1,61 @@
+{
+  "Name": "9a1b8c48-453a-4044-86c3-d8bfd823e4f5",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9a1b8c48-453a-4044-86c3-d8bfd823e4f5",
+  "ResourceName": "9a1b8c48-453a-4044-86c3-d8bfd823e4f5",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enable FTPS enforcement for enhanced security. We recommend all customers who are still using API Apps to implement the built-in policy called 'App Service apps should require FTPS only', which is scoped to include API apps in addition to Web Apps.",
+    "DisplayName": "[Deprecated]: FTPS only should be required in your API App",
+    "Metadata": {
+      "version": "2.0.0-deprecated",
+      "category": "App Service",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites"
+          },
+          {
+            "field": "kind",
+            "like": "*api"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Web/sites/config",
+          "name": "web",
+          "existenceCondition": {
+            "field": "Microsoft.Web/sites/config/ftpsState",
+            "in": [
+              "FtpsOnly",
+              "Disabled"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9a1b8c48-453a-4044-86c3-d8bfd823e4f5"
+}

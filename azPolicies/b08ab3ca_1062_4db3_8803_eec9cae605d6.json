@@ -1,0 +1,50 @@
+{
+  "Name": "b08ab3ca-1062-4db3-8803-eec9cae605d6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b08ab3ca-1062-4db3-8803-eec9cae605d6",
+  "ResourceName": "b08ab3ca-1062-4db3-8803-eec9cae605d6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling local authentication methods improves security by ensuring that App Configuration stores require Microsoft Entra identities exclusively for authentication. Learn more at: https://go.microsoft.com/fwlink/?linkid=2161954.",
+    "DisplayName": "App Configuration stores should have local authentication methods disabled",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "App Configuration"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AppConfiguration/configurationStores"
+          },
+          {
+            "field": "Microsoft.AppConfiguration/configurationStores/disableLocalAuth",
+            "notEquals": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b08ab3ca-1062-4db3-8803-eec9cae605d6"
+}

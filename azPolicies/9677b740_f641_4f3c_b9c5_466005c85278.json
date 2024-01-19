@@ -1,0 +1,50 @@
+{
+  "Name": "9677b740-f641-4f3c-b9c5-466005c85278",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9677b740-f641-4f3c-b9c5-466005c85278",
+  "ResourceName": "9677b740-f641-4f3c-b9c5-466005c85278",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure that an email address is provided for the 'Send alerts to' field in the Advanced Data Security server settings. This email address receives alert notifications when anomalous activities are detected on SQL servers.",
+    "DisplayName": "[Deprecated]: Advanced data security settings for SQL server should contain an email address to receive security alerts",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "SQL",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "Disabled"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Sql/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/securityAlertPolicies",
+          "name": "default",
+          "existenceCondition": {
+            "field": "Microsoft.Sql/servers/securityAlertPolicies/emailAddresses[*]",
+            "notEquals": ""
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9677b740-f641-4f3c-b9c5-466005c85278"
+}

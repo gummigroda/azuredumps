@@ -1,0 +1,50 @@
+{
+  "Name": "fb97d6e1-5c98-4743-a439-23e0977bad9e",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/fb97d6e1-5c98-4743-a439-23e0977bad9e",
+  "ResourceName": "fb97d6e1-5c98-4743-a439-23e0977bad9e",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure virtual machines should have boot diagniostics enabled.",
+    "DisplayName": "[Preview]: Boot Diagnostics should be enabled on virtual machines",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Automanage",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/virtualMachines"
+          },
+          {
+            "field": "Microsoft.Compute/virtualMachines/diagnosticsProfile.bootDiagnostics.enabled",
+            "notEquals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/fb97d6e1-5c98-4743-a439-23e0977bad9e"
+}

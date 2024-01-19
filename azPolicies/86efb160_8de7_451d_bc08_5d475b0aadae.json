@@ -1,0 +1,69 @@
+{
+  "Name": "86efb160-8de7-451d-bc08-5d475b0aadae",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/86efb160-8de7-451d-bc08-5d475b0aadae",
+  "ResourceName": "86efb160-8de7-451d-bc08-5d475b0aadae",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use a customer-managed key to control the encryption of the device unlock password for Azure Data Box. Customer-managed keys also help manage access to the device unlock password by the Data Box service in order to prepare the device and copy data in an automated manner. The data on the device itself is already encrypted at rest with Advanced Encryption Standard 256-bit encryption, and the device unlock password is encrypted by default with a Microsoft managed key.",
+    "DisplayName": "Azure Data Box jobs should use a customer-managed key to encrypt the device unlock password",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Data Box"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The desired effect of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      },
+      "supportedSKUs": {
+        "type": "Array",
+        "metadata": {
+          "displayName": "Supported SKUs",
+          "description": "The list of SKUs that support customer-managed key encryption key"
+        },
+        "allowedValues": [
+          "DataBox",
+          "DataBoxHeavy"
+        ],
+        "defaultValue": [
+          "DataBox",
+          "DataBoxHeavy"
+        ]
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DataBox/jobs"
+          },
+          {
+            "field": "Microsoft.Databox/jobs/sku.name",
+            "in": "[parameters('supportedSKUs')]"
+          },
+          {
+            "field": "Microsoft.DataBox/jobs/details.keyEncryptionKey.kekType",
+            "notEquals": "CustomerManaged"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/86efb160-8de7-451d-bc08-5d475b0aadae"
+}

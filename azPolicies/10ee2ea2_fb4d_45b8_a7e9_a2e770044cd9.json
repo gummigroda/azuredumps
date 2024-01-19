@@ -1,0 +1,86 @@
+{
+  "Name": "10ee2ea2-fb4d-45b8-a7e9-a2e770044cd9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/10ee2ea2-fb4d-45b8-a7e9-a2e770044cd9",
+  "ResourceName": "10ee2ea2-fb4d-45b8-a7e9-a2e770044cd9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy is deprecated.",
+    "DisplayName": "[Deprecated]: Custom subscription owner roles should not exist",
+    "Metadata": {
+      "version": "2.0.0-deprecated",
+      "category": "General",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Authorization/roleDefinitions"
+          },
+          {
+            "field": "Microsoft.Authorization/roleDefinitions/type",
+            "equals": "CustomRole"
+          },
+          {
+            "anyOf": [
+              {
+                "not": {
+                  "field": "Microsoft.Authorization/roleDefinitions/permissions[*].actions[*]",
+                  "notEquals": "*"
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Authorization/roleDefinitions/permissions.actions[*]",
+                  "notEquals": "*"
+                }
+              }
+            ]
+          },
+          {
+            "anyOf": [
+              {
+                "not": {
+                  "field": "Microsoft.Authorization/roleDefinitions/assignableScopes[*]",
+                  "notIn": [
+                    "[concat(subscription().id,'/')]",
+                    "[subscription().id]",
+                    "/"
+                  ]
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Authorization/roleDefinitions/assignableScopes[*]",
+                  "notLike": "/providers/Microsoft.Management/*"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/10ee2ea2-fb4d-45b8-a7e9-a2e770044cd9"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "e5c5fc78-4aa5-3d6b-81bc-5fcc88b318e9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e5c5fc78-4aa5-3d6b-81bc-5fcc88b318e9",
+  "ResourceName": "e5c5fc78-4aa5-3d6b-81bc-5fcc88b318e9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1507 - Review and update personnel security policies and procedures",
+    "DisplayName": "Review and update personnel security policies and procedures",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1507"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e5c5fc78-4aa5-3d6b-81bc-5fcc88b318e9"
+}

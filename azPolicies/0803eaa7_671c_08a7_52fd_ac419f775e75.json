@@ -1,0 +1,45 @@
+{
+  "Name": "0803eaa7-671c-08a7-52fd-ac419f775e75",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0803eaa7-671c-08a7-52fd-ac419f775e75",
+  "ResourceName": "0803eaa7-671c-08a7-52fd-ac419f775e75",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0187 - Document acquisition contract acceptance criteria",
+    "DisplayName": "Document acquisition contract acceptance criteria",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0187"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0803eaa7-671c-08a7-52fd-ac419f775e75"
+}

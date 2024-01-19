@@ -1,0 +1,34 @@
+{
+  "Name": "94c19f19-8192-48cd-a11b-e37099d3e36b",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/94c19f19-8192-48cd-a11b-e37099d3e36b",
+  "ResourceName": "94c19f19-8192-48cd-a11b-e37099d3e36b",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Allows resource creation in the following locations only: North Europe, West Europe",
+    "DisplayName": "[Deprecated]: Allow resource creation only in European data centers",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "General",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "not": {
+          "field": "location",
+          "in": [
+            "northeurope",
+            "westeurope"
+          ]
+        }
+      },
+      "then": {
+        "effect": "Deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/94c19f19-8192-48cd-a11b-e37099d3e36b"
+}

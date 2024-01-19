@@ -1,0 +1,45 @@
+{
+  "Name": "ef718fe4-7ceb-9ddf-3198-0ee8f6fe9cba",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ef718fe4-7ceb-9ddf-3198-0ee8f6fe9cba",
+  "ResourceName": "ef718fe4-7ceb-9ddf-3198-0ee8f6fe9cba",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0473 - Review file and folder activity",
+    "DisplayName": "Review file and folder activity",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0473"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ef718fe4-7ceb-9ddf-3198-0ee8f6fe9cba"
+}

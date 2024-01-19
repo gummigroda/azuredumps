@@ -1,0 +1,40 @@
+{
+  "Name": "35f9c03a-cc27-418e-9c0c-539ff999d010",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/35f9c03a-cc27-418e-9c0c-539ff999d010",
+  "ResourceName": "35f9c03a-cc27-418e-9c0c-539ff999d010",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy denies if a gateway subnet is configured with a network security group. Assigning a network security group to a gateway subnet will cause the gateway to stop functioning.",
+    "DisplayName": "Gateway subnets should not be configured with a network security group",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "All",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/virtualNetworks/subnets"
+          },
+          {
+            "field": "name",
+            "equals": "GatewaySubnet"
+          },
+          {
+            "field": "Microsoft.Network/virtualNetworks/subnets/networkSecurityGroup.id",
+            "exists": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/35f9c03a-cc27-418e-9c0c-539ff999d010"
+}

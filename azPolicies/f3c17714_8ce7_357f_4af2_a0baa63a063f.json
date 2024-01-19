@@ -1,0 +1,45 @@
+{
+  "Name": "f3c17714-8ce7-357f-4af2-a0baa63a063f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f3c17714-8ce7-357f-4af2-a0baa63a063f",
+  "ResourceName": "f3c17714-8ce7-357f-4af2-a0baa63a063f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1865 - Make SORNs available publicly",
+    "DisplayName": "Make SORNs available publicly",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1865"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f3c17714-8ce7-357f-4af2-a0baa63a063f"
+}

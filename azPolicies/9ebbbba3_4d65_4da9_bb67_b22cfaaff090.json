@@ -1,0 +1,51 @@
+{
+  "Name": "9ebbbba3-4d65-4da9-bb67-b22cfaaff090",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9ebbbba3-4d65-4da9-bb67-b22cfaaff090",
+  "ResourceName": "9ebbbba3-4d65-4da9-bb67-b22cfaaff090",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access improves security by ensuring that recovery services vault is not exposed on the public internet. Creating private endpoints can limit exposure of recovery services vault. Learn more at: https://aka.ms/AB-PublicNetworkAccess-Deny.",
+    "DisplayName": "[Preview]: Azure Recovery Services vaults should disable public network access",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Backup",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.RecoveryServices/vaults"
+          },
+          {
+            "field": "Microsoft.RecoveryServices/vaults/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9ebbbba3-4d65-4da9-bb67-b22cfaaff090"
+}

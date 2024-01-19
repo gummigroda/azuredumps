@@ -1,0 +1,50 @@
+{
+  "Name": "63a0ac64-5d5f-4569-8a3d-df67cc1ce9d7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/63a0ac64-5d5f-4569-8a3d-df67cc1ce9d7",
+  "ResourceName": "63a0ac64-5d5f-4569-8a3d-df67cc1ce9d7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access improves security by ensuring that the App Service is not exposed on the public internet. Creating private endpoints can limit exposure of an App Service. Learn more at: https://aka.ms/app-service-private-endpoint.",
+    "DisplayName": "[Deprecated]: App Services should disable public network access",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "App Service",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Web/sites"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Web/sites/config",
+          "name": "web",
+          "existenceCondition": {
+            "field": "Microsoft.Web/sites/config/publicNetworkAccess",
+            "equals": "Disabled"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/63a0ac64-5d5f-4569-8a3d-df67cc1ce9d7"
+}

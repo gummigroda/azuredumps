@@ -1,0 +1,52 @@
+{
+  "Name": "a7aca53f-2ed4-4466-a25e-0b45ade68efd",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a7aca53f-2ed4-4466-a25e-0b45ade68efd",
+  "ResourceName": "a7aca53f-2ed4-4466-a25e-0b45ade68efd",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "DDoS protection should be enabled for all virtual networks with a subnet that is part of an application gateway with a public IP.",
+    "DisplayName": "Azure DDoS Protection should be enabled",
+    "Metadata": {
+      "version": "3.0.1",
+      "category": "Security Center"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "microsoft.network/virtualNetworks"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/assessments",
+          "name": "e3de1cc0-f4dd-3b34-e496-8b5381ba2d70",
+          "existenceCondition": {
+            "field": "Microsoft.Security/assessments/status.code",
+            "in": [
+              "NotApplicable",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a7aca53f-2ed4-4466-a25e-0b45ade68efd"
+}

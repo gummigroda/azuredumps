@@ -1,0 +1,52 @@
+{
+  "Name": "1e378679-f122-4a96-a739-a7729c46e1aa",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1e378679-f122-4a96-a739-a7729c46e1aa",
+  "ResourceName": "1e378679-f122-4a96-a739-a7729c46e1aa",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Protect your Cloud Services (extended support) role instances from threats and vulnerabilities by ensuring an endpoint protection solution is installed on them.",
+    "DisplayName": "Cloud Services (extended support) role instances should have an endpoint protection solution installed",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Security Center"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Compute/cloudServices"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/assessments",
+          "name": "e71020c2-860c-3235-cd39-04f3f8c936d2",
+          "existenceCondition": {
+            "field": "Microsoft.Security/assessments/status.code",
+            "in": [
+              "NotApplicable",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1e378679-f122-4a96-a739-a7729c46e1aa"
+}

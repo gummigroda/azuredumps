@@ -1,0 +1,55 @@
+{
+  "Name": "a1ad735a-e96f-45d2-a7b2-9a4932cab7ec",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a1ad735a-e96f-45d2-a7b2-9a4932cab7ec",
+  "ResourceName": "a1ad735a-e96f-45d2-a7b2-9a4932cab7ec",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Event Hubs supports the option of encrypting data at rest with either Microsoft-managed keys (default) or customer-managed keys. Choosing to encrypt data using customer-managed keys enables you to assign, rotate, disable, and revoke access to the keys that Event Hub will use to encrypt data in your namespace. Note that Event Hub only supports encryption with customer-managed keys for namespaces in dedicated clusters.",
+    "DisplayName": "Event Hub namespaces should use a customer-managed key for encryption",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Event Hub"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.EventHub/namespaces"
+          },
+          {
+            "field": "Microsoft.EventHub/namespaces/clusterArmId",
+            "exists": "true"
+          },
+          {
+            "not": {
+              "field": "Microsoft.EventHub/namespaces/encryption.keySource",
+              "equals": "Microsoft.Keyvault"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a1ad735a-e96f-45d2-a7b2-9a4932cab7ec"
+}

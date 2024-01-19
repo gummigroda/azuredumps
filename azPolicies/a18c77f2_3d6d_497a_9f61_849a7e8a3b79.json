@@ -1,0 +1,75 @@
+{
+  "Name": "a18c77f2-3d6d-497a-9f61-849a7e8a3b79",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a18c77f2-3d6d-497a-9f61-849a7e8a3b79",
+  "ResourceName": "a18c77f2-3d6d-497a-9f61-849a7e8a3b79",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use of HTTPS ensures server/service authentication and protects data in transit from network layer eavesdropping attacks.",
+    "DisplayName": "Configure App Service app slots to only be accessible over HTTPS",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "App Service"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "kind",
+            "notContains": "functionapp"
+          },
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites/slots"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.Web/sites/slots/httpsOnly",
+                "exists": "false"
+              },
+              {
+                "field": "Microsoft.Web/sites/slots/httpsOnly",
+                "equals": "false"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "roleDefinitionIds": [
+            "/providers/microsoft.authorization/roleDefinitions/de139f84-1756-47ae-9be6-808fbbe84772"
+          ],
+          "conflictEffect": "audit",
+          "operations": [
+            {
+              "condition": "[greaterOrEquals(requestContext().apiVersion, '2019-08-01')]",
+              "operation": "addOrReplace",
+              "field": "Microsoft.Web/sites/slots/httpsOnly",
+              "value": true
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a18c77f2-3d6d-497a-9f61-849a7e8a3b79"
+}

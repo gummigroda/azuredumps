@@ -1,0 +1,62 @@
+{
+  "Name": "a6f9a2d0-cff7-4855-83ad-4cd750666512",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a6f9a2d0-cff7-4855-83ad-4cd750666512",
+  "ResourceName": "a6f9a2d0-cff7-4855-83ad-4cd750666512",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable location authentication methods so that your Machine Learning Computes require Azure Active Directory identities exclusively for authentication. Learn more at: https://aka.ms/azure-ml-aad-policy.",
+    "DisplayName": "Configure Azure Machine Learning Computes to disable local authentication methods",
+    "Metadata": {
+      "version": "2.0.1",
+      "category": "Machine Learning"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MachineLearningServices/workspaces/computes"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/computes/disableLocalAuth",
+            "notEquals": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "conflictEffect": "audit",
+          "roleDefinitionIds": [
+            "/providers/microsoft.authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
+          ],
+          "operations": [
+            {
+              "operation": "addOrReplace",
+              "field": "Microsoft.MachineLearningServices/workspaces/computes/disableLocalAuth",
+              "value": true
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a6f9a2d0-cff7-4855-83ad-4cd750666512"
+}

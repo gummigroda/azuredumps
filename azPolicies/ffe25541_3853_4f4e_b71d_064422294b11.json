@@ -1,0 +1,49 @@
+{
+  "Name": "ffe25541-3853-4f4e-b71d-064422294b11",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ffe25541-3853-4f4e-b71d-064422294b11",
+  "ResourceName": "ffe25541-3853-4f4e-b71d-064422294b11",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To better secure developer portal, username and password authentication in API Management should be disabled. Configure user authentication through Azure AD or Azure AD B2C identity providers and disable the default username and password authentication.",
+    "DisplayName": "API Management should have username and password authentication disabled",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of this policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/portalconfigs"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/portalconfigs/enableBasicAuth",
+            "notEquals": false
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ffe25541-3853-4f4e-b71d-064422294b11"
+}

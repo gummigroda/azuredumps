@@ -1,0 +1,51 @@
+{
+  "Name": "0fc92280-604b-4f23-9e04-5ef98d1a28df",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0fc92280-604b-4f23-9e04-5ef98d1a28df",
+  "ResourceName": "0fc92280-604b-4f23-9e04-5ef98d1a28df",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "SQL Managed Instances can be configured to be Zone Redundant or not. Instances with the 'zoneRedundant' setting set to 'false' are not configured for zone redundancy. This policy helps identify SQL managedInstances that need zone redundancy configuration to enhance availability and resilience within Azure.",
+    "DisplayName": "[Preview]: SQL Managed Instances should be Zone Redundant",
+    "Metadata": {
+      "category": "Resilience",
+      "version": "1.0.0-preview",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "This parameter lets you choose the effect of the policy. If you choose Audit (default), the policy will only audit resources for compliance. If you choose Deny, the policy will deny the creation of non-compliant resources. If you choose Disabled, the policy will not enforce compliance (useful, for example, as a second assignment to ignore a subset of non-compliant resources in a single resource group)."
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/managedInstances"
+          },
+          {
+            "field": "Microsoft.Sql/managedInstances/zoneRedundant",
+            "equals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0fc92280-604b-4f23-9e04-5ef98d1a28df"
+}

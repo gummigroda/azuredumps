@@ -1,0 +1,48 @@
+{
+  "Name": "3375856c-3824-4e0e-ae6a-79e011dd4c47",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3375856c-3824-4e0e-ae6a-79e011dd4c47",
+  "ResourceName": "3375856c-3824-4e0e-ae6a-79e011dd4c47",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Virtual network based firewall rules are used to enable traffic from a specific subnet to Azure Database for MySQL while ensuring the traffic stays within the Azure boundary. This policy provides a way to audit if the Azure Database for MySQL has virtual network service endpoint being used.",
+    "DisplayName": "MySQL server should use a virtual network service endpoint",
+    "Metadata": {
+      "version": "1.0.2",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBforMySQL/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBforMySQL/servers/virtualNetworkRules",
+          "existenceCondition": {
+            "field": "Microsoft.DBforMySQL/servers/virtualNetworkRules/virtualNetworkSubnetId",
+            "exists": "true"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3375856c-3824-4e0e-ae6a-79e011dd4c47"
+}

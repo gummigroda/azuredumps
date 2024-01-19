@@ -1,0 +1,58 @@
+{
+  "Name": "0aa61e00-0a01-4a3c-9945-e93cffedf0e6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0aa61e00-0a01-4a3c-9945-e93cffedf0e6",
+  "ResourceName": "0aa61e00-0a01-4a3c-9945-e93cffedf0e6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Secure your containers with greater flexibility using customer-managed keys. When you specify a customer-managed key, that key is used to protect and control access to the key that encrypts your data. Using customer-managed keys provides additional capabilities to control rotation of the key encryption key or cryptographically erase data.",
+    "DisplayName": "Azure Container Instance container group should use customer-managed key for encryption",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Container Instance"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "Deny"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ContainerInstance/containerGroups"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.ContainerInstance/containerGroups/encryptionProperties.vaultBaseUrl",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.ContainerInstance/containerGroups/encryptionProperties.keyName",
+                "exists": false
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0aa61e00-0a01-4a3c-9945-e93cffedf0e6"
+}

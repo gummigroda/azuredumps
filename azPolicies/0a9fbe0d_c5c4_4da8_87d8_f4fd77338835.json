@@ -1,0 +1,50 @@
+{
+  "Name": "0a9fbe0d-c5c4-4da8-87d8-f4fd77338835",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0a9fbe0d-c5c4-4da8-87d8-f4fd77338835",
+  "ResourceName": "0a9fbe0d-c5c4-4da8-87d8-f4fd77338835",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Defender for open-source relational databases detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases. Learn more about the capabilities of Azure Defender for open-source relational databases at https://aka.ms/AzDforOpenSourceDBsDocu. Important: Enabling this plan will result in charges for protecting your open-source relational databases. Learn about the pricing on Security Center's pricing page: https://aka.ms/pricing-security-center",
+    "DisplayName": "Azure Defender for open-source relational databases should be enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Security Center"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/pricings",
+          "name": "OpenSourceRelationalDatabases",
+          "existenceScope": "subscription",
+          "existenceCondition": {
+            "field": "Microsoft.Security/pricings/pricingTier",
+            "equals": "Standard"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0a9fbe0d-c5c4-4da8-87d8-f4fd77338835"
+}

@@ -1,0 +1,61 @@
+{
+  "Name": "6d02d2f7-e38b-4bdc-96f3-adc0a8726abc",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/6d02d2f7-e38b-4bdc-96f3-adc0a8726abc",
+  "ResourceName": "6d02d2f7-e38b-4bdc-96f3-adc0a8726abc",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Minimize reboots and install updates quickly with hotpatch. Learn more at https://docs.microsoft.com/azure/automanage/automanage-hotpatch",
+    "DisplayName": "Hotpatch should be enabled for Windows Server Azure Edition VMs",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Automanage"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/virtualMachines"
+          },
+          {
+            "field": "Microsoft.Compute/virtualMachines/storageProfile.imageReference.sku",
+            "in": [
+              "2022-datacenter-azure-edition",
+              "2022-datacenter-azure-edition-core",
+              "2022-datacenter-azure-edition-core-smalldisk",
+              "2022-datacenter-azure-edition-smalldisk"
+            ]
+          },
+          {
+            "not": {
+              "field": "Microsoft.Compute/virtualMachines/osProfile.windowsConfiguration.patchSettings.enableHotpatching",
+              "equals": "true"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6d02d2f7-e38b-4bdc-96f3-adc0a8726abc"
+}

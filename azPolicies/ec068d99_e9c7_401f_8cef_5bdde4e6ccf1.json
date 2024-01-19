@@ -1,0 +1,58 @@
+{
+  "Name": "ec068d99-e9c7-401f-8cef-5bdde4e6ccf1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ec068d99-e9c7-401f-8cef-5bdde4e6ccf1",
+  "ResourceName": "ec068d99-e9c7-401f-8cef-5bdde4e6ccf1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enabling double encryption helps protect and safeguard your data to meet your organizational security and compliance commitments. When double encryption has been enabled, data in the storage account is encrypted twice, once at the service level and once at the infrastructure level, using two different encryption algorithms and two different keys.",
+    "DisplayName": "Double encryption should be enabled on Azure Data Explorer",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "Azure Data Explorer"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Kusto/Clusters"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.Kusto/clusters/enableDoubleEncryption",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.Kusto/clusters/enableDoubleEncryption",
+                "equals": false
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ec068d99-e9c7-401f-8cef-5bdde4e6ccf1"
+}

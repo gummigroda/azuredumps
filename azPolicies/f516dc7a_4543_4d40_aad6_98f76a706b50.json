@@ -1,0 +1,60 @@
+{
+  "Name": "f516dc7a-4543-4d40-aad6-98f76a706b50",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f516dc7a-4543-4d40-aad6-98f76a706b50",
+  "ResourceName": "f516dc7a-4543-4d40-aad6-98f76a706b50",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Intrusion Detection and Prevention System (IDPS) Bypass List allows you to not filter traffic to any of the IP addresses, ranges, and subnets specified in the bypass list. However, enabling IDPS is recommanded for all traffic flows to better identify known threats. To learn more about the Intrusion Detection and Prevention System (IDPS) signatures with Azure Firewall Premium, visit https://aka.ms/fw-idps-signature",
+    "DisplayName": "Bypass list of Intrusion Detection and Prevention System (IDPS) should be empty in Firewall Policy Premium",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/firewallPolicies"
+          },
+          {
+            "field": "Microsoft.Network/firewallPolicies/sku.tier",
+            "equals": "Premium"
+          },
+          {
+            "field": "Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings",
+            "exists": true
+          },
+          {
+            "count": {
+              "field": "Microsoft.Network/firewallPolicies/intrusionDetection.configuration.bypassTrafficSettings[*]"
+            },
+            "notEquals": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f516dc7a-4543-4d40-aad6-98f76a706b50"
+}

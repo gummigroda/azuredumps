@@ -1,0 +1,61 @@
+{
+  "Name": "1b0d74ac-4b43-4c39-a15f-594385adc38d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1b0d74ac-4b43-4c39-a15f-594385adc38d",
+  "ResourceName": "1b0d74ac-4b43-4c39-a15f-594385adc38d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To better secure developer portal user accounts and their credentials, configure user authentication through Azure AD or Azure AD B2C identity providers and disable the default username and password authentication.",
+    "DisplayName": "Modify API Management to disable username and password authentication",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "To better secure developer portal user accounts and their credentials, configure user authentication through Azure AD or Azure AD B2C identity providers and disable the default username and password authentication."
+        },
+        "allowedValues": [
+          "Modify"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/portalconfigs"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/portalconfigs/enableBasicAuth",
+            "notEquals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "roleDefinitionIds": [
+            "/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
+          ],
+          "conflictEffect": "audit",
+          "operations": [
+            {
+              "operation": "addOrReplace",
+              "field": "Microsoft.ApiManagement/service/portalconfigs/enableBasicAuth",
+              "value": false
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1b0d74ac-4b43-4c39-a15f-594385adc38d"
+}

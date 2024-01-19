@@ -1,0 +1,45 @@
+{
+  "Name": "1d39b5d9-0392-8954-8359-575ce1957d1a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1d39b5d9-0392-8954-8359-575ce1957d1a",
+  "ResourceName": "1d39b5d9-0392-8954-8359-575ce1957d1a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0507 - Support personal verification credentials issued by legal authorities",
+    "DisplayName": "Support personal verification credentials issued by legal authorities",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0507"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1d39b5d9-0392-8954-8359-575ce1957d1a"
+}

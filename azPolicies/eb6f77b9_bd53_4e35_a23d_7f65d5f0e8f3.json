@@ -1,0 +1,49 @@
+{
+  "Name": "eb6f77b9-bd53-4e35-a23d-7f65d5f0e8f3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/eb6f77b9-bd53-4e35-a23d-7f65d5f0e8f3",
+  "ResourceName": "eb6f77b9-bd53-4e35-a23d-7f65d5f0e8f3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy helps audit any PostgreSQL databases in your environment without log_duration setting enabled.",
+    "DisplayName": "Log duration should be enabled for PostgreSQL database servers",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBforPostgreSQL/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBforPostgreSQL/servers/configurations",
+          "name": "log_duration",
+          "existenceCondition": {
+            "field": "Microsoft.DBforPostgreSQL/servers/configurations/value",
+            "equals": "ON"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/eb6f77b9-bd53-4e35-a23d-7f65d5f0e8f3"
+}

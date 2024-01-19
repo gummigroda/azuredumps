@@ -1,0 +1,59 @@
+{
+  "Name": "0b15565f-aa9e-48ba-8619-45960f2c314d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0b15565f-aa9e-48ba-8619-45960f2c314d",
+  "ResourceName": "0b15565f-aa9e-48ba-8619-45960f2c314d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To ensure your subscription owners are notified when there is a potential security breach in their subscription, set email notifications to subscription owners for high severity alerts in Security Center.",
+    "DisplayName": "Email notification to subscription owner for high severity alerts should be enabled",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "Security Center"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/securityContacts",
+          "existenceScope": "subscription",
+          "existenceCondition": {
+            "not": {
+              "allOf": [
+                {
+                  "field": "Microsoft.Security/securityContacts/alertsToAdmins",
+                  "equals": "Off"
+                },
+                {
+                  "field": "Microsoft.Security/securityContacts/alertNotifications.minimalSeverity",
+                  "equals": "High"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0b15565f-aa9e-48ba-8619-45960f2c314d"
+}

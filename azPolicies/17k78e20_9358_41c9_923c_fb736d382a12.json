@@ -1,0 +1,65 @@
+{
+  "Name": "17k78e20-9358-41c9-923c-fb736d382a12",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/17k78e20-9358-41c9-923c-fb736d382a12",
+  "ResourceName": "17k78e20-9358-41c9-923c-fb736d382a12",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Transparent data encryption should be enabled to protect data-at-rest and meet compliance requirements",
+    "DisplayName": "Transparent Data Encryption on SQL databases should be enabled",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/servers/databases"
+          },
+          {
+            "field": "name",
+            "notEquals": "master"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/databases/transparentDataEncryption",
+          "name": "current",
+          "existenceCondition": {
+            "anyOf": [
+              {
+                "field": "Microsoft.Sql/transparentDataEncryption.status",
+                "equals": "enabled"
+              },
+              {
+                "field": "Microsoft.Sql/servers/databases/transparentDataEncryption/state",
+                "equals": "enabled"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/17k78e20-9358-41c9-923c-fb736d382a12"
+}

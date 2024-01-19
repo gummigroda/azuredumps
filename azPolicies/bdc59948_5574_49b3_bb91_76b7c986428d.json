@@ -1,0 +1,51 @@
+{
+  "Name": "bdc59948-5574-49b3-bb91-76b7c986428d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/bdc59948-5574-49b3-bb91-76b7c986428d",
+  "ResourceName": "bdc59948-5574-49b3-bb91-76b7c986428d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy definition is no longer the recommended way to achieve its intent, because DNS bundle is being deprecated. Instead of continuing to use this policy, we recommend you assign this replacement policy with policy ID 4da35fc9-c9e7-4960-aec9-797fe7d9051d. Learn more about policy definition deprecation at aka.ms/policydefdeprecation",
+    "DisplayName": "[Deprecated]: Azure Defender for DNS should be enabled",
+    "Metadata": {
+      "version": "1.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "Disabled"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/pricings",
+          "name": "Dns",
+          "existenceScope": "subscription",
+          "existenceCondition": {
+            "field": "Microsoft.Security/pricings/pricingTier",
+            "equals": "Standard"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/bdc59948-5574-49b3-bb91-76b7c986428d"
+}

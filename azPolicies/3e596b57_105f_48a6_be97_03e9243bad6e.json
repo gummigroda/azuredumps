@@ -1,0 +1,56 @@
+{
+  "Name": "3e596b57-105f-48a6-be97-03e9243bad6e",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3e596b57-105f-48a6-be97-03e9243bad6e",
+  "ResourceName": "3e596b57-105f-48a6-be97-03e9243bad6e",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy ensures that Security and Audit is deployed.",
+    "DisplayName": "Azure Monitor solution 'Security and Audit' must be deployed",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Monitoring"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.OperationsManagement/solutions",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.OperationsManagement/solutions/provisioningState",
+                "equals": "Succeeded"
+              },
+              {
+                "field": "name",
+                "like": "Security(*)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3e596b57-105f-48a6-be97-03e9243bad6e"
+}

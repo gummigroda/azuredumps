@@ -1,0 +1,48 @@
+{
+  "Name": "0c2b3618-68a8-4034-a150-ff4abc873462",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0c2b3618-68a8-4034-a150-ff4abc873462",
+  "ResourceName": "0c2b3618-68a8-4034-a150-ff4abc873462",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Private endpoint connections allow secure communication by enabling private connectivity to Automation accounts without a need for public IP addresses at the source or destination. Learn more about private endpoints in Azure Automation at https://docs.microsoft.com/azure/automation/how-to/private-link-security",
+    "DisplayName": "Private endpoint connections on Automation Accounts should be enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Automation"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Automation/automationAccounts"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Automation/automationAccounts/privateEndpointConnections",
+          "existenceCondition": {
+            "field": "Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status",
+            "equals": "Approved"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0c2b3618-68a8-4034-a150-ff4abc873462"
+}

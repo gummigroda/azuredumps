@@ -1,0 +1,31 @@
+{
+  "Name": "cd8dc879-a2ae-43c3-8211-1877c5755064",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/cd8dc879-a2ae-43c3-8211-1877c5755064",
+  "ResourceName": "cd8dc879-a2ae-43c3-8211-1877c5755064",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Allows resource creation only if the 'department' tag is set",
+    "DisplayName": "[Deprecated]: Allow resource creation if 'department' tag set",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Tags",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "not": {
+          "field": "tags",
+          "containsKey": "department"
+        }
+      },
+      "then": {
+        "effect": "Deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cd8dc879-a2ae-43c3-8211-1877c5755064"
+}

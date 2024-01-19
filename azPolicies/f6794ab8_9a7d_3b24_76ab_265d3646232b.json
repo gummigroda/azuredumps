@@ -1,0 +1,45 @@
+{
+  "Name": "f6794ab8-9a7d-3b24-76ab-265d3646232b",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f6794ab8-9a7d-3b24-76ab-265d3646232b",
+  "ResourceName": "f6794ab8-9a7d-3b24-76ab-265d3646232b",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1097 - Provide role-based training on suspicious activities",
+    "DisplayName": "Provide role-based training on suspicious activities",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1097"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f6794ab8-9a7d-3b24-76ab-265d3646232b"
+}

@@ -1,0 +1,72 @@
+{
+  "Name": "73ef9241-5d81-4cd4-b483-8443d1730fe5",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/73ef9241-5d81-4cd4-b483-8443d1730fe5",
+  "ResourceName": "73ef9241-5d81-4cd4-b483-8443d1730fe5",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "With supported SKUs of API Management, deploying service into a virtual network unlocks advanced API Management networking and security features which provides you greater control over your network security configuration. Learn more at: https://aka.ms/apimvnet.",
+    "DisplayName": "API Management service should use a SKU that supports virtual networks",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "API Management"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      },
+      "listOfAllowedSKUs": {
+        "type": "Array",
+        "metadata": {
+          "description": "The list of SKUs that can be specified for Azure API Management service.",
+          "displayName": "Allowed SKUs"
+        },
+        "allowedValues": [
+          "Developer",
+          "Basic",
+          "Standard",
+          "Premium",
+          "Isolated",
+          "Consumption"
+        ],
+        "defaultValue": [
+          "Developer",
+          "Premium",
+          "Isolated"
+        ]
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service"
+          },
+          {
+            "not": {
+              "field": "Microsoft.ApiManagement/service/sku.name",
+              "in": "[parameters('listOfAllowedSKUs')]"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/73ef9241-5d81-4cd4-b483-8443d1730fe5"
+}

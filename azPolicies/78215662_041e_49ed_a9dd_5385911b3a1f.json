@@ -1,0 +1,82 @@
+{
+  "Name": "78215662-041e-49ed-a9dd-5385911b3a1f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/78215662-041e-49ed-a9dd-5385911b3a1f",
+  "ResourceName": "78215662-041e-49ed-a9dd-5385911b3a1f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling local authentication methods and allowing only Microsoft Entra authentication improves security by ensuring that Azure SQL Managed Instances can exclusively be accessed by Microsoft Entra identities. Learn more at: aka.ms/adonlycreate.",
+    "DisplayName": "Azure SQL Managed Instance should have Microsoft Entra-only authentication enabled",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "anyOf": [
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Sql/managedInstances"
+              },
+              {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.Sql/managedInstances/administrators.azureADOnlyAuthentication",
+                    "exists": false
+                  },
+                  {
+                    "field": "Microsoft.Sql/managedInstances/administrators.azureADOnlyAuthentication",
+                    "equals": "false"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications"
+              },
+              {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/azureADOnlyAuthentication",
+                    "exists": false
+                  },
+                  {
+                    "field": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/azureADOnlyAuthentication",
+                    "equals": "false"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/78215662-041e-49ed-a9dd-5385911b3a1f"
+}

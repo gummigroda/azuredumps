@@ -1,0 +1,49 @@
+{
+  "Name": "235359c5-7c52-4b82-9055-01c75cf9f60e",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/235359c5-7c52-4b82-9055-01c75cf9f60e",
+  "ResourceName": "235359c5-7c52-4b82-9055-01c75cf9f60e",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy audits any Service Bus not configured to use a virtual network service endpoint. The resource type Microsoft.ServiceBus/namespaces/virtualNetworkRules is deprecated in the latest API version.",
+    "DisplayName": "[Deprecated]: Service Bus should use a virtual network service endpoint",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Network",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ServiceBus/namespaces"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.ServiceBus/namespaces/virtualNetworkRules",
+          "existenceCondition": {
+            "field": "Microsoft.ServiceBus/namespaces/virtualNetworkRules/virtualNetworkSubnetId",
+            "exists": "true"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/235359c5-7c52-4b82-9055-01c75cf9f60e"
+}

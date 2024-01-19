@@ -1,0 +1,56 @@
+{
+  "Name": "9ace2dbc-4b71-48b6-b2a7-428b0b2e3944",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9ace2dbc-4b71-48b6-b2a7-428b0b2e3944",
+  "ResourceName": "9ace2dbc-4b71-48b6-b2a7-428b0b2e3944",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual network to Azure services without a public IP address at the source or destination. The private link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to your IoT Central application instead of the entire service, you'll reduce your data leakage risks. Learn more about private links at: https://aka.ms/iotcentral-network-security-using-pe.",
+    "DisplayName": "IoT Central should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Internet of Things"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.IoTCentral/iotApps"
+          },
+          {
+            "count": {
+              "field": "Microsoft.IoTCentral/iotApps/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.IoTCentral/iotApps/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9ace2dbc-4b71-48b6-b2a7-428b0b2e3944"
+}

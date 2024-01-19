@@ -1,0 +1,55 @@
+{
+  "Name": "258823f2-4595-4b52-b333-cc96192710d8",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/258823f2-4595-4b52-b333-cc96192710d8",
+  "ResourceName": "258823f2-4595-4b52-b333-cc96192710d8",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual networks to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to Azure Databricks workspaces, you can reduce data leakage risks. Learn more about private links at: https://aka.ms/adbpe.",
+    "DisplayName": "Azure Databricks Workspaces should use private link",
+    "Metadata": {
+      "version": "1.0.2",
+      "category": "Azure Databricks"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Databricks/workspaces"
+          },
+          {
+            "count": {
+              "field": "Microsoft.Databricks/workspaces/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.Databricks/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/258823f2-4595-4b52-b333-cc96192710d8"
+}

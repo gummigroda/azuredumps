@@ -1,0 +1,50 @@
+{
+  "Name": "eb4d34ab-0929-491c-bbf3-61e13da19f9a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/eb4d34ab-0929-491c-bbf3-61e13da19f9a",
+  "ResourceName": "eb4d34ab-0929-491c-bbf3-61e13da19f9a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Only allow App Service Environment version 2 or version 3 to be provisioned. Older versions of App Service Environment require manual management of Azure resources and have greater scaling limitations.",
+    "DisplayName": "App Service Environment should be provisioned with latest versions",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "App Service"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/hostingEnvironments"
+          },
+          {
+            "field": "kind",
+            "equals": "ASEV1"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/eb4d34ab-0929-491c-bbf3-61e13da19f9a"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "94c842e3-8098-38f9-6d3f-8872b790527d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/94c842e3-8098-38f9-6d3f-8872b790527d",
+  "ResourceName": "94c842e3-8098-38f9-6d3f-8872b790527d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1833 - Remove or redact any PII",
+    "DisplayName": "Remove or redact any PII",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1833"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/94c842e3-8098-38f9-6d3f-8872b790527d"
+}

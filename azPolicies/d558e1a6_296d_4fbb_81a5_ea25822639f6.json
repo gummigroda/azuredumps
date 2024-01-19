@@ -1,0 +1,56 @@
+{
+  "Name": "d558e1a6-296d-4fbb-81a5-ea25822639f6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d558e1a6-296d-4fbb-81a5-ea25822639f6",
+  "ResourceName": "d558e1a6-296d-4fbb-81a5-ea25822639f6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disallow the use of NFSv3 protocol type to prevent unsecure access to volumes. NFSv4.1 with Kerberos protocol should be used to access NFS volumes to ensure data integrity and encryption.",
+    "DisplayName": "Azure NetApp Files Volumes should not use NFSv3 protocol type",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Storage"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes"
+          },
+          {
+            "count": {
+              "field": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/protocolTypes[*]",
+              "where": {
+                "field": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/protocolTypes[*]",
+                "equals": "NFSv3"
+              }
+            },
+            "greater": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d558e1a6-296d-4fbb-81a5-ea25822639f6"
+}

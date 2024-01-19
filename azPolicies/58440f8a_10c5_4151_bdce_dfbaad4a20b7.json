@@ -1,0 +1,55 @@
+{
+  "Name": "58440f8a-10c5-4151-bdce-dfbaad4a20b7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/58440f8a-10c5-4151-bdce-dfbaad4a20b7",
+  "ResourceName": "58440f8a-10c5-4151-bdce-dfbaad4a20b7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual network to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to your CosmosDB account, data leakage risks are reduced. Learn more about private links at: https://docs.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints.",
+    "DisplayName": "CosmosDB accounts should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Cosmos DB"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DocumentDB/databaseAccounts"
+          },
+          {
+            "count": {
+              "field": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/58440f8a-10c5-4151-bdce-dfbaad4a20b7"
+}

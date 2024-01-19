@@ -1,0 +1,49 @@
+{
+  "Name": "1b7aa243-30e4-4c9e-bca8-d0d3022b634a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1b7aa243-30e4-4c9e-bca8-d0d3022b634a",
+  "ResourceName": "1b7aa243-30e4-4c9e-bca8-d0d3022b634a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit each SQL Managed Instance which doesn't have recurring vulnerability assessment scans enabled. Vulnerability assessment can discover, track, and help you remediate potential database vulnerabilities.",
+    "DisplayName": "Vulnerability assessment should be enabled on SQL Managed Instance",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Sql/managedInstances"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/managedInstances/vulnerabilityAssessments",
+          "name": "default",
+          "existenceCondition": {
+            "field": "Microsoft.Sql/managedInstances/vulnerabilityAssessments/recurringScans.isEnabled",
+            "equals": "True"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1b7aa243-30e4-4c9e-bca8-d0d3022b634a"
+}

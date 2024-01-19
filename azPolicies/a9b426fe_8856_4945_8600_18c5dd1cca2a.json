@@ -1,0 +1,62 @@
+{
+  "Name": "a9b426fe-8856-4945-8600-18c5dd1cca2a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a9b426fe-8856-4945-8600-18c5dd1cca2a",
+  "ResourceName": "a9b426fe-8856-4945-8600-18c5dd1cca2a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable repository scoped access tokens for your registry so that repositories are not accessible by tokens. Disabling local authentication methods like admin user, repository scoped access tokens and anonymous pull improves security by ensuring that container registries exclusively require Azure Active Directory identities for authentication. Learn more at: https://aka.ms/acr/authentication.",
+    "DisplayName": "Configure container registries to disable repository scoped access token.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Container Registry"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ContainerRegistry/registries/tokens"
+          },
+          {
+            "field": "Microsoft.ContainerRegistry/registries/tokens/status",
+            "notequals": "disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "conflictEffect": "audit",
+          "roleDefinitionIds": [
+            "/providers/microsoft.authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
+          ],
+          "operations": [
+            {
+              "operation": "addOrReplace",
+              "field": "Microsoft.ContainerRegistry/registries/tokens/status",
+              "value": "disabled"
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a9b426fe-8856-4945-8600-18c5dd1cca2a"
+}

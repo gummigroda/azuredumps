@@ -1,0 +1,67 @@
+{
+  "Name": "be7ed5c8-2660-4136-8216-e6f3412ba909",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/be7ed5c8-2660-4136-8216-e6f3412ba909",
+  "ResourceName": "be7ed5c8-2660-4136-8216-e6f3412ba909",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Requires Web Application Firewall on any Azure Front Door Service or Application Gateway. A Web Application Firewall provides greater security for your other Azure resources.",
+    "DisplayName": "[Deprecated]: Web Application Firewall should be enabled for Azure Front Door Service or Application Gateway",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Network",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "anyOf": [
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Network/frontdoors"
+              },
+              {
+                "field": "Microsoft.Network/frontdoors/frontendEndpoints[*].webApplicationFirewallPolicyLink.id",
+                "exists": "false"
+              }
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Network/applicationGateways"
+              },
+              {
+                "field": "Microsoft.Network/applicationGateways/webApplicationFirewallConfiguration",
+                "exists": "false"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/be7ed5c8-2660-4136-8216-e6f3412ba909"
+}

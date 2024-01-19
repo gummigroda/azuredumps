@@ -1,0 +1,46 @@
+{
+  "Name": "7a8a51a3-ad87-4def-96f3-65a1839242b6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7a8a51a3-ad87-4def-96f3-65a1839242b6",
+  "ResourceName": "7a8a51a3-ad87-4def-96f3-65a1839242b6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Restricting Azure Lighthouse delegations to specific managing tenants increases security by limiting those who can manage your Azure resources.",
+    "DisplayName": "Allow managing tenant ids to onboard through Azure Lighthouse",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Lighthouse"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "listOfAllowedTenants": {
+        "type": "Array",
+        "metadata": {
+          "displayName": "Allowed tenants",
+          "description": "List of the tenants IDs that can be onboarded through Azure Lighthouse"
+        }
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ManagedServices/registrationDefinitions"
+          },
+          {
+            "not": {
+              "field": "Microsoft.ManagedServices/registrationDefinitions/managedByTenantId",
+              "in": "[parameters('listOfAllowedTenants')]"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7a8a51a3-ad87-4def-96f3-65a1839242b6"
+}

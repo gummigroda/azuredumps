@@ -1,0 +1,45 @@
+{
+  "Name": "1e30110a-5ceb-460c-a204-c1c3969c6d62",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1e30110a-5ceb-460c-a204-c1c3969c6d62",
+  "ResourceName": "1e30110a-5ceb-460c-a204-c1c3969c6d62",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enforces a required tag and its value. Does not apply to resource groups.",
+    "DisplayName": "Require a tag and its value on resources",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Tags"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "tagName": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Tag Name",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      },
+      "tagValue": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Tag Value",
+          "description": "Value of the tag, such as 'production'"
+        }
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "not": {
+          "field": "[concat('tags[', parameters('tagName'), ']')]",
+          "equals": "[parameters('tagValue')]"
+        }
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1e30110a-5ceb-460c-a204-c1c3969c6d62"
+}

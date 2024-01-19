@@ -1,0 +1,50 @@
+{
+  "Name": "c25dcf31-878f-4eba-98eb-0818fdc6a334",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c25dcf31-878f-4eba-98eb-0818fdc6a334",
+  "ResourceName": "c25dcf31-878f-4eba-98eb-0818fdc6a334",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access improves security and keeps your data safe by ensuring that access to the Azure Virtual Desktop service is not exposed to the public internet. Learn more at: https://aka.ms/avdprivatelink.",
+    "DisplayName": "Azure Virtual Desktop hostpools should disable public network access",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Desktop Virtualization"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DesktopVirtualization/hostpools"
+          },
+          {
+            "field": "Microsoft.DesktopVirtualization/hostPools/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c25dcf31-878f-4eba-98eb-0818fdc6a334"
+}

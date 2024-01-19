@@ -1,0 +1,56 @@
+{
+  "Name": "1c06e275-d63d-4540-b761-71f364c2111d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1c06e275-d63d-4540-b761-71f364c2111d",
+  "ResourceName": "1c06e275-d63d-4540-b761-71f364c2111d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual network to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to Service Bus namespaces, data leakage risks are reduced. Learn more at: https://docs.microsoft.com/azure/service-bus-messaging/private-link-service.",
+    "DisplayName": "Azure Service Bus namespaces should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Service Bus"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ServiceBus/namespaces"
+          },
+          {
+            "field": "Microsoft.ServiceBus/namespaces/sku.tier",
+            "equals": "Premium"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.ServiceBus/namespaces/privateEndpointConnections",
+          "existenceCondition": {
+            "field": "Microsoft.ServiceBus/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status",
+            "equals": "Approved"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1c06e275-d63d-4540-b761-71f364c2111d"
+}

@@ -1,0 +1,63 @@
+{
+  "Name": "e84e8a9a-f43e-46e3-9458-bbcfb2d7e429",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e84e8a9a-f43e-46e3-9458-bbcfb2d7e429",
+  "ResourceName": "e84e8a9a-f43e-46e3-9458-bbcfb2d7e429",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable public network access for your Azure Virtual Desktop hostpool session hosts, but allow public access for end users. This allows users to still access AVD service while ensuring the session host is only accessible through private routes. Learn more at: https://aka.ms/avdprivatelink.",
+    "DisplayName": "Configure Azure Virtual Desktop hostpools to disable public network access only for session hosts",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Desktop Virtualization"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DesktopVirtualization/hostpools"
+          },
+          {
+            "field": "Microsoft.DesktopVirtualization/hostPools/publicNetworkAccess",
+            "notEquals": "EnabledForClientsOnly"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "roleDefinitionIds": [
+            "/providers/Microsoft.Authorization/roleDefinitions/e307426c-f9b6-4e81-87de-d99efb3c32bc"
+          ],
+          "conflictEffect": "audit",
+          "operations": [
+            {
+              "condition": "[greaterOrEquals(requestContext().apiVersion, '2022-04-01-preview')]",
+              "operation": "addOrReplace",
+              "field": "Microsoft.DesktopVirtualization/hostPools/publicNetworkAccess",
+              "value": "EnabledForClientsOnly"
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e84e8a9a-f43e-46e3-9458-bbcfb2d7e429"
+}

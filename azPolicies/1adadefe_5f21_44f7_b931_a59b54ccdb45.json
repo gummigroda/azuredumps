@@ -1,0 +1,54 @@
+{
+  "Name": "1adadefe-5f21-44f7-b931-a59b54ccdb45",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1adadefe-5f21-44f7-b931-a59b54ccdb45",
+  "ResourceName": "1adadefe-5f21-44f7-b931-a59b54ccdb45",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access improves security by ensuring that the resource isn't exposed on the public internet. You can limit exposure of your resources by creating private endpoints instead. Learn more at: https://aka.ms/privateendpoints.",
+    "DisplayName": "Azure Event Grid topics should disable public network access",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Event Grid"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.EventGrid/topics"
+          },
+          {
+            "field": "kind",
+            "notEquals": "AzureArc"
+          },
+          {
+            "field": "Microsoft.EventGrid/topics/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1adadefe-5f21-44f7-b931-a59b54ccdb45"
+}

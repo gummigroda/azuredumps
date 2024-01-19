@@ -1,0 +1,55 @@
+{
+  "Name": "f7735886-8927-431f-b201-c953922512b8",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f7735886-8927-431f-b201-c953922512b8",
+  "ResourceName": "f7735886-8927-431f-b201-c953922512b8",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual network to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to your Azure Data Explorer cluster, data leakage risks are reduced. Learn more about private links at: https://learn.microsoft.com/en-us/azure/data-explorer/security-network-private-endpoint.",
+    "DisplayName": "Azure Data Explorer cluster should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Azure Data Explorer"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Kusto/Clusters"
+          },
+          {
+            "count": {
+              "field": "Microsoft.Kusto/Clusters/PrivateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.Kusto/Clusters/PrivateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f7735886-8927-431f-b201-c953922512b8"
+}

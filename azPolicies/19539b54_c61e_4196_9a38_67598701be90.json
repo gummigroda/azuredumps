@@ -1,0 +1,83 @@
+{
+  "Name": "19539b54-c61e-4196-9a38-67598701be90",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/19539b54-c61e-4196-9a38-67598701be90",
+  "ResourceName": "19539b54-c61e-4196-9a38-67598701be90",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Only deploy Registry Models in the allowed Registry and that are not restricted.",
+    "DisplayName": "[Preview]: Azure Machine Learning Model Registry Deployments are restricted except for the allowed Registry",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Machine Learning",
+      "preview": true
+    },
+    "Mode": "Microsoft.MachineLearningServices.v2.Data",
+    "Parameters": {
+      "allowedRegistryName": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Allowed Registry Name",
+          "description": "The exact registry name where models are allowed to be deployed. If not set, by default all models from all registries will be restricted."
+        },
+        "defaultValue": ""
+      },
+      "restrictedModels": {
+        "type": "Array",
+        "metadata": {
+          "displayName": "Restricted Model AssetIds",
+          "description": "The list of Model AssetIds from the allowedRegistryName to be restricted from being deployed. If not set, by default all models from the allowedRegistryName will be allowed."
+        },
+        "defaultValue": []
+      },
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Deny' restricts deploying the registry models except for the allowedRegistryName."
+        },
+        "allowedValues": [
+          "Deny",
+          "Disabled"
+        ]
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments/model.assetId",
+                "in": "[parameters('restrictedModels')]"
+              },
+              {
+                "allOf": [
+                  {
+                    "field": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments/model.assetId",
+                    "like": "azureml://registries/*"
+                  },
+                  {
+                    "not": {
+                      "field": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments/model.assetId",
+                      "like": "[concat('azureml://registries/', parameters('allowedRegistryName'), '/*')]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/19539b54-c61e-4196-9a38-67598701be90"
+}

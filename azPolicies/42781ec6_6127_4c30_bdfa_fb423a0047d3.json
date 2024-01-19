@@ -1,0 +1,62 @@
+{
+  "Name": "42781ec6-6127-4c30-bdfa-fb423a0047d3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/42781ec6-6127-4c30-bdfa-fb423a0047d3",
+  "ResourceName": "42781ec6-6127-4c30-bdfa-fb423a0047d3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable Azure Active Directory ARM audience tokens for authentication to your registry. Only Azure Container Registry (ACR) audience tokens will be used for authentication. This will ensure only tokens meant for usage on the registry can be used for authentication. Disabling ARM audience tokens does not affect admin user's or scoped access tokens' authentication. Learn more at: https://aka.ms/acr/authentication.",
+    "DisplayName": "Container registries should have ARM audience token authentication disabled.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Container Registry"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ContainerRegistry/registries"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.ContainerRegistry/registries/policies.azureADAuthenticationAsArmPolicy",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.ContainerRegistry/registries/policies.azureADAuthenticationAsArmPolicy.status",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.ContainerRegistry/registries/policies.azureADAuthenticationAsArmPolicy.status",
+                "equals": "enabled"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/42781ec6-6127-4c30-bdfa-fb423a0047d3"
+}

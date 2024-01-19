@@ -1,0 +1,58 @@
+{
+  "Name": "c39ba22d-4428-4149-b981-70acb31fc383",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c39ba22d-4428-4149-b981-70acb31fc383",
+  "ResourceName": "c39ba22d-4428-4149-b981-70acb31fc383",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Malicious deletion of an Azure Key Vault Managed HSM can lead to permanent data loss. A malicious insider in your organization can potentially delete and purge Azure Key Vault Managed HSM. Purge protection protects you from insider attacks by enforcing a mandatory retention period for soft deleted Azure Key Vault Managed HSM. No one inside your organization or Microsoft will be able to purge your Azure Key Vault Managed HSM during the soft delete retention period.",
+    "DisplayName": "Azure Key Vault Managed HSM should have purge protection enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Key Vault"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.KeyVault/managedHsms"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.KeyVault/managedHsms/enableSoftDelete",
+                "notEquals": "true"
+              },
+              {
+                "field": "Microsoft.KeyVault/managedHsms/enablePurgeProtection",
+                "notEquals": "true"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c39ba22d-4428-4149-b981-70acb31fc383"
+}

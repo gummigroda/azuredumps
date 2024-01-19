@@ -1,0 +1,48 @@
+{
+  "Name": "4a591bf5-918e-4a5f-8dad-841863140d61",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4a591bf5-918e-4a5f-8dad-841863140d61",
+  "ResourceName": "4a591bf5-918e-4a5f-8dad-841863140d61",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual networks to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to Media Services, you can reduce data leakage risks. Learn more about private links at: https://aka.ms/mediaservicesprivatelinkdocs.",
+    "DisplayName": "Azure Media Services should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Media Services"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Media/mediaservices"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Media/mediaservices/privateEndpointConnections",
+          "existenceCondition": {
+            "field": "Microsoft.Media/mediaservices/privateEndpointConnections/privateLinkServiceConnectionState.status",
+            "equals": "Approved"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4a591bf5-918e-4a5f-8dad-841863140d61"
+}

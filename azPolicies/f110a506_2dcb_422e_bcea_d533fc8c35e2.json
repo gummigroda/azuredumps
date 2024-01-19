@@ -1,0 +1,53 @@
+{
+  "Name": "f110a506-2dcb-422e-bcea-d533fc8c35e2",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f110a506-2dcb-422e-bcea-d533fc8c35e2",
+  "ResourceName": "f110a506-2dcb-422e-bcea-d533fc8c35e2",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure Azure Machine Learning compute instances run on the latest available operating system. Security is improved and vulnerabilities reduced by running with the latest security patches. For more information, visit https://aka.ms/azureml-ci-updates/.",
+    "DisplayName": "Azure Machine Learning compute instances should be recreated to get the latest software updates",
+    "Metadata": {
+      "version": "1.0.3",
+      "category": "Machine Learning"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effects": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The effect determines what happens when the policy rule is evaluated to match."
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MachineLearningServices/workspaces/computes"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/computes/computeType",
+            "equals": "ComputeInstance"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.isLatestOsImageVersion",
+            "equals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effects')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f110a506-2dcb-422e-bcea-d533fc8c35e2"
+}

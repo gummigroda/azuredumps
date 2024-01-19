@@ -1,0 +1,45 @@
+{
+  "Name": "55a7f9a0-6397-7589-05ef-5ed59a8149e7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/55a7f9a0-6397-7589-05ef-5ed59a8149e7",
+  "ResourceName": "55a7f9a0-6397-7589-05ef-5ed59a8149e7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0081 - Control physical access",
+    "DisplayName": "Control physical access",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0081"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/55a7f9a0-6397-7589-05ef-5ed59a8149e7"
+}

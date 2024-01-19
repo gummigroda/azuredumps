@@ -1,0 +1,58 @@
+{
+  "Name": "5e1de0e3-42cb-4ebc-a86d-61d0c619ca48",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/5e1de0e3-42cb-4ebc-a86d-61d0c619ca48",
+  "ResourceName": "5e1de0e3-42cb-4ebc-a86d-61d0c619ca48",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling the public network access property improves security by ensuring your Azure Database for PostgreSQL flexible servers can only be accessed from a private endpoint. This configuration strictly disables access from any public address space outside of Azure IP range and denies all logins that match IP or virtual network-based firewall rules.",
+    "DisplayName": "Public network access should be disabled for PostgreSQL flexible servers",
+    "Metadata": {
+      "version": "3.0.1",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DBforPostgreSQL/flexibleServers"
+          },
+          {
+            "field": "Microsoft.DBforPostgreSQL/flexibleServers/createMode",
+            "notEquals": "Update"
+          },
+          {
+            "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.delegatedSubnetResourceId",
+            "exists": "false"
+          },
+          {
+            "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.privateDnsZoneArmResourceId",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5e1de0e3-42cb-4ebc-a86d-61d0c619ca48"
+}

@@ -1,0 +1,54 @@
+{
+  "Name": "3aa03346-d8c5-4994-a5bc-7652c2a2aef1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3aa03346-d8c5-4994-a5bc-7652c2a2aef1",
+  "ResourceName": "3aa03346-d8c5-4994-a5bc-7652c2a2aef1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "API Management subscriptions should be scoped to a product or an individual API instead of all APIs, which could result in an excessive data exposure.",
+    "DisplayName": "API Management subscriptions should not be scoped to all APIs",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "Deny"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/subscriptions"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/subscriptions/scope",
+            "like": "*/apis"
+          },
+          {
+            "field": "Microsoft.ApiManagement/service/subscriptions/state",
+            "equals": "active"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3aa03346-d8c5-4994-a5bc-7652c2a2aef1"
+}

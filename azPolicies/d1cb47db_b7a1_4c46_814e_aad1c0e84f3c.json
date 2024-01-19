@@ -1,0 +1,73 @@
+{
+  "Name": "d1cb47db-b7a1-4c46-814e-aad1c0e84f3c",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d1cb47db-b7a1-4c46-814e-aad1c0e84f3c",
+  "ResourceName": "d1cb47db-b7a1-4c46-814e-aad1c0e84f3c",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use of custom domains protects a Function app from common attacks such as phishing and other DNS-related attacks.",
+    "DisplayName": "[Deprecated]: Audit Function Apps that are not using custom domains",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allof": [
+          {
+            "field": "type",
+            "equals": "microsoft.Web/sites"
+          },
+          {
+            "anyof": [
+              {
+                "field": "kind",
+                "equals": "functionapp"
+              },
+              {
+                "field": "kind",
+                "equals": "functionapp,linux"
+              },
+              {
+                "field": "kind",
+                "equals": "functionapp,linux,container"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/complianceResults",
+          "name": "UsedCustomDomains",
+          "existenceCondition": {
+            "field": "Microsoft.Security/complianceResults/resourceStatus",
+            "in": [
+              "OffByPolicy",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d1cb47db-b7a1-4c46-814e-aad1c0e84f3c"
+}

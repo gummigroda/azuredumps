@@ -1,0 +1,45 @@
+{
+  "Name": "5f2e834d-7e40-a4d5-a216-e49b16955ccf",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/5f2e834d-7e40-a4d5-a216-e49b16955ccf",
+  "ResourceName": "5f2e834d-7e40-a4d5-a216-e49b16955ccf",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0278 - Establish requirements for internet service providers",
+    "DisplayName": "Establish requirements for internet service providers",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0278"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5f2e834d-7e40-a4d5-a216-e49b16955ccf"
+}

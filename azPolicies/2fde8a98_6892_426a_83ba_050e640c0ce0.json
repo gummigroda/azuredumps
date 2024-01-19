@@ -1,0 +1,77 @@
+{
+  "Name": "2fde8a98-6892-426a-83ba-050e640c0ce0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2fde8a98-6892-426a-83ba-050e640c0ce0",
+  "ResourceName": "2fde8a98-6892-426a-83ba-050e640c0ce0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use of HTTPS ensures server/service authentication and protects data in transit from network layer eavesdropping attacks.",
+    "DisplayName": "[Deprecated]: Web Application should only be accessible over HTTPS",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allof": [
+          {
+            "field": "type",
+            "equals": "microsoft.Web/sites"
+          },
+          {
+            "anyof": [
+              {
+                "field": "kind",
+                "equals": "app"
+              },
+              {
+                "field": "kind",
+                "equals": "WebApp"
+              },
+              {
+                "field": "kind",
+                "equals": "app,linux"
+              },
+              {
+                "field": "kind",
+                "equals": "app,linux,container"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/complianceResults",
+          "name": "OnlyHttpsForWebApplication",
+          "existenceCondition": {
+            "field": "Microsoft.Security/complianceResults/resourceStatus",
+            "in": [
+              "OffByPolicy",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2fde8a98-6892-426a-83ba-050e640c0ce0"
+}

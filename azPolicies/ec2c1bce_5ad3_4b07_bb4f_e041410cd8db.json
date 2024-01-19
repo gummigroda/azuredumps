@@ -1,0 +1,65 @@
+{
+  "Name": "ec2c1bce-5ad3-4b07-bb4f-e041410cd8db",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ec2c1bce-5ad3-4b07-bb4f-e041410cd8db",
+  "ResourceName": "ec2c1bce-5ad3-4b07-bb4f-e041410cd8db",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Utilizes the Azure Policy Guest Configuration agent for auditing. This policy ensures that machines adhere to the Nexus compute security baseline, encompassing various recommendations designed to fortify machines against a range of vulnerabilities and unsafe configurations (Linux only).",
+    "DisplayName": "[Preview]: Nexus Compute Machines should meet Security Baseline",
+    "Metadata": {
+      "version": "1.1.0-preview",
+      "category": "Guest Configuration",
+      "preview": true,
+      "requiredProviders": [
+        "Microsoft.GuestConfiguration"
+      ],
+      "guestConfiguration": {
+        "name": "NexusLinuxBaseline",
+        "version": "1.*"
+      }
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of this policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.HybridCompute/machines"
+          },
+          {
+            "field": "Microsoft.HybridCompute/imageOffer",
+            "like": "linux*"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.GuestConfiguration/guestConfigurationAssignments",
+          "name": "NexusLinuxBaseline",
+          "existenceCondition": {
+            "field": "Microsoft.GuestConfiguration/guestConfigurationAssignments/complianceStatus",
+            "equals": "Compliant"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ec2c1bce-5ad3-4b07-bb4f-e041410cd8db"
+}

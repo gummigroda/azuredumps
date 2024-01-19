@@ -1,0 +1,49 @@
+{
+  "Name": "e0a2b1a3-f7f9-4569-807f-2a9edebdf4d9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e0a2b1a3-f7f9-4569-807f-2a9edebdf4d9",
+  "ResourceName": "e0a2b1a3-f7f9-4569-807f-2a9edebdf4d9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy audits any Cosmos DB not configured to use a virtual network service endpoint.",
+    "DisplayName": "Cosmos DB should use a virtual network service endpoint",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DocumentDB/databaseAccounts"
+          },
+          {
+            "field": "Microsoft.DocumentDB/databaseAccounts/virtualNetworkRules[*].id",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e0a2b1a3-f7f9-4569-807f-2a9edebdf4d9"
+}

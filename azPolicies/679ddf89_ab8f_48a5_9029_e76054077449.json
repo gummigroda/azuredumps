@@ -1,0 +1,62 @@
+{
+  "Name": "679ddf89-ab8f-48a5-9029-e76054077449",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/679ddf89-ab8f-48a5-9029-e76054077449",
+  "ResourceName": "679ddf89-ab8f-48a5-9029-e76054077449",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Having an idle shutdown schedule reduces cost by shutting down computes that are idle after a pre-determined period of activity.",
+    "DisplayName": "Azure Machine Learning Compute Instance should have idle shutdown.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Machine Learning"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The effect determines what happens when the policy rule is evaluated to match."
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MachineLearningServices/workspaces/computes"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/computes/computeType",
+            "equals": "ComputeInstance"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.MachineLearningServices/workspaces/computes/idleTimeBeforeShutdown",
+                "exists": false
+              },
+              {
+                "value": "[empty(field('Microsoft.MachineLearningServices/workspaces/computes/idleTimeBeforeShutdown'))]",
+                "equals": true
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/679ddf89-ab8f-48a5-9029-e76054077449"
+}
