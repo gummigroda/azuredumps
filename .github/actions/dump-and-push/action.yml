@@ -1,0 +1,84 @@
+name: "Dump and diff downloaded resources"
+description: "Downloads resources and do a git diff, and if changed, push, create PR and merge"
+
+inputs:
+  branch_name:
+    description: "Name of the branch to create for the PR"
+    required: true
+  save_path:
+    description: "Path to save the artifacts"
+    required: true
+  resource_type:
+    description: "Type or resource to dump from Azure"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+      ## CHECKOUT CODE
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      ## LOG IN TO AZURE
+      - name: Login with AZ CLI
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          enable-AzPSSession: true
+
+      ## Create new branch
+      - name: Checkout new branch
+        shell: pwsh
+        run: |
+          git checkout -b ${{inputs.branch_name}}
+
+      ## DUMP AZ XXX DEFINITIONS
+      - name: Get Azure ${{inputs.resource_type}} Definitions
+        id: getAzDefs
+        uses: azure/powershell@v1
+        with:
+          azPSVersion: "11.2.0"
+          inlineScript: ./scripts/Get-AzureStuff.ps1 -Path ${{inputs.save_path}} -Type ${{inputs.resource_type}}
+
+      ## Do a git diff
+      - name: Git diff
+        id: gitDiff
+        shell: pwsh
+        run: |
+          [array]$sts=(git status --short)
+          Write-Output ("Git Diff Status:`n{0}" -f ($sts | Out-String))
+          if ($sts -match '${{inputs.save_path}}') {
+            "FILES_CHANGED=yes" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+          }
+          else {
+            "FILES_CHANGED=no" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+          }
+
+      # Add files if changed
+      - name: Git Add, Commit and Push
+        id: gitAdd
+        if: steps.gitDiff.outputs.FILES_CHANGED == 'yes'
+        shell: pwsh
+        run: |
+          git config user.name DumpTruck
+          git config user.email dumptruck@users.noreply.github.com
+          git add "${{inputs.save_path}}"
+          git commit -m "Added updated ${{inputs.resource_type}} definitions"
+          git push origin ${{inputs.branch_name}} -f
+
+      # Create and Merge PR
+      - name: Create and Merge PR
+        id: githubPR
+        if: steps.gitDiff.outputs.FILES_CHANGED == 'yes'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $prBody = "Changes downloaded from Azure: {0}" -f (Get-Date).ToString('s')
+          $title = "Automated Dumps from Azure - ${{inputs.resource_type}}"
+          gh pr create --title $title --body $prBody --base 'main' --head ${{inputs.branch_name}}
+          gh pr merge "${{inputs.branch_name}}" --squash --delete-branch

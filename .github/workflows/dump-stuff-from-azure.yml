@@ -13,74 +13,22 @@ permissions:
 jobs:
   Get-AzRoles:
     runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/actions/dump-and-push
+        with:
+          branch_name: 'Automated-Role-Dump'
+          save_path: 'azRoles/'
+          resource_type: Roles
+  
+  Get-AzPolicies:
+    runs-on: ubuntu-latest
     env:
-      azRolesPath: 'azRoles/'
-      newBranch: 'Automated-Dump'
+      azRolesPath: 'azPolicies/'
+      newBranch: 
 
     steps:
-      ## CHECKOUT CODE
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: ./.github/actions/dump-and-push
         with:
-          fetch-depth: 0
-
-      ## LOG IN TO AZURE
-      - name: Login with AZ CLI
-        uses: azure/login@v1
-        with:
-          client-id: ${{ secrets.AZURE_CLIENT_ID }}
-          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
-          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-          enable-AzPSSession: true
-
-      ## Create new branch
-      - name: Checkout new branch
-        shell: pwsh
-        run: |
-          git checkout -b $env:newBranch
-
-      ## DUMP AZ ROLE DEFINITIONS
-      - name: Get Azure Role Definitions
-        id: getAzRolDefs
-        uses: azure/powershell@v1
-        with:
-          azPSVersion: "11.1.0"
-          inlineScript: ./scripts/Get-AzureRoleDefinitions.ps1 -Path $env:azRolesPath
-
-      ## Do a git diff
-      - name: Git diff
-        id: gitDiff
-        shell: pwsh
-        run: |
-          [array]$sts=(git status --short)
-          Write-Output ("Git Diff Status:`n{0}" -f ($sts | Out-String))
-          if ($sts -match $env:azRolesPath) {
-            "FILES_CHANGED=yes" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
-          }
-          else {
-            "FILES_CHANGED=no" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
-          }
-
-      # Add files if changed
-      - name: Git Add, Commit and Push
-        id: gitAdd
-        if: steps.gitDiff.outputs.FILES_CHANGED == 'yes'
-        shell: pwsh
-        run: |
-          git config user.name DumpTruck
-          git config user.email dumptruck@users.noreply.github.com
-          git add "$env:azRolesPath"
-          git commit -m "Added updated role definitions"
-          git push origin $env:newBranch -f
-
-      # Create and Merge PR
-      - name: Create and Merge PR
-        id: githubPR
-        if: steps.gitDiff.outputs.FILES_CHANGED == 'yes'
-        shell: pwsh
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          $prBody = "Changes downloaded from Azure: {0}" -f (Get-Date).ToString('s')
-          gh pr create --title "Automated Dumps from Azure" --body $prBody --base 'main' --head $env:newBranch
-          gh pr merge "$env:newBranch" --squash --delete-branch
+          branch_name: 'Automated-Policies-Dump'
+          save_path: 'azPolicies/'
+          resource_type: Policies
