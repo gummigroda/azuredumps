@@ -1,0 +1,62 @@
+{
+  "Name": "c3921d55-b741-4d16-8d56-7f16e99e6892",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c3921d55-b741-4d16-8d56-7f16e99e6892",
+  "ResourceName": "c3921d55-b741-4d16-8d56-7f16e99e6892",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "When export/upload URL is used, the system checks if the user has an identity in Azure Active Directory and has necessary permissions to export/upload the data. Please refer to aka.ms/DisksAzureADAuth.",
+    "DisplayName": "Protect your data with authentication requirements when exporting or uploading to a disk or snapshot.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Compute"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/disks"
+          },
+          {
+            "field": "Microsoft.Compute/disks/dataAccessAuthMode",
+            "notEquals": "AzureActiveDirectory"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "roleDefinitionIds": [
+            "/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
+          ],
+          "conflictEffect": "audit",
+          "operations": [
+            {
+              "operation": "addOrReplace",
+              "field": "Microsoft.Compute/disks/dataAccessAuthMode",
+              "value": "AzureActiveDirectory"
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c3921d55-b741-4d16-8d56-7f16e99e6892"
+}

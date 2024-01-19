@@ -1,0 +1,48 @@
+{
+  "Name": "009a0c92-f5b4-4776-9b66-4ed2b4775563",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/009a0c92-f5b4-4776-9b66-4ed2b4775563",
+  "ResourceName": "009a0c92-f5b4-4776-9b66-4ed2b4775563",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Private endpoint connections allow secure communication by enabling private connectivity to Batch accounts without a need for public IP addresses at the source or destination. Learn more about private endpoints in Batch at https://docs.microsoft.com/azure/batch/private-connectivity.",
+    "DisplayName": "Private endpoint connections on Batch accounts should be enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Batch"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Batch/batchAccounts"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Batch/batchAccounts/privateEndpointConnections",
+          "existenceCondition": {
+            "field": "Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.status",
+            "equals": "Approved"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/009a0c92-f5b4-4776-9b66-4ed2b4775563"
+}

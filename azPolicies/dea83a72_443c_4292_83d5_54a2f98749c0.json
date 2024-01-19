@@ -1,0 +1,57 @@
+{
+  "Name": "dea83a72-443c-4292-83d5-54a2f98749c0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/dea83a72-443c-4292-83d5-54a2f98749c0",
+  "ResourceName": "dea83a72-443c-4292-83d5-54a2f98749c0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use Managed Identities as the recommended method for authenticating with Azure resources from the runbooks. Managed identity for authentication is more secure and eliminates the management overhead associated with using RunAs Account in your runbook code .",
+    "DisplayName": "Automation Account should have Managed Identity",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Automation"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Automation/automationAccounts"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "identity.type",
+                "exists": "false"
+              },
+              {
+                "field": "identity.type",
+                "contains": "None"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/dea83a72-443c-4292-83d5-54a2f98749c0"
+}

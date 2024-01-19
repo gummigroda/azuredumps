@@ -1,0 +1,64 @@
+{
+  "Name": "ee7495e7-3ba7-40b6-bfee-c29e22cc75d4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ee7495e7-3ba7-40b6-bfee-c29e22cc75d4",
+  "ResourceName": "ee7495e7-3ba7-40b6-bfee-c29e22cc75d4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To ensure security of data in transit, APIs should be available only through encrypted protocols, like HTTPS or WSS. Avoid using unsecured protocols, such as HTTP or WS.",
+    "DisplayName": "API Management APIs should use only encrypted protocols",
+    "Metadata": {
+      "version": "2.0.2",
+      "category": "API Management"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "Deny"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ApiManagement/service/apis"
+          },
+          {
+            "count": {
+              "field": "Microsoft.ApiManagement/service/apis/protocols[*]",
+              "where": {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.ApiManagement/service/apis/protocols[*]",
+                    "equals": "http"
+                  },
+                  {
+                    "field": "Microsoft.ApiManagement/service/apis/protocols[*]",
+                    "equals": "ws"
+                  }
+                ]
+              }
+            },
+            "greaterOrEquals": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ee7495e7-3ba7-40b6-bfee-c29e22cc75d4"
+}

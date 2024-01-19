@@ -1,0 +1,66 @@
+{
+  "Name": "9ad2fd1f-b25f-47a2-aa01-1a5a779e6413",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/9ad2fd1f-b25f-47a2-aa01-1a5a779e6413",
+  "ResourceName": "9ad2fd1f-b25f-47a2-aa01-1a5a779e6413",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Secure your network perimeter with virtual network injection which allows you to enforce network security group rules, connect on-premises and secure your data connection sources with service endpoints.",
+    "DisplayName": "Virtual network injection should be enabled for Azure Data Explorer",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Azure Data Explorer"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Kusto/Clusters"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.Kusto/clusters/virtualNetworkConfiguration",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.Kusto/clusters/virtualNetworkConfiguration.subnetId",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.Kusto/clusters/virtualNetworkConfiguration.enginePublicIpId",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.Kusto/clusters/virtualNetworkConfiguration.dataManagementPublicIpId",
+                "exists": false
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9ad2fd1f-b25f-47a2-aa01-1a5a779e6413"
+}

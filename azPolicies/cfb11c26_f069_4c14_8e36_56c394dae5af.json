@@ -1,0 +1,50 @@
+{
+  "Name": "cfb11c26-f069-4c14-8e36-56c394dae5af",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/cfb11c26-f069-4c14-8e36-56c394dae5af",
+  "ResourceName": "cfb11c26-f069-4c14-8e36-56c394dae5af",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling local authentication methods improves security by ensuring that Azure Service Bus namespaces exclusively require Microsoft Entra ID identities for authentication. Learn more at: https://aka.ms/disablelocalauth-sb.",
+    "DisplayName": "Azure Service Bus namespaces should have local authentication methods disabled",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Service Bus"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ServiceBus/namespaces"
+          },
+          {
+            "field": "Microsoft.ServiceBus/namespaces/disableLocalAuth",
+            "notEquals": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cfb11c26-f069-4c14-8e36-56c394dae5af"
+}

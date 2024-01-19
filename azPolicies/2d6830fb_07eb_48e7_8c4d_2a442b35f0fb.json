@@ -1,0 +1,50 @@
+{
+  "Name": "2d6830fb-07eb-48e7-8c4d-2a442b35f0fb",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2d6830fb-07eb-48e7-8c4d-2a442b35f0fb",
+  "ResourceName": "2d6830fb-07eb-48e7-8c4d-2a442b35f0fb",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling the public network access property improves security by ensuring your Azure IoT Hub can only be accessed from a private endpoint.",
+    "DisplayName": "Public network access on Azure IoT Hub should be disabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Internet of Things"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Devices/IotHubs"
+          },
+          {
+            "field": "Microsoft.Devices/IotHubs/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2d6830fb-07eb-48e7-8c4d-2a442b35f0fb"
+}

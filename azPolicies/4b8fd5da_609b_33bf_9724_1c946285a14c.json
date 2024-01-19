@@ -1,0 +1,45 @@
+{
+  "Name": "4b8fd5da-609b-33bf-9724-1c946285a14c",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4b8fd5da-609b-33bf-9724-1c946285a14c",
+  "ResourceName": "4b8fd5da-609b-33bf-9724-1c946285a14c",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1009 - Notify Account Managers of customer controlled accounts",
+    "DisplayName": "Notify Account Managers of customer controlled accounts",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1009"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4b8fd5da-609b-33bf-9724-1c946285a14c"
+}

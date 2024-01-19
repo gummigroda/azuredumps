@@ -1,0 +1,57 @@
+{
+  "Name": "e4953962-5ae4-43eb-bb92-d66fd5563487",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e4953962-5ae4-43eb-bb92-d66fd5563487",
+  "ResourceName": "e4953962-5ae4-43eb-bb92-d66fd5563487",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Resources managed by Automanage should have a managed identity.",
+    "DisplayName": "[Preview]: A managed identity should be enabled on your machines",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Automanage",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "in": [
+              "Microsoft.Compute/virtualMachines",
+              "Microsoft.HybridCompute/machines"
+            ]
+          },
+          {
+            "field": "identity.type",
+            "notContains": "SystemAssigned"
+          },
+          {
+            "field": "identity.type",
+            "notContains": "UserAssigned"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e4953962-5ae4-43eb-bb92-d66fd5563487"
+}

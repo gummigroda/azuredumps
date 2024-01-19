@@ -1,0 +1,55 @@
+{
+  "Name": "0d40b058-9f95-4a19-93e3-9b0330baa2a3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0d40b058-9f95-4a19-93e3-9b0330baa2a3",
+  "ResourceName": "0d40b058-9f95-4a19-93e3-9b0330baa2a3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Private endpoint connections enforce secure communication by enabling private connectivity to IoT Hub. Configure a private endpoint connection to enable access to traffic coming only from known networks and prevent access from all other IP addresses, including within Azure.",
+    "DisplayName": "Private endpoint should be enabled for IoT Hub",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Internet of Things"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Devices/IotHubs"
+          },
+          {
+            "count": {
+              "field": "Microsoft.Devices/IotHubs/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.Devices/IotHubs/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0d40b058-9f95-4a19-93e3-9b0330baa2a3"
+}

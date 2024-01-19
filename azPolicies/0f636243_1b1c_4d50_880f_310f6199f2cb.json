@@ -1,0 +1,56 @@
+{
+  "Name": "0f636243-1b1c-4d50-880f-310f6199f2cb",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0f636243-1b1c-4d50-880f-310f6199f2cb",
+  "ResourceName": "0f636243-1b1c-4d50-880f-310f6199f2cb",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy enforces containers to listen only on allowed ports in an Azure Kubernetes Service cluster. This policy is deprecated, please visit https://aka.ms/kubepolicydoc for instructions on using new Kubernetes policies.",
+    "DisplayName": "[Deprecated]: Ensure containers listen only on allowed ports in AKS",
+    "Metadata": {
+      "version": "1.0.1-deprecated",
+      "category": "Kubernetes service",
+      "deprecated": true
+    },
+    "Mode": "Microsoft.ContainerService.Data",
+    "Parameters": {
+      "allowedContainerPortsRegex": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Allowed container ports regex",
+          "description": "Regex representing container ports allowed in Kubernetes cluster. E.g. Regex for allowing ports 443,446 is ^(443|446)$"
+        }
+      },
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "EnforceRegoPolicy",
+          "Disabled"
+        ],
+        "defaultValue": "EnforceRegoPolicy"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "policyId": "ContainerAllowedPorts",
+          "policy": "https://raw.githubusercontent.com/Azure/azure-policy/master/built-in-references/KubernetesService/container-allowed-ports/limited-preview/gatekeeperpolicy.rego",
+          "policyParameters": {
+            "allowedContainerPortsRegex": "[parameters('allowedContainerPortsRegex')]"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0f636243-1b1c-4d50-880f-310f6199f2cb"
+}

@@ -1,0 +1,69 @@
+{
+  "Name": "d38fc420-0735-4ef3-ac11-c806f651a570",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d38fc420-0735-4ef3-ac11-c806f651a570",
+  "ResourceName": "d38fc420-0735-4ef3-ac11-c806f651a570",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy audits any Azure SQL Database with long-term geo-redundant backup not enabled.",
+    "DisplayName": "Long-term geo-redundant backup should be enabled for Azure SQL Databases",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/servers/databases"
+          },
+          {
+            "field": "name",
+            "notEquals": "master"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies",
+          "name": "default",
+          "existenceCondition": {
+            "anyOf": [
+              {
+                "field": "Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/weeklyRetention",
+                "notEquals": "PT0S"
+              },
+              {
+                "field": "Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/monthlyRetention",
+                "notEquals": "PT0S"
+              },
+              {
+                "field": "Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/yearlyRetention",
+                "notEquals": "PT0S"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d38fc420-0735-4ef3-ac11-c806f651a570"
+}

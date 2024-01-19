@@ -1,0 +1,45 @@
+{
+  "Name": "91a54089-2d69-0f56-62dc-b6371a1671c0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/91a54089-2d69-0f56-62dc-b6371a1671c0",
+  "ResourceName": "91a54089-2d69-0f56-62dc-b6371a1671c0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1254 - Resume all mission and business functions",
+    "DisplayName": "Resume all mission and business functions",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1254"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/91a54089-2d69-0f56-62dc-b6371a1671c0"
+}

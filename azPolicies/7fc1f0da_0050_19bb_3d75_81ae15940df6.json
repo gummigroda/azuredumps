@@ -1,0 +1,45 @@
+{
+  "Name": "7fc1f0da-0050-19bb-3d75-81ae15940df6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7fc1f0da-0050-19bb-3d75-81ae15940df6",
+  "ResourceName": "7fc1f0da-0050-19bb-3d75-81ae15940df6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1689 - Provide monitoring information as needed",
+    "DisplayName": "Provide monitoring information as needed",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1689"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7fc1f0da-0050-19bb-3d75-81ae15940df6"
+}

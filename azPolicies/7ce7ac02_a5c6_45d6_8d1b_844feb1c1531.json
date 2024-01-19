@@ -1,0 +1,46 @@
+{
+  "Name": "7ce7ac02-a5c6-45d6-8d1b-844feb1c1531",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7ce7ac02-a5c6-45d6-8d1b-844feb1c1531",
+  "ResourceName": "7ce7ac02-a5c6-45d6-8d1b-844feb1c1531",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy does not allow privileged containers creation in an Azure Kubernetes Service cluster. This policy is deprecated, please visit https://aka.ms/kubepolicydoc for instructions on using new Kubernetes policies.",
+    "DisplayName": "[Deprecated]: Do not allow privileged containers in AKS",
+    "Metadata": {
+      "version": "1.0.1-deprecated",
+      "category": "Kubernetes service",
+      "deprecated": true
+    },
+    "Mode": "Microsoft.ContainerService.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "EnforceRegoPolicy",
+          "Disabled"
+        ],
+        "defaultValue": "EnforceRegoPolicy"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "policyId": "ContainerNoPrivilege",
+          "policy": "https://raw.githubusercontent.com/Azure/azure-policy/master/built-in-references/KubernetesService/container-no-privilege/limited-preview/gatekeeperpolicy.rego"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7ce7ac02-a5c6-45d6-8d1b-844feb1c1531"
+}

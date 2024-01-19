@@ -1,0 +1,58 @@
+{
+  "Name": "c9299215-ae47-4f50-9c54-8a392f68a052",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c9299215-ae47-4f50-9c54-8a392f68a052",
+  "ResourceName": "c9299215-ae47-4f50-9c54-8a392f68a052",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling the public network access property improves security by ensuring your Azure Database for MySQL flexible servers can only be accessed from a private endpoint. This configuration strictly disables access from any public address space outside of Azure IP range and denies all logins that match IP or virtual network-based firewall rules.",
+    "DisplayName": "Public network access should be disabled for MySQL flexible servers",
+    "Metadata": {
+      "version": "2.1.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DBforMySQL/flexibleServers"
+          },
+          {
+            "field": "Microsoft.DBforMySQL/flexibleServers/network.delegatedSubnetResourceId",
+            "exists": "false"
+          },
+          {
+            "field": "Microsoft.DBforMySQL/flexibleServers/network.privateDnsZoneResourceId",
+            "exists": "false"
+          },
+          {
+            "field": "Microsoft.DBforMySQL/flexibleServers/network.publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c9299215-ae47-4f50-9c54-8a392f68a052"
+}

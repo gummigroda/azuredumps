@@ -1,0 +1,69 @@
+{
+  "Name": "0da106f2-4ca3-48e8-bc85-c638fe6aea8f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0da106f2-4ca3-48e8-bc85-c638fe6aea8f",
+  "ResourceName": "0da106f2-4ca3-48e8-bc85-c638fe6aea8f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use a managed identity for enhanced authentication security",
+    "DisplayName": "Function apps should use managed identity",
+    "Metadata": {
+      "version": "3.0.0",
+      "category": "App Service"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites"
+          },
+          {
+            "field": "kind",
+            "contains": "functionapp"
+          },
+          {
+            "field": "kind",
+            "notContains": "workflowapp"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Web/sites/config",
+          "name": "web",
+          "existenceCondition": {
+            "anyOf": [
+              {
+                "field": "Microsoft.Web/sites/config/managedServiceIdentityId",
+                "exists": "true"
+              },
+              {
+                "field": "Microsoft.Web/sites/config/xmanagedServiceIdentityId",
+                "exists": "true"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0da106f2-4ca3-48e8-bc85-c638fe6aea8f"
+}

@@ -1,0 +1,51 @@
+{
+  "Name": "4c3c6c5f-0d47-4402-99b8-aa543dd8bcee",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4c3c6c5f-0d47-4402-99b8-aa543dd8bcee",
+  "ResourceName": "4c3c6c5f-0d47-4402-99b8-aa543dd8bcee",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit for virtual network to verify if flow logs are configured. Enabling flow logs allows to log information about IP traffic flowing through virtual network. It can be used for optimizing network flows, monitoring throughput, verifying compliance, detecting intrusions and more.",
+    "DisplayName": "Audit flow logs configuration for every virtual network",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allof": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/virtualNetworks"
+          },
+          {
+            "count": {
+              "field": "Microsoft.Network/virtualNetworks/flowLogs[*]"
+            },
+            "equals": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4c3c6c5f-0d47-4402-99b8-aa543dd8bcee"
+}

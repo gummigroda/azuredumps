@@ -1,0 +1,54 @@
+{
+  "Name": "2cc2c3b5-c2f8-45aa-a9e6-f90d85ae8352",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2cc2c3b5-c2f8-45aa-a9e6-f90d85ae8352",
+  "ResourceName": "2cc2c3b5-c2f8-45aa-a9e6-f90d85ae8352",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Only allow Databricks workspace with Premium Sku that your organization can deploy to support features like Private Link, customer-managed key for encryption. Learn more at: https://aka.ms/adbpe.",
+    "DisplayName": "Azure Databricks workspaces should be Premium SKU that supports features like private link, customer-managed key for encryption",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Azure Databricks"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the audit policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Databricks/workspaces"
+          },
+          {
+            "field": "Microsoft.Databricks/workspaces/sku.name",
+            "notEquals": "Premium"
+          },
+          {
+            "value": "[empty(field('Microsoft.Databricks/workspaces/sku.name'))]",
+            "notEquals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2cc2c3b5-c2f8-45aa-a9e6-f90d85ae8352"
+}

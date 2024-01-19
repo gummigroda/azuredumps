@@ -1,0 +1,45 @@
+{
+  "Name": "f33c3238-11d2-508c-877c-4262ec1132e1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f33c3238-11d2-508c-877c-4262ec1132e1",
+  "ResourceName": "f33c3238-11d2-508c-877c-4262ec1132e1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1295 - Recover and reconstitute resources after any disruption",
+    "DisplayName": "Recover and reconstitute resources after any disruption",
+    "Metadata": {
+      "version": "1.1.1",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1295"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f33c3238-11d2-508c-877c-4262ec1132e1"
+}

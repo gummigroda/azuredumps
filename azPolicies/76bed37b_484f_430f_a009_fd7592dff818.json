@@ -1,0 +1,49 @@
+{
+  "Name": "76bed37b-484f-430f-a009-fd7592dff818",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/76bed37b-484f-430f-a009-fd7592dff818",
+  "ResourceName": "76bed37b-484f-430f-a009-fd7592dff818",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit delegation of scopes to a managing tenant via Azure Lighthouse.",
+    "DisplayName": "Audit delegation of scopes to a managing tenant",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Lighthouse"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ManagedServices/registrationAssignments"
+          },
+          {
+            "value": "true",
+            "equals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/76bed37b-484f-430f-a009-fd7592dff818"
+}

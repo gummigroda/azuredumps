@@ -1,0 +1,66 @@
+{
+  "Name": "752c6934-9bcc-4749-b004-655e676ae2ac",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/752c6934-9bcc-4749-b004-655e676ae2ac",
+  "ResourceName": "752c6934-9bcc-4749-b004-655e676ae2ac",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit enabling of diagnostic logs on the app. This enables you to recreate activity trails for investigation purposes if a security incident occurs or your network is compromised",
+    "DisplayName": "[Deprecated]: Audit enabling of diagnostic logs in App Services",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "App Service",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites/config"
+          },
+          {
+            "field": "name",
+            "equals": "web"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.Web/sites/config/detailedErrorLoggingEnabled",
+                "notEquals": "true"
+              },
+              {
+                "field": "Microsoft.Web/sites/config/httpLoggingEnabled",
+                "notEquals": "true"
+              },
+              {
+                "field": "Microsoft.Web/sites/config/requestTracingEnabled",
+                "notEquals": "true"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/752c6934-9bcc-4749-b004-655e676ae2ac"
+}

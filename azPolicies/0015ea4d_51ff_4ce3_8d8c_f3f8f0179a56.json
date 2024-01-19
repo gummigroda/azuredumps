@@ -1,0 +1,38 @@
+{
+  "Name": "0015ea4d-51ff-4ce3-8d8c-f3f8f0179a56",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0015ea4d-51ff-4ce3-8d8c-f3f8f0179a56",
+  "ResourceName": "0015ea4d-51ff-4ce3-8d8c-f3f8f0179a56",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit virtual machines which do not have disaster recovery configured. To learn more about disaster recovery, visit https://aka.ms/asr-doc.",
+    "DisplayName": "Audit virtual machines without disaster recovery configured",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Compute"
+    },
+    "Mode": "All",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "in": [
+          "Microsoft.Compute/virtualMachines",
+          "Microsoft.ClassicCompute/virtualMachines"
+        ]
+      },
+      "then": {
+        "effect": "auditIfNotExists",
+        "details": {
+          "type": "Microsoft.Resources/links",
+          "existenceCondition": {
+            "field": "name",
+            "like": "ASR-Protect-*"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0015ea4d-51ff-4ce3-8d8c-f3f8f0179a56"
+}

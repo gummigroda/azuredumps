@@ -1,0 +1,58 @@
+{
+  "Name": "1c30f9cd-b84c-49cc-aa2c-9288447cc3b3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1c30f9cd-b84c-49cc-aa2c-9288447cc3b3",
+  "ResourceName": "1c30f9cd-b84c-49cc-aa2c-9288447cc3b3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enable virtual TPM device on supported virtual machines to facilitate Measured Boot and other OS security features that require a TPM. Once enabled, vTPM can be used to attest boot integrity. This assessment only applies to trusted launch enabled virtual machines.",
+    "DisplayName": "[Preview]: vTPM should be enabled on supported virtual machines",
+    "Metadata": {
+      "category": "Security Center",
+      "version": "2.0.0-preview",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/virtualMachines"
+          },
+          {
+            "field": "Microsoft.Compute/virtualMachines/securityProfile.securityType",
+            "equals": "TrustedLaunch"
+          },
+          {
+            "field": "Microsoft.Compute/virtualMachines/securityProfile.uefiSettings",
+            "exists": "true"
+          },
+          {
+            "field": "Microsoft.Compute/virtualMachines/securityProfile.uefiSettings.vTpmEnabled",
+            "notequals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1c30f9cd-b84c-49cc-aa2c-9288447cc3b3"
+}

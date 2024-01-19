@@ -1,0 +1,45 @@
+{
+  "Name": "d36700f2-2f0d-7c2a-059c-bdadd1d79f70",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d36700f2-2f0d-7c2a-059c-bdadd1d79f70",
+  "ResourceName": "d36700f2-2f0d-7c2a-059c-bdadd1d79f70",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0258 - Establish a risk management strategy",
+    "DisplayName": "Establish a risk management strategy",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0258"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d36700f2-2f0d-7c2a-059c-bdadd1d79f70"
+}

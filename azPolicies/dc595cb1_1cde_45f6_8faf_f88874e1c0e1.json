@@ -1,0 +1,50 @@
+{
+  "Name": "dc595cb1-1cde-45f6-8faf-f88874e1c0e1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/dc595cb1-1cde-45f6-8faf-f88874e1c0e1",
+  "ResourceName": "dc595cb1-1cde-45f6-8faf-f88874e1c0e1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Deploying Logic Apps into Integration Service Environment in a virtual network unlocks advanced Logic Apps networking and security features and provides you with greater control over your network configuration. Learn more at: https://aka.ms/integration-service-environment. Deploying into Integration Service Environment also allows encryption with customer-managed keys which provides enhanced data protection by allowing you to manage your encryption keys. This is often to meet compliance requirements.",
+    "DisplayName": "Logic Apps should be deployed into Integration Service Environment",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Logic Apps"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Logic/workflows"
+          },
+          {
+            "field": "Microsoft.Logic/workflows/integrationServiceEnvironment",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/dc595cb1-1cde-45f6-8faf-f88874e1c0e1"
+}

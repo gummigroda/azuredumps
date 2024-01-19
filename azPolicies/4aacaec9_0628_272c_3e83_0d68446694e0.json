@@ -1,0 +1,45 @@
+{
+  "Name": "4aacaec9-0628-272c-3e83-0d68446694e0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4aacaec9-0628-272c-3e83-0d68446694e0",
+  "ResourceName": "4aacaec9-0628-272c-3e83-0d68446694e0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1321 - Manage Authenticators",
+    "DisplayName": "Manage Authenticators",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1321"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4aacaec9-0628-272c-3e83-0d68446694e0"
+}

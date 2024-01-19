@@ -1,0 +1,45 @@
+{
+  "Name": "055da733-55c6-9e10-8194-c40731057ec4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/055da733-55c6-9e10-8194-c40731057ec4",
+  "ResourceName": "055da733-55c6-9e10-8194-c40731057ec4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0152 - Develop and maintain a vulnerability management standard",
+    "DisplayName": "Develop and maintain a vulnerability management standard",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0152"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/055da733-55c6-9e10-8194-c40731057ec4"
+}

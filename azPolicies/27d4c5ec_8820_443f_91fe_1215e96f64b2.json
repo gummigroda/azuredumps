@@ -1,0 +1,60 @@
+{
+  "Name": "27d4c5ec-8820-443f-91fe-1215e96f64b2",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/27d4c5ec-8820-443f-91fe-1215e96f64b2",
+  "ResourceName": "27d4c5ec-8820-443f-91fe-1215e96f64b2",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure Private Link lets you connect your virtual network to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to Azure Device Update for IoT Hub accounts, data leakage risks are reduced.",
+    "DisplayName": "Azure Device Update for IoT Hub accounts should use private link",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Internet of Things"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DeviceUpdate/accounts"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateEndpoint",
+                "exists": "true"
+              },
+              {
+                "field": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/provisioningState",
+                "equals": "Succeeded"
+              },
+              {
+                "field": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/27d4c5ec-8820-443f-91fe-1215e96f64b2"
+}

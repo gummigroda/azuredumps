@@ -1,0 +1,38 @@
+{
+  "Name": "983211ba-f348-4758-983b-21fa29294869",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/983211ba-f348-4758-983b-21fa29294869",
+  "ResourceName": "983211ba-f348-4758-983b-21fa29294869",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Allows resource creation in the following locations only: Central US, East US, East US2, North Central US, South Central US, West US",
+    "DisplayName": "[Deprecated]: Allow resource creation only in United States data centers",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "General",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "not": {
+          "field": "location",
+          "in": [
+            "centralus",
+            "eastus",
+            "eastus2",
+            "northcentralus",
+            "southcentralus",
+            "westus"
+          ]
+        }
+      },
+      "then": {
+        "effect": "Deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/983211ba-f348-4758-983b-21fa29294869"
+}

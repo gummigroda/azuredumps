@@ -1,0 +1,52 @@
+{
+  "Name": "a0c11ca4-5828-4384-a2f2-fd7444dd5b4d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a0c11ca4-5828-4384-a2f2-fd7444dd5b4d",
+  "ResourceName": "a0c11ca4-5828-4384-a2f2-fd7444dd5b4d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Protect your Cloud Service (extended support) role instances from attacks by ensuring they are not expolosed to any OS vulnerabilities.",
+    "DisplayName": "Cloud Services (extended support) role instances should be configured securely",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Security Center"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Compute/cloudServices"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/assessments",
+          "name": "8941d121-f740-35f6-952c-6561d2b38d36",
+          "existenceCondition": {
+            "field": "Microsoft.Security/assessments/status.code",
+            "in": [
+              "NotApplicable",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a0c11ca4-5828-4384-a2f2-fd7444dd5b4d"
+}

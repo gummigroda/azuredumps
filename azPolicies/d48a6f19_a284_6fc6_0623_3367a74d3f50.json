@@ -1,0 +1,45 @@
+{
+  "Name": "d48a6f19-a284-6fc6-0623-3367a74d3f50",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d48a6f19-a284-6fc6-0623-3367a74d3f50",
+  "ResourceName": "d48a6f19-a284-6fc6-0623-3367a74d3f50",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0519 - Update interconnection security agreements",
+    "DisplayName": "Update interconnection security agreements",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0519"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d48a6f19-a284-6fc6-0623-3367a74d3f50"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "d93fe1be-13e4-421d-9c21-3158e2fa2667",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d93fe1be-13e4-421d-9c21-3158e2fa2667",
+  "ResourceName": "d93fe1be-13e4-421d-9c21-3158e2fa2667",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1737 - Implement plans of action and milestones for security program process",
+    "DisplayName": "Implement plans of action and milestones for security program process",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1737"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d93fe1be-13e4-421d-9c21-3158e2fa2667"
+}

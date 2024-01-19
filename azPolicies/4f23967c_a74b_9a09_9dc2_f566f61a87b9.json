@@ -1,0 +1,45 @@
+{
+  "Name": "4f23967c-a74b-9a09-9dc2-f566f61a87b9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4f23967c-a74b-9a09-9dc2-f566f61a87b9",
+  "ResourceName": "4f23967c-a74b-9a09-9dc2-f566f61a87b9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0268 - Establish backup policies and procedures",
+    "DisplayName": "Establish backup policies and procedures",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0268"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4f23967c-a74b-9a09-9dc2-f566f61a87b9"
+}

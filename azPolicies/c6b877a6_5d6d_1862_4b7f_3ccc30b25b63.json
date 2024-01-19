@@ -1,0 +1,45 @@
+{
+  "Name": "c6b877a6-5d6d-1862-4b7f-3ccc30b25b63",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c6b877a6-5d6d-1862-4b7f-3ccc30b25b63",
+  "ResourceName": "c6b877a6-5d6d-1862-4b7f-3ccc30b25b63",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0540 - Verify personal data is deleted at the end of processing",
+    "DisplayName": "Verify personal data is deleted at the end of processing",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0540"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c6b877a6-5d6d-1862-4b7f-3ccc30b25b63"
+}

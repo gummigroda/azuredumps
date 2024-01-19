@@ -1,0 +1,54 @@
+{
+  "Name": "0c192fe8-9cbb-4516-85b3-0ade8bd03886",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0c192fe8-9cbb-4516-85b3-0ade8bd03886",
+  "ResourceName": "0c192fe8-9cbb-4516-85b3-0ade8bd03886",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Client certificates allow for the app to request a certificate for incoming requests. Only clients that have a valid certificate will be able to reach the app. We recommend all customers who are still using API Apps to implement the built-in policy called 'App Service apps should have 'Client Certificates (Incoming client certificates)' enabled', which is scoped to include API apps in addition to Web Apps.",
+    "DisplayName": "[Deprecated]: API apps should have 'Client Certificates (Incoming client certificates)' enabled",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "App Service",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Web/sites"
+          },
+          {
+            "field": "kind",
+            "like": "*api"
+          },
+          {
+            "field": "Microsoft.Web/sites/clientCertEnabled",
+            "equals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0c192fe8-9cbb-4516-85b3-0ade8bd03886"
+}

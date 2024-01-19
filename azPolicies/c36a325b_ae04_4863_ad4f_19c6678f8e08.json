@@ -1,0 +1,66 @@
+{
+  "Name": "c36a325b-ae04-4863-ad4f-19c6678f8e08",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c36a325b-ae04-4863-ad4f-19c6678f8e08",
+  "ResourceName": "c36a325b-ae04-4863-ad4f-19c6678f8e08",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "You can enable Blob storage versioning to automatically maintain previous versions of an object. When blob versioning is enabled, you can access earlier versions of a blob to recover your data if it's modified or deleted.",
+    "DisplayName": "Configure your Storage account to enable blob versioning",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Storage"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The effect determines what happens when the policy rule is evaluated to match"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Storage/storageAccounts/blobServices"
+          },
+          {
+            "anyOf": [
+              {
+                "allOf": [
+                  {
+                    "value": "[requestContext().apiVersion]",
+                    "less": "2019-10-10"
+                  },
+                  {
+                    "field": "Microsoft.Storage/storageAccounts/blobServices/isVersioningEnabled",
+                    "exists": "true"
+                  }
+                ]
+              },
+              {
+                "field": "Microsoft.Storage/storageAccounts/blobServices/isVersioningEnabled",
+                "equals": "false"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c36a325b-ae04-4863-ad4f-19c6678f8e08"
+}

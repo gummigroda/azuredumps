@@ -1,0 +1,43 @@
+{
+  "Name": "abcc6037-1fc4-47f6-aac5-89706589be24",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/abcc6037-1fc4-47f6-aac5-89706589be24",
+  "ResourceName": "abcc6037-1fc4-47f6-aac5-89706589be24",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Installs security agent on VMs for advanced security alerts and preventions in Azure Security Center. Applies only for subscriptions that use Azure Security Center.",
+    "DisplayName": "[Deprecated]: Automatic provisioning of security monitoring agent",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {},
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "in": [
+          "Microsoft.Compute/virtualMachines",
+          "Microsoft.ClassicCompute/virtualMachines"
+        ]
+      },
+      "then": {
+        "effect": "AuditIfNotExists",
+        "details": {
+          "type": "Microsoft.Security/complianceResults",
+          "name": "securityAgent",
+          "existenceCondition": {
+            "field": "Microsoft.Security/complianceResults/resourceStatus",
+            "in": [
+              "OffByPolicy",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/abcc6037-1fc4-47f6-aac5-89706589be24"
+}

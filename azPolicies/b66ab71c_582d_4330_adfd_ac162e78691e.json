@@ -1,0 +1,50 @@
+{
+  "Name": "b66ab71c-582d-4330-adfd-ac162e78691e",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b66ab71c-582d-4330-adfd-ac162e78691e",
+  "ResourceName": "b66ab71c-582d-4330-adfd-ac162e78691e",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling local authentication methods improves security by ensuring that Azure Web PubSub Service exclusively require Azure Active Directory identities for authentication.",
+    "DisplayName": "Azure Web PubSub Service should have local authentication methods disabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Web PubSub"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.SignalRService/webPubSub"
+          },
+          {
+            "field": "Microsoft.SignalRService/webPubSub/disableLocalAuth",
+            "notEquals": true
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b66ab71c-582d-4330-adfd-ac162e78691e"
+}

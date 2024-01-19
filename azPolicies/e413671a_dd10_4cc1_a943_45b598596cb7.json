@@ -1,0 +1,50 @@
+{
+  "Name": "e413671a-dd10-4cc1-a943-45b598596cb7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e413671a-dd10-4cc1-a943-45b598596cb7",
+  "ResourceName": "e413671a-dd10-4cc1-a943-45b598596cb7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Azure ML is making a transition to a new V2 API platform on Azure Resource Manager and you can control API platform version using V1LegacyMode parameter. Enabling the V1LegacyMode parameter will enable you to keep your workspaces in the same network isolation as V1, though you won't have use of the new V2 features. We recommend turning on V1 Legacy Mode only when you  want to keep the AzureML control plane data inside your private networks. Learn more at: https://aka.ms/V1LegacyMode.",
+    "DisplayName": "Azure Machine Learning workspaces should enable V1LegacyMode to support network isolation backward compatibility",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Machine Learning"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MachineLearningServices/workspaces"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/v1LegacyMode",
+            "notEquals": "true"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e413671a-dd10-4cc1-a943-45b598596cb7"
+}

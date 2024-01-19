@@ -1,0 +1,42 @@
+{
+  "Name": "84497762-32b6-4ab3-80b6-732ea48b85a2",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/84497762-32b6-4ab3-80b6-732ea48b85a2",
+  "ResourceName": "84497762-32b6-4ab3-80b6-732ea48b85a2",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable cache rule creation for your Azure Container Registry to prevent pull through cache pulls. Learn more at: https://aka.ms/acr/cache.",
+    "DisplayName": "Container registries should prevent cache rule creation",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Container Registry"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerRegistry/registries/cacheRules"
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/84497762-32b6-4ab3-80b6-732ea48b85a2"
+}

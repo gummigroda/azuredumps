@@ -1,0 +1,36 @@
+{
+  "Name": "871b6d14-10aa-478d-b590-94f262ecfa99",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/871b6d14-10aa-478d-b590-94f262ecfa99",
+  "ResourceName": "871b6d14-10aa-478d-b590-94f262ecfa99",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enforces existence of a tag. Does not apply to resource groups.",
+    "DisplayName": "Require a tag on resources",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Tags"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "tagName": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Tag Name",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "[concat('tags[', parameters('tagName'), ']')]",
+        "exists": "false"
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/871b6d14-10aa-478d-b590-94f262ecfa99"
+}

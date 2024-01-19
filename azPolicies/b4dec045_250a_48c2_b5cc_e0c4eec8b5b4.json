@@ -1,0 +1,44 @@
+{
+  "Name": "b4dec045-250a-48c2-b5cc-e0c4eec8b5b4",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b4dec045-250a-48c2-b5cc-e0c4eec8b5b4",
+  "ResourceName": "b4dec045-250a-48c2-b5cc-e0c4eec8b5b4",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit provisioning of a Microsoft Entra administrator for your PostgreSQL server to enable Microsoft Entra authentication. Microsoft Entra authentication enables simplified permission management and centralized identity management of database users and other Microsoft services",
+    "DisplayName": "A Microsoft Entra administrator should be provisioned for PostgreSQL servers",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBforPostgreSQL/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBforPostgreSQL/servers/administrators"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b4dec045-250a-48c2-b5cc-e0c4eec8b5b4"
+}

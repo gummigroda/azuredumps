@@ -1,0 +1,45 @@
+{
+  "Name": "e23444b9-9662-40f3-289e-6d25c02b48fa",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e23444b9-9662-40f3-289e-6d25c02b48fa",
+  "ResourceName": "e23444b9-9662-40f3-289e-6d25c02b48fa",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0474 - Review label activity and analytics",
+    "DisplayName": "Review label activity and analytics",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0474"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e23444b9-9662-40f3-289e-6d25c02b48fa"
+}

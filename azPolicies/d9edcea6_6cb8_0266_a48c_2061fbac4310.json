@@ -1,0 +1,45 @@
+{
+  "Name": "d9edcea6-6cb8-0266-a48c-2061fbac4310",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d9edcea6-6cb8-0266-a48c-2061fbac4310",
+  "ResourceName": "d9edcea6-6cb8-0266-a48c-2061fbac4310",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1255 - Plan for continuance of essential business functions",
+    "DisplayName": "Plan for continuance of essential business functions",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1255"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d9edcea6-6cb8-0266-a48c-2061fbac4310"
+}

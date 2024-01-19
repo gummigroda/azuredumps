@@ -1,0 +1,45 @@
+{
+  "Name": "1fb1cb0e-1936-6f32-42fd-89970b535855",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1fb1cb0e-1936-6f32-42fd-89970b535855",
+  "ResourceName": "1fb1cb0e-1936-6f32-42fd-89970b535855",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0364 - Manage nonlocal maintenance and diagnostic activities",
+    "DisplayName": "Manage nonlocal maintenance and diagnostic activities",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0364"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1fb1cb0e-1936-6f32-42fd-89970b535855"
+}

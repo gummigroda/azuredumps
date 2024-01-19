@@ -1,0 +1,52 @@
+{
+  "Name": "7c9f3fbb-739d-4844-8e42-97e3be6450e0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7c9f3fbb-739d-4844-8e42-97e3be6450e0",
+  "ResourceName": "7c9f3fbb-739d-4844-8e42-97e3be6450e0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enforce the use of volume mounts for Container Apps to ensure availability of persistent storage capacity.",
+    "DisplayName": "Container App should configure with volume mount",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Container Apps"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.App/containerApps"
+          },
+          {
+            "count": {
+              "field": "Microsoft.App/containerApps/template.volumes[*]"
+            },
+            "equals": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7c9f3fbb-739d-4844-8e42-97e3be6450e0"
+}

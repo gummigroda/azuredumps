@@ -1,0 +1,49 @@
+{
+  "Name": "40e85574-ef33-47e8-a854-7a65c7500560",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/40e85574-ef33-47e8-a854-7a65c7500560",
+  "ResourceName": "40e85574-ef33-47e8-a854-7a65c7500560",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling local authentication methods and allowing only Microsoft Entra Authentication improves security by ensuring that Azure MySQL flexible server can exclusively be accessed by Microsoft Entra identities.",
+    "DisplayName": "Azure MySQL flexible server should have Microsoft Entra Only Authentication enabled",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBForMySql/flexibleServers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBForMySql/flexibleServers/configurations",
+          "name": "aad_auth_only",
+          "existenceCondition": {
+            "field": "Microsoft.DBForMySql/flexibleServers/configurations/value",
+            "equals": "ON"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/40e85574-ef33-47e8-a854-7a65c7500560"
+}

@@ -1,0 +1,61 @@
+{
+  "Name": "413923f0-ff16-41ae-8583-90c5c5d9fa8f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/413923f0-ff16-41ae-8583-90c5c5d9fa8f",
+  "ResourceName": "413923f0-ff16-41ae-8583-90c5c5d9fa8f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "As a part of CMK encryption, Customer managed key encryption must be used. Learn more at https://aka.ms/EnableTDEArcSQLMI.",
+    "DisplayName": "Customer managed key encryption must be used as part of CMK Encryption for Arc SQL managed instances.",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "SQL Managed Instance"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AzureArcData/sqlmanagedinstances"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption.mode",
+                "notEquals": "CustomerManaged"
+              },
+              {
+                "field": "Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.security.transparentDataEncryption.mode",
+                "equals": "Disabled"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/413923f0-ff16-41ae-8583-90c5c5d9fa8f"
+}

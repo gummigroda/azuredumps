@@ -1,0 +1,51 @@
+{
+  "Name": "1d478a74-21ba-4b9f-9d8f-8e6fced0eec5",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1d478a74-21ba-4b9f-9d8f-8e6fced0eec5",
+  "ResourceName": "1d478a74-21ba-4b9f-9d8f-8e6fced0eec5",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To use this policy in preview, you must first follow these instructions at https://aka.ms/mhsmgovernance. Cryptographic keys should have a defined expiration date and not be permanent. Keys that are valid forever provide a potential attacker with more time to compromise the key. It is a recommended security practice to set expiration dates on cryptographic keys.",
+    "DisplayName": "[Preview]: Azure Key Vault Managed HSM keys should have an expiration date",
+    "Metadata": {
+      "category": "Key Vault",
+      "version": "1.0.1-preview",
+      "preview": true
+    },
+    "Mode": "Microsoft.ManagedHSM.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "description": "'Audit' allows a non-compliant resource to be created, but flags it as non-compliant. 'Deny' blocks the resource creation. 'Disable' turns off the policy.",
+          "displayName": "Effect"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ManagedHSM.Data/managedHsms/keys"
+          },
+          {
+            "field": "Microsoft.ManagedHSM.Data/managedHsms/keys/attributes.expiresOn",
+            "exists": false
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1d478a74-21ba-4b9f-9d8f-8e6fced0eec5"
+}

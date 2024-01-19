@@ -1,0 +1,45 @@
+{
+  "Name": "50e81644-923d-33fc-6ebb-9733bc8d1a06",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/50e81644-923d-33fc-6ebb-9733bc8d1a06",
+  "ResourceName": "50e81644-923d-33fc-6ebb-9733bc8d1a06",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0389 - Perform a trend analysis on threats",
+    "DisplayName": "Perform a trend analysis on threats",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0389"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/50e81644-923d-33fc-6ebb-9733bc8d1a06"
+}

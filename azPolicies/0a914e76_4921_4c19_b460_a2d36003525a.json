@@ -1,0 +1,36 @@
+{
+  "Name": "0a914e76-4921-4c19-b460-a2d36003525a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0a914e76-4921-4c19-b460-a2d36003525a",
+  "ResourceName": "0a914e76-4921-4c19-b460-a2d36003525a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit that the resource location matches its resource group location",
+    "DisplayName": "Audit resource location matches resource group location",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "General"
+    },
+    "Mode": "Indexed",
+    "Parameters": null,
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "location",
+            "notEquals": "[resourcegroup().location]"
+          },
+          {
+            "field": "location",
+            "notEquals": "global"
+          }
+        ]
+      },
+      "then": {
+        "effect": "audit"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0a914e76-4921-4c19-b460-a2d36003525a"
+}

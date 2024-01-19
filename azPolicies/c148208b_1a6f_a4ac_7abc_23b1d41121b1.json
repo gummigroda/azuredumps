@@ -1,0 +1,45 @@
+{
+  "Name": "c148208b-1a6f-a4ac-7abc-23b1d41121b1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c148208b-1a6f-a4ac-7abc-23b1d41121b1",
+  "ResourceName": "c148208b-1a6f-a4ac-7abc-23b1d41121b1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0205 - Document the information system environment in acquisition contracts",
+    "DisplayName": "Document the information system environment in acquisition contracts",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0205"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c148208b-1a6f-a4ac-7abc-23b1d41121b1"
+}

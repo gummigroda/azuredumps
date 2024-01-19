@@ -1,0 +1,45 @@
+{
+  "Name": "bd4dc286-2f30-5b95-777c-681f3a7913d3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/bd4dc286-2f30-5b95-777c-681f3a7913d3",
+  "ResourceName": "bd4dc286-2f30-5b95-777c-681f3a7913d3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0265 - Establish and document change control processes",
+    "DisplayName": "Establish and document change control processes",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0265"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/bd4dc286-2f30-5b95-777c-681f3a7913d3"
+}

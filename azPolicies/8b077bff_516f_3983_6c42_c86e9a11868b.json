@@ -1,0 +1,45 @@
+{
+  "Name": "8b077bff-516f-3983-6c42-c86e9a11868b",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/8b077bff-516f-3983-6c42-c86e9a11868b",
+  "ResourceName": "8b077bff-516f-3983-6c42-c86e9a11868b",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1747 - Designate individuals to fulfill specific roles and responsibilities",
+    "DisplayName": "Designate individuals to fulfill specific roles and responsibilities",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1747"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/8b077bff-516f-3983-6c42-c86e9a11868b"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "03d550b4-34ee-03f4-515f-f2e2faf7a413",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/03d550b4-34ee-03f4-515f-f2e2faf7a413",
+  "ResourceName": "03d550b4-34ee-03f4-515f-f2e2faf7a413",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0457 - Review access control policies and procedures",
+    "DisplayName": "Review access control policies and procedures",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0457"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/03d550b4-34ee-03f4-515f-f2e2faf7a413"
+}

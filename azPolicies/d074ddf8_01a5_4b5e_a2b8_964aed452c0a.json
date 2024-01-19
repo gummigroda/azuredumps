@@ -1,0 +1,58 @@
+{
+  "Name": "d074ddf8-01a5-4b5e-a2b8-964aed452c0a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d074ddf8-01a5-4b5e-a2b8-964aed452c0a",
+  "ResourceName": "d074ddf8-01a5-4b5e-a2b8-964aed452c0a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable public network access to improve security by exposing the Container Apps environment through an internal load balancer. This removes the need for a public IP address and prevents internet access to all Container Apps within the environment.",
+    "DisplayName": "Container Apps environment should disable public network access",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Container Apps"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.App/managedEnvironments"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.App/managedEnvironments/vnetConfiguration",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.App/managedEnvironments/vnetConfiguration.internal",
+                "equals": false
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d074ddf8-01a5-4b5e-a2b8-964aed452c0a"
+}

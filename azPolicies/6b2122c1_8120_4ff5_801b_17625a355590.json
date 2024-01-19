@@ -1,0 +1,65 @@
+{
+  "Name": "6b2122c1-8120-4ff5-801b-17625a355590",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/6b2122c1-8120-4ff5-801b-17625a355590",
+  "ResourceName": "6b2122c1-8120-4ff5-801b-17625a355590",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "The Azure Policy extension for Azure Arc provides at-scale enforcements and safeguards on your Arc enabled Kubernetes clusters in a centralized, consistent manner. Learn more at https://aka.ms/akspolicydoc.",
+    "DisplayName": "Azure Arc enabled Kubernetes clusters should have the Azure Policy extension installed",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Kubernetes"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Kubernetes/connectedClusters"
+          },
+          {
+            "field": "Microsoft.Kubernetes/connectedClusters/distribution",
+            "notEquals": "aks"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.KubernetesConfiguration/extensions",
+          "evaluationDelay": "AfterProvisioning",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.KubernetesConfiguration/extensions/extensionType",
+                "equals": "microsoft.policyinsights"
+              },
+              {
+                "field": "Microsoft.KubernetesConfiguration/extensions/provisioningState",
+                "equals": "Succeeded"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6b2122c1-8120-4ff5-801b-17625a355590"
+}

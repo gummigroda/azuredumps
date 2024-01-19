@@ -1,0 +1,45 @@
+{
+  "Name": "2e7a98c9-219f-0d58-38dc-d69038224442",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2e7a98c9-219f-0d58-38dc-d69038224442",
+  "ResourceName": "2e7a98c9-219f-0d58-38dc-d69038224442",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1732 - Protect the information security program plan",
+    "DisplayName": "Protect the information security program plan",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1732"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2e7a98c9-219f-0d58-38dc-d69038224442"
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "12430be1-6cc8-4527-a9a8-e3d38f250096",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/12430be1-6cc8-4527-a9a8-e3d38f250096",
+  "ResourceName": "12430be1-6cc8-4527-a9a8-e3d38f250096",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Mandates the use of 'Detection' or 'Prevention' mode to be active on all Web Application Firewall policies for Application Gateway.",
+    "DisplayName": "Web Application Firewall (WAF) should use the specified mode for Application Gateway",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      },
+      "modeRequirement": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Mode Requirement",
+          "description": "Mode required for all WAF policies"
+        },
+        "allowedValues": [
+          "Prevention",
+          "Detection"
+        ],
+        "defaultValue": "Detection"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies"
+          },
+          {
+            "field": "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/policySettings.mode",
+            "notEquals": "[parameters('modeRequirement')]"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/12430be1-6cc8-4527-a9a8-e3d38f250096"
+}

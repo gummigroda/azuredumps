@@ -1,0 +1,61 @@
+{
+  "Name": "6c53d030-cc64-46f0-906d-2bc061cd1334",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/6c53d030-cc64-46f0-906d-2bc061cd1334",
+  "ResourceName": "6c53d030-cc64-46f0-906d-2bc061cd1334",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Improve workspace security by blocking log ingestion and querying from public networks. Only private-link connected networks will be able to ingest and query logs on this workspace. Learn more at https://aka.ms/AzMonPrivateLink#configure-log-analytics.",
+    "DisplayName": "Log Analytics workspaces should block log ingestion and querying from public networks",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Monitoring"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The effect determines what happens when the policy rule is evaluated to match"
+        },
+        "allowedValues": [
+          "audit",
+          "Audit",
+          "deny",
+          "Deny",
+          "disabled",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.OperationalInsights/workspaces"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.OperationalInsights/workspaces/publicNetworkAccessForIngestion",
+                "notEquals": "disabled"
+              },
+              {
+                "field": "Microsoft.OperationalInsights/workspaces/publicNetworkAccessForQuery",
+                "notEquals": "disabled"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6c53d030-cc64-46f0-906d-2bc061cd1334"
+}

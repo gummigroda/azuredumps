@@ -1,0 +1,50 @@
+{
+  "Name": "74c5a0ae-5e48-4738-b093-65e23a060488",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/74c5a0ae-5e48-4738-b093-65e23a060488",
+  "ResourceName": "74c5a0ae-5e48-4738-b093-65e23a060488",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disabling public network access on a Batch account improves security by ensuring your Batch account can only be accessed from a private endpoint. Learn more about disabling public network access at https://docs.microsoft.com/azure/batch/private-connectivity.",
+    "DisplayName": "Public network access should be disabled for Batch accounts",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Batch"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "The desired effect of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Batch/batchAccounts"
+          },
+          {
+            "field": "Microsoft.Batch/batchAccounts/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/74c5a0ae-5e48-4738-b093-65e23a060488"
+}

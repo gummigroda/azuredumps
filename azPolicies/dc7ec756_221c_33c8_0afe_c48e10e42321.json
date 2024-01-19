@@ -1,0 +1,45 @@
+{
+  "Name": "dc7ec756-221c-33c8-0afe-c48e10e42321",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/dc7ec756-221c-33c8-0afe-c48e10e42321",
+  "ResourceName": "dc7ec756-221c-33c8-0afe-c48e10e42321",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0541 - Verify security controls for external information systems",
+    "DisplayName": "Verify security controls for external information systems",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0541"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/dc7ec756-221c-33c8-0afe-c48e10e42321"
+}

@@ -1,0 +1,66 @@
+{
+  "Name": "1a4e592a-6a6e-44a5-9814-e36264ca96e7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1a4e592a-6a6e-44a5-9814-e36264ca96e7",
+  "ResourceName": "1a4e592a-6a6e-44a5-9814-e36264ca96e7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy ensures that a log profile collects logs for categories 'write,' 'delete,' and 'action'",
+    "DisplayName": "Azure Monitor log profile should collect logs for categories 'write,' 'delete,' and 'action'",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Monitoring"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Insights/logprofiles",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "not": {
+                  "field": "Microsoft.Insights/logProfiles/categories[*]",
+                  "notEquals": "Write"
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Insights/logProfiles/categories[*]",
+                  "notEquals": "Delete"
+                }
+              },
+              {
+                "not": {
+                  "field": "Microsoft.Insights/logProfiles/categories[*]",
+                  "notEquals": "Action"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1a4e592a-6a6e-44a5-9814-e36264ca96e7"
+}

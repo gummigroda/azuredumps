@@ -1,0 +1,57 @@
+{
+  "Name": "e8d99835-8a06-45ae-a8e0-87a91941ccfe",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e8d99835-8a06-45ae-a8e0-87a91941ccfe",
+  "ResourceName": "e8d99835-8a06-45ae-a8e0-87a91941ccfe",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "If your secrets were created with an activation date set in the future, you must ensure that your secrets have not been active for longer than the specified duration.",
+    "DisplayName": "Secrets should not be active for longer than the specified number of days",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Key Vault"
+    },
+    "Mode": "Microsoft.KeyVault.Data",
+    "Parameters": {
+      "maximumValidityInDays": {
+        "type": "Integer",
+        "metadata": {
+          "displayName": "The maximum validity period in days",
+          "description": "Specify the maximum number of days a secret can be valid for after activation."
+        }
+      },
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Audit' allows a non-compliant resource to be created, but flags it as non-compliant. 'Deny' blocks the resource creation. 'Disable' turns off the policy."
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.KeyVault.Data/vaults/secrets"
+          },
+          {
+            "value": "[utcNow()]",
+            "greater": "[addDays(if(empty(field('Microsoft.KeyVault.Data/vaults/secrets/attributes.notBefore')), field('Microsoft.KeyVault.Data/vaults/secrets/attributes.createdOn'), field('Microsoft.KeyVault.Data/vaults/secrets/attributes.notBefore')), parameters('maximumValidityInDays'))]"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e8d99835-8a06-45ae-a8e0-87a91941ccfe"
+}

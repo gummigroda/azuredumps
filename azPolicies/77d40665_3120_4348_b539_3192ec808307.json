@@ -1,0 +1,58 @@
+{
+  "Name": "77d40665-3120-4348-b539-3192ec808307",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/77d40665-3120-4348-b539-3192ec808307",
+  "ResourceName": "77d40665-3120-4348-b539-3192ec808307",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Configure only your development data factory with Git integration. Changes to test and production should be deployed via CI/CD and should NOT have Git integration.  DO NOT apply this policy on your QA / Test / Production data factories.",
+    "DisplayName": "Azure Data Factory should use a Git repository for source control",
+    "Metadata": {
+      "version": "1.0.1",
+      "category": "Data Factory"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DataFactory/factories"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.DataFactory/factories/repoConfiguration.repositoryName",
+                "exists": "false"
+              },
+              {
+                "field": "Microsoft.DataFactory/factories/repoConfiguration.repositoryName",
+                "equals": ""
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/77d40665-3120-4348-b539-3192ec808307"
+}

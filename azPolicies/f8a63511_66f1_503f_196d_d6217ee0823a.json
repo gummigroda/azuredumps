@@ -1,0 +1,45 @@
+{
+  "Name": "f8a63511-66f1-503f-196d-d6217ee0823a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f8a63511-66f1-503f-196d-d6217ee0823a",
+  "ResourceName": "f8a63511-66f1-503f-196d-d6217ee0823a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_C1602 - Require developers to produce evidence of security assessment plan execution",
+    "DisplayName": "Require developers to produce evidence of security assessment plan execution",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_C1602"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f8a63511-66f1-503f-196d-d6217ee0823a"
+}

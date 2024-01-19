@@ -1,0 +1,48 @@
+{
+  "Name": "cfaf0007-99c7-4b01-b36b-4048872ac978",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/cfaf0007-99c7-4b01-b36b-4048872ac978",
+  "ResourceName": "cfaf0007-99c7-4b01-b36b-4048872ac978",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enable transparent data encryption for Azure Synapse Analytics dedicated SQL pools to protect data-at-rest and meet compliance requirements. Please note that enabling transparent data encryption for the pool may impact query performance. More details can refer to https://go.microsoft.com/fwlink/?linkid=2147714",
+    "DisplayName": "Azure Synapse Analytics dedicated SQL pools should enable encryption",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Synapse"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Synapse/workspaces/sqlPools"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/",
+          "existenceCondition": {
+            "field": "Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/status",
+            "equals": "Enabled"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cfaf0007-99c7-4b01-b36b-4048872ac978"
+}

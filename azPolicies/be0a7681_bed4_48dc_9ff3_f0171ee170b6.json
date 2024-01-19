@@ -1,0 +1,77 @@
+{
+  "Name": "be0a7681-bed4-48dc-9ff3-f0171ee170b6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/be0a7681-bed4-48dc-9ff3-f0171ee170b6",
+  "ResourceName": "be0a7681-bed4-48dc-9ff3-f0171ee170b6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use the latest supported Java version for the latest security classes. Using older classes and types can make your application vulnerable.",
+    "DisplayName": "[Deprecated]: Audit Web Applications that are not using latest supported Java Framework",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allof": [
+          {
+            "field": "type",
+            "equals": "microsoft.Web/sites"
+          },
+          {
+            "anyof": [
+              {
+                "field": "kind",
+                "equals": "app"
+              },
+              {
+                "field": "kind",
+                "equals": "WebApp"
+              },
+              {
+                "field": "kind",
+                "equals": "app,linux"
+              },
+              {
+                "field": "kind",
+                "equals": "app,linux,container"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Security/complianceResults",
+          "name": "UseLatestJava",
+          "existenceCondition": {
+            "field": "Microsoft.Security/complianceResults/resourceStatus",
+            "in": [
+              "OffByPolicy",
+              "Healthy"
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/be0a7681-bed4-48dc-9ff3-f0171ee170b6"
+}

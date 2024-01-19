@@ -1,0 +1,44 @@
+{
+  "Name": "f4826e5f-6a27-407c-ae3e-9582eb39891d",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/f4826e5f-6a27-407c-ae3e-9582eb39891d",
+  "ResourceName": "f4826e5f-6a27-407c-ae3e-9582eb39891d",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Audit existence of authorization rules on Event Hub entities to grant least-privileged access",
+    "DisplayName": "Authorization rules on the Event Hub instance should be defined",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Event Hub"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.EventHub/namespaces/eventhubs"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.EventHub/namespaces/eventHubs/authorizationRules"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f4826e5f-6a27-407c-ae3e-9582eb39891d"
+}

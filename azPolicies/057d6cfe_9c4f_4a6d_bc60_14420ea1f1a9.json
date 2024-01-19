@@ -1,0 +1,60 @@
+{
+  "Name": "057d6cfe-9c4f-4a6d-bc60-14420ea1f1a9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/057d6cfe-9c4f-4a6d-bc60-14420ea1f1a9",
+  "ResourceName": "057d6cfe-9c4f-4a6d-bc60-14420ea1f1a9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy is deprecated. The policy ensures that an email address is provided for the 'Send scan reports to' field in the Vulnerability Assessment settings. This email address receives scan result summary after a periodic scan runs on SQL servers.",
+    "DisplayName": "[Deprecated]: Vulnerability Assessment settings for SQL server should contain an email address to receive scan reports",
+    "Metadata": {
+      "version": "2.0.0-deprecated",
+      "category": "SQL",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Sql/servers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/vulnerabilityAssessments",
+          "name": "default",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.Sql/servers/vulnerabilityAssessments/default.recurringScans.emails[*]",
+                "notEquals": ""
+              },
+              {
+                "count": {
+                  "field": "Microsoft.Sql/servers/vulnerabilityAssessments/default.recurringScans.emails[*]"
+                },
+                "notEquals": 0
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/057d6cfe-9c4f-4a6d-bc60-14420ea1f1a9"
+}

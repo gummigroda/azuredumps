@@ -1,0 +1,45 @@
+{
+  "Name": "cd36eeec-67e7-205a-4b64-dbfe3b4e3e4e",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/cd36eeec-67e7-205a-4b64-dbfe3b4e3e4e",
+  "ResourceName": "cd36eeec-67e7-205a-4b64-dbfe3b4e3e4e",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "CMA_0315 - Implement controls to secure alternate work sites",
+    "DisplayName": "Implement controls to secure alternate work sites",
+    "Metadata": {
+      "version": "1.1.0",
+      "category": "Regulatory Compliance",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/CMA_0315"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Manual",
+          "Disabled"
+        ],
+        "defaultValue": "Manual"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Resources/subscriptions"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "defaultState": "Unknown"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cd36eeec-67e7-205a-4b64-dbfe3b4e3e4e"
+}

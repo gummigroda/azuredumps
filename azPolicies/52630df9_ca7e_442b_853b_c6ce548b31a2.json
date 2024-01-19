@@ -1,0 +1,57 @@
+{
+  "Name": "52630df9-ca7e-442b-853b-c6ce548b31a2",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/52630df9-ca7e-442b-853b-c6ce548b31a2",
+  "ResourceName": "52630df9-ca7e-442b-853b-c6ce548b31a2",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "The policy is deprecated. Please use /providers/Microsoft.Authorization/policyDefinitions/eb907f70-7514-460d-92b3-a5ae93b4f917 instead.",
+    "DisplayName": "[Deprecated]: Azure Web PubSub Service should use private link",
+    "Metadata": {
+      "version": "1.0.1-deprecated",
+      "category": "Web PubSub",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.SignalRService/webPubSub"
+          },
+          {
+            "count": {
+              "field": "Microsoft.SignalRService/webPubSub/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.SignalRService/webPubSub/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/52630df9-ca7e-442b-853b-c6ce548b31a2"
+}

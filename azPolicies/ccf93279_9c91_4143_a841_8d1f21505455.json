@@ -1,0 +1,50 @@
+{
+  "Name": "ccf93279-9c91-4143-a841-8d1f21505455",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ccf93279-9c91-4143-a841-8d1f21505455",
+  "ResourceName": "ccf93279-9c91-4143-a841-8d1f21505455",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "The Media Services legacy v2 API allows requests that cannot be managed using Azure Policy. Media Services resources created using the 2020-05-01 API or later block access to the legacy v2 API.",
+    "DisplayName": "Azure Media Services accounts that allow access to the legacy v2 API should be blocked",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Media Services"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Media/mediaservices"
+          },
+          {
+            "field": "Microsoft.Media/mediaservices/encryption.type",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ccf93279-9c91-4143-a841-8d1f21505455"
+}

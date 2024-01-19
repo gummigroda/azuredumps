@@ -1,0 +1,68 @@
+{
+  "Name": "a6fb4358-5bf4-4ad7-ba82-2cd2f41ce5e9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a6fb4358-5bf4-4ad7-ba82-2cd2f41ce5e9",
+  "ResourceName": "a6fb4358-5bf4-4ad7-ba82-2cd2f41ce5e9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Auditing on your SQL Server should be enabled to track database activities across all databases on the server and save them in an audit log.",
+    "DisplayName": "Auditing on SQL server should be enabled",
+    "Metadata": {
+      "version": "2.0.0",
+      "category": "SQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      },
+      "setting": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Desired Auditing setting"
+        },
+        "allowedValues": [
+          "enabled",
+          "disabled"
+        ],
+        "defaultValue": "enabled"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/servers"
+          },
+          {
+            "field": "kind",
+            "notContains": "analytics"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.Sql/servers/auditingSettings",
+          "name": "default",
+          "existenceCondition": {
+            "field": "Microsoft.Sql/auditingSettings.state",
+            "equals": "[parameters('setting')]"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a6fb4358-5bf4-4ad7-ba82-2cd2f41ce5e9"
+}

@@ -1,0 +1,50 @@
+{
+  "Name": "ca85ef9a-741d-461d-8b7a-18c2da82c666",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/ca85ef9a-741d-461d-8b7a-18c2da82c666",
+  "ResourceName": "ca85ef9a-741d-461d-8b7a-18c2da82c666",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure that Web Application Firewalls associated to Azure Application Gateways have Request body inspection enabled. This allows the WAF to inspect properties within the HTTP body that may not be evaluated in the HTTP headers, cookies, or URI.",
+    "DisplayName": "Azure Web Application Firewall on Azure Application Gateway should have request body inspection enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies"
+          },
+          {
+            "field": "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/policySettings.requestBodyCheck",
+            "equals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ca85ef9a-741d-461d-8b7a-18c2da82c666"
+}
