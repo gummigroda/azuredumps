@@ -8,7 +8,7 @@
     "Description": "Enable Advanced Threat Protection on your non-Basic tier Azure database for MariaDB servers to detect anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases.",
     "DisplayName": "Configure Advanced Threat Protection to be enabled on Azure database for MariaDB servers",
     "Metadata": {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "SQL"
     },
     "Mode": "Indexed",
@@ -44,7 +44,7 @@
         "details": {
           "type": "Microsoft.DBforMariaDB/servers/securityAlertPolicies",
           "name": "Default",
-          "evaluationDelay": "AfterProvisioning",
+          "evaluationDelay": "AfterProvisioningSuccess",
           "existenceCondition": {
             "field": "Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.state",
             "equals": "Enabled"

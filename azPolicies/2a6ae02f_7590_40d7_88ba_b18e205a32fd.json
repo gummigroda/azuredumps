@@ -8,7 +8,7 @@
     "Description": "Enable Advanced Threat Protection on your Azure database for PostgreSQL flexible servers to detect anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases.",
     "DisplayName": "Configure Advanced Threat Protection to be enabled on Azure database for PostgreSQL flexible servers",
     "Metadata": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -36,7 +36,7 @@
         "details": {
           "type": "Microsoft.DBforPostgreSQL/flexibleservers/advancedThreatProtectionSettings",
           "name": "Default",
-          "evaluationDelay": "AfterProvisioning",
+          "evaluationDelay": "AfterProvisioningSuccess",
           "existenceCondition": {
             "field": "Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/state",
             "equals": "Enabled"

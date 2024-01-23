@@ -1,0 +1,50 @@
+{
+  "Name": "6a92fe1f-0b86-44ae-843d-2db3d2b571ae",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/6a92fe1f-0b86-44ae-843d-2db3d2b571ae",
+  "ResourceName": "6a92fe1f-0b86-44ae-843d-2db3d2b571ae",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable public network access for your ElasticSan so that it's not accessible over the public internet. This can reduce data leakage risks.",
+    "DisplayName": "ElasticSan should disable public network access",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "ElasticSan"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ElasticSan/elasticSans"
+          },
+          {
+            "field": "Microsoft.ElasticSan/elasticSans/publicNetworkAccess",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6a92fe1f-0b86-44ae-843d-2db3d2b571ae"
+}

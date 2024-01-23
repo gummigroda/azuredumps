@@ -9,7 +9,7 @@
     "DisplayName": "Deploy the Linux Guest Configuration extension to enable Guest Configuration assignments on Linux VMs",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "3.0.0"
+      "version": "3.1.0"
     },
     "Mode": "Indexed",
     "Parameters": null,
@@ -80,7 +80,7 @@
                   },
                   {
                     "field": "Microsoft.Compute/imageOffer",
-                    "notLike": "cis-windows*"
+                    "notLike": "cis-win*"
                   }
                 ]
               },
