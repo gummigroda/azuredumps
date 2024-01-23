@@ -1,0 +1,55 @@
+{
+  "Name": "1abc5157-29f8-4dbd-b28e-ff99526cb8b7",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/1abc5157-29f8-4dbd-b28e-ff99526cb8b7",
+  "ResourceName": "1abc5157-29f8-4dbd-b28e-ff99526cb8b7",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Private endpoints lets administrator connect virtual networks to Azure services without a public IP address at the source or destination. By mapping private endpoints to volume group, administrator can reduce data leakage risks",
+    "DisplayName": "ElasticSan Volume Group should use private endpoints",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "ElasticSan"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ElasticSan/elasticSans/volumeGroups"
+          },
+          {
+            "count": {
+              "field": "Microsoft.ElasticSan/elasticSans/volumeGroups/privateEndpointConnections[*]",
+              "where": {
+                "field": "Microsoft.ElasticSan/elasticSans/volumeGroups/privateEndpointConnections[*].privateLinkServiceConnectionState.status",
+                "equals": "Approved"
+              }
+            },
+            "less": 1
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1abc5157-29f8-4dbd-b28e-ff99526cb8b7"
+}

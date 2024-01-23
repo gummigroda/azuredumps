@@ -8,7 +8,7 @@
     "Description": "Requires that prerequisites are deployed to the policy assignment scope. For details, visit https://aka.ms/gcpol. Machines are non-compliant if the machine is not configured correctly for one of the recommendations in the Azure compute security baseline.",
     "DisplayName": "Linux machines should meet requirements for the Azure compute security baseline",
     "Metadata": {
-      "version": "2.1.0",
+      "version": "2.2.0",
       "category": "Guest Configuration",
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
@@ -115,7 +115,7 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageOffer",
-                        "notLike": "cis-windows*"
+                        "notLike": "cis-win*"
                       }
                     ]
                   },

@@ -9,7 +9,7 @@
     "DisplayName": "[Preview]: Add user-assigned managed identity to enable Guest Configuration assignments on virtual machines",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "2.0.1-preview",
+      "version": "2.1.0-preview",
       "preview": true
     },
     "Mode": "Indexed",
@@ -248,7 +248,7 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageOffer",
-                        "notLike": "cis-windows*"
+                        "notLike": "cis-win*"
                       }
                     ]
                   },

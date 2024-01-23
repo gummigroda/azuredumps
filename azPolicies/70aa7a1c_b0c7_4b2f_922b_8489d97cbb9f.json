@@ -8,7 +8,7 @@
     "Description": "Requires that prerequisites are deployed to the policy assignment scope. For details, visit https://aka.ms/gcpol. The machine is not configured correctly for one of the recommendations in the Azure security baseline for Docker hosts.",
     "DisplayName": "[Preview]: Linux machines should meet requirements for the Azure security baseline for Docker hosts",
     "Metadata": {
-      "version": "1.1.0-preview",
+      "version": "1.2.0-preview",
       "category": "Guest Configuration",
       "preview": true,
       "requiredProviders": [
@@ -116,7 +116,7 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageOffer",
-                        "notLike": "cis-windows*"
+                        "notLike": "cis-win*"
                       }
                     ]
                   },

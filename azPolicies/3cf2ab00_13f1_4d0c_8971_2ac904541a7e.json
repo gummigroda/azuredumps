@@ -9,7 +9,7 @@
     "DisplayName": "Add system-assigned managed identity to enable Guest Configuration assignments on virtual machines with no identities",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "4.0.0"
+      "version": "4.1.0"
     },
     "Mode": "Indexed",
     "Parameters": null,
@@ -233,7 +233,7 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageOffer",
-                        "notLike": "cis-windows*"
+                        "notLike": "cis-win*"
                       }
                     ]
                   },

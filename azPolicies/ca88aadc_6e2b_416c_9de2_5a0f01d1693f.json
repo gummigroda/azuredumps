@@ -9,7 +9,7 @@
     "DisplayName": "[Preview]: Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "1.1.0-preview",
+      "version": "1.2.0-preview",
       "preview": true,
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
@@ -135,7 +135,7 @@
                   },
                   {
                     "field": "Microsoft.Compute/imageOffer",
-                    "notLike": "cis-windows*"
+                    "notLike": "cis-win*"
                   }
                 ]
               },

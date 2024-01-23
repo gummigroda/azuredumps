@@ -8,7 +8,7 @@
     "Description": "This policy audits Linux virtual machines hosted in Azure that are supported by Guest Configuration but do not have the Guest Configuration extension enabled. For more information on Guest Configuration, visit https://aka.ms/gcpol.",
     "DisplayName": "[Deprecated]: Audit Linux virtual machines on which the Linux Guest Configuration extension is not enabled",
     "Metadata": {
-      "version": "1.1.0-deprecated",
+      "version": "1.2.0-deprecated",
       "category": "Guest Configuration",
       "deprecated": true
     },
@@ -94,7 +94,7 @@
                   },
                   {
                     "field": "Microsoft.Compute/imageOffer",
-                    "notLike": "cis-windows*"
+                    "notLike": "cis-win*"
                   }
                 ]
               },

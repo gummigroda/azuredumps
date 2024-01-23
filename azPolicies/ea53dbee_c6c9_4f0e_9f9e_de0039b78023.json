@@ -9,7 +9,7 @@
     "DisplayName": "Audit Linux machines that allow remote connections from accounts without passwords",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],
@@ -115,7 +115,7 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageOffer",
-                        "notLike": "cis-windows*"
+                        "notLike": "cis-win*"
                       }
                     ]
                   },
