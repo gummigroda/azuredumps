@@ -1,0 +1,58 @@
+{
+  "Name": "0c28c3fb-c244-42d5-a9bf-f35f2999577b",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0c28c3fb-c244-42d5-a9bf-f35f2999577b",
+  "ResourceName": "0c28c3fb-c244-42d5-a9bf-f35f2999577b",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Require Azure SQL Managed Instance to use Microsoft Entra-only authentication. This policy doesn't block Azure SQL Managed instances from being created with local authentication enabled. It does block local authentication from being enabled on resources after create. Consider using the 'Microsoft Entra-only authentication' initiative instead to require both. Learn more at: https://aka.ms/adonlycreate.",
+    "DisplayName": "Azure SQL Managed Instance should have Microsoft Entra-only authentication enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "SQL"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/azureADOnlyAuthentication",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/azureADOnlyAuthentication",
+                "equals": false
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0c28c3fb-c244-42d5-a9bf-f35f2999577b"
+}

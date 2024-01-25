@@ -1,0 +1,55 @@
+{
+  "Name": "56c47221-b8b7-446e-9ab7-c7c9dc07f0ad",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/56c47221-b8b7-446e-9ab7-c7c9dc07f0ad",
+  "ResourceName": "56c47221-b8b7-446e-9ab7-c7c9dc07f0ad",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure that all Azure Stack HCI servers meet the Secured-core requirements. To enable the Secured-core server requirements: 1. From the Azure Stack HCI clusters page, go to Windows Admin Center and select Connect. 2. Go to the Security extension and select Secured-core. 3. Select any setting that is not enabled and click Enable.",
+    "DisplayName": "[Preview]: Azure Stack HCI servers should meet Secured-core requirements",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Stack HCI",
+      "preview": true
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AzureStackHCI/clusters/securitySettings"
+          },
+          {
+            "not": {
+              "field": "Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.securedCoreCompliance",
+              "in": [
+                "Compliant",
+                "Pending"
+              ]
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/56c47221-b8b7-446e-9ab7-c7c9dc07f0ad"
+}

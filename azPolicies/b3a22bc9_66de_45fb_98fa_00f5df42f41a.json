@@ -1,17 +1,17 @@
 {
-  "Name": "abda6d70-9778-44e7-84a8-06713e6db027",
-  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/abda6d70-9778-44e7-84a8-06713e6db027",
-  "ResourceName": "abda6d70-9778-44e7-84a8-06713e6db027",
+  "Name": "b3a22bc9-66de-45fb-98fa-00f5df42f41a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b3a22bc9-66de-45fb-98fa-00f5df42f41a",
+  "ResourceName": "b3a22bc9-66de-45fb-98fa-00f5df42f41a",
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Disabling local authentication methods and allowing only Microsoft Entra authentication improves security by ensuring that Azure SQL Databases can exclusively be accessed by Microsoft Entra identities. Learn more at: aka.ms/adonlycreate.",
+    "Description": "Require Azure SQL logical servers to use Microsoft Entra-only authentication. This policy doesn't block servers from being created with local authentication enabled. It does block local authentication from being enabled on resources after create. Consider using the 'Microsoft Entra-only authentication' initiative instead to require both. Learn more at: https://aka.ms/adonlycreate.",
     "DisplayName": "Azure SQL Database should have Microsoft Entra-only authentication enabled",
     "Metadata": {
-      "version": "1.2.0",
+      "version": "1.0.0",
       "category": "SQL"
     },
-    "Mode": "Indexed",
+    "Mode": "All",
     "Parameters": {
       "effect": {
         "type": "String",
@@ -32,7 +32,7 @@
         "allOf": [
           {
             "field": "type",
-            "equals": "Microsoft.Sql/servers"
+            "equals": "Microsoft.Sql/servers/azureADOnlyAuthentications"
           },
           {
             "value": "[resourcegroup().managedBy]",
@@ -41,11 +41,11 @@
           {
             "anyOf": [
               {
-                "field": "Microsoft.Sql/servers/administrators.azureADOnlyAuthentication",
+                "field": "Microsoft.Sql/servers/azureADOnlyAuthentications/azureADOnlyAuthentication",
                 "exists": false
               },
               {
-                "field": "Microsoft.Sql/servers/administrators.azureADOnlyAuthentication",
+                "field": "Microsoft.Sql/servers/azureADOnlyAuthentications/azureADOnlyAuthentication",
                 "equals": false
               }
             ]
@@ -58,5 +58,5 @@
     },
     "PolicyType": 2
   },
-  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/abda6d70-9778-44e7-84a8-06713e6db027"
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b3a22bc9-66de-45fb-98fa-00f5df42f41a"
 }
