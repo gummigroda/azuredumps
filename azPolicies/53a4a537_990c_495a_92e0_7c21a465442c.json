@@ -110,14 +110,14 @@
         "type": "Array",
         "metadata": {
           "displayName": "Allowed Users",
-          "description": "Users that are allowed by deployment safeguards to modify node labels on individual nodes."
+          "description": "Users that are allowed by AKS Safeguards to modify node labels on individual nodes."
         }
       },
       "allowedGroups": {
         "type": "Array",
         "metadata": {
           "displayName": "Allowed Groups",
-          "description": "Groups that are allowed by deployment safeguards to modify node labels on individual nodes."
+          "description": "Groups that are allowed by AKS Safeguards to modify node labels on individual nodes."
         }
       }
     },
