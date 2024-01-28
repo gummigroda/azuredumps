@@ -28,7 +28,8 @@ runs:
       - name: Checkout new branch
         shell: pwsh
         run: |
-          git checkout -b ${{inputs.branch_name}}
+          git checkout -B ${{inputs.branch_name}}
+          git pull
 
       ## DUMP AZ XXX DEFINITIONS
       - name: Get Azure ${{inputs.resource_type}} Definitions
@@ -43,7 +44,8 @@ runs:
         id: gitDiff
         shell: pwsh
         run: |
-          [array]$sts=(git status --short)
+          [array]$sts=git diff HEAD~2 --name-only
+          #[array]$sts=(git status --short)
           Write-Output ("Git Diff Status:`n{0}" -f ($sts | Out-String))
           if ($sts -match '${{inputs.save_path}}') {
             "FILES_CHANGED=yes" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
@@ -75,4 +77,4 @@ runs:
           $prBody = "Changes downloaded from Azure: {0}" -f (Get-Date).ToString('s')
           $title = "Automated Dumps from Azure - ${{inputs.resource_type}}"
           gh pr create --title $title --body $prBody --base 'main' --head ${{inputs.branch_name}}
-          gh pr merge "${{inputs.branch_name}}" --squash --delete-branch
+          gh pr merge "${{inputs.branch_name}}" --squash

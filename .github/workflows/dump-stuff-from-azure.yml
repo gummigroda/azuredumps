@@ -26,7 +26,8 @@ jobs:
           fetch-depth: 0
     
       # Login, dump, diff, ev commit, push and merge
-      - uses: ./.github/actions/dump-and-push
+      - name: Dump and push - Roles
+        uses: ./.github/actions/dump-and-push
         with:
           branch_name: 'Automated-Role-Dump'
           save_path: 'azRoles/'
@@ -34,10 +35,6 @@ jobs:
   
   Get-AzPolicies:
     runs-on: ubuntu-latest
-    env:
-      azRolesPath: 'azPolicies/'
-      newBranch: 
-
     steps:
       ## CHECKOUT CODE
       - name: Checkout code
@@ -46,7 +43,8 @@ jobs:
           fetch-depth: 0
     
       # Login, dump, diff, ev commit, push and merge
-      - uses: ./.github/actions/dump-and-push
+      - name: Dump and push - Policies
+        uses: ./.github/actions/dump-and-push
         with:
           branch_name: 'Automated-Policies-Dump'
           save_path: 'azPolicies/'
