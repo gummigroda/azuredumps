@@ -5,8 +5,8 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Require Azure SQL logical servers to be created with Microsoft Entra-only authentication. This policy doesn't block local authentication from being re-enabled on resources after create. Consider using the 'Microsoft Entra-only authentication' initiative instead to require both. Learn more at: https://aka.ms/adonlycreate.",
-    "DisplayName": "Azure SQL Database should have Microsoft Entra-only authentication enabled during creation",
+    "Description": "Disabling local authentication methods and allowing only Microsoft Entra authentication improves security by ensuring that Azure SQL Databases can exclusively be accessed by Microsoft Entra identities. Learn more at: aka.ms/adonlycreate.",
+    "DisplayName": "Azure SQL Database should have Microsoft Entra-only authentication enabled",
     "Metadata": {
       "version": "1.2.0",
       "category": "SQL"
