@@ -29,7 +29,7 @@ runs:
         shell: pwsh
         run: |
           git checkout -B ${{inputs.branch_name}}
-          git pull
+          git pull origin ${{inputs.branch_name}}
 
       ## DUMP AZ XXX DEFINITIONS
       - name: Get Azure ${{inputs.resource_type}} Definitions
