@@ -1,0 +1,16 @@
+{
+  "Name": "Cognitive Search Serverless Data Contributor (Deprecated)",
+  "Id": "7ac06ca7-21ca-47e3-a67b-cbd6e6223baf",
+  "IsCustom": false,
+  "Description": "This role has been deprecated",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveSearch/indexes/schema/*",
+    "Microsoft.CognitiveSearch/indexes/documents/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}
