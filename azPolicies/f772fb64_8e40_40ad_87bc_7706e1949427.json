@@ -6,11 +6,10 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Manage certificates that will expire within a specified number of days to ensure your organization has sufficient time to rotate the certificate prior to expiration.",
-    "DisplayName": "[Preview]: Certificates should not expire within the specified number of days",
+    "DisplayName": "Certificates should not expire within the specified number of days",
     "Metadata": {
-      "version": "2.1.0-preview",
-      "category": "Key Vault",
-      "preview": true
+      "version": "2.1.1",
+      "category": "Key Vault"
     },
     "Mode": "Microsoft.KeyVault.Data",
     "Parameters": {

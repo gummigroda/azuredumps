@@ -6,11 +6,10 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Enable RBAC permission model across Key Vaults. Learn more at: https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-migration",
-    "DisplayName": "[Preview]: Azure Key Vault should use RBAC permission model",
+    "DisplayName": "Azure Key Vault should use RBAC permission model",
     "Metadata": {
-      "version": "1.0.0-preview",
-      "category": "Key Vault",
-      "preview": true
+      "version": "1.0.1",
+      "category": "Key Vault"
     },
     "Mode": "Indexed",
     "Parameters": {

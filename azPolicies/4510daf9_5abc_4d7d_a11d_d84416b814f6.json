@@ -1,0 +1,45 @@
+{
+  "Name": "4510daf9-5abc-4d7d-a11d-d84416b814f6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/4510daf9-5abc-4d7d-a11d-d84416b814f6",
+  "ResourceName": "4510daf9-5abc-4d7d-a11d-d84416b814f6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure protection of your Storage Accounts by enabling Azure Backup. Azure Backup is a secure and cost effective data protection solution for Azure.",
+    "DisplayName": "[Preview]: Azure Backup should be enabled for Blobs in Storage Accounts",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Backup",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Storage/storageAccounts"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DataProtection/backupInstances"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4510daf9-5abc-4d7d-a11d-d84416b814f6"
+}

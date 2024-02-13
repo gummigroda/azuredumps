@@ -8,7 +8,7 @@
     "Description": "Configures flow log for specific virtual network. It will allow to log information about IP traffic flowing through an virtual network. Flow log helps to identify unknown or undesired traffic, verify network isolation and compliance with enterprise access rules, analyze network flows from compromised IPs and network interfaces.",
     "DisplayName": "Deploy a Flow Log resource with target virtual network",
     "Metadata": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "Network"
     },
     "Mode": "Indexed",
