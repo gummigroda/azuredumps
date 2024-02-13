@@ -6,11 +6,10 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Manage your organizational compliance requirements by specifying the maximum amount of time that a certificate can be valid within your key vault.",
-    "DisplayName": "[Preview]: Certificates should have the specified maximum validity period",
+    "DisplayName": "Certificates should have the specified maximum validity period",
     "Metadata": {
-      "version": "2.2.0-preview",
-      "category": "Key Vault",
-      "preview": true
+      "version": "2.2.1",
+      "category": "Key Vault"
     },
     "Mode": "Microsoft.KeyVault.Data",
     "Parameters": {

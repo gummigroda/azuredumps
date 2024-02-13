@@ -1,0 +1,45 @@
+{
+  "Name": "0b0434ec-2bad-4229-965f-bb7ae5a71257",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0b0434ec-2bad-4229-965f-bb7ae5a71257",
+  "ResourceName": "0b0434ec-2bad-4229-965f-bb7ae5a71257",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure protection of your AKS Clusters by enabling Azure Backup. Azure Backup for AKS is a secure and cloud native data protection solution for AKS clusters.",
+    "DisplayName": "[Preview]: Azure Backup should be enabled for AKS clusters",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Backup",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DataProtection/backupInstances"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0b0434ec-2bad-4229-965f-bb7ae5a71257"
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "a25a41a7-a769-4271-841d-7ce0297be0c0",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a25a41a7-a769-4271-841d-7ce0297be0c0",
+  "ResourceName": "a25a41a7-a769-4271-841d-7ce0297be0c0",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure protection of your Managed Disks by enabling Azure Backup. Azure Backup is a secure and cost effective data protection solution for Azure.",
+    "DisplayName": "[Preview]: Azure Backup should be enabled for Managed Disks",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Backup",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.Compute/disks"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DataProtection/backupInstances"
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a25a41a7-a769-4271-841d-7ce0297be0c0"
+}

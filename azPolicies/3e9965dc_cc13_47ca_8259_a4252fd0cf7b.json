@@ -8,7 +8,7 @@
     "Description": "Traffic analytics and Flow logs can be enabled for all virtual networks hosted in a particular region with the settings provided during policy creation. This policy does not overwrite current setting for virtual networks that already have these feature enabled. Traffic analytics is a cloud-based solution that provides visibility into user and application activity in cloud networks.",
     "DisplayName": "Configure virtual network to enable Flow Log and Traffic Analytics",
     "Metadata": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "Network"
     },
     "Mode": "Indexed",
