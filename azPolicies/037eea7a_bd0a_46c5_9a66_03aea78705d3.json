@@ -5,8 +5,8 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Network access to Cognitive Services accounts should be restricted. Configure network rules so only applications from allowed networks can access the Cognitive Services account. To allow connections from specific internet or on-premises clients, access can be granted to traffic from specific Azure virtual networks or to public internet IP address ranges.",
-    "DisplayName": "Cognitive Services accounts should restrict network access",
+    "Description": "By restricting network access, you can ensure that only allowed networks can access the service. This can be achieved by configuring network rules so that only applications from allowed networks can access the Azure AI service.",
+    "DisplayName": "Azure AI Services resources should restrict network access",
     "Metadata": {
       "version": "3.0.0",
       "category": "Cognitive Services"

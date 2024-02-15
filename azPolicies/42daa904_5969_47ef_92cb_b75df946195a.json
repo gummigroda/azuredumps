@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "API Management Service can be configured to be Zone Redundant or not. An API Management Service is Zone Redundant if it's sku name is 'Premium' and it has at least two entries in it's zones array. This policy identifies API Management Services lacking the redundancy needed to withstand a zone outage.",
+    "Description": "API Management Service can be configured to be Zone Redundant or not. An API Management Service is Zone Redundant if its sku name is 'Premium' and it has at least two entries in it's zones array. This policy identifies API Management Services lacking the redundancy needed to withstand a zone outage.",
     "DisplayName": "[Preview]: API Management Service should be Zone Redundant",
     "Metadata": {
       "category": "Resilience",
