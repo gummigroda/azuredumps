@@ -5,8 +5,8 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Disabling local authentication methods improves security by ensuring that Cognitive Services accounts require Azure Active Directory identities exclusively for authentication. Learn more at: https://aka.ms/cs/auth.",
-    "DisplayName": "Cognitive Services accounts should have local authentication methods disabled",
+    "Description": "Key access (local authentication) is recommended to be disabled for security. Azure OpenAI Studio, typically used in development/testing, requires key access and will not function if key access is disabled. After disabling, Microsoft Entra ID becomes the only access method, which allows maintaining minimum privilege principle and granular control. Learn more at: https://aka.ms/AI/auth",
+    "DisplayName": "Azure AI Services resources should have key access disabled (disable local authentication)",
     "Metadata": {
       "version": "1.0.0",
       "category": "Cognitive Services"

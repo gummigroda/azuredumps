@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "To ensure that SQL Server - Azure Arc resources are created by default when SQL Server instance is found on Azure Arc enabled Windows/Linux Server, the latter should have SQL Server extension installed",
+    "Description": "To ensure that SQL Server - Azure Arc resources are created by default when SQL Server instance is found on Azure Arc enabled Windows/Linux Server, the latter should have the SQL Server extension installed. This policy is deprecated because we are migrating to a more streamlined. recommended and automated process of onboarding Arc Servers with SQL installed onto the Azure extension for SQL Server. Learn more about the auto-onboarding process at https://aka.ms/SQLServerExtensionPolicyDeprecation",
     "DisplayName": "Configure Arc-enabled machines running SQL Server to have SQL Server extension installed.",
     "Metadata": {
       "version": "3.4.0",
