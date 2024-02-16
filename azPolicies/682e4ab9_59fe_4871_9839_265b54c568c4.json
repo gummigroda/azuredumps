@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Public IP addresses can be configured to be either Zone Aligned, Zone Redundant, or neither. Public IP addresses that have exactly one entry in their zones array are considered Zone Aligned. In contrast, Public IP addresses with 3 or more entries in their zones array are recognized as Zone Redundant. This policy helps identify and enforce these resilience configurations.",
+    "Description": "Public IP addresses can be configured to be either Zone Aligned, Zone Redundant, or neither. Public IP addresses that are regional, with exactly one entry in their zones array are considered Zone Aligned. In contrast, Public IP addresses that are regional, with 3 or more entries in their zones array are recognized as Zone Redundant. This policy helps identify and enforce these resilience configurations.",
     "DisplayName": "[Preview]: Public IP addresses should be Zone Resilient",
     "Metadata": {
       "category": "Resilience",
