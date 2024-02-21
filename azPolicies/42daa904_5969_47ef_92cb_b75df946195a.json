@@ -9,7 +9,7 @@
     "DisplayName": "[Preview]: API Management Service should be Zone Redundant",
     "Metadata": {
       "category": "Resilience",
-      "version": "1.0.0-preview",
+      "version": "1.0.1-preview",
       "preview": true
     },
     "Mode": "Indexed",

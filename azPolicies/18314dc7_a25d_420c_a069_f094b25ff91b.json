@@ -1,15 +1,15 @@
 {
-  "Name": "682e4ab9-59fe-4871-9839-265b54c568c4",
-  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/682e4ab9-59fe-4871-9839-265b54c568c4",
-  "ResourceName": "682e4ab9-59fe-4871-9839-265b54c568c4",
+  "Name": "18314dc7-a25d-420c-a069-f094b25ff91b",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/18314dc7-a25d-420c-a069-f094b25ff91b",
+  "ResourceName": "18314dc7-a25d-420c-a069-f094b25ff91b",
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Public IP addresses can be configured to be either Zone Aligned, Zone Redundant, or neither. Public IP addresses that have exactly one entry in their zones array are considered Zone Aligned. In contrast, Public IP addresses with 3 or more entries in their zones array are recognized as Zone Redundant. This policy helps identify and enforce these resilience configurations.",
-    "DisplayName": "[Preview]: Public IP addresses should be Zone Resilient",
+    "Description": "Firewalls can be configured to be either Zone Aligned, Zone Redundant, or neither. Firewalls that have exactly one entry in its zones array are considered Zone Aligned. In contrast, Firewalls with 3 or more entries in its zones array are recognized as Zone Redundant. This policy helps identify and enforce these resilience configurations.",
+    "DisplayName": "[Preview]: Firewalls should be Zone Resilient",
     "Metadata": {
       "category": "Resilience",
-      "version": "1.1.0-preview",
+      "version": "1.0.0-preview",
       "preview": true
     },
     "Mode": "Indexed",
@@ -46,11 +46,7 @@
         "allOf": [
           {
             "field": "type",
-            "equals": "Microsoft.Network/publicipaddresses"
-          },
-          {
-            "field": "Microsoft.Network/publicIPAddresses/sku.tier",
-            "equals": "Regional"
+            "equals": "Microsoft.Network/azureFirewalls"
           },
           {
             "anyOf": [
@@ -62,15 +58,9 @@
                   },
                   {
                     "count": {
-                      "field": "Microsoft.Network/publicIPAddresses/zones[*]"
+                      "field": "Microsoft.Network/azureFirewalls/zones[*]"
                     },
-                    "less": 3
-                  },
-                  {
-                    "count": {
-                      "field": "Microsoft.Network/publicIPAddresses/zones[*]"
-                    },
-                    "notEquals": 1
+                    "equals": 0
                   }
                 ]
               },
@@ -82,9 +72,9 @@
                   },
                   {
                     "count": {
-                      "field": "Microsoft.Network/publicIPAddresses/zones[*]"
+                      "field": "Microsoft.Network/azureFirewalls/zones[*]"
                     },
-                    "less": 3
+                    "less": 2
                   }
                 ]
               },
@@ -96,7 +86,7 @@
                   },
                   {
                     "count": {
-                      "field": "Microsoft.Network/publicIPAddresses/zones[*]"
+                      "field": "Microsoft.Network/azureFirewalls/zones[*]"
                     },
                     "notEquals": 1
                   }
@@ -112,5 +102,5 @@
     },
     "PolicyType": 2
   },
-  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/682e4ab9-59fe-4871-9839-265b54c568c4"
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/18314dc7-a25d-420c-a069-f094b25ff91b"
 }
