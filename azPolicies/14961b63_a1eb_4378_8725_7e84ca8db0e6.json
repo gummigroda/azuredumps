@@ -1,0 +1,57 @@
+{
+  "Name": "14961b63-a1eb-4378-8725-7e84ca8db0e6",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/14961b63-a1eb-4378-8725-7e84ca8db0e6",
+  "ResourceName": "14961b63-a1eb-4378-8725-7e84ca8db0e6",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use a customer-managed key to control the encryption at rest of the data stored in Azure Health Data Services DICOM Service when this is a regulatory or compliance requirement. Customer-managed keys also deliver double encryption by adding a second layer of encryption on top of the default one done with service-managed keys.",
+    "DisplayName": "DICOM Service should use a customer-managed key to encrypt data at rest",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Healthcare APIs"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.HealthcareApis/workspaces/dicomservices"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl",
+                "exists": "false"
+              },
+              {
+                "field": "Microsoft.HealthcareApis/workspaces/dicomservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl",
+                "equals": ""
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/14961b63-a1eb-4378-8725-7e84ca8db0e6"
+}

@@ -8,7 +8,7 @@
     "Description": "This policy audits if the immutable vaults property is enabled for Backup vaults in the scope. This helps protect your backup data from being deleted before its intended expiry. Learn more at https://aka.ms/AB-ImmutableVaults.",
     "DisplayName": "[Preview]: Immutability must be enabled for backup vaults",
     "Metadata": {
-      "version": "1.0.0-preview",
+      "version": "1.0.1-preview",
       "preview": true,
       "category": "Backup"
     },
@@ -52,7 +52,7 @@
                 "field": "Microsoft.DataProtection/backupVaults/securitySettings.immutabilitySettings.State",
                 "notIn": [
                   "Locked",
-                  "UnLocked"
+                  "Unlocked"
                 ]
               },
               {

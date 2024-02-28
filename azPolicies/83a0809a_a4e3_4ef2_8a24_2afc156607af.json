@@ -8,7 +8,7 @@
     "Description": "This is a test policy only for internal use by Policy team. Prevents customers from applying AKS specific labels",
     "DisplayName": "[Deprecated]: No AKS Specific Labels. Versioning Test BuiltIn.",
     "Metadata": {
-      "version": "1.0.0-deprecated",
+      "version": "2.1.0-deprecated",
       "category": "BuiltInPolicyTest",
       "deprecated": true
     },
@@ -106,7 +106,7 @@
           "additionalProperties": false
         }
       },
-      "labelsV1": {
+      "labelsV2": {
         "type": "Array",
         "metadata": {
           "displayName": "AKS Specific Labels",
@@ -126,12 +126,28 @@
           "displayName": "Allowed Groups",
           "description": "Groups that are allowed to use AKS specific labels."
         }
+      },
+      "testString": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Test string",
+          "description": "A string to be compared against 'test' in the policy rule to generate the desired compliance result."
+        },
+        "defaultValue": "test"
       }
     },
     "PolicyRule": {
       "if": {
-        "field": "type",
-        "equals": "Microsoft.ContainerService/managedClusters"
+        "allOf": [
+          {
+            "field": "[parameters('testString')]",
+            "equals": "test"
+          },
+          {
+            "field": "type",
+            "equals": "Microsoft.ContainerService/managedClusters"
+          }
+        ]
       },
       "then": {
         "effect": "[parameters('effect')]",
@@ -156,7 +172,7 @@
           "excludedNamespaces": "[parameters('excludedNamespaces')]",
           "labelSelector": "[parameters('labelSelector')]",
           "values": {
-            "labels": "[parameters('labelsV1')]",
+            "labels": "[parameters('labelsV2')]",
             "allowedUsers": "[parameters('allowedUsers')]",
             "allowedGroups": "[parameters('allowedGroups')]"
           }
