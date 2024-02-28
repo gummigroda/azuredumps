@@ -9,12 +9,12 @@
     "DisplayName": "[Deprecated]: Key Vault Managed HSM keys using elliptic curve cryptography should have the specified curve names. Versioning Test BuiltIn.",
     "Metadata": {
       "category": "BuiltInPolicyTest",
-      "version": "1.0.0-deprecated",
+      "version": "2.1.0-deprecated",
       "deprecated": true
     },
     "Mode": "Microsoft.ManagedHSM.Data",
     "Parameters": {
-      "allowedECNamesV1": {
+      "allowedECNamesV2": {
         "type": "Array",
         "metadata": {
           "description": "The list of allowed curve names for elliptic curve cryptography certificates.",
@@ -44,7 +44,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Disabled"
+        "defaultValue": "Audit"
       }
     },
     "PolicyRule": {
@@ -63,7 +63,7 @@
           },
           {
             "field": "Microsoft.ManagedHSM.Data/managedHsms/keys/ellipticCurveName",
-            "notIn": "[parameters('allowedECNamesV1')]"
+            "notIn": "[parameters('allowedECNamesV2')]"
           }
         ]
       },

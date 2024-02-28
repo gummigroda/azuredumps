@@ -8,13 +8,13 @@
     "Description": "Only deploy Registry Models in the allowed Registry and that are not restricted.",
     "DisplayName": "[Deprecated]: Azure Machine Learning Model Registry Deployments are restricted except for the allowed Registry. Versioning Test BuiltIn.",
     "Metadata": {
-      "version": "1.0.0-deprecated",
+      "version": "2.1.0-deprecated",
       "category": "BuiltInPolicyTest",
       "deprecated": true
     },
     "Mode": "Microsoft.MachineLearningServices.v2.Data",
     "Parameters": {
-      "allowedRegistryNameV1": {
+      "allowedRegistryNameV2": {
         "type": "String",
         "metadata": {
           "displayName": "Allowed Registry Name",
@@ -41,11 +41,23 @@
           "Disabled"
         ],
         "defaultValue": "Disabled"
+      },
+      "testString": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Test string",
+          "description": "A string to be compared against 'test' in the policy rule to generate the desired compliance result."
+        },
+        "defaultValue": "test"
       }
     },
     "PolicyRule": {
       "if": {
         "allOf": [
+          {
+            "field": "[parameters('testString')]",
+            "equals": "test"
+          },
           {
             "field": "type",
             "equals": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments"
@@ -65,7 +77,7 @@
                   {
                     "not": {
                       "field": "Microsoft.MachineLearningServices.v2.Data/workspaces/deployments/model.assetId",
-                      "like": "[concat('azureml://registries/', parameters('allowedRegistryNameV1'), '/*')]"
+                      "like": "[concat('azureml://registries/', parameters('allowedRegistryNameV2'), '/*')]"
                     }
                   }
                 ]

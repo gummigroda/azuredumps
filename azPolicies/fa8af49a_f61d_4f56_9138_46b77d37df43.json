@@ -8,13 +8,13 @@
     "Description": "This is a test policy only for internal use by Policy team. Manage your organizational compliance requirements by specifying the maximum number of days after key creation until it must be rotated.",
     "DisplayName": "[Deprecated]: Keys should have a rotation policy within the specified number of days after creation. Versioning Test BuiltIn.",
     "Metadata": {
-      "version": "1.0.0-deprecated",
+      "version": "2.1.0-deprecated",
       "category": "BuiltInPolicyTest",
       "deprecated": true
     },
     "Mode": "Microsoft.KeyVault.Data",
     "Parameters": {
-      "maximumDaysToRotateV1": {
+      "maximumDaysToRotateV2": {
         "type": "Integer",
         "metadata": {
           "displayName": "The maximum days to rotate",
@@ -31,7 +31,7 @@
           "Audit",
           "Disabled"
         ],
-        "defaultValue": "Disabled"
+        "defaultValue": "Audit"
       }
     },
     "PolicyRule": {
@@ -49,7 +49,7 @@
               },
               {
                 "field": "Microsoft.KeyVault.Data/vaults/keys/scheduledRotationDate",
-                "greater": "[addDays(field('Microsoft.KeyVault.Data/vaults/keys/attributes.createdOn'), parameters('maximumDaysToRotateV1'))]"
+                "greater": "[addDays(field('Microsoft.KeyVault.Data/vaults/keys/attributes.createdOn'), parameters('maximumDaysToRotateV2'))]"
               }
             ]
           }

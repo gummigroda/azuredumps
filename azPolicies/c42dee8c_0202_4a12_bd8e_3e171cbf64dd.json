@@ -1,0 +1,57 @@
+{
+  "Name": "c42dee8c-0202-4a12-bd8e-3e171cbf64dd",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/c42dee8c-0202-4a12-bd8e-3e171cbf64dd",
+  "ResourceName": "c42dee8c-0202-4a12-bd8e-3e171cbf64dd",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use a customer-managed key to control the encryption at rest of the data stored in Azure Health Data Services FHIR Service when this is a regulatory or compliance requirement. Customer-managed keys also deliver double encryption by adding a second layer of encryption on top of the default one done with service-managed keys.",
+    "DisplayName": "FHIR Service should use a customer-managed key to encrypt data at rest",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Healthcare APIs"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.HealthcareApis/workspaces/fhirservices"
+          },
+          {
+            "anyOf": [
+              {
+                "field": "Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl",
+                "exists": "false"
+              },
+              {
+                "field": "Microsoft.HealthcareApis/workspaces/fhirservices/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl",
+                "equals": ""
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c42dee8c-0202-4a12-bd8e-3e171cbf64dd"
+}
