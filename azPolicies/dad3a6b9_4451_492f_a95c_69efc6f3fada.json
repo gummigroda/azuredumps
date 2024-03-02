@@ -1,0 +1,65 @@
+{
+  "Name": "dad3a6b9-4451-492f-a95c-69efc6f3fada",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/dad3a6b9-4451-492f-a95c-69efc6f3fada",
+  "ResourceName": "dad3a6b9-4451-492f-a95c-69efc6f3fada",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "At a minimum, apply the Microsoft WDAC base policy in enforced mode on all Azure Stack HCI servers. Applied Windows Defender Application Control (WDAC) policies must be consistent across servers in the same cluster.",
+    "DisplayName": "[Preview]: Azure Stack HCI servers should have consistently enforced application control policies",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Stack HCI",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "AuditIfNotExists"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AzureStackHCI/clusters"
+          },
+          {
+            "field": "Microsoft.AzureStackHCI/clusters/reportedProperties.clusterVersion",
+            "greater": "10.0.20350"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.AzureStackHCI/clusters/securitySettings",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.wdacCompliance",
+                "in": [
+                  "Compliant",
+                  "Pending"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/dad3a6b9-4451-492f-a95c-69efc6f3fada"
+}

@@ -1,0 +1,65 @@
+{
+  "Name": "36f0d6bc-a253-4df8-b25b-c3a5023ff443",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/36f0d6bc-a253-4df8-b25b-c3a5023ff443",
+  "ResourceName": "36f0d6bc-a253-4df8-b25b-c3a5023ff443",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Protect data on the Azure Stack HCI hosts network and on virtual machine network connections.",
+    "DisplayName": "[Preview]: Host and VM networking should be protected on Azure Stack HCI systems",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Stack HCI",
+      "preview": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled",
+          "AuditIfNotExists"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.AzureStackHCI/clusters"
+          },
+          {
+            "field": "Microsoft.AzureStackHCI/clusters/reportedProperties.clusterVersion",
+            "greater": "10.0.20350"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.AzureStackHCI/clusters/securitySettings",
+          "existenceCondition": {
+            "allOf": [
+              {
+                "field": "Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.dataInTransitProtected",
+                "in": [
+                  "Compliant",
+                  "Pending"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/36f0d6bc-a253-4df8-b25b-c3a5023ff443"
+}

@@ -6,11 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Protect data on the Azure Stack HCI hosts network and on virtual machine network connections.",
-    "DisplayName": "[Preview]: Host and VM networking should be protected on Azure Stack HCI systems",
+    "DisplayName": "[Deprecated]: Host and VM networking should be protected on Azure Stack HCI systems",
     "Metadata": {
-      "version": "1.0.0-preview",
+      "version": "1.1.0-deprecated",
       "category": "Stack HCI",
-      "preview": true
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -24,7 +24,7 @@
           "Audit",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

@@ -1,0 +1,50 @@
+{
+  "Name": "aec63c84-f9ea-46c7-9e66-ba567bae0f09",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/aec63c84-f9ea-46c7-9e66-ba567bae0f09",
+  "ResourceName": "aec63c84-f9ea-46c7-9e66-ba567bae0f09",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Authenticaton type must be Microsoft EntraID for packet core diagnostic access over local APIs",
+    "DisplayName": "Packet Core Control Plane diagnostic access should only use Microsoft EntraID authentication type",
+    "Metadata": {
+      "category": "Mobile Network",
+      "version": "1.0.0"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MobileNetwork/packetCoreControlPlanes"
+          },
+          {
+            "field": "Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.authenticationType",
+            "notEquals": "AAD"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/aec63c84-f9ea-46c7-9e66-ba567bae0f09"
+}
