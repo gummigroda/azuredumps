@@ -6,11 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Use BitLocker to encrypt the OS and data volumes on Azure Stack HCI systems.",
-    "DisplayName": "[Preview]: Azure Stack HCI systems should have encrypted volumes",
+    "DisplayName": "[Deprecated]: Azure Stack HCI systems should have encrypted volumes",
     "Metadata": {
-      "version": "1.0.0-preview",
+      "version": "1.1.0-deprecated",
       "category": "Stack HCI",
-      "preview": true
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -24,7 +24,7 @@
           "Audit",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

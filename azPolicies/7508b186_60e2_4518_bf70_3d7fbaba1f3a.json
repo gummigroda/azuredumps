@@ -1,0 +1,63 @@
+{
+  "Name": "7508b186-60e2-4518-bf70-3d7fbaba1f3a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7508b186-60e2-4518-bf70-3d7fbaba1f3a",
+  "ResourceName": "7508b186-60e2-4518-bf70-3d7fbaba1f3a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Authenticaton type must be Microsoft EntraID for packet core diagnostic access over local APIs",
+    "DisplayName": "Configure Packet Core Control Plane diagnostic access to use authentication type Microsoft EntraID",
+    "Metadata": {
+      "category": "Mobile Network",
+      "version": "1.0.0"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Modify",
+          "Disabled"
+        ],
+        "defaultValue": "Modify"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.MobileNetwork/packetCoreControlPlanes"
+          },
+          {
+            "field": "Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.authenticationType",
+            "notEquals": "AAD"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "roleDefinitionIds": [
+            "/providers/microsoft.authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
+          ],
+          "conflictEffect": "audit",
+          "operations": [
+            {
+              "condition": "[greaterOrEquals(requestContext().apiVersion, '2022-11-01')]",
+              "operation": "addOrReplace",
+              "field": "Microsoft.MobileNetwork/packetCoreControlPlanes/localDiagnosticsAccess.authenticationType",
+              "value": "AAD"
+            }
+          ]
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7508b186-60e2-4518-bf70-3d7fbaba1f3a"
+}
