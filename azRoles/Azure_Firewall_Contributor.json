@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Firewall Contributor",
+  "Id": "5885109c-47d8-4857-a829-678eabd4adcf",
+  "IsCustom": true,
+  "Description": "Enable deployment of firewalls and related settings",
+  "Actions": [
+    "Microsoft.Network/firewallPolicies/*",
+    "Microsoft.Network/azureFirewallFqdnTags/*",
+    "Microsoft.Network/azurefirewalls/*",
+    "Microsoft.Network/ipGroups/*",
+    "Microsoft.Network/publicIPAddresses/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Insights/diagnosticSettings/write",
+    "Microsoft.Insights/diagnosticSettings/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/085235db-c16f-45c7-bf9f-7014107bfea0"
+  ]
+}
