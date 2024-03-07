@@ -1,0 +1,15 @@
+{
+  "Name": "Log Analytics Workspace Shared Keys Reader",
+  "Id": "47a08d04-edff-401d-a8db-e9ee9872837b",
+  "IsCustom": true,
+  "Description": "Read the workspace keys to allow sending logs to this workspace",
+  "Actions": [
+    "Microsoft.OperationalInsights/workspaces/sharedkeys/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/085235db-c16f-45c7-bf9f-7014107bfea0"
+  ]
+}

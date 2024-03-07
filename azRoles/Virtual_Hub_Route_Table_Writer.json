@@ -1,0 +1,15 @@
+{
+  "Name": "Virtual Hub Route Table Writer",
+  "Id": "f35841fe-25f9-4e5e-b436-de77b58cf3e1",
+  "IsCustom": true,
+  "Description": "Allows update and creation of route tables in Virtual Hub.",
+  "Actions": [
+    "Microsoft.Network/virtualHubs/hubRouteTables/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/085235db-c16f-45c7-bf9f-7014107bfea0"
+  ]
+}
