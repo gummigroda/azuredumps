@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Requires affinity rules to be set.",
+    "Description": "This policy ensures that pods are scheduled on different nodes within the cluster. By enforcing anti-affinity rules, availability is maintained even if one of the nodes becomes unavailable. Pods will continue to run on other nodes, enhancing resilience.",
     "DisplayName": "[Preview]: Must Have Anti Affinity Rules Set",
     "Metadata": {
       "version": "1.1.0-preview",
