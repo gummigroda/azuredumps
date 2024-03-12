@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Prevents customers from applying AKS specific labels. AKS uses labels prefixed with `kubernetes.azure.com` to denote AKS owned components. The customer should not use these labels.",
+    "Description": "Prevents customers from applying AKS specific labels",
     "DisplayName": "[Preview]: No AKS Specific Labels",
     "Metadata": {
       "version": "1.1.0-preview",

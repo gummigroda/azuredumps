@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "At a minimum, apply the Microsoft WDAC base policy in enforced mode on all Azure Stack HCI servers. Applied Windows Defender Application Control (WDAC) policies must be consistent across servers in the same cluster.",
+    "Description": "This policy is deprecated because it targets security settings resource. Instead of continuing to use this policy, we recommend you instead assign this replacement policy with policy ID /providers/Microsoft.Authorization/policyDefinitions/dad3a6b9-4451-492f-a95c-69efc6f3fada. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
     "DisplayName": "[Deprecated]: Azure Stack HCI servers should have consistently enforced application control policies",
     "Metadata": {
       "version": "1.1.0-deprecated",

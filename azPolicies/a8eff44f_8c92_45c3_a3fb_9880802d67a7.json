@@ -8,7 +8,7 @@
     "Description": "Use Azure Policy Add-on to manage and report on the compliance state of your Azure Kubernetes Service (AKS) clusters. For more information, see https://aka.ms/akspolicydoc.",
     "DisplayName": "Deploy Azure Policy Add-on to Azure Kubernetes Service clusters",
     "Metadata": {
-      "version": "4.0.1",
+      "version": "4.1.0",
       "category": "Kubernetes"
     },
     "Mode": "Indexed",
@@ -130,7 +130,8 @@
                               "autoScalerProfile": "[if(contains(parameters('aksClusterContent').properties, 'autoScalerProfile'), parameters('aksClusterContent').properties.autoScalerProfile, json('null'))]",
                               "apiServerAccessProfile": "[if(contains(parameters('aksClusterContent').properties, 'apiServerAccessProfile'), parameters('aksClusterContent').properties.apiServerAccessProfile, json('null'))]",
                               "diskEncryptionSetID": "[if(contains(parameters('aksClusterContent').properties, 'diskEncryptionSetID'), parameters('aksClusterContent').properties.diskEncryptionSetID, json('null'))]",
-                              "identityProfile": "[if(contains(parameters('aksClusterContent').properties, 'identityProfile'), parameters('aksClusterContent').properties.identityProfile, json('null'))]"
+                              "identityProfile": "[if(contains(parameters('aksClusterContent').properties, 'identityProfile'), parameters('aksClusterContent').properties.identityProfile, json('null'))]",
+                              "disableLocalAccounts": "[if(contains(parameters('aksClusterContent').properties, 'disableLocalAccounts'), parameters('aksClusterContent').properties.disableLocalAccounts, json('null'))]"
                             }
                           }
                         ],

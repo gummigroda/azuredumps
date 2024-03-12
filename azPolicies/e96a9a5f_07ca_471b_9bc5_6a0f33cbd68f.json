@@ -8,7 +8,7 @@
     "Description": "Disabling local authentication methods improves security by ensuring that Machine Learning Computes require Azure Active Directory identities exclusively for authentication. Learn more at: https://aka.ms/azure-ml-aad-policy.",
     "DisplayName": "Azure Machine Learning Computes should have local authentication methods disabled",
     "Metadata": {
-      "version": "2.0.1",
+      "version": "2.1.0",
       "category": "Machine Learning"
     },
     "Mode": "All",
@@ -33,6 +33,13 @@
           {
             "field": "type",
             "equals": "Microsoft.MachineLearningServices/workspaces/computes"
+          },
+          {
+            "field": "Microsoft.MachineLearningServices/workspaces/computes/computeType",
+            "in": [
+              "ComputeInstance",
+              "AmlCompute"
+            ]
           },
           {
             "field": "Microsoft.MachineLearningServices/workspaces/computes/disableLocalAuth",
