@@ -8,7 +8,7 @@
     "Description": "By restricting network access, you can ensure that only allowed networks can access the service. This can be achieved by configuring network rules so that only applications from allowed networks can access the Azure AI service.",
     "DisplayName": "Azure AI Services resources should restrict network access",
     "Metadata": {
-      "version": "3.1.0",
+      "version": "3.2.0",
       "category": "Azure Ai Services"
     },
     "Mode": "Indexed",
@@ -53,8 +53,8 @@
                 "equals": "Microsoft.Search/searchServices"
               },
               {
-                "field": "Microsoft.Search/searchServices/networkRuleSet.ipRules[*]",
-                "exists": "false"
+                "field": "Microsoft.Search/searchServices/publicNetworkAccess",
+                "notEquals": "Disabled"
               }
             ]
           }

@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Restricts the CriticalAddonsOnly taint to just the system pool. AKS uses the CriticalAddonsOnly taint to keep customer pods away from the system pool. It ensures a clear separation between AKS components and customer pods, as well as prevents customer pods from being evicted if they do not tolerate the CriticalAddonsOnly taint.",
+    "Description": "Restricts the CriticalAddonsOnly taint to just the system pool",
     "DisplayName": "[Preview]: Reserved System Pool Taints",
     "Metadata": {
       "version": "1.1.0-preview",

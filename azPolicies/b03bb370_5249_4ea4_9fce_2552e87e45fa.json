@@ -1,0 +1,65 @@
+{
+  "Name": "b03bb370-5249-4ea4-9fce-2552e87e45fa",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/b03bb370-5249-4ea4-9fce-2552e87e45fa",
+  "ResourceName": "b03bb370-5249-4ea4-9fce-2552e87e45fa",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "TrustedLaunch improves security of a Virtual Machine which requires OS Disk & OS Image to support it (Gen 2). To learn more about TrustedLaunch, visit https://aka.ms/trustedlaunch",
+    "DisplayName": "Disks and OS image should support TrustedLaunch",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Trusted Launch"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/disks"
+          },
+          {
+            "allOf": [
+              {
+                "field": "Microsoft.Compute/disks/osType",
+                "exists": "true"
+              },
+              {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.Compute/disks/hyperVGeneration",
+                    "exists": "false"
+                  },
+                  {
+                    "field": "Microsoft.Compute/disks/hyperVGeneration",
+                    "equals": "V1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b03bb370-5249-4ea4-9fce-2552e87e45fa"
+}
