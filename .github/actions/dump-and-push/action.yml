@@ -11,6 +11,9 @@ inputs:
   resource_type:
     description: "Type or resource to dump from Azure"
     required: true
+  rinse_previous:
+    description: "Set to true, this records deletes also"
+    required: false
 
 runs:
   using: "composite"
@@ -36,7 +39,7 @@ runs:
         uses: azure/powershell@v1
         with:
           azPSVersion: "11.2.0"
-          inlineScript: ./scripts/Get-AzureStuff.ps1 -Path ${{inputs.save_path}} -Type ${{inputs.resource_type}}
+          inlineScript: ./scripts/Get-AzureStuff.ps1 -Path ${{inputs.save_path}} -Type ${{inputs.resource_type}} -RinsePrevious ${{inputs.rinse_previous}}
 
       ## Do a git diff
       - name: Git diff

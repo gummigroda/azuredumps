@@ -10,13 +10,20 @@ param (
   [string]$Path,
   [Parameter(Mandatory)]
   [ValidateSet('Policies', 'Roles', 'ProviderOperations', 'Locations')]
-  [string]$Type
+  [string]$Type, 
+  [Parameter()]
+  [string]$RinsePrevious = 'no'
 )
 
 $ErrorActionPreference = 'Stop'
 Write-Output "Saving $type to $Path..."
 if (-not(Test-Path -Path $Path -PathType Container)) {
   New-Item -Path $Path -Force -ItemType Directory | Out-Null
+}
+
+# Run rinse
+if ($RinsePrevious -in 'yes', 'true', '1'){
+  Remove-Item -Path $Path -Recurse -Force
 }
 
 Write-Output "Getting Azure $type..."
@@ -43,7 +50,7 @@ switch -Regex ($Type) {
     $stuff = Get-AzProviderOperation *
     Write-Verbose "Adding SavePath and SaveName..."
     $stuff | ForEach-Object {
-      $_ | Add-Member -MemberType NoteProperty -Name SavePath -Value (Join-Path -Path $Path -ChildPath $_.Operation) -Force
+      $_ | Add-Member -MemberType NoteProperty -Name SavePath -Value (Join-Path -Path $Path -ChildPath $_.Operation).Replace(':','_') -Force
       $_ | Add-Member -MemberType NoteProperty -Name SaveName -Value $_.OperationName -Force
     }
   }
@@ -75,5 +82,4 @@ foreach ($item in $stuff) {
   }
 }
 
-
-Write-Output "Done!"        
+Write-Output "Done!"
