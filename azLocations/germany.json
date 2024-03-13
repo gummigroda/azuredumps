@@ -1,0 +1,16 @@
+{
+  "Location": "germany",
+  "DisplayName": "Germany",
+  "Type": "Region",
+  "Longitude": null,
+  "Latitude": null,
+  "PhysicalLocation": null,
+  "RegionType": "Logical",
+  "RegionCategory": "Other",
+  "GeographyGroup": null,
+  "PairedRegion": null,
+  "Providers": [
+    "Microsoft.ManagedIdentity",
+    "Microsoft.PowerPlatform"
+  ]
+}
