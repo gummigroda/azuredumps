@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Container image vulnerability assessment scans container images running on your Kubernetes clusters for security vulnerabilities and exposes detailed findings for each image. Resolving the vulnerabilities can greatly improve your containers' security posture and protect them from attacks.",
+    "Description": "As outlined in the unified vulnerability assessment solution strategy blog (https://aka.ms/MDCUnifiedVAblog), we have made a strategic decision to unify all vulnerability assessment solutions in Defender for Cloud to use Defender vulnerability management. As part of this change, the built-in Qualys offering is now retired. See https://aka.ms/TransitionToMDVM4Containers for more information and transition guidelines.",
     "DisplayName": "Azure running container images should have vulnerabilities resolved (powered by Qualys)",
     "Metadata": {
       "version": "1.0.3",
