@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/write",
+  "OperationName": "Create or update a Maps Account.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Create or update a Maps Account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipExtendedCommunities/delete",
+  "OperationName": "IpExtendedCommunities_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipExtendedCommunities",
+  "Description": "Implements IP Extended Community DELETE method.",
+  "IsDataAction": false
+}

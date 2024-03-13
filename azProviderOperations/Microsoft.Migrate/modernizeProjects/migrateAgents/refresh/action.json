@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/migrateAgents/refresh/action",
+  "OperationName": "Refreshes the MigrateAgent",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Refreshes the modernizeProject agent",
+  "IsDataAction": false
+}

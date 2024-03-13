@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/client/action",
+  "OperationName": "Get Client Configuration.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "configurations*",
+  "Description": "Get configuration settings used in distributed Personalizer deployments.",
+  "IsDataAction": true
+}

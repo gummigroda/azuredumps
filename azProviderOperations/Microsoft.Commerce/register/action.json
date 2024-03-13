@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Commerce/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Commerce",
+  "ResourceName": "",
+  "Description": "Register Subscription for Microsoft Commerce UsageAggregate",
+  "IsDataAction": false
+}

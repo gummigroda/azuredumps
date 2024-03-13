@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/stats/examplesperentity/read",
+  "OperationName": "examplesperentity - GetExamplesPerEntity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "examplesperentity*",
+  "Description": "Gets the number of examples per entity of a given application",
+  "IsDataAction": true
+}

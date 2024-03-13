@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/delete",
+  "OperationName": "Delete scalingplans",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans",
+  "Description": "Delete scalingplans",
+  "IsDataAction": false
+}

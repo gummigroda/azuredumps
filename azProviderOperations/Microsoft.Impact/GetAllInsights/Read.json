@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/GetAllInsights/Read",
+  "OperationName": "ListAllinsights",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "GetAllInsights",
+  "Description": "ReadsAllInsights",
+  "IsDataAction": false
+}

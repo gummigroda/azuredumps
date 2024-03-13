@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesDNSAuditsGeneral/read",
+  "OperationName": "Read AADDomainServicesDNSAuditsGeneral data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesDNSAuditsGeneral",
+  "Description": "Read data from the AADDomainServicesDNSAuditsGeneral table",
+  "IsDataAction": false
+}

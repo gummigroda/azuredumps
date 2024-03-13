@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/endpoints/delete",
+  "OperationName": "Delete an endpoint",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Delete an endpoint",
+  "IsDataAction": true
+}

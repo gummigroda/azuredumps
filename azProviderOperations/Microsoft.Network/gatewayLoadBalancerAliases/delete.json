@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/gatewayLoadBalancerAliases/delete",
+  "OperationName": "Delete Gateway LoadBalancer Alias",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Gateway LoadBalancer Alias",
+  "Description": "Delete Gateway LoadBalancer Alias",
+  "IsDataAction": false
+}

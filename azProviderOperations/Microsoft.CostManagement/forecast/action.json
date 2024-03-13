@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/forecast/action",
+  "OperationName": "Forecast usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "Forecast usage data by a scope.",
+  "IsDataAction": false
+}

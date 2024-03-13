@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

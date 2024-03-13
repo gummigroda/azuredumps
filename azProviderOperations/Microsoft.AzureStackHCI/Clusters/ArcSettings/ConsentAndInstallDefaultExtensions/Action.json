@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/ConsentAndInstallDefaultExtensions/Action",
+  "OperationName": "Updates Consent Time and Installs default extensions",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings",
+  "Description": "Updates Consent Time and Installs default extensions",
+  "IsDataAction": false
+}

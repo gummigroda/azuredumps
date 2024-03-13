@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/delete",
+  "OperationName": "Delete Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Delete the definition of a managed storage account.",
+  "IsDataAction": true
+}

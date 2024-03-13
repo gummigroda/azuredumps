@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/devToolPortals/read",
+  "OperationName": "Get Microsoft Azure Spring Apps Dev Tool Portal",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Dev Tool Portal of Microsoft Azure Spring Apps",
+  "Description": "Get the Dev Tool Portal for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

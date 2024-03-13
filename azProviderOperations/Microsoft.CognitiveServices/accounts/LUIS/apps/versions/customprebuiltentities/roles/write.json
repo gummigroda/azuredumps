@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltentities/roles/write",
+  "OperationName": "Add or Update prebuilt domain entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain entity roles",
+  "Description": "Adds a role for a custom prebuilt domain entity model\r\nUpdates a role for a custom prebuilt domain entity model.",
+  "IsDataAction": true
+}

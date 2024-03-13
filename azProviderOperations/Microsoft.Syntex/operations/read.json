@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

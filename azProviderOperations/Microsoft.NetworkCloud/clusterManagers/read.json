@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusterManagers/read",
+  "OperationName": "ClusterManagers_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusterManagers",
+  "Description": "Get the properties of the provided cluster manager.",
+  "IsDataAction": false
+}

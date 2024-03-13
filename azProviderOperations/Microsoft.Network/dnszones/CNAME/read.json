@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/CNAME/read",
+  "OperationName": "Get record set of type CNAME",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS CNAME record set",
+  "Description": "Get the record set of type ‘CNAME’, in JSON format. The record set contains the TTL, tags, and etag.",
+  "IsDataAction": false
+}

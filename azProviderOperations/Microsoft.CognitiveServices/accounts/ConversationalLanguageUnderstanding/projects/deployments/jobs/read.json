@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/deployments/jobs/read",
+  "OperationName": "Deployments_GetDeploymentJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets a deployment job status and result details.",
+  "IsDataAction": true
+}

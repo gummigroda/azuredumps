@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/detectors/read",
+  "OperationName": "Get or List Detectors",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Detectors",
+  "Description": "Gets AppLens Detector or Lists AppLens Detectors on a Batch account",
+  "IsDataAction": false
+}

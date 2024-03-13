@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/addons/read",
+  "OperationName": "List addons",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "addons",
+  "Description": "Lists or gets the addons",
+  "IsDataAction": false
+}

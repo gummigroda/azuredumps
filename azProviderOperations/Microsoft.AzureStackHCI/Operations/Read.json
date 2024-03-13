@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Operations/Read",
+  "OperationName": "Gets/List operations resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Operations",
+  "Description": "Gets operations",
+  "IsDataAction": false
+}

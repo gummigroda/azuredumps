@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/model/write",
+  "OperationName": "Put the digitally signed model file.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "model*",
+  "Description": "Replace the existing model file for the Personalizer service.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/Write",
+  "OperationName": "Create or Update Web App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Create a new Web App or update an existing one",
+  "IsDataAction": false
+}

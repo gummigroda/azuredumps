@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/pools/read",
+  "OperationName": "List or Get Pools",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Lists pools on a Batch account or gets the properties of a pool",
+  "IsDataAction": false
+}

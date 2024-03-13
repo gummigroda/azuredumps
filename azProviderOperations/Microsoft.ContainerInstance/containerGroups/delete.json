@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/delete",
+  "OperationName": "Delete Container Group",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Delete the specific container group.",
+  "IsDataAction": false
+}

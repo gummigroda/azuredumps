@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/arczones/Write",
+  "OperationName": "Create/update arczones resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "arczones",
+  "Description": "Writes arczones",
+  "IsDataAction": false
+}

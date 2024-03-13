@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/securitySettings/operationResults/Read",
+  "OperationName": "Get Async operation result for Iot Hub SecuritySettings",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/SecuritySettings",
+  "Description": "Get the result of the Async Put operation for Iot Hub SecuritySettings",
+  "IsDataAction": false
+}

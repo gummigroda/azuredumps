@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/images/versions/delete",
+  "OperationName": "Delete Gallery Image Version",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryImageVersions",
+  "Description": "Deletes the Gallery Image Version",
+  "IsDataAction": false
+}

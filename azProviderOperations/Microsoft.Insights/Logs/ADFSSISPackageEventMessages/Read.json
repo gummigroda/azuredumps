@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFSSISPackageEventMessages/Read",
+  "OperationName": "Read ADFSSISPackageEventMessages data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFSSISPackageEventMessages",
+  "Description": "Read data from the ADFSSISPackageEventMessages table",
+  "IsDataAction": false
+}

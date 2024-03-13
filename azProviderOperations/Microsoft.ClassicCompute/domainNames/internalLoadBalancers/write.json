@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/internalLoadBalancers/write",
+  "OperationName": "Create Internal Load Balance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Internal Load Balancer",
+  "Description": "Creates a new internal load balance.",
+  "IsDataAction": false
+}

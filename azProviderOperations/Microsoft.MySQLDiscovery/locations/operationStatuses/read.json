@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

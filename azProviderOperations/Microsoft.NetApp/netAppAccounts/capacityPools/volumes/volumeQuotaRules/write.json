@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules/write",
+  "OperationName": "Write Volume quota rule resource.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volume quota rule resource type",
+  "Description": "Writes Volume quota rule resource.",
+  "IsDataAction": false
+}

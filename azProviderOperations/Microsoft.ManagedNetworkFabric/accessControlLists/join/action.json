@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/join/action",
+  "OperationName": "AccessControlLists_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "Join action for Access Control List resource.",
+  "IsDataAction": false
+}

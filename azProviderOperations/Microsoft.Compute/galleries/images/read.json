@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/images/read",
+  "OperationName": "Get Gallery Image",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryImages",
+  "Description": "Gets the properties of Gallery Image",
+  "IsDataAction": false
+}

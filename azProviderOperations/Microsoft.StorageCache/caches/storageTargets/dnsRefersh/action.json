@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/storageTargets/dnsRefersh/action",
+  "OperationName": "Refresh DNS in a cache's Storage Target",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Storage target in a cache",
+  "Description": "Updates the storage target IP address from a custom DNS server or from an Azure Storage private endpoint",
+  "IsDataAction": false
+}

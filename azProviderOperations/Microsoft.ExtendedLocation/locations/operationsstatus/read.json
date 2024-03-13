@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/locations/operationsstatus/read",
+  "OperationName": "Get status of Custom Location operation",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Custom Location Operation Status",
+  "Description": "Get result of Custom Location operation",
+  "IsDataAction": false
+}

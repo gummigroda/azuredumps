@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/locations/operationresults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "locations/operationresults",
+  "Description": null,
+  "IsDataAction": false
+}

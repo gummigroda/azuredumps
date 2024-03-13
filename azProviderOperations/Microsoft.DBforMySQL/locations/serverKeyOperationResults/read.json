@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/serverKeyOperationResults/read",
+  "OperationName": "Data Encryption server keys operation",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Data Encryption server key operation",
+  "Description": "Gets in-progress operations on data encryption server keys",
+  "IsDataAction": false
+}

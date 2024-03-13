@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/unregister/action",
+  "OperationName": "Unregister Subscription for Compute",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.Compute resource provider",
+  "IsDataAction": false
+}

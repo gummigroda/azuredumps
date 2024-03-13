@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/livez/poststarthook/crd-informer-synced/read",
+  "OperationName": "Gets/List crd-informer-synced resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Poststarthook/Crd-Informer-Synced",
+  "Description": "Reads crd-informer-synced",
+  "IsDataAction": true
+}

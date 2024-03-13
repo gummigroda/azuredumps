@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/customdomains/validate/Action",
+  "OperationName": "Validate Static Site Custom Domain",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Custom Domain",
+  "Description": "Validate a custom domain can be added to a Static Site",
+  "IsDataAction": false
+}

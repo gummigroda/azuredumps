@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/keys/write",
+  "OperationName": "Create/Update Azure SQL Managed Instance Keys",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Keys",
+  "Description": "Creates a key with the specified parameters or update the properties or tags for the specified managed instance key.",
+  "IsDataAction": false
+}

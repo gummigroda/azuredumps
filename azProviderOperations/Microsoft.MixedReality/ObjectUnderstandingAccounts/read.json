@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectUnderstandingAccounts/read",
+  "OperationName": "Read the properties of an Object Understanding account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectUnderstandingAccounts",
+  "Description": "Read the properties an Object Understanding account",
+  "IsDataAction": false
+}

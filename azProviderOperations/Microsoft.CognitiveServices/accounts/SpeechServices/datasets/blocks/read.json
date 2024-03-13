@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/blocks/read",
+  "OperationName": "Get Uploaded Blocks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "blocks*",
+  "Description": "Gets the list of uploaded blocks for this dataset.",
+  "IsDataAction": true
+}

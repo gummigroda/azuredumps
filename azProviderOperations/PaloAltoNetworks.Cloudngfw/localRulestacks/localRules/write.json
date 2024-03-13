@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/localRules/write",
+  "OperationName": "LocalRules_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/localRules",
+  "Description": "Create a LocalRulesResource",
+  "IsDataAction": false
+}

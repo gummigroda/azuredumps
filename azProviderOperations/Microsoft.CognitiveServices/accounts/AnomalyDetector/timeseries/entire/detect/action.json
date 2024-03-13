@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/timeseries/entire/detect/action",
+  "OperationName": "Univariate Anomaly Detection - Find anomalies for the entire series in batch.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "entire",
+  "Description": "This operation generates a model using an entire series, each point is detected with the same model. With this method, points before and after a certain point are used to determine whether it is an anomaly. The entire detection can give the user an overall status of the time series.",
+  "IsDataAction": true
+}

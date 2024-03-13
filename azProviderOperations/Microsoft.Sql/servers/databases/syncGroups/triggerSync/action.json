@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/triggerSync/action",
+  "OperationName": "Trigger Azure SQL Sync Group synchronization",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Trigger sync group synchronization",
+  "IsDataAction": false
+}

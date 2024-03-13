@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/privateEndpointConnectionProxyAzureAsyncOperation/read",
+  "OperationName": "Get private endpoint connection proxy operation status",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB Private Endpoint Connection Proxy",
+  "Description": "Gets the result for a private endpoint connection proxy operation",
+  "IsDataAction": false
+}

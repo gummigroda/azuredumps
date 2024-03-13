@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/commitMigration/action",
+  "OperationName": "Commit Migration of a Storage Account",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Commits migration of a storage account.",
+  "IsDataAction": false
+}

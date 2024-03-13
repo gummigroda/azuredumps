@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/containerRegistries/read",
+  "OperationName": "Read Microsoft Azure Spring Apps container registry",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The container registry of Microsoft Azure Spring Apps",
+  "Description": "Get the container registry for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

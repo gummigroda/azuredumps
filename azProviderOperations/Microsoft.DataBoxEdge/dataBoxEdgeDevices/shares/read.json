@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares/read",
+  "OperationName": "List shares",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "shares",
+  "Description": "Lists or gets the shares",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/generatevpnclientpackage/action",
+  "OperationName": "Generate VpnClient package for virtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Generate VpnClient package for virtualNetworkGateway",
+  "IsDataAction": false
+}

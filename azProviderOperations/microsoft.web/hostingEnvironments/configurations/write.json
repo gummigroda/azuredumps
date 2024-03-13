@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/configurations/write",
+  "OperationName": "Update Hosting Environment Configurations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environment Configurations",
+  "Description": "Update  Hosting Environment Configurations.",
+  "IsDataAction": false
+}

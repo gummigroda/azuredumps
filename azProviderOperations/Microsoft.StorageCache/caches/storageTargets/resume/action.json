@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/storageTargets/resume/action",
+  "OperationName": "Resume a cache's storage taget",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Storage target in a cache",
+  "Description": "Puts a suspended storage target back into service",
+  "IsDataAction": false
+}

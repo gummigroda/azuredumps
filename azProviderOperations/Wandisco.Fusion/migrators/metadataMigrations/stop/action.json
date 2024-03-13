@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataMigrations/stop/action",
+  "OperationName": "Stop",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataMigrations",
+  "Description": "Stop a metadata migration",
+  "IsDataAction": false
+}

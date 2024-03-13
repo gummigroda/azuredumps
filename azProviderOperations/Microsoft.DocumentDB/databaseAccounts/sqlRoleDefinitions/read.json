@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Role Definition",
+  "Description": "Read a SQL Role Definition",
+  "IsDataAction": false
+}

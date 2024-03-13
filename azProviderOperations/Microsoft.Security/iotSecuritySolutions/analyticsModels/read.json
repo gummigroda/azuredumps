@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/analyticsModels/read",
+  "OperationName": "Get device or a list of devices",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Analytics Models",
+  "Description": "Gets devices",
+  "IsDataAction": false
+}

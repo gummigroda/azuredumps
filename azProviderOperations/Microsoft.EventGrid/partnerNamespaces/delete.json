@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/delete",
+  "OperationName": "Delete PartnerNamespace",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerNamespaces",
+  "Description": "Delete a partner namespace",
+  "IsDataAction": false
+}

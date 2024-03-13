@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids/read",
+  "OperationName": "AttachedWifiSSIDs_ListByPacketCoreDataPlane",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids",
+  "Description": "Gets all the Wi-Fi Attached SSIDs associated with a packet core data plane.",
+  "IsDataAction": false
+}

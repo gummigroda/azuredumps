@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/RegenerateKey/action",
+  "OperationName": "Regenerate a key for a communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Regenerates the primary or secondary key for a communication service",
+  "IsDataAction": false
+}

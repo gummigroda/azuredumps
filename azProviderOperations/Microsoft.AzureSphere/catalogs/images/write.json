@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/images/write",
+  "OperationName": "Images_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/images",
+  "Description": "Create a Image",
+  "IsDataAction": false
+}

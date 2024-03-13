@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/inboundRoutes/action",
+  "OperationName": "Gets inbound routes from vwan connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Hub resource",
+  "Description": "Gets routes learnt from a virtual wan connection",
+  "IsDataAction": false
+}

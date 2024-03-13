@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/images/action",
+  "OperationName": "CreateImagesFromData",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "This API accepts body content as multipart/form-data and application/octet-stream. When using multipart",
+  "IsDataAction": true
+}

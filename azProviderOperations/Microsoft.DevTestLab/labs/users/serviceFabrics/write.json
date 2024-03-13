@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/write",
+  "OperationName": "Add or modify service fabrics.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service Fabrics",
+  "Description": "Add or modify service fabrics.",
+  "IsDataAction": false
+}

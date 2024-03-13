@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/discoveryrules/delete",
+  "OperationName": "DiscoveryRules_Delete",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/discoveryrules",
+  "Description": "Delete a DiscoveryRule",
+  "IsDataAction": false
+}

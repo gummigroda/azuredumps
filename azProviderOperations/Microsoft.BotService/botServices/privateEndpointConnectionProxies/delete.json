@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete a connection proxy resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Connection Proxy Resource",
+  "Description": "Delete a connection proxy resource",
+  "IsDataAction": false
+}

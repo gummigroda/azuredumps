@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHDriverReliability/Read",
+  "OperationName": "Read DHDriverReliability data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHDriverReliability",
+  "Description": "Read data from the DHDriverReliability table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/savedFilters/read",
+  "OperationName": "SavedFilters_Get",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve a saved filter by savedFilterName.",
+  "IsDataAction": true
+}

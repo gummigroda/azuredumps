@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ListMigrationDate/Action",
+  "OperationName": "Subscription migration date read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "",
+  "Description": "Get back Subscription migration date",
+  "IsDataAction": false
+}

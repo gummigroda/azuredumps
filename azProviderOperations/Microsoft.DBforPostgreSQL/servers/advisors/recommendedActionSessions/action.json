@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/advisors/recommendedActionSessions/action",
+  "OperationName": "Make recommendations",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Advisors",
+  "Description": "Make recommendations",
+  "IsDataAction": false
+}

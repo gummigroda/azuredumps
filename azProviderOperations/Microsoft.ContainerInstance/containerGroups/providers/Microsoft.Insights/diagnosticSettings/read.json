@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Gets the diagnostic setting for the container group.",
+  "IsDataAction": false
+}

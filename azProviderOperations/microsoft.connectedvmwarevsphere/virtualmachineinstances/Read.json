@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachineinstances/Read",
+  "OperationName": "Gets/List virtualmachineinstances resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachineinstances",
+  "Description": "Read virtualmachineinstances",
+  "IsDataAction": false
+}

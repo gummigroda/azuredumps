@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/authorizationRules/write",
+  "OperationName": "Create or Update Namespace Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Create a Namespace level Authorization Rules and update its properties. The Authorization Rules Access Rights, the Primary and Secondary Keys can be updated.",
+  "IsDataAction": false
+}

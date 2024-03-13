@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/supportTickets/read",
+  "OperationName": "Reads Support Ticket",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "Support Ticket",
+  "Description": "Lists one or all support tickets",
+  "IsDataAction": false
+}

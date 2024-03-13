@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/restoreBlobRanges/action",
+  "OperationName": "Restore blob ranges",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Restore blob ranges to the state of the specified time",
+  "IsDataAction": false
+}

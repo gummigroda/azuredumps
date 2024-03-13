@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

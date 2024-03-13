@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/administrators/write",
+  "OperationName": "Create/Update Administrator of MariaDB server.",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Administrator of MariaDB server.",
+  "Description": "Creates or updates MariaDB server administrator with the specified parameters.",
+  "IsDataAction": false
+}

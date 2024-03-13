@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roles/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read the diagnostic setting",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CloudService Roles Diagnostic Settings",
+  "Description": "Gets the diagnostic setting for the CloudService Roles.",
+  "IsDataAction": false
+}

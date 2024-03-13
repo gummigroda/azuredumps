@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/serviceObjectives/read",
+  "OperationName": "Get service level objectives",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Service Level Objective",
+  "Description": "Retrieve list of service level objectives (also known as performance tiers) available on a given server",
+  "IsDataAction": false
+}

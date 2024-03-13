@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Automation Metric Definitions",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Automation Metric Definitions",
+  "Description": "Gets Automation Metric Definitions",
+  "IsDataAction": false
+}

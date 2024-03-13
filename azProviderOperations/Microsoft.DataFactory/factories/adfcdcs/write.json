@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/adfcdcs/write",
+  "OperationName": "Create or update any ADF Change data capture",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "ADF Change data capture",
+  "Description": "Create or update ADF Change data capture.",
+  "IsDataAction": false
+}

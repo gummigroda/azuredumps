@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/frontendIPConfigurations/loadBalancerPools/join/action",
+  "OperationName": "Join load balancer frontend IP address backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Frontend IP Configuration backend address pool",
+  "Description": "Joins a load balancer frontend IP address backend pool. Not alertable.",
+  "IsDataAction": false
+}

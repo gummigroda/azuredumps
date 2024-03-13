@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/read",
+  "OperationName": "SqlServerInstances_Get",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances",
+  "Description": "Retrieves a SQL Server Instance resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/pools/read",
+  "OperationName": "Read CloudTest pool",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "pools",
+  "Description": "Reads any CloudTest pool",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/shares/write",
+  "OperationName": "Create or Update Share",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Share",
+  "Description": "Create or update a share.",
+  "IsDataAction": false
+}

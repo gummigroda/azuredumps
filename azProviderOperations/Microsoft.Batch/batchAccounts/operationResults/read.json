@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/operationResults/read",
+  "OperationName": "Get Batch account operation results",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Resource Provider",
+  "Description": "Gets the results of a long running Batch account operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/tokens/delete",
+  "OperationName": "Delete token",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Tokens",
+  "Description": "Deletes a token from a container registry.",
+  "IsDataAction": false
+}

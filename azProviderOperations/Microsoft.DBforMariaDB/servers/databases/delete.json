@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/databases/delete",
+  "OperationName": "Delete MariaDB Database",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Databases",
+  "Description": "Deletes an existing MariaDB Database.",
+  "IsDataAction": false
+}

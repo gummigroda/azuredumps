@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/imageProcessingRasterizeJobs/read",
+  "OperationName": "Get or List AgFoodPlatform imageProcessingRasterizeJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform imageProcessingRasterizeJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform imageProcessingRasterizeJobs resource(s).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/certificates/read",
+  "OperationName": "Get Integration Account Certificate",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Certificate",
+  "Description": "Reads the certificate in integration account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/persistedfaces/read",
+  "OperationName": "LargeFaceList - Get Face|LargeFaceList - List Face*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Retrieve persisted face in large face list by largeFaceListId and persistedFaceId.\r\nList faces' persistedFaceId and userData in a specified large face list.*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/subnets/read",
+  "OperationName": "Subnets_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "subnets",
+  "Description": "Implements Subnets list by subscription GET method.",
+  "IsDataAction": false
+}

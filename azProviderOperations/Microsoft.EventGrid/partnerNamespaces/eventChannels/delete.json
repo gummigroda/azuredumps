@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/eventChannels/delete",
+  "OperationName": "Delete EventChannel",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventChannels",
+  "Description": "Delete an event channel",
+  "IsDataAction": false
+}

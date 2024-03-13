@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/speakerauthorizations/write",
+  "OperationName": "Create or update a voice speaker authorization.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Speaker Authorizations",
+  "Description": "Updates the mutable details of the voice speaker authorization identified by its ID.",
+  "IsDataAction": true
+}

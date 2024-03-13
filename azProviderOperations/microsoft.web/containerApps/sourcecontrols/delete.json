@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/sourcecontrols/delete",
+  "OperationName": "Delete Container App Source Control",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App Source Control",
+  "Description": "Delete a Container App Source Control",
+  "IsDataAction": false
+}

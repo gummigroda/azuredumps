@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/relations/read",
+  "OperationName": "Get Entity Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entity Relations",
+  "Description": "Gets a relation between the entity and related resources",
+  "IsDataAction": false
+}

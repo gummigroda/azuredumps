@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityCopilot/register/action",
+  "OperationName": "Register the Microsoft.SecurityCopilot",
+  "ProviderNamespace": "Microsoft.SecurityCopilot",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.SecurityCopilot",
+  "IsDataAction": false
+}

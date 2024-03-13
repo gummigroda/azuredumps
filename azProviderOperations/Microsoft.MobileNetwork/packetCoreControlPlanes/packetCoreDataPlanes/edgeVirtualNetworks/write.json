@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks/write",
+  "OperationName": "EdgeVirtualNetworks_Update",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks",
+  "Description": "Update Edge Virtual Network resource.",
+  "IsDataAction": false
+}

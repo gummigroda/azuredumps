@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/unregister/action",
+  "OperationName": "Unregister the Microsoft.AzureDataTransfer",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AzureDataTransfer",
+  "IsDataAction": false
+}

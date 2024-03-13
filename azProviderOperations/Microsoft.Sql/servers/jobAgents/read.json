@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/read",
+  "OperationName": "Get Azure SQL DB job agent",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job agent",
+  "Description": "Gets an Azure SQL DB job agent",
+  "IsDataAction": false
+}

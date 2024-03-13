@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/frontendIPConfigurations/loadBalancerPools/write",
+  "OperationName": "Create or Update load balancer frontend IP address backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Frontend IP Configuration backend address pool",
+  "Description": "Creates a load balancer frontend IP address backend pool or updates an existing public IP Address load balancer backend pool",
+  "IsDataAction": false
+}

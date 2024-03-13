@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/listAssociatedResources/action",
+  "OperationName": "List associated resources for User Assigned Identity",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "User Assigned Identities",
+  "Description": "Lists all associated resources for an existing user assigned identity",
+  "IsDataAction": false
+}

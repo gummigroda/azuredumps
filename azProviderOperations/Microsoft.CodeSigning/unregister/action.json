@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/unregister/action",
+  "OperationName": "Unregisters Resource Provider",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for Microsoft CodeSigning resource provider.",
+  "IsDataAction": false
+}

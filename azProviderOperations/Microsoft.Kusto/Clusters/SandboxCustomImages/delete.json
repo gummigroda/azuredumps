@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/SandboxCustomImages/delete",
+  "OperationName": "Delete sandbox custom image",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Sandbox custom image resource type",
+  "Description": "Deletes a sandbox custom image",
+  "IsDataAction": false
+}

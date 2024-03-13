@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/agentPools/read",
+  "OperationName": "AgentPools_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters/agentPools",
+  "Description": "Get properties of the provided Kubernetes cluster agent pool.",
+  "IsDataAction": false
+}

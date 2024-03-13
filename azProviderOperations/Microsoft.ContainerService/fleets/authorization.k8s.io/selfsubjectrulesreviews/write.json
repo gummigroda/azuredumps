@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/authorization.k8s.io/selfsubjectrulesreviews/write",
+  "OperationName": "Creates/Updates selfsubjectrulesreviews resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Selfsubjectrulesreviews",
+  "Description": "Writes selfsubjectrulesreviews",
+  "IsDataAction": true
+}

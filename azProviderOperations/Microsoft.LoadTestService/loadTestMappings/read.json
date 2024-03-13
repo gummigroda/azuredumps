@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadTestMappings/read",
+  "OperationName": "Get/List loadtest mapping resources",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadTestMappings",
+  "Description": "Get a LoadTest mapping resource, or Lists LoadTest mapping resources in a scope.",
+  "IsDataAction": false
+}

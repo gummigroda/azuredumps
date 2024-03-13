@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/read",
+  "OperationName": "List Databricks Workspaces",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Retrieves a list of Databricks workspaces.",
+  "IsDataAction": false
+}

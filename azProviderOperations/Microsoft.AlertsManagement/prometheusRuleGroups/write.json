@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/prometheusRuleGroups/write",
+  "OperationName": "Creates or updates the prometheusRuleGroups",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "prometheusRuleGroups",
+  "Description": "Set prometheusRuleGroups",
+  "IsDataAction": false
+}

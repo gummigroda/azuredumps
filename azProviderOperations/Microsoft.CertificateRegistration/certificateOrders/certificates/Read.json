@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/certificates/Read",
+  "OperationName": "Get Certificates",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "Certificate",
+  "Description": "Get the list of certificates",
+  "IsDataAction": false
+}

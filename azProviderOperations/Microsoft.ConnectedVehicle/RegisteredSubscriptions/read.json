@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/RegisteredSubscriptions/read",
+  "OperationName": "Gets/lists registered subscriptions",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

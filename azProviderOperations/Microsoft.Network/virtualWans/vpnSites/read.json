@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/vpnSites/read",
+  "OperationName": "Gets all VPN Sites that reference a Virtual Wan.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Site resource.",
+  "Description": "Gets all VPN Sites that reference a Virtual Wan.",
+  "IsDataAction": false
+}

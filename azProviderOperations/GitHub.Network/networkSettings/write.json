@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/networkSettings/write",
+  "OperationName": "networkSettings_Update",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "networkSettings",
+  "Description": "Updates the properties of an existing GitHub.Network networkSettings resource with the specified update parameters.",
+  "IsDataAction": false
+}

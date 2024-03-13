@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apps/controllerrevisions/write",
+  "OperationName": "Creates/Updates controllerrevisions resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Controllerrevisions",
+  "Description": "Writes controllerrevisions",
+  "IsDataAction": true
+}

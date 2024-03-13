@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/action",
+  "OperationName": "Projects_CreateProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Unified Authoring APIs*",
+  "Description": "Creates a new project.",
+  "IsDataAction": true
+}

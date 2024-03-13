@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/items/delete",
+  "OperationName": "Delete Item By itemId and listId",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "items*",
+  "Description": "Delete Item By itemId and listId",
+  "IsDataAction": true
+}

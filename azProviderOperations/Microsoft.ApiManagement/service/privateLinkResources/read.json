@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateLinkResources/read",
+  "OperationName": "Get Private Link Group Resources",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Link Group Resource",
+  "Description": "Get Private Link Group resources",
+  "IsDataAction": false
+}

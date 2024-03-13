@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/migrate/action",
+  "OperationName": "Migrates the IoT role to ASE Kubernetes role",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "roles",
+  "Description": "Migrates the IoT role to ASE Kubernetes role",
+  "IsDataAction": false
+}

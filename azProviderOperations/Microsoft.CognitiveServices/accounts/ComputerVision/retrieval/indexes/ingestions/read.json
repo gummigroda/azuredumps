@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/ingestions/read",
+  "OperationName": "GetIngestion|ListIngestions*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ingestions*",
+  "Description": "Gets the ingestion status for the specified index and ingestion name.\r\nRetrieves all ingestions for the specific index.*",
+  "IsDataAction": true
+}

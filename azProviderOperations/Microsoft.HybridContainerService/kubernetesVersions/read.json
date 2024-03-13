@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/kubernetesVersions/read",
+  "OperationName": "KubernetesVersions_List",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "kubernetesVersions",
+  "Description": "Lists the supported kubernetes versions from the underlying custom location",
+  "IsDataAction": false
+}

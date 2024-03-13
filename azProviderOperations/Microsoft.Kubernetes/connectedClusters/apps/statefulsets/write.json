@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/statefulsets/write",
+  "OperationName": "Creates/Updates statefulsets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "statefulsets",
+  "Description": "Writes statefulsets",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/managedOnPremZones/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ManagedOnPremZones",
+  "Description": "Returns a given ManagedOnPremZone.",
+  "IsDataAction": false
+}

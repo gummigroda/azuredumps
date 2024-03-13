@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/read",
+  "OperationName": "Read Domain",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domains",
+  "Description": "Read a domain",
+  "IsDataAction": false
+}

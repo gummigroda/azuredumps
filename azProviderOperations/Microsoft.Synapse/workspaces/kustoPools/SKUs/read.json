@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/SKUs/read",
+  "OperationName": "Read cluster SKU resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Cluster SKUs resource type",
+  "Description": "Reads a cluster SKU resource.",
+  "IsDataAction": false
+}

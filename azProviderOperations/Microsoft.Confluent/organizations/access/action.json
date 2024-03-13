@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/access/action",
+  "OperationName": "Access and accounts scenarios of Microsoft.Confluent",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Various operations related to access and accounts of confluent organizations",
+  "IsDataAction": false
+}

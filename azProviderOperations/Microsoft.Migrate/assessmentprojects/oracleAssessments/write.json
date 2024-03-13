@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oracleAssessments/write",
+  "OperationName": "Create or update oracle Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Assessments",
+  "Description": "Creates a oracle Assessment or updates an existing oracle Assessment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/deployments/delete",
+  "OperationName": "DeleteDeployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Delete a deployment, removing the operation from the target device.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/jobs/delete",
+  "OperationName": "Delete Job",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Jobs",
+  "Description": "Deletes a job from a Batch account",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/recipientUsers/write",
+  "OperationName": "Add user to notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Users associated with a notification",
+  "Description": "Adds the API Management User to the list of Recipients for the Notification.",
+  "IsDataAction": false
+}

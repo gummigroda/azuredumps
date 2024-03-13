@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/getlearnedroutes/action",
+  "OperationName": "Gets learned routes of a VpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Gets learned routes of a VpnGateway",
+  "IsDataAction": false
+}

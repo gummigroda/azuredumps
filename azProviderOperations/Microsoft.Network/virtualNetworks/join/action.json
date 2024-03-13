@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/join/action",
+  "OperationName": "Join Virtual Network.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Joins a virtual network. Not Alertable.",
+  "IsDataAction": false
+}

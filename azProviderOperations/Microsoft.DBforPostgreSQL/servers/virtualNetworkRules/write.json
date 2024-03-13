@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/write",
+  "OperationName": "Create/Update Virtual Network Rule",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Virtual Network Rules",
+  "Description": "Creates a virtual network rule with the specified parameters or update the properties or tags for the specified virtual network rule.",
+  "IsDataAction": false
+}

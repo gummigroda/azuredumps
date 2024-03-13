@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/extendedAuditingSettings/read",
+  "OperationName": "Get extended server blob auditing policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Extended Server Blob Auditing Policy",
+  "Description": "Retrieve details of the extended server blob auditing policy configured on a given server",
+  "IsDataAction": false
+}

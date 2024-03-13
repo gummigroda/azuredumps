@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/getHybridDownloadLink/action",
+  "OperationName": "Get Azure Database Migration Service worker package download link.",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Gets a Azure Database Migration Service worker package download link from RP Blob Storage.",
+  "IsDataAction": false
+}

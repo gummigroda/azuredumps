@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/nodetypes/skus/read",
+  "OperationName": "Read Node Type SKUs",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Node Types",
+  "Description": "Read Node Type supported SKUs",
+  "IsDataAction": false
+}

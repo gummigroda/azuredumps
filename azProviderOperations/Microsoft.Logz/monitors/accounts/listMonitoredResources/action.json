@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/accounts/listMonitoredResources/action",
+  "OperationName": "List monitored resources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Accounts",
+  "Description": "List all resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

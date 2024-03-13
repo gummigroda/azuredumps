@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/OutboundConnection/Read",
+  "OperationName": "Read OutboundConnection data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "OutboundConnection",
+  "Description": "Read data from the OutboundConnection table",
+  "IsDataAction": false
+}

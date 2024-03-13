@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/dnsAliases/delete",
+  "OperationName": "Deletes a Public Ip Address Dns Alias",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Alias of a Public Ip Address",
+  "Description": "Deletes a Public Ip Address Dns Alias resource",
+  "IsDataAction": false
+}

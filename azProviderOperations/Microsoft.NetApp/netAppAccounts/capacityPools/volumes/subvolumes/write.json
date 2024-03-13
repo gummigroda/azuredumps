@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/write",
+  "OperationName": "Write sub volume Resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Sub volume resource type",
+  "Description": "Write a sub volume resource.",
+  "IsDataAction": false
+}

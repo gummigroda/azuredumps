@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationServers/read",
+  "OperationName": "Get authorization service list or Get authorization server details without secrets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OAuth Authorization servers",
+  "Description": "Lists a collection of authorization servers defined within a service instance. or Gets the details of the authorization server without secrets.",
+  "IsDataAction": false
+}

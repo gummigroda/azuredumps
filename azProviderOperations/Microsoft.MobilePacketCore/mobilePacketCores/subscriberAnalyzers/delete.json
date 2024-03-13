@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/subscriberAnalyzers/delete",
+  "OperationName": "SubscriberAnalyzers_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/subscriberAnalyzers",
+  "Description": "Deletes the specified Mobile Packet Core subscriber analyzer.",
+  "IsDataAction": false
+}

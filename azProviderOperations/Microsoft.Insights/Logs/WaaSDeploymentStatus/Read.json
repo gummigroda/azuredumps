@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WaaSDeploymentStatus/Read",
+  "OperationName": "Read WaaSDeploymentStatus data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WaaSDeploymentStatus",
+  "Description": "Read data from the WaaSDeploymentStatus table",
+  "IsDataAction": false
+}

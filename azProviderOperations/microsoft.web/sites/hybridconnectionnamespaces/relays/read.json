@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hybridconnectionnamespaces/relays/read",
+  "OperationName": "Get Web Apps Hybrid Connection Namespaces Relays",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hybrid Connection Namespaces Relays",
+  "Description": "Get Web Apps Hybrid Connection Namespaces Relays.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/publicImages/read",
+  "OperationName": "Get Public Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Public Image",
+  "Description": "Gets the public virtual machine image.",
+  "IsDataAction": false
+}

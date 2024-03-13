@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerLicenses/read",
+  "OperationName": "SqlServerLicenses_Get",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerLicenses",
+  "Description": "Retrieves a SQL Server license resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/addWorker/action",
+  "OperationName": "Add Azure Database Migration Service Worker",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Adds a Azure Database Migration Service worker to the Service's availiable workers",
+  "IsDataAction": false
+}

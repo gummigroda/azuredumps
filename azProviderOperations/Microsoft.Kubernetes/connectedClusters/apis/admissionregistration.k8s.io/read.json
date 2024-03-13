@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/admissionregistration.k8s.io/read",
+  "OperationName": "Gets/List admissionregistration.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "admissionregistration.k8s.io",
+  "Description": "Reads admissionregistration.k8s.io",
+  "IsDataAction": true
+}

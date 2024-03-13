@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/purviewAccountBindings/read",
+  "OperationName": "Read Account Binding",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account binding",
+  "Description": "Read Account Binding.",
+  "IsDataAction": true
+}

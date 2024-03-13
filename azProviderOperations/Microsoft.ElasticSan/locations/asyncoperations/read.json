@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/locations/asyncoperations/read",
+  "OperationName": "Poll Asynchronous Operation",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Async Operations",
+  "Description": "Polls the status of an asynchronous operation.",
+  "IsDataAction": false
+}

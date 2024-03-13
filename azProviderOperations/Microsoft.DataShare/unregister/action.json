@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/unregister/action",
+  "OperationName": "Unregister Data Share Resource Provider",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for the Data Share Resource Provider.",
+  "IsDataAction": false
+}

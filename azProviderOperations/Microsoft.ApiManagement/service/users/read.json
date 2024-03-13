@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/read",
+  "OperationName": "Get users list or Get user details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User accounts",
+  "Description": "Lists a collection of registered users in the specified service instance. or Gets the details of the user specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/transparentDataEncryption/read",
+  "OperationName": "Get logical database Transparent Data Encryption",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Transparent Data Encryption",
+  "Description": "Retrieve details of the logical database Transparent Data Encryption on a given managed database",
+  "IsDataAction": false
+}

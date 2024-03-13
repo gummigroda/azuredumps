@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/Locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "Locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

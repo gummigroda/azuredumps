@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/start/action",
+  "OperationName": "VirtualMachines_Start",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Start virtual machine.",
+  "IsDataAction": false
+}

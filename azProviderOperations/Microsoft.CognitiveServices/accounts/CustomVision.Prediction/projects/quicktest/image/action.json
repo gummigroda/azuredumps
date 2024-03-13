@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/quicktest/image/action",
+  "OperationName": "QuickTestImage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "quicktest*",
+  "Description": "Quick test an image.",
+  "IsDataAction": true
+}

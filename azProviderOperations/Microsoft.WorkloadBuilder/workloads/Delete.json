@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/Delete",
+  "OperationName": "Deletes the workloads",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "workloads",
+  "Description": "Delete workloads",
+  "IsDataAction": false
+}

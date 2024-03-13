@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/runCommand/action",
+  "OperationName": "BareMetalMachines_RunCommand",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Run the command or the script on the provided bare metal machine. The URL to storage account with the command execution results and the command exit code can be retrieved from the operation status API once available.",
+  "IsDataAction": false
+}

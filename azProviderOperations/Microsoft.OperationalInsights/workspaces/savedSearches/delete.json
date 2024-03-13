@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/savedSearches/delete",
+  "OperationName": "Delete Saved Search",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Saved Search",
+  "Description": "Deletes a saved search query",
+  "IsDataAction": false
+}

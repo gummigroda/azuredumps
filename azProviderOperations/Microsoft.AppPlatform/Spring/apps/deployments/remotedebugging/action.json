@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/remotedebugging/action",
+  "OperationName": "Remote debugging app instance in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application deployment of Microsoft Azure Spring Apps",
+  "Description": "Remote debugging app instance for a specific application",
+  "IsDataAction": true
+}

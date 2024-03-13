@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/write",
+  "OperationName": "AzureDevOpsOrgs_Update",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs",
+  "Description": "Updates monitored Azure DevOps organization details.",
+  "IsDataAction": false
+}

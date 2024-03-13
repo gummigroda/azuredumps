@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/certificates/retrieveProofOfPossessionNonce/action",
+  "OperationName": "Certificates_RetrieveProofOfPossessionNonce",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/certificates",
+  "Description": "Gets the proof of possession nonce.",
+  "IsDataAction": false
+}

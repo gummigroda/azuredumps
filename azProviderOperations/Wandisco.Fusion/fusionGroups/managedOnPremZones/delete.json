@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/managedOnPremZones/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ManagedOnPremZones",
+  "Description": "Deletes a given ManagedOnPremZone.",
+  "IsDataAction": false
+}

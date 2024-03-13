@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/read",
+  "OperationName": "Get a Network Virtual Appliance Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Virtual Appliance Connection",
+  "Description": "Get a Network Virtual Appliance Connection",
+  "IsDataAction": false
+}

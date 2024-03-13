@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/register/action",
+  "OperationName": "Register the Microsoft.MobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.MobilePacketCore",
+  "IsDataAction": false
+}

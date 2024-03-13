@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/delete",
+  "OperationName": "Delete CloudHsm",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "CloudHsm",
+  "Description": "Delete a CloudHsm",
+  "IsDataAction": false
+}

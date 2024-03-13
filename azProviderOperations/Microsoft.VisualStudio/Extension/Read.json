@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Extension/Read",
+  "OperationName": "Reads the Extension",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Extension",
+  "Description": "Read Extension",
+  "IsDataAction": false
+}

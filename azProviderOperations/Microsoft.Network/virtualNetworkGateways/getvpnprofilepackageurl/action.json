@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/getvpnprofilepackageurl/action",
+  "OperationName": "Gets the URL of a pre-generated vpn client profile package",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Gets the URL of a pre-generated vpn client profile package",
+  "IsDataAction": false
+}

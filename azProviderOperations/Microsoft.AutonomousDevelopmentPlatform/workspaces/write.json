@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/write",
+  "OperationName": "Update workspace",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Workspace",
+  "Description": "Update workspace",
+  "IsDataAction": false
+}

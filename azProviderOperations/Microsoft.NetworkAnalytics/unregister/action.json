@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/unregister/action",
+  "OperationName": "Unregister the Microsoft.NetworkAnalytics",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.NetworkAnalytics",
+  "IsDataAction": false
+}

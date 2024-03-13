@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/weather/write",
+  "OperationName": "Create or Update AgFoodPlatform weather.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform weather",
+  "Description": "Creates or Updates AgFoodPlatform weather.",
+  "IsDataAction": true
+}

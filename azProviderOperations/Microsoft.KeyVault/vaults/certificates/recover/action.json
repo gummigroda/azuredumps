@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/recover/action",
+  "OperationName": "Recover Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Recovers the deleted certificate. The operation performs the reversal of the Delete operation. The operation is applicable in vaults enabled for soft-delete, and must be issued during the retention interval.",
+  "IsDataAction": true
+}

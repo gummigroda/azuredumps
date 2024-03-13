@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGateways/read",
+  "OperationName": "InternetGateways_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways",
+  "Description": "Displays Internet Gateways list by subscription GET method.",
+  "IsDataAction": false
+}

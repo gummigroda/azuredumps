@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/smfDeployments/delete",
+  "OperationName": "SmfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/smfDeployments",
+  "Description": "Deletes the specified Mobile Packet Core Session Management Function deployment resource.",
+  "IsDataAction": false
+}

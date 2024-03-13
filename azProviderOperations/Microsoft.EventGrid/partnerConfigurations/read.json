@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerConfigurations/read",
+  "OperationName": "Read PartnerConfiguration",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerConfigurations",
+  "Description": "Read a partner configuration",
+  "IsDataAction": false
+}

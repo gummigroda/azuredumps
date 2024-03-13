@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/hostnameConfigurations/delete",
+  "OperationName": "Remove hostname configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway hostname configurations",
+  "Description": "Deletes the specified hostname configuration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/operational/delete",
+  "OperationName": "Delete Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operational Measurements",
+  "Description": "Delete Operational Measurements",
+  "IsDataAction": true
+}

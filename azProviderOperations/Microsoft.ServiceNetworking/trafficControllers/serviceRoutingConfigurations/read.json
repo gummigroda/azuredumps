@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/serviceRoutingConfigurations/read",
+  "OperationName": "Get Traffic Controller Service Routing Configuration",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller Service Routing Configuration",
+  "Description": "Get the Traffic Controller Service Routing Configuration",
+  "IsDataAction": true
+}

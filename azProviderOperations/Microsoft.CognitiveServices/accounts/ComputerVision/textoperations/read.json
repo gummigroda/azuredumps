@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/textoperations/read",
+  "OperationName": "Get Recognize Text Operation Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Operations",
+  "Description": "This interface is used for getting recognize text operation result. The URL to this interface should be retrieved from <b>“Operation-Location”</b> field returned from Recognize Text interface.",
+  "IsDataAction": true
+}

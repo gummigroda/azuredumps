@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/dictionary/examples/action",
+  "OperationName": "Dictionary Examples",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dictionary",
+  "Description": "Provides examples that show how terms in the dictionary are used in context. This operation is used in tandem with Dictionary lookup.",
+  "IsDataAction": true
+}

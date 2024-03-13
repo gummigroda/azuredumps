@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ScheduledQueryRules/Write",
+  "OperationName": "Scheduled query rule write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Scheduled query rule",
+  "Description": "Writing a scheduled query rule",
+  "IsDataAction": false
+}

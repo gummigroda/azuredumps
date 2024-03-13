@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/operations/read",
+  "OperationName": "Get RP operations.",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "operations",
+  "Description": "Gets supported RP operations.",
+  "IsDataAction": false
+}

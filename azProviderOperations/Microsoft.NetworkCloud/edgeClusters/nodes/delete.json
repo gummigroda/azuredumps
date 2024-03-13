@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/nodes/delete",
+  "OperationName": "EdgeClusterNodes_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters/nodes",
+  "Description": "Delete the provided edge cluster node.",
+  "IsDataAction": false
+}

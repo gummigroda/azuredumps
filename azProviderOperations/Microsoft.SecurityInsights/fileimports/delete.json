@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/fileimports/delete",
+  "OperationName": "Delete a File Import",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "FileImports",
+  "Description": "Deletes a File Import",
+  "IsDataAction": false
+}

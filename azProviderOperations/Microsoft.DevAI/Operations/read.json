@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

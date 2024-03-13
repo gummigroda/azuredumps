@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/pause/action",
+  "OperationName": "Pause Pipeline",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Pauses any Pipeline.",
+  "IsDataAction": false
+}

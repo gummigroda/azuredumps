@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/tapConfigurations/write",
+  "OperationName": "Create or update Network Interface Tap Configuration.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration.",
+  "Description": "Creates a Network Interface Tap Configuration or updates an existing Network Interface Tap Configuration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/operations/read",
+  "OperationName": "List of Operations",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "operations",
+  "Description": "Operation returns the list of Operations for a Resource Provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctionVendors/read",
+  "OperationName": "networkFunctionVendors_List",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctionVendors",
+  "Description": "Lists all the available vendor and sku information.",
+  "IsDataAction": false
+}

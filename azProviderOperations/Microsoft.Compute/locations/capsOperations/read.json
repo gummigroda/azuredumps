@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/capsOperations/read",
+  "OperationName": "Get Caps Operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CapsOperation",
+  "Description": "Gets the status of an asynchronous Caps operation",
+  "IsDataAction": false
+}

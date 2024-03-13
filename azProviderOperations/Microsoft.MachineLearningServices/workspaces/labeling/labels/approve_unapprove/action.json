@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/labels/approve_unapprove/action",
+  "OperationName": "Approve or unapprove labels of labeling project in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling Labels",
+  "Description": "Approve or unapprove labels of labeling project in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

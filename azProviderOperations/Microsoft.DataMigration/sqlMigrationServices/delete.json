@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/delete",
+  "OperationName": "Delete existing Service",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "SQL Migration Service",
+  "Description": "Delete existing Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerMembers/delete",
+  "OperationName": "Delete WorkspaceManager Members",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerMembers",
+  "Description": "Deletes WorkspaceManager Members",
+  "IsDataAction": false
+}

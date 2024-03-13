@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete PrivateEndpointConnectionProxies",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "PrivateEndpointConnectionProxies",
+  "Description": "Delete PrivateEndpointConnectionProxies resource",
+  "IsDataAction": false
+}

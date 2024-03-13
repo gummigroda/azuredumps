@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/batch/jobs/delete",
+  "OperationName": "Deletes/DeletesCollection jobs resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Jobs",
+  "Description": "Deletes jobs",
+  "IsDataAction": true
+}

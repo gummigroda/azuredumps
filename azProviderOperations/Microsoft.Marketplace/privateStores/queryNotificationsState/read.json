@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/queryNotificationsState/read",
+  "OperationName": "Read state of notifications, only admins",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Request notifications state",
+  "Description": "Read notifications state details, only admins",
+  "IsDataAction": false
+}

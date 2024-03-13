@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateCryptoCertificateList/action",
+  "OperationName": "Firmware_ListGenerateCryptoCertificateList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to list all crypto certificates for a firmware.",
+  "IsDataAction": false
+}

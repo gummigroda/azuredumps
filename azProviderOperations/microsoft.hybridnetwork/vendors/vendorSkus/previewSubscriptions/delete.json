@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/vendorSkus/previewSubscriptions/delete",
+  "OperationName": "VendorSkuPreview_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors/vendorSkus/previewSubscriptions",
+  "Description": "Deletes the preview information of a vendor sku.",
+  "IsDataAction": false
+}

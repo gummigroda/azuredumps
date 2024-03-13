@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/data/write",
+  "OperationName": "Data Service Write",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Data",
+  "Description": "Allows writing or updating of data for data upload services and Creator resource.",
+  "IsDataAction": true
+}

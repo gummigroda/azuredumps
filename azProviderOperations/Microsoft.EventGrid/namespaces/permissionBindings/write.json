@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/permissionBindings/write",
+  "OperationName": "Write Permission Binding",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "permissionBindings",
+  "Description": "Create or update a Permission Binding",
+  "IsDataAction": false
+}

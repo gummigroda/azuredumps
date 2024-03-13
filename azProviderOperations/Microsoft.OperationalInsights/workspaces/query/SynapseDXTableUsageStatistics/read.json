@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseDXTableUsageStatistics/read",
+  "OperationName": "Read SynapseDXTableUsageStatistics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseDXTableUsageStatistics",
+  "Description": "Read data from the SynapseDXTableUsageStatistics table",
+  "IsDataAction": false
+}

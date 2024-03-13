@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/tags/read",
+  "OperationName": "Get product tags or Tag details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags associated with the Product",
+  "Description": "Lists all Tags associated with the Product. or Get tag associated with the Product.",
+  "IsDataAction": false
+}

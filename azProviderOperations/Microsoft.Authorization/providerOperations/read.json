@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/providerOperations/read",
+  "OperationName": "Get operations for resource providers",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Provider operations",
+  "Description": "Get operations for all resource providers which can be used in role definitions.",
+  "IsDataAction": false
+}

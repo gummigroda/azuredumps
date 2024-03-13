@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/storageinsightconfigs/delete",
+  "OperationName": "Delete Storage Configuration",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Storage Insight Configuration",
+  "Description": "Deletes a storage configuration. This will stop Microsoft Operational Insights from reading data from the storage account.",
+  "IsDataAction": false
+}

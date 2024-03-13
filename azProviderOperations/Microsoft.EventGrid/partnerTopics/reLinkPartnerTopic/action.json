@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerTopics/reLinkPartnerTopic/action",
+  "OperationName": "Re-link a PartnerTopic to a newly created channel",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerTopics",
+  "Description": "Re-link an idle PartnerTopic to a newly created channel",
+  "IsDataAction": false
+}

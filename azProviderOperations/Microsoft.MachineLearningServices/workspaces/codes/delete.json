@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/codes/delete",
+  "OperationName": "Deletes Code in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Code",
+  "Description": "Deletes Code in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

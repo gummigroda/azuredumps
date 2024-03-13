@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get list of Microsoft Storage Metrics definitions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Blob service",
+  "Description": "Get list of Microsoft Storage Metrics definitions.",
+  "IsDataAction": false
+}

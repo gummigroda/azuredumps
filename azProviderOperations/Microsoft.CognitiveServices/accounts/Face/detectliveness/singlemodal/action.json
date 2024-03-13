@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectliveness/singlemodal/action",
+  "OperationName": "Face - DetectLiveness SingleModal",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "detectliveness*",
+  "Description": "<p>Performs liveness detection on a target face in a sequence of images of the same modality (e.g. color or infrared), and returns the liveness classification of the target face as either &lsquo;real face&rsquo;, &lsquo;spoof face&rsquo;, or &lsquo;uncertain&rsquo; if a classification cannot be made with the given inputs.</p>",
+  "IsDataAction": true
+}

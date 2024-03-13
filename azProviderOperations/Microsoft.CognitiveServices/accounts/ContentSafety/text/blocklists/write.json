@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/blocklists/write",
+  "OperationName": "Create or Update Text Blocklist",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Blocklists",
+  "Description": "Updates a text blocklist, if blocklistName does not exist, create a new blocklist.",
+  "IsDataAction": true
+}

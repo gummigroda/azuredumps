@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/histories/resubmit/action",
+  "OperationName": "Resubmit trigger",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger Histories",
+  "Description": "Resubmits the workflow trigger.",
+  "IsDataAction": false
+}

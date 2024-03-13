@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceHeartbeat/Read",
+  "OperationName": "Read DeviceHeartbeat data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceHeartbeat",
+  "Description": "Read data from the DeviceHeartbeat table",
+  "IsDataAction": false
+}

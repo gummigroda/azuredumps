@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/targetGroups/write",
+  "OperationName": "Creates or updates a target group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB target group",
+  "Description": "Create or update a target group",
+  "IsDataAction": false
+}

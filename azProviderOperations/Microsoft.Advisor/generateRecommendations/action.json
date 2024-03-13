@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/generateRecommendations/action",
+  "OperationName": "Generate Recommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "",
+  "Description": "Gets generate recommendations status",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/entities:annotate/action",
+  "OperationName": "Annotation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledge API",
+  "Description": "Search annotation*",
+  "IsDataAction": true
+}

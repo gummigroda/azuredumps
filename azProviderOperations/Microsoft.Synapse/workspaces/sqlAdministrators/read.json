@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlAdministrators/read",
+  "OperationName": "Get Workspace Active Directory Administrator",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Administrators",
+  "Description": "Get Workspace Active Directory Administrator",
+  "IsDataAction": false
+}

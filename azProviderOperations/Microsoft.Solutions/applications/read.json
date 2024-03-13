@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/read",
+  "OperationName": "Applications_ListBySubscription",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "Lists all the applications within a subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/restorefromdeletedapp/action",
+  "OperationName": "Restore Web Apps From Deleted App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Restore Web Apps From Deleted App.",
+  "IsDataAction": false
+}

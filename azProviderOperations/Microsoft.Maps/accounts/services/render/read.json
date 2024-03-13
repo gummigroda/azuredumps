@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/render/read",
+  "OperationName": "Render Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Render",
+  "Description": "Allows reading of data for Render services.",
+  "IsDataAction": true
+}

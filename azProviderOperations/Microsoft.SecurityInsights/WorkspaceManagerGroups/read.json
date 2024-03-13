@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerGroups/read",
+  "OperationName": "Get WorkspaceManager Groups",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerGroups",
+  "Description": "Gets WorkspaceManager Groups",
+  "IsDataAction": false
+}

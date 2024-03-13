@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Metrics/Action",
+  "OperationName": "Metric Action",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "",
+  "Description": "Metric Action",
+  "IsDataAction": false
+}

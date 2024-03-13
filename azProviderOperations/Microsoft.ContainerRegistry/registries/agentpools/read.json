@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/agentpools/read",
+  "OperationName": "Get a agentpool for a container registry or list all agentpools.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Get a agentpool for a container registry or list all agentpools.",
+  "IsDataAction": false
+}

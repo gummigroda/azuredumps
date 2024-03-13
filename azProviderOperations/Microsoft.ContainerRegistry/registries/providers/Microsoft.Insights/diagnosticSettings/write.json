@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

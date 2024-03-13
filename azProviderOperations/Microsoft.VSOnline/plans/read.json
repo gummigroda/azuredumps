@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VSOnline/plans/read",
+  "OperationName": "Gets/Lists plan resources",
+  "ProviderNamespace": "Microsoft.VSOnline",
+  "ResourceName": "plans",
+  "Description": "Reads plans",
+  "IsDataAction": false
+}

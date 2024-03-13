@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/jobSchedules/delete",
+  "OperationName": "Delete Job Schedule",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Job Schedules",
+  "Description": "Deletes a job schedule from a Batch account",
+  "IsDataAction": true
+}

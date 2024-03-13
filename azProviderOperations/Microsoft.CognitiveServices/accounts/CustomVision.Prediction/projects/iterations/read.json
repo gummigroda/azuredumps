@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/iterations/read",
+  "OperationName": "GetIteration|GetIterations*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Get a specific iteration.\r\nGet iterations for the project.*",
+  "IsDataAction": true
+}

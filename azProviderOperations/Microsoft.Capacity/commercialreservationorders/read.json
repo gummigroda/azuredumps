@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/commercialreservationorders/read",
+  "OperationName": "Get Reservation Orders created in any Tenant",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Get Reservation Orders created in any Tenant",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/correction/images/delete",
+  "OperationName": "Face User Correction - Delete Batch Images (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Face User Correction - Delete Batch Images",
+  "IsDataAction": true
+}

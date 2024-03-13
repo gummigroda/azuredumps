@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/builds/zipdeploy/action",
+  "OperationName": "Deploy to Static Site Build",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build Function App Setting",
+  "Description": "Deploy a Static Site Build from zipped content",
+  "IsDataAction": false
+}

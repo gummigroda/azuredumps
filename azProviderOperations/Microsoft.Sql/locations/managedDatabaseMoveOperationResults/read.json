@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedDatabaseMoveOperationResults/read",
+  "OperationName": "Get managed database move operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed database move operations",
+  "Description": "Gets Managed Instance database move operation result.",
+  "IsDataAction": false
+}

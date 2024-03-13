@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/reboot/action",
+  "OperationName": "NetworkDevices_reboot",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Reboot the Network Device.",
+  "IsDataAction": false
+}

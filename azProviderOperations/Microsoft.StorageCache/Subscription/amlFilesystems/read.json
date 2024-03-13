@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/Subscription/amlFilesystems/read",
+  "OperationName": "List amlfilesystems for a subscription",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystems in subscription",
+  "Description": "Lists existing amlfilesystems in the subscription",
+  "IsDataAction": false
+}

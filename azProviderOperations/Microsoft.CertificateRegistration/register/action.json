@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/register/action",
+  "OperationName": "Register Microsoft Certificates resource provider",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "",
+  "Description": "Register the Microsoft Certificates resource provider for the subscription",
+  "IsDataAction": false
+}

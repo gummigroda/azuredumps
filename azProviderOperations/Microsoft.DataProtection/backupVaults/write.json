@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/write",
+  "OperationName": "Update Backup Vault",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Vaults",
+  "Description": "Update BackupVault operation updates an Azure resource of type 'Backup Vault'",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/operations/read",
+  "OperationName": "Read all API operations",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "B2C Directory",
+  "Description": "Read all API operations available for Microsoft.AzureActiveDirectory resource provider",
+  "IsDataAction": false
+}

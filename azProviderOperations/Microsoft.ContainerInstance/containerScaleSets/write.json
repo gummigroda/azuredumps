@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/write",
+  "OperationName": "Create or Update Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Create or update a specific container scale set.",
+  "IsDataAction": false
+}

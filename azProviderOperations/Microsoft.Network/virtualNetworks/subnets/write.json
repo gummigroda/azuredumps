@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/write",
+  "OperationName": "Create or Update Virtual Network Subnet",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Creates a virtual network subnet or updates an existing virtual network subnet",
+  "IsDataAction": false
+}

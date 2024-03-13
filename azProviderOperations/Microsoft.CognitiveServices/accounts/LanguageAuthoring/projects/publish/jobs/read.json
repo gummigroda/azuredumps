@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/publish/jobs/read",
+  "OperationName": "Publishing_GetPublishingJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get publishing job status and result details.",
+  "IsDataAction": true
+}

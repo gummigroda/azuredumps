@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/queryStore/read",
+  "OperationName": "Get Query Store settings.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Query Store settings",
+  "Description": "Returns current values of Query Store settings for the database.",
+  "IsDataAction": false
+}

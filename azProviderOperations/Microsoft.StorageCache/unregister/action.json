@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/unregister/action",
+  "OperationName": "Unregister the cache resource provider",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "",
+  "Description": "Azure HPC Cache resource provider",
+  "IsDataAction": false
+}

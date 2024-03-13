@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAProposedActionPlan/Read",
+  "OperationName": "Read UAProposedActionPlan data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAProposedActionPlan",
+  "Description": "Read data from the UAProposedActionPlan table",
+  "IsDataAction": false
+}

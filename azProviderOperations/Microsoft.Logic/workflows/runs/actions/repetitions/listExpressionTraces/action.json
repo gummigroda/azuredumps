@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/runs/actions/repetitions/listExpressionTraces/action",
+  "OperationName": "List Workflow Run Action Repetition Expression Traces",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Run Action Repetition",
+  "Description": "Gets the workflow run action repetition expression traces.",
+  "IsDataAction": false
+}

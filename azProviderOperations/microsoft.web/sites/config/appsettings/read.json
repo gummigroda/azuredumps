@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/appsettings/read",
+  "OperationName": "Get Web App settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Settings",
+  "Description": "Get Web App settings.",
+  "IsDataAction": false
+}

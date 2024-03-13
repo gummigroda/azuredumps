@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/write",
+  "OperationName": "Create or Update container App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App",
+  "Description": "Create a Container App or update an existing one",
+  "IsDataAction": false
+}

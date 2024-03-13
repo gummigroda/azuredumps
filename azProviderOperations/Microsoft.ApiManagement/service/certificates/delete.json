@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/certificates/delete",
+  "OperationName": "Remove certificate",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates",
+  "Description": "Deletes specific certificate.",
+  "IsDataAction": false
+}

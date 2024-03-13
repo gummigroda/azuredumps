@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/hiveReplicationRules/consistencyCheck/action",
+  "OperationName": "ConsistencyCheck",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "HiveReplicationRules",
+  "Description": "Trigger a consistency check on a Hive Replication Rule",
+  "IsDataAction": false
+}

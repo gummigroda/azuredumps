@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/sensitivityLabels/read",
+  "OperationName": "List sensitivity labels of a given SQL Analytics pool.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Sensitivity Labels",
+  "Description": "Gets the sensitivity label of a given column.",
+  "IsDataAction": false
+}

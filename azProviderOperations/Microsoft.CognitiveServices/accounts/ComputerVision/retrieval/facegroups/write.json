@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/facegroups/write",
+  "OperationName": "UpdateFaceGroup",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Group Operations",
+  "Description": "Update the properties of a face group.",
+  "IsDataAction": true
+}

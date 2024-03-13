@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/dbNodes/read",
+  "OperationName": "DbNodes_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters/dbNodes",
+  "Description": "Get a DbNode",
+  "IsDataAction": false
+}

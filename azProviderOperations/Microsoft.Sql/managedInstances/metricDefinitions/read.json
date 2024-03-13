@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/metricDefinitions/read",
+  "OperationName": "Get managed instance metric definitions for specific managed instance",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed instance metric definitions",
+  "Description": "Get managed instance metric definitions",
+  "IsDataAction": false
+}

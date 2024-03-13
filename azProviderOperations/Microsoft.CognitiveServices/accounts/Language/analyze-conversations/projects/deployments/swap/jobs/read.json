@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/deployments/swap/jobs/read",
+  "OperationName": "AnalyzeConversations_Deployments_GetSwapDeploymentJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets a swap deployment job status and result details.",
+  "IsDataAction": true
+}

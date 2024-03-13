@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/operational/dataStreams/read",
+  "OperationName": "Read Data Streams of Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Data Streams of Operational Measurements",
+  "Description": "Read Data Streams of Operational Measurements",
+  "IsDataAction": true
+}

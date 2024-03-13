@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/assessments/read",
+  "OperationName": "Reads assessments",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "assessments",
+  "Description": "Read assessments",
+  "IsDataAction": false
+}

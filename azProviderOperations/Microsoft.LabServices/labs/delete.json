@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/delete",
+  "OperationName": "Delete Lab",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs",
+  "Description": "Delete the lab and all its users, schedules and virtual machines.",
+  "IsDataAction": false
+}

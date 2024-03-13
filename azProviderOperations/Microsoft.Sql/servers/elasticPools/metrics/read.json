@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/metrics/read",
+  "OperationName": "Get elastic pool metrics",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Database Pool Metric",
+  "Description": "Return metrics for elastic database pools",
+  "IsDataAction": false
+}

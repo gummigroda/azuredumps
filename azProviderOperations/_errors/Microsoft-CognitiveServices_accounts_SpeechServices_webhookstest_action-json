@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/webhooks:test/action",
+  "OperationName": "Test Web Hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "The payload will be generated from the last entity that would have invoked the web hook. If no entity is present for none of the registered event types,",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostruntime/host/read",
+  "OperationName": "Get Web Apps Hostruntime Host",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostruntime Host",
+  "Description": "Get Web Apps Hostruntime Host.",
+  "IsDataAction": false
+}

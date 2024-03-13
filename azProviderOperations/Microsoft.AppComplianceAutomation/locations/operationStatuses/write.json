@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

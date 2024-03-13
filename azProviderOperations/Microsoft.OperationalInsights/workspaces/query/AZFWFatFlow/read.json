@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZFWFatFlow/read",
+  "OperationName": "Read AZFWFatFlow data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZFWFatFlow",
+  "Description": "Read data from the AZFWFatFlow table",
+  "IsDataAction": false
+}

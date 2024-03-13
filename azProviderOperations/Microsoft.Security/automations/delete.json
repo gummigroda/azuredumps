@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/automations/delete",
+  "OperationName": "Delete automation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Automations",
+  "Description": "Deletes the automation for the scope",
+  "IsDataAction": false
+}

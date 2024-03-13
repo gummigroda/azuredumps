@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/locations/listInstallVersions/read",
+  "OperationName": "Lists all OpenShift versions available to install in the specified location",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "listInstallVersions",
+  "Description": null,
+  "IsDataAction": false
+}

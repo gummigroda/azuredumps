@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/accountfilters/delete",
+  "OperationName": "Delete Account Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Account Filter",
+  "Description": "Delete any Account Filter",
+  "IsDataAction": false
+}

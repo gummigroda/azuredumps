@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/register/action",
+  "OperationName": "Register the Batch Resource Provider",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Batch Resource Provider and enables the creation of Batch accounts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightJupyterNotebookEvents/read",
+  "OperationName": "Read HDInsightJupyterNotebookEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightJupyterNotebookEvents",
+  "Description": "Read data from the HDInsightJupyterNotebookEvents table",
+  "IsDataAction": false
+}

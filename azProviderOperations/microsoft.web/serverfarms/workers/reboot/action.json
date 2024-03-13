@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/workers/reboot/action",
+  "OperationName": "Reboot App Service Plans Workers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Workers",
+  "Description": "Reboot App Service Plans Workers.",
+  "IsDataAction": false
+}

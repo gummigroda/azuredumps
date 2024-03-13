@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/etcd/read",
+  "OperationName": "Gets/List etcd resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/etcd",
+  "Description": "Reads etcd",
+  "IsDataAction": true
+}

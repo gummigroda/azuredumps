@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/read",
+  "OperationName": "Get Restore Point",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Restore Points",
+  "Description": "Get the properties of a restore point",
+  "IsDataAction": false
+}

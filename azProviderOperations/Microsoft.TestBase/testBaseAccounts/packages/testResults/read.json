@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/testResults/read",
+  "OperationName": "TestResults_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages/testResults",
+  "Description": "Get the Test Result by Id with specified OS Update type for a Test Base Package.",
+  "IsDataAction": false
+}

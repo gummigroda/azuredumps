@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources/read",
+  "OperationName": "Read Shared Private Link Resource",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/SharedPrivateLinkResources",
+  "Description": "Read Shared Private Link Resource",
+  "IsDataAction": false
+}

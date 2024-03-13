@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Endpoint Connection Proxies.",
+  "Description": "Validate",
+  "IsDataAction": false
+}

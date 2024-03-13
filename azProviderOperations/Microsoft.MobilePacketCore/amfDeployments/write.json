@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/amfDeployments/write",
+  "OperationName": "AmfDeployments_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "amfDeployments",
+  "Description": "Update a AmfDeploymentResource",
+  "IsDataAction": false
+}

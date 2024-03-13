@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/write",
+  "OperationName": "Creates or Updates the Machine Learning Service Workspaces Serverless Endpoint(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Serverless Endpoint",
+  "Description": "Creates or Updates the Machine Learning Service Workspaces Serverless Endpoint(s)",
+  "IsDataAction": false
+}

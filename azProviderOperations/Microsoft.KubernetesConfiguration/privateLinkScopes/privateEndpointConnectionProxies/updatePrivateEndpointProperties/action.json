@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies",
+  "Description": "Updates patch on private endpoint connection proxy.",
+  "IsDataAction": false
+}

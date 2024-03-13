@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/runbookContent/action",
+  "OperationName": "Get runbook content",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job",
+  "Description": "Gets the content of the Azure Automation runbook at the time of the job execution",
+  "IsDataAction": false
+}

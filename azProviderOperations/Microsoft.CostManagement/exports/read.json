@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/exports/read",
+  "OperationName": "List exports",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Exports",
+  "Description": "List the exports by scope.",
+  "IsDataAction": false
+}

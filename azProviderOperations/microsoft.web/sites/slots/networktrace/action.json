@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networktrace/action",
+  "OperationName": "Network Trace Web Apps Slots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Network Trace Web Apps Slots.",
+  "IsDataAction": false
+}

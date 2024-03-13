@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/read",
+  "OperationName": "DeviceGroups_Get",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups",
+  "Description": "Get a DeviceGroup. '.default' and '.unassigned' are system defined values and cannot be used for product or device group name.",
+  "IsDataAction": false
+}

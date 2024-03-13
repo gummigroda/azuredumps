@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/hcxEnterpriseSites/read",
+  "OperationName": "Read hcxEnterpriseSites",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/hcxEnterpriseSites",
+  "Description": "Gets the hcxEnterpriseSites for a PrivateCloud.",
+  "IsDataAction": false
+}

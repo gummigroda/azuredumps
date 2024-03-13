@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServicesHub/supportOfferingEntitlement/read",
+  "OperationName": "SupportOfferingEntitlement",
+  "ProviderNamespace": "Microsoft.ServicesHub",
+  "ResourceName": "SupportOfferingEntitlement",
+  "Description": "View the Support Offering Entitlements for a given Services Hub Workspace",
+  "IsDataAction": false
+}

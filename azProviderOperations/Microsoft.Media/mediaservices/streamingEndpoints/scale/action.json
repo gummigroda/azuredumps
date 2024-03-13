@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/scale/action",
+  "OperationName": "Scale Streaming Endpoint Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoint",
+  "Description": "Scale any Streaming Endpoint Operation",
+  "IsDataAction": false
+}

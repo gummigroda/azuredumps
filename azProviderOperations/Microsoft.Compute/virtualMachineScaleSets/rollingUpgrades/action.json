@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/rollingUpgrades/action",
+  "OperationName": "Cancel Virtual Machine Scale Set Rolling Upgrade operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Cancels the rolling upgrade of a Virtual Machine Scale Set",
+  "IsDataAction": false
+}

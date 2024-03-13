@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/securitySettings/Write",
+  "OperationName": "Update Iot Hub SecuritySettings",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/SecuritySettings",
+  "Description": "Update the Azure Security Center settings on Iot Hub",
+  "IsDataAction": false
+}

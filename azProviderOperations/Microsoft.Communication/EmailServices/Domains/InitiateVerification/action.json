@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/InitiateVerification/action",
+  "OperationName": "Domain_InitiateVerification",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Initiate verification of Dns record.",
+  "IsDataAction": false
+}

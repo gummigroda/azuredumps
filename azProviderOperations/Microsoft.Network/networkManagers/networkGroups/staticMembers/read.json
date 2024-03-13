@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/staticMembers/read",
+  "OperationName": "Get Network Group Static Member",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group Static Member",
+  "Description": "Get Network Group Static Member",
+  "IsDataAction": false
+}

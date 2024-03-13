@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoorWebApplicationFirewallPolicies/delete",
+  "OperationName": "Deletes a Web Application Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Web Application Firewall Policy",
+  "Description": "Deletes a Web Application Firewall Policy",
+  "IsDataAction": false
+}

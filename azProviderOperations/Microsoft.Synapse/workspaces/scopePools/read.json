@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/scopePools/read",
+  "OperationName": "Read Scope pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Scope pools",
+  "Description": "Read any Scope pools.",
+  "IsDataAction": false
+}

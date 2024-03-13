@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/sas/read",
+  "OperationName": "Read SAS Definition for Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Read the SAS (Shared Access Signature) definition for a managed storage account.",
+  "IsDataAction": true
+}

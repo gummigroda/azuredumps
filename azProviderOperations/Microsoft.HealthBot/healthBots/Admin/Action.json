@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Admin/Action",
+  "OperationName": "Healthbot configuration admin",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Sign in to the management portal, view and edit all of the bot resources, scenarios, configuration settings, instance keys & secrets.",
+  "IsDataAction": true
+}

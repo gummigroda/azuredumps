@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/ciamDirectories/write",
+  "OperationName": "Create or update CIAM Directory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "CIAM Directory",
+  "Description": "Create or update CIAM Directory resource",
+  "IsDataAction": false
+}

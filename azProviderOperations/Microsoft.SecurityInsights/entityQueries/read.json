@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entityQueries/read",
+  "OperationName": "Get Entity Investigation Queries",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "EntityQueries",
+  "Description": "Gets the investigation expansions for entities",
+  "IsDataAction": false
+}

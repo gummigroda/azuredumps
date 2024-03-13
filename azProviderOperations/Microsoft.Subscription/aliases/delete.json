@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/aliases/delete",
+  "OperationName": "Delete subscription alias",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "Aliases",
+  "Description": "Delete subscription alias",
+  "IsDataAction": false
+}

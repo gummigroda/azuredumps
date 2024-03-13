@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/Register/Action",
+  "OperationName": "Registers Microsoft.Communication resource provider",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "",
+  "Description": "Registers Microsoft.Communication resource provider",
+  "IsDataAction": false
+}

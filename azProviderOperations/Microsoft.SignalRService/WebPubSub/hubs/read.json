@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/hubs/read",
+  "OperationName": "Read hub settings",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/HubSettings",
+  "Description": "Read hub settings",
+  "IsDataAction": false
+}

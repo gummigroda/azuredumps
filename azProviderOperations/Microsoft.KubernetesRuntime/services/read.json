@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/services/read",
+  "OperationName": "Services_Get",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "services",
+  "Description": "Get a ServiceResource",
+  "IsDataAction": false
+}

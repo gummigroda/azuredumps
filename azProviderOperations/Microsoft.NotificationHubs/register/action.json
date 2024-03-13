@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/register/action",
+  "OperationName": "Registers the NotificationHubs Provider",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the NotifciationHubs resource provider and enables the creation of Namespaces and NotificationHubs",
+  "IsDataAction": false
+}

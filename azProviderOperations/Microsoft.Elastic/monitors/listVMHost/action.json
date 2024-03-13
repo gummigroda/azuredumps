@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listVMHost/action",
+  "OperationName": "List monitored vm resources",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "List all vm resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

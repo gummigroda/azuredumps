@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/WACloginAsAdmin/action",
+  "OperationName": "Manage the OS via Windows Admin Center as an administrator",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Lets you manage the OS of your resource via Windows Admin Center as an administrator",
+  "IsDataAction": true
+}

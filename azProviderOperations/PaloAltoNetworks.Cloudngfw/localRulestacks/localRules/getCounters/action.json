@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/localRules/getCounters/action",
+  "OperationName": "LocalRules_getCounters",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/localRules",
+  "Description": "Get counters",
+  "IsDataAction": false
+}

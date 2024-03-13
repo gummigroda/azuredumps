@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/models/read",
+  "OperationName": "Gets one or more voice models.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Gets one or more voice models.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/document:translate/action",
+  "OperationName": "DocumentTranslate",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Translator Text API",
+  "Description": "API to translate a document.",
+  "IsDataAction": true
+}

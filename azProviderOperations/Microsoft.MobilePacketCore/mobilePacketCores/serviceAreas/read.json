@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/read",
+  "OperationName": "ServiceAreas_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas",
+  "Description": "Lists all the Service Areas in a mobile packet core instance.",
+  "IsDataAction": false
+}

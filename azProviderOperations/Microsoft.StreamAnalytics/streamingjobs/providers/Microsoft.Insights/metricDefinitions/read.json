@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read streamingjobs metric definitions",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "The metric definition of streamingjobs",
+  "Description": "Gets the available metrics for streamingjobs",
+  "IsDataAction": false
+}

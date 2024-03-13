@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/write",
+  "OperationName": "Write table throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table throughput setting",
+  "Description": "Update a table throughput.",
+  "IsDataAction": false
+}

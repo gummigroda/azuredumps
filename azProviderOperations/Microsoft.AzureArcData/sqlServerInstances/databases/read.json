@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/databases/read",
+  "OperationName": "SqlServerDatabases_List",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/databases",
+  "Description": "read databases",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/actionGroups/NetworkSecurityPerimeterConfigurations/Reconcile/Action",
+  "OperationName": "Reconcile action group endpoint NSP configuration",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action group endpoint effective NSP configuration",
+  "Description": "Reconcile action group endpoint NSP configuration",
+  "IsDataAction": false
+}

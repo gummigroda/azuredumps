@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/OutboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Get the network endpoints of all outbound dependencies",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Domain Service Type",
+  "Description": "Get the network endpoints of all outbound dependencies",
+  "IsDataAction": false
+}

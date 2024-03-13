@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/organizations/write",
+  "OperationName": "Organizations_Update",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "organizations",
+  "Description": "Update a OrganizationResource",
+  "IsDataAction": false
+}

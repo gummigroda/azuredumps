@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/privateLinkResources/read",
+  "OperationName": "Get private link resources for the specified instance of Cloud HSM.",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "CloudHsm",
+  "Description": "Get the available private link resources for the specified instance of Cloud HSM.",
+  "IsDataAction": false
+}

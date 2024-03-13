@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/read",
+  "OperationName": "CloudServices_Get",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Gets a SaaSHub cloud service by its ID. The operation is supported for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

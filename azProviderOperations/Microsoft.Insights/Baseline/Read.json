@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Baseline/Read",
+  "OperationName": "Read metric baseline",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metric Baseline",
+  "Description": "Read a metric baseline (preview)",
+  "IsDataAction": false
+}

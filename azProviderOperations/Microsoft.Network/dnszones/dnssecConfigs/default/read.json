@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/dnssecConfigs/default/read",
+  "OperationName": "Gets the DNSSEC configuration for a DNS zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNSSEC configuration for a DNS zone",
+  "Description": "Gets the DNSSEC configuration for a DNS zone",
+  "IsDataAction": false
+}

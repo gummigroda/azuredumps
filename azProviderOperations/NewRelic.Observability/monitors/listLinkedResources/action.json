@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/listLinkedResources/action",
+  "OperationName": "List Linked Resources ",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all the linked resource for the given resource",
+  "IsDataAction": false
+}

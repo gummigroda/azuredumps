@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdoors/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update Frontdoor diagnostic setting",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Frontdoor diagnostic setting",
+  "Description": "Creates or updates the diagnostic setting for the Frontdoor resource",
+  "IsDataAction": false
+}

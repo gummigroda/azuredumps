@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/traffic/read",
+  "OperationName": "Traffic Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Traffic",
+  "Description": "Allows reading of data for Traffic services.",
+  "IsDataAction": true
+}

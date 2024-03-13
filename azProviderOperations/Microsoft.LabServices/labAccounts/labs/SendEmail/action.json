@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/SendEmail/action",
+  "OperationName": "SendEmail",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Labs",
+  "Description": "Send email with registration link to the lab",
+  "IsDataAction": false
+}

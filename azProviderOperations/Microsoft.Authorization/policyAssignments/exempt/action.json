@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/exempt/action",
+  "OperationName": "Exempt policy assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy assignment",
+  "Description": "Exempt a policy assignment at the specified scope.",
+  "IsDataAction": false
+}

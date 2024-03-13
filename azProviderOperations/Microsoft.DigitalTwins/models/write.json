@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/models/write",
+  "OperationName": "Create Model",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Model",
+  "Description": "Create or Update any Model",
+  "IsDataAction": true
+}

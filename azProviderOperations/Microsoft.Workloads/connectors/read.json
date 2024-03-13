@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/read",
+  "OperationName": "Connectors_ListBySubscription",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors",
+  "Description": "Gets all connector resources in a Subscription.",
+  "IsDataAction": false
+}

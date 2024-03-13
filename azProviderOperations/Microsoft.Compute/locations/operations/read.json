@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/operations/read",
+  "OperationName": "Get Operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Operation",
+  "Description": "Gets the status of an asynchronous operation",
+  "IsDataAction": false
+}

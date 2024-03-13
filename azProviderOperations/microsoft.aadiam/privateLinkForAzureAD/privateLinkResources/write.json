@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateLinkResources/write",
+  "OperationName": "PrivateLinkResources read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "PrivateLinkResources",
+  "Description": "Create and Update PrivateLinkResources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodes/reports/content/read",
+  "OperationName": "Gets Azure Automation DSC report contents",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Report Contents",
+  "Description": "Reads Azure Automation DSC report contents",
+  "IsDataAction": false
+}

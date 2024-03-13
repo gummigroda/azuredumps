@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/exportPipelines/read",
+  "OperationName": "Get export pipeline or List export pipelines",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ExportPipelines",
+  "Description": "Gets the properties of the specified export pipeline or lists all the export pipelines for the specified container registry.",
+  "IsDataAction": false
+}

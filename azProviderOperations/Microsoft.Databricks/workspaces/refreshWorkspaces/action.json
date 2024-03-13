@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/refreshWorkspaces/action",
+  "OperationName": "Refresh workspaces",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Refresh a workspace with new details like URL",
+  "IsDataAction": false
+}

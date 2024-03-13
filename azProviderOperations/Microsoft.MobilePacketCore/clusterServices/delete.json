@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/clusterServices/delete",
+  "OperationName": "ClusterServices_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "clusterServices",
+  "Description": "Delete a ClusterServiceResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read peering service metric definitions",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "peeringServices",
+  "Description": "Gets the available metric definitions for peering service",
+  "IsDataAction": false
+}

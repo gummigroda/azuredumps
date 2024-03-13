@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datasets/unregistered/delete",
+  "OperationName": "Deletes unregistered datasets in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Datasets",
+  "Description": "Deletes unregistered datasets in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

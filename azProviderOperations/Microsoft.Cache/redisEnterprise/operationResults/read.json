@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/operationResults/read",
+  "OperationName": "View Redis Enterprise operation results",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise operation results",
+  "Description": "View the result of Redis Enterprise operations in the management portal",
+  "IsDataAction": false
+}

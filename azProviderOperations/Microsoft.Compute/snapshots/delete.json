@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/snapshots/delete",
+  "OperationName": "Delete Snapshot",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Snapshots",
+  "Description": "Delete a Snapshot",
+  "IsDataAction": false
+}

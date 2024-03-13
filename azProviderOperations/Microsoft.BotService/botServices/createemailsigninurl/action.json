@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/createemailsigninurl/action",
+  "OperationName": "Create Email Sign In Url",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Create a sign in url for email channel modern auth",
+  "IsDataAction": false
+}

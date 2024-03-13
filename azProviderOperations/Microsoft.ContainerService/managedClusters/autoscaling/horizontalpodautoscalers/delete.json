@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/autoscaling/horizontalpodautoscalers/delete",
+  "OperationName": "Deletes/DeletesCollection horizontalpodautoscalers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Horizontalpodautoscalers",
+  "Description": "Deletes horizontalpodautoscalers",
+  "IsDataAction": true
+}

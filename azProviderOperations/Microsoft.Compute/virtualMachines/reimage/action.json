@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/reimage/action",
+  "OperationName": "Reimage Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Reimages virtual machine which is using differencing disk.",
+  "IsDataAction": false
+}

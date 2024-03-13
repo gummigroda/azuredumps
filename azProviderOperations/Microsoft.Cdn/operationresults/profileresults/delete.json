@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

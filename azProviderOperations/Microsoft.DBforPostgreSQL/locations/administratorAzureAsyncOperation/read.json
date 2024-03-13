@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/locations/administratorAzureAsyncOperation/read",
+  "OperationName": "PostgreSQL server administrator operation",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Administrator opertiaons of PostgreSQL server.",
+  "Description": "Gets in-progress operations on PostgreSQL server administrators",
+  "IsDataAction": false
+}

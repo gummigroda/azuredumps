@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/users/resetgroups/action",
+  "OperationName": "Face Grouping - Reset Groups (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "users*",
+  "Description": "Face Grouping - Reset Groups",
+  "IsDataAction": true
+}

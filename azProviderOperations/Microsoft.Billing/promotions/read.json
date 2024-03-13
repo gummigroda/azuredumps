@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/promotions/read",
+  "OperationName": "promotions_get",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Promotions",
+  "Description": "List or get promotions",
+  "IsDataAction": false
+}

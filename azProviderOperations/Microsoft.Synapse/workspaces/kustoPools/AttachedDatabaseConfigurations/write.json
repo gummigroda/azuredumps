@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/AttachedDatabaseConfigurations/write",
+  "OperationName": "Write an attached database configuration resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Attached database configuration resource type",
+  "Description": "Writes an attached database configuration resource.",
+  "IsDataAction": false
+}

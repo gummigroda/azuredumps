@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/reimage/action",
+  "OperationName": "Reimage Role Instance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Role Instance",
+  "Description": "Reimages the role instance.",
+  "IsDataAction": false
+}

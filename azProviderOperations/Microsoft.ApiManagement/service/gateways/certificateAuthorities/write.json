@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/certificateAuthorities/write",
+  "OperationName": "Assign Certificate to Gateway as Certificate Authority",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates assigned to Gateway as Certificate Authorities",
+  "Description": "Adds an API to the specified Gateway.",
+  "IsDataAction": false
+}

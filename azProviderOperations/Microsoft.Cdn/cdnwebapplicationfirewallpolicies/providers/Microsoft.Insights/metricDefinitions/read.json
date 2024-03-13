@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/cdnwebapplicationfirewallpolicies/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read cdnwebapplicationfirewallpolicies metrics definitions",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "The metric definition of cdnwebapplicationfirewallpolicies",
+  "Description": "Gets the available metrics for Microsoft.Cdn",
+  "IsDataAction": false
+}

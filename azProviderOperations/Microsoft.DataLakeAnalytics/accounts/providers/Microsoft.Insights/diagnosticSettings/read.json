@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get DataLakeAnalytics Account diagnostic settings",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Diagnostic Setting",
+  "Description": "Get the diagnostic settings for the DataLakeAnalytics account.",
+  "IsDataAction": false
+}

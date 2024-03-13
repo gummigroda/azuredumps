@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/remoteVirtualNetworkPeeringProxies/read",
+  "OperationName": "Get Remote Virtual Network Peering Proxy",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "VirtualNetworkPeeringProxy",
+  "Description": "Gets the remote virtual network peering proxy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/accessPolicyAssignments/write",
+  "OperationName": "Modify Access Policy Assignments",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Access Policy Assignments for Redis",
+  "Description": "Modify Redis Access Policy Assignments",
+  "IsDataAction": false
+}

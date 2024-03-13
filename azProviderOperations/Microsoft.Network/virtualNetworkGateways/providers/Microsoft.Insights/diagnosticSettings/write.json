@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update Virtual Network Gateway diagnostic settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Gateway diagnostic settings",
+  "Description": "Creates or updates the Virtual Network Gateway diagnostic settings, this operation is supplimented by insights resource provider.",
+  "IsDataAction": false
+}

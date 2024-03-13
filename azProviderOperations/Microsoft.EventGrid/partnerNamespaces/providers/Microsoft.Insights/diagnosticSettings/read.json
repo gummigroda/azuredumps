@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Partner namespaces Diagnostics",
+  "Description": "Gets the diagnostic setting for partner namespaces",
+  "IsDataAction": false
+}

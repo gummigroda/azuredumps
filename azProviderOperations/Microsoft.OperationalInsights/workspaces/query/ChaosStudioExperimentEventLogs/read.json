@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ChaosStudioExperimentEventLogs/read",
+  "OperationName": "Read ChaosStudioExperimentEventLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ChaosStudioExperimentEventLogs",
+  "Description": "Read data from the ChaosStudioExperimentEventLogs table",
+  "IsDataAction": false
+}

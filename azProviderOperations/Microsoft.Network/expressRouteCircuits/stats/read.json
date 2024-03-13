@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/stats/read",
+  "OperationName": "Get an ExpressRouteCircuit Stat",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitStat",
+  "Description": "Gets an ExpressRouteCircuit Stat",
+  "IsDataAction": false
+}

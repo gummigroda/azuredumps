@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/evaluations/read",
+  "OperationName": "Get one or more evaluations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Evaluations",
+  "Description": "Get one or more evaluations",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/landingZoneConfigurations/createCopy/action",
+  "OperationName": "LandingZonesConfigurations_CreateCopy",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "landingZoneConfigurations",
+  "Description": "Provides a mechanism to create a copy of the landing zone configuration.",
+  "IsDataAction": false
+}

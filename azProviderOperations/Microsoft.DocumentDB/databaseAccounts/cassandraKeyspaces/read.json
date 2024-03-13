@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/read",
+  "OperationName": "Read Cassandra keyspace(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Keyspace",
+  "Description": "Read a Cassandra keyspace or list all the Cassandra keyspaces.",
+  "IsDataAction": false
+}

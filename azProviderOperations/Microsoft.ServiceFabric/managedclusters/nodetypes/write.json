@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/nodetypes/write",
+  "OperationName": "Create or Update Node Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Node Types",
+  "Description": "Create or Update any Node Type",
+  "IsDataAction": false
+}

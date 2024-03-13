@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/generate-questionanswers/action",
+  "OperationName": "Submit Generate Question Answers Job",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Submit a Generate question answers Job request.",
+  "IsDataAction": true
+}

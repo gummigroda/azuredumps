@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action",
+  "OperationName": "Move blobs",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Moves the blob from one path to another",
+  "IsDataAction": true
+}

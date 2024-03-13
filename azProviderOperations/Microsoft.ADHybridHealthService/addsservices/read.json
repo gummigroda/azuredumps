@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/read",
+  "OperationName": "Gets Service details.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets Service details for the specified service name.",
+  "IsDataAction": false
+}

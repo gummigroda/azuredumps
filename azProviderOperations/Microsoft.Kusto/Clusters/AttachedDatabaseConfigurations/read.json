@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/AttachedDatabaseConfigurations/read",
+  "OperationName": "Read an attached database configuration resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Attached database configuration resource type",
+  "Description": "Reads an attached database configuration resource.",
+  "IsDataAction": false
+}

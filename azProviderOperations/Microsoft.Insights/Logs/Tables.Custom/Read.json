@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Tables.Custom/Read",
+  "OperationName": "Read Custom Logs",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "CustomLogs",
+  "Description": "Reading data from any custom log",
+  "IsDataAction": false
+}

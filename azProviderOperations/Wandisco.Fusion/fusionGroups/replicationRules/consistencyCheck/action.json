@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/consistencyCheck/action",
+  "OperationName": "ConsistencyCheck",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ReplicationRules",
+  "Description": "Trigger a consistency check on a Replication Rule",
+  "IsDataAction": false
+}

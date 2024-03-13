@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/toolsets/read",
+  "OperationName": "Toolsets Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Toolsets",
+  "Description": "Allws querying of available toolsets",
+  "IsDataAction": true
+}

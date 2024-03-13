@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/origins/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Origin",
+  "Description": null,
+  "IsDataAction": false
+}

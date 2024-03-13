@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/beginGetAccess/action",
+  "OperationName": "Get Disk SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Get the SAS URI of the Disk for blob access",
+  "IsDataAction": false
+}

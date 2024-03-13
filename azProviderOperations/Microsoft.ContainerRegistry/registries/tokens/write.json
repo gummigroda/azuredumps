@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/tokens/write",
+  "OperationName": "Create or Update token",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Tokens",
+  "Description": "Creates or updates a token for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

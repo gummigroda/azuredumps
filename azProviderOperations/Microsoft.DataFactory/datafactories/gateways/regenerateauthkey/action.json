@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/regenerateauthkey/action",
+  "OperationName": "Regenerate Gateway Authentication Keys",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Regenerates the Authentication Keys for any Gateway.",
+  "IsDataAction": false
+}

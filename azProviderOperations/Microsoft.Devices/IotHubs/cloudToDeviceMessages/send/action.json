@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/cloudToDeviceMessages/send/action",
+  "OperationName": "Send cloud-to-device message",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Send cloud-to-device message to any device ",
+  "IsDataAction": true
+}

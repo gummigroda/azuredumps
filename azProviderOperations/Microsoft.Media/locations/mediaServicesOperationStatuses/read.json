@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/locations/mediaServicesOperationStatuses/read",
+  "OperationName": "Read Media Services Operation Status",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Operation Status",
+  "Description": "Read Any Media Service Operation Status",
+  "IsDataAction": false
+}

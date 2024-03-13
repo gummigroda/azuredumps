@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Locations/Skus/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Check name availability resource type",
+  "Description": null,
+  "IsDataAction": false
+}

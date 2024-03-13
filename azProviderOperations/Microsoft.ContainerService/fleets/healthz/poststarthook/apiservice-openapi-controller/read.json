@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/poststarthook/apiservice-openapi-controller/read",
+  "OperationName": "Gets/List apiservice-openapi-controller resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Apiservice-Openapi-Controller",
+  "Description": "Reads apiservice-openapi-controller",
+  "IsDataAction": true
+}

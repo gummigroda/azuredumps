@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/hardDelete/action",
+  "OperationName": "Packages_HardDelete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages",
+  "Description": "Hard Delete a Test Base Package.",
+  "IsDataAction": false
+}

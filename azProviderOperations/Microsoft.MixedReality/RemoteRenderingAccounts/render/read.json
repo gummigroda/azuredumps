@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/render/read",
+  "OperationName": "Connect to a session",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Connect to a session",
+  "IsDataAction": true
+}

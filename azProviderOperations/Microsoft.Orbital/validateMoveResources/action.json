@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/validateMoveResources/action",
+  "OperationName": "Determine Whether a Terminal Can be Moved across different resourceGroup or/and subscription",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "",
+  "Description": "Determine whether a Terminal can be moved to the given resourceGroup or/and subscription.",
+  "IsDataAction": false
+}

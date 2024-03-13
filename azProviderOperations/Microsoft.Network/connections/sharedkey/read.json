@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/sharedKey/read",
+  "OperationName": "Get VirtualNetworkGatewayConnection SharedKey",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection shared key",
+  "Description": "Gets VirtualNetworkGatewayConnection SharedKey",
+  "IsDataAction": false
+}

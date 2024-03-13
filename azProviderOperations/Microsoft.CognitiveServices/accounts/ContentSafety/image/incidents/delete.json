@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/image/incidents/delete",
+  "OperationName": "Delete Image Incident By incidentName",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Incidents",
+  "Description": "Deletes a image incident.",
+  "IsDataAction": true
+}

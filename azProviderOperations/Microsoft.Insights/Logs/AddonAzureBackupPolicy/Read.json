@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AddonAzureBackupPolicy/Read",
+  "OperationName": "Read AddonAzureBackupPolicy data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AddonAzureBackupPolicy",
+  "Description": "Read data from the AddonAzureBackupPolicy table",
+  "IsDataAction": false
+}

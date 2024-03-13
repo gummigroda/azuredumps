@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/externalEndpoints/read",
+  "OperationName": "Get a Traffic Manager External Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager External Endpoint",
+  "Description": "Gets an External Endpoint which belongs to a Traffic Manager Profile, including all the properties of that External Endpoint.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/start/action",
+  "OperationName": "chambers_Start",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "start chambers",
+  "IsDataAction": false
+}

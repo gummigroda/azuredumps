@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/unregister/action",
+  "OperationName": "Unregister the Astronomer.Astro",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Astronomer.Astro",
+  "IsDataAction": false
+}

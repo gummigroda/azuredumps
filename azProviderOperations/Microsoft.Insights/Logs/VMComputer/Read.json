@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/VMComputer/Read",
+  "OperationName": "Read VMComputer data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "VMComputer",
+  "Description": "Read data from the VMComputer table",
+  "IsDataAction": false
+}

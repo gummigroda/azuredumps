@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/updateAdministrativeState/action",
+  "OperationName": "RoutePolicies_UpdateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "Updated the admin state for this Route Policy.",
+  "IsDataAction": false
+}

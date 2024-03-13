@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/deploy/action",
+  "OperationName": "Deploy permissions to Custom Location",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Custom Locations",
+  "Description": "Deploy permissions to a Custom Location resource",
+  "IsDataAction": false
+}

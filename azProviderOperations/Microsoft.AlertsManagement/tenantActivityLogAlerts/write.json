@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/tenantActivityLogAlerts/write",
+  "OperationName": "Writes the tenantLevelActivityLogAlerts",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "tenantActivityLogAlerts",
+  "Description": "Write tenantLevelActivityLogAlerts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/dataordering/read",
+  "OperationName": "DataOrdering Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "DataOrdering",
+  "Description": "Allows reading of data for DataOrdering services.",
+  "IsDataAction": true
+}

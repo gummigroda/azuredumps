@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/read",
+  "OperationName": "Get Virtual Network Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Peering",
+  "Description": "Gets a virtual network peering definition",
+  "IsDataAction": false
+}

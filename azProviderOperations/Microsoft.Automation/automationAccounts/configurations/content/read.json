@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/configurations/content/read",
+  "OperationName": "Gets the configuration media content",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Configuration Media",
+  "Description": "Reads the configuration media content",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/summaries/write",
+  "OperationName": "Summaries_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/summaries",
+  "Description": "Createsummariesresource.",
+  "IsDataAction": false
+}

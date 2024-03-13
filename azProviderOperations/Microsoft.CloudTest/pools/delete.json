@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/pools/delete",
+  "OperationName": "Delete CloudTest pool",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "pools",
+  "Description": "Deletes CloudTest pools",
+  "IsDataAction": false
+}

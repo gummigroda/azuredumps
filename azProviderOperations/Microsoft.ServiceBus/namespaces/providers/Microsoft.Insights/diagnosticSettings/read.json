@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Namespace diagnostic settings",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace diagnostic settings",
+  "Description": "Get list of Namespace diagnostic settings Resource Descriptions",
+  "IsDataAction": false
+}

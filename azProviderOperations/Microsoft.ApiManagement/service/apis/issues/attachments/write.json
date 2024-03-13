@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/attachments/write",
+  "OperationName": "Add issue attachment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Attachments",
+  "Description": "Creates a new Attachment for the Issue in an API or updates an existing one.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/read",
+  "OperationName": "Get product list or Get product details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Products",
+  "Description": "Lists a collection of products in the specified service instance. or Gets the details of the product specified by its identifier.",
+  "IsDataAction": false
+}

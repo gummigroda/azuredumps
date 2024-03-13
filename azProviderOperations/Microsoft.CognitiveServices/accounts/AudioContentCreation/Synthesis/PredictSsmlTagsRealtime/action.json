@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Synthesis/PredictSsmlTagsRealtime/action",
+  "OperationName": "Realtime API for predict ssml tag.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "SSML synthesis",
+  "Description": "Realtime API for predict ssml tag.",
+  "IsDataAction": true
+}

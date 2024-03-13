@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ScheduledQueryRules/Delete",
+  "OperationName": "Scheduled query rule delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Scheduled query rule",
+  "Description": "Deleting a scheduled query rule",
+  "IsDataAction": false
+}

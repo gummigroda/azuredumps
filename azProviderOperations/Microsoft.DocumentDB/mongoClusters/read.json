@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/read",
+  "OperationName": "Read Mongo Clusters",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster",
+  "Description": "Reads a Mongo Cluster or list all Mongo Clusters.",
+  "IsDataAction": false
+}

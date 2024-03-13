@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/namespaces/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/namespaces/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/namespaces",
+  "Description": "Get Namespace Resource",
+  "IsDataAction": false
+}

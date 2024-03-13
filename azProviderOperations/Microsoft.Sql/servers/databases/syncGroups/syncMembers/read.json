@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/read",
+  "OperationName": "List/Get Azure SQL Sync Member(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Return the list of sync members or gets the properties for the specified sync member.",
+  "IsDataAction": false
+}

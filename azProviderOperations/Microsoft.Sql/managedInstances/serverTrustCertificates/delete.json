@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/serverTrustCertificates/delete",
+  "OperationName": "Delete server trust certificate with a given name",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Trust Certificate",
+  "Description": "Delete server trust certificate with a given name",
+  "IsDataAction": false
+}

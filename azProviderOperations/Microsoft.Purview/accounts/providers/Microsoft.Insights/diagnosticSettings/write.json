@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Creates or updates the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

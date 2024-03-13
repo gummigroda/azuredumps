@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/healthChecks/read",
+  "OperationName": "NetworkConnections_GetHealthDetails",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections/healthChecks",
+  "Description": "Gets health check status details.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/targets/delete",
+  "OperationName": "Deletes a Target.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Target",
+  "Description": "Deletes a Target resource that extends a tracked resource.",
+  "IsDataAction": false
+}

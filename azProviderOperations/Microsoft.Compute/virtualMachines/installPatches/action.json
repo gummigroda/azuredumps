@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/installPatches/action",
+  "OperationName": "Install OS update patches on virtual machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Installs available OS update patches on the virtual machine based on parameters provided by user. Assessment results containing list of available patches will also get refreshed as part of this.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseScopePoolScopeJobsEnded/read",
+  "OperationName": "Read SynapseScopePoolScopeJobsEnded data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseScopePoolScopeJobsEnded",
+  "Description": "Read data from the SynapseScopePoolScopeJobsEnded table",
+  "IsDataAction": false
+}

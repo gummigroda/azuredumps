@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/read",
+  "OperationName": "Watchers_Get",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers",
+  "Description": "Get a Watcher",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/register/action",
+  "OperationName": "Register the Oracle.Database",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "",
+  "Description": "Register the subscription for Oracle.Database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privateEndpointConnections/write",
+  "OperationName": "Create or update Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Create or update Private Endpoint Connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/connectedRegistries/write",
+  "OperationName": "Create or Update connected registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ConnectedRegistries",
+  "Description": "Creates or updates a connected registry for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

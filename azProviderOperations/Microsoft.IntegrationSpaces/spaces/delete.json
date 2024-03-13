@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/delete",
+  "OperationName": "Spaces_Delete",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces",
+  "Description": "Delete a Space",
+  "IsDataAction": false
+}

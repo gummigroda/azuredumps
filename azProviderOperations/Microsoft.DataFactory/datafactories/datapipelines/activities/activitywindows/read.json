@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/activities/activitywindows/read",
+  "OperationName": "Read Activity Windows for any Pipeline Activity",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Activity Windows",
+  "Description": "Reads Activity Windows for the Pipeline Activity with specified parameters.",
+  "IsDataAction": false
+}

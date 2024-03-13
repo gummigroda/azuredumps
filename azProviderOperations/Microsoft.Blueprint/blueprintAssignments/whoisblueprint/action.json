@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Blueprint/blueprintAssignments/whoisblueprint/action",
+  "OperationName": "Get Azure Blueprints service principal object Id.",
+  "ProviderNamespace": "Microsoft Blueprint",
+  "ResourceName": "Blueprints",
+  "Description": "Get Azure Blueprints service principal object Id.",
+  "IsDataAction": false
+}

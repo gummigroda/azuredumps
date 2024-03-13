@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/write",
+  "OperationName": "Workspaces_Update",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Update a Workspace.",
+  "IsDataAction": false
+}

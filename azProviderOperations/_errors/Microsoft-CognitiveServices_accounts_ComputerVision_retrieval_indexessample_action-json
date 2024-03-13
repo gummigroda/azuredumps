@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes:sample/action",
+  "OperationName": "Sample",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Performs a sampling technique on the doucment within an index. The request contains index name and document id .",
+  "IsDataAction": true
+}

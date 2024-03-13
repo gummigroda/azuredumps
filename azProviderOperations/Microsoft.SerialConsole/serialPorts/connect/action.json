@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/serialPorts/connect/action",
+  "OperationName": "Connect",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Connect to a serial port",
+  "IsDataAction": false
+}

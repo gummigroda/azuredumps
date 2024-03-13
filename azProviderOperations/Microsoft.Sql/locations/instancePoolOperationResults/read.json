@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/instancePoolOperationResults/read",
+  "OperationName": "Get instance pool operation result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Instance pool",
+  "Description": "Gets the result for an instance pool operation",
+  "IsDataAction": false
+}

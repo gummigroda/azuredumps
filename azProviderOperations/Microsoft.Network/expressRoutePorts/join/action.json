@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/join/action",
+  "OperationName": "Joins ExpressRoutePorts",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoutePorts",
+  "Description": "Joins Express Route ports. Not alertable.",
+  "IsDataAction": false
+}

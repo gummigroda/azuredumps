@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/jitNetworkAccessPolicies/delete",
+  "OperationName": "Delete JIT Network Access Policies",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Just-In-Time Network Access Policies",
+  "Description": "Deletes the just-in-time network access policy",
+  "IsDataAction": false
+}

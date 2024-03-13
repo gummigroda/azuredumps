@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/administrators/read",
+  "OperationName": "Get Administrators of MariaDB server.",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Administrator of MariaDB server.",
+  "Description": "Gets a list of MariaDB server administrators.",
+  "IsDataAction": false
+}

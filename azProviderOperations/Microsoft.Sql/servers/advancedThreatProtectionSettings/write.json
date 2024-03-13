@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/advancedThreatProtectionSettings/write",
+  "OperationName": "Update the server Advanced Threat Protection settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Advanced Threat Protection settings",
+  "Description": "Change the server Advanced Threat Protection settings for a given server",
+  "IsDataAction": false
+}

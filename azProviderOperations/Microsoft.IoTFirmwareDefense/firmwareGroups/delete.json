@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/delete",
+  "OperationName": "FirmwareGroup_Delete",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups",
+  "Description": "The operation to delete a firmware group.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/configurations/Delete",
+  "OperationName": "Delete configuration resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "configurations",
+  "Description": "Delete configurations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/readyz/poststarthook/kube-apiserver-autoregistration/read",
+  "OperationName": "Gets/List kube-apiserver-autoregistration resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Kube-Apiserver-Autoregistration",
+  "Description": "Reads kube-apiserver-autoregistration",
+  "IsDataAction": true
+}

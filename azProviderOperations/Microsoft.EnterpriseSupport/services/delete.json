@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EnterpriseSupport/services/delete",
+  "OperationName": "Delete EnterpriseSupport resource",
+  "ProviderNamespace": "Microsoft EnterpriseSupport",
+  "ResourceName": "EnterpriseSupport Service",
+  "Description": "Deletes EnterpriseSupport resources",
+  "IsDataAction": false
+}

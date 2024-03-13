@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/preRules/read",
+  "OperationName": "PreRules_List",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/preRules",
+  "Description": "List PreRulesResource resources by Tenant",
+  "IsDataAction": false
+}

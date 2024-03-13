@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/schedules/read",
+  "OperationName": "Read schedules.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "schedules",
+  "Description": "Read schedules.",
+  "IsDataAction": false
+}

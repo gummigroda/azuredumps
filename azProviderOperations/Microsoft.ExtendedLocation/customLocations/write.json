@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/write",
+  "OperationName": "Create or Update Custom Location",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Custom Locations",
+  "Description": "Creates or Updates Custom Location resource",
+  "IsDataAction": false
+}

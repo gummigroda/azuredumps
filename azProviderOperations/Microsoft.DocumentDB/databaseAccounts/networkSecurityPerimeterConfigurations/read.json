@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterConfigurations/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Get Effective configuration for Network Security Perimeter",
+  "IsDataAction": false
+}

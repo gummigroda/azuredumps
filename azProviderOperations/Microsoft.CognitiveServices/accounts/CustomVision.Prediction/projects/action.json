@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/action",
+  "OperationName": "Create a project.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Vision",
+  "Description": "Create a project.",
+  "IsDataAction": true
+}

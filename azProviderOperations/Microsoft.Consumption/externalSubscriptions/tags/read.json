@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/externalSubscriptions/tags/read",
+  "OperationName": "List tags",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "externalSubscriptions/Tags",
+  "Description": "List tags for EA and subscriptions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Read",
+  "OperationName": "Read Logs",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Logs",
+  "Description": "Reading data from all your logs",
+  "IsDataAction": false
+}

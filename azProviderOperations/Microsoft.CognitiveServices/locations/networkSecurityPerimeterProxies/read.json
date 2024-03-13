@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/networkSecurityPerimeterProxies/read",
+  "OperationName": "Read a network security perimeter",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Network security perimeter resource",
+  "Description": "Reads a network security perimeter.",
+  "IsDataAction": false
+}

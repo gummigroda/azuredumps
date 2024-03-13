@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/publishRequests/cancel/action",
+  "OperationName": "Publish Requests Cancel",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Publish Requests",
+  "Description": "Allows cancelling publish requests",
+  "IsDataAction": true
+}

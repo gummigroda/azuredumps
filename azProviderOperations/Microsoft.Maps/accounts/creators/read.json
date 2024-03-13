@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/creators/read",
+  "OperationName": "Get a Creator.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Creator",
+  "Description": "Get a Creator.",
+  "IsDataAction": false
+}

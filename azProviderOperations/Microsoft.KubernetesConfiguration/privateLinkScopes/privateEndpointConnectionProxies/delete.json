@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/delete",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/delete",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies",
+  "Description": "Deletes private endpoint connection proxy",
+  "IsDataAction": false
+}

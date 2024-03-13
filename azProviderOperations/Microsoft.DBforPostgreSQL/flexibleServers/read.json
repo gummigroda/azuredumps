@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/read",
+  "OperationName": "List/Get PostgreSQL server",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Return the list of servers or gets the properties for the specified server.",
+  "IsDataAction": false
+}

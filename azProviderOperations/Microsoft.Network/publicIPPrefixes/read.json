@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPPrefixes/read",
+  "OperationName": "Get Public Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Prefix",
+  "Description": "Gets a Public Ip Prefix Definition",
+  "IsDataAction": false
+}

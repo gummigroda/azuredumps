@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/Locations/OperationStatuses/read",
+  "OperationName": "Read OperationStatuses",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "Read OperationStatuses",
+  "IsDataAction": false
+}

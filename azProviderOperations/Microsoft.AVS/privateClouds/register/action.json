@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/register/action",
+  "OperationName": "Register Microsoft.AVS resource provider.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds",
+  "Description": "Registers the Microsoft Microsoft.AVS resource provider and enables creation of Private Clouds.",
+  "IsDataAction": false
+}

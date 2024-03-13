@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/ResourceGroup/amlFilesystems/read",
+  "OperationName": "List amlFilesystems for a resource group",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystems in resource group",
+  "Description": "Lists existing amlfilesystem instances in the resource group",
+  "IsDataAction": false
+}

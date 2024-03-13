@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SentinelHealth/read",
+  "OperationName": "Read SentinelHealth data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SentinelHealth",
+  "Description": "Read data from the SentinelHealth table",
+  "IsDataAction": false
+}

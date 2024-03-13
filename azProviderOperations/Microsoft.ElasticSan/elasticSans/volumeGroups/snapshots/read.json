@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/read",
+  "OperationName": "Get Volume Snapshot",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volume Snapshots",
+  "Description": "Get Volume Snapshot",
+  "IsDataAction": false
+}

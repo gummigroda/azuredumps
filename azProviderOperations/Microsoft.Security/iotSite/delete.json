@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSite/delete",
+  "OperationName": "Delete IoT site",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Site",
+  "Description": "Deletes IoT site",
+  "IsDataAction": false
+}

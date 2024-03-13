@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/listKeys/action",
+  "OperationName": "List keys",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "List keys of a database account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/capacityReservationGroups/capacityReservations/read",
+  "OperationName": "Get Capacity Reservation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Capacity Reservations",
+  "Description": "Get the properties of a capacity reservation",
+  "IsDataAction": false
+}

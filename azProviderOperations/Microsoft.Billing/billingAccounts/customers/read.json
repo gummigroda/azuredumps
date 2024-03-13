@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/read",
+  "OperationName": "Get Customer by Id on Billing Account Scope",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Customers",
+  "Description": null,
+  "IsDataAction": false
+}

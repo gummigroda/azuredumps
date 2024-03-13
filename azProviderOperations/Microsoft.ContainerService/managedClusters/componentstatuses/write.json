@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/componentstatuses/write",
+  "OperationName": "Creates/Updates componentstatuses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Componentstatuses",
+  "Description": "Writes componentstatuses",
+  "IsDataAction": true
+}

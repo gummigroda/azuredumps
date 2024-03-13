@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/privateEndpointConnections/write",
+  "OperationName": "Create Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "PrivateEndpointConnection",
+  "Description": "Create Private Endpoint Connection",
+  "IsDataAction": false
+}

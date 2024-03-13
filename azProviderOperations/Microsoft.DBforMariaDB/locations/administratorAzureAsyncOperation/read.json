@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/administratorAzureAsyncOperation/read",
+  "OperationName": "MariaDB server administrator operation",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Administrator opertiaons of MariaDB server.",
+  "Description": "Gets in-progress operations on MariaDB server administrators",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/write",
+  "OperationName": "Projects_CreateOrReplaceProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Creates a new project or replaces metadata of an existing project.",
+  "IsDataAction": true
+}

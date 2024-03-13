@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/write",
+  "OperationName": "Create or Update Webhook",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Creates or updates a webhook for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

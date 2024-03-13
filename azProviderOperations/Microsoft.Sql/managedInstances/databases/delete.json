@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/delete",
+  "OperationName": "Delete managed database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Deletes an existing managed database",
+  "IsDataAction": false
+}

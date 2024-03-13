@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/resourcepools/Write",
+  "OperationName": "Create/update resourcepools resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "resourcepools",
+  "Description": "Writes resourcepools",
+  "IsDataAction": false
+}

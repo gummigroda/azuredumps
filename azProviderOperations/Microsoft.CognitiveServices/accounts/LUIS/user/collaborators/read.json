@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/user/collaborators/read",
+  "OperationName": "user - GetUserAppCollaborators",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "collaborators*",
+  "Description": "Gets users per app for all apps the user has collaborators on.",
+  "IsDataAction": true
+}

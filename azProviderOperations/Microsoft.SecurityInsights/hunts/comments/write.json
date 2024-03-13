@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/comments/write",
+  "OperationName": "Create Hunt Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Comments",
+  "Description": "Create Hunt Comments",
+  "IsDataAction": false
+}

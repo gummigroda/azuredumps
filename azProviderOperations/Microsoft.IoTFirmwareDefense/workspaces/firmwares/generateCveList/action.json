@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateCveList/action",
+  "OperationName": "Firmware_ListGenerateCveList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to list all cve results for a firmware.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateEndpointConnectionProxies/write",
+  "OperationName": "Create/Update PrivateEndpointConnectionProxy resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateEndpointConnectionProxy",
+  "Description": "Create/Update PrivateEndpointConnectionProxy",
+  "IsDataAction": false
+}

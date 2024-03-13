@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/monitoringdata/read",
+  "OperationName": "Get Integration Runtime Monitoring Data",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Gets the Monitoring Data for any Integration Runtime.",
+  "IsDataAction": false
+}

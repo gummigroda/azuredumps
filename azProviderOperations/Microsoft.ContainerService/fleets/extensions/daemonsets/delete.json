@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/daemonsets/delete",
+  "OperationName": "Deletes/DeletesCollection daemonsets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Daemonsets",
+  "Description": "Deletes daemonsets",
+  "IsDataAction": true
+}

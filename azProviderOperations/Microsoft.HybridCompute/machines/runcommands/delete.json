@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/runcommands/delete",
+  "OperationName": "Delete Azure Arc runcommands",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "runcommands",
+  "Description": "Deletes an Azure Arc runcommands",
+  "IsDataAction": false
+}

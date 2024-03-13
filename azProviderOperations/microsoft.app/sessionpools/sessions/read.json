@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/sessionpools/sessions/read",
+  "OperationName": "Read Session",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Session",
+  "Description": "Get a Session",
+  "IsDataAction": false
+}

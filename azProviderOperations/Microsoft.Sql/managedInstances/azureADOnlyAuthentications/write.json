@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/write",
+  "OperationName": "Adds or updates a specific managed server Azure Active Directory only authentication object",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed server Azure Active Directory only authentication",
+  "Description": "Adds or updates a specific managed server Azure Active Directory only authentication object",
+  "IsDataAction": false
+}

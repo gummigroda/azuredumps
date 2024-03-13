@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/read",
+  "OperationName": "NetworkCloudControllers_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Get the NetworkCloudController resource details.",
+  "IsDataAction": false
+}

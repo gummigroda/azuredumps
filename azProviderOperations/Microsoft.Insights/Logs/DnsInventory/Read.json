@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DnsInventory/Read",
+  "OperationName": "Read DnsInventory data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DnsInventory",
+  "Description": "Read data from the DnsInventory table",
+  "IsDataAction": false
+}

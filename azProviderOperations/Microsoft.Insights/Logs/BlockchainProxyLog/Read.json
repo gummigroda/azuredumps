@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BlockchainProxyLog/Read",
+  "OperationName": "Read BlockchainProxyLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BlockchainProxyLog",
+  "Description": "Read data from the BlockchainProxyLog table",
+  "IsDataAction": false
+}

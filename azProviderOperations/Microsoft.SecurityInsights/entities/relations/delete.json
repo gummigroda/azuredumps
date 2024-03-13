@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/relations/delete",
+  "OperationName": "Delete Entity Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entity Relations",
+  "Description": "Deletes a relation between the entity and related resources",
+  "IsDataAction": false
+}

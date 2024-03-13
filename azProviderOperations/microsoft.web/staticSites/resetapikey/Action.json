@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/resetapikey/Action",
+  "OperationName": "Reset Static Site Api Key",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Reset the api key for a Static Site",
+  "IsDataAction": false
+}

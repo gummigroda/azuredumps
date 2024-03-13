@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/usageDetails/read",
+  "OperationName": "List Usage Details",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "UsageDetails",
+  "Description": "List the usage details for a scope for EA and WebDirect subscriptions.",
+  "IsDataAction": false
+}

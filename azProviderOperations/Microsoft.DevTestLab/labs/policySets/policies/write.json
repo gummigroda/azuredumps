@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/policySets/policies/write",
+  "OperationName": "Add or modify policies.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "policies",
+  "Description": "Add or modify policies.",
+  "IsDataAction": false
+}

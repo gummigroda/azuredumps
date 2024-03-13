@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/listAdminKeys/action",
+  "OperationName": "Get Admin Key",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Reads the admin keys.",
+  "IsDataAction": false
+}

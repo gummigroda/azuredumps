@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read capacities log definitions",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Gets the available logs for Power BI Dedicated Capacities",
+  "IsDataAction": false
+}

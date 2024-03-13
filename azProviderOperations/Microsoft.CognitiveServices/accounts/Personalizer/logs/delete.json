@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/logs/delete",
+  "OperationName": "Deletes Logs.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "logs*",
+  "Description": "Delete all logs of Rank and Reward calls stored by Personalizer.",
+  "IsDataAction": true
+}

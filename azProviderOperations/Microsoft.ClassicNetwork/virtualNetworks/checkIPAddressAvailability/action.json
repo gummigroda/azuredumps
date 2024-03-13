@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/checkIPAddressAvailability/action",
+  "OperationName": "Availability of an IP address in a given virtual network.",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Checks the availability of a given IP address in a virtual network.",
+  "IsDataAction": false
+}

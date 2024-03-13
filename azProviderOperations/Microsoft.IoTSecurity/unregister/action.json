@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for Azure Defender for IoT",
+  "IsDataAction": false
+}

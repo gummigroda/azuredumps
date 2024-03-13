@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/guestUsages/write",
+  "OperationName": "Create or update Guest Usages resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "Guest Usages",
+  "Description": "Create or update Guest Usages resource",
+  "IsDataAction": false
+}

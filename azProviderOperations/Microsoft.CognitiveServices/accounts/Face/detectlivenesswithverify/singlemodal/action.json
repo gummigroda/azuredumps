@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectlivenesswithverify/singlemodal/action",
+  "OperationName": "Face - DetectLivenessWithVerify SingleModal",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "detectlivenesswithverify*",
+  "Description": "Detects liveness of a target face in a sequence of images of the same stream type (e.g. color) and then compares with VerifyImage to return confidence score for identity scenarios.",
+  "IsDataAction": true
+}

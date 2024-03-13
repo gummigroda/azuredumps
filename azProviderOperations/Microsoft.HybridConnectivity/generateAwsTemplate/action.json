@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/generateAwsTemplate/action",
+  "OperationName": "GenerateAwsTemplate_Post",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "",
+  "Description": "Retrieve AWS Cloud Formation template",
+  "IsDataAction": false
+}

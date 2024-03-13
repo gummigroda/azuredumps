@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/synonyms/write",
+  "OperationName": "Update Synonyms",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "synonyms*",
+  "Description": "Update Synonyms.",
+  "IsDataAction": true
+}

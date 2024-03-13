@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/importcollectors/delete",
+  "OperationName": "Delete Import collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Import Collector",
+  "Description": "Deletes the Import collector",
+  "IsDataAction": false
+}

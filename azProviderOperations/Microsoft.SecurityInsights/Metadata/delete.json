@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Metadata/delete",
+  "OperationName": "Delete Metadata",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Metadata",
+  "Description": "Delete Metadata for Sentinel content.",
+  "IsDataAction": false
+}

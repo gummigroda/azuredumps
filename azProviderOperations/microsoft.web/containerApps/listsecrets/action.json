@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/listsecrets/action",
+  "OperationName": "List Container App Secrets",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App",
+  "Description": "List a Container App Secrets",
+  "IsDataAction": false
+}

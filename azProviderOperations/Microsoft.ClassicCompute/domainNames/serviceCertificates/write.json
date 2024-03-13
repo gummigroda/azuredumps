@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/serviceCertificates/write",
+  "OperationName": "Add Service Certificates",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Service Certificate",
+  "Description": "Add or modify the service certificates used.",
+  "IsDataAction": false
+}

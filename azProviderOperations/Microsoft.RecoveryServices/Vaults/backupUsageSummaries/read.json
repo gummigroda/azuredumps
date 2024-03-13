@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read",
+  "OperationName": "Recovery Services Protected Items and Protected Servers usage summaries details.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Usages Summaries",
+  "Description": "Returns summaries for Protected Items and Protected Servers for a Recovery Services .",
+  "IsDataAction": false
+}

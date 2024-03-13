@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/virtualMachines/resetPassword/action",
+  "OperationName": "Reset Virtual Machine Password",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/virtualMachines",
+  "Description": "Reset local user's password on a virtual machine.",
+  "IsDataAction": false
+}

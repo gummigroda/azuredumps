@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/kubernetesversions/read",
+  "OperationName": "List KubernetesVersions",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "KubernetesVersions",
+  "Description": "List available Kubernetes versions in the region.",
+  "IsDataAction": false
+}

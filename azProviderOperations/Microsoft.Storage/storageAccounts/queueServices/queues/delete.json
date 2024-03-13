@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/queues/delete",
+  "OperationName": "Delete queue",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Service Queues",
+  "Description": "Returns the result of deleting a queue",
+  "IsDataAction": false
+}

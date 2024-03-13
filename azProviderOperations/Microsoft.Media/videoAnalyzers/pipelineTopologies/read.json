@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineTopologies/read",
+  "OperationName": "Read Pipeline Topology",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Topology Resource",
+  "Description": "Read any Pipeline Topology",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/policy/poddisruptionbudgets/write",
+  "OperationName": "Creates/Updates poddisruptionbudgets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "poddisruptionbudgets",
+  "Description": "Writes poddisruptionbudgets",
+  "IsDataAction": true
+}

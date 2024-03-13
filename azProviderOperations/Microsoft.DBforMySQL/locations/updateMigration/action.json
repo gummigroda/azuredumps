@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/updateMigration/action",
+  "OperationName": "Update MySQL scheduled migration",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Auto Migration Operations",
+  "Description": "Updates the scheduled migration for MySQL Server",
+  "IsDataAction": false
+}

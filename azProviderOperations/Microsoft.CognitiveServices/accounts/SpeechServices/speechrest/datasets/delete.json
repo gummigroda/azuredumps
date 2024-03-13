@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/datasets/delete",
+  "OperationName": "Delete a dataset",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Delete a dataset",
+  "IsDataAction": true
+}

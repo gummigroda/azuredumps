@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/read",
+  "OperationName": "ServiceManagementContainers_ListBySubscription",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers",
+  "Description": "read serviceManagementContainers",
+  "IsDataAction": false
+}

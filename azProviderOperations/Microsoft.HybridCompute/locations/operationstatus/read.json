@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/locations/operationstatus/read",
+  "OperationName": "Read Operation Results",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "Microsoft.HybridCompute Resource Provider",
+  "Description": "Reads the status of an operation on Microsoft.HybridCompute Resource Provider",
+  "IsDataAction": false
+}

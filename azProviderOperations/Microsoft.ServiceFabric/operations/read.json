@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/operations/read",
+  "OperationName": "Read Available Operations",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Available Operations",
+  "Description": "Read any Available Operations",
+  "IsDataAction": false
+}

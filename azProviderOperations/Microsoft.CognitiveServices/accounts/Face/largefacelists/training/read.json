@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/training/read",
+  "OperationName": "LargeFaceList - Get Training Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "training*",
+  "Description": "To check the large face list training status completed or still ongoing. LargeFaceList Training is an asynchronous operation",
+  "IsDataAction": true
+}

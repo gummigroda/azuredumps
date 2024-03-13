@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/domainownershipidentifiers/delete",
+  "OperationName": "Delete Web Apps Domain Ownership Identifiers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Domain Ownership Identifiers",
+  "Description": "Delete Web Apps Domain Ownership Identifiers.",
+  "IsDataAction": false
+}

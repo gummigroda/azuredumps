@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/builds/results/getLogFileUrl/action",
+  "OperationName": "Get an Log File URL in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Build Result of Microsoft Azure Spring Apps",
+  "Description": "Get the Log File URL of a specific Microsoft Azure Spring Apps build result",
+  "IsDataAction": false
+}

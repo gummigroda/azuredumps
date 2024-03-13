@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventGridFilters/Write",
+  "OperationName": "Create or Update Event Grid filter",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/EventGridFilters",
+  "Description": "Create new or Update existing Event Grid filter",
+  "IsDataAction": false
+}

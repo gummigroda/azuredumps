@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/dotnetcomponents/write",
+  "OperationName": "Create or Update Managed Environment .NET Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment .NET Component",
+  "Description": "Create or update Managed Environment .NET Component",
+  "IsDataAction": false
+}

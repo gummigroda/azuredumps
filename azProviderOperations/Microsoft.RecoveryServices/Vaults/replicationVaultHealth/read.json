@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationVaultHealth/read",
+  "OperationName": "Read Vault Replication Health",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Replication Health",
+  "Description": "Read any Vault Replication Health",
+  "IsDataAction": false
+}

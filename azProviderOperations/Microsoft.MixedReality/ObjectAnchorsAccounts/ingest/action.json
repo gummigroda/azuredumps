@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectAnchorsAccounts/ingest/action",
+  "OperationName": "Create model Ingestion Job",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectAnchorsAccounts",
+  "Description": "Create model Ingestion Job",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/listMonitoredResources/action",
+  "OperationName": "List monitored resources",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

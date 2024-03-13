@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualnetworks/Write",
+  "OperationName": "Create/update virtualnetworks resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualnetworks",
+  "Description": "Writes virtualnetworks",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/register/action",
+  "OperationName": "Register the Microsoft.Solutions",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Solutions",
+  "IsDataAction": false
+}

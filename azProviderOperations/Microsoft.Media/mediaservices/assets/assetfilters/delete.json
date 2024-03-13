@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/assetfilters/delete",
+  "OperationName": "Delete Asset Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset Filter",
+  "Description": "Delete any Asset Filter",
+  "IsDataAction": false
+}

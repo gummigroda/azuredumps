@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexes/delete",
+  "OperationName": "Delete Index",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Indexes",
+  "Description": "Delete an index.",
+  "IsDataAction": false
+}

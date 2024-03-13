@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/privateEndpointConnectionProxies/read",
+  "OperationName": "Read PrivateEndpointConnectionProxies for namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Read PrivateEndpointConnectionProxies for namespaces",
+  "IsDataAction": false
+}

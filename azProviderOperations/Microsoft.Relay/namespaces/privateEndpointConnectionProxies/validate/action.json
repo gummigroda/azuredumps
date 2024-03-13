@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validate Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

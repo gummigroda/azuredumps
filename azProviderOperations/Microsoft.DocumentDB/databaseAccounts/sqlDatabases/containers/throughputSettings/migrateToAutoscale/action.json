@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate SQL container offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Container throughput setting",
+  "Description": "Migrate SQL container offer to autoscale.",
+  "IsDataAction": false
+}

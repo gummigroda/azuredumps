@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppPageViews/read",
+  "OperationName": "Read AppPageViews data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppPageViews",
+  "Description": "Read data from the AppPageViews table",
+  "IsDataAction": false
+}

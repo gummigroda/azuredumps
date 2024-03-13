@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/AudioGenerationTasks/SubmitAudioGenerationTask/action",
+  "OperationName": "Create audio audio task.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio generation tasks",
+  "Description": "Create audio audio task.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/databaseMigrations/cutover/action",
+  "OperationName": "Cutover online migration operation for the database",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Database Migration Resource",
+  "Description": "Cutover online migration operation for the database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/disks/write",
+  "OperationName": "Add or modify disks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "disks",
+  "Description": "Add or modify disks.",
+  "IsDataAction": false
+}

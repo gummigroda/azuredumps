@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/getbgppeerstatus/action",
+  "OperationName": "Gets virtualNetworkGateway bgp peer status",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Gets virtualNetworkGateway bgp peer status",
+  "IsDataAction": false
+}

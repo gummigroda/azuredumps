@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/cacheNodes/write",
+  "OperationName": "cacheNodes_Update",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "cacheNodes",
+  "Description": "updates an existing Cache Node.",
+  "IsDataAction": false
+}

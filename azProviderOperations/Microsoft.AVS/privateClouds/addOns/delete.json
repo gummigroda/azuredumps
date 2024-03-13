@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/addOns/delete",
+  "OperationName": "Delete addOns",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/addOns",
+  "Description": "Delete addOns.",
+  "IsDataAction": false
+}

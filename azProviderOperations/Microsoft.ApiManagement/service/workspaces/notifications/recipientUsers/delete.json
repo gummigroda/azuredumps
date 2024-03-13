@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/recipientUsers/delete",
+  "OperationName": "Removes user from notification recipients",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Users associated with a notification",
+  "Description": "Removes the API Management user from the list of Notification.",
+  "IsDataAction": false
+}

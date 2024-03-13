@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/checkNameAvailability/read",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Check Name Availability",
+  "Description": "Checks if provided service name is available",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/replicas/read",
+  "OperationName": "List MySQL Read Replicas",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Returns the list of read replicas for a MySQL server",
+  "IsDataAction": false
+}

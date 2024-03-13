@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/operationStatuses/read",
+  "OperationName": "Get the Network Security Group Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Network Security Group Operation Status",
+  "Description": "Reads the operation status for the network security group.",
+  "IsDataAction": false
+}

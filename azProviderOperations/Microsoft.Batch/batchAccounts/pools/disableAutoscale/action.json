@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/pools/disableAutoscale/action",
+  "OperationName": "Disable Pool AutoScale",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Disables automatic scaling for a Batch account pool",
+  "IsDataAction": false
+}

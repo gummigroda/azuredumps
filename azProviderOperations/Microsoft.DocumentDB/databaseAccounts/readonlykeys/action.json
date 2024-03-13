@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/readonlykeys/action",
+  "OperationName": "Read database account readonly keys",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Reads the database account readonly keys.",
+  "IsDataAction": false
+}

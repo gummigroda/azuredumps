@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/register/action",
+  "OperationName": "Subscription Registration Action",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "",
+  "Description": "Subscription Registration Action",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azurefirewalls/packetCapture/action",
+  "OperationName": "AzureFirewallPacketCaptureOperation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall",
+  "Description": "AzureFirewallPacketCaptureOperation",
+  "IsDataAction": false
+}

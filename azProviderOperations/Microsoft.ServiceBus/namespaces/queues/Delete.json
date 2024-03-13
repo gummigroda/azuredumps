@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/Delete",
+  "OperationName": "Delete Queue",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue",
+  "Description": "Operation to delete Queue Resource",
+  "IsDataAction": false
+}

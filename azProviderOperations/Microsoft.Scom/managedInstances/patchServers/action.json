@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/patchServers/action",
+  "OperationName": "Instances_PatchServers",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Update SCOM servers with latest scom software",
+  "IsDataAction": false
+}

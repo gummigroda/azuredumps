@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/TransferDisks/action",
+  "OperationName": "Transfer data disks to the current user.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Transfers all data disks attached to the virtual machine to be owned by the current user.",
+  "IsDataAction": false
+}

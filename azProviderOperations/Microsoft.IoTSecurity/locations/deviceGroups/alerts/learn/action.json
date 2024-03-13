@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/alerts/learn/action",
+  "OperationName": "Learn and close the alert",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Alerts",
+  "Description": "Learn and close the alert",
+  "IsDataAction": false
+}

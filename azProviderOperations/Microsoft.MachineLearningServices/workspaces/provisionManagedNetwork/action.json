@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/provisionManagedNetwork/action",
+  "OperationName": "Provision the managed network of Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "Provision the managed network of Machine Learning Services Workspace",
+  "IsDataAction": false
+}

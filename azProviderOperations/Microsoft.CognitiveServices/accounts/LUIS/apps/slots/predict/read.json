@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/slots/predict/read",
+  "OperationName": "Predict - Get published slot predictions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "predict*",
+  "Description": "Gets the published predictions for the specified slot using the given query. The current maximum query size is 500 characters.",
+  "IsDataAction": true
+}

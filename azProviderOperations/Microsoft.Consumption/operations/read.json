@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/operations/read",
+  "OperationName": "List supported operations",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Operations",
+  "Description": "List all supported operations by Microsoft.Consumption resource provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/actionRequests/write",
+  "OperationName": "ActionRequests_Put",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/actionRequests",
+  "Description": "Create (submit) an action request.",
+  "IsDataAction": false
+}

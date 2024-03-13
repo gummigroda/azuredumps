@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/operationresults/read",
+  "OperationName": "Track the results of an asynchronous operation on the resource Protection Containers",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Containers",
+  "Description": "Track the results of an asynchronous operation on the resource Protection Containers",
+  "IsDataAction": false
+}

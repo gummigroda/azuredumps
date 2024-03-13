@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate the private endpoint connection proxy.",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Validate the private endpoint connection proxy object before creation.",
+  "IsDataAction": false
+}

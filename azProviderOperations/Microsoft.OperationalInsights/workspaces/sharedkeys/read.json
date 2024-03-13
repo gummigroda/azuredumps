@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/sharedkeys/read",
+  "OperationName": "List Workspace Shared Keys",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Retrieves the shared keys for the workspace. These keys are used to connect Microsoft Operational Insights agents to the workspace.",
+  "IsDataAction": false
+}

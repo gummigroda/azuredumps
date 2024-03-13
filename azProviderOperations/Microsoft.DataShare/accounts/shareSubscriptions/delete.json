@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/delete",
+  "OperationName": "Delete Data Share Share Subscription",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ShareSubscription",
+  "Description": "Deletes a Data Share Share Subscription.",
+  "IsDataAction": false
+}

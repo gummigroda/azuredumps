@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupJobs/read",
+  "OperationName": "Backup Jobs",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "Get Jobs list",
+  "IsDataAction": false
+}

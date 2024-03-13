@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/onPremiseSensors/write",
+  "OperationName": "Create or update on-premise IoT Sensors",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "On-premise IoT Sensors",
+  "Description": "Creates or updates on-premise IoT Sensors",
+  "IsDataAction": false
+}

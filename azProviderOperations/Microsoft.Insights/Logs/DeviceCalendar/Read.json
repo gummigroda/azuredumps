@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceCalendar/Read",
+  "OperationName": "Read DeviceCalendar data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceCalendar",
+  "Description": "Read data from the DeviceCalendar table",
+  "IsDataAction": false
+}

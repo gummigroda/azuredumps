@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/hostsettings/read",
+  "OperationName": "Host settings for bot service",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Get the settings needed to host bot service",
+  "IsDataAction": false
+}

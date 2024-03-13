@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Configuration Store Diagnostic Settings",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Write/Overwrite Diagnostic Settings for Microsoft App Configuration.",
+  "IsDataAction": false
+}

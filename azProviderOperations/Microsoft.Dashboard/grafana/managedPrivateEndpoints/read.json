@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/managedPrivateEndpoints/read",
+  "OperationName": "Get/List Managed Private Endpoints",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "ManagedPrivateEndpoints",
+  "Description": "Read Managed Private Endpoints",
+  "IsDataAction": false
+}

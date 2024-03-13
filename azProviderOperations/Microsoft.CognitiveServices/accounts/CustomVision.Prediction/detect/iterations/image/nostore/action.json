@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/detect/iterations/image/nostore/action",
+  "OperationName": "DetectImageWithNoStore",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "image*",
+  "Description": "Detect objects in an image without saving the result.",
+  "IsDataAction": true
+}

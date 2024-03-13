@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/read",
+  "OperationName": "Get or List Text Incidents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Incidents",
+  "Description": "Get or List Text Incidents",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/linkedServices/delete",
+  "OperationName": "Delete Machine Learning Services Workspace Linked Service(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Linked Services",
+  "Description": "Delete Machine Learning Services Workspace Linked Service(s)",
+  "IsDataAction": false
+}

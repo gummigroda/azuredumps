@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/machines/applications/read",
+  "OperationName": "Get server machine installed applications, roles and features",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Get server machine installed applications, roles and features",
+  "IsDataAction": false
+}

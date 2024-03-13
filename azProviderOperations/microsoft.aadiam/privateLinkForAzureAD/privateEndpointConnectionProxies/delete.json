@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnectionProxies/delete",
+  "OperationName": "Private Link Proxies read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Private Link Proxies",
+  "Description": "Delete Private Link Proxies",
+  "IsDataAction": false
+}

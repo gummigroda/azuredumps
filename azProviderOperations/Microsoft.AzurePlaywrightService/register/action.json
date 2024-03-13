@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/register/action",
+  "OperationName": "Register the Microsoft.AzurePlaywrightService",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzurePlaywrightService",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/read",
+  "OperationName": "List/Get MySQL Servers",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Returns the list of servers or gets the properties for the specified server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/layout/analyze/action",
+  "OperationName": "Analyze Layout",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Recognizers",
+  "Description": "Extract text and layout information from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the Url location of the document to be analyzed.",
+  "IsDataAction": true
+}

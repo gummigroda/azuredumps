@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEvents/liveOutputs/delete",
+  "OperationName": "Delete Live Output",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Output",
+  "Description": "Delete any Live Output",
+  "IsDataAction": false
+}

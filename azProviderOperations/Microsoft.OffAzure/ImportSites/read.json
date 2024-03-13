@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ImportSites/read",
+  "OperationName": "Get Import site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ImportSites",
+  "Description": "Gets the properties of a Import site",
+  "IsDataAction": false
+}

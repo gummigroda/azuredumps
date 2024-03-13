@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/versions/steps/read",
+  "OperationName": "Gets the specified version of a job step",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job step version",
+  "Description": "Gets the job step version",
+  "IsDataAction": false
+}

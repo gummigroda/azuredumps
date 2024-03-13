@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/networkSecurityPerimeterAssociationProxyAzureAsyncOperation/read",
+  "OperationName": "Get network security perimeter proxy azure async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Get network security perimeter proxy azure async operation",
+  "IsDataAction": false
+}

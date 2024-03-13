@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstanceKeyAzureAsyncOperation/read",
+  "OperationName": "Transparent Data Encryption Managed Instance keys operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Transparent Data Encryption managed instance key operation",
+  "Description": "Gets in-progress operations on transparent data encryption managed instance keys",
+  "IsDataAction": false
+}

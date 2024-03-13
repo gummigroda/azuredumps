@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection",
+  "Description": "Create or update a private endpoint connection of a Database Account",
+  "IsDataAction": false
+}

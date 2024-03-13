@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSensors/write",
+  "OperationName": "Create or update IoT Sensors",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Create or updates IoT Sensors",
+  "IsDataAction": false
+}

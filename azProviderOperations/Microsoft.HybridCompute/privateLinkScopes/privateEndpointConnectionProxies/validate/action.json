@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validates Azure Arc privateEndpointConnectionProxies",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Validates an Azure Arc privateEndpointConnectionProxies",
+  "IsDataAction": false
+}

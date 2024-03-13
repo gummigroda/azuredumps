@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/routingRules/write",
+  "OperationName": "Creates or updates a routing rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Creates or updates a routing rule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/licenses/delete",
+  "OperationName": "Delete Azure Arc licenses",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "licenses",
+  "Description": "Deletes an Azure Arc licenses",
+  "IsDataAction": false
+}

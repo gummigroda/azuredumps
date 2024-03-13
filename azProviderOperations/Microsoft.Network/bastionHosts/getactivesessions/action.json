@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/getactivesessions/action",
+  "OperationName": "Get Active Sessions in the Bastion Host",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Get Active Sessions in the Bastion Host",
+  "IsDataAction": false
+}

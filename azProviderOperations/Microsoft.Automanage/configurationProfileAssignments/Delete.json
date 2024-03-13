@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfileAssignments/Delete",
+  "OperationName": "Delete Configuration Profile Assignments",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage Configuration Profile Assignments",
+  "Description": "Delete any Configuration Profile Assignments",
+  "IsDataAction": false
+}

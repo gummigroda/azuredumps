@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/hooks/write",
+  "OperationName": "Create or update a hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hooks",
+  "Description": "Create or update a hook",
+  "IsDataAction": true
+}

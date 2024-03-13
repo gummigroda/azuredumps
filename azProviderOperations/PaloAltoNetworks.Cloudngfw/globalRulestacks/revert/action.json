@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/revert/action",
+  "OperationName": "GlobalRulestack_revert",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "Revert rulestack configuration",
+  "IsDataAction": false
+}

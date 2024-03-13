@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnections/read",
+  "OperationName": "Azure Automation Private Endpoint Connection status",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection",
+  "Description": "Get Azure Automation Private Endpoint Connection status",
+  "IsDataAction": false
+}

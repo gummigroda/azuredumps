@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

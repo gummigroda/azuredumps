@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/schemas/tables/columns/read",
+  "OperationName": "Get a managed database column",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database Column",
+  "Description": "Get a managed database column",
+  "IsDataAction": false
+}

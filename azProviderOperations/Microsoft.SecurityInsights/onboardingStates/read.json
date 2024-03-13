@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/onboardingStates/read",
+  "OperationName": "Get Onboarding States",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Onboarding States",
+  "Description": "Gets an onboarding state",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/unregister/action",
+  "OperationName": "Unregister the Microsoft.OpenEnergyPlatform",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.OpenEnergyPlatform",
+  "IsDataAction": false
+}

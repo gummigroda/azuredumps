@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/connections/dynamicInvoke/action",
+  "OperationName": "Dynamic Invoke Connection.",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Dynamic Invoke a Connection.",
+  "IsDataAction": false
+}

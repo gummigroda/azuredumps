@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/actionRequests/read",
+  "OperationName": "ActionRequests_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/actionRequests",
+  "Description": "List all action requests under the specified test base account.",
+  "IsDataAction": false
+}

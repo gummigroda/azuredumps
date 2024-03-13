@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/administrators/read",
+  "OperationName": "List/Get PostgreSQL server administrator",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server Administrator",
+  "Description": "Return the list of server administrators or gets the properties for the specified server administrator.",
+  "IsDataAction": false
+}

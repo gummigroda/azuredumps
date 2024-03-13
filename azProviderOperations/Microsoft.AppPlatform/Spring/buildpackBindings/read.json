@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildpackBindings/read",
+  "OperationName": "Get details of BuildpackBinding collections in Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The BuildpackBinding of Microsoft Azure Spring Apps",
+  "Description": "Get the BuildpackBinding for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

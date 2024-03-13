@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/getMarketplaceSaaSResourceDetails/action",
+  "OperationName": "Gets Marketplace SaaS Resource details",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "",
+  "Description": "Gets Marketplace SaaS Resource details for a particular tenant Id",
+  "IsDataAction": false
+}

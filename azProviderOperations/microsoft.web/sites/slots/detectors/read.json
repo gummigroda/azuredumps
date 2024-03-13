@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/detectors/read",
+  "OperationName": "Get Web Apps Slots Detectors",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Detectors",
+  "Description": "Get Web Apps Slots Detectors.",
+  "IsDataAction": false
+}

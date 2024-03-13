@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/resources/delete",
+  "OperationName": "ApplicationResources_Delete",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/resources",
+  "Description": "Delete a ApplicationResource",
+  "IsDataAction": false
+}

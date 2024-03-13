@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/listappsettings/Action",
+  "OperationName": "List Static Site App Settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "List app settings for a Static Site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/staticMembers/write",
+  "OperationName": "Create Or Update Network Group Static Member",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group Static Member",
+  "Description": "Create Or Update Network Group Static Member",
+  "IsDataAction": false
+}

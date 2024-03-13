@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connections/Delete",
+  "OperationName": "Delete Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Deletes a Connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/delete",
+  "OperationName": "Delete SQL Analytics pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pools",
+  "Description": "Delete any SQL Analytics pools.",
+  "IsDataAction": false
+}

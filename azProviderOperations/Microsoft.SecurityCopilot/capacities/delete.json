@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityCopilot/capacities/delete",
+  "OperationName": "Capacities_Delete",
+  "ProviderNamespace": "Microsoft.SecurityCopilot",
+  "ResourceName": "capacities",
+  "Description": "Delete a Capacity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/register/action",
+  "OperationName": "Register the subscription with Microsoft.Quota Resource Provider",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "",
+  "Description": "Register the subscription with Microsoft.Quota Resource Provider",
+  "IsDataAction": false
+}

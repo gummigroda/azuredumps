@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/configuration/read",
+  "OperationName": "Gets Service Configuration for the forest.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets Service Configuration for the forest. Example- Forest Name, Functionla Level, Domain Naming master FSMO role, Schema master FSMO role etc.",
+  "IsDataAction": false
+}

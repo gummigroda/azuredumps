@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceAppLaunch/read",
+  "OperationName": "Read DeviceAppLaunch data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceAppLaunch",
+  "Description": "Read data from the DeviceAppLaunch table",
+  "IsDataAction": false
+}

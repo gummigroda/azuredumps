@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/contactProfiles/read",
+  "OperationName": "Read Contact Profile",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contact Profiles",
+  "Description": "Read any Contact Profile",
+  "IsDataAction": false
+}

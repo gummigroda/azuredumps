@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures/delete",
+  "OperationName": "Delete SQL stored procedure",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Stored Procedure",
+  "Description": "Delete a SQL stored procedure.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionProxies/operationResults/read",
+  "OperationName": "Read Status of Private Endpoint Connection Proxy Asynchronous Operation",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read Status of any Private Endpoint Connection Proxy Asynchronous Operation",
+  "IsDataAction": false
+}

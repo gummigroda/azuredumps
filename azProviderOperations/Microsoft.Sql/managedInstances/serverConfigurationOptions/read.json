@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/serverConfigurationOptions/read",
+  "OperationName": "Azure SQL Managed Instance Server Configuration Option Get/List operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Configuration Option",
+  "Description": "Gets properties for the specified Azure SQL Managed Instance Server Configuration Option.",
+  "IsDataAction": false
+}

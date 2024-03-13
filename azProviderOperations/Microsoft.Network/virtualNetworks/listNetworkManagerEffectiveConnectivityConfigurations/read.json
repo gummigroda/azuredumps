@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveConnectivityConfigurations/read",
+  "OperationName": "List Network Manager Effective Connectivity Configurations Permission",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Permission for calling List Network Manager Effective Connectivity Configurations operation. This read permission, not listNetworkManagerEffectiveConnectivityConfigurations/action, is required to call List Network Manager Effective Connectivity Configurations.",
+  "IsDataAction": false
+}

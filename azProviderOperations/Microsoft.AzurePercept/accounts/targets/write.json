@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/targets/write",
+  "OperationName": "Targets_Update",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/targets",
+  "Description": "write targets",
+  "IsDataAction": false
+}

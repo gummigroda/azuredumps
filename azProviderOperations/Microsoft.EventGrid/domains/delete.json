@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/delete",
+  "OperationName": "Delete Domain",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domains",
+  "Description": "Delete a domain",
+  "IsDataAction": false
+}

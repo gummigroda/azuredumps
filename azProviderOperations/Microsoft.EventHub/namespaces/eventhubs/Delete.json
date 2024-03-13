@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/Delete",
+  "OperationName": "Delete EventHub",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub",
+  "Description": "Operation to delete EventHub Resource",
+  "IsDataAction": false
+}

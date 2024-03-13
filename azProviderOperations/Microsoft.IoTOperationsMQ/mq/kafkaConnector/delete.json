@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/delete",
+  "OperationName": "KafkaConnector_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector",
+  "Description": "Delete a KafkaConnectorResource",
+  "IsDataAction": false
+}

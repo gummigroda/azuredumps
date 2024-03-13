@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/dataWarehouseQueries/dataWarehouseQuerySteps/read",
+  "OperationName": "Get details about data warehouse query step",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Data Warehouse Query Step",
+  "Description": "Returns the distributed query step information of data warehouse query for selected step ID",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listAllTrafficFilters/action",
+  "OperationName": "List all traffic filters in Elastic Deployment",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "List all traffic filters in Elastic Deployment",
+  "IsDataAction": false
+}

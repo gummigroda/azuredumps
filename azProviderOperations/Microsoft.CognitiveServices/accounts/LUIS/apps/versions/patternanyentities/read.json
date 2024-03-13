@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/read",
+  "OperationName": "Get Pattern.any entity or Get version Pattern.Any entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern.any entities",
+  "Description": "Gets info about the Pattern.any entity model.\r\nGets info about the Pattern.any entity models in the application version.",
+  "IsDataAction": true
+}

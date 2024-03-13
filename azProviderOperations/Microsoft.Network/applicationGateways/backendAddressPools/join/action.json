@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/backendAddressPools/join/action",
+  "OperationName": "Join Application Gateway Backend Address Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway Backend Address Pool",
+  "Description": "Joins an application gateway backend address pool. Not Alertable.",
+  "IsDataAction": false
+}

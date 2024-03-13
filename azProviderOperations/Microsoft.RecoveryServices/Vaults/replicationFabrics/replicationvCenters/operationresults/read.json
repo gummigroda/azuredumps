@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/operationresults/read",
+  "OperationName": "Track the results of an asynchronous operation on the resource vCenters",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "vCenters",
+  "Description": "Track the results of an asynchronous operation on the resource vCenters",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/SecurityDetonationChambers/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "SecurityDetonationChambers",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/workloadInstances/disableReplication/action",
+  "OperationName": "Performs disable replicate",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Performs disable replicate on the workload instance",
+  "IsDataAction": false
+}

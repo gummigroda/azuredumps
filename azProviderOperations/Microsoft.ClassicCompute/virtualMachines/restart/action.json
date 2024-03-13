@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/restart/action",
+  "OperationName": "Restart Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Restarts virtual machines.",
+  "IsDataAction": false
+}

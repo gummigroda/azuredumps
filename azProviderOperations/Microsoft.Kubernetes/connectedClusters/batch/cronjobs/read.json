@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/batch/cronjobs/read",
+  "OperationName": "Gets/List cronjobs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "cronjobs",
+  "Description": "Reads cronjobs",
+  "IsDataAction": true
+}

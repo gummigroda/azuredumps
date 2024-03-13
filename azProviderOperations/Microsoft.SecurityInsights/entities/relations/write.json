@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/relations/write",
+  "OperationName": "Update Entity Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entity Relations",
+  "Description": "Updates a relation between the entity and related resources",
+  "IsDataAction": false
+}

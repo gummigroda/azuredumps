@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/agentRegistrationInformation/regenerateKey/action",
+  "OperationName": "Puts a request to regenerate Azure Automation DSC keys",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Agent Registration",
+  "Description": "Writes a request to regenerate Azure Automation DSC keys",
+  "IsDataAction": false
+}

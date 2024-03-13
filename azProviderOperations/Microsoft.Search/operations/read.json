@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/operations/read",
+  "OperationName": "List all available operations",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Lists all of the available operations of the Microsoft.Search provider.",
+  "IsDataAction": false
+}

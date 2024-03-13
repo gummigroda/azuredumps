@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/consents/delete",
+  "OperationName": "Delete Consent Resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Consent",
+  "Description": "Delete the Consent Resource.",
+  "IsDataAction": false
+}

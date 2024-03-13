@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/endpoints/write",
+  "OperationName": "Creates/Updates endpoints resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpoints",
+  "Description": "Writes endpoints",
+  "IsDataAction": true
+}

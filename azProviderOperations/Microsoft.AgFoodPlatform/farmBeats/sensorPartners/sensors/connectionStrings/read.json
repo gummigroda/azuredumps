@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/sensors/connectionStrings/read",
+  "OperationName": "Get or List AgFoodPlatform ConnnectionStrings for Sensor Partners resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform ConnnectionStrings for Sensor Partners",
+  "Description": "Gets or Lists existing AgFoodPlatform ConnnectionStrings for Sensor Partners resource(s).",
+  "IsDataAction": true
+}

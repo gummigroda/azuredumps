@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/permissionBindings/delete",
+  "OperationName": "Delete Permission Binding",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "permissionBindings",
+  "Description": "Delete a Permission Binding",
+  "IsDataAction": false
+}

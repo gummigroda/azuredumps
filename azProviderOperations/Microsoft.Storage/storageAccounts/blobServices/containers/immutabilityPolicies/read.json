@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/read",
+  "OperationName": "Get blob container immutability policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers ImmutabilityPolicy",
+  "Description": "Get blob container immutability policy",
+  "IsDataAction": false
+}

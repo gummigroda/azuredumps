@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/certificateAuthorities/delete",
+  "OperationName": "CertificateAuthority_Delete",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/certificateAuthorities",
+  "Description": "Deletes the specified certificate authority.",
+  "IsDataAction": false
+}

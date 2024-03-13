@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/write",
+  "OperationName": "PersonGroup - Create|PersonGroup - Update*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persongroups*",
+  "Description": "Create a new person group with specified personGroupId, name, user-provided userData and recognitionModel.\r\nUpdate an existing person group's name and userData. The properties keep unchanged if they are not in request body.*",
+  "IsDataAction": true
+}

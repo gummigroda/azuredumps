@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/topicMap/write",
+  "OperationName": "KafkaConnectorTopicMap_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector/topicMap",
+  "Description": "Update a KafkaTopicMapResource",
+  "IsDataAction": false
+}

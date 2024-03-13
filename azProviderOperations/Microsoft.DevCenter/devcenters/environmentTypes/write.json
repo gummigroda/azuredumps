@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/environmentTypes/write",
+  "OperationName": "EnvironmentTypes_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/environmentTypes",
+  "Description": "Partially updates an environment type.",
+  "IsDataAction": false
+}

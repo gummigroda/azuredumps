@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/read",
+  "OperationName": "Lists the workload classifiers for a selected SQL Analytics Pool.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload classifier",
+  "Description": "Lists the workload classifiers for a selected SQL Analytics Pool.",
+  "IsDataAction": false
+}

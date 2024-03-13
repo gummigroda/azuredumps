@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/features/delete",
+  "OperationName": "models - Delete entity feature relation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "features*",
+  "Description": "Deletes the feature relation for an entity model.",
+  "IsDataAction": true
+}

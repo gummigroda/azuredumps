@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsItems/Write",
+  "OperationName": "Application Insights analytics item write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics item",
+  "Description": "Writing an Application Insights analytics item",
+  "IsDataAction": false
+}

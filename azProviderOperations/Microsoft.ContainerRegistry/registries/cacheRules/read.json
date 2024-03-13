@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/cacheRules/read",
+  "OperationName": "Get cache rule or List cache rules",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CacheRules",
+  "Description": "Gets the properties of the specified cache rule or lists all the cache rules for the specified container registry",
+  "IsDataAction": false
+}

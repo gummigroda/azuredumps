@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitHubOwners/listAvailableRepos/action",
+  "OperationName": "GitHubRepos_ListAvailable",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitHubOwners",
+  "Description": "Returns a list of all GitHub repositories accessible by the user token and app installation used by the connector.",
+  "IsDataAction": false
+}

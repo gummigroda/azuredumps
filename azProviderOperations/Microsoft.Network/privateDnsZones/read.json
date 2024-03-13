@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/read",
+  "OperationName": "Get Private DNS zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone",
+  "Description": "Get the Private DNS zone properties, in JSON format. Note that this command does not retrieve the virtual networks to which the Private DNS zone is linked or the record sets contained within the zone.",
+  "IsDataAction": false
+}

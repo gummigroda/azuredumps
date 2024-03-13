@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/storage.k8s.io/csinodes/delete",
+  "OperationName": "Deletes/DeletesCollection csinodes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Csinodes",
+  "Description": "Deletes csinodes",
+  "IsDataAction": true
+}

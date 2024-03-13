@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/write",
+  "OperationName": "Create or Update Network Interface",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Creates a network interface or updates an existing network interface. ",
+  "IsDataAction": false
+}

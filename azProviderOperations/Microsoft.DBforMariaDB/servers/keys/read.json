@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/keys/read",
+  "OperationName": "List/Get Azure Database for MariaDB Server Key(s)",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB Server Keys",
+  "Description": "Return the list of server keys or gets the properties for the specified server key.",
+  "IsDataAction": false
+}

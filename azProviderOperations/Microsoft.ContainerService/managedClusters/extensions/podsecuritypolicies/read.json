@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensions/podsecuritypolicies/read",
+  "OperationName": "Gets/List podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Podsecuritypolicies",
+  "Description": "Reads podsecuritypolicies",
+  "IsDataAction": true
+}

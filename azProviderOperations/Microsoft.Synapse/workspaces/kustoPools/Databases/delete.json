@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Databases/delete",
+  "OperationName": "Delete database resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Databases resource type",
+  "Description": "Deletes a database resource.",
+  "IsDataAction": false
+}

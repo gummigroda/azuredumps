@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/import/action",
+  "OperationName": "Import database into the server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server",
+  "Description": "Import new Azure SQL Database",
+  "IsDataAction": false
+}

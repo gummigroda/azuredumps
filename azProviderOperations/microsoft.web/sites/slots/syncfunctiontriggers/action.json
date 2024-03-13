@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/syncfunctiontriggers/action",
+  "OperationName": "Sync Web Apps Function Triggers for deployment slot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Sync Function Triggers for deployment slot.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/findsimilars/action",
+  "OperationName": "Face - Find Similar",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Given query face's faceId, to search the similar-looking faces from a faceId array, a face list or a large face list. faceId",
+  "IsDataAction": true
+}

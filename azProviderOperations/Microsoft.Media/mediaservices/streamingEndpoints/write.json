@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/write",
+  "OperationName": "Create or Update Streaming Endpoint",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoint",
+  "Description": "Create or Update any Streaming Endpoint",
+  "IsDataAction": false
+}

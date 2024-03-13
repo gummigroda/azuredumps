@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyStates/summarize/action",
+  "OperationName": "Query Policy Latest States Summary",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy States",
+  "Description": "Query summary information about policy latest states.",
+  "IsDataAction": false
+}

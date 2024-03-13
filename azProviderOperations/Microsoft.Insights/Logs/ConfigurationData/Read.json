@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ConfigurationData/Read",
+  "OperationName": "Read ConfigurationData data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ConfigurationData",
+  "Description": "Read data from the ConfigurationData table",
+  "IsDataAction": false
+}

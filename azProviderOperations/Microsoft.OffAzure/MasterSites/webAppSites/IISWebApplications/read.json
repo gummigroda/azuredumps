@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/IISWebApplications/read",
+  "OperationName": "Get IIS Web applications.",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "IIS Web Application",
+  "Description": "Gets the properties of IIS Web applications.",
+  "IsDataAction": false
+}

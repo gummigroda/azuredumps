@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/PredictiveScaleup/Action",
+  "OperationName": "Predictive Autoscale scale up initiated",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Autoscale Setting",
+  "Description": "Predictive Autoscale scale up initiated",
+  "IsDataAction": false
+}

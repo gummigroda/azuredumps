@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/componentstatuses/read",
+  "OperationName": "Gets/List componentstatuses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "componentstatuses",
+  "Description": "Reads componentstatuses",
+  "IsDataAction": true
+}

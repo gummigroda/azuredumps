@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchTiers/Write",
+  "OperationName": "Create or Update Patch Tier",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Tier",
+  "Description": "Create or Update any Patch Tier",
+  "IsDataAction": false
+}

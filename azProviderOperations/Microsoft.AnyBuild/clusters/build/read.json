@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnyBuild/clusters/build/read",
+  "OperationName": "Read build output",
+  "ProviderNamespace": "Microsoft AnyBuild",
+  "ResourceName": "Clusters",
+  "Description": "Read build output and available agents from a specific cluster.",
+  "IsDataAction": true
+}

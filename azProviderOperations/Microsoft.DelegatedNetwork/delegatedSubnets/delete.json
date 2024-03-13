@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DelegatedNetwork/delegatedSubnets/delete",
+  "OperationName": "Delete a Delegated subnet instance.",
+  "ProviderNamespace": "Microsoft Delegated Network Service",
+  "ResourceName": "Microsoft Delegated subnet instance",
+  "Description": "Delete a Delegated subnet instance.",
+  "IsDataAction": false
+}

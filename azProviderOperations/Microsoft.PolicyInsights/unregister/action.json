@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/unregister/action",
+  "OperationName": "Unregister Microsoft Policy Insights Resource Provider",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "",
+  "Description": "Unregisters the Microsoft Policy Insights resource provider.",
+  "IsDataAction": false
+}

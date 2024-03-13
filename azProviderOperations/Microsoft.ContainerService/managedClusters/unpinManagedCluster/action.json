@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/unpinManagedCluster/action",
+  "OperationName": "Unpin managed cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Unpin a managed cluster",
+  "IsDataAction": false
+}

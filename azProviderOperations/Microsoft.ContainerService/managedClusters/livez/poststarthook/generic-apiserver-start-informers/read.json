@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/livez/poststarthook/generic-apiserver-start-informers/read",
+  "OperationName": "Gets/List generic-apiserver-start-informers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Poststarthook/Generic-Apiserver-Start-Informers",
+  "Description": "Reads generic-apiserver-start-informers",
+  "IsDataAction": true
+}

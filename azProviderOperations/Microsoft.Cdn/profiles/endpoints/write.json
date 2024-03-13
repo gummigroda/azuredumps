@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Endpoint",
+  "Description": null,
+  "IsDataAction": false
+}

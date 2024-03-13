@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policyRestrictions/delete",
+  "OperationName": "Remove Tenant policy restriction from policies",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Deletes the global policy restriction of the Api Management Service.",
+  "IsDataAction": false
+}

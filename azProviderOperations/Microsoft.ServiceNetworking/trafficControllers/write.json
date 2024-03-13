@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/write",
+  "OperationName": "Create or Update Traffic Controller",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller",
+  "Description": "Create or Update the Traffic Controller resource",
+  "IsDataAction": false
+}

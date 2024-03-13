@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/eventGridFilters/read",
+  "OperationName": "Get or List AgFoodPlatform Event Grid filters resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Event Grid filters",
+  "Description": "Gets or Lists existing AgFoodPlatform Event Grid filters resource(s).",
+  "IsDataAction": false
+}

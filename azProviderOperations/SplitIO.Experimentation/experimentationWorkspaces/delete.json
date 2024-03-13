@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/experimentationWorkspaces/delete",
+  "OperationName": "ExperimentationWorkspaces_Delete",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "experimentationWorkspaces",
+  "Description": "Delete a ExperimentationWorkspace",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/rackSkus/read",
+  "OperationName": "RackSkus_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "rackSkus",
+  "Description": "Get the properties of the provided rack SKU.",
+  "IsDataAction": false
+}

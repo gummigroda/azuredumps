@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/operationresults/read",
+  "OperationName": "Get Web Apps Operation Results",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Operation Results",
+  "Description": "Get Web Apps Operation Results.",
+  "IsDataAction": false
+}

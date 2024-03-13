@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/register/action",
+  "OperationName": "Register the Microsoft.IntegrationSpaces",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.IntegrationSpaces",
+  "IsDataAction": false
+}

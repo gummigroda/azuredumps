@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Approve Private Endpoint Connection.",
+  "IsDataAction": false
+}

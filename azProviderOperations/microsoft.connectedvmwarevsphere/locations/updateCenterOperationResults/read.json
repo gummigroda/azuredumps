@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/locations/updateCenterOperationResults/read",
+  "OperationName": "Read Update Center Operation Results",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "locations/updateCenterOperationResults",
+  "Description": "Reads the status of an update center operation on virtual machines",
+  "IsDataAction": false
+}

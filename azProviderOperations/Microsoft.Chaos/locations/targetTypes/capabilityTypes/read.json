@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/locations/targetTypes/capabilityTypes/read",
+  "OperationName": "Gets all CapabilityType.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "CapabilityType",
+  "Description": "Gets all CapabilityType.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/register/action",
+  "OperationName": "Register SaaS resource provider",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "",
+  "Description": "Register Saas resource provider in the tenant",
+  "IsDataAction": false
+}

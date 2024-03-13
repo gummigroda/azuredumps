@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/tables/delete",
+  "OperationName": "Delete tables",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Tables",
+  "Description": "Delete tables",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnections/read",
+  "OperationName": "List Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Storage Account Private Endpoint Connections",
+  "Description": "List Private Endpoint Connections",
+  "IsDataAction": false
+}

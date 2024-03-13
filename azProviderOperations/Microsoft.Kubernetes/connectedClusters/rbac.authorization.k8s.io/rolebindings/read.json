@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/rolebindings/read",
+  "OperationName": "Gets/List rolebindings resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "rolebindings",
+  "Description": "Reads rolebindings",
+  "IsDataAction": true
+}

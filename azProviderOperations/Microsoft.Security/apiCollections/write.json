@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/apiCollections/write",
+  "OperationName": "Create Api Collections",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Api Collections",
+  "Description": "Create Api Collections",
+  "IsDataAction": false
+}

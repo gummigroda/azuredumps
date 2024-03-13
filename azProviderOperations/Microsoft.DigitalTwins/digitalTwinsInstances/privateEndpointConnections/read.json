@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnections/read",
+  "OperationName": "Read PrivateEndpointConnection",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "PrivateEndpointConnection",
+  "Description": "Read PrivateEndpointConnection resource",
+  "IsDataAction": false
+}

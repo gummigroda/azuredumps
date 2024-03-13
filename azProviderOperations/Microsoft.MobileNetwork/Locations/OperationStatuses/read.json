@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

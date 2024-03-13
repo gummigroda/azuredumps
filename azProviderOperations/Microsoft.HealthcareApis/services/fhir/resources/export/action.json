@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/export/action",
+  "OperationName": "Export",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Export operation ($export).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/loggers/read",
+  "OperationName": "Get loggers list or Get logger details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Loggers",
+  "Description": "Lists a collection of loggers in the specified service instance. or Gets the details of the logger specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nrfProfiles/read",
+  "OperationName": "NrfProfiles_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nrfProfiles",
+  "Description": "Lists all the Network Repository Function profiles in a mobile packet core instance.",
+  "IsDataAction": false
+}

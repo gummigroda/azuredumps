@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/extensions/delete",
+  "OperationName": "Delete Cluster Extension",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Delete Cluster Extension for HDInsight Cluster",
+  "IsDataAction": false
+}

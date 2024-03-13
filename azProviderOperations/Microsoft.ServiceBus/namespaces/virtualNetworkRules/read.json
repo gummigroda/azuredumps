@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/virtualNetworkRules/read",
+  "OperationName": "Gets VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Gets VNET Rule Resource",
+  "IsDataAction": false
+}

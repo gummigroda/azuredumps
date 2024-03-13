@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/repos/read",
+  "OperationName": "GitHubRepos_ListByConnector",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors/repos",
+  "Description": "read repos",
+  "IsDataAction": false
+}

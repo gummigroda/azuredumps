@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/read",
+  "OperationName": "Projects_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects",
+  "Description": "Gets a specific project.",
+  "IsDataAction": false
+}

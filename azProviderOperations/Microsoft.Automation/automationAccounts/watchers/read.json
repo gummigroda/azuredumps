@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/watchers/read",
+  "OperationName": "Gets an Azure Automation watcher job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation watcher job",
+  "Description": "Gets an Azure Automation watcher job",
+  "IsDataAction": false
+}

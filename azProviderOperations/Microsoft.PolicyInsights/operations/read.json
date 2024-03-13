@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/operations/read",
+  "OperationName": "Get Microsoft Policy Insights operations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Operations",
+  "Description": "Gets supported operations on Microsoft.PolicyInsights namespace",
+  "IsDataAction": false
+}

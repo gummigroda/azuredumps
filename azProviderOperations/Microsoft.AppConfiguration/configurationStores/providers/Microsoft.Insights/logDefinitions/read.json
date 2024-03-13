@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Configuration Store Log Definitions",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Microsoft App Configuration Log Definition.",
+  "Description": "Retrieve all log definitions for Microsoft App Configuration.",
+  "IsDataAction": false
+}

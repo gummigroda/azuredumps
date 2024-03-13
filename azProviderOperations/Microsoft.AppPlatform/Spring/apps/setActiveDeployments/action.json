@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/setActiveDeployments/action",
+  "OperationName": "Set the active deployments to service traffic to an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application of Microsoft Azure Spring Apps",
+  "Description": "Set active deployments for a specific Microsoft Azure Spring Apps application",
+  "IsDataAction": false
+}

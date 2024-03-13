@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/allowedEnvironmentTypes/read",
+  "OperationName": "ProjectAllowedEnvironmentTypes_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/allowedEnvironmentTypes",
+  "Description": "Gets an allowed environment type.",
+  "IsDataAction": false
+}

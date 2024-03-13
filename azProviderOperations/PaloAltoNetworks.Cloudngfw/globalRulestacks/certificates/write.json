@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/certificates/write",
+  "OperationName": "CertificateObjectGlobalRulestack_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/certificates",
+  "Description": "Create a CertificateObjectGlobalRulestackResource",
+  "IsDataAction": false
+}

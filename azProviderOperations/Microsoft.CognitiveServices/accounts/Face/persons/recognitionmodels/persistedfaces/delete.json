@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/recognitionmodels/persistedfaces/delete",
+  "OperationName": "PersonDirectory Person - Delete Face",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Delete a face from a person in person directory by specified personId and persistedFaceId.\r\nDelete a face from a person in person directory by specified personId and persistedFaceId.*",
+  "IsDataAction": true
+}

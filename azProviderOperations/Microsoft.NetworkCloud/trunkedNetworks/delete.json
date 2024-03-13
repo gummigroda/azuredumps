@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/trunkedNetworks/delete",
+  "OperationName": "TrunkedNetworks_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "trunkedNetworks",
+  "Description": "Delete the provided trunked network.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/caches/delete",
+  "OperationName": "Remove cache",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "External caches",
+  "Description": "Deletes specific Cache.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/cleanrooms/read",
+  "OperationName": "CleanRooms_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "cleanrooms",
+  "Description": "List clean rooms in a resource group.",
+  "IsDataAction": false
+}

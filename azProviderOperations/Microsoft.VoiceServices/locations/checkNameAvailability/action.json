@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/locations/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "locations/checkNameAvailability",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

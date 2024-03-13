@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/eventGridFilters/read",
+  "OperationName": "Get Event Grid Filters",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Event Grid Filters",
+  "Description": "Get Event Grid filters used to track which scopes to publish state change notifications for.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/removeDefaultAccount/action",
+  "OperationName": "Removes Default Account",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "",
+  "Description": "Removes the default account for the scope.",
+  "IsDataAction": false
+}

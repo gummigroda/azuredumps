@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/generateCveSummary/action",
+  "OperationName": "Firmware_GenerateCveSummary",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to provide a high level summary of the CVEs reported for the firmware image.",
+  "IsDataAction": false
+}

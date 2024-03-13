@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/supportedVirtualMachineSizes/read",
+  "OperationName": "Get supported virtual machines sizes",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual machine size",
+  "Description": "Gets supported virtual machines sizes",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/autotag/jobs/read",
+  "OperationName": "AnalyzeText_Internal_AutoTag_GetAutoTaggingJobsList|AnalyzeText_Internal_AutoTag_GetAutoTaggingJobStatus*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get autotagging jobs.\r\nGet auto tagging job status and result details.*",
+  "IsDataAction": true
+}

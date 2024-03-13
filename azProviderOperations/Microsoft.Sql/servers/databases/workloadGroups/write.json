@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/workloadGroups/write",
+  "OperationName": "Sets the properties for a specific workload group.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The allowed operations for a data warehouse workload management workload group.",
+  "Description": "Sets the properties for a specific workload group.",
+  "IsDataAction": false
+}

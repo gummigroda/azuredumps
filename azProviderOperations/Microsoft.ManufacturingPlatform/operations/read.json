@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

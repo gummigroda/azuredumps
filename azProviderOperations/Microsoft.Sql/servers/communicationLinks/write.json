@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/communicationLinks/write",
+  "OperationName": "Create/Update Server Communication Link",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Communication Link",
+  "Description": "Create or update a server communication link.",
+  "IsDataAction": false
+}

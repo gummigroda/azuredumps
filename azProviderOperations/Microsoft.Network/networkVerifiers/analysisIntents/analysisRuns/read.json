@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/analysisIntents/analysisRuns/read",
+  "OperationName": "Gets a Analysis Run",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Analysis Run",
+  "Description": "Gets a Analysis Run",
+  "IsDataAction": false
+}

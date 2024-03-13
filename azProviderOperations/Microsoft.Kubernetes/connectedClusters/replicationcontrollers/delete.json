@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/replicationcontrollers/delete",
+  "OperationName": "Deletes/DeletesCollection replicationcontrollers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicationcontrollers",
+  "Description": "Deletes replicationcontrollers",
+  "IsDataAction": true
+}

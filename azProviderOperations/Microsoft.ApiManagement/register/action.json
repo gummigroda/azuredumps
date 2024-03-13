@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/register/action",
+  "OperationName": "Register Microsoft.ApiManagement resource provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "",
+  "Description": "Register subscription for Microsoft.ApiManagement resource provider",
+  "IsDataAction": false
+}

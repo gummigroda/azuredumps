@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/delete",
+  "OperationName": "Deletes a move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Deletes a move collection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/DataConnections/delete",
+  "OperationName": "Delete a data connections resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Data connections resource type",
+  "Description": "Deletes a data connections resource.",
+  "IsDataAction": false
+}

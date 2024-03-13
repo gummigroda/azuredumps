@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/register/action",
+  "OperationName": "Register the Microsoft.ConnectedCache",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ConnectedCache",
+  "IsDataAction": false
+}

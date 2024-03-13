@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/A/delete",
+  "OperationName": "Delete record set of type A",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS A record set",
+  "Description": "Remove the record set of a given name and type ‘A’ from a Private DNS zone.",
+  "IsDataAction": false
+}

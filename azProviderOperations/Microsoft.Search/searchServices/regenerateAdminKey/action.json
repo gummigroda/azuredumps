@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/regenerateAdminKey/action",
+  "OperationName": "Regenerate Admin Key",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Regenerates the admin key.",
+  "IsDataAction": false
+}

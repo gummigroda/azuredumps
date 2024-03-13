@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/machinePools/delete",
+  "OperationName": "Delete OpenShift cluster machine pool",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "machinePools",
+  "Description": null,
+  "IsDataAction": false
+}

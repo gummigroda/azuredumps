@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/privateEndpointConnections/delete",
+  "OperationName": "Delete Azure Database for MariaDB private endpoint connection",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB private endpoint connection",
+  "Description": "Deletes an existing private endpoint connection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

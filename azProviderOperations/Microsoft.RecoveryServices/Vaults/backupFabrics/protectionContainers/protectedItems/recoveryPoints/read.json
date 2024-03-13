@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read",
+  "OperationName": "Get Recovery Points",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Get Recovery Points for Protected Items.",
+  "IsDataAction": false
+}

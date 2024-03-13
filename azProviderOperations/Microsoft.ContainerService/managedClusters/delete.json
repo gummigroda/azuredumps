@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/delete",
+  "OperationName": "Delete Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Deletes a managed cluster",
+  "IsDataAction": false
+}

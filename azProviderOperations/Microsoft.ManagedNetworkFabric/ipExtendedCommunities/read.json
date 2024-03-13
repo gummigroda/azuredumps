@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipExtendedCommunities/read",
+  "OperationName": "IpExtendedCommunities_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipExtendedCommunities",
+  "Description": "Implements IpExtendedCommunities list by subscription GET method.",
+  "IsDataAction": false
+}

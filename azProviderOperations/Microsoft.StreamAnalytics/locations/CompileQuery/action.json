@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/locations/CompileQuery/action",
+  "OperationName": "Compile Query for Stream Analytics Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Resource Provider",
+  "Description": "Compile Query for Stream Analytics Resource Provider",
+  "IsDataAction": false
+}

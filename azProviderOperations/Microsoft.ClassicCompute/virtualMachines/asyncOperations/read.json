@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/asyncOperations/read",
+  "OperationName": "Async Operations",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Async Operations",
+  "Description": "Gets the possible async operations",
+  "IsDataAction": false
+}

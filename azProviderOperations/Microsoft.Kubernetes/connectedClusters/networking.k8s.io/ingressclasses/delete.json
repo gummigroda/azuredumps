@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/networking.k8s.io/ingressclasses/delete",
+  "OperationName": "Deletes/DeletesCollection ingressclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "ingressclasses",
+  "Description": "Deletes ingressclasses",
+  "IsDataAction": true
+}

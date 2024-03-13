@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete NSP association proxies",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Deletes association proxies related to network security perimeter",
+  "IsDataAction": false
+}

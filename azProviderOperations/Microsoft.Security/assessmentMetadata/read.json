@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessmentMetadata/read",
+  "OperationName": "Get assessment metadata",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Assessment Metadata",
+  "Description": "Get available security assessment metadata on your subscription",
+  "IsDataAction": false
+}

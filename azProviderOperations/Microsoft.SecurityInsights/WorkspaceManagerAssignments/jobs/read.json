@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/workspaceManagerAssignments/jobs/read",
+  "OperationName": "Get WorkspaceManagerAssignments jobs",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerAssignments jobs",
+  "Description": "Gets WorkspaceManagerAssignments jobs",
+  "IsDataAction": false
+}

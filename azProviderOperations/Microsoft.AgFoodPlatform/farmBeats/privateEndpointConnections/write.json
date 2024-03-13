@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnections/write",
+  "OperationName": "Create or Update AgFoodPlatform Private endpoint connections.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connections",
+  "Description": "Creates or Updates AgFoodPlatform Private endpoint connections.",
+  "IsDataAction": false
+}

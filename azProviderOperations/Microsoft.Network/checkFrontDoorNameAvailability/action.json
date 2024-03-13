@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/checkFrontDoorNameAvailability/action",
+  "OperationName": "Checks whether a Front Door name is available",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "Checks whether a Front Door name is available",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/appliances/write",
+  "OperationName": "Create or Update Appliance",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Creates or Updates Appliance resource",
+  "IsDataAction": false
+}

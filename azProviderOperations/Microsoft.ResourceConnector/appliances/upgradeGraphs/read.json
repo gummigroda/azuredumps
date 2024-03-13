@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/appliances/upgradeGraphs/read",
+  "OperationName": "Get upgrade graph",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Gets the upgrade graph of Appliance cluster",
+  "IsDataAction": false
+}

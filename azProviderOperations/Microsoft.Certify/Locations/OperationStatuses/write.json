@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/Locations/OperationStatuses/write",
+  "OperationName": "Create or Update OperationStatuses",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "Creates or Updates OperationStatuses",
+  "IsDataAction": false
+}

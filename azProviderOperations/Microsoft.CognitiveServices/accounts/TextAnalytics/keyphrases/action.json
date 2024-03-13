@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/keyphrases/action",
+  "OperationName": "Extract Key Phrases",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Analytics Service",
+  "Description": "The API returns a list of strings denoting the key talking points in the input text.",
+  "IsDataAction": true
+}

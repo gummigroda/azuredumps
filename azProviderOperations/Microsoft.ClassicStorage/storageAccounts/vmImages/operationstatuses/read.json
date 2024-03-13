@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/vmImages/operationstatuses/read",
+  "OperationName": "Get Virtual Machine Image Operation Status",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Virtual Machine Image Operation Status",
+  "Description": "Gets a given virtual machine image operation status.",
+  "IsDataAction": false
+}

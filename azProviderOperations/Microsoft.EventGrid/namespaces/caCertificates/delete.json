@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/caCertificates/delete",
+  "OperationName": "Delete CA Certificate",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "caCertificates",
+  "Description": "Delete a CA Certificate",
+  "IsDataAction": false
+}

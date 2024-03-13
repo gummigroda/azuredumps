@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/racks/write",
+  "OperationName": "Racks_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "racks",
+  "Description": "Patch properties of the provided rack, or update the tags associated with the rack. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/intelligencepacks/disable/action",
+  "OperationName": "Disable Intelligence Pack",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Intelligence Pack",
+  "Description": "Disables an intelligence pack for a given workspace.",
+  "IsDataAction": false
+}

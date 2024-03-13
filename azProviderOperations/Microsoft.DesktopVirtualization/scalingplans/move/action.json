@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/move/action",
+  "OperationName": "Move scalingplans",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans",
+  "Description": "Move scalingplans to another ResourceGroup or Subscription",
+  "IsDataAction": false
+}

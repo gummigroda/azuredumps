@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/metrics/groups/read",
+  "OperationName": "Gets information about different service metrics.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Given a service, this API gets the metrics information.For example, this API can be used to get information related to: Extranet Account Lockouts, Total Failed Requests, Outstanding Token Requests (Proxy), Token Requests /sec etc for ADFederation service. NTLM Authentications/sec, LDAP Successful Binds/sec, LDAP Bind Time, LDAP Active Threads, Kerberos Authentications/sec, ATQ Threads Total etc for ADDomain Service. Run Profile Latency, TCP Connections Established, Insights Agent Private Bytes,Export Statistics to Azure AD for Sync Service.",
+  "IsDataAction": false
+}

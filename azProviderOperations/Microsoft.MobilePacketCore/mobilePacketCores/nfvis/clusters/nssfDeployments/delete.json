@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/nssfDeployments/delete",
+  "OperationName": "NssfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/nssfDeployments",
+  "Description": "Deletes the specified Mobile Packet Core Network Slice Selection Function Deployment resource.",
+  "IsDataAction": false
+}

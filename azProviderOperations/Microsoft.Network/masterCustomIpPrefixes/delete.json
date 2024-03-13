@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/masterCustomIpPrefixes/delete",
+  "OperationName": "Delete Master Custom Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Master Custom Ip Prefix",
+  "Description": "Deletes A Master Custom Ip Prefix",
+  "IsDataAction": false
+}

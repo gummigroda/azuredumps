@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/unregister/action",
+  "OperationName": "Unregister the Microsoft Purview provider",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft Purview provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyContainerGroupPools/delete",
+  "OperationName": "StandbyContainerGroupPools_Delete",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyContainerGroupPools",
+  "Description": "Delete a StandbyContainerGroupPoolResource",
+  "IsDataAction": false
+}

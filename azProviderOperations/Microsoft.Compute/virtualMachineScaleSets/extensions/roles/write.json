@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/extensions/roles/write",
+  "OperationName": "Update properties of Role in a Virtual Machine Scale Set with the Virtual Machine Runtime Service Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "VirtualMachineScaleSet Extensions Role",
+  "Description": "Updates the properties of an existing Role in a Virtual Machine Scale Set with the Virtual Machine Runtime Service Extension",
+  "IsDataAction": false
+}

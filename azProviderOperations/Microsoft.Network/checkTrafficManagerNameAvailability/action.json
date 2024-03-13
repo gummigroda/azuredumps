@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/checkTrafficManagerNameAvailability/action",
+  "OperationName": "Check Traffic Manager Name Availability",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "Checks the availability of a Traffic Manager Relative DNS name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/management/model/delete",
+  "OperationName": "Delete Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Delete model artifacts.",
+  "IsDataAction": true
+}

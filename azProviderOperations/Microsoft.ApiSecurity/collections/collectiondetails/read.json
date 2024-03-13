@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/collections/collectiondetails/read",
+  "OperationName": "ApiSecurityCollectionDetails_Get",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "collections/collectiondetails",
+  "Description": "Get a specific collection detail by name",
+  "IsDataAction": false
+}

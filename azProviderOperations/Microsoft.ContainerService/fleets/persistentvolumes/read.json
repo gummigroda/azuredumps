@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/persistentvolumes/read",
+  "OperationName": "Gets/List persistentvolumes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Persistentvolumes",
+  "Description": "Reads persistentvolumes",
+  "IsDataAction": true
+}

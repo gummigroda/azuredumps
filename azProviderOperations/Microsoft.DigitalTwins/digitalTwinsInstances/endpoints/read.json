@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/read",
+  "OperationName": "Read Endpoint",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Endpoint",
+  "Description": "Read any Endpoint of a Digital Twins resource",
+  "IsDataAction": false
+}

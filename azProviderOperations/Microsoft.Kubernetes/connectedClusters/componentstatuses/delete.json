@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/componentstatuses/delete",
+  "OperationName": "Deletes/DeletesCollection componentstatuses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "componentstatuses",
+  "Description": "Deletes componentstatuses",
+  "IsDataAction": true
+}

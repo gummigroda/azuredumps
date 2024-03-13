@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/readBackups/action",
+  "OperationName": "Read Backups",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Determine if user is allowed to read backups",
+  "IsDataAction": false
+}

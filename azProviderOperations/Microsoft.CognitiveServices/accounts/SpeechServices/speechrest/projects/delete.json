@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/projects/delete",
+  "OperationName": "Delete a project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Projects",
+  "Description": "Delete a project",
+  "IsDataAction": true
+}

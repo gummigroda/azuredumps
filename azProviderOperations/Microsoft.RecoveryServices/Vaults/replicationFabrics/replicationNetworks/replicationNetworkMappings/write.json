@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationNetworks/replicationNetworkMappings/write",
+  "OperationName": "Create or Update Network Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Network Mappings",
+  "Description": "Create or Update any Network Mappings",
+  "IsDataAction": false
+}

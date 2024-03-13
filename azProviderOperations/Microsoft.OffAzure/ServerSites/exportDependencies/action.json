@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/exportDependencies/action",
+  "OperationName": "Export entire servers machines dependency map",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Export the machine Dependency map information of entire Server site machine inventory",
+  "IsDataAction": false
+}

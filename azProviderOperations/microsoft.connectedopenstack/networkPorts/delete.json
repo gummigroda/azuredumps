@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networkPorts/delete",
+  "OperationName": "NetworkPorts_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networkPorts",
+  "Description": "Implements NetworkPort DELETE method.",
+  "IsDataAction": false
+}

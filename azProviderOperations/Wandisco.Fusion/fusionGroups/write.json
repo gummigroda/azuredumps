@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "FusionGroups",
+  "Description": "Create or update fusionGroup resource.",
+  "IsDataAction": false
+}

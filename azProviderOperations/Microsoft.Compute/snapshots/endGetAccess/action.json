@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/snapshots/endGetAccess/action",
+  "OperationName": "Revoke Snapshot SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Snapshots",
+  "Description": "Revoke the SAS URI of the Snapshot",
+  "IsDataAction": false
+}

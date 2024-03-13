@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/privateEndpointConnectionProxyOperationResults/read",
+  "OperationName": "Get PrivateEndpointConnectionProxyOperationResults",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "PrivateEndpointConnectionProxyOperation Results",
+  "Description": "Get the results of Private Endpoint Connection Proxy operation",
+  "IsDataAction": false
+}

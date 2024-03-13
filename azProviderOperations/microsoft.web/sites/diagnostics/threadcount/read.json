@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/threadcount/read",
+  "OperationName": "Get Web Apps Diagnostics Thread Count",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Thread Count",
+  "Description": "Get Web Apps Diagnostics Thread Count.",
+  "IsDataAction": false
+}

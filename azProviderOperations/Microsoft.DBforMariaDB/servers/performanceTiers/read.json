@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/performanceTiers/read",
+  "OperationName": "List Performance Tiers",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Performance Tiers",
+  "Description": "Returns the list of Performance Tiers available.",
+  "IsDataAction": false
+}

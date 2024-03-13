@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get managed instance metric definitions",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Metric Definition",
+  "Description": "Return types of metrics that are available for managed instances",
+  "IsDataAction": false
+}

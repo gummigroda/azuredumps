@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/rbac.authorization.k8s.io/roles/escalate/action",
+  "OperationName": "Escalate roles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Roles",
+  "Description": "Escalates roles",
+  "IsDataAction": true
+}

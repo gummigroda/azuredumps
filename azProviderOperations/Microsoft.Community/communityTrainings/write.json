@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/communityTrainings/write",
+  "OperationName": "CommunityTrainings_Update",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "communityTrainings",
+  "Description": "Update a CommunityTraining",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/externalPolicyBasedAuthorizations/write",
+  "OperationName": "Adds or updates a specific server external policy based authorization property",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "External policy based authorization",
+  "Description": "Adds or updates a specific server external policy based authorization property",
+  "IsDataAction": false
+}

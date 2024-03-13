@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/consoleServices/read",
+  "OperationName": "Default",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Retrieves the current subscription state",
+  "IsDataAction": false
+}

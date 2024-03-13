@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/read",
+  "OperationName": "Get Enterprise Policy definition",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Enterprise Policy",
+  "Description": "Gets enterprise policy",
+  "IsDataAction": false
+}

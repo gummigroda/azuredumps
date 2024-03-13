@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/global/prebuilts/read",
+  "OperationName": "AnalyzeConversations_CLU_Projects_GetSupportedPrebuilts",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "prebuilts*",
+  "Description": "Get list of Supported prebuilts for conversational projects.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/shares/delete",
+  "OperationName": "Delete Share",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Share",
+  "Description": "Delete a share.",
+  "IsDataAction": false
+}

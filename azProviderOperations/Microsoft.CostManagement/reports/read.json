@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/reports/read",
+  "OperationName": "Get Scheduled reports usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Reports",
+  "Description": "Schedule reports on usage data by a scope.",
+  "IsDataAction": false
+}

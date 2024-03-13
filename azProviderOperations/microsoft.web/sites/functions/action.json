@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/action",
+  "OperationName": "Functions Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Functions Web Apps.",
+  "IsDataAction": false
+}

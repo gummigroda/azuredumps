@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/certificates.k8s.io/certificatesigningrequests/delete",
+  "OperationName": "Deletes/DeletesCollection certificatesigningrequests resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "certificatesigningrequests",
+  "Description": "Deletes certificatesigningrequests",
+  "IsDataAction": true
+}

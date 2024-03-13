@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/shutdown/action",
+  "OperationName": "Shutdown Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Shutdown the virtual machine.",
+  "IsDataAction": false
+}

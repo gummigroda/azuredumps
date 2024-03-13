@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/configSnapshots/getManifest/action",
+  "OperationName": "ConfigSnapshots_GetManifest",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/configSnapshots",
+  "Description": "action getManifest",
+  "IsDataAction": false
+}

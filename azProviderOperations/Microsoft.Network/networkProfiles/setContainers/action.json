@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkProfiles/setContainers/action",
+  "OperationName": "Sets containers",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Profile",
+  "Description": "Sets Containers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/unregister/action",
+  "OperationName": "Unregister the Microsoft.StorageMover",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.StorageMover",
+  "IsDataAction": false
+}

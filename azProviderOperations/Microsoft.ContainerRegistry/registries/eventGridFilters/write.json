@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid Filter",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/EventGridFilters",
+  "Description": "Creates or updates an event grid filter for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

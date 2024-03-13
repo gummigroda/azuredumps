@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/volumeattachments/read",
+  "OperationName": "Gets/List volumeattachments resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "volumeattachments",
+  "Description": "Reads volumeattachments",
+  "IsDataAction": true
+}

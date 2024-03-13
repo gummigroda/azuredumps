@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/PTR/read",
+  "OperationName": "Get record set of type PTR",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS PTR record set",
+  "Description": "Get the record set of type ‘PTR’ within a Private DNS zone, in JSON format. The record set contains a list of records as well as the TTL, tags, and etag.",
+  "IsDataAction": false
+}

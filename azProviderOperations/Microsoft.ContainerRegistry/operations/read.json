@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/operations/read",
+  "OperationName": "Container Registry Resource Provider Operations",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "",
+  "Description": "Lists all of the available Azure Container Registry REST API operations",
+  "IsDataAction": false
+}

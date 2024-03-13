@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/runHealthChecks/action",
+  "OperationName": "Pools_RunHealthChecks",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools",
+  "Description": "Triggers a refresh of the pool status.",
+  "IsDataAction": false
+}

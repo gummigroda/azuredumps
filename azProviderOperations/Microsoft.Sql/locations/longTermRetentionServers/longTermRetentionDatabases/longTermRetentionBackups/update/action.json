@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionServers/longTermRetentionDatabases/longTermRetentionBackups/update/action",
+  "OperationName": "Update a long term retention backup",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "LongTerm Retention Backup",
+  "Description": "Update a long term retention backup",
+  "IsDataAction": false
+}

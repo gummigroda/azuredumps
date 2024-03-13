@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policy/write",
+  "OperationName": "Create Tenant policy",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Create policy configuration at Tenant level",
+  "IsDataAction": false
+}

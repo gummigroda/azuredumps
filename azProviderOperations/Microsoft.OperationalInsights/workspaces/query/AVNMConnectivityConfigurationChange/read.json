@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AVNMConnectivityConfigurationChange/read",
+  "OperationName": "Read AVNMConnectivityConfigurationChange data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AVNMConnectivityConfigurationChange",
+  "Description": "Read data from the AVNMConnectivityConfigurationChange table",
+  "IsDataAction": false
+}

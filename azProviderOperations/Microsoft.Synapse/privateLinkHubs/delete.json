@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/delete",
+  "OperationName": "Delete PrivateLinkHubs.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "PrivateLinkHubs",
+  "Description": "Delete PrivateLinkHubs.",
+  "IsDataAction": false
+}

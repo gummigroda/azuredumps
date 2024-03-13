@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BehaviorAnalytics/Read",
+  "OperationName": "Read BehaviorAnalytics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BehaviorAnalytics",
+  "Description": "Read data from the BehaviorAnalytics table",
+  "IsDataAction": false
+}

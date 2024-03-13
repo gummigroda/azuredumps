@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppPerformanceCounters/Read",
+  "OperationName": "Read AppPerformanceCounters data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppPerformanceCounters",
+  "Description": "Read data from the AppPerformanceCounters table",
+  "IsDataAction": false
+}

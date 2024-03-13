@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "Approve Private Endpoint Connections",
+  "IsDataAction": false
+}

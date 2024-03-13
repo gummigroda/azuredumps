@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WindowsFirewall/Read",
+  "OperationName": "Read WindowsFirewall data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WindowsFirewall",
+  "Description": "Read data from the WindowsFirewall table",
+  "IsDataAction": false
+}

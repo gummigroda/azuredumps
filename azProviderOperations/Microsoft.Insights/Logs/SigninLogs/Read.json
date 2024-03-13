@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SigninLogs/Read",
+  "OperationName": "Read SigninLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SigninLogs",
+  "Description": "Read data from the SigninLogs table",
+  "IsDataAction": false
+}

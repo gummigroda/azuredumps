@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/reimageAll/action",
+  "OperationName": "Reimage all Disks for a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Reimages all disks (OS Disk and Data Disks) for the instances of a Virtual Machine Scale Set ",
+  "IsDataAction": false
+}

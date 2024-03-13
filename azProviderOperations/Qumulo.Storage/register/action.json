@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/register/action",
+  "OperationName": "Register the Qumulo.Storage",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "",
+  "Description": "Register the subscription for Qumulo.Storage",
+  "IsDataAction": false
+}

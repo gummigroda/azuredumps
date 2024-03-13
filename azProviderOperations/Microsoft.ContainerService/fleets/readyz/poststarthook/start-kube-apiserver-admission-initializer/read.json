@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/readyz/poststarthook/start-kube-apiserver-admission-initializer/read",
+  "OperationName": "Gets/List start-kube-apiserver-admission-initializer resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Start-Kube-Apiserver-Admission-Initializer",
+  "Description": "Reads start-kube-apiserver-admission-initializer",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/organizations/delete",
+  "OperationName": "Organizations_Delete",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "organizations",
+  "Description": "Delete a OrganizationResource",
+  "IsDataAction": false
+}

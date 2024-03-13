@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/write",
+  "OperationName": "NetworkCloudControllers_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Create a NetworkCloudController resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/listcustomhostnameanalysis/action",
+  "OperationName": "List Container App Custom Host Name Anaylysis",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App",
+  "Description": "List custom host name analysis result",
+  "IsDataAction": false
+}

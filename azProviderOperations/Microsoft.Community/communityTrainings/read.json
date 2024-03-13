@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/communityTrainings/read",
+  "OperationName": "CommunityTrainings_Get",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "communityTrainings",
+  "Description": "Get a CommunityTraining",
+  "IsDataAction": false
+}

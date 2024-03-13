@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/read",
+  "OperationName": "Get MACC",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "MACC",
+  "Description": "Read all MACCs",
+  "IsDataAction": false
+}

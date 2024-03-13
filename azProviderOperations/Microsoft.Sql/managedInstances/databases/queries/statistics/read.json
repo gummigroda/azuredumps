@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/queries/statistics/read",
+  "OperationName": "Get query execution statistics by query id",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Query execution statistics.",
+  "Description": "Get query execution statistics by query id",
+  "IsDataAction": false
+}

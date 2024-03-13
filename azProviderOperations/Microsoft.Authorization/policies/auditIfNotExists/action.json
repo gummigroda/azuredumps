@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policies/auditIfNotExists/action",
+  "OperationName": "'auditIfNotExists' Policy action.",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy evaluation",
+  "Description": "Action taken as a result of evaluation of Azure Policy with 'auditIfNotExists' effect",
+  "IsDataAction": false
+}

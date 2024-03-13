@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/delete",
+  "OperationName": "Delete service fabrics.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service Fabrics",
+  "Description": "Delete service fabrics.",
+  "IsDataAction": false
+}

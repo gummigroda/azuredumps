@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deployments/read",
+  "OperationName": "AnalyzeText_Deployments_GetDeployment|AnalyzeText_Deployments_GetDeploymentsList*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Get a deployment info.\r\nList all deployments.*",
+  "IsDataAction": true
+}

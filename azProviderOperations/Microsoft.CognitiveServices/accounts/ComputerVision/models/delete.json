@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/models/delete",
+  "OperationName": "DeleteModel",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Delete a custom model. A model can be deleted if it is in one of the 'Succeeded', 'Failed', or 'Canceled' states.",
+  "IsDataAction": true
+}

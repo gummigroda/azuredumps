@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/models/endpointscoreshistory/read",
+  "OperationName": "endpointscoreshistory - GetModelEndpointTopScoresHistory",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "endpointscoreshistory*",
+  "Description": "Gets the number of times the intent model scored as the top intent history given timeframe",
+  "IsDataAction": true
+}

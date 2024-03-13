@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/connections/read",
+  "OperationName": "Read an Azure Automation connection asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Connection Asset",
+  "Description": "Gets an Azure Automation connection asset",
+  "IsDataAction": false
+}

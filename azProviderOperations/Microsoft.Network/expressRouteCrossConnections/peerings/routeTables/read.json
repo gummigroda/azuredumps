@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/peerings/routeTables/read",
+  "OperationName": "Get Express Route Cross Connection Peering Route Table",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection Peering Route Table",
+  "Description": "Gets an Express Route Cross Connection Peering Route Table",
+  "IsDataAction": false
+}

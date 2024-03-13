@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/delete",
+  "OperationName": "Delete Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Deletes a workspace. If the workspace was linked to an existing workspace at creation time then the workspace it was linked to is not deleted.",
+  "IsDataAction": false
+}

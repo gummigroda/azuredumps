@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseMccCustomers/enterpriseMccCacheNodes/getCacheNodeInstallDetails/action",
+  "OperationName": "EnterpriseMccCacheNodesOperations_GetCacheNodeInstallDetails",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseMccCustomers/enterpriseMccCacheNodes",
+  "Description": "This api gets secrets of the ispCacheNode resource install details",
+  "IsDataAction": false
+}

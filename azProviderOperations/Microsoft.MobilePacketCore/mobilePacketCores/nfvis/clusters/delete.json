@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/delete",
+  "OperationName": "Clusters_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters",
+  "Description": "Deletes the specified Mobile Packet Core Cluster resource",
+  "IsDataAction": false
+}

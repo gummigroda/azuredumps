@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/start/action",
+  "OperationName": "Start Search Service",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Starts the search service.",
+  "IsDataAction": false
+}

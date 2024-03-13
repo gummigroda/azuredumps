@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/smfDeployments/read",
+  "OperationName": "SmfDeployments_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "smfDeployments",
+  "Description": "Get a SmfDeploymentResource",
+  "IsDataAction": false
+}

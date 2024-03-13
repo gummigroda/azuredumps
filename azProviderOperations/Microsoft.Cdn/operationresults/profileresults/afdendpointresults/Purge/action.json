@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/afdendpointresults/Purge/action",
+  "OperationName": "Purge",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdEndpoint",
+  "Description": null,
+  "IsDataAction": false
+}

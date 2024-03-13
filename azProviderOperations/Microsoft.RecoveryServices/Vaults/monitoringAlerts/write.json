@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/monitoringAlerts/write",
+  "OperationName": "Resolve alert",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Resolves the alert.",
+  "IsDataAction": false
+}

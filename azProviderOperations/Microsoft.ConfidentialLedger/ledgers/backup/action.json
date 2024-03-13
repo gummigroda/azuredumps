@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/ledgers/backup/action",
+  "OperationName": "Ledger_Backup",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "ledgers",
+  "Description": "Backs up a Confidential Ledger Resource.",
+  "IsDataAction": false
+}

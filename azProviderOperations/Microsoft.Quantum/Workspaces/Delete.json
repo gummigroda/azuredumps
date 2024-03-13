@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quantum/Workspaces/Delete",
+  "OperationName": "Deletes workspace resource",
+  "ProviderNamespace": "Microsoft.Quantum",
+  "ResourceName": "Workspaces",
+  "Description": "Deletes Workspace",
+  "IsDataAction": false
+}

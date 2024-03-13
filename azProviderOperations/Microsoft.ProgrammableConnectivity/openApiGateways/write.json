@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/openApiGateways/write",
+  "OperationName": "OpenApiGateways_Update",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "openApiGateways",
+  "Description": "Update an OpenAPI Gateway",
+  "IsDataAction": false
+}

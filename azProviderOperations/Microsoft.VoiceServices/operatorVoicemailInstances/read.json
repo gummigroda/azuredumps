@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/operatorVoicemailInstances/read",
+  "OperationName": "OperatorVoicemailInstances_Get",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "operatorVoicemailInstances",
+  "Description": "Get a OperatorVoicemailInstance",
+  "IsDataAction": false
+}

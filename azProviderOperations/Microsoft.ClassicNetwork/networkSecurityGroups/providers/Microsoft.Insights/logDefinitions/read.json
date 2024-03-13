@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networksecuritygroups/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Network Security Group Event Log Definitions",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Network Security Groups Log Definitions",
+  "Description": "Gets the events for network security group",
+  "IsDataAction": false
+}

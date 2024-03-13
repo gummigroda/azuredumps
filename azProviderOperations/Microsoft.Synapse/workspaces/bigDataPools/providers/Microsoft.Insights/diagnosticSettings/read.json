@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/bigDataPools/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Big Data Pool diagnostic settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces/bigDataPools",
+  "Description": "Gets the diagnostic settings for a Big Data Pool",
+  "IsDataAction": false
+}

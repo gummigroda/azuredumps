@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update Private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "PrivateEndpointConnectionProxies",
+  "Description": "Create a new Private endpoint connection proxy on a Batch account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/orderItems/cancel/action",
+  "OperationName": "Cancel OrderItem",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "OrderItem",
+  "Description": "Cancels an OrderItem in progress.",
+  "IsDataAction": false
+}

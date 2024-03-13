@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/node.k8s.io/runtimeclasses/read",
+  "OperationName": "Gets/List runtimeclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "runtimeclasses",
+  "Description": "Reads runtimeclasses",
+  "IsDataAction": true
+}

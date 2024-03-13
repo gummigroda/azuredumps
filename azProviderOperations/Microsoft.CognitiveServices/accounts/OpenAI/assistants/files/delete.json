@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/files/delete",
+  "OperationName": "Delete assistant file",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Delete assistant file.",
+  "IsDataAction": true
+}

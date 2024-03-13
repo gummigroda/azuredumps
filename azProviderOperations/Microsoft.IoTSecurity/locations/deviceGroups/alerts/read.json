@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/alerts/read",
+  "OperationName": "Get IoT Alerts",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Alerts",
+  "Description": "Gets IoT Alerts",
+  "IsDataAction": false
+}

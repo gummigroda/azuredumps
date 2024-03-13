@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/push/write",
+  "OperationName": "Push images to container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Push or Write images to a container registry.",
+  "IsDataAction": false
+}

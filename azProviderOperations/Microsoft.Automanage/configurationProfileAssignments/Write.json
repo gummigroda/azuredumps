@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfileAssignments/Write",
+  "OperationName": "Create or Update Configuration Profile Assignments",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage Configuration Profile Assignments",
+  "Description": "Create or Update any Configuration Profile Assignments",
+  "IsDataAction": false
+}

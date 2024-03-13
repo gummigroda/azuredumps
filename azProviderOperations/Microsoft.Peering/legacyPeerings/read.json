@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/legacyPeerings/read",
+  "OperationName": "Read LegacyPeering",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "legacyPeerings",
+  "Description": "Read any legacyPeerings",
+  "IsDataAction": false
+}

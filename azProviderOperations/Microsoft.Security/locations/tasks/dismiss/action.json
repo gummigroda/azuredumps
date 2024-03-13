@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/tasks/dismiss/action",
+  "OperationName": "Dismiss Recommendation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Recommendations",
+  "Description": "Dismiss a security recommendation",
+  "IsDataAction": false
+}

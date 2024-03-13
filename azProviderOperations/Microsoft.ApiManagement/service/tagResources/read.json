@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tagResources/read",
+  "OperationName": "Get Tags Resources",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "TagResources",
+  "Description": "Lists a collection of resources associated with tags.",
+  "IsDataAction": false
+}

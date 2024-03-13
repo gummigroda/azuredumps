@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/validateDomainRegistrationInformation/Action",
+  "OperationName": "Domain Purchase Info Validation",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "",
+  "Description": "Validate domain purchase object without submitting it",
+  "IsDataAction": false
+}

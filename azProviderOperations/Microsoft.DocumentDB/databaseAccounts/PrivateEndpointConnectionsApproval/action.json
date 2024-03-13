@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/PrivateEndpointConnectionsApproval/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Manage a private endpoint connection of Database Account",
+  "IsDataAction": false
+}

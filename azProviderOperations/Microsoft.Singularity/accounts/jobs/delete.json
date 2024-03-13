@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/jobs/delete",
+  "OperationName": "Remove Singularity Job",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Job",
+  "Description": "Removes Singularity Job",
+  "IsDataAction": false
+}

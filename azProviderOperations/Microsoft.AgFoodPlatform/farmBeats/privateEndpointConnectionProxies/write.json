@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update AgFoodPlatform Private endpoint connection proxies.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connection proxies",
+  "Description": "Creates or Updates AgFoodPlatform Private endpoint connection proxies.",
+  "IsDataAction": false
+}

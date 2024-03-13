@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/dashboards/write",
+  "OperationName": "Set Dashboard",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Dashboards",
+  "Description": "Add or modify dashboard to a subscription.",
+  "IsDataAction": false
+}

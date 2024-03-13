@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/providers/Microsoft.Insights/diagnosticSettings/Write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspaces",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

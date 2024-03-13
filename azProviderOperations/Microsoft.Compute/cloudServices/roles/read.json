@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roles/read",
+  "OperationName": "Gets a role from a CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CloudService Roles",
+  "Description": "Gets a role from a CloudService.",
+  "IsDataAction": false
+}

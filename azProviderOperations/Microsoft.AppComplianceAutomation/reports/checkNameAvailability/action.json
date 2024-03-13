@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/checkNameAvailability/action",
+  "OperationName": "Reports_NestedResourceCheckNameAvailability",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Checks the report's nested resource name availability, e.g: Webhooks, Evidences, Snapshots.",
+  "IsDataAction": false
+}

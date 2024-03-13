@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/read",
+  "OperationName": "View Managed HSM",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "View the properties of a Managed HSM",
+  "IsDataAction": false
+}

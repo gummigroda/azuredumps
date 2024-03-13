@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/read",
+  "OperationName": "Read Spacecraft",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Spacecrafts",
+  "Description": "Read any Spacecraft",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action",
+  "OperationName": "Trigger cross region restore.",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "Triggers cross region restore operation on given backup instance.",
+  "IsDataAction": false
+}

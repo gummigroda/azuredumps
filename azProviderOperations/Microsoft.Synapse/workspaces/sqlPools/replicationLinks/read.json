@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/replicationLinks/read",
+  "OperationName": "Read SQL Analytics pool Replication Links.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Replication Links",
+  "Description": "Read any SQL Analytics pool Replication Links.",
+  "IsDataAction": false
+}

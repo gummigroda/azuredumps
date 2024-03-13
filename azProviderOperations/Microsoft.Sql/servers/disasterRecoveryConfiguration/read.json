@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/disasterRecoveryConfiguration/read",
+  "OperationName": "Get details about disaster recovery configurations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Disaster Recovery Configuration",
+  "Description": "Gets a collection of disaster recovery configurations that include this server",
+  "IsDataAction": false
+}

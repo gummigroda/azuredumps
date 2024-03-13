@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/portals/delete",
+  "OperationName": "Delete portal configuration",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Portal",
+  "Description": "Deletes specified configuration.",
+  "IsDataAction": false
+}

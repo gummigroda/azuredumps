@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/triggerChangeDetection/action",
+  "OperationName": "triggerChangeDetection",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Cloud Endpoints",
+  "Description": "Call this action to trigger detection of changes on a cloud endpoint's file share",
+  "IsDataAction": false
+}

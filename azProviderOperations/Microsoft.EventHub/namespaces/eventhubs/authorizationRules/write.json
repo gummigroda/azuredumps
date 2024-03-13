@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/authorizationRules/write",
+  "OperationName": "Create or Update EventHub Authorization Rule",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub AuthorizationRules",
+  "Description": "Create EventHub Authorization Rules and Update its properties. The Authorization Rules Access Rights can be updated.",
+  "IsDataAction": false
+}

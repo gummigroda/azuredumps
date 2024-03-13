@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/IdentityQueryEvents/read",
+  "OperationName": "Read IdentityQueryEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "IdentityQueryEvents",
+  "Description": "Read data from the IdentityQueryEvents table",
+  "IsDataAction": false
+}

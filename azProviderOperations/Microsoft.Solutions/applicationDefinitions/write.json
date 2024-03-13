@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applicationDefinitions/write",
+  "OperationName": "ApplicationDefinitions_Update",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applicationDefinitions",
+  "Description": "Updates the managed application definition.",
+  "IsDataAction": false
+}

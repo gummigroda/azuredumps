@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Project/Delete",
+  "OperationName": "Deletes the Project",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Project",
+  "Description": "Delete Project",
+  "IsDataAction": false
+}

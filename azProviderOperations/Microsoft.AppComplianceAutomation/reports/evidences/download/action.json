@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/evidences/download/action",
+  "OperationName": "Evidences_Download",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/evidences",
+  "Description": "Download evidence file.",
+  "IsDataAction": false
+}

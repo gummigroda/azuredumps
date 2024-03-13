@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/targets/delete",
+  "OperationName": "Targets_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "targets",
+  "Description": "Delete a Target",
+  "IsDataAction": false
+}

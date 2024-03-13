@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/run/action",
+  "OperationName": "Run Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Starts a run of the workflow.",
+  "IsDataAction": false
+}

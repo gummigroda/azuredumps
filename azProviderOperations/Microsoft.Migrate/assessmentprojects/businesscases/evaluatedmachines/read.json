@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/evaluatedmachines/read",
+  "OperationName": "Get Evaluated Machine",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Evaluated Machines",
+  "Description": "Get the properties of an evaluated machine",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/runasaccounts/read",
+  "OperationName": "Get Hyper-V run as accounts",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "RunAsAccounts",
+  "Description": "Gets the properties of a Hyper-V run as accounts",
+  "IsDataAction": false
+}

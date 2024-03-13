@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/migrateToManualThroughput/action",
+  "OperationName": "Migrate a SQL container throughput offer to manual throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Container throughput setting",
+  "Description": "Migrate a SQL container throughput offer to manual throughput.",
+  "IsDataAction": false
+}

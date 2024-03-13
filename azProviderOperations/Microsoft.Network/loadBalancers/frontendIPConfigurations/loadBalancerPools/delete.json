@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/frontendIPConfigurations/loadBalancerPools/delete",
+  "OperationName": "Delete load balancer frontend IP address backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Frontend IP Configuration backend address pool",
+  "Description": "Deletes a load balancer frontend IP address backend pool",
+  "IsDataAction": false
+}

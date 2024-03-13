@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/recommendedSensitivityLabels/read",
+  "OperationName": "Read SQL Analytics pool Recommended Sensitivity Labels.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Recommended Sensitivity Labels",
+  "Description": "Read any SQL Analytics pool Recommended Sensitivity Labels.",
+  "IsDataAction": false
+}

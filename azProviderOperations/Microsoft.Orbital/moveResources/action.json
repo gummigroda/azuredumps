@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/moveResources/action",
+  "OperationName": "Moves Terminal to across different resourceGroup or/and subscription",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "",
+  "Description": "Moves Terminal to the given resourceGroup or/and subscription.",
+  "IsDataAction": false
+}

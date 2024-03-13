@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "FusionGroups",
+  "Description": "Delete a fusionGroup resource.",
+  "IsDataAction": false
+}

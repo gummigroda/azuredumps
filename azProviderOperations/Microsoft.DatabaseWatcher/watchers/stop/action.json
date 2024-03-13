@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/stop/action",
+  "OperationName": "Watchers_Stop",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers",
+  "Description": "The action to stop monitoring all targets configured for a database watcher.",
+  "IsDataAction": false
+}

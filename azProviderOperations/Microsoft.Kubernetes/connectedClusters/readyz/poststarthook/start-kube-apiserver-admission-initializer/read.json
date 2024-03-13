@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/poststarthook/start-kube-apiserver-admission-initializer/read",
+  "OperationName": "Gets/List start-kube-apiserver-admission-initializer resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/poststarthook/start-kube-apiserver-admission-initializer",
+  "Description": "Reads start-kube-apiserver-admission-initializer",
+  "IsDataAction": true
+}

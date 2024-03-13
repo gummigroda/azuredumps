@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/applyfromevaluation/action",
+  "OperationName": "Apply Learning Settings and model from a pre-existing Offline Evaluation, making them the current online Learning Settings and model and replacing the previous ones.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "configurations*",
+  "Description": "Apply Learning Settings and model from a pre-existing Offline Evaluation, making them the current online Learning Settings and model and replacing the previous ones.",
+  "IsDataAction": true
+}

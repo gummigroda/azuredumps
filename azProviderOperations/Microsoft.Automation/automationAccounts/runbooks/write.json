@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/write",
+  "OperationName": "Create or Update an Azure Automation Runbook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook",
+  "Description": "Creates or updates an Azure Automation runbook",
+  "IsDataAction": false
+}

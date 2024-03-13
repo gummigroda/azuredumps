@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/deployments/delete",
+  "OperationName": "Deployments_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups/deployments",
+  "Description": "Delete a Deployment. '.default' and '.unassigned' are system defined values and cannot be used for product or device group name.",
+  "IsDataAction": false
+}

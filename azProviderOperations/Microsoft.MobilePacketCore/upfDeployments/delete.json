@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/upfDeployments/delete",
+  "OperationName": "UpfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "upfDeployments",
+  "Description": "Delete a UpfDeploymentResource",
+  "IsDataAction": false
+}

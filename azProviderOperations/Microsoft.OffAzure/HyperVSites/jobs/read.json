@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/jobs/read",
+  "OperationName": "Get Hyper-V jobs",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Jobs",
+  "Description": "Gets the properties of a Hyper-V jobs",
+  "IsDataAction": false
+}

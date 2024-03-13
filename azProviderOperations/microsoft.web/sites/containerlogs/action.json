@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/containerlogs/action",
+  "OperationName": "Get Zipped Container Logs for Web App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Get Zipped Container Logs for Web App.",
+  "IsDataAction": false
+}

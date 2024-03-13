@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureFirewalls/applicationRuleCollections/write",
+  "OperationName": "CreateOrUpdate Azure Firewall ApplicationRuleCollection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Applicatiion Rule Collection",
+  "Description": "CreatesOrUpdates Azure Firewall ApplicationRuleCollection",
+  "IsDataAction": false
+}

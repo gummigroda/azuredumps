@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnectionProxies/read",
+  "OperationName": "Get PrivateEndpointConnectionProxy",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnection proxies",
+  "Description": "Get the properties of a private endpoint connection proxy",
+  "IsDataAction": false
+}

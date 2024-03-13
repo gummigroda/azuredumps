@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/register/action",
+  "OperationName": "Register the Microsoft.ManagedNetworkFabric",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ManagedNetworkFabric",
+  "IsDataAction": false
+}

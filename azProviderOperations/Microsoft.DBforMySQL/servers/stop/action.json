@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/stop/action",
+  "OperationName": "Stop MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Stops a specific server.",
+  "IsDataAction": false
+}

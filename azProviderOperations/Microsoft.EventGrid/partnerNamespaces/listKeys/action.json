@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/listKeys/action",
+  "OperationName": "List PartnerNamespace keys",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerNamespaces",
+  "Description": "List keys for a partner namespace",
+  "IsDataAction": false
+}

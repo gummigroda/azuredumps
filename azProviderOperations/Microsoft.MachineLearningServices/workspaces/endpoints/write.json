@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/endpoints/write",
+  "OperationName": "Creates or Updates the Machine Learning Services endpoint",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Endpoint",
+  "Description": "Creates or Updates the Machine Learning Services endpoint",
+  "IsDataAction": false
+}

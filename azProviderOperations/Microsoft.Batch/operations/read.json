@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/operations/read",
+  "OperationName": "List Available Batch Operations",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Available Batch Operations",
+  "Description": "Lists operations available on Microsoft.Batch resource provider",
+  "IsDataAction": false
+}

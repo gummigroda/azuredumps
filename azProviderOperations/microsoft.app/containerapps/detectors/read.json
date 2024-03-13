@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/detectors/read",
+  "OperationName": "Read Container App Detector",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App Detector",
+  "Description": "Get detector of a container app",
+  "IsDataAction": false
+}

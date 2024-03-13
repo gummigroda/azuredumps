@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/locations/validateDeleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Validates deleting Vnet or subnet for Locations",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Locations",
+  "Description": "Validates deleting Vnet or subnet for Locations",
+  "IsDataAction": false
+}

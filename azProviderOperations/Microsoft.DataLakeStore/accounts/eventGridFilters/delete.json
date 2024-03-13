@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/eventGridFilters/delete",
+  "OperationName": "Delete EventGrid Filter",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "EventGrid Filter",
+  "Description": "Delete an EventGrid Filter.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/updateGatewaySettings/action",
+  "OperationName": "Update gateway settings",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Update gateway settings for HDInsight Cluster",
+  "IsDataAction": false
+}

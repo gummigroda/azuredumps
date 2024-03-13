@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UserAccessAnalytics/read",
+  "OperationName": "Read UserAccessAnalytics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UserAccessAnalytics",
+  "Description": "Read data from the UserAccessAnalytics table",
+  "IsDataAction": false
+}

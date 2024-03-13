@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/properties/read",
+  "OperationName": "Get properties of Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Get properties of spatial anchors",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/natGateways/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Nat Gateway metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Nat Gateway metric definition",
+  "Description": "Gets the available metrics for Nat Gateway",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

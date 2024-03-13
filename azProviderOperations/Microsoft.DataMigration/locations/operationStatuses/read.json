@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/locations/operationStatuses/read",
+  "OperationName": "Get the status of a long-running operation",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Get the status of a long-running operation related to a 202 Accepted response",
+  "IsDataAction": false
+}

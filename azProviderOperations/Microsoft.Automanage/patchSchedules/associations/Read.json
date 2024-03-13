@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchSchedules/associations/Read",
+  "OperationName": "Read Patch Schedule Association",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Schedule Association",
+  "Description": "Get a patch schedule association.",
+  "IsDataAction": false
+}

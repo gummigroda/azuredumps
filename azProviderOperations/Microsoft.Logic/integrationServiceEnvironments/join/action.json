@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/join/action",
+  "OperationName": "Join Integration Service Environment",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment",
+  "Description": "Joins the Integration Service Environment.",
+  "IsDataAction": false
+}

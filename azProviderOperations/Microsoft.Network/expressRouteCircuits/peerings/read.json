@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/read",
+  "OperationName": "Get ExpressRouteCircuit Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitPeering",
+  "Description": "Gets an ExpressRouteCircuit Peering",
+  "IsDataAction": false
+}

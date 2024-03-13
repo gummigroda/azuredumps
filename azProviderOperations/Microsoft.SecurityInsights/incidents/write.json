@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/write",
+  "OperationName": "Update Incidents",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incidents",
+  "Description": "Updates an incident",
+  "IsDataAction": false
+}

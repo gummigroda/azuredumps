@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/read",
+  "OperationName": "Read a Hybrid Runbook Worker Group",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Hybrid Runbook Worker Group Resource Type",
+  "Description": "Reads a Hybrid Runbook Worker Group",
+  "IsDataAction": false
+}

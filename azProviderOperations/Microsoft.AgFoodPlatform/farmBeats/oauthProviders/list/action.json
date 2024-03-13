@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/oauthProviders/list/action",
+  "OperationName": "List AgFoodPlatform oauth provider resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform oauth providers",
+  "Description": "List(s) existing AgFoodPlatform oauth provider resource(s).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/scanForUpdates/action",
+  "OperationName": "Scan for updates",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Scan for updates",
+  "IsDataAction": false
+}

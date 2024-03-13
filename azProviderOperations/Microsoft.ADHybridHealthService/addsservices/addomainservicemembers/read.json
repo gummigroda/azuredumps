@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/addomainservicemembers/read",
+  "OperationName": "Gets all servers.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets all servers for the specified service name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/maps/read",
+  "OperationName": "Get Integration Account Map",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Map",
+  "Description": "Reads the map in integration account.",
+  "IsDataAction": false
+}

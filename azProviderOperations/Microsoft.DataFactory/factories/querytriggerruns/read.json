@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/querytriggerruns/read",
+  "OperationName": "Read the Result of Query Trigger Runs",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads the Result of Trigger Runs.",
+  "IsDataAction": false
+}

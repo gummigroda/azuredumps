@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/delete",
+  "OperationName": "AnalyzeConversations_Projects_DeleteProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Deletes a project.",
+  "IsDataAction": true
+}

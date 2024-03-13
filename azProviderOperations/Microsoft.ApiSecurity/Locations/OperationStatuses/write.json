@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

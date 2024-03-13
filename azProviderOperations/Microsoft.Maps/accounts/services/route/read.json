@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/route/read",
+  "OperationName": "Route Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Route",
+  "Description": "Allows reading of data for Route services.",
+  "IsDataAction": true
+}

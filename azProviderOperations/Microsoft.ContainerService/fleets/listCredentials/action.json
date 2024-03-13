@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/listCredentials/action",
+  "OperationName": "List fleet credentials",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Fleets",
+  "Description": "List fleet credentials",
+  "IsDataAction": false
+}

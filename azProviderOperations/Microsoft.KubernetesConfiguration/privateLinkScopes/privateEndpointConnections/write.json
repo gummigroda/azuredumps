@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections",
+  "Description": "Creates or updates private endpoint connection.",
+  "IsDataAction": false
+}

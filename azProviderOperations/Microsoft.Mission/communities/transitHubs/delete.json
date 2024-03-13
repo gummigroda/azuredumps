@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/transitHubs/delete",
+  "OperationName": "TransitHub_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/transitHubs",
+  "Description": "Delete a TransitHubResource",
+  "IsDataAction": false
+}

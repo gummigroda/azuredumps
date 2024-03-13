@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/move/action",
+  "OperationName": "Move applicationgroups",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Move a applicationgroups to another resource group",
+  "IsDataAction": false
+}

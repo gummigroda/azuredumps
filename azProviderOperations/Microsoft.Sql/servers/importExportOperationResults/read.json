@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/importExportOperationResults/read",
+  "OperationName": "Get import/export operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Import/export operation",
+  "Description": "Gets in-progress import/export operations",
+  "IsDataAction": false
+}

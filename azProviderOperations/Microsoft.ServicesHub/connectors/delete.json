@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServicesHub/connectors/delete",
+  "OperationName": "Delete_ServicesHubConnector",
+  "ProviderNamespace": "Microsoft.ServicesHub",
+  "ResourceName": "Connectors",
+  "Description": "Delete Services Hub Connectors",
+  "IsDataAction": false
+}

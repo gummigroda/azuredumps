@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/read",
+  "OperationName": "Read Cluster settings.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters",
+  "Description": "Gets the cluster settings for a PrivateCloud cluster.",
+  "IsDataAction": false
+}

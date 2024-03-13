@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/devices/write",
+  "OperationName": "Update device properties",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Devices",
+  "Description": "Updates device properties",
+  "IsDataAction": false
+}

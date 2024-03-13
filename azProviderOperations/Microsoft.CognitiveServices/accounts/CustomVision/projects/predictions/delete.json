@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/predictions/delete",
+  "OperationName": "DeletePrediction",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "predictions*",
+  "Description": "Delete a set of predicted images and their associated prediction results.",
+  "IsDataAction": true
+}

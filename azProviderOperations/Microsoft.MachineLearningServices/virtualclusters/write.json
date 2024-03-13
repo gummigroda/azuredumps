@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/virtualclusters/write",
+  "OperationName": "Creates or updates a Machine Learning Services Virtual Cluster(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Virtual Cluster",
+  "Description": "Creates or updates a Machine Learning Services Virtual Cluster(s)",
+  "IsDataAction": false
+}

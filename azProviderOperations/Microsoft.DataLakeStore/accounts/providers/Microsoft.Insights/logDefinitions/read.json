@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get DataLakeStore Account log definitions",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Log Definition",
+  "Description": "Get the available logs for the DataLakeStore account.",
+  "IsDataAction": false
+}

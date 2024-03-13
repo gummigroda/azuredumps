@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/seasonalFields/delete",
+  "OperationName": "Delete AgFoodPlatform seasonal fields resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform seasonal fields",
+  "Description": "Deletes an existing AgFoodPlatform seasonal fields resource.",
+  "IsDataAction": true
+}

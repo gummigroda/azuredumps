@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/dataLakeStoreGen2Accounts/delete",
+  "OperationName": "Unlink DataLakeStoreGen2 Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "DataLakeStoreGen2 Account",
+  "Description": "Unlink a DataLakeStoreGen2 account from a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

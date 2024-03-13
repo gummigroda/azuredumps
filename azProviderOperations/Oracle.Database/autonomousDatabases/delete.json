@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/autonomousDatabases/delete",
+  "OperationName": "AutonomousDatabases_Delete",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "autonomousDatabases",
+  "Description": "Delete a AutonomousDatabase",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalSubscriptions/write",
+  "OperationName": "Update externalSubscription",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "ExternalSubscriptions",
+  "Description": "Update associated management group of externalSubscription",
+  "IsDataAction": false
+}

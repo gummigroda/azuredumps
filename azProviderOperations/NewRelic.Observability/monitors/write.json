@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/write",
+  "OperationName": "Create/Update monitor resources",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Write monitors",
+  "IsDataAction": false
+}

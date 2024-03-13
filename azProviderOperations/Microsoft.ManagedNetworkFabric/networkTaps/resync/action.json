@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTaps/resync/action",
+  "OperationName": "NetworkTaps_Resync",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTaps",
+  "Description": "Implements the operation to the underlying resources.",
+  "IsDataAction": false
+}

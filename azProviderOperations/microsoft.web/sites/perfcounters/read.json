@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/perfcounters/read",
+  "OperationName": "Get Web Apps Performance Counters",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Performance Counters",
+  "Description": "Get Web Apps Performance Counters.",
+  "IsDataAction": false
+}

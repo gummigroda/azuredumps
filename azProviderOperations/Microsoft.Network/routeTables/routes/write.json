@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeTables/routes/write",
+  "OperationName": "Create or Update Route",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route",
+  "Description": "Creates a route or Updates an existing route",
+  "IsDataAction": false
+}

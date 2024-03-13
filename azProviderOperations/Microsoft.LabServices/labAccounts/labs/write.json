@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/write",
+  "OperationName": "Add or modify labs.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Labs",
+  "Description": "Add or modify labs.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/ipFlowVerify/action",
+  "OperationName": "Verify Ip Flow",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Returns whether the packet is allowed or denied to or from a particular destination.",
+  "IsDataAction": false
+}

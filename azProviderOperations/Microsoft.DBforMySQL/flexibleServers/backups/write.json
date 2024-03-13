@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/backups/write",
+  "OperationName": "Create MySQL Server Backup",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Backup",
+  "Description": "Creates a server backup with specific backup name.",
+  "IsDataAction": false
+}

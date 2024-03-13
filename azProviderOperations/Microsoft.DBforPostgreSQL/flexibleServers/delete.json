@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/delete",
+  "OperationName": "Delete PostgreSQL server",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Deletes an existing server.",
+  "IsDataAction": false
+}

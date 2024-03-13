@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/policy/poddisruptionbudgets/delete",
+  "OperationName": "Deletes/DeletesCollection poddisruptionbudgets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "poddisruptionbudgets",
+  "Description": "Deletes poddisruptionbudgets",
+  "IsDataAction": true
+}

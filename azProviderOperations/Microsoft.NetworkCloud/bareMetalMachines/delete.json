@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/delete",
+  "OperationName": "BareMetalMachines_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Delete the provided bare metal machine.\nAll customer initiated requests will be rejected as the life cycle of this resource is managed by the system.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/register/action",
+  "OperationName": "Register the Microsoft.ConfidentialLedger",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ConfidentialLedger",
+  "IsDataAction": false
+}

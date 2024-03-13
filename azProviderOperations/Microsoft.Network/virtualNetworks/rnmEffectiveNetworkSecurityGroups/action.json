@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/rnmEffectiveNetworkSecurityGroups/action",
+  "OperationName": "Gets Effective Acls In RNM format",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Gets Security Groups Configured On CA Of The Vnet In Rnm Format",
+  "IsDataAction": false
+}

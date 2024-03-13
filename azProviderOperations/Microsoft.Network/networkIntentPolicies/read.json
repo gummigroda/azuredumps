@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkIntentPolicies/read",
+  "OperationName": "Gets a Network Intent Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Intent Policy",
+  "Description": "Gets an Network Intent Policy Description",
+  "IsDataAction": false
+}

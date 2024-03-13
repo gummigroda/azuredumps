@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/transitHubs/write",
+  "OperationName": "TransitHub_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/transitHubs",
+  "Description": "Update a TransitHubResource",
+  "IsDataAction": false
+}

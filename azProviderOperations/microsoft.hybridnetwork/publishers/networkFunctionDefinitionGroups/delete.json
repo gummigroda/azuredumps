@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/delete",
+  "OperationName": "NetworkFunctionDefinitionGroups_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups",
+  "Description": "Deletes a specified network function definition group.",
+  "IsDataAction": false
+}

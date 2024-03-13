@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/usages/read",
+  "OperationName": "Read Quota Usages",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Quota Usages",
+  "Description": "Get Quota Usages in a Region",
+  "IsDataAction": false
+}

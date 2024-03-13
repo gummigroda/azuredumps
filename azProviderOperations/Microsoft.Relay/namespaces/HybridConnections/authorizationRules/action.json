@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/HybridConnections/authorizationRules/action",
+  "OperationName": "Update HybridConnection Authorization Rules (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "HybridConnection",
+  "Description": "Operation to update HybridConnection. This operation is not supported on API version 2017-04-01. Authorization Rules. Please use a PUT call to update Authorization Rule.",
+  "IsDataAction": false
+}

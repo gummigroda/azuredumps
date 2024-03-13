@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/afdendpointresults/routeresults/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Route",
+  "Description": null,
+  "IsDataAction": false
+}

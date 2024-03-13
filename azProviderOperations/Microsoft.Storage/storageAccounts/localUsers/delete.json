@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/localUsers/delete",
+  "OperationName": "Delete Local User",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Local User",
+  "Description": "Delete local user",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/read",
+  "OperationName": "Read Media Services Account",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "Read any Media Services Account",
+  "IsDataAction": false
+}

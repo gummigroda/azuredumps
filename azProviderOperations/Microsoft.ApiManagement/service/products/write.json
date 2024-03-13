@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/write",
+  "OperationName": "Create product or Update product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Products",
+  "Description": "Creates or Updates a product. or Update existing product details.",
+  "IsDataAction": false
+}

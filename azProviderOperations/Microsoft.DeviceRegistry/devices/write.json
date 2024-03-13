@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/devices/write",
+  "OperationName": "Devices_Update",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "devices",
+  "Description": "Update a Device",
+  "IsDataAction": false
+}

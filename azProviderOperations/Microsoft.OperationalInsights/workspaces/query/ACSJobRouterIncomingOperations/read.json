@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSJobRouterIncomingOperations/read",
+  "OperationName": "Read ACSJobRouterIncomingOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSJobRouterIncomingOperations",
+  "Description": "Read data from the ACSJobRouterIncomingOperations table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AadCustomSecurityAttributesDiagnosticSettings/diagnosticsettings/delete",
+  "OperationName": "Diagnostic settings delete",
+  "ProviderNamespace": "Microsoft Monitoring Insights",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Deleting a diagnostic setting",
+  "IsDataAction": false
+}

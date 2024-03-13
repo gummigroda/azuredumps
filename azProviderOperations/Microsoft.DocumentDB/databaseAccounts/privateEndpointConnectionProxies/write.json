@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection Proxy",
+  "Description": "Create or update a private endpoint connection proxy of Database Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachineInstances/Stop/Action",
+  "OperationName": "Stops virtual machine instance resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachineInstances",
+  "Description": "Stops virtual machine instance resource",
+  "IsDataAction": false
+}

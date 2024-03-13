@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/businessProcesses/read",
+  "OperationName": "BusinessProcesses_Get",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/businessProcesses",
+  "Description": "Get a BusinessProcess",
+  "IsDataAction": false
+}

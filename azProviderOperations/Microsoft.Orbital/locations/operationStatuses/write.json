@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/locations/operationStatuses/write",
+  "OperationName": "Create or Update Locations/operation Status",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Locations/operation Statuses",
+  "Description": "Create or Update any Locations/operation Status",
+  "IsDataAction": false
+}

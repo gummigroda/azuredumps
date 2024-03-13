@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppBrowserTimings/Read",
+  "OperationName": "Read AppBrowserTimings data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppBrowserTimings",
+  "Description": "Read data from the AppBrowserTimings table",
+  "IsDataAction": false
+}

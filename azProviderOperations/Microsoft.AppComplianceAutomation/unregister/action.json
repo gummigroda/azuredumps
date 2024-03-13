@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/unregister/action",
+  "OperationName": "Unregister the Microsoft.AppComplianceAutomation",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AppComplianceAutomation",
+  "IsDataAction": false
+}

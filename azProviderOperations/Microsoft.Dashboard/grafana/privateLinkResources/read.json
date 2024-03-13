@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateLinkResources/read",
+  "OperationName": "Get PrivateLinkResources resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateLinkResources",
+  "Description": "Get PrivateLinkResources",
+  "IsDataAction": false
+}

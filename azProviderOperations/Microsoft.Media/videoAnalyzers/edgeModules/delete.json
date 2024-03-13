@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/edgeModules/delete",
+  "OperationName": "Delete Edge Module",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Edge Module Resource",
+  "Description": "Delete any Edge Module",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/getDnsResourceReference/action",
+  "OperationName": "Get DNS alias target dependencies",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "DNS alias resource dependency request",
+  "IsDataAction": false
+}

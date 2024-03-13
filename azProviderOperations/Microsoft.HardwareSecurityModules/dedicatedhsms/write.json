@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/dedicatedhsms/write",
+  "OperationName": "Update DedicatedHsm",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "DedicatedHsm",
+  "Description": "Create a new DedicatedHsm or update the properties of an existing DedicatedHsm",
+  "IsDataAction": false
+}

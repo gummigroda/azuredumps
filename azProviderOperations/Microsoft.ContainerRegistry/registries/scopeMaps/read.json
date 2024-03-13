@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/scopeMaps/read",
+  "OperationName": "Get scope map or List scope maps",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ScopeMaps",
+  "Description": "Gets the properties of the specified scope map or lists all the scope maps for the specified container registry.",
+  "IsDataAction": false
+}

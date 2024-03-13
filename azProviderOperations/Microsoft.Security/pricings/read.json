@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/read",
+  "OperationName": "Get pricing settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings",
+  "Description": "Gets the pricing settings for the scope",
+  "IsDataAction": false
+}

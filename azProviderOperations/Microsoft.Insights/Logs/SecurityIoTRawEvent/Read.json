@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SecurityIoTRawEvent/Read",
+  "OperationName": "Read SecurityIoTRawEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SecurityIoTRawEvent",
+  "Description": "Read data from the SecurityIoTRawEvent table",
+  "IsDataAction": false
+}

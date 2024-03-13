@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/web/connectionstrings/delete",
+  "OperationName": "Delete Web App slot's single connection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot Connectionstring",
+  "Description": "Delete Web App slot's single connection string",
+  "IsDataAction": false
+}

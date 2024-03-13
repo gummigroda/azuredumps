@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/batch/v1beta1/read",
+  "OperationName": "Gets/List batch/v1beta1 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Batch/V1beta1",
+  "Description": "Reads batch/v1beta1",
+  "IsDataAction": true
+}

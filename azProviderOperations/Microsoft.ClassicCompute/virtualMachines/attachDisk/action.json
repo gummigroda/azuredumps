@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/attachDisk/action",
+  "OperationName": "Attach Data Disk",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Attaches a data disk to a virtual machine.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/certificates/refreshSecret/action",
+  "OperationName": "Refresh certificate from KeyVault",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates",
+  "Description": "Refreshes certificate by fetching it from Key Vault.",
+  "IsDataAction": false
+}

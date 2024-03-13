@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/offlineRegion/action",
+  "OperationName": "Offline Region",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Offline a region of a database account. ",
+  "IsDataAction": false
+}

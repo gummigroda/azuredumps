@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/unregister/action",
+  "OperationName": "Unregister microsoft.app resource provider",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "",
+  "Description": "Unregister microsoft.app resource provider for the subscription",
+  "IsDataAction": false
+}

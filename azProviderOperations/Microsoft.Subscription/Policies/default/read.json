@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/Policies/default/read",
+  "OperationName": "Get tenant policy",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "Policies",
+  "Description": "Get tenant policy",
+  "IsDataAction": false
+}

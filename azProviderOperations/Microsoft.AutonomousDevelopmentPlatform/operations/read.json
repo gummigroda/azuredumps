@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/operations/read",
+  "OperationName": "Read operations",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operation",
+  "Description": "Read operations",
+  "IsDataAction": false
+}

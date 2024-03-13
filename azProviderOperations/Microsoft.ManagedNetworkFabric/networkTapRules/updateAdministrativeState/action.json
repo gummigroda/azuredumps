@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/updateAdministrativeState/action",
+  "OperationName": "NetworkTapRules_UpdateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "Implements the operation to the underlying resources.",
+  "IsDataAction": false
+}

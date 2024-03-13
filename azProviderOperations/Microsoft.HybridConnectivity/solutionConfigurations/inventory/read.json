@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/solutionConfigurations/inventory/read",
+  "OperationName": "Inventory_ListBySolution",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "solutionConfigurations/inventory",
+  "Description": "Retrieve a list of inventory by solution name.",
+  "IsDataAction": false
+}

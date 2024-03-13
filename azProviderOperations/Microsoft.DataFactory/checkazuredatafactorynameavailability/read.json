@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/checkazuredatafactorynameavailability/read",
+  "OperationName": "Check Data Factory Name Availability",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory Resource Provider",
+  "Description": "Checks if the Data Factory Name is available to use.",
+  "IsDataAction": false
+}

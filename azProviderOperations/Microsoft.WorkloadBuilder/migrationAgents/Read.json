@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/migrationAgents/Read",
+  "OperationName": "Reads the migrationAgents",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "migrationAgents",
+  "Description": "Read migrationAgents",
+  "IsDataAction": false
+}

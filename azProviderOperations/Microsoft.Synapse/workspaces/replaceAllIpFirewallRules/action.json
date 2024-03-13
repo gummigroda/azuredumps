@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/replaceAllIpFirewallRules/action",
+  "OperationName": "Replace all Ip Firewall Rules for the Workspace.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Replaces all Ip Firewall Rules for the Workspace.",
+  "IsDataAction": false
+}

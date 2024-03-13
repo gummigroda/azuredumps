@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureFirewalls/applicationRuleCollections/delete",
+  "OperationName": "Delete Azure Firewall ApplicationRuleCollection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Applicatiion Rule Collection",
+  "Description": "Deletes Azure Firewall ApplicationRuleCollection",
+  "IsDataAction": false
+}

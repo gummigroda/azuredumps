@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/upfProfiles/delete",
+  "OperationName": "UpfProfiles_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/upfProfiles",
+  "Description": "Deletes the specified Mobile Packet Core User Plane Function Profile resource.",
+  "IsDataAction": false
+}

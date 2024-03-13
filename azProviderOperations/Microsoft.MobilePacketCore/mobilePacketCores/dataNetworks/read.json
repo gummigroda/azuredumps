@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/dataNetworks/read",
+  "OperationName": "DataNetworks_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/dataNetworks",
+  "Description": "Lists all the Data Network Name instances in a mobile packet core instance.",
+  "IsDataAction": false
+}

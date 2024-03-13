@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read resourceproviders metric definitions",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "The metric definition of resourceproviders",
+  "Description": "Gets the available logs for Custom Resource Providers",
+  "IsDataAction": false
+}

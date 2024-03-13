@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/enrollmentPolicies/delete",
+  "OperationName": "EnrollmentPolicy_Delete",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/enrollmentPolicies",
+  "Description": "Deletes the specified enrollment policy.",
+  "IsDataAction": false
+}

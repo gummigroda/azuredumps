@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/snapshots/read",
+  "OperationName": "Snapshot - Get|Snapshot - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "snapshots*",
+  "Description": "Get information of a snapshot.\r\nList all of the user's accessible snapshots with information.*",
+  "IsDataAction": true
+}

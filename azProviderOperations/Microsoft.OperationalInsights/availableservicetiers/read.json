@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/availableservicetiers/read",
+  "OperationName": "Get the available service tiers",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Availableservicetiers",
+  "Description": "Get the available service tiers.",
+  "IsDataAction": false
+}

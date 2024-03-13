@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerLicenses/write",
+  "OperationName": "SqlServerLicenses_Update",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerLicenses",
+  "Description": "Updates a SQL Server license resource",
+  "IsDataAction": false
+}

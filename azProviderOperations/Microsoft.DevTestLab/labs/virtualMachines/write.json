@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/write",
+  "OperationName": "Add or modify virtual machines.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Add or modify virtual machines.",
+  "IsDataAction": false
+}

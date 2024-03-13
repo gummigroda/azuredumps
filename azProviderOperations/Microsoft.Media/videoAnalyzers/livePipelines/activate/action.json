@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/livePipelines/activate/action",
+  "OperationName": "Activate Live Pipeline",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Pipeline Resource",
+  "Description": "Activate any Live Pipeline",
+  "IsDataAction": false
+}

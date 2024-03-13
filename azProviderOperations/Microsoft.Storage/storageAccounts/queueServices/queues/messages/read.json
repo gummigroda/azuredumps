@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/queues/messages/read",
+  "OperationName": "Read message",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Service Messages",
+  "Description": "Returns a message",
+  "IsDataAction": true
+}

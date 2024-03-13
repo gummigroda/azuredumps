@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/devboxdefinitions/write",
+  "OperationName": "DevBoxDefinitions_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/devboxdefinitions",
+  "Description": "Partially updates a Dev Box definition.",
+  "IsDataAction": false
+}

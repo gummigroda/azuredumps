@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/register/action",
+  "OperationName": "Register Subscription for Custom Providers",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.CustomProviders resource provider",
+  "IsDataAction": false
+}

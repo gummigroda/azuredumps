@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/createQueryKey/action",
+  "OperationName": "Create Query Key",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Creates the query key.",
+  "IsDataAction": false
+}

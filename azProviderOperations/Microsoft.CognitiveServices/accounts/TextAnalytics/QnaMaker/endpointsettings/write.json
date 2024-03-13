@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/endpointsettings/write",
+  "OperationName": "Endpoint Settings - Update Settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoint Settings",
+  "Description": "Update endpoint seettings for an endpoint.",
+  "IsDataAction": true
+}

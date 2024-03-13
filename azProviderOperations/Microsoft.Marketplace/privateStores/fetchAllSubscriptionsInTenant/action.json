@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/fetchAllSubscriptionsInTenant/action",
+  "OperationName": "Fetch all subscriptions in tenant",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Admin fetches all subscriptions in tenant",
+  "IsDataAction": false
+}

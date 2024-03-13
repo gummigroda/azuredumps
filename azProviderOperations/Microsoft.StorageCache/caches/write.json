@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/write",
+  "OperationName": "Create or update a cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Creates a new cache, or updates an existing one",
+  "IsDataAction": false
+}

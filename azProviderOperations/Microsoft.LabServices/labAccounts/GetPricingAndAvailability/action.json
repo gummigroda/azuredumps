@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/GetPricingAndAvailability/action",
+  "OperationName": "Get pricing and availability for the lab account",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Lab Accounts",
+  "Description": "Get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.",
+  "IsDataAction": false
+}

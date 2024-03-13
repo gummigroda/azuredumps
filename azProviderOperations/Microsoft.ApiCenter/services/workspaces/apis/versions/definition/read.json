@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/definition/read",
+  "OperationName": "Get API definition",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "API definition",
+  "Description": "Returns the details of the specified API definition.",
+  "IsDataAction": false
+}

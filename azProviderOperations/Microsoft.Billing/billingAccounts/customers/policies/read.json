@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/policies/read",
+  "OperationName": "Policies_GetByCustomer",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Policies",
+  "Description": "Lists the policies for a customer. This operation is supported only for billing accounts with agreement type Microsoft Partner Agreement.",
+  "IsDataAction": false
+}

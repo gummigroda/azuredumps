@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents/Delete",
+  "OperationName": "Delete guestagents resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/guestagents",
+  "Description": "Delete guestagent resource",
+  "IsDataAction": false
+}

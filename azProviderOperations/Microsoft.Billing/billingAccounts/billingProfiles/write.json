@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/write",
+  "OperationName": "Delete Billing Profile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Profiles",
+  "Description": null,
+  "IsDataAction": false
+}

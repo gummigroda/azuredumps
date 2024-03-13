@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Table service",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/phpWorkloads/wordpressInstances/read",
+  "OperationName": "WordpressInstances_Get",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "phpWorkloads/wordpressInstances",
+  "Description": "Gets a WordpressInstances resource",
+  "IsDataAction": false
+}

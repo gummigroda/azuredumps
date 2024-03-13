@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationExtensions/write",
+  "OperationName": "Updates the replication extension",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Extensions",
+  "Description": "Updates any replication extension",
+  "IsDataAction": false
+}

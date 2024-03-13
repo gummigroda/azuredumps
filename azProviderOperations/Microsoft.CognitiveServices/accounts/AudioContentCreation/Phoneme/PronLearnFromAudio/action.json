@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Phoneme/PronLearnFromAudio/action",
+  "OperationName": "PronLearnFromAudio",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "TTS phoneme operations",
+  "Description": "PronLearnFromAudio.",
+  "IsDataAction": true
+}

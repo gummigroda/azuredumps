@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connections by Name",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connections",
+  "Description": "Get Private Endpoint Connections",
+  "IsDataAction": false
+}

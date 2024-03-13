@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/virtualHubProxies/delete",
+  "OperationName": "Delete Virtual Hub proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Hub Proxy",
+  "Description": "Deletes a Virtual Hub proxy",
+  "IsDataAction": false
+}

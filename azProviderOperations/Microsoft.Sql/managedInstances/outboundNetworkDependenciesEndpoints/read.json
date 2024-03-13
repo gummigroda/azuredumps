@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Gets the list of the outbound network dependencies for the given managed instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Gets the list of the outbound network dependencies for the given managed instance.",
+  "IsDataAction": false
+}

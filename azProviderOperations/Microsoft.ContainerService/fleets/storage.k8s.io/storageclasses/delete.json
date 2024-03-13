@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/storage.k8s.io/storageclasses/delete",
+  "OperationName": "Deletes/DeletesCollection storageclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Storageclasses",
+  "Description": "Deletes storageclasses",
+  "IsDataAction": true
+}

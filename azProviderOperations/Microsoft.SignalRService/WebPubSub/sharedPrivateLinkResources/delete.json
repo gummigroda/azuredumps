@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources/delete",
+  "OperationName": "Delete Shared Private Link Resource",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/SharedPrivateLinkResources",
+  "Description": "Delete Shared Private Link Resource",
+  "IsDataAction": false
+}

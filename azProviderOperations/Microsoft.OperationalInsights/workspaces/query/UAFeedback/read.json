@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UAFeedback/read",
+  "OperationName": "Read UAFeedback data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UAFeedback",
+  "Description": "Read data from the UAFeedback table",
+  "IsDataAction": false
+}

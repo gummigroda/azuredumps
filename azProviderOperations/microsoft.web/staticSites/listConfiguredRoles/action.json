@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/listConfiguredRoles/action",
+  "OperationName": "List Static Site Configured Roles",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Lists the roles configured for the static site.",
+  "IsDataAction": false
+}

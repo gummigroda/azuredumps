@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsTables/Action",
+  "OperationName": "Application Insights analytics table action",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Application Insights analytics table action",
+  "IsDataAction": false
+}

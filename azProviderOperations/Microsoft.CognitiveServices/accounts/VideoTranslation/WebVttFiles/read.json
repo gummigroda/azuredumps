@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/WebVttFiles/read",
+  "OperationName": "Read webvtt files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "WebVtt files operations.",
+  "Description": "Read webvtt files.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Gets the diagnostic setting for the Virtual Machine.",
+  "IsDataAction": false
+}

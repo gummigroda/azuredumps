@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/modifyPermissions/action",
+  "OperationName": "Modify blob permissions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Modifies permissions of the blob",
+  "IsDataAction": true
+}

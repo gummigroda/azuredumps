@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/delete",
+  "OperationName": "Delete Application Gateway WAF Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway WAF Policy",
+  "Description": "Deletes an Application Gateway WAF policy",
+  "IsDataAction": false
+}

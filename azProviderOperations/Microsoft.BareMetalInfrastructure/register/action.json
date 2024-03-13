@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetalInfrastructure/register/action",
+  "OperationName": "Registers the Microsoft BareMetal Infrastructure Resource Provider",
+  "ProviderNamespace": "Microsoft BareMetal Infrastructure",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft BareMetal Infrastructure Resource Provider, and enables managing BareMetal Instance resources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WDAVStatus/Read",
+  "OperationName": "Read WDAVStatus data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WDAVStatus",
+  "Description": "Read data from the WDAVStatus table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/usages/read",
+  "OperationName": "Get Hosting Environments Usages",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Usages",
+  "Description": "Get Hosting Environments Usages.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/msixpackages/read",
+  "OperationName": "Read hostpools/msixpackages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/msixpackages",
+  "Description": "Read hostpools/msixpackages",
+  "IsDataAction": false
+}

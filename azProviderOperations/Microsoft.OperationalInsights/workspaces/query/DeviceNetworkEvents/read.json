@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceNetworkEvents/read",
+  "OperationName": "Read DeviceNetworkEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceNetworkEvents",
+  "Description": "Read data from the DeviceNetworkEvents table",
+  "IsDataAction": false
+}

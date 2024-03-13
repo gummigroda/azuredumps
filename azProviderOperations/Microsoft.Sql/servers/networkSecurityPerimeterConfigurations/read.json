@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Get sql server network security perimeter effective configuration",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL Server Network Security Perimeter Effective Configuration",
+  "Description": "Get sql server network security perimeter effective configuration",
+  "IsDataAction": false
+}

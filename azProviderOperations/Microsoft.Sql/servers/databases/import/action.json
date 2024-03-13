@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/import/action",
+  "OperationName": "Import database from bacpac",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Import Azure SQL Database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/loginAsAdmin/action",
+  "OperationName": "Log in to Virtual Machine as administrator",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Log in to a virtual machine with Windows administrator or Linux root user privileges",
+  "IsDataAction": true
+}

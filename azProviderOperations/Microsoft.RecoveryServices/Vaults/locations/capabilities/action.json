@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/locations/capabilities/action",
+  "OperationName": "List capabilities at a given location.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "locations/capabilities/action",
+  "Description": "List capabilities at a given location.",
+  "IsDataAction": false
+}

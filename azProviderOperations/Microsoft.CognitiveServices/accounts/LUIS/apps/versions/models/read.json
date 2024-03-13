@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/models/read",
+  "OperationName": "Get version models list|models - Get Model*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Gets info about the application version models.\r\nGets information about a model.*",
+  "IsDataAction": true
+}

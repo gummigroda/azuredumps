@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/accesskeyview/read",
+  "OperationName": "Submissions Access Key View Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions Access Key View",
+  "Description": "Allows retrieving (including in bulk) and deleting submissions using a submission ID + access key",
+  "IsDataAction": true
+}

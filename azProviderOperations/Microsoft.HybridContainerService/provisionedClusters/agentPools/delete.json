@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/agentPools/delete",
+  "OperationName": "agentPool_Delete",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters/agentPools",
+  "Description": "Deletes the agent pool in the Hybrid AKS provisioned cluster",
+  "IsDataAction": false
+}

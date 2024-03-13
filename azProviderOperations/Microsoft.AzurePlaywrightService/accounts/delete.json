@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/accounts/delete",
+  "OperationName": "Accounts_Delete",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "accounts",
+  "Description": "Delete an Account",
+  "IsDataAction": false
+}

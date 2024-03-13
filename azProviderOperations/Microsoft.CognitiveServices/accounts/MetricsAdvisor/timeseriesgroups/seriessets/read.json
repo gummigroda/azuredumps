@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/seriessets/read",
+  "OperationName": "Get a time series set",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Series sets of a time series group",
+  "Description": "Get a time series set",
+  "IsDataAction": true
+}

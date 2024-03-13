@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/formulas/delete",
+  "OperationName": "Delete formulas.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Formulas",
+  "Description": "Delete formulas.",
+  "IsDataAction": false
+}

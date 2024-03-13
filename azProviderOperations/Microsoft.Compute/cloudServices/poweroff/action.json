@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/poweroff/action",
+  "OperationName": "Power off the CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Resource",
+  "Description": "Power off the CloudService.",
+  "IsDataAction": false
+}

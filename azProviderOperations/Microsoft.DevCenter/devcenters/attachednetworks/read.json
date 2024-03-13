@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/attachednetworks/read",
+  "OperationName": "AttachedNetworks_GetByDevCenter",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/attachednetworks",
+  "Description": "Gets an attached NetworkConnection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/ipFilterRules/write",
+  "OperationName": "Create IP Filter Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "IPFilter",
+  "Description": "Create IP Filter Resource",
+  "IsDataAction": false
+}

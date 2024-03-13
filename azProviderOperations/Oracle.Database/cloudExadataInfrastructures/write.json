@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudExadataInfrastructures/write",
+  "OperationName": "CloudExadataInfrastructures_Update",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudExadataInfrastructures",
+  "Description": "Update a CloudExadataInfrastructure",
+  "IsDataAction": false
+}

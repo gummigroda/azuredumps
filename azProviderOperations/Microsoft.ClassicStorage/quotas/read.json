@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/quotas/read",
+  "OperationName": "Get Subscription Quota",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Quota",
+  "Description": "Get the quota for the subscription.",
+  "IsDataAction": false
+}

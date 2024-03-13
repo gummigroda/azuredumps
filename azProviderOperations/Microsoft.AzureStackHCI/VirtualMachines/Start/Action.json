@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachines/Start/Action",
+  "OperationName": "Starts virtual machine resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachines",
+  "Description": "Starts virtual machine resource",
+  "IsDataAction": false
+}

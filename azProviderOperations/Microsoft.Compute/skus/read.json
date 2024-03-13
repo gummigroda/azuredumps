@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/skus/read",
+  "OperationName": "Gets the list of Microsoft.Compute SKUs available for your Subscription",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Skus",
+  "Description": "Gets the list of Microsoft.Compute SKUs available for your Subscription",
+  "IsDataAction": false
+}

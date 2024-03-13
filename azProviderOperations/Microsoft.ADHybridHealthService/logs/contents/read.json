@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/logs/contents/read",
+  "OperationName": "Gets the content of a log stored in blob.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Agent Logs",
+  "Description": "Gets the content of agent installation and registration logs stored in blob.",
+  "IsDataAction": false
+}

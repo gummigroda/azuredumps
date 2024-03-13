@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/draft/undoEdit/action",
+  "OperationName": "Undo Edit to an Azure Automation runbook draft",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook Draft",
+  "Description": "Undo edits to an Azure Automation runbook draft",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/permissions/delete",
+  "OperationName": "permissions - Remove user from access list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "permissions*",
+  "Description": "Removed a user to the allowed list of users to access this LUIS application.",
+  "IsDataAction": true
+}

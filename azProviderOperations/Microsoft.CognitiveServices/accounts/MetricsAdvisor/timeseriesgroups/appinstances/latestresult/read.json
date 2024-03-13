@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/latestresult/read",
+  "OperationName": "Get the latest running result from a time series group application instance by its id",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Latest result of a time series group",
+  "Description": "Get the latest running result from a time series group application instance by its id",
+  "IsDataAction": true
+}

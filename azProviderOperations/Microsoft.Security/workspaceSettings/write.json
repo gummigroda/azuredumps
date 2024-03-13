@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/workspaceSettings/write",
+  "OperationName": "Update workspace settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Workspace Settings",
+  "Description": "Updates the workspace settings",
+  "IsDataAction": false
+}

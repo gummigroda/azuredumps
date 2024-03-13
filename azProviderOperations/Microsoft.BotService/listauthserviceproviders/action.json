@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/listauthserviceproviders/action",
+  "OperationName": "List Auth Service Providers",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "",
+  "Description": "List Auth Service Providers",
+  "IsDataAction": false
+}

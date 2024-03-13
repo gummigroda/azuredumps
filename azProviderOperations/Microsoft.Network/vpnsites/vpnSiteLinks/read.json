@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnSites/vpnSiteLinks/read",
+  "OperationName": "Gets a Vpn Site Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Site Link resource",
+  "Description": "Gets a Vpn Site Link",
+  "IsDataAction": false
+}

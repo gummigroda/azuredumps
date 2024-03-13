@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/properties/read",
+  "OperationName": "Get all properties or Get property details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of properties. Properties are used to manage constant string values across all API configurations or policies.",
+  "Description": "Lists a collection of properties defined within a service instance. or Gets the details of the property specified by its identifier.",
+  "IsDataAction": false
+}

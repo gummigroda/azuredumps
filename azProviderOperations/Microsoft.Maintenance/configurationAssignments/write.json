@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/configurationAssignments/write",
+  "OperationName": "Create or update maintenance configuration assignment.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration assignment instance",
+  "Description": "Create or update maintenance configuration assignment.",
+  "IsDataAction": false
+}

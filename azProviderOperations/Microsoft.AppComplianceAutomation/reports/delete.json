@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/delete",
+  "OperationName": "Reports_Delete",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Delete an AppComplianceAutomation report.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/locations/videoAnalyzerOperationResults/read",
+  "OperationName": "Read Video Analyzer Operation Result",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Analyzer Operation Result",
+  "Description": "Read any Video Analyzer Operation Result",
+  "IsDataAction": false
+}

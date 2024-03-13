@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/forceFailoverAllowDataLoss/action",
+  "OperationName": "SqlServerAvailabilityGroups_ForceFailoverAllowDataLoss",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "Request forced failover of the availability group to this server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/referencedatasets/read",
+  "OperationName": "Read Reference Data Set",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Reference Data Set",
+  "Description": "Get the properties of a reference data set.",
+  "IsDataAction": false
+}

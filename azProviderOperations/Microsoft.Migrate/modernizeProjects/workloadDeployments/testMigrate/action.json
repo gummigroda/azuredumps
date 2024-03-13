@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/workloadDeployments/testMigrate/action",
+  "OperationName": "Performs test migrate",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Performs the test migrate on the workload deployment",
+  "IsDataAction": false
+}

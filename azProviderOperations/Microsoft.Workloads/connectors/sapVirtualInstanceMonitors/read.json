@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/sapVirtualInstanceMonitors/read",
+  "OperationName": "SapVirtualInstanceMonitorConnections_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/sapVirtualInstanceMonitors",
+  "Description": "Lists the monitor connection resources of virtual instance for SAP under the given connector resource.",
+  "IsDataAction": false
+}

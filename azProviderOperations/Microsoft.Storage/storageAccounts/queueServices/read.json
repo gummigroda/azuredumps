@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/read",
+  "OperationName": "Get queue service properties or statistics",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Services",
+  "Description": "Returns queue service properties or statistics.",
+  "IsDataAction": false
+}

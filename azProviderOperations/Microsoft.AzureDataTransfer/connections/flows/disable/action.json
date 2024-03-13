@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/disable/action",
+  "OperationName": "Flows_Disable",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Disables the specified flow",
+  "IsDataAction": false
+}

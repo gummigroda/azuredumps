@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2isolationdomains/l2isolationdomaininfos/delete",
+  "OperationName": "L2isolationDomainInfos_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2isolationdomains/l2isolationdomaininfos",
+  "Description": "Delete the L2isolationDomainInfos resource.",
+  "IsDataAction": false
+}

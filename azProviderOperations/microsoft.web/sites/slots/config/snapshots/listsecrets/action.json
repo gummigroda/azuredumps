@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/snapshots/listsecrets/action",
+  "OperationName": "Web Apps List Slot Secrets From Snapshot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Config Snapshots",
+  "Description": "Web Apps List Slot Secrets From Snapshot.",
+  "IsDataAction": false
+}

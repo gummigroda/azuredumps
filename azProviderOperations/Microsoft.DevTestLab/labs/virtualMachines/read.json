@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/read",
+  "OperationName": "Read virtual machines.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Read virtual machines.",
+  "IsDataAction": false
+}

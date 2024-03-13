@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/recover/action",
+  "OperationName": "Recover Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Recover Web Apps.",
+  "IsDataAction": false
+}

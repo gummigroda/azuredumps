@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

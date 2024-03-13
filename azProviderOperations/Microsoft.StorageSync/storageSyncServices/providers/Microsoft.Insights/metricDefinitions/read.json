@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Storage Sync Services metric definitions",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Storage Sync Metrics",
+  "Description": "Gets the available metrics for Storage Sync Services",
+  "IsDataAction": false
+}

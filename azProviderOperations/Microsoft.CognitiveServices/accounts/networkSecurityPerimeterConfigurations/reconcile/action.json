@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile effective Network Security Perimeters configuration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Reconcile effective Network Security Perimeters configuration",
+  "IsDataAction": false
+}

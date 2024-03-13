@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/privateLinkResources/read",
+  "OperationName": "Get the private link resources for the corresponding MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Private Link Resource",
+  "Description": "Get the private link resources for the corresponding MySQL Server",
+  "IsDataAction": false
+}

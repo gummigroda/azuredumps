@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/cancel/action",
+  "OperationName": "Cancel Container Copy Job",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container Copy Jobs",
+  "Description": "Cancel container copy job in a database account",
+  "IsDataAction": false
+}

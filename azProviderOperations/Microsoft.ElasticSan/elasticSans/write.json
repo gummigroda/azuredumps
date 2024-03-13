@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/write",
+  "OperationName": "Create/Update Elastic San",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Elastic Sans",
+  "Description": "Create/Update Elastic San",
+  "IsDataAction": false
+}

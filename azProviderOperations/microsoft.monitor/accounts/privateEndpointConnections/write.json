@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnections/write",
+  "OperationName": "Create or Update Monitoring Account Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Monitoring Account Private Endpoint Connection",
+  "IsDataAction": false
+}

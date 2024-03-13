@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/privateEndpointConnectionProxies/read",
+  "OperationName": "Read private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Get the properties of a private endpoint connection proxy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/unregister/action",
+  "OperationName": "Unregister the NGINX.NGINXPLUS Resource Provider",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for the NGINX.NGINXPLUS resource provider",
+  "IsDataAction": false
+}

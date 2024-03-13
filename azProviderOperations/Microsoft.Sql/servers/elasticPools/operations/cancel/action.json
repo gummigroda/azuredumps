@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/operations/cancel/action",
+  "OperationName": "Cancel Azure SQL elastic pool async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Cancels Azure SQL elastic pool pending asynchronous operation that is not finished yet.",
+  "IsDataAction": false
+}

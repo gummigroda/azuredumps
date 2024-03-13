@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/publishers/offers/skus/versions/generatesastoken/action",
+  "OperationName": "Gets the SAS Token for a specific image",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Versions",
+  "Description": "Gets the SAS Token for a specific image",
+  "IsDataAction": false
+}

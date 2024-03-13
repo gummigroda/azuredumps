@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/trustedServiceBypassConfiguration/write",
+  "OperationName": "Update Trusted Service Bypass configuration for workspace.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Update Trusted Service Bypass configuration for workspace.",
+  "IsDataAction": false
+}

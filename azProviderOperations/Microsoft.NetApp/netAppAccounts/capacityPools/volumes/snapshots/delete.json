@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots/delete",
+  "OperationName": "Delete snapshot resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Snapshots resource type",
+  "Description": "Deletes a snapshot resource.",
+  "IsDataAction": false
+}

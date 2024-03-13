@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ContainerRegistryLoginEvents/read",
+  "OperationName": "Read ContainerRegistryLoginEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ContainerRegistryLoginEvents",
+  "Description": "Read data from the ContainerRegistryLoginEvents table",
+  "IsDataAction": false
+}

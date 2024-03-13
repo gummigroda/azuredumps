@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/hiveReplicationRules/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "HiveReplicationRules",
+  "Description": "Delete a hiveReplicationRule",
+  "IsDataAction": false
+}

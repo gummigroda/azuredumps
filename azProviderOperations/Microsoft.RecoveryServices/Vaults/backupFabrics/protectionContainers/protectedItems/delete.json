@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/delete",
+  "OperationName": "Delete Protected Items",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Deletes Protected Item",
+  "IsDataAction": false
+}

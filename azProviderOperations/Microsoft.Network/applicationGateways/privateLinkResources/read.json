@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/privateLinkResources/read",
+  "OperationName": "Get Application Gateway Private Link Resources",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway Private Link Resource",
+  "Description": "Gets ApplicationGateway PrivateLink Resources",
+  "IsDataAction": false
+}

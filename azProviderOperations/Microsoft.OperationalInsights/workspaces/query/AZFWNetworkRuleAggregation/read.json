@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZFWNetworkRuleAggregation/read",
+  "OperationName": "Read AZFWNetworkRuleAggregation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZFWNetworkRuleAggregation",
+  "Description": "Read data from the AZFWNetworkRuleAggregation table",
+  "IsDataAction": false
+}

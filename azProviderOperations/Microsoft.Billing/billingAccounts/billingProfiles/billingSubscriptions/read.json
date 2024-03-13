@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/billingSubscriptions/read",
+  "OperationName": "BillingSubscriptions_GetByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": "Get a billing subscription by billing profile ID and billing subscription ID. This operation is supported only for billing accounts of type Enterprise Agreement.",
+  "IsDataAction": false
+}

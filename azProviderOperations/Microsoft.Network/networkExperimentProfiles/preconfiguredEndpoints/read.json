@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkExperimentProfiles/preconfiguredEndpoints/read",
+  "OperationName": "Get an Internet Analyzer profile's pre-configured endpoints",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Internet Analyzer Pre-configured Endpoint",
+  "Description": "Get an Internet Analyzer profile's pre-configured endpoints",
+  "IsDataAction": false
+}

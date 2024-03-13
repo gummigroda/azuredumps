@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomerLockbox/operations/read",
+  "OperationName": "Read Lockbox Operations",
+  "ProviderNamespace": "Microsoft Customer Lockbox",
+  "ResourceName": "Lockbox Operations",
+  "Description": "Read Lockbox Operations",
+  "IsDataAction": false
+}

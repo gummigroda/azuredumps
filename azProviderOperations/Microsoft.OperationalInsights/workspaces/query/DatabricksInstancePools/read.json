@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksInstancePools/read",
+  "OperationName": "Read DatabricksInstancePools data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksInstancePools",
+  "Description": "Read data from the DatabricksInstancePools table",
+  "IsDataAction": false
+}

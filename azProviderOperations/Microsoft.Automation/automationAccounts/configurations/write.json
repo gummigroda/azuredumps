@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/configurations/write",
+  "OperationName": "Puts an Azure Automation DSC's content",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Desired State Configuration",
+  "Description": "Writes an Azure Automation DSC's content",
+  "IsDataAction": false
+}

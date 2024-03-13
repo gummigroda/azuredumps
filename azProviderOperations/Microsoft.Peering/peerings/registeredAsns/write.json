@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peerings/registeredAsns/write",
+  "OperationName": "Write RegisteredAsns",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "registeredAsns",
+  "Description": "Write any registeredAsns",
+  "IsDataAction": false
+}

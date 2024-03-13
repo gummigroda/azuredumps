@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataConnectors/write",
+  "OperationName": "DataConnector_Update",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataConnectors",
+  "Description": "Update a DataConnectors",
+  "IsDataAction": false
+}

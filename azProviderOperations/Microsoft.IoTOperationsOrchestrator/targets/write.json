@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/targets/write",
+  "OperationName": "Targets_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "targets",
+  "Description": "Update a Target",
+  "IsDataAction": false
+}

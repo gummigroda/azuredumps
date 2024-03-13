@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/resourceProviders/locations/serviceLimits/read",
+  "OperationName": "Get resource service limit",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Resource service limit",
+  "Description": "Get the current service limit or quota of the specified resource and location",
+  "IsDataAction": false
+}

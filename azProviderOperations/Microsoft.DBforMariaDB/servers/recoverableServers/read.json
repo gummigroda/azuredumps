@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/recoverableServers/read",
+  "OperationName": "Get Recoverable MariaDB Server info",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Recoverable MariaDB Server",
+  "Description": "Return the recoverable MariaDB Server info",
+  "IsDataAction": false
+}

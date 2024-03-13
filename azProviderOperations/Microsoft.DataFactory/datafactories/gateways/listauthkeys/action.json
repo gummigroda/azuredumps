@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/listauthkeys/action",
+  "OperationName": "List Gateway Authentication Keys",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Lists the Authentication Keys for any Gateway.",
+  "IsDataAction": false
+}

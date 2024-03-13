@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupTieringCost/operationResults/read",
+  "OperationName": "Get Protected Items operation result",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Tiering Costs Operation Results",
+  "Description": "Returns the result of Operation performed for tiering costs",
+  "IsDataAction": false
+}

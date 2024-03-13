@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/read/analyzeresults/read",
+  "OperationName": "Get analysis results",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OCR Analysis Results",
+  "Description": "Use this interface to retrieve the status and OCR result of a <a href=\"/docs/services/5d98695995feb7853f67d6a6/operations/5d986960601faab4bf452005\">Read</a> operation.  The URL containing the 'operationId' is returned in the Read operation 'Operation-Location' response header.*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/extensionTopics/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read topic metric definitions",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Topics Metrics",
+  "Description": "Gets the available metrics for topics",
+  "IsDataAction": false
+}

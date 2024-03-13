@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/properties/delete",
+  "OperationName": "Remove property",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of properties. Properties are used to manage constant string values across all API configurations or policies.",
+  "Description": "Deletes specific property from the API Management service instance.",
+  "IsDataAction": false
+}

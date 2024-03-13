@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/join/action",
+  "OperationName": "NetworkToNetworkInterconnects_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Join action for NetworkToNetworkInterconnects resource.",
+  "IsDataAction": false
+}

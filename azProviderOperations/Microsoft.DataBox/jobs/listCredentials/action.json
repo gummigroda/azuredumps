@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/listCredentials/action",
+  "OperationName": "List Credentials",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "Lists the unencrypted credentials related to the order.",
+  "IsDataAction": false
+}

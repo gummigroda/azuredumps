@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/codes/versions/read",
+  "OperationName": "Reads Code Versions in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Code Version",
+  "Description": "Reads Code Versions in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

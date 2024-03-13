@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Read NspConfiguration for domains",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "networkSecurityPerimeterConfigurations",
+  "Description": "Read NspConfiguration for domains",
+  "IsDataAction": false
+}

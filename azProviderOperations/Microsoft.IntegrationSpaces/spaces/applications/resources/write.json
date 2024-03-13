@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/resources/write",
+  "OperationName": "ApplicationResources_Patch",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/resources",
+  "Description": "Update a ApplicationResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/PrivateEndpointConnectionProxies/Read",
+  "OperationName": "Read a private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Read a private endpoint connection proxy",
+  "IsDataAction": false
+}

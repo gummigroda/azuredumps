@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureWebCategories/classifyUnknown/action",
+  "OperationName": "Classify Unknown WebCategory",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure WebCategories",
+  "Description": "Classifies Unknown WebCategory",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/virtualMachines/read",
+  "OperationName": "Get Load Balancer Virtual Machines",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Virtual Machines",
+  "Description": "Gets references to all the virtual machines under a load balancer",
+  "IsDataAction": false
+}

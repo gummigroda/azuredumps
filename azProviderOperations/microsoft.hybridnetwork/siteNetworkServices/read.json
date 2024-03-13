@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/siteNetworkServices/read",
+  "OperationName": "SiteNetworkServices_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "siteNetworkServices",
+  "Description": "Lists all site network services.",
+  "IsDataAction": false
+}

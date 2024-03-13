@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/globalReachConnections/write",
+  "OperationName": "Write globalReachConnections",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/globalReachConnections",
+  "Description": "Write globalReachConnections.",
+  "IsDataAction": false
+}

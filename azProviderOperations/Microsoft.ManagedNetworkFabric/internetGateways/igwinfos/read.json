@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetgateways/igwinfos/read",
+  "OperationName": "igwinfos_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways/igwinfos",
+  "Description": "Get the igwinfos resource details.",
+  "IsDataAction": false
+}

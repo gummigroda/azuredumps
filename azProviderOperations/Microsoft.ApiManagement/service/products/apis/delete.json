@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/apis/delete",
+  "OperationName": "Remove API from product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs added to product",
+  "Description": "Deletes the specified API from the specified product.",
+  "IsDataAction": false
+}

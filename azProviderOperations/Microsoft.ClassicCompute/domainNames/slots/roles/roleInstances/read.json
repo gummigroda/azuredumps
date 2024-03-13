@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/read",
+  "OperationName": "Get Role Instance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Role Instance",
+  "Description": "Get the role instance.",
+  "IsDataAction": false
+}

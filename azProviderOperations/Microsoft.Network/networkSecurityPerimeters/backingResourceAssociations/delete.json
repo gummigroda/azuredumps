@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/backingResourceAssociations/delete",
+  "OperationName": "Deletes a Network Security Perimeter Backing Resource Association",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Backing Resource Association",
+  "Description": "Deletes a Network Security Perimeter Backing Resource Association",
+  "IsDataAction": false
+}

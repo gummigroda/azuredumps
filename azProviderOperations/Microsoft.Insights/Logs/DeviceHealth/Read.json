@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceHealth/Read",
+  "OperationName": "Read DeviceHealth data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceHealth",
+  "Description": "Read data from the DeviceHealth table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/Write",
+  "OperationName": "Create or update IotHub Resource",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs",
+  "Description": "Create or update IotHub Resource",
+  "IsDataAction": false
+}

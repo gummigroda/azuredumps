@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/register/action",
+  "OperationName": "Registers the Microsoft.Cdn Resource Provider",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the CDN resource provider and enables the creation of CDN profiles.",
+  "IsDataAction": false
+}

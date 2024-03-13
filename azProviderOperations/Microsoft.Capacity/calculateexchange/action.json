@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/calculateexchange/action",
+  "OperationName": "Compute price for exchange",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Computes the exchange amount and price of new purchase and returns policy Errors.",
+  "IsDataAction": false
+}

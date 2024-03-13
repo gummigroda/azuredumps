@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Creates or updates the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/functions/listsecrets/action",
+  "OperationName": "List Secrets Web Apps Slots Functions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Functions",
+  "Description": "List Secrets Web Apps Slots Functions.",
+  "IsDataAction": false
+}

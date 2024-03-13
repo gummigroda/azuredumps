@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/write",
+  "OperationName": "Create or update a private link service.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service",
+  "Description": "Creates a new private link service, or updates an existing private link service.",
+  "IsDataAction": false
+}

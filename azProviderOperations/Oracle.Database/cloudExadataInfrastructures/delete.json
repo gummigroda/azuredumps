@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudExadataInfrastructures/delete",
+  "OperationName": "CloudExadataInfrastructures_Delete",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudExadataInfrastructures",
+  "Description": "Delete a CloudExadataInfrastructure",
+  "IsDataAction": false
+}

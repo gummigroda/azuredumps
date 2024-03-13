@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/endpoints/models/read",
+  "OperationName": "Gets the Machine Learning Services Endpoint model",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Endpoint Models",
+  "Description": "Gets the Machine Learning Services Endpoint model",
+  "IsDataAction": false
+}

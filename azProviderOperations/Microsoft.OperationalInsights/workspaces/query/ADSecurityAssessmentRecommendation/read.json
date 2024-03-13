@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADSecurityAssessmentRecommendation/read",
+  "OperationName": "Read ADSecurityAssessmentRecommendation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADSecurityAssessmentRecommendation",
+  "Description": "Read data from the ADSecurityAssessmentRecommendation table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightKafkaLogs/read",
+  "OperationName": "Read HDInsightKafkaLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightKafkaLogs",
+  "Description": "Read data from the HDInsightKafkaLogs table",
+  "IsDataAction": false
+}

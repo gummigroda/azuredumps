@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/user/send/action",
+  "OperationName": "Send messages to user",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/User",
+  "Description": "Send messages to user, who may consist of multiple client connections",
+  "IsDataAction": true
+}

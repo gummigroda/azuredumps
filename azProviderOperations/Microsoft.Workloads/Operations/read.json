@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

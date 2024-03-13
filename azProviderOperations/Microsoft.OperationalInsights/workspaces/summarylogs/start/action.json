@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/summarylogs/start/action",
+  "OperationName": "Starting a suspended summary log rule.",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SummaryLogs",
+  "Description": "Starting a suspended summary log rule.",
+  "IsDataAction": false
+}

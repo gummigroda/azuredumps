@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

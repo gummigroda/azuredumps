@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/outboundFirewallRules/read",
+  "OperationName": "Read outbound firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB Outbound Firewall Rule",
+  "Description": "Read outbound firewall rule",
+  "IsDataAction": false
+}

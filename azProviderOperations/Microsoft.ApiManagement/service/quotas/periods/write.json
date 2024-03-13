@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/quotas/periods/write",
+  "OperationName": "Set quota counter",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Quotas",
+  "Description": "Set quota counter current value",
+  "IsDataAction": false
+}

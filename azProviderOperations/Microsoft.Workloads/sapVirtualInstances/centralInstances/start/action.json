@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/centralInstances/start/action",
+  "OperationName": "SAPCentralInstances_StartInstance",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/centralInstances",
+  "Description": "Starts the SAP Central server Instance in an SVI.",
+  "IsDataAction": false
+}

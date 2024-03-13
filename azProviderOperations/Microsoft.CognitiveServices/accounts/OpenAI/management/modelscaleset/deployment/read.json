@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/management/modelscaleset/deployment/read",
+  "OperationName": "Get Modelscale set deployment.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OpenAI Model Scaleset Operations",
+  "Description": "Get Modelscale set deployment status and info.",
+  "IsDataAction": true
+}

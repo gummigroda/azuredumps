@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/dataConnections/delete",
+  "OperationName": "DataConnections_Remove",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Remove a data connection with a given dataConnectionName.",
+  "IsDataAction": true
+}

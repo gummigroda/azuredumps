@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/kubernetesVersions/delete",
+  "OperationName": "DeleteKubernetesVersions",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "kubernetesVersions",
+  "Description": "Delete the kubernetes versions resource type",
+  "IsDataAction": false
+}

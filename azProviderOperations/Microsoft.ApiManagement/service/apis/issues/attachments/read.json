@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/attachments/read",
+  "OperationName": "Get attachments or Get attachments details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Attachments",
+  "Description": "Lists all attachments for the Issue associated with the specified API. or Gets the details of the issue Attachment for an API specified by its identifier.",
+  "IsDataAction": false
+}

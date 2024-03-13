@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/dataSources/read",
+  "OperationName": "Read Data Source",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Data Sources",
+  "Description": "Return a data source or a list of data sources.",
+  "IsDataAction": false
+}

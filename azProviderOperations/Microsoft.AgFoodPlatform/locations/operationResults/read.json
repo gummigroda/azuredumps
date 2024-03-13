@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/locations/operationResults/read",
+  "OperationName": "Return result of async operation in Microsoft AgFoodPlatform resource provider.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "Returns result of async operation in Microsoft AgFoodPlatform resource provider.",
+  "Description": "Returns result of async operation in Microsoft AgFoodPlatform resource provider.",
+  "IsDataAction": false
+}

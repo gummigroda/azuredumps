@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/PrivateEndpointConnections/Delete",
+  "OperationName": "Delete a private endpoint connection",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private endpoint connection",
+  "Description": "Delete a private endpoint connection",
+  "IsDataAction": false
+}

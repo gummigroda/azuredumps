@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualnetworks/Read",
+  "OperationName": "Gets/List virtualnetworks resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualnetworks",
+  "Description": "Read virtualnetworks",
+  "IsDataAction": false
+}

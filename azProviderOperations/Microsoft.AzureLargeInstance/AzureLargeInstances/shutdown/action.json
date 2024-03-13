@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/AzureLargeInstances/shutdown/action",
+  "OperationName": "Stop AzureLargeInstance",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "AzureLargeInstance",
+  "Description": "Stop any AzureLargeInstance",
+  "IsDataAction": false
+}

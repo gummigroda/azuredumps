@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/write",
+  "OperationName": "Delete an Enrollment Account",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enrollment Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

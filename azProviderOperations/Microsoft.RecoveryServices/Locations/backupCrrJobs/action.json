@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupCrrJobs/action",
+  "OperationName": "List CRR Jobs",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "List Cross Region Restore Jobs in the secondary region for Recovery Services Vault.",
+  "IsDataAction": false
+}

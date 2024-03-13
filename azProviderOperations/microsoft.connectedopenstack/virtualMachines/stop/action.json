@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/stop/action",
+  "OperationName": "VirtualMachines_Stop",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Stop virtual machine.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/detectors/read",
+  "OperationName": "Read Detector",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Detectors",
+  "Description": "Read Detector",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/componentstatuses/read",
+  "OperationName": "Gets/List componentstatuses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Componentstatuses",
+  "Description": "Reads componentstatuses",
+  "IsDataAction": true
+}

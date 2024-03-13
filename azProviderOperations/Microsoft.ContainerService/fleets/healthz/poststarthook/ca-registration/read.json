@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/poststarthook/ca-registration/read",
+  "OperationName": "Gets/List ca-registration resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Ca-Registration",
+  "Description": "Reads ca-registration",
+  "IsDataAction": true
+}

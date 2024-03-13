@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkruleset/read",
+  "OperationName": "Gets NetworkRuleSet Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Rule Set",
+  "Description": "Gets NetworkRuleSet Resource",
+  "IsDataAction": false
+}

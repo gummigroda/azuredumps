@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/devices/write",
+  "OperationName": "Devices_Update",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups/devices",
+  "Description": "Update a Device. Use '.unassigned' or '.default' for the device group and product names to move a device to the catalog level.",
+  "IsDataAction": false
+}

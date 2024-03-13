@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/disableTestEndpoint/action",
+  "OperationName": "Disable a test endpoint of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Disable test endpoint functionality for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

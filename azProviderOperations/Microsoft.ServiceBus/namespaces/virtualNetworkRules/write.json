@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/virtualNetworkRules/write",
+  "OperationName": "Create VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Create VNET Rule Resource",
+  "IsDataAction": false
+}

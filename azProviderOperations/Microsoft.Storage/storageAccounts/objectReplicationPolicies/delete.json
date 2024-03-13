@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/objectReplicationPolicies/delete",
+  "OperationName": "Delete Object Replication Policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Policy",
+  "Description": "Delete object replication policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/manufacturingDataServices/delete",
+  "OperationName": "ManufacturingDataServices_Delete",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "manufacturingDataServices",
+  "Description": "Delete a MdsResource",
+  "IsDataAction": false
+}

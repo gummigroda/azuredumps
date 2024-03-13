@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/checkNameAvailability/action",
+  "OperationName": "Check Server Name Availability",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Auto Migration Operations",
+  "Description": "Verify whether given server name is available for provisioning worldwide for a given subscription.",
+  "IsDataAction": false
+}

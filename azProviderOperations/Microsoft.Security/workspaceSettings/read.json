@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/workspaceSettings/read",
+  "OperationName": "Get workspace settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Workspace Settings",
+  "Description": "Gets the workspace settings",
+  "IsDataAction": false
+}

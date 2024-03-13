@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/delete",
+  "OperationName": "Delete an private link service.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service",
+  "Description": "Deletes an private link service resource.",
+  "IsDataAction": false
+}

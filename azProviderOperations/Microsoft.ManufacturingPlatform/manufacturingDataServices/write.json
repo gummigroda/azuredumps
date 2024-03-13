@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/manufacturingDataServices/write",
+  "OperationName": "ManufacturingDataServices_Update",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "manufacturingDataServices",
+  "Description": "Update a MdsResource",
+  "IsDataAction": false
+}

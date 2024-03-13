@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/settings/templates/write",
+  "OperationName": "Review - Create or  Update Template",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage setting templates.",
+  "Description": "Creates or updates the specified template",
+  "IsDataAction": true
+}

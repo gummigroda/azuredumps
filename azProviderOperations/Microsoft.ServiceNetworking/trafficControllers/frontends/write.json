@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/frontends/write",
+  "OperationName": "Create or Update the Traffic Controller",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller Frontend",
+  "Description": "Create or Update the Traffic Controller Frontend resource",
+  "IsDataAction": false
+}

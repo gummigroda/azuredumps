@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/deployments/write",
+  "OperationName": "Write Deployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Writes deployments.",
+  "IsDataAction": false
+}

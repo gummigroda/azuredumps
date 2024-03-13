@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/virtualMachines/read",
+  "OperationName": "Get Virtual Machine",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/virtualMachines",
+  "Description": "Get the properties of a virtual machine.",
+  "IsDataAction": false
+}

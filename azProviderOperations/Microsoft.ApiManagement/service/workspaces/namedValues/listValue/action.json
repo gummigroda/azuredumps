@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/namedValues/listValue/action",
+  "OperationName": "Get the value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace NamedValues",
+  "Description": "Gets the secret of the named value specified by its identifier.",
+  "IsDataAction": false
+}

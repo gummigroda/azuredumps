@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/jobs/read",
+  "OperationName": "List Singularity Jobs",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Job",
+  "Description": "Lists Singularity jobs",
+  "IsDataAction": false
+}

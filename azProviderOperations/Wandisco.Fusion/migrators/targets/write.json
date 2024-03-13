@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/targets/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Targets",
+  "Description": "Creates a Migrator Target.",
+  "IsDataAction": false
+}

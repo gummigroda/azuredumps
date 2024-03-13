@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/bookShipmentPickUp/action",
+  "OperationName": "Book Shipment Pick Up",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "Allows to book a pick up for return shipments.",
+  "IsDataAction": false
+}

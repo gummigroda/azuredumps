@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/associatedTenants/write",
+  "OperationName": "AssociatedTenants_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Associated Tenants",
+  "Description": "Create or update an associated tenant for the billing account.",
+  "IsDataAction": false
+}

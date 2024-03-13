@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/azureADOnlyAuthentications/delete",
+  "OperationName": "Deletes a specific managed server Azure Active Directory only authentication object",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed server Azure Active Directory only authentication",
+  "Description": "Deletes a specific managed server Azure Active Directory only authentication object",
+  "IsDataAction": false
+}

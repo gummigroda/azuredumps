@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/amlFilesystems/delete",
+  "OperationName": "Delete amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystem",
+  "Description": "Deletes the amlfilesystem instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/ListLanguageExtensions/action",
+  "OperationName": "Lists language extensions action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Lists language extensions.",
+  "IsDataAction": false
+}

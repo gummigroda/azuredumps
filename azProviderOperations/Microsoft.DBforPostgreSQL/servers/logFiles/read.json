@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/logFiles/read",
+  "OperationName": "List/Get PostgreSQL LogFiles",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL LogFiles",
+  "Description": "Return the list of PostgreSQL LogFiles.",
+  "IsDataAction": false
+}

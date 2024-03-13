@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/delete",
+  "OperationName": "Pools_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools",
+  "Description": "Deletes a machine pool",
+  "IsDataAction": false
+}

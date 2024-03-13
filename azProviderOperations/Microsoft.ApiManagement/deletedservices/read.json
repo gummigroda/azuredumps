@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/deletedservices/read",
+  "OperationName": "Get deleted API Management Services",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Deleted API Management Service",
+  "Description": "Get deleted API Management Services which can be restored within the soft-delete period",
+  "IsDataAction": false
+}

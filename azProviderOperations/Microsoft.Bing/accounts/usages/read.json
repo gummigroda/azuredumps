@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/usages/read",
+  "OperationName": "Read Account Usages",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "Get the quota usage for an existing resource",
+  "IsDataAction": false
+}

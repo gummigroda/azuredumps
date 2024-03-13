@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessments/write",
+  "OperationName": "Create assessment",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Assessments",
+  "Description": "Create or update security assessments on your subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/discoveries/read",
+  "OperationName": "Read Discoveries",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Discoveries",
+  "Description": "Read and list the details of the available discoveries in the workspace",
+  "IsDataAction": true
+}

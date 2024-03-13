@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/unregister/action",
+  "OperationName": "Unregisters the Appliances Resource Provider",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for Appliances resource provider and disables the creation of Appliance.",
+  "IsDataAction": false
+}

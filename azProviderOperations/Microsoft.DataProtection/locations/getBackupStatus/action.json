@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/locations/getBackupStatus/action",
+  "OperationName": "Check Backup Status for Vault",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Vaults",
+  "Description": "Check Backup Status for Recovery Services Vaults",
+  "IsDataAction": false
+}

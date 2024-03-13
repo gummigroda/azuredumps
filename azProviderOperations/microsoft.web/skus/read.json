@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/skus/read",
+  "OperationName": "Get SKUs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "SKUs",
+  "Description": "Get SKUs.",
+  "IsDataAction": false
+}

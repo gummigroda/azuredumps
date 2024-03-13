@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/registries/assets/read",
+  "OperationName": "Reads assets in Machine Learning Services registry(ies)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Registry",
+  "Description": "Reads assets in Machine Learning Services registry(ies)",
+  "IsDataAction": false
+}

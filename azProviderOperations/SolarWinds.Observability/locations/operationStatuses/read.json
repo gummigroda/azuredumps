@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

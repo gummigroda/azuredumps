@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/disks/read",
+  "OperationName": "Get Storage Account Disk",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Disk",
+  "Description": "Returns the storage account disk.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/vaultTokens/read",
+  "OperationName": "Vault Token",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Vault Token operation can be used to get Vault Token for vault level backend operations.",
+  "IsDataAction": false
+}

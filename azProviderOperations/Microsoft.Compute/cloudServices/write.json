@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/write",
+  "OperationName": "Create or Update CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Resource",
+  "Description": "Created a new CloudService or Update an existing one.",
+  "IsDataAction": false
+}

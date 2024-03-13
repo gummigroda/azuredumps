@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/delete",
+  "OperationName": "Delete Azure SQL Sync Member",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Deletes an existing sync member.",
+  "IsDataAction": false
+}

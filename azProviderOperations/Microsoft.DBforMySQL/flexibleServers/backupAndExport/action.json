@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/backupAndExport/action",
+  "OperationName": "Create MySQL Server LTR BackupAndExport",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Creates a server backup for long term with specific backup name and export it.",
+  "IsDataAction": false
+}

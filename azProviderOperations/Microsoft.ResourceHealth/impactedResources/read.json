@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/impactedResources/read",
+  "OperationName": "Get Impacted Resources",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Impacted Resources",
+  "Description": "Get Impacted Resources for given subscription",
+  "IsDataAction": false
+}

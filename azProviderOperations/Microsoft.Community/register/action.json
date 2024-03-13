@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/register/action",
+  "OperationName": "Register the Microsoft.Community",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Community",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/write",
+  "OperationName": "Create/Update monitor resources",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Write monitors",
+  "IsDataAction": false
+}

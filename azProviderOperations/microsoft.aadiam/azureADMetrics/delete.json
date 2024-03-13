@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/azureADMetrics/delete",
+  "OperationName": "Azure AD Metrics Definition delete",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Azure AD Metrics Definition",
+  "Description": "Delete Azure AD Metrics Definition",
+  "IsDataAction": false
+}

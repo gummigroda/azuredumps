@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/checknameavailability/action",
+  "OperationName": "Check Managed Environment Name Availability",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Check reource name availability for a Managed Environment",
+  "IsDataAction": false
+}

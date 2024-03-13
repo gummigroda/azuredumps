@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/snapshots/beginGetAccess/action",
+  "OperationName": "Get Snapshot SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Snapshots",
+  "Description": "Get the SAS URI of the Snapshot for blob access",
+  "IsDataAction": false
+}

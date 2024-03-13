@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/aksAssessments/write",
+  "OperationName": "Create or update aks Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "aks Assessments",
+  "Description": "Creates a aks Assessment or updates an existing aks Assessment",
+  "IsDataAction": false
+}

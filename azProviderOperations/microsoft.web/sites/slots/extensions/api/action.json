@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/extensions/api/action",
+  "OperationName": "Invoke App Service Slots Extensions APIs.",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Extensions",
+  "Description": "Invoke App Service Slots Extensions APIs.",
+  "IsDataAction": false
+}

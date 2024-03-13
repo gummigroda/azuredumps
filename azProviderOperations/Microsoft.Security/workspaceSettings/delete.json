@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/workspaceSettings/delete",
+  "OperationName": "Delete workspace settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Workspace Settings",
+  "Description": "Deletes the workspace settings",
+  "IsDataAction": false
+}

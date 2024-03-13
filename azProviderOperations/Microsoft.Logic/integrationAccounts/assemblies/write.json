@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/assemblies/write",
+  "OperationName": "Set Integration Account Assembly",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Assembly",
+  "Description": "Creates or updates the assembly in integration account.",
+  "IsDataAction": false
+}

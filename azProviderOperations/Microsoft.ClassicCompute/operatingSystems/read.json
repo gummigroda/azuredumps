@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/operatingSystems/read",
+  "OperationName": "List available operating systems",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Lists the versions of the guest operating system that are currently available in Microsoft Azure.",
+  "IsDataAction": false
+}

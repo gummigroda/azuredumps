@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/delete",
+  "OperationName": "SAPVirtualInstances_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances",
+  "Description": "Deletes an SAP Virtual Instance.",
+  "IsDataAction": false
+}

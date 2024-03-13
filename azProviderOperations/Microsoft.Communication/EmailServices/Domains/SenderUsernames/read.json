@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SenderUsernames/read",
+  "OperationName": "SenderUsernames_Get",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SenderUsernames",
+  "Description": "Get the email SenderUsername and its properties.",
+  "IsDataAction": false
+}

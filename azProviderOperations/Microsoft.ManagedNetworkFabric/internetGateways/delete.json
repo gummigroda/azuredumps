@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGateways/delete",
+  "OperationName": "InternetGateways_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways",
+  "Description": "Execute a delete on Network Fabric Service Internet Gateway.",
+  "IsDataAction": false
+}

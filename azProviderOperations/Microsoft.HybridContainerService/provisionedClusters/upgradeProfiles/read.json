@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/upgradeProfiles/read",
+  "OperationName": "ProvisionedClusters_GetUpgradeProfile",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters/upgradeProfiles",
+  "Description": "read upgradeProfiles",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/unregister/action",
+  "OperationName": "Unregisters the NotificationHubs Provider",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the NotifciationHubs resource provider and enables the creation of Namespaces and NotificationHubs",
+  "IsDataAction": false
+}

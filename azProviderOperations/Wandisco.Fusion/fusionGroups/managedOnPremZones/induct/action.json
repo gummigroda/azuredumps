@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/managedOnPremZones/induct/action",
+  "OperationName": "Induct",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ManagedOnPremZones",
+  "Description": "Induct a managed OnPremZone.",
+  "IsDataAction": false
+}

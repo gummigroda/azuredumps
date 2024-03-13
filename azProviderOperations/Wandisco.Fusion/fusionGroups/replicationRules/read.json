@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ReplicationRules",
+  "Description": "Return a given replicationRule",
+  "IsDataAction": false
+}

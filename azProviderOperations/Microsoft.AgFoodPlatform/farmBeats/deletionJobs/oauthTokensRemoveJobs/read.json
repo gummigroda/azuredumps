@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/oauthTokensRemoveJobs/read",
+  "OperationName": "Get or List AgFoodPlatform oauth tokens resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform oauth tokens",
+  "Description": "Gets or Lists existing AgFoodPlatform oauth tokens resource(s).",
+  "IsDataAction": true
+}

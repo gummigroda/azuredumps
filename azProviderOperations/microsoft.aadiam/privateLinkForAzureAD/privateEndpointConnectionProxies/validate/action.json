@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Private Link Proxies validate",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Private Link Proxies",
+  "Description": "Validate Private Link Proxies",
+  "IsDataAction": false
+}

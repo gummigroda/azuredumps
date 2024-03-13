@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/read",
+  "OperationName": "Read metadata for an API Management Service instance",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Read metadata for an API Management Service instance",
+  "IsDataAction": false
+}

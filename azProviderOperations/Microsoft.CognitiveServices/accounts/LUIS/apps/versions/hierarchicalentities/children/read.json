@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/hierarchicalentities/children/read",
+  "OperationName": "Get hierarchical entity child",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hierarchical entity children",
+  "Description": "Gets info about the hierarchical entity child model.",
+  "IsDataAction": true
+}

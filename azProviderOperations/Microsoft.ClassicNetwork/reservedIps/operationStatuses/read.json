@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/reservedIps/operationStatuses/read",
+  "OperationName": "Get the Reserved Ips Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Reserved Ips Operation Status",
+  "Description": "Reads the operation status for the reserved ips.",
+  "IsDataAction": false
+}

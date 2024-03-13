@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/regexentities/roles/read",
+  "OperationName": "Get regular expression entity roles or Get regular expression role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Regex entity roles",
+  "Description": "Gets the roles for a regular expression entity model.\r\nGets the role for a regular expression entity model.",
+  "IsDataAction": true
+}

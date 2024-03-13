@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/update/action",
+  "OperationName": "Update Pipeline",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Updates any Pipeline.",
+  "IsDataAction": false
+}

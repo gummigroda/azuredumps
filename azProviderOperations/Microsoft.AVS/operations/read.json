@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/operations/read",
+  "OperationName": "List available Microsoft.AVS operations",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "operations",
+  "Description": "Lists operations available on Microsoft.AVS resource provider.",
+  "IsDataAction": false
+}

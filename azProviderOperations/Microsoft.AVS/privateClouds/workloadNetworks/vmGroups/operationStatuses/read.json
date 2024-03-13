@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/operationStatuses/read",
+  "OperationName": "Read vmGroups operationStatuses",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/vmGroups/operationStatuses",
+  "Description": "Read vmGroups operationStatuses.",
+  "IsDataAction": false
+}

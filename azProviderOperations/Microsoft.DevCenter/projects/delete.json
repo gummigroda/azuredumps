@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/delete",
+  "OperationName": "Projects_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects",
+  "Description": "Deletes a project resource.",
+  "IsDataAction": false
+}

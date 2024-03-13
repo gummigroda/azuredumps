@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/creation/compose/model/action",
+  "OperationName": "Compose Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Creates a new model from document types of existing models.",
+  "IsDataAction": true
+}

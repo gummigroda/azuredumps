@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/locations/operationResults/read",
+  "OperationName": "Read Data Share Location",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Long Running Operation Result",
+  "Description": "Reads the locations Data Share is supported in.",
+  "IsDataAction": false
+}

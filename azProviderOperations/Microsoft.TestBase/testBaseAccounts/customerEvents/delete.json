@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/customerEvents/delete",
+  "OperationName": "CustomerEvents_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/customerEvents",
+  "Description": "Deletes a Test Base Customer Event.",
+  "IsDataAction": false
+}

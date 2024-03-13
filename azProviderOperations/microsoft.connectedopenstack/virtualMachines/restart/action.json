@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/restart/action",
+  "OperationName": "VirtualMachines_Restart",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Restart virtual machine.",
+  "IsDataAction": false
+}

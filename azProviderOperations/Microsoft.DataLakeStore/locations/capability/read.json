@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/locations/capability/read",
+  "OperationName": "Get DataLakeStore Subscription Capability",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Subscription Capability",
+  "Description": "Get capability information of a subscription regarding using DataLakeStore.",
+  "IsDataAction": false
+}

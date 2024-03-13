@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/mutatingwebhookconfigurations/write",
+  "OperationName": "Creates/Updates mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "mutatingwebhookconfigurations",
+  "Description": "Writes mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

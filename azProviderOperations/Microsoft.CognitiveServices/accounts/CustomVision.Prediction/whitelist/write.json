@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/whitelist/write",
+  "OperationName": "PutWhitelistedUserWithCapability",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "whitelist*",
+  "Description": "Updates or creates a user in the whitelist with specific capability",
+  "IsDataAction": true
+}

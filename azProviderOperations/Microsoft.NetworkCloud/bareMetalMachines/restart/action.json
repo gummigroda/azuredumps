@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/restart/action",
+  "OperationName": "BareMetalMachines_Restart",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Restart the provided bare metal machine.",
+  "IsDataAction": false
+}

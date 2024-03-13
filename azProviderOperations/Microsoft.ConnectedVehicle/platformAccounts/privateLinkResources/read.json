@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/privateLinkResources/read",
+  "OperationName": "Get/List Private Link Resources",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "Connected Vehicle Platform Private Link Resources",
+  "Description": "Returns the list of Connected Vehicle Platform Private Link Resources",
+  "IsDataAction": false
+}

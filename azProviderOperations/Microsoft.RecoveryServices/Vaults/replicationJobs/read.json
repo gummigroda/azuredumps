@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationJobs/read",
+  "OperationName": "Read Jobs",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Jobs",
+  "Description": "Read any Jobs",
+  "IsDataAction": false
+}

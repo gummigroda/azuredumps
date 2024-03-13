@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/schemas/read",
+  "OperationName": "List Azure SQL Sync Member Database schema",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Return the list of sync member database schemas",
+  "IsDataAction": false
+}

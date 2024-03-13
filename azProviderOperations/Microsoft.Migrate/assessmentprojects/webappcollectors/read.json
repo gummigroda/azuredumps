@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/webappcollectors/read",
+  "OperationName": "Get Webapp collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Webapp Collector",
+  "Description": "Gets the properties of Webapp collector",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/read",
+  "OperationName": "NetworkFabrics_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "List all the Network Fabric resources in the given subscription.",
+  "IsDataAction": false
+}

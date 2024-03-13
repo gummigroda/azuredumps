@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/connections/connectionacls/delete",
+  "OperationName": "Delete Api Management Accounts APIs Connections Connectionacls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Connections Connectionacls",
+  "Description": "Delete Api Management Accounts APIs Connections Connectionacls.",
+  "IsDataAction": false
+}

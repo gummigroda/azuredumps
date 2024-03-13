@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/resynckeys/action",
+  "OperationName": "Resync secrets for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "Resync secrets for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

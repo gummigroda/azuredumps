@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/write",
+  "OperationName": "Add Singularity Account",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Account",
+  "Description": "Adds or updates Singularity account",
+  "IsDataAction": false
+}

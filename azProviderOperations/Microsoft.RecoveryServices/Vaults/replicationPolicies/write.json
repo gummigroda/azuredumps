@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationPolicies/write",
+  "OperationName": "Create or Update Policies",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Policies",
+  "Description": "Create or Update any Policies",
+  "IsDataAction": false
+}

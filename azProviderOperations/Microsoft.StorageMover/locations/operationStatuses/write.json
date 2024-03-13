@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

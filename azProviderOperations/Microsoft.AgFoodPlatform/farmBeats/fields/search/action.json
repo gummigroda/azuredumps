@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/fields/search/action",
+  "OperationName": "Search AgFoodPlatform field resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform fields",
+  "Description": "Searches existing AgFoodPlatform field resource(s).",
+  "IsDataAction": true
+}

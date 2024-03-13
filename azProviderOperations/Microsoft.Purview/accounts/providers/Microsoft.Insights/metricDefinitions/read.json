@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read metric definitions",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Metric definitions",
+  "Description": "Gets the available metrics for the catalog.",
+  "IsDataAction": false
+}

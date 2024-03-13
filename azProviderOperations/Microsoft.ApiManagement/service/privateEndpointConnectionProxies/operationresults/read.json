@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnectionProxies/operationresults/read",
+  "OperationName": "Api Management private endpoint operation results (read)",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connection Proxy",
+  "Description": "View the result of private endpoint connection operations in the management portal",
+  "IsDataAction": false
+}

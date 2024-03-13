@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

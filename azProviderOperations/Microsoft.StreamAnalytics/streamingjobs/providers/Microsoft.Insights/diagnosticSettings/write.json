@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting.",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "streamingjobs",
+  "Description": "Write diagnostic setting.",
+  "IsDataAction": false
+}

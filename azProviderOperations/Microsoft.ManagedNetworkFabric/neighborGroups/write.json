@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/neighborGroups/write",
+  "OperationName": "NeighborGroups_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "neighborGroups",
+  "Description": "Updates the Neighbor Group.",
+  "IsDataAction": false
+}

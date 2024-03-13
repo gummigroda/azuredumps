@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/diagnosticSettings/read",
+  "OperationName": "Get Diagnostic setting",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

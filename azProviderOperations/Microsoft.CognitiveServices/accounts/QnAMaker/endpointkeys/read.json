@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/endpointkeys/read",
+  "OperationName": "Endpoint Keys - Get Keys",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoint Keys",
+  "Description": "Gets endpoint keys for an endpoint",
+  "IsDataAction": true
+}

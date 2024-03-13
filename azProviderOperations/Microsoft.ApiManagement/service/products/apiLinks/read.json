@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/apiLinks/read",
+  "OperationName": "Get links or Get product-API details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-API links resource",
+  "Description": "Lists a collection of product-API links in the specified service instance. or Get product-API details.",
+  "IsDataAction": false
+}

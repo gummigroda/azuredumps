@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/addDisks/action",
+  "OperationName": "Add disks",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Add disks",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/delete",
+  "OperationName": "Delete Orders",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "Delete the Orders",
+  "IsDataAction": false
+}

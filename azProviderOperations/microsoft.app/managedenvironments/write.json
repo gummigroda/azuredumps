@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/write",
+  "OperationName": "Create or Update Managed Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Create or update a Managed Environment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/removePrivateEndPoints/action",
+  "OperationName": "ArtifactStores_RemovePrivateEndPoints",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Remove private endpoints connected to artifact store.",
+  "IsDataAction": false
+}

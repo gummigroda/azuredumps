@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/taskruns/operationStatuses/read",
+  "OperationName": "Gets a taskrun async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets a taskrun async operation status",
+  "IsDataAction": false
+}

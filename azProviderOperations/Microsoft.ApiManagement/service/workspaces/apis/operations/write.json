@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/operations/write",
+  "OperationName": "Create API operation or Update API operation",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API operations",
+  "Description": "Creates a new operation in the API or updates an existing one. or Updates the details of the operation in the API specified by its identifier.",
+  "IsDataAction": false
+}

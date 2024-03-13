@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions/read",
+  "OperationName": "Gets the Machine Learning Service Workspaces Marketplace Subscription(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Marketplace Subscription",
+  "Description": "Gets the Machine Learning Service Workspaces Marketplace Subscription(s)",
+  "IsDataAction": false
+}

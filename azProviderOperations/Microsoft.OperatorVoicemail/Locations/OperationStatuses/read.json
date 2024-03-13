@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperatorVoicemail/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.OperatorVoicemail",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

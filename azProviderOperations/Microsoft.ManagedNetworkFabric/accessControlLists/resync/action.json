@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/resync/action",
+  "OperationName": "AccessControlLists_Resync",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "Implements the operation to the underlying resources.",
+  "IsDataAction": false
+}

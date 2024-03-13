@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/advisors/read",
+  "OperationName": "Get advisors for a database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Advisor",
+  "Description": "Returns list of advisors available for the database",
+  "IsDataAction": false
+}

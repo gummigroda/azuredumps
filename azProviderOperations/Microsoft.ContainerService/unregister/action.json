@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/unregister/action",
+  "OperationName": "Unregister Subscription for Container Service",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.ContainerService resource provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/delete",
+  "OperationName": "ServiceConfigurations_Delete",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints/serviceConfigurations",
+  "Description": "Deletes the service details to the target resource.",
+  "IsDataAction": false
+}

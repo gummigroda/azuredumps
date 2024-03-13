@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/getVMHostPayload/action",
+  "OperationName": "Payload for VM Host",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "The payload to be sent for installing Dynatrace agent on VM",
+  "IsDataAction": false
+}

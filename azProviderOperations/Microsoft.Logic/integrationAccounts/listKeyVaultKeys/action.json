@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/listKeyVaultKeys/action",
+  "OperationName": "List Key Vault Keys",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account",
+  "Description": "Gets the keys in the key vault.",
+  "IsDataAction": false
+}

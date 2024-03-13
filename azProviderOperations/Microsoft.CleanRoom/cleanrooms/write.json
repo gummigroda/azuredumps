@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/cleanrooms/write",
+  "OperationName": "CleanRooms_Update",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "cleanrooms",
+  "Description": "Update tags on a clean room.",
+  "IsDataAction": false
+}

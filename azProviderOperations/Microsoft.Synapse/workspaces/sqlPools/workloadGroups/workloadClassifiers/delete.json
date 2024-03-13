@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/delete",
+  "OperationName": "Drops a specific workload classifier.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload classifier",
+  "Description": "Drops a specific workload classifier.",
+  "IsDataAction": false
+}

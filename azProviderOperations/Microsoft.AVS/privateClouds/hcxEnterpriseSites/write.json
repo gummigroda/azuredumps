@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/hcxEnterpriseSites/write",
+  "OperationName": "Create or update a hcxEnterpriseSites",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/hcxEnterpriseSites",
+  "Description": "Create or update a hcxEnterpriseSites.",
+  "IsDataAction": false
+}

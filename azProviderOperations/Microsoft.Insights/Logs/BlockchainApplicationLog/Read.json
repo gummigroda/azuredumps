@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BlockchainApplicationLog/Read",
+  "OperationName": "Read BlockchainApplicationLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BlockchainApplicationLog",
+  "Description": "Read data from the BlockchainApplicationLog table",
+  "IsDataAction": false
+}

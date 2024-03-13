@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/upfDeployments/read",
+  "OperationName": "UpfDeployments_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "upfDeployments",
+  "Description": "Get a UpfDeploymentResource",
+  "IsDataAction": false
+}

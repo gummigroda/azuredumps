@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/read",
+  "OperationName": "Query Data in Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "query",
+  "Description": "Run queries over the data in the workspace",
+  "IsDataAction": false
+}

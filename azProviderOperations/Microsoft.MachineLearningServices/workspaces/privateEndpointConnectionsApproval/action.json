@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve or reject a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "Approve or reject a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

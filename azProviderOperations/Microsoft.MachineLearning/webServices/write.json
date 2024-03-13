@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/webServices/write",
+  "OperationName": "Write Machine Learning Web Service",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Web Service",
+  "Description": "Create or Update any Machine Learning Web Service",
+  "IsDataAction": false
+}

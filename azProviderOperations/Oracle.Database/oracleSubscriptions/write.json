@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/oracleSubscriptions/write",
+  "OperationName": "OracleSubscriptions_Update",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "oracleSubscriptions",
+  "Description": "Update a OracleSubscription",
+  "IsDataAction": false
+}

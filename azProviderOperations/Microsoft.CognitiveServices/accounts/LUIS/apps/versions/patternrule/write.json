@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternrule/write",
+  "OperationName": "Add pattern",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern rule",
+  "Description": "Adds a pattern to the specified application version.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/register/action",
+  "OperationName": "Register Subscription for Migrate.OffAzure",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.OffAzure resource provider",
+  "IsDataAction": false
+}

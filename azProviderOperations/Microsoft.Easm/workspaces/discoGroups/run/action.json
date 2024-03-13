@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/run/action",
+  "OperationName": "DiscoGroups_Run",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Run a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

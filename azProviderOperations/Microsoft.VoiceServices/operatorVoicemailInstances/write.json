@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/operatorVoicemailInstances/write",
+  "OperationName": "OperatorVoicemailInstances_Update",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "operatorVoicemailInstances",
+  "Description": "Update a OperatorVoicemailInstance",
+  "IsDataAction": false
+}

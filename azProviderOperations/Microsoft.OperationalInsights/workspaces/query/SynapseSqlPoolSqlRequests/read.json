@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseSqlPoolSqlRequests/read",
+  "OperationName": "Read SynapseSqlPoolSqlRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseSqlPoolSqlRequests",
+  "Description": "Read data from the SynapseSqlPoolSqlRequests table",
+  "IsDataAction": false
+}

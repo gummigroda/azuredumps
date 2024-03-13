@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/networkSettings/read",
+  "OperationName": "List Device network settings",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Device network settings",
+  "Description": "Lists or gets the Device network settings",
+  "IsDataAction": false
+}

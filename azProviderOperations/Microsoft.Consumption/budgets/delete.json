@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/budgets/delete",
+  "OperationName": "Delete budgets",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Budgets",
+  "Description": "Delete the budgets by a subscription or a management group.",
+  "IsDataAction": false
+}

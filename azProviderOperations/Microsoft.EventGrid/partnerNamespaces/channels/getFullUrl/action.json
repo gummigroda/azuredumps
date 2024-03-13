@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/channels/getFullUrl/action",
+  "OperationName": "Get FullUrl of PartnerDestination Channel",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "channels",
+  "Description": "Get full url for the partner destination channel",
+  "IsDataAction": false
+}

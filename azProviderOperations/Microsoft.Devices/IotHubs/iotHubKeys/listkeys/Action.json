@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/iotHubKeys/listkeys/Action",
+  "OperationName": "Get IotHub Key for the given name",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get IotHub Key for the given name",
+  "IsDataAction": false
+}

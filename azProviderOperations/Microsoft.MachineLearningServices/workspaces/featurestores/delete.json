@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/featurestores/delete",
+  "OperationName": "Deletes the Machine Learning Services FeatureStore(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service FeatureStore",
+  "Description": "Deletes the Machine Learning Services FeatureStore(s)",
+  "IsDataAction": false
+}

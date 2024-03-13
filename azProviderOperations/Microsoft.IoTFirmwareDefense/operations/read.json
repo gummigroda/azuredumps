@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

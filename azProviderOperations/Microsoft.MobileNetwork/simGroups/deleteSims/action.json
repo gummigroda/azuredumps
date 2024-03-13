@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/simGroups/deleteSims/action",
+  "OperationName": "Sims_BulkDelete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "simGroups",
+  "Description": "Bulk delete SIMs from a SIM group.",
+  "IsDataAction": false
+}

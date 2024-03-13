@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeTables/routes/read",
+  "OperationName": "Get Route",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route",
+  "Description": "Gets a route definition",
+  "IsDataAction": false
+}

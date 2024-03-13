@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/dataMappers/read",
+  "OperationName": "Read Data Mapping",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Mapping",
+  "Description": "Reads Data Mapping.",
+  "IsDataAction": false
+}

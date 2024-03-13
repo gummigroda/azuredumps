@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/networkConfigurationDiagnostic/read",
+  "OperationName": "Network Configuration Diagnostic",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Diagnostic of network configuration.",
+  "IsDataAction": false
+}

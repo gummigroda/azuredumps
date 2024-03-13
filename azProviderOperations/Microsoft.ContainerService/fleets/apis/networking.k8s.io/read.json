@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apis/networking.k8s.io/read",
+  "OperationName": "Gets/List networking.k8s.io resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Networking.K8s.Io",
+  "Description": "Reads networking.k8s.io",
+  "IsDataAction": true
+}

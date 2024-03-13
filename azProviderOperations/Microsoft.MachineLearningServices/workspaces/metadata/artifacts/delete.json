@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/metadata/artifacts/delete",
+  "OperationName": "Deletes artifacts in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Metadata Artifacts",
+  "Description": "Deletes artifacts in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

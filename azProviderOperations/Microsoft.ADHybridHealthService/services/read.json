@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/read",
+  "OperationName": "Reads services.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Reads the service instances in the tenant.",
+  "IsDataAction": false
+}

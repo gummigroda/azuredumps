@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/delete",
+  "OperationName": "Vendors_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors",
+  "Description": "Deletes the specified vendor.",
+  "IsDataAction": false
+}

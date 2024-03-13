@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/webhooks/read",
+  "OperationName": "Get one or more web hooks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Webhooks",
+  "Description": "Get one or more web hooks",
+  "IsDataAction": true
+}

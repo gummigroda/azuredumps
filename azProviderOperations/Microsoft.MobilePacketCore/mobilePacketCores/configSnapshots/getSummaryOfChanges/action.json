@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/configSnapshots/getSummaryOfChanges/action",
+  "OperationName": "ConfigSnapshots_GetSummaryOfChanges",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/configSnapshots",
+  "Description": "action getSummaryOfChanges",
+  "IsDataAction": false
+}

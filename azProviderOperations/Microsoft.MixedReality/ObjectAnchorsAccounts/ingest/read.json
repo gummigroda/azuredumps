@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectAnchorsAccounts/ingest/read",
+  "OperationName": "Get model Ingestion Job Status",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectAnchorsAccounts",
+  "Description": "Get model Ingestion Job Status",
+  "IsDataAction": true
+}

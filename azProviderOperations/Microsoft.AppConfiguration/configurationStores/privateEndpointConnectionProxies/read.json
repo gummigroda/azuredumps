@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Get a private endpoint connection proxy under the specified configuration store.",
+  "IsDataAction": false
+}

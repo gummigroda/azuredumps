@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/resetMetrics/read",
+  "OperationName": "Gets/List resetMetrics resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "resetMetrics",
+  "Description": "Reads resetMetrics",
+  "IsDataAction": true
+}

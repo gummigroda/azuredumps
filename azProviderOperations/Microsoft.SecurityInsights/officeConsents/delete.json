@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/officeConsents/delete",
+  "OperationName": "Delete Consents",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "OfficeConsents",
+  "Description": "Deletes consents from Microsoft Office",
+  "IsDataAction": false
+}

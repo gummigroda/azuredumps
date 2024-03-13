@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/p2sVpnGateways/detach/action",
+  "OperationName": "Detaches a P2SVpnGateway Hub from WAN Traffic manager",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Detaches a P2SVpnGateway Hub from WAN Traffic manager",
+  "IsDataAction": false
+}

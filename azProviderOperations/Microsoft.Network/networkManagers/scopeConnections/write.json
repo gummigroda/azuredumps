@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/scopeConnections/write",
+  "OperationName": "Create Or Update Network Manager Scope Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager Scope Connection",
+  "Description": "Create Or Update Network Manager Scope Connection",
+  "IsDataAction": false
+}

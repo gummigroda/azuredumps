@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/delete",
+  "OperationName": "Delete API Account",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Deletes API accounts",
+  "IsDataAction": false
+}

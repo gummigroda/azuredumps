@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DiagnosticSettings/Delete",
+  "OperationName": "Delete resource diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Resource diagnostic settings",
+  "Description": "Delete a resource diagnostic setting",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/safeDeploymentContinue/action",
+  "OperationName": "MobilePacketCores_SafeDeploymentContinue",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores",
+  "Description": "action safeDeploymentContinue",
+  "IsDataAction": false
+}

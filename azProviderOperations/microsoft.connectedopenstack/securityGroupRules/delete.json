@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/securityGroupRules/delete",
+  "OperationName": "SecurityGroupRules_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "securityGroupRules",
+  "Description": "Implements SecurityGroupRule DELETE method.",
+  "IsDataAction": false
+}

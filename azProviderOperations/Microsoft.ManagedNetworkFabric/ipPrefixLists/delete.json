@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipPrefixLists/delete",
+  "OperationName": "IpPrefixLists_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipPrefixLists",
+  "Description": "Implements Ip Prefix List DELETE method.",
+  "IsDataAction": false
+}

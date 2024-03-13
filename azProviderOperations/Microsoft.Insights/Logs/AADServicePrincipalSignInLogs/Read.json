@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADServicePrincipalSignInLogs/Read",
+  "OperationName": "Read AADServicePrincipalSignInLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADServicePrincipalSignInLogs",
+  "Description": "Read data from the AADServicePrincipalSignInLogs table",
+  "IsDataAction": false
+}

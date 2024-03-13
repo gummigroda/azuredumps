@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/recoveryPlans/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": null,
+  "IsDataAction": false
+}

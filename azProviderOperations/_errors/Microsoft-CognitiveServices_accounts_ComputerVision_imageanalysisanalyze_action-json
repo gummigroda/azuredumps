@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/imageanalysis:analyze/action",
+  "OperationName": "Analyze",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Analyze the input image. The request either contains image stream with any content type ['image/*', 'application/octet-stream'], or a JSON payload which includes an url property to be used to retrieve the image stream.",
+  "IsDataAction": true
+}

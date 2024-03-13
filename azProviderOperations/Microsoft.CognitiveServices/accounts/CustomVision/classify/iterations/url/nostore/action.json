@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/classify/iterations/url/nostore/action",
+  "OperationName": "ClassifyImageUrlWithNoStore",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "url*",
+  "Description": "Classify an image url without saving the result.",
+  "IsDataAction": true
+}

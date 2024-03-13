@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/action",
+  "OperationName": "Image Lists - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Moderator",
+  "Description": "Create image list.",
+  "IsDataAction": true
+}

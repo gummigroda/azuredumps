@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/getssotoken/action",
+  "OperationName": "Get SSO token",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Gets SSO token that can be used to login into API Management Service Legacy portal as an administrator",
+  "IsDataAction": false
+}

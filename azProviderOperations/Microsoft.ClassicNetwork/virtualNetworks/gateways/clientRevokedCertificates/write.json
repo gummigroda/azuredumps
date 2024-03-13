@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/clientRevokedCertificates/write",
+  "OperationName": "Revoke Client Certificate",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Geteway Client Revoked Certificate",
+  "Description": "Revokes a client certificate.",
+  "IsDataAction": false
+}

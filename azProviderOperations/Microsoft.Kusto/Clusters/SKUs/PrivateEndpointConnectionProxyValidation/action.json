@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/SKUs/PrivateEndpointConnectionProxyValidation/action",
+  "OperationName": "Validate private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Cluster SKUs resource type",
+  "Description": "Validates a private endpoint connection proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/locations/publishers/extensionTypes/versions/read",
+  "OperationName": "Returns a list of versions for extensionMetadata based on query parameters.",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "Microsoft.HybridCompute/locations/publishers/extensionTypes/versions",
+  "Description": "Returns a list of versions for extensionMetadata based on query parameters.",
+  "IsDataAction": true
+}

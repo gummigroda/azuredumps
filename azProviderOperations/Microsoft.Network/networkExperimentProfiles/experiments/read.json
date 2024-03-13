@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkExperimentProfiles/experiments/read",
+  "OperationName": "Get an Internet Analyzer test",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Internet Analyzer Test",
+  "Description": "Get an Internet Analyzer test",
+  "IsDataAction": false
+}

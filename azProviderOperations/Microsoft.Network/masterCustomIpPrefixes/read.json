@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/masterCustomIpPrefixes/read",
+  "OperationName": "Get Master Custom Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Master Custom Ip Prefix",
+  "Description": "Gets a Master Custom Ip Prefix Definition",
+  "IsDataAction": false
+}

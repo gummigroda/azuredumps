@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datasets/unregistered/profile/write",
+  "OperationName": "Creates or updates dataset profiles for unregistered datasets in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Datasets",
+  "Description": "Creates or updates dataset profiles for unregistered datasets in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

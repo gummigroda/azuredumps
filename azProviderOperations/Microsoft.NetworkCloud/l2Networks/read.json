@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l2Networks/read",
+  "OperationName": "L2Networks_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l2Networks",
+  "Description": "Get properties of the provided layer 2 (L2) network.",
+  "IsDataAction": false
+}

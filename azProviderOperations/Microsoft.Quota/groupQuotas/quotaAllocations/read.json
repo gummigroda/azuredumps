@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/quotaAllocations/read",
+  "OperationName": "Get GroupQuota to Subscription Quota allocation",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota to Subscription Quota allocation",
+  "Description": "Get the current GroupQuota to Subscription Quota allocation",
+  "IsDataAction": false
+}

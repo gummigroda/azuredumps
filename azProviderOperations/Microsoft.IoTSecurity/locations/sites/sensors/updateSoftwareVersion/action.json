@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/sites/sensors/updateSoftwareVersion/action",
+  "OperationName": "Trigger sensor update",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Trigger sensor update",
+  "IsDataAction": false
+}

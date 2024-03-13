@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/getMetadata/action",
+  "OperationName": "Sub volume Metadata resource.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Sub volume resource type",
+  "Description": "Read sub volume metadata resource.",
+  "IsDataAction": false
+}

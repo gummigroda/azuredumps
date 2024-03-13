@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/organizations/read",
+  "OperationName": "Organizations_Get",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "organizations",
+  "Description": "Get a OrganizationResource",
+  "IsDataAction": false
+}

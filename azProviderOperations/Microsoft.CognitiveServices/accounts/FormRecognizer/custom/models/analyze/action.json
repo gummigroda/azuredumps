@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/analyze/action",
+  "OperationName": "Analyze Form",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Model - Results",
+  "Description": "Extract key-value pairs, tables, and semantic values from a given document. The input document must be of one of the supported content types - 'application/pdf', 'image/jpeg', 'image/png' or 'image/tiff'. Alternatively, use 'application/json' type to specify the Url location of the document to be analyzed.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/tagRules/read",
+  "OperationName": "Get tag rules resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "TagRules",
+  "Description": "Read tag rules",
+  "IsDataAction": false
+}

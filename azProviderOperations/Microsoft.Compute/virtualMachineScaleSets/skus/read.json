@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/skus/read",
+  "OperationName": "List SKUs for Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Set SKU",
+  "Description": "Lists the valid SKUs for an existing Virtual Machine Scale Set",
+  "IsDataAction": false
+}

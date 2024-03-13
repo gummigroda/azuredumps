@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/offerTypes/publishers/offers/plans/agreements/write",
+  "OperationName": "Puts an Agreement.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Accepts a signed agreement.",
+  "IsDataAction": false
+}

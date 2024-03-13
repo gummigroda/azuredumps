@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/schedules/read",
+  "OperationName": "Read an Azure Automation schedule asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Schedule Asset",
+  "Description": "Gets an Azure Automation schedule asset",
+  "IsDataAction": false
+}

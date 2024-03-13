@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitLabGroups/listSubgroups/action",
+  "OperationName": "GitLabSubgroups_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitLabGroups",
+  "Description": "Gets nested subgroups of given GitLab Group which are onboarded to the connector.",
+  "IsDataAction": false
+}

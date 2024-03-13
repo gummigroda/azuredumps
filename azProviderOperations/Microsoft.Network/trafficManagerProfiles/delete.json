@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/delete",
+  "OperationName": "Delete Traffic Manager Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Profile",
+  "Description": "Delete the Traffic Manager profile. All settings associated with the Traffic Manager profile will be lost, and the profile can no longer be used to route traffic.",
+  "IsDataAction": false
+}

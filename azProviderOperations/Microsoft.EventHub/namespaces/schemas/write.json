@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemas/write",
+  "OperationName": "Write schemas",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Schemas",
+  "Description": "Write schemas",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFPipelineRun/Read",
+  "OperationName": "Read ADFPipelineRun data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFPipelineRun",
+  "Description": "Read data from the ADFPipelineRun table",
+  "IsDataAction": false
+}

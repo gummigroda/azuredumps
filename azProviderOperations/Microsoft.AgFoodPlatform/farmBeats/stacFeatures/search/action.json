@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/stacFeatures/search/action",
+  "OperationName": "Search AgFoodPlatform Stac Feature resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform stacFeatures",
+  "Description": "Searches existing AgFoodPlatform Stac Feature resource(s).",
+  "IsDataAction": true
+}

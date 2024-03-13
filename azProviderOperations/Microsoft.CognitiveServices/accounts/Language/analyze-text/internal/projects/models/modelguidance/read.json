@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/models/modelguidance/read",
+  "OperationName": "AnalyzeText_Internal_Models_GetTrainedModelGuidance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "modelguidance*",
+  "Description": "Get trained model guidance.",
+  "IsDataAction": true
+}

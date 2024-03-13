@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/migrations/pause/action",
+  "OperationName": "Pause",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrations",
+  "Description": "Pause a migration",
+  "IsDataAction": false
+}

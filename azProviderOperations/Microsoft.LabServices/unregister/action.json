@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/unregister/action",
+  "OperationName": "Unregister Subscription for Lab Services",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "",
+  "Description": "Unregister the subscription with the Lab Services provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/integration/write",
+  "OperationName": "Create integration",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Integration",
+  "Description": "Create or update integration on your scope",
+  "IsDataAction": false
+}

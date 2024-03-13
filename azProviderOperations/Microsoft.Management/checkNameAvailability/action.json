@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "",
+  "Description": "Checks if the specified management group name is valid and unique.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkProfiles/setNetworkInterfaces/action",
+  "OperationName": "Set Container Network Interfaces",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Profile",
+  "Description": "Sets Container Network Interfaces",
+  "IsDataAction": false
+}

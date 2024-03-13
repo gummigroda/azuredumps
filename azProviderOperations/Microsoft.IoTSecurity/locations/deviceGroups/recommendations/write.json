@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/recommendations/write",
+  "OperationName": "Update IoT Recommendation properties",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Recommendations",
+  "Description": "Updates IoT Recommendation properties",
+  "IsDataAction": false
+}

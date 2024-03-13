@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/namedValues/read",
+  "OperationName": "Get all named values or Get named value details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace NamedValues",
+  "Description": "Lists a collection of named values defined within a service instance. or Gets the details of the named value specified by its identifier.",
+  "IsDataAction": false
+}

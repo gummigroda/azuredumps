@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationExtensions/delete",
+  "OperationName": "Deletes replication extension",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Extensions",
+  "Description": "Deletes any replication extensions",
+  "IsDataAction": false
+}

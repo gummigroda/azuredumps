@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADXQuery/read",
+  "OperationName": "Read ADXQuery data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADXQuery",
+  "Description": "Read data from the ADXQuery table",
+  "IsDataAction": false
+}

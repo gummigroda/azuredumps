@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/testSuites/read",
+  "OperationName": "Get or List Certify testSuites resource(s).",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "testSuites",
+  "Description": "Gets or Lists existing Certify testSuites resource(s).",
+  "IsDataAction": false
+}

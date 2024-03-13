@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/ResolveHealthErrors/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": null,
+  "IsDataAction": false
+}

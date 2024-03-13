@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/extractapidefinitionfromwsdl/action",
+  "OperationName": "Extract Api Definition from WSDL for Locations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations",
+  "Description": "Extract Api Definition from WSDL for Locations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/admissionregistration.k8s.io/mutatingwebhookconfigurations/write",
+  "OperationName": "Creates/Updates mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Mutatingwebhookconfigurations",
+  "Description": "Writes mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

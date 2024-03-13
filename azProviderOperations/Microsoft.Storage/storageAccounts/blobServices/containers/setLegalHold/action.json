@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/setLegalHold/action",
+  "OperationName": "Set blob container legal hold",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers",
+  "Description": "Set blob container legal hold",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/Read",
+  "OperationName": "Read data collection endpoint",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint",
+  "Description": "Read a data collection endpoint",
+  "IsDataAction": false
+}

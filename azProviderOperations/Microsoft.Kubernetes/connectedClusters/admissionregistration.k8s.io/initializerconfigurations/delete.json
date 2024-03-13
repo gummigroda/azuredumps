@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/initializerconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection initializerconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "initializerconfigurations",
+  "Description": "Deletes initializerconfigurations",
+  "IsDataAction": true
+}

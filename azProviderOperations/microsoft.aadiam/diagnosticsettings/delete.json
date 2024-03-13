@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/diagnosticsettings/delete",
+  "OperationName": "Diagnostic settings delete",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Deleting a diagnostic setting",
+  "IsDataAction": false
+}

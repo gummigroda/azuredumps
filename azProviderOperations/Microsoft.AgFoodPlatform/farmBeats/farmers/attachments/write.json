@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/attachments/write",
+  "OperationName": "Create or Update AgFoodPlatform attachments.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform attachments",
+  "Description": "Creates or Updates AgFoodPlatform attachments.",
+  "IsDataAction": true
+}

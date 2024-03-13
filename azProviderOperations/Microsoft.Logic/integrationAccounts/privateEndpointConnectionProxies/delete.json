@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Private Endpoints Connection Proxies",
+  "Description": "Deletes the Private Endpoint Connection Proxies.",
+  "IsDataAction": false
+}

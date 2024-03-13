@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/attachednetworks/write",
+  "OperationName": "AttachedNetworks_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/attachednetworks",
+  "Description": "Creates or updates an attached NetworkConnection.",
+  "IsDataAction": false
+}

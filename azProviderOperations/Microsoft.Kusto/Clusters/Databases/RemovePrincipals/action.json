@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/RemovePrincipals/action",
+  "OperationName": "Remove database principals action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Removes database principals.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SQLSecurityAuditEvents/read",
+  "OperationName": "Read SQLSecurityAuditEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SQLSecurityAuditEvents",
+  "Description": "Read data from the SQLSecurityAuditEvents table",
+  "IsDataAction": false
+}

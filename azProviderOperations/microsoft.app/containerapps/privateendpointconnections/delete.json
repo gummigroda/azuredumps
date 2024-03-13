@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/privateendpointconnections/delete",
+  "OperationName": "Delete Container App Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App Private Endpoint Connection",
+  "Description": "Delete Container App Private Endpoint Connection",
+  "IsDataAction": false
+}

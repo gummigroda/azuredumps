@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/listNewPlansNotifications/action",
+  "OperationName": "List new plans notifications",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "List new plans notifications",
+  "IsDataAction": false
+}

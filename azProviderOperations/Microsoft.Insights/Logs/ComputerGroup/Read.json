@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ComputerGroup/Read",
+  "OperationName": "Read ComputerGroup data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ComputerGroup",
+  "Description": "Read data from the ComputerGroup table",
+  "IsDataAction": false
+}

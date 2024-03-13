@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltentities/roles/read",
+  "OperationName": "Get prebuilt domain entity role info or Get prebuilt domain entity roles info",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain entity roles",
+  "Description": "Gets the role for a custom prebuilt domain entity model.\r\nGets the roles for a custom prebuilt domain entity model.",
+  "IsDataAction": true
+}

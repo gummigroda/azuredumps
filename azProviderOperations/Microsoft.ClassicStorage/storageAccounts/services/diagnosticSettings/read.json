@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/services/diagnosticSettings/read",
+  "OperationName": "Get Diagnostics Settings",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Diagnostics Settings",
+  "Description": "Get the diagnostics settings.",
+  "IsDataAction": false
+}

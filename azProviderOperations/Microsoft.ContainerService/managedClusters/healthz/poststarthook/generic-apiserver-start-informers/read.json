@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/healthz/poststarthook/generic-apiserver-start-informers/read",
+  "OperationName": "Gets/List generic-apiserver-start-informers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Generic-Apiserver-Start-Informers",
+  "Description": "Reads generic-apiserver-start-informers",
+  "IsDataAction": true
+}

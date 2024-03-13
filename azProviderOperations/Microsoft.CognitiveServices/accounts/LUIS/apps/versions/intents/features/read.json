@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/features/read",
+  "OperationName": "models - Get intent feature relations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "features*",
+  "Description": "Gets the feature relations for an intent model.",
+  "IsDataAction": true
+}

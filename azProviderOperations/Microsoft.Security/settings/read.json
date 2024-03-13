@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/settings/read",
+  "OperationName": "Get settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Settings",
+  "Description": "Gets the settings for the scope",
+  "IsDataAction": false
+}

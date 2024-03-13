@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/listClusterAdminCredential/action",
+  "OperationName": "ProvisionedClusters_ListClusterAdminCredentials",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters",
+  "Description": "Lists the admin credentials of a provisioned cluster used only in direct mode.",
+  "IsDataAction": false
+}

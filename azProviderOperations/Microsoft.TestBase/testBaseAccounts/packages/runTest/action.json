@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/runTest/action",
+  "OperationName": "Packages_RunTest",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages",
+  "Description": "Trigger a test run on the package.",
+  "IsDataAction": false
+}

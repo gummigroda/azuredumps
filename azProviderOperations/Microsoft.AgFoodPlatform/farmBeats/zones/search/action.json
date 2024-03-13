@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/zones/search/action",
+  "OperationName": "Search AgFoodPlatform zone resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform zones",
+  "Description": "Searches existing AgFoodPlatform zone resource(s).",
+  "IsDataAction": true
+}

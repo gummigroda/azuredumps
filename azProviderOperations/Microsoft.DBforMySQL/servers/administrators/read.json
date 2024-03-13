@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/administrators/read",
+  "OperationName": "Get Administrators of MySQL server.",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Administrator of MySQL server.",
+  "Description": "Gets a list of MySQL server administrators.",
+  "IsDataAction": false
+}

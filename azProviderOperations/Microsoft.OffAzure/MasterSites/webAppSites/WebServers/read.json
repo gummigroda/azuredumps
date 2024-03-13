@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/WebServers/read",
+  "OperationName": "Gets Web App Web Servers",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Web Server",
+  "Description": "Gets Web App Web Servers",
+  "IsDataAction": false
+}

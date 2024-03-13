@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/slices/delete",
+  "OperationName": "Slices_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/slices",
+  "Description": "Deletes the specified network slice.",
+  "IsDataAction": false
+}

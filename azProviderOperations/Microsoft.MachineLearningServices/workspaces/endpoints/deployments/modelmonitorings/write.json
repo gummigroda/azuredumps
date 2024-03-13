@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/endpoints/deployments/modelmonitorings/write",
+  "OperationName": "Creates or updates model monitor detectors for specific deployment on an online enpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Enpoint Deployment Model Monitor",
+  "Description": "Creates or updates model monitor detectors for specific deployment on an online enpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

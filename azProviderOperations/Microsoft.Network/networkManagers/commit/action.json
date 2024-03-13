@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/commit/action",
+  "OperationName": "Network Manager Commit",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Network Manager Commit",
+  "IsDataAction": false
+}

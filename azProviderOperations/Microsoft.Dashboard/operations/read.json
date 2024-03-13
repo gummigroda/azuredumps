@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/operations/read",
+  "OperationName": "List available Microsoft.Dashboard operations",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "operations",
+  "Description": "List operations available on Microsoft.Dashboard resource provider",
+  "IsDataAction": false
+}

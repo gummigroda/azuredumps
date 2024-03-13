@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageTasks/storageTaskAssignments/read",
+  "OperationName": "List Storage Task Assignments by Storage Task",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Task Assignments",
+  "Description": "List all storage task assignments of a storage task",
+  "IsDataAction": false
+}

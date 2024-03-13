@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/featuresuggestion/status/read",
+  "OperationName": "versions - Get application version feature suggestion status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "status*",
+  "Description": "Get application version feature suggestion status",
+  "IsDataAction": true
+}

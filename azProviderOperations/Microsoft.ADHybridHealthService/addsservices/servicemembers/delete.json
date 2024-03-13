@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/servicemembers/delete",
+  "OperationName": "Deletes a server.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Deletes a server for a given service and tenant.",
+  "IsDataAction": false
+}

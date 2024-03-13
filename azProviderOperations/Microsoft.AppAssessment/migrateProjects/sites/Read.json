@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/sites/Read",
+  "OperationName": "Gets/List sites within a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/sites",
+  "Description": "Read migrate project site",
+  "IsDataAction": false
+}

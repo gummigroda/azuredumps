@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/PrivateLinkResources/read",
+  "OperationName": "Reads private link resources",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private link resources resource type",
+  "Description": "Reads private link resources",
+  "IsDataAction": false
+}

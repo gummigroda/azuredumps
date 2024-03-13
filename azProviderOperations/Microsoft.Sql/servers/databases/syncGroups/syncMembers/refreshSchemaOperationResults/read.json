@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/refreshSchemaOperationResults/read",
+  "OperationName": "Get sync member schema refresh operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Retrieve result of the sync member schema refresh operation",
+  "IsDataAction": false
+}

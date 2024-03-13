@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/firewallRules/delete",
+  "OperationName": "Delete server firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Firewall Rule",
+  "Description": "Deletes an existing server firewall rule.",
+  "IsDataAction": false
+}

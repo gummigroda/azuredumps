@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/origingroupresults/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdOriginGroup",
+  "Description": null,
+  "IsDataAction": false
+}

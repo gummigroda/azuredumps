@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/capacityReservationGroups/capacityReservations/delete",
+  "OperationName": "Delete Capacity Reservation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Capacity Reservations",
+  "Description": "Deletes the capacity reservation",
+  "IsDataAction": false
+}

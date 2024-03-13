@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/jobs/execution/read",
+  "OperationName": "Get a single execution from a Container Apps Job",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container Apps Job",
+  "Description": "Get a single execution from a Container Apps Job",
+  "IsDataAction": false
+}

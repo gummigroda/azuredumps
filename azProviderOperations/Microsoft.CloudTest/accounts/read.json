@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/accounts/read",
+  "OperationName": "Read CloudTest Account",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "accounts",
+  "Description": "Reads CloudTest Account",
+  "IsDataAction": false
+}

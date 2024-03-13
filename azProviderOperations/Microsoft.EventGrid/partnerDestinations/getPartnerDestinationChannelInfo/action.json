@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerDestinations/getPartnerDestinationChannelInfo/action",
+  "OperationName": "Get Channel details of activated PartnerDestination",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerDestinations",
+  "Description": "Get channel details of activated partner destination",
+  "IsDataAction": false
+}

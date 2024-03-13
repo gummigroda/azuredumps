@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/delete",
+  "OperationName": "Delete volume resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Deletes a volume resource.",
+  "IsDataAction": false
+}

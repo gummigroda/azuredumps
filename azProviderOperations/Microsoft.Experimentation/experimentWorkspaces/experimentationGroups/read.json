@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
+  "OperationName": "Read Experimentation Group",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experimentation Group Type",
+  "Description": "Reads Experimentation Group",
+  "IsDataAction": true
+}

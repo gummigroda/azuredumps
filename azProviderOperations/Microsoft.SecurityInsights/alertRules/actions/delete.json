@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/alertRules/actions/delete",
+  "OperationName": "Delete Alert Rule Response Actions",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Alert Rules Actions",
+  "Description": "Deletes the response actions of an alert rule",
+  "IsDataAction": false
+}

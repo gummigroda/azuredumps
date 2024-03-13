@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/activationStatuses/read",
+  "OperationName": "ActivationStatuses_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/activationStatuses",
+  "Description": "Lists all the Activation Statuses in a mobile packet core instance.",
+  "IsDataAction": false
+}

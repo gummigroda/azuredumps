@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete an private endpoint connection proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Deletes an private endpoint connection proxy resource.",
+  "IsDataAction": false
+}

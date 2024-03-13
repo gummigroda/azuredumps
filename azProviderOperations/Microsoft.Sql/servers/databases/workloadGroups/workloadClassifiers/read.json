@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/read",
+  "OperationName": "Lists the workload classifiers for a selected database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The allowed operations for a data warehouse workload management workload classifier.",
+  "Description": "Lists the workload classifiers for a selected database.",
+  "IsDataAction": false
+}

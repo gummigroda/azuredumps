@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/files/action",
+  "OperationName": "CreateImagesFromFiles",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "This API accepts a batch of files, and optionally tags, to create images. There is a limit of 64 images and 20 tags.",
+  "IsDataAction": true
+}

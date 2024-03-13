@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/unregister/action",
+  "OperationName": "Unregister the Microsoft.ModSimWorkbench",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ModSimWorkbench",
+  "IsDataAction": false
+}

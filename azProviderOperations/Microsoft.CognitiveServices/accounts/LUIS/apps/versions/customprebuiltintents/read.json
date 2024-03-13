@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltintents/read",
+  "OperationName": "Get prebuilt domain intents list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain intents",
+  "Description": "Gets custom prebuilt intents info for this application version.",
+  "IsDataAction": true
+}

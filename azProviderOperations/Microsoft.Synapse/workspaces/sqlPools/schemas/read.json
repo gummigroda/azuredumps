@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/schemas/read",
+  "OperationName": "Read SQL Analytics pool Schemas.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Schemas",
+  "Description": "Read any SQL Analytics pool Schemas.",
+  "IsDataAction": false
+}

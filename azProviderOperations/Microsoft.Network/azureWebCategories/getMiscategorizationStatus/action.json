@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureWebCategories/getMiscategorizationStatus/action",
+  "OperationName": "Get Miscategorization Status",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure WebCategories",
+  "Description": "Gets Miscategorization Status",
+  "IsDataAction": false
+}

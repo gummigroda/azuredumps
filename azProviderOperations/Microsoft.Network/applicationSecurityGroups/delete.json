@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/delete",
+  "OperationName": "Deletes An Application Security Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Deletes an Application Security Group",
+  "IsDataAction": false
+}

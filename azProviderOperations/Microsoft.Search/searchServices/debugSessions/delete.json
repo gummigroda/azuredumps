@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/debugSessions/delete",
+  "OperationName": "Delete Debug Session",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Debug Sessions",
+  "Description": "Delete a debug session.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/transcriptions/files/read",
+  "OperationName": "Get Transcription File|Get Transcription Files*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "files*",
+  "Description": "Gets one specific file (identified with fileId) from a transcription (identified with id).\r\nGets the files of the transcription identified by the given ID.*",
+  "IsDataAction": true
+}

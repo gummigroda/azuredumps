@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/validateEstimateHighAvailability/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": null,
+  "IsDataAction": false
+}

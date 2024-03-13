@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/msixpackages/write",
+  "OperationName": "Write hostpools/msixpackages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/msixpackages",
+  "Description": "Write hostpools/msixpackages",
+  "IsDataAction": false
+}

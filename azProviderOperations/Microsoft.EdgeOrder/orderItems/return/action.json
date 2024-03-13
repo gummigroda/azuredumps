@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/orderItems/return/action",
+  "OperationName": "Return OrderItem",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "OrderItem",
+  "Description": "Return an OrderItem.",
+  "IsDataAction": false
+}

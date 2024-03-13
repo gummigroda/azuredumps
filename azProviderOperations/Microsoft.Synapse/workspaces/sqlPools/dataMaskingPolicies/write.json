@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/write",
+  "OperationName": "Creates or updates a SQL Analytics pool data masking policy",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Data Masking Policy",
+  "Description": "Creates or updates a SQL Analytics pool data masking policy",
+  "IsDataAction": false
+}

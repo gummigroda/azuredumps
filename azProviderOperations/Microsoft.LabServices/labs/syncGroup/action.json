@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/syncGroup/action",
+  "OperationName": "Sync Lab from Group",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs",
+  "Description": "Updates the list of users from the Active Directory group assigned to the lab.",
+  "IsDataAction": false
+}

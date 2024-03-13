@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/train/advanced/action",
+  "OperationName": "TrainProjectWithPipelineConfigAndTrainingType",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "train*",
+  "Description": "Queues project for training with PipelineConfiguration and training type.",
+  "IsDataAction": true
+}

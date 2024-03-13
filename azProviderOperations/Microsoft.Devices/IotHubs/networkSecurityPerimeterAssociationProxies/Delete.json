@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/networkSecurityPerimeterAssociationProxies/Delete",
+  "OperationName": "Delete NSP association proxy",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/NetworkSecurityPerimeters",
+  "Description": "Delete an NSP association proxy to disassociate the IotHub resource from the NSP",
+  "IsDataAction": false
+}

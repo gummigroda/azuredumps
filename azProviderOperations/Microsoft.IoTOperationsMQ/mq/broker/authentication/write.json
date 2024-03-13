@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/authentication/write",
+  "OperationName": "BrokerAuthentication_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker/authentication",
+  "Description": "Update a BrokerAuthenticationResource",
+  "IsDataAction": false
+}

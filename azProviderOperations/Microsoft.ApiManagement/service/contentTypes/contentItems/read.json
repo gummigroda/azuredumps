@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/contentTypes/contentItems/read",
+  "OperationName": "Get all or Get content item details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Content items",
+  "Description": "Returns list of content items or Returns content item details",
+  "IsDataAction": false
+}

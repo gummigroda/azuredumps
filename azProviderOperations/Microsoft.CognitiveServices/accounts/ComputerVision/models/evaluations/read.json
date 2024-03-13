@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/models/evaluations/read",
+  "OperationName": "GetModelEvaluation|GetModelEvaluations*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Get information about a specific model evaluation.\r\nGet a list of the available evaluations for a model.*",
+  "IsDataAction": true
+}

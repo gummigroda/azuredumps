@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/solutionConfigurations/write",
+  "OperationName": "SolutionConfiguration_Update",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "solutionConfigurations",
+  "Description": "Updates the solution configuration for solution name.",
+  "IsDataAction": false
+}

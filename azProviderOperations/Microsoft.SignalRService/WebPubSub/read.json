@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/read",
+  "OperationName": "Manage WebPubSub(read-only)",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "View the WebPubSub's settings and configurations in the management portal or through API",
+  "IsDataAction": false
+}

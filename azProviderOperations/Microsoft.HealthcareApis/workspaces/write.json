@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

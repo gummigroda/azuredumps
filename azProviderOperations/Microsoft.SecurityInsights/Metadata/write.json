@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Metadata/write",
+  "OperationName": "Write Metadata",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Metadata",
+  "Description": "Write Metadata for Sentinel content.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/keys/delete",
+  "OperationName": "Delete Azure Database for PostgreSQL Server Key",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL Server Keys",
+  "Description": "Deletes an existing server key.",
+  "IsDataAction": false
+}

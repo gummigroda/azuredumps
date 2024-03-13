@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/firewallRules/read",
+  "OperationName": "List/Get Server firewall rule(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Firewall Rule",
+  "Description": "Return the list of server firewall rules or gets the properties for the specified server firewall rule.",
+  "IsDataAction": false
+}

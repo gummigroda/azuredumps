@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NetworkMonitoring/read",
+  "OperationName": "Read NetworkMonitoring data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NetworkMonitoring",
+  "Description": "Read data from the NetworkMonitoring table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/TXT/delete",
+  "OperationName": "Delete record set of type TXT",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS TXT record set",
+  "Description": "Remove the record set of a given name and type ‘TXT’ from a DNS zone.",
+  "IsDataAction": false
+}

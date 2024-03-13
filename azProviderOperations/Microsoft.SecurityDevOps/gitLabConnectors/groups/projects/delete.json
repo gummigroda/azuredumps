@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitLabConnectors/groups/projects/delete",
+  "OperationName": "GitLabProjects_Delete",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitLabConnectors/groups/projects",
+  "Description": "delete projects",
+  "IsDataAction": false
+}

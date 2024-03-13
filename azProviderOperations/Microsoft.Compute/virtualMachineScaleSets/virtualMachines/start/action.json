@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/start/action",
+  "OperationName": "Start Virtual Machine in a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine in Scale Set",
+  "Description": "Starts a Virtual Machine instance in a VM Scale Set.",
+  "IsDataAction": false
+}

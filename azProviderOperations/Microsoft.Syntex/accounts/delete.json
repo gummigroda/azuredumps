@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/accounts/delete",
+  "OperationName": "Accounts_Delete",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "accounts",
+  "Description": "Delete a Account",
+  "IsDataAction": false
+}

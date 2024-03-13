@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/import/action",
+  "OperationName": "ImportProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Imports a project.",
+  "IsDataAction": true
+}

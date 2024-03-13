@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models/read",
+  "OperationName": "Get Models|Get Model*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Gets the list of custom models for the authenticated subscription.\r\nGets the model identified by the given ID.*",
+  "IsDataAction": true
+}

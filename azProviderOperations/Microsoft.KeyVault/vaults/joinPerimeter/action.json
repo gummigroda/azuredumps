@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/joinPerimeter/action",
+  "OperationName": "Action to join the Network Security Perimeter",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "Action to join the Network Security Perimeter, used by linked access checks by NRP.",
+  "IsDataAction": false
+}

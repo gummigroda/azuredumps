@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/templateSpecs/write",
+  "OperationName": "编写模板规格",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "模板规格",
+  "Description": "创建或更新模板规格",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/restorePoints/action",
+  "OperationName": "Creates a restore point",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Creates a new restore point",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/metadataSync/read",
+  "OperationName": "Read SQL Analytics pool Metadata Sync Config",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Metadata Sync Config",
+  "Description": "Read SQL Analytics pool Metadata Sync Config",
+  "IsDataAction": false
+}

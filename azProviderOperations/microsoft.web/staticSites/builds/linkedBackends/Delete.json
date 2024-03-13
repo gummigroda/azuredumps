@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/builds/linkedBackends/Delete",
+  "OperationName": "Unlink Static Site Build Backend",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build Linked Backends",
+  "Description": "Unlink a Backend from a Static Site Build",
+  "IsDataAction": false
+}

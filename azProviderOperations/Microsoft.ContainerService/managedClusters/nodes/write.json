@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/nodes/write",
+  "OperationName": "Creates/Updates nodes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Nodes",
+  "Description": "Writes nodes",
+  "IsDataAction": true
+}

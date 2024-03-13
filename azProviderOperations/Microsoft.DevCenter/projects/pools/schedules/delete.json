@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/schedules/delete",
+  "OperationName": "Schedules_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools/schedules",
+  "Description": "Deletes a Scheduled.",
+  "IsDataAction": false
+}

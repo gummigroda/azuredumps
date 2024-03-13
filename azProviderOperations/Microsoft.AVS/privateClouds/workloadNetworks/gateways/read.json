@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/gateways/read",
+  "OperationName": "Read gateways",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/gateways",
+  "Description": "Read gateways.",
+  "IsDataAction": false
+}

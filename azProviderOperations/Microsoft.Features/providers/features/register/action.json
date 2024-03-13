@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Features/providers/features/register/action",
+  "OperationName": "Register Provider Feature",
+  "ProviderNamespace": "Microsoft Feature",
+  "ResourceName": "Feature",
+  "Description": "Registers the feature for a subscription in a given resource provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/policy/write",
+  "OperationName": "Update Policy.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage configuration policies",
+  "Description": "Update the Learning Settings that the Personalizer service will use to train models.",
+  "IsDataAction": true
+}

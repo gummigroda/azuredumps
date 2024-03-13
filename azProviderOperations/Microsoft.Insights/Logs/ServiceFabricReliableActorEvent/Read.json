@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ServiceFabricReliableActorEvent/Read",
+  "OperationName": "Read ServiceFabricReliableActorEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ServiceFabricReliableActorEvent",
+  "Description": "Read data from the ServiceFabricReliableActorEvent table",
+  "IsDataAction": false
+}

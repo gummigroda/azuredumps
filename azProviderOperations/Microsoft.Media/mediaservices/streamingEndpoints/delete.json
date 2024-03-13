@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/delete",
+  "OperationName": "Delete Streaming Endpoint",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoint",
+  "Description": "Delete any Streaming Endpoint",
+  "IsDataAction": false
+}

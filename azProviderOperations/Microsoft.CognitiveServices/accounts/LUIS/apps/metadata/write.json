@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/metadata/write",
+  "OperationName": "app - Update application metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "metadata*",
+  "Description": "Updates the application metadata",
+  "IsDataAction": true
+}

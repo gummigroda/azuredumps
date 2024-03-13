@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/sku/read",
+  "OperationName": "Get Sku",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Sku",
+  "Description": "Get list of Sku Resource Descriptions",
+  "IsDataAction": false
+}

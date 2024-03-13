@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/diagnosticSettings/write",
+  "OperationName": "Set Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

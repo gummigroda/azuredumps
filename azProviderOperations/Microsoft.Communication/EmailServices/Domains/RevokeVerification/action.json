@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/RevokeVerification/action",
+  "OperationName": "Domain_RevokeVerification",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Revoke existing verified status of a Dns record.",
+  "IsDataAction": false
+}

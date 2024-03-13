@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/subnets/associatedNetworkSecurityGroups/write",
+  "OperationName": "Add Subnet Associated Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Subnet Associated Network Security Group",
+  "Description": "Adds a network security group associated with the subnet.",
+  "IsDataAction": false
+}

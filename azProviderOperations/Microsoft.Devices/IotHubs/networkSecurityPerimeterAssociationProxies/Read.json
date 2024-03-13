@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/networkSecurityPerimeterAssociationProxies/Read",
+  "OperationName": "List NSP association proxies",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/NetworkSecurityPerimeters",
+  "Description": "List all NSP association proxies associated with the IotHub",
+  "IsDataAction": false
+}

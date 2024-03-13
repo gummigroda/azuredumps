@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/models/load-snapshot/jobs/read",
+  "OperationName": "Get load snapshot status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status for loading a snapshot.",
+  "IsDataAction": true
+}

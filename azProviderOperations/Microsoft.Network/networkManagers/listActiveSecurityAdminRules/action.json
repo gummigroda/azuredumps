@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/listActiveSecurityAdminRules/action",
+  "OperationName": "List Active Security Admin Rules",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Lists Active Security Admin Rules",
+  "IsDataAction": false
+}

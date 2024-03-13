@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AlertRules/Resolved/Action",
+  "OperationName": "Classic metric alert resolved",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Classic Metric Alerts",
+  "Description": "Classic metric alert resolved",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/cases/comments/write",
+  "OperationName": "Create Case Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Case Comments",
+  "Description": "Creates the case comments",
+  "IsDataAction": false
+}

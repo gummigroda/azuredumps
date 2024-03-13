@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFSSISPackageExecutionDataStatistics/Read",
+  "OperationName": "Read ADFSSISPackageExecutionDataStatistics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFSSISPackageExecutionDataStatistics",
+  "Description": "Read data from the ADFSSISPackageExecutionDataStatistics table",
+  "IsDataAction": false
+}

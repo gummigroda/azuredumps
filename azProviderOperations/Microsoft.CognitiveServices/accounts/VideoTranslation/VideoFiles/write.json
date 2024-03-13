@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/VideoFiles/write",
+  "OperationName": "Create or update video files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video files operations.",
+  "Description": "Create or update video files.",
+  "IsDataAction": true
+}

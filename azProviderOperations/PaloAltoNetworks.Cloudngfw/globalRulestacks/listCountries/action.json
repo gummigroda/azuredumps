@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/listCountries/action",
+  "OperationName": "GlobalRulestack_listCountries",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "List of countries for Rulestack",
+  "IsDataAction": false
+}

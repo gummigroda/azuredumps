@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodecounts/read",
+  "OperationName": "Gets node count summary for the specified type",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Node summary counts",
+  "Description": "Reads node count summary for the specified type",
+  "IsDataAction": false
+}

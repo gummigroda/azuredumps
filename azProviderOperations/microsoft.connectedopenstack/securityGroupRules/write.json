@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/securityGroupRules/write",
+  "OperationName": "SecurityGroupRules_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "securityGroupRules",
+  "Description": "API to update certain properties of the SecurityGroupRule resource.",
+  "IsDataAction": false
+}

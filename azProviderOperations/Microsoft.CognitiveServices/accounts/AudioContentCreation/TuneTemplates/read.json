@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneTemplates/read",
+  "OperationName": "Query tune template.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC tune template",
+  "Description": "Query tune template.",
+  "IsDataAction": true
+}

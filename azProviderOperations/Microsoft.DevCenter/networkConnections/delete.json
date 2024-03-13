@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/delete",
+  "OperationName": "NetworkConnections_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections",
+  "Description": "Deletes a Network Connections resource",
+  "IsDataAction": false
+}

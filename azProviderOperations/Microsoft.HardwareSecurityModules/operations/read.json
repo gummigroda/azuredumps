@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/operations/read",
+  "OperationName": "Available Hardware Security Modules Operations",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "Operations",
+  "Description": "Lists operations available on Microsoft.HardwareSecurityModules resource provider",
+  "IsDataAction": false
+}

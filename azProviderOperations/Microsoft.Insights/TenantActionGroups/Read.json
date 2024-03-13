@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/TenantActionGroups/Read",
+  "OperationName": "Read tenant action group",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Tenant Action Groups",
+  "Description": "Read a tenant action group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/authorizations/read",
+  "OperationName": "Get Express Route Ports Authorization",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Ports Authorization",
+  "Description": "Gets an ExpressRoutePorts Authorization",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/departments/enrollmentAccounts/read",
+  "OperationName": "BillingProfileEnrollmentAccounts_ListByDepartmentName",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enrollment Accounts",
+  "Description": "Get list of enrollment accounts using billing profile ID and department ID",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/amfDeployments/delete",
+  "OperationName": "AmfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/amfDeployments",
+  "Description": "Deletes the specified Mobile Packet Core Access and Mobility Management Function Deployment resource.",
+  "IsDataAction": false
+}

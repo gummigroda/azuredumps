@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection",
+  "Description": "Approves or rejects an existing private endpoint connection",
+  "IsDataAction": false
+}

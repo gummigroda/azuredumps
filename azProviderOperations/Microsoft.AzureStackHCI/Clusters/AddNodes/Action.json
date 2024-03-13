@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/AddNodes/Action",
+  "OperationName": "Adds Arc Nodes to the cluster",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Adds Arc Nodes to the cluster",
+  "IsDataAction": false
+}

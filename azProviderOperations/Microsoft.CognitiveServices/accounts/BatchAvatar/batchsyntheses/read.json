@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/BatchAvatar/batchsyntheses/read",
+  "OperationName": "Read Avatar Batch Syntheses",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch Syntheses",
+  "Description": "Gets one or more avatar batch syntheses.",
+  "IsDataAction": true
+}

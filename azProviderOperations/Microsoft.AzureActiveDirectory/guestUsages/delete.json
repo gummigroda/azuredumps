@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/guestUsages/delete",
+  "OperationName": "Delete Guest Usages resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "Guest Usages",
+  "Description": "Delete Guest Usages resource",
+  "IsDataAction": false
+}

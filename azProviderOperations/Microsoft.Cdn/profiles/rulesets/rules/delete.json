@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/rulesets/rules/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Rule",
+  "Description": null,
+  "IsDataAction": false
+}

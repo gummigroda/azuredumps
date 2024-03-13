@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/instances/extensions/read",
+  "OperationName": "Get Web Apps Instances Extensions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Instances Extensions",
+  "Description": "Get Web Apps Instances Extensions.",
+  "IsDataAction": false
+}

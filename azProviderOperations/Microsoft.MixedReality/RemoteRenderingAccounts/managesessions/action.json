@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/managesessions/action",
+  "OperationName": "Start sessions",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Start sessions",
+  "IsDataAction": true
+}

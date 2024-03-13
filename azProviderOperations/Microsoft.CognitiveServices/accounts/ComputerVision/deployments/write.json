@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/deployments/write",
+  "OperationName": "CreateDeployment|UpdateDeployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Deploy an operation to be run on the target device.\r\nUpdate the properties of an existing deployment.",
+  "IsDataAction": true
+}

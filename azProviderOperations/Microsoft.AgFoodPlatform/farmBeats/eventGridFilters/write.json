@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/eventGridFilters/write",
+  "OperationName": "Create or Update AgFoodPlatform Event Grid filters.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Event Grid filters",
+  "Description": "Creates or Updates AgFoodPlatform Event Grid filters.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/write",
+  "OperationName": "Change the state of a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Change the state of a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

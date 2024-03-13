@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/globalReachConnections/read",
+  "OperationName": "Read globalReachConnections",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/globalReachConnections",
+  "Description": "Read globalReachConnections.",
+  "IsDataAction": false
+}

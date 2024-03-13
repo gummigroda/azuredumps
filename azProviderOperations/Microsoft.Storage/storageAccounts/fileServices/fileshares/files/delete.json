@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete",
+  "OperationName": "Delete Files",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Returns the result of deleting a file/folder",
+  "IsDataAction": true
+}

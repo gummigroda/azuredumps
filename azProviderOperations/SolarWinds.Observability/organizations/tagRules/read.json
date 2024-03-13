@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/tagRules/read",
+  "OperationName": "TagRules_Get",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/tagRules",
+  "Description": "Get a TagRule",
+  "IsDataAction": false
+}

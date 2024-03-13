@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/domains/renew/Action",
+  "OperationName": "Renew Domain",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "Domain",
+  "Description": "Renew an existing domain.",
+  "IsDataAction": false
+}

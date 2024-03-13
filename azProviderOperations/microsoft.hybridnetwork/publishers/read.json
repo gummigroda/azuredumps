@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/read",
+  "OperationName": "Publishers_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers",
+  "Description": "Gets information about the specified publisher.",
+  "IsDataAction": false
+}

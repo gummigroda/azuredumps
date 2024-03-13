@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/eventGridFilters/write",
+  "OperationName": "Create EventGrid Subscription for Key Vault notification",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "EventGrid Subscription for Key Vault",
+  "Description": "Notifies Microsoft.KeyVault that a new EventGrid Subscription for Key Vault is being created",
+  "IsDataAction": false
+}

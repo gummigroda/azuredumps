@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/operations/read",
+  "OperationName": "Read all operations",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Resource Provider",
+  "Description": "Reads all available operations in Data Share Resource Provider.",
+  "IsDataAction": false
+}

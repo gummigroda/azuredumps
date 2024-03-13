@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/compilationjobs/write",
+  "OperationName": "Puts an Azure Automation DSC's Compilation",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Compilations",
+  "Description": "Writes an Azure Automation DSC's Compilation",
+  "IsDataAction": false
+}

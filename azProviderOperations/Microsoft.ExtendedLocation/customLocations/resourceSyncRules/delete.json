@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/resourceSyncRules/delete",
+  "OperationName": "Delete Resource Sync Rule",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Resource Sync Rules",
+  "Description": "Deletes Resource Sync Rule resource",
+  "IsDataAction": false
+}

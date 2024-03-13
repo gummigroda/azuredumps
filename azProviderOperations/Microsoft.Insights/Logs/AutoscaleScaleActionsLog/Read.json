@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AutoscaleScaleActionsLog/Read",
+  "OperationName": "Read AutoscaleScaleActionsLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AutoscaleScaleActionsLog",
+  "Description": "Read data from the AutoscaleScaleActionsLog table",
+  "IsDataAction": false
+}

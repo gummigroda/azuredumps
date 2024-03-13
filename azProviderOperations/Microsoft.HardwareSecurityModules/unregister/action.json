@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "",
+  "Description": "Unregisters a subscription",
+  "IsDataAction": false
+}

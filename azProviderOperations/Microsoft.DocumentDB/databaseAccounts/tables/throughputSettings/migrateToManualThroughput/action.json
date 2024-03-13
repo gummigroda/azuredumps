@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/migrateToManualThroughput/action",
+  "OperationName": "Migrate table offer to to manual throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table throughput setting",
+  "Description": "Migrate table offer to to manual throughput.",
+  "IsDataAction": false
+}

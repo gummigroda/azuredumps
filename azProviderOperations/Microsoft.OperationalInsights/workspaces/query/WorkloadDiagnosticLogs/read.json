@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WorkloadDiagnosticLogs/read",
+  "OperationName": "Read WorkloadDiagnosticLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WorkloadDiagnosticLogs",
+  "Description": "Read data from the WorkloadDiagnosticLogs table",
+  "IsDataAction": false
+}

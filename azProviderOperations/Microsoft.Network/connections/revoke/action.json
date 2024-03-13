@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/revoke/action",
+  "OperationName": "Marks an Exprress Route Connection status as Revoked",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection",
+  "Description": "Marks an Exprress Route Connection status as Revoked",
+  "IsDataAction": false
+}

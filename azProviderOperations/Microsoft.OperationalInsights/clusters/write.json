@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/clusters/write",
+  "OperationName": "Create/Update Cluster",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Cluster",
+  "Description": "Create or updates a Cluster",
+  "IsDataAction": false
+}

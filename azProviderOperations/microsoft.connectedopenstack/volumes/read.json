@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumes/read",
+  "OperationName": "Volumes_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumes",
+  "Description": "Implements Volumes list by subscription GET method.",
+  "IsDataAction": false
+}

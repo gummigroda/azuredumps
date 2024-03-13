@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/read",
+  "OperationName": "Clusters_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters",
+  "Description": "Get properties of the provided cluster.",
+  "IsDataAction": false
+}

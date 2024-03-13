@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/getp2svpnconnectionhealthdetailed/action",
+  "OperationName": "Gets a P2S Vpn Connection health detailed for P2SVpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Gets a P2S Vpn Connection health detailed for P2SVpnGateway",
+  "IsDataAction": false
+}

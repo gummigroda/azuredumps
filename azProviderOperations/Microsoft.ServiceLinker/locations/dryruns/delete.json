@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/dryruns/delete",
+  "OperationName": "Connector_DeleteDryrun",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/dryruns",
+  "Description": "delete a dryrun job",
+  "IsDataAction": false
+}

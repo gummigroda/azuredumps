@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/operationResults/read",
+  "OperationName": "Get Container Operation Results",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Containers Operation Results",
+  "Description": "Gets result of Operation performed on Protection Container.",
+  "IsDataAction": false
+}

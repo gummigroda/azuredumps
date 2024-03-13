@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/validate/action",
+  "OperationName": "Validates changes from the specified branch",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Validates changes from the specified git branch",
+  "IsDataAction": false
+}

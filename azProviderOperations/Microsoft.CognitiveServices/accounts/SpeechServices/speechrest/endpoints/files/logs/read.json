@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/endpoints/files/logs/read",
+  "OperationName": "Get one or more custom model endpoint logs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Logs",
+  "Description": "Get one or more custom model endpoint logs",
+  "IsDataAction": true
+}

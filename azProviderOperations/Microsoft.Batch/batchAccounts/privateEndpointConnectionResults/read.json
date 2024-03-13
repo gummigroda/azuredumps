@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/privateEndpointConnectionResults/read",
+  "OperationName": "Get Batch account private endpoint connection operation results",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Gets the results of a long running Batch account private endpoint connection operation",
+  "IsDataAction": false
+}

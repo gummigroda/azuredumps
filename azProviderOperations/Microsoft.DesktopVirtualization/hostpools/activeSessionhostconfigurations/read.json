@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/activeSessionhostconfigurations/read",
+  "OperationName": "Read activeSessionhostconfigurations",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "activeSessionhostconfigurations",
+  "Description": "Read the appattachpackages to see configurations present.",
+  "IsDataAction": false
+}

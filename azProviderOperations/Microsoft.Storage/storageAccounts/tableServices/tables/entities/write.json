@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/tables/entities/write",
+  "OperationName": "Insert, merge, update or replace table entities",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Table Entities",
+  "Description": "Insert, merge, or replace table entities",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagerConnections/delete",
+  "OperationName": "Delete Network Manager Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager Connection",
+  "Description": "Delete Network Manager Connection",
+  "IsDataAction": false
+}

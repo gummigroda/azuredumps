@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerPlatformConnectorActivity/read",
+  "OperationName": "Read PowerPlatformConnectorActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerPlatformConnectorActivity",
+  "Description": "Read data from the PowerPlatformConnectorActivity table",
+  "IsDataAction": false
+}

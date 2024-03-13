@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/dataWarehouseQueries/read",
+  "OperationName": "Read SQL Analytics pool Queries.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Queries",
+  "Description": "Read any SQL Analytics pool Queries.",
+  "IsDataAction": false
+}

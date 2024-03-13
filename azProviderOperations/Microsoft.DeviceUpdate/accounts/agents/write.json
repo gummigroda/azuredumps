@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/agents/write",
+  "OperationName": "Create/Update Agent",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Agent",
+  "Description": "Creates or updates a Device Update Agent",
+  "IsDataAction": false
+}

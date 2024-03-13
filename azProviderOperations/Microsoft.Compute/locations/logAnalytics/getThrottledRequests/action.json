@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/logAnalytics/getThrottledRequests/action",
+  "OperationName": "Create logs to show aggregates of throttled requests",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Log Analytics",
+  "Description": "Create logs to show aggregates of throttled requests grouped by ResourceName, OperationName, or the applied Throttle Policy.",
+  "IsDataAction": false
+}

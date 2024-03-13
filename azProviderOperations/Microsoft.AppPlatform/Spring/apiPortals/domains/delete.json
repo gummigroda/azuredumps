@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apiPortals/domains/delete",
+  "OperationName": "Delete Microsoft Azure Spring Apps API portal domain",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The API portal domain of Microsoft Azure Spring Apps",
+  "Description": "Delete the API portal domain for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

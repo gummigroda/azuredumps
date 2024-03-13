@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/joinPerimeter/action",
+  "OperationName": "Access check for joining Network Security Perimeter",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Access check for joining Network Security Perimeter",
+  "IsDataAction": false
+}

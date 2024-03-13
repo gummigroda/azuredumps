@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/setsessionrecordingsasurl/action",
+  "OperationName": "Sets SAS URL for BastionHost Session Recording Feature",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Sets SAS URL for BastionHost Session Recording Feature",
+  "IsDataAction": false
+}

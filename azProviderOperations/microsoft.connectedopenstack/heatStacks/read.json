@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/heatStacks/read",
+  "OperationName": "HeatStacks_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "heatStacks",
+  "Description": "Implements HeatStacks list by subscription GET method.",
+  "IsDataAction": false
+}

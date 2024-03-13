@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/snapshots/delete",
+  "OperationName": "Delete Snapshot",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Snapshots",
+  "Description": "Deletes a snapshot",
+  "IsDataAction": false
+}

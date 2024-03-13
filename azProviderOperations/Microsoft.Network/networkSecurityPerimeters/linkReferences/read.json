@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/linkReferences/read",
+  "OperationName": "Gets a Network Security Perimeter LinkReference",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter LinkReference",
+  "Description": "Gets a Network Security Perimeter LinkReference",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/registeredServers/write",
+  "OperationName": "Create or Update Registered Server",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Registered Server",
+  "Description": "Create or Update any Registered Server",
+  "IsDataAction": false
+}

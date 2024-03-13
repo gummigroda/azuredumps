@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/tenants/register/action",
+  "OperationName": "register tenants",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "tenants/register",
+  "Description": "Register action for scope of Microsoft.Consumption by a tenant.",
+  "IsDataAction": false
+}

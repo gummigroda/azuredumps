@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/deletePrivateEndpointOnAcr/action",
+  "OperationName": "NetworkCloudControllers_deletePrivateEndpointOnAcr",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Delete private endpoint on acr in network fabric controller managed resource group.",
+  "IsDataAction": false
+}

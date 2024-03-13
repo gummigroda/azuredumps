@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/moveResources/read",
+  "OperationName": "Gets all the move resources or a move resource from the move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move resource",
+  "Description": "Gets all the move resources or a move resource from the move collection",
+  "IsDataAction": false
+}

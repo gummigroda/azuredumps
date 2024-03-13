@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/updateProperties/action",
+  "OperationName": "Updates properties for machines in a site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Updates the properties for machines in a site",
+  "IsDataAction": false
+}

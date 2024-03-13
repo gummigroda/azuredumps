@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/read",
+  "OperationName": "Read Custom Resource Provider",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Custom Resource Provider ",
+  "Description": "Gets the Custom Resource Provider Manifest",
+  "IsDataAction": false
+}

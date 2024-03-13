@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/Extensions/Upgrade/Action",
+  "OperationName": "Upgrade extension resources of HCI cluster",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings/Extensions",
+  "Description": "Upgrade extension resources of HCI cluster",
+  "IsDataAction": false
+}

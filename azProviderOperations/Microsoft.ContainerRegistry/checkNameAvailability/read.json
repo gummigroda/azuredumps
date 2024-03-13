@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/checkNameAvailability/read",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "",
+  "Description": "Checks whether the container registry name is available for use.",
+  "IsDataAction": false
+}

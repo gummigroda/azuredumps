@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection",
+  "Description": "Deletes a Device Update Private Endpoint Connection",
+  "IsDataAction": false
+}

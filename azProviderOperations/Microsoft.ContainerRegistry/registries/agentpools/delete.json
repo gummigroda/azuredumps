@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/agentpools/delete",
+  "OperationName": "Delete an agentpool for a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Delete an agentpool for a container registry.",
+  "IsDataAction": false
+}

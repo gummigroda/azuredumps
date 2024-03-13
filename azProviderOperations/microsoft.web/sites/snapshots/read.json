@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/snapshots/read",
+  "OperationName": "Get Web Apps Snapshots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Snapshots",
+  "Description": "Get Web Apps Snapshots.",
+  "IsDataAction": false
+}

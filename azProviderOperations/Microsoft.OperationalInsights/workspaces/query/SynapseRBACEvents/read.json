@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseRBACEvents/read",
+  "OperationName": "Read SynapseRBACEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseRBACEvents",
+  "Description": "Read data from the SynapseRBACEvents table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/read",
+  "OperationName": "fileRequests_List",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/fileRequests",
+  "Description": "Get ModSim Workbench chamber data pipeline file request resource collection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGatewayRules/write",
+  "OperationName": "InternetGatewayRules_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGatewayRules",
+  "Description": "API to update certain properties of the Internet Gateway Rule resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/operationResults/read",
+  "OperationName": "OperationResults_Get",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps OperationResults",
+  "Description": "Get devops long running operation result.",
+  "IsDataAction": false
+}

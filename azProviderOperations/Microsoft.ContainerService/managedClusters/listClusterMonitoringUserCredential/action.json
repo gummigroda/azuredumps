@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/listClusterMonitoringUserCredential/action",
+  "OperationName": "List clusterMonitoringUser credential",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "List the clusterMonitoringUser credential of a managed cluster",
+  "IsDataAction": false
+}

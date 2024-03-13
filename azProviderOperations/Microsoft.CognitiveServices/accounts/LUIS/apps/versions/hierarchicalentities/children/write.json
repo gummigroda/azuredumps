@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/hierarchicalentities/children/write",
+  "OperationName": "Create or Update hierarchical child entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hierarchical entity children",
+  "Description": "Creates a single child in an existing hierarchical entity model.\r\nRenames a single child in an existing hierarchical entity model.",
+  "IsDataAction": true
+}

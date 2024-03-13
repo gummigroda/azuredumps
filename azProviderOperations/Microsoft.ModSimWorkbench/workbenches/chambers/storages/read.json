@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/storages/read",
+  "OperationName": "storages_List",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/storages",
+  "Description": "Lists all storages.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSCallDiagnostics/read",
+  "OperationName": "Read ACSCallDiagnostics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSCallDiagnostics",
+  "Description": "Read data from the ACSCallDiagnostics table",
+  "IsDataAction": false
+}

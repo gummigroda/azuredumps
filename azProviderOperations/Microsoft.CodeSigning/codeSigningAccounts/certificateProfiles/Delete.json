@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/certificateProfiles/Delete",
+  "OperationName": "Deletes Certificate Profiles",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CertificateProfiles",
+  "Description": "Deletes certificate profiles.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/webhooks/write",
+  "OperationName": "Create or Update an Azure Automation webhook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Webhook",
+  "Description": "Creates or updates an Azure Automation webhook",
+  "IsDataAction": false
+}

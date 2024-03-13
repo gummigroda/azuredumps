@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/experiments/cancel/action",
+  "OperationName": "Cancels a Chaos Experiment.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Chaos Experiment",
+  "Description": "Cancels a running Chaos Experiment to stop the fault injection.",
+  "IsDataAction": false
+}

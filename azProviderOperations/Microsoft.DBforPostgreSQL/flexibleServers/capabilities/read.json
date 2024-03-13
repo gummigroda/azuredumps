@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/capabilities/read",
+  "OperationName": "Gets the capabilities for this subscription",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Location Capability",
+  "Description": "Gets the capabilities for this subscription in a given location",
+  "IsDataAction": false
+}

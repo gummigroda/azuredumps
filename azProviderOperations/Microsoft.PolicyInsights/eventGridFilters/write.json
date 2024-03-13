@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid Filters",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Event Grid Filters",
+  "Description": "Create or update Event Grid filters.",
+  "IsDataAction": false
+}

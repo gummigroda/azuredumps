@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/weather/read",
+  "OperationName": "Weather Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Weather",
+  "Description": "Allows reading of data for Weather services.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/monitoredSubscriptions/write",
+  "OperationName": "Create/Update monitored subscriptions for the resource",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "MonitoredSubscriptions",
+  "Description": "Write monitored subscriptions",
+  "IsDataAction": false
+}

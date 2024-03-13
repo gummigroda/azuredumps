@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels:analyze/action",
+  "OperationName": "Analysis - Analyze Document",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Analyze document with prebuilt or custom models.",
+  "IsDataAction": true
+}

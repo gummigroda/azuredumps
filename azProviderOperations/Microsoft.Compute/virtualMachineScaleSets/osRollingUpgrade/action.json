@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/osRollingUpgrade/action",
+  "OperationName": "Upgrades OS on Virtual Machine Scale Set instances to the latest available Platform Image OS version.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Starts a rolling upgrade to move all Virtual Machine Scale Set instances to the latest available Platform Image OS version.",
+  "IsDataAction": false
+}

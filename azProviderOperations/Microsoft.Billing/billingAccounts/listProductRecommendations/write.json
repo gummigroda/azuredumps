@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/listProductRecommendations/write",
+  "OperationName": "Recommendations_ListByBillingAccountName",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "List Product Recommendations",
+  "Description": "Lists ProductIds or offerIds recommended for purchase on an account. Please specify the type of the cohort for the billing account in the 'x-ms-recommendations-cohort-type' header as a required string parameter.",
+  "IsDataAction": false
+}

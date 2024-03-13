@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/autoApprovedPrivateLinkServices/read",
+  "OperationName": "Get Auto Approved Private Link Services",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Auto Approved Private Link Service.",
+  "Description": "Gets Auto Approved Private Link Services",
+  "IsDataAction": false
+}

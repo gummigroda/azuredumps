@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/Delete",
+  "OperationName": "Deletes vcenters resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters",
+  "Description": "Deletes vcenters",
+  "IsDataAction": false
+}

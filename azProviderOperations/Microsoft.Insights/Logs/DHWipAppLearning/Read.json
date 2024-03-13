@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHWipAppLearning/Read",
+  "OperationName": "Read DHWipAppLearning data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHWipAppLearning",
+  "Description": "Read data from the DHWipAppLearning table",
+  "IsDataAction": false
+}

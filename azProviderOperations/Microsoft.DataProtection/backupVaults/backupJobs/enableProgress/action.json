@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupJobs/enableProgress/action",
+  "OperationName": "Backup Job Object",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "Get Job details",
+  "IsDataAction": false
+}

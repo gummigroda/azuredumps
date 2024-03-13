@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/firewalls/write",
+  "OperationName": "Firewalls_Update",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "firewalls",
+  "Description": "Update a FirewallResource",
+  "IsDataAction": false
+}

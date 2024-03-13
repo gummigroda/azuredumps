@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/secureScores/read",
+  "OperationName": "Get secure score",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secure Score",
+  "Description": "Get calculated secure score for your subscription",
+  "IsDataAction": false
+}

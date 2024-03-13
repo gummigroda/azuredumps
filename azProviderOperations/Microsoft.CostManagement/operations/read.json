@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/operations/read",
+  "OperationName": "List supported operations",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Operations",
+  "Description": "List all supported operations by Microsoft.CostManagement resource provider.",
+  "IsDataAction": false
+}

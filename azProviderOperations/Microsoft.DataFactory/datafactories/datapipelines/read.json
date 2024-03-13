@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/read",
+  "OperationName": "Read Pipeline",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Reads any Pipeline.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/origingroups/Usages/action",
+  "OperationName": "Usages",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdOriginGroup",
+  "Description": null,
+  "IsDataAction": false
+}

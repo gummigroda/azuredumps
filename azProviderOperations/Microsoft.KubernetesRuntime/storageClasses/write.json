@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/storageClasses/write",
+  "OperationName": "StorageClass_Update",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "storageClasses",
+  "Description": "Update a StorageClassResource",
+  "IsDataAction": false
+}

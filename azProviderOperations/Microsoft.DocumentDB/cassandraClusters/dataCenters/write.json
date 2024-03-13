@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/cassandraClusters/dataCenters/write",
+  "OperationName": "Microsoft.DocumentDB/cassandraClusters/dataCenters/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Managed Cassandra data center",
+  "Description": "Create or update a data center in a managed Cassandra cluster",
+  "IsDataAction": false
+}

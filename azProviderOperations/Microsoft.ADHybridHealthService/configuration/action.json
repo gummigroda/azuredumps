@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/configuration/action",
+  "OperationName": "Updates Tenant Configuration.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "",
+  "Description": "Updates Tenant Configuration.",
+  "IsDataAction": false
+}

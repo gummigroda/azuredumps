@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/firewallRules/write",
+  "OperationName": "Create/Update Firewall Rule",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Firewall Rules",
+  "Description": "Creates a firewall rule with the specified parameters or update an existing rule.",
+  "IsDataAction": false
+}

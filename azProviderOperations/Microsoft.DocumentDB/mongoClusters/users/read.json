@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/users/read",
+  "OperationName": "Read Mongo Cluster Users",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Users",
+  "Description": "Reads a user or lists all users for the specified Mongo Cluster.",
+  "IsDataAction": false
+}

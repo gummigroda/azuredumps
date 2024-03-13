@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodeConfigurations/delete",
+  "OperationName": "Deletes an Azure Automation DSC's node configuration",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Node Configurations",
+  "Description": "Deletes an Azure Automation DSC's node configuration",
+  "IsDataAction": false
+}

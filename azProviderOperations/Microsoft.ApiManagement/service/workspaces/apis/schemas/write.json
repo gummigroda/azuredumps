@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/schemas/write",
+  "OperationName": "Sets schema used by the API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Schemas associated with the API",
+  "Description": "Creates or updates schema configuration for the API.",
+  "IsDataAction": false
+}

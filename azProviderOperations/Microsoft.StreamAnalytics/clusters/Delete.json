@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/clusters/Delete",
+  "OperationName": "Delete Stream Analytics Cluster",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Cluster",
+  "Description": "Delete Stream Analytics Cluster",
+  "IsDataAction": false
+}

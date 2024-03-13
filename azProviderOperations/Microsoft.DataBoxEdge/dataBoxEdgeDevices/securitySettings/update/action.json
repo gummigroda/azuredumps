@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/securitySettings/update/action",
+  "OperationName": "Update security settings",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Device security settings",
+  "Description": "Update security settings",
+  "IsDataAction": false
+}

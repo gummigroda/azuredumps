@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/analytics/delete",
+  "OperationName": "Analytics Service Delete",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Analytics",
+  "Description": "Allows deleting of data for Analytic services.",
+  "IsDataAction": true
+}

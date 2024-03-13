@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/validate/action",
+  "OperationName": "Validate ",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "",
+  "Description": "Validate .",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsTables/Delete",
+  "OperationName": "Application Insights analytics table delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics table",
+  "Description": "Deleting an Application Insights analytics table schema",
+  "IsDataAction": false
+}

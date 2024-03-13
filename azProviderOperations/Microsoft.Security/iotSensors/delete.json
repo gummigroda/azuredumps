@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSensors/delete",
+  "OperationName": "Delete IoT Sensors",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Deletes IoT Sensors",
+  "IsDataAction": false
+}

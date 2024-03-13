@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/languages/read",
+  "OperationName": "Languages",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "languages",
+  "Description": "Gets the set of languages currently supported by other operations of the Translator Text API.",
+  "IsDataAction": true
+}

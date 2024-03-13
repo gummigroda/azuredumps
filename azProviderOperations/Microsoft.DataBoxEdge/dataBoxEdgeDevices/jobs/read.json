@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/jobs/read",
+  "OperationName": "List jobs",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "jobs",
+  "Description": "Lists or gets the jobs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CIEventsOperational/read",
+  "OperationName": "Read CIEventsOperational data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CIEventsOperational",
+  "Description": "Read data from the CIEventsOperational table",
+  "IsDataAction": false
+}

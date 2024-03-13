@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/regenerateKey/action",
+  "OperationName": "Regenerate Domain Key",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domains",
+  "Description": "Regenerate key for a domain",
+  "IsDataAction": false
+}

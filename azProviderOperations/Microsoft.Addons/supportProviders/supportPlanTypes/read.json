@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/supportProviders/supportPlanTypes/read",
+  "OperationName": "Get Canonical support plan state",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "supportPlanTypes",
+  "Description": "Get the specified Canonical support plan state.",
+  "IsDataAction": false
+}

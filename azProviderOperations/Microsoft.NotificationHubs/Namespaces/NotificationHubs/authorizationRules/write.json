@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/authorizationRules/write",
+  "OperationName": "Create or Update Notification hub Authorization Rule",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub Authorization Rule",
+  "Description": "Create Notification Hub Authorization Rules and Update its properties. The Authorization Rules Access Rights, the Primary and Secondary Keys can be updated.",
+  "IsDataAction": false
+}

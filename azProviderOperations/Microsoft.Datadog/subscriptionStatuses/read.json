@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/subscriptionStatuses/read",
+  "OperationName": "Returns boolean if linking is supported or not.",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "SubscriptionStatuses",
+  "Description": "Linking support for selected subscription to given organization.",
+  "IsDataAction": false
+}

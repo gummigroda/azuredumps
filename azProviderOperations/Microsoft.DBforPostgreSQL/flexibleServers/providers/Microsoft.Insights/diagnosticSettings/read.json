@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Database Metric Definition",
+  "Description": "Gets the disagnostic setting for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/sapInstances/write",
+  "OperationName": "SAPInstances_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites/sapInstances",
+  "Description": "Updates the SAP Instance resource.",
+  "IsDataAction": false
+}

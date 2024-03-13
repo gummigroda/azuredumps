@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/rollouts/start/action",
+  "OperationName": "Rollouts_Start",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications/rollouts",
+  "Description": "action start",
+  "IsDataAction": false
+}

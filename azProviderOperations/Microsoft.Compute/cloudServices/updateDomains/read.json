@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/updateDomains/read",
+  "OperationName": "Gets a list of all update domains in a CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Update Domains.",
+  "Description": "Gets a list of all update domains in a CloudService.",
+  "IsDataAction": false
+}

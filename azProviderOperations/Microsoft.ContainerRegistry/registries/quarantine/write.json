@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/quarantine/write",
+  "OperationName": "Modify quarantined images",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Write/Modify quarantine state of quarantined images",
+  "IsDataAction": false
+}

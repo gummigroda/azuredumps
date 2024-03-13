@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/radioAccessNetworks/read",
+  "OperationName": "RadioAccessNetworks_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "radioAccessNetworks",
+  "Description": "Gets all the radio access networks in a resource group.",
+  "IsDataAction": false
+}

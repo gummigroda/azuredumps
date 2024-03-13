@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/register/action",
+  "OperationName": "Register the Microsoft.AzureScan",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzureScan",
+  "IsDataAction": false
+}

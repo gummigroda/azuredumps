@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/eventtypes/digestevents/Read",
+  "OperationName": "Event types management digest read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Digest events",
+  "Description": "Read management event type digest",
+  "IsDataAction": false
+}

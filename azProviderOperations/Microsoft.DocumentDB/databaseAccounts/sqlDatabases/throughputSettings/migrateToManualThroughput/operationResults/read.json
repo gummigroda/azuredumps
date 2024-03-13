@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/migrateToManualThroughput/operationResults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database throughput setting",
+  "Description": "Read status of the asynchronous operation.",
+  "IsDataAction": false
+}

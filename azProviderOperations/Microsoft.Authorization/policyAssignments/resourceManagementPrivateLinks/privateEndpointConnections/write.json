@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/privateEndpointConnections/write",
+  "OperationName": "Write a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Creates or updates a private endpoint connection.",
+  "IsDataAction": false
+}

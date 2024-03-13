@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection Proxy",
+  "Description": "Delete a private endpoint connection proxy of Database Account",
+  "IsDataAction": false
+}

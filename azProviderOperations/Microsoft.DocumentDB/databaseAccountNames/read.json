@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccountNames/read",
+  "OperationName": "Read database account names",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Names",
+  "Description": "Checks for name availability.",
+  "IsDataAction": false
+}

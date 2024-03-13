@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/operations/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/operations/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Operations",
+  "Description": "Gets available operations of the Microsoft.KubernetesConfiguration resource provider.",
+  "IsDataAction": false
+}

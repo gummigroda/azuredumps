@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/write",
+  "OperationName": "Catalogs_Update",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Update a Catalog",
+  "IsDataAction": false
+}

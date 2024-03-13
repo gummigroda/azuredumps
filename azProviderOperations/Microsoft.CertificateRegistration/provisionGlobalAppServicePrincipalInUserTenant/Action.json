@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/provisionGlobalAppServicePrincipalInUserTenant/Action",
+  "OperationName": "ProvisionAKSCluster service principal",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "",
+  "Description": "ProvisionAKSCluster service principal for service app principal",
+  "IsDataAction": false
+}

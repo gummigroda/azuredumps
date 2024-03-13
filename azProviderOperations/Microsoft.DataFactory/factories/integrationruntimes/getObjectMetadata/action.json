@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/getObjectMetadata/action",
+  "OperationName": "Get SSIS Integration Runtime metadata",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Get SSIS Integration Runtime metadata for the specified Integration Runtime.",
+  "IsDataAction": false
+}

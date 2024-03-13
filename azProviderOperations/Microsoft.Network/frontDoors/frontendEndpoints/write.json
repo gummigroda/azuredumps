@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/frontendEndpoints/write",
+  "OperationName": "Creates or updates a frontend endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Frontend Endpoint",
+  "Description": "Creates or updates a frontend endpoint",
+  "IsDataAction": false
+}

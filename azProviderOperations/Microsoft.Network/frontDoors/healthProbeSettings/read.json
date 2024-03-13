@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/healthProbeSettings/read",
+  "OperationName": "Gets health probe settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Health Probe Settings",
+  "Description": "Gets health probe settings",
+  "IsDataAction": false
+}

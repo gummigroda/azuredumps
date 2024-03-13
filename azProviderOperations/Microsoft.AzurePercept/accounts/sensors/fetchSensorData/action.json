@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/sensors/fetchSensorData/action",
+  "OperationName": "SensorsAction_FetchSensorData",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/sensors",
+  "Description": "fetchSensorData sensors",
+  "IsDataAction": false
+}

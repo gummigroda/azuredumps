@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/getDynamicInterfaceMaps/action",
+  "OperationName": "NetworkDevices_getDynamicInterfaceMaps",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Get the dynamic interface maps for the given Network Device.",
+  "IsDataAction": false
+}

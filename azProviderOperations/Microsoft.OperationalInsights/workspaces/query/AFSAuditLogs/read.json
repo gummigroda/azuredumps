@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AFSAuditLogs/read",
+  "OperationName": "Read AFSAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AFSAuditLogs",
+  "Description": "Read data from the AFSAuditLogs table",
+  "IsDataAction": false
+}

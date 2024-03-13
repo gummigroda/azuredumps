@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/assets/read",
+  "OperationName": "Assets_Get",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "assets",
+  "Description": "Retrieve a single asset.",
+  "IsDataAction": false
+}

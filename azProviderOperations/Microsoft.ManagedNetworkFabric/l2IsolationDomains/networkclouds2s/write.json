@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2isolationdomains/networkclouds2s/write",
+  "OperationName": "NetworkCloudS2S_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2isolationdomains/networkclouds2s",
+  "Description": "Create a NetworkCloudS2S resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Workspace metric definitions",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces",
+  "Description": "Gets the metric definitions for Workspaces",
+  "IsDataAction": false
+}

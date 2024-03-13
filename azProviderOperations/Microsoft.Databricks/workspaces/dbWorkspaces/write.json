@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/dbWorkspaces/write",
+  "OperationName": "Initialize Databricks workspace",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Initializes the Databricks workspace (internal only)",
+  "IsDataAction": false
+}

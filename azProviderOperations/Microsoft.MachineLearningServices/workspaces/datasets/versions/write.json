@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datasets/versions/write",
+  "OperationName": "Creates or updates dataset version in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Datasets",
+  "Description": "Creates or updates dataset version in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/PrivateEndpointConnectionProxies",
+  "Description": "",
+  "IsDataAction": false
+}

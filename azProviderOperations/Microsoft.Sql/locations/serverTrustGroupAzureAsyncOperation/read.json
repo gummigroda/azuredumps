@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustGroupAzureAsyncOperation/read",
+  "OperationName": "Get Server Trust Group Azure asyns operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Trust Group Azure Async Operation",
+  "Description": "Get the status of Server Trust Group async operation",
+  "IsDataAction": false
+}

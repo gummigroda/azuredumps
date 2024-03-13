@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/Summaries/read",
+  "OperationName": "Summaries_ListBySite",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/Summaries",
+  "Description": "Lists the Summaries resource in OracleSites.",
+  "IsDataAction": false
+}

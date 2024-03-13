@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/backendPools/read",
+  "OperationName": "Gets a backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Backend Pool",
+  "Description": "Gets a backend pool",
+  "IsDataAction": false
+}

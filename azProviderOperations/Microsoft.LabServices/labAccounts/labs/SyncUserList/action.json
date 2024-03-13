@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/SyncUserList/action",
+  "OperationName": "Syncs the userlist",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Labs",
+  "Description": "Syncs the changes from the AAD group to the userlist",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/connectivityConfigurations/write",
+  "OperationName": "Create Or Update Connectivity Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ConnectivityConfiguration",
+  "Description": "Create Or Update Connectivity Configuration",
+  "IsDataAction": false
+}

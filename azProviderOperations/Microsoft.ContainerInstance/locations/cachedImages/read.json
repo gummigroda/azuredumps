@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/cachedImages/read",
+  "OperationName": "Get cached images.",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Cached Images",
+  "Description": "Gets the cached images for the subscription in a region.",
+  "IsDataAction": false
+}

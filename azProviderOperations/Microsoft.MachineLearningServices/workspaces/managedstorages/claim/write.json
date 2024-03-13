@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/managedstorages/claim/write",
+  "OperationName": "Update my claims on data",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Data Admin",
+  "Description": "Update my claims on data",
+  "IsDataAction": false
+}

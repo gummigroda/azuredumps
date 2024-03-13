@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Determines if user is allowed to approve a private endpoint connection",
+  "IsDataAction": false
+}

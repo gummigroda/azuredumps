@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/write",
+  "OperationName": "Spaces_Patch",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces",
+  "Description": "Update a Space",
+  "IsDataAction": false
+}

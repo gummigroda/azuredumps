@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/storageTargetsLists/read",
+  "OperationName": "List cache storage targets",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Storage targets in a cache",
+  "Description": "Lists the cache's storage targets",
+  "IsDataAction": false
+}

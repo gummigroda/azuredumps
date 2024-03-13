@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/eventGridFilters/read",
+  "OperationName": "Get eventgrid filter",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "EventGridFilters",
+  "Description": "Get eventgrid filter",
+  "IsDataAction": false
+}

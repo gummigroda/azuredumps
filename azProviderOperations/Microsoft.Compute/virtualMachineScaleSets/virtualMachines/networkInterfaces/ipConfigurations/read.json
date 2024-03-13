@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkInterfaces/ipConfigurations/read",
+  "OperationName": "Get one or all IP configurations of a network interface created using Virtual Machine Scale Set. IP configurations represent private IPs",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "IP configurations of a network interface created using Virtual Machine Scale Set",
+  "Description": "Get properties of one or all IP configurations of a network interface created using Virtual Machine Scale Set. IP configurations represent private IPs",
+  "IsDataAction": false
+}

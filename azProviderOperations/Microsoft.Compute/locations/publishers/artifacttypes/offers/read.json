@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/publishers/artifacttypes/offers/read",
+  "OperationName": "Get Platform Image Offer",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Platform Image Offers",
+  "Description": "Get the properties of a Platform Image Offer",
+  "IsDataAction": false
+}

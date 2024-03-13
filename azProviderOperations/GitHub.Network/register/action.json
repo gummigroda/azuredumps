@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/register/action",
+  "OperationName": "Register the GitHub.Network",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "",
+  "Description": "Register the subscription for GitHub.Network",
+  "IsDataAction": false
+}

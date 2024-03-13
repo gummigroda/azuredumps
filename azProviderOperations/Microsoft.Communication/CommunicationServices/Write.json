@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/Write",
+  "OperationName": "Create/update communication services",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Writes communication services",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/draftPackages/generateFoldersAndScripts/action",
+  "OperationName": "DraftPackages_GenerateFoldersAndScripts",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/draftPackages",
+  "Description": "Generates folders and scripts",
+  "IsDataAction": false
+}

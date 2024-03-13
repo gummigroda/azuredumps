@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3isolationdomains/l3isolationdomaininfos/read",
+  "OperationName": "L3isolationDomainInfos_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3isolationdomains/l3isolationdomaininfos",
+  "Description": "Get the L3isolationDomainInfos resource details.",
+  "IsDataAction": false
+}

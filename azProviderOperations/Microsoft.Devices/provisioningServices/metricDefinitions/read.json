@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/metricDefinitions/read",
+  "OperationName": "Read provisioning service metric definitions",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Gets the available metrics for the provisioning service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/virtualNetworkRules/delete",
+  "OperationName": "Delete Virtual Network Rule",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Delete a virtual network rule.",
+  "IsDataAction": false
+}

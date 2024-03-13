@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/PrivateEndpointConnectionProxies",
+  "Description": "Delete Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

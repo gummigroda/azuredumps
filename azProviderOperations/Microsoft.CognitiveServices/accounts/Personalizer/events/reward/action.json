@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/events/reward/action",
+  "OperationName": "Post Reward.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage events.",
+  "Description": "Report reward between 0 and 1 that resulted from using the action specified in rewardActionId, for the specified event.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/hybridLink/delete",
+  "OperationName": "Delete hybrid link with a specified distributed availability group.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Hybrid Link",
+  "Description": "Deletes a hybrid link with a specified distributed availability group.",
+  "IsDataAction": false
+}

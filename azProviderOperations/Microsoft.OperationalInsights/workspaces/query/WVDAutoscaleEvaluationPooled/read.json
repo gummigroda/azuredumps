@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WVDAutoscaleEvaluationPooled/read",
+  "OperationName": "Read WVDAutoscaleEvaluationPooled data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WVDAutoscaleEvaluationPooled",
+  "Description": "Read data from the WVDAutoscaleEvaluationPooled table",
+  "IsDataAction": false
+}

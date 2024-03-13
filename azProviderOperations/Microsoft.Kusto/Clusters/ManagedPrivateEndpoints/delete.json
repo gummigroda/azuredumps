@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/ManagedPrivateEndpoints/delete",
+  "OperationName": "Delete managed private endpoint",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Managed private endpoint resource type",
+  "Description": "Deletes a managed private endpoint",
+  "IsDataAction": false
+}

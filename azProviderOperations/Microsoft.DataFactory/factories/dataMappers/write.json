@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/dataMappers/write",
+  "OperationName": "Create or update any Data Mapping.",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Mapping",
+  "Description": "Create or update Data Mapping",
+  "IsDataAction": false
+}

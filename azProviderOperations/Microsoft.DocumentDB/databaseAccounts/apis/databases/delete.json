@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/delete",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Delete database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Delete a database. Only applicable to API types: 'sql', 'mongodb', 'gremlin'.",
+  "IsDataAction": false
+}

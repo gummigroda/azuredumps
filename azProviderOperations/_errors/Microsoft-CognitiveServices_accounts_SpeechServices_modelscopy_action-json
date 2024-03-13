@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models:copy/action",
+  "OperationName": "Copy Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "This method can be used to copy a model from this speech resource to a target one.",
+  "IsDataAction": true
+}

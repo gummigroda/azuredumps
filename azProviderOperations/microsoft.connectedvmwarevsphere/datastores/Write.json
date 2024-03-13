@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/datastores/Write",
+  "OperationName": "Create/update datastores resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "datastores",
+  "Description": "Writes datastores",
+  "IsDataAction": false
+}

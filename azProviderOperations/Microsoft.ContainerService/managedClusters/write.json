@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/write",
+  "OperationName": "Create or Update Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Creates a new managed cluster or updates an existing one",
+  "IsDataAction": false
+}

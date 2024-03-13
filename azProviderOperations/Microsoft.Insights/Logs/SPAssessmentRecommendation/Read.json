@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SPAssessmentRecommendation/Read",
+  "OperationName": "Read SPAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SPAssessmentRecommendation",
+  "Description": "Read data from the SPAssessmentRecommendation table",
+  "IsDataAction": false
+}

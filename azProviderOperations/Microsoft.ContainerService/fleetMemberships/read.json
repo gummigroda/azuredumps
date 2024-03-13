@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleetMemberships/read",
+  "OperationName": "Get a fleet membership extension",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Memberships",
+  "Description": "Get a fleet membership extension",
+  "IsDataAction": false
+}

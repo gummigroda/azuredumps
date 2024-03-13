@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/cacheNodes/delete",
+  "OperationName": "cacheNodes_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "cacheNodes",
+  "Description": "Deletes an existing cache Node.",
+  "IsDataAction": false
+}

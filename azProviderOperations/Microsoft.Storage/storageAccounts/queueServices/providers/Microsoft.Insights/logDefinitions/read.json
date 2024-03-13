@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definition",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Queue Service",
+  "Description": "Gets the log definition for Queue",
+  "IsDataAction": false
+}

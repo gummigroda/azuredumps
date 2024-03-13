@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachines/Extensions/Delete",
+  "OperationName": "Deletes virtual machine extensions resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachines/Extensions",
+  "Description": "Deletes virtual machine extensions resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/delete",
+  "OperationName": "Delete Namespace",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Namespace",
+  "Description": "Delete Namespace Resource",
+  "IsDataAction": false
+}

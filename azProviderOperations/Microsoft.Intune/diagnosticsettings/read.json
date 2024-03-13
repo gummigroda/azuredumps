@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Intune/diagnosticsettings/read",
+  "OperationName": "Diagnostic settings read",
+  "ProviderNamespace": "Microsoft Monitoring Insights",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Reading a diagnostic setting",
+  "IsDataAction": false
+}

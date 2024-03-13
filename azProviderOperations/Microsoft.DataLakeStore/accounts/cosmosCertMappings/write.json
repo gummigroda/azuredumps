@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/cosmosCertMappings/write",
+  "OperationName": "Create or Update Cosmos Cert Mapping",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Cosmos Cert Mapping",
+  "Description": "Create or update a Cosmos Cert Mapping.",
+  "IsDataAction": false
+}

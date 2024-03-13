@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/runs/actions/scoperepetitions/read",
+  "OperationName": "Get Workflow Run Action Scope Repetition",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Run Action Scope Repetition",
+  "Description": "Reads the workflow run action scope repetition.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/models/read",
+  "OperationName": "Read model metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Gets information about models",
+  "IsDataAction": true
+}

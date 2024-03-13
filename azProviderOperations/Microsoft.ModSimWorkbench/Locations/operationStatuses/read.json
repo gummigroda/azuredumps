@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/Locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "Locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

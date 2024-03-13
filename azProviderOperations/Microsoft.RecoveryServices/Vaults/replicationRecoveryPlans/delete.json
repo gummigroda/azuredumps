@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/delete",
+  "OperationName": "Delete Recovery Plans",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "Delete any Recovery Plans",
+  "IsDataAction": false
+}

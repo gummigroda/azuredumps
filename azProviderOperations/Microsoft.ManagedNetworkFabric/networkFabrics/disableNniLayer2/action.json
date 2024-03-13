@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/disableNniLayer2/action",
+  "OperationName": "NetworkFabrics_disableNniLayer2",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Disables layer 2 configuration for the given Network Fabric.",
+  "IsDataAction": false
+}

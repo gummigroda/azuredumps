@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/gateways/listEnvSecrets/action",
+  "OperationName": "List environment variables secret for Microsoft Azure Spring Apps Spring Cloud Gateway",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Spring Cloud Gateway of Microsoft Azure Spring Apps",
+  "Description": "List environment variables secret of the Spring Cloud Gateway for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

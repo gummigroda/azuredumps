@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/TLSA/write",
+  "OperationName": "Creates or updates DNS record set of type TLSA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type TLSA",
+  "Description": "Creates or updates DNS record set of type TLSA",
+  "IsDataAction": false
+}

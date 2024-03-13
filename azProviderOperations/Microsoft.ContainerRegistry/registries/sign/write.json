@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/sign/write",
+  "OperationName": "Manage content trust metadata for a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Push/Pull content trust metadata for a container registry.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/importSpecification/action",
+  "OperationName": "Import API definition",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiDefinition",
+  "Description": "Imports API definition file.",
+  "IsDataAction": false
+}

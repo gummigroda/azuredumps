@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Metadata/read",
+  "OperationName": "Read Metadata",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Metadata",
+  "Description": "Read Metadata for Sentinel content.",
+  "IsDataAction": false
+}

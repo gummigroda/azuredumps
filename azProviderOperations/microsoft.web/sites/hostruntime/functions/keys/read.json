@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostruntime/functions/keys/read",
+  "OperationName": "Get Web Apps Hostruntime Functions Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostruntime Functions Keys",
+  "Description": "Get Web Apps Hostruntime Functions Keys.",
+  "IsDataAction": false
+}

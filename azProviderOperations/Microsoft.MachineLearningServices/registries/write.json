@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/registries/write",
+  "OperationName": "Creates or updates the Machine Learning Services registry(ies)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Registry",
+  "Description": "Creates or updates the Machine Learning Services registry(ies)",
+  "IsDataAction": false
+}

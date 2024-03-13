@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/unregister/action",
+  "OperationName": "Unregister the Microsoft.ServiceLinker",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ServiceLinker",
+  "IsDataAction": false
+}

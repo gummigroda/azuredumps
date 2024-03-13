@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexes/documents/write",
+  "OperationName": "Write Documents",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Documents",
+  "Description": "Upload documents to an index or modify existing documents.",
+  "IsDataAction": true
+}

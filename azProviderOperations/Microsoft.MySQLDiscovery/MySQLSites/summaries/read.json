@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/summaries/read",
+  "OperationName": "Summaries_ListBySite",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites/summaries",
+  "Description": "Lists the Summaries resource in MySQLSites.",
+  "IsDataAction": false
+}

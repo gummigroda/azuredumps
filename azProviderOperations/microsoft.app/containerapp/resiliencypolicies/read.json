@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapp/resiliencypolicies/read",
+  "OperationName": "Get App Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "App Resiliency",
+  "Description": "Get App Resiliency Policy",
+  "IsDataAction": false
+}

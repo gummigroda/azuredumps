@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/diagnosticService/delete",
+  "OperationName": "DiagnosticService_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/diagnosticService",
+  "Description": "Delete a DiagnosticServiceResource",
+  "IsDataAction": false
+}

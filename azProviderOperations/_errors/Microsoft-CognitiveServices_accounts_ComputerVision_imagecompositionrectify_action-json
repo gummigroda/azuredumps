@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/imagecomposition:rectify/action",
+  "OperationName": "ImageComposition_Rectify",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Run the image rectification operation against an image with 4 control points provided in the parameter.",
+  "IsDataAction": true
+}

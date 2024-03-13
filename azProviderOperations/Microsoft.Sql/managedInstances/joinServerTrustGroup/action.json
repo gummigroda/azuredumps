@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/joinServerTrustGroup/action",
+  "OperationName": "Join Server Trust Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Determine if a user is allowed to join Managed Server into a Server Trust Group",
+  "IsDataAction": false
+}

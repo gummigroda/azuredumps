@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/read",
+  "OperationName": "Get Integration Service Environment",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment",
+  "Description": "Reads the integration service environment.",
+  "IsDataAction": false
+}

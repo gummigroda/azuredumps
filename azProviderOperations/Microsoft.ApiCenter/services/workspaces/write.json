@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/write",
+  "OperationName": "Create or update workspace",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Workspace",
+  "Description": "Creates or updates specified workspace.",
+  "IsDataAction": false
+}

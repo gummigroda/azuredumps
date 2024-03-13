@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/delete",
+  "OperationName": "Delete elastic pool",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Delete existing elastic pool",
+  "IsDataAction": false
+}

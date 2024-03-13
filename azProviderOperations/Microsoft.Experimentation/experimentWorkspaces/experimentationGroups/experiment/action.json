@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/experiment/action",
+  "OperationName": "Experiment Group Operator",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experimentation Group Type",
+  "Description": "Experiment Group Operator",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/accountMigrations/write",
+  "OperationName": "Storage Account Migration",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "",
+  "Description": "Customer is able to update their storage account redundancy for increased resiliency",
+  "IsDataAction": false
+}

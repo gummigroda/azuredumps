@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/delete",
+  "OperationName": "Delete Linked Subscription",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Linked Subscription",
+  "Description": "Delete a Linked Subscription",
+  "IsDataAction": false
+}

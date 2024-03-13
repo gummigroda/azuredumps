@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/hsmPools/joinVault/action",
+  "OperationName": "Join KeyVault to HSM pool",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "HSM pool",
+  "Description": "Join a key vault to an HSM pool",
+  "IsDataAction": false
+}

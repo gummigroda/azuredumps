@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apiPortals/delete",
+  "OperationName": "Delete Microsoft Azure Spring Apps API portal",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The API portal of Microsoft Azure Spring Apps",
+  "Description": "Delete the API portal for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

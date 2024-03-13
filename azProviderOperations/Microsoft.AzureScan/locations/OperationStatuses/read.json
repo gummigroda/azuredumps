@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

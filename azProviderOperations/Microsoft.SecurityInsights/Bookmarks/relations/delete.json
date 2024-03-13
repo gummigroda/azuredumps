@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/bookmarks/relations/delete",
+  "OperationName": "Delete Bookmark Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Bookmark Relations",
+  "Description": "Deletes a bookmark relation",
+  "IsDataAction": false
+}

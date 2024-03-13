@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/privateEndpointConnections/read",
+  "OperationName": "List/Get Azure SQL Database Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection",
+  "Description": "Returns the list of private endpoint connections or gets the properties for the specified private endpoint connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+  "OperationName": "Read Files",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Returns a file/folder or a list of files/folders",
+  "IsDataAction": true
+}

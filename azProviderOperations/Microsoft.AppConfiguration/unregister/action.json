@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/unregister/action",
+  "OperationName": "Unregister for Microsoft App Configuration",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "",
+  "Description": "Unregisters a subscription from using Microsoft App Configuration.",
+  "IsDataAction": false
+}

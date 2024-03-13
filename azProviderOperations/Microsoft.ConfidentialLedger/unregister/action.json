@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/unregister/action",
+  "OperationName": "Unregister the Microsoft.ConfidentialLedger",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ConfidentialLedger",
+  "IsDataAction": false
+}

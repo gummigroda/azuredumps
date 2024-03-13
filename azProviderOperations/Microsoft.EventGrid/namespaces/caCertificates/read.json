@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/caCertificates/read",
+  "OperationName": "Read CA Certificate",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "caCertificates",
+  "Description": "Read a CA Certificate",
+  "IsDataAction": false
+}

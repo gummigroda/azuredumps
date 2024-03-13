@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/ingresses/read",
+  "OperationName": "Gets/List ingresses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Ingresses",
+  "Description": "Reads ingresses",
+  "IsDataAction": true
+}

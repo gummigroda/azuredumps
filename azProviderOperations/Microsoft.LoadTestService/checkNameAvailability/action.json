@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "",
+  "Description": "Checks if a LoadTest resource name is available",
+  "IsDataAction": false
+}

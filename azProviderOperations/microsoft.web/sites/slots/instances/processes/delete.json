@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/instances/processes/delete",
+  "OperationName": "Delete Web Apps Slots Instances Processes",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Instances Processes",
+  "Description": "Delete Web Apps Slots Instances Processes.",
+  "IsDataAction": false
+}

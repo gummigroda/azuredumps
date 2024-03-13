@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/operations/read",
+  "OperationName": "Get/List operations",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "",
+  "Description": "Get/List all the available operations for IoT Central",
+  "IsDataAction": false
+}

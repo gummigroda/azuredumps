@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/administrators/delete",
+  "OperationName": "Delete Administrator of MySQL server.",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Administrator of MySQL server.",
+  "Description": "Deletes an existing administrator of MySQL server.",
+  "IsDataAction": false
+}

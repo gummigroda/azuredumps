@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/delete",
+  "OperationName": "Delete maintenance configuration for InGuestPatch maintenance scope.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Delete maintenance configuration for InGuestPatch maintenance scope.",
+  "IsDataAction": false
+}

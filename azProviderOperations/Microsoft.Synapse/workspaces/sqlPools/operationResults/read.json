@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/operationResults/read",
+  "OperationName": "Read Async Operation Result.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Async Operation Result",
+  "Description": "Read any Async Operation Result.",
+  "IsDataAction": false
+}

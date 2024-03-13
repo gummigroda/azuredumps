@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/restorePoints/delete",
+  "OperationName": "Deletes a restore point for the database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Restore Point",
+  "Description": "Deletes a restore point for the database.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nssfProfiles/write",
+  "OperationName": "NssfProfiles_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nssfProfiles",
+  "Description": "Creates or updates a Mobile Packet Core Network Slice Selection Function profile resource",
+  "IsDataAction": false
+}

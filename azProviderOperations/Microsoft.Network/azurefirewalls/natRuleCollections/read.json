@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureFirewalls/natRuleCollections/read",
+  "OperationName": "Get Azure Firewall FQDN Tags",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Nat Rule Collection",
+  "Description": "Gets Azure Firewall NatRuleCollection",
+  "IsDataAction": false
+}

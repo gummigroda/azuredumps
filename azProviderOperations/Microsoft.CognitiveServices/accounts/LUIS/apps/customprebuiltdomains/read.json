@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/customprebuiltdomains/read",
+  "OperationName": "Apps - Get prebuilt domains for culture or Get prebuilt domains for all cultures",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt Domains",
+  "Description": "Gets all the available custom prebuilt domains for a specific culture\r\nGets all the available custom prebuilt domains for all cultures",
+  "IsDataAction": true
+}

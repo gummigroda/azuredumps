@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Write",
+  "OperationName": "Create/update healthBot resources",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Writes healthBots",
+  "IsDataAction": false
+}

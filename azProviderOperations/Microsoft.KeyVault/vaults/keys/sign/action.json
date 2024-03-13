@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/sign/action",
+  "OperationName": "Sign with Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Signs a message digest (hash) with a key.",
+  "IsDataAction": true
+}

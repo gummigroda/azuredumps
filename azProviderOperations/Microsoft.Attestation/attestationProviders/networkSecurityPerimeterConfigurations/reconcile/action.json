@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile NSP Configuration.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Network Security Perimeter Configuration.",
+  "Description": "Reconcile the Network Security Perimeter Configuration stored in a Microsoft Azure Attestation with NRP's (Microsoft.Network Resource Provider) copy.",
+  "IsDataAction": false
+}

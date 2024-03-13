@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnGateways/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Vpn Gateway Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Gateway diagnostic settings",
+  "Description": "Gets the Vpn Gateway Diagnostic Settings",
+  "IsDataAction": false
+}

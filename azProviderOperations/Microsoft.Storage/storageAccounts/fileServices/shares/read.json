@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/shares/read",
+  "OperationName": "List File Shares",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "File Share",
+  "Description": "List file shares",
+  "IsDataAction": false
+}

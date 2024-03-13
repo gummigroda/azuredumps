@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/rotateVcenterPassword/action",
+  "OperationName": "Private Cloud Vcenter password rotation",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds",
+  "Description": "Rotate Vcenter password for the PrivateCloud.",
+  "IsDataAction": true
+}

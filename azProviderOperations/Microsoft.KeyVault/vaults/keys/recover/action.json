@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/recover/action",
+  "OperationName": "Recover Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Recovers the deleted key. The operation performs the reversal of the Delete operation. The operation is applicable in vaults enabled for soft-delete, and must be issued during the retention interval.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/locations/workflows/recommendOperationGroups/action",
+  "OperationName": "Gets workflow recommend operation groups",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Gets the workflow recommend operation groups.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/read",
+  "OperationName": "Read Trigger",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Reads any Trigger.",
+  "IsDataAction": false
+}

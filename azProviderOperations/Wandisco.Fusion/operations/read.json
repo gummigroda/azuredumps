@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/operations/read",
+  "OperationName": "list",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Operations",
+  "Description": "Lists all of the available RP operations.",
+  "IsDataAction": false
+}

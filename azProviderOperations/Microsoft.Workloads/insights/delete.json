@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/insights/delete",
+  "OperationName": "Insights_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "insights",
+  "Description": "Deletes a Workloads Insights instance for the specified subscription, resource group and instance name.",
+  "IsDataAction": false
+}

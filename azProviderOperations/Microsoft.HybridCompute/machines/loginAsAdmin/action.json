@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/loginAsAdmin/action",
+  "OperationName": "Log in to Azure Arc machine as administrator",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Log in to a Azure Arc machine with Windows administrator or Linux root user privilege",
+  "IsDataAction": true
+}

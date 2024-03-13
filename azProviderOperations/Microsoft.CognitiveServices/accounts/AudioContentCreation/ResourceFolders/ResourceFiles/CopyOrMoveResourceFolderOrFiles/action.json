@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ResourceFolders/ResourceFiles/CopyOrMoveResourceFolderOrFiles/action",
+  "OperationName": "Copy or move folder or files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC resource files",
+  "Description": "Copy or move folder or files.",
+  "IsDataAction": true
+}

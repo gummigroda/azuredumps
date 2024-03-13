@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/policy/read",
+  "OperationName": "Get API policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API policies configuration",
+  "Description": "Get the policy configuration at API level",
+  "IsDataAction": false
+}

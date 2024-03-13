@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/catalogs/read",
+  "OperationName": "Read Reservation Catalog",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Read catalog of Reservation",
+  "IsDataAction": false
+}

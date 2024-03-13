@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "",
+  "Description": "Checks if a Confluent resource name is available",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualRouters/read",
+  "OperationName": "Gets VirtualRouter",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualRouter",
+  "Description": "Gets A VirtualRouter",
+  "IsDataAction": false
+}

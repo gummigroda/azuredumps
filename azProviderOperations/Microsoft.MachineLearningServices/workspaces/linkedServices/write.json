@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/linkedServices/write",
+  "OperationName": "Create or Update Machine Learning Services Workspace Linked Service(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Linked Services",
+  "Description": "Create or Update Machine Learning Services Workspace Linked Service(s)",
+  "IsDataAction": false
+}

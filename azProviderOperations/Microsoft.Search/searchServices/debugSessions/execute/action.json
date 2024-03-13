@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/debugSessions/execute/action",
+  "OperationName": "Execute Debug Session",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Debug Sessions",
+  "Description": "Use a debug session, get execution data, or evaluate expressions on it.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/connectionMonitorTests/read",
+  "OperationName": "Read Peering Service Connection Monitor Tests",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "connectionMonitorTests",
+  "Description": "Read any Peering Service Connection Monitor Tests",
+  "IsDataAction": false
+}

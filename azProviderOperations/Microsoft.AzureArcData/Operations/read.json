@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

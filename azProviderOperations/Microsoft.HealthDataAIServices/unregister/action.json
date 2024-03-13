@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/unregister/action",
+  "OperationName": "Unregister the Microsoft.HealthDataAIServices",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.HealthDataAIServices",
+  "IsDataAction": false
+}

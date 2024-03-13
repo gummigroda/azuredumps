@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/usages/read",
+  "OperationName": "Get the quota usage for an existing resource",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Get the quota usage for an existing resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/adminStart/action",
+  "OperationName": "Projects_Users_DevBoxes_AdminStart",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to start any Dev Box resource.",
+  "IsDataAction": true
+}

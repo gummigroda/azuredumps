@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/delete",
+  "OperationName": "Pki_Delete",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis",
+  "Description": "Deletes the specified PKI resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/storages/delete",
+  "OperationName": "Delete a Managed Environment Storage",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Storage",
+  "Description": "Delete a storage of Managed Environment.",
+  "IsDataAction": false
+}

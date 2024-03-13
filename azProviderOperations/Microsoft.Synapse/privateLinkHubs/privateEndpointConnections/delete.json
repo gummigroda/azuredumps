@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection for PrivateLinkHub",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection for PrivateLinkHub",
+  "Description": "Delete Private Endpoint Connection for PrivateLinkHub",
+  "IsDataAction": false
+}

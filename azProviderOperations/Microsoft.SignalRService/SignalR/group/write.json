@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/group/write",
+  "OperationName": "Write Group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Group",
+  "Description": "Join / Leave group",
+  "IsDataAction": true
+}

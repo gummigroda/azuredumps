@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/HybridConnections/read",
+  "OperationName": "Get HybridConnection",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "HybridConnection",
+  "Description": "Get list of HybridConnection Resource Descriptions",
+  "IsDataAction": false
+}

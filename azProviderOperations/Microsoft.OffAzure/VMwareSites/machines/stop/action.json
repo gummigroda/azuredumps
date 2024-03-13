@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/machines/stop/action",
+  "OperationName": "Stops VMware machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Stops the VMware machines",
+  "IsDataAction": false
+}

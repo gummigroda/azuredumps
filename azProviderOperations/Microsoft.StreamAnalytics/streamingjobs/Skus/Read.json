@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/Skus/Read",
+  "OperationName": "Read Stream Analytics Job SKUs",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job SKUs",
+  "Description": "Read Stream Analytics Job SKUs",
+  "IsDataAction": false
+}

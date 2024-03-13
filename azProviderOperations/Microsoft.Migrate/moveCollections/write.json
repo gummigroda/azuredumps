@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/write",
+  "OperationName": "Creates or updates a move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Creates or updates a move collection",
+  "IsDataAction": false
+}

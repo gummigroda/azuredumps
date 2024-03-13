@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/convert/action",
+  "OperationName": "Start asset conversion",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Start asset conversion",
+  "IsDataAction": true
+}

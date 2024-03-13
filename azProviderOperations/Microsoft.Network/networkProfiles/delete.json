@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkProfiles/delete",
+  "OperationName": "Delete Network Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Profile",
+  "Description": "Deletes a Network Profile",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualHardDisks/Delete",
+  "OperationName": "Deletes virtual hard disk resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualHardDisks",
+  "Description": "Deletes virtual hard disk resource",
+  "IsDataAction": false
+}

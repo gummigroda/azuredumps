@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/subscriptions/acceptOwnership/action",
+  "OperationName": "Accept ownership of Subscription",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "AcceptOwnership",
+  "Description": "Accept ownership of Subscription",
+  "IsDataAction": false
+}

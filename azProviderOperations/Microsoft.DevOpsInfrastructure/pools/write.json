@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/pools/write",
+  "OperationName": "Pools_Update",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "pools",
+  "Description": "Update a Pool",
+  "IsDataAction": false
+}

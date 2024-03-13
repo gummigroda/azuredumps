@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/report/action",
+  "OperationName": "Download an Business Case URL",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Business case",
+  "Description": "Downloads an Business Case report's URL",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/delete",
+  "OperationName": "Remove API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace APIs",
+  "Description": "Deletes the specified API of the API Management service instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/experiments/delete",
+  "OperationName": "Deletes a Chaos Experiment.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Chaos Experiment",
+  "Description": "Deletes a Chaos Experiment resource in a resource group.",
+  "IsDataAction": false
+}

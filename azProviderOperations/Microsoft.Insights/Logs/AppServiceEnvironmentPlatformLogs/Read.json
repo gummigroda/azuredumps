@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppServiceEnvironmentPlatformLogs/Read",
+  "OperationName": "Read AppServiceEnvironmentPlatformLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppServiceEnvironmentPlatformLogs",
+  "Description": "Read data from the AppServiceEnvironmentPlatformLogs table",
+  "IsDataAction": false
+}

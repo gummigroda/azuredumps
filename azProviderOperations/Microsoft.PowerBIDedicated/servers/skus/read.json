@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/skus/read",
+  "OperationName": "Read available SKU information for the server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Retrieve available SKU information for the Server.",
+  "IsDataAction": false
+}

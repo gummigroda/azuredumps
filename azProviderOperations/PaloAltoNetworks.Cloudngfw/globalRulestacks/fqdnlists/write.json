@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/fqdnlists/write",
+  "OperationName": "FqdnListGlobalRulestack_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/fqdnlists",
+  "Description": "Create a FqdnListGlobalRulestackResource",
+  "IsDataAction": false
+}

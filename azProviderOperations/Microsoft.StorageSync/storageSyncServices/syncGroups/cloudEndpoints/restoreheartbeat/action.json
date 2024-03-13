@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/restoreheartbeat/action",
+  "OperationName": "restoreheartbeat",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Cloud Endpoints",
+  "Description": "Restore heartbeat",
+  "IsDataAction": false
+}

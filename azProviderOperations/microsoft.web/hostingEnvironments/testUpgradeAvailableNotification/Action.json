@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/testUpgradeAvailableNotification/Action",
+  "OperationName": "Send test upgrade notification for an App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Send test upgrade notification for an App Service Environment",
+  "IsDataAction": false
+}

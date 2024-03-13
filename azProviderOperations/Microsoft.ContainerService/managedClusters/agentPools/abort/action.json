@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/agentPools/abort/action",
+  "OperationName": "Abort latest operation in agent pool",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Agent Pools",
+  "Description": "Latest ongoing operation on agent pool gets aborted",
+  "IsDataAction": false
+}

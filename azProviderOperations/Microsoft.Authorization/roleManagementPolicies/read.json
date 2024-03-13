@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleManagementPolicies/read",
+  "OperationName": "Get Role management policy",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role management policy",
+  "Description": "Get Role management policies",
+  "IsDataAction": false
+}

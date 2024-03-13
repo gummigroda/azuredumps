@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/batchValidatePrivateEndpointsForResourceMove/action",
+  "OperationName": "Validates private endpoints in batches for resource move.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Validates private endpoints in batches for resource move.",
+  "IsDataAction": false
+}

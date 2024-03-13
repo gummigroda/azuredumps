@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/bookmarks/relations/write",
+  "OperationName": "Update Bookmark Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Bookmark Relations",
+  "Description": "Updates a bookmark relation",
+  "IsDataAction": false
+}

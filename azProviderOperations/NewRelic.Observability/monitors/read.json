@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/read",
+  "OperationName": "Get/List monitor resources",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Read monitors",
+  "IsDataAction": false
+}

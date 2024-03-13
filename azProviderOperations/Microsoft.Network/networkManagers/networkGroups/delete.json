@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/delete",
+  "OperationName": "Delete Network Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group",
+  "Description": "Delete Network Group",
+  "IsDataAction": false
+}

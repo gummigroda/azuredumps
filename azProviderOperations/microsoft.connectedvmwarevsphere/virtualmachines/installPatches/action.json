@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/installPatches/action",
+  "OperationName": "Install patches on Azure Arc VMware machines",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines",
+  "Description": "Install patches on Azure Arc VMware machines",
+  "IsDataAction": false
+}

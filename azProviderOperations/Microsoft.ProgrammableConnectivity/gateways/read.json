@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/gateways/read",
+  "OperationName": "Gateways_Get",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "gateways",
+  "Description": "Get a Gateway resource by name.",
+  "IsDataAction": false
+}

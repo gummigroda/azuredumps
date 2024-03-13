@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/monitoredSubscriptions/read",
+  "OperationName": "Get monitored subscriptions for the datadog resource",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "MonitoredSubscription",
+  "Description": "Read monitored subscriptions",
+  "IsDataAction": false
+}

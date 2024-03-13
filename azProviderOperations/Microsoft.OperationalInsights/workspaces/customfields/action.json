@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/customfields/action",
+  "OperationName": "Extract custom fields",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Extract custom fields.",
+  "IsDataAction": false
+}

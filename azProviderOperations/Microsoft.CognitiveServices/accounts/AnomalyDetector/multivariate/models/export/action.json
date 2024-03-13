@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models/export/action",
+  "OperationName": "Multivariate Anomaly Detection - Export Multivariate Anomaly Detection Model as Zip file",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models",
+  "Description": "Export multivariate anomaly detection model based on modelId",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/resourceTypes/read",
+  "OperationName": "Read all resource types available for Microsoft.ApiCenter resource provider",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Microsoft Azure API Center resource types",
+  "Description": "Read all resource types available for Microsoft.ApiCenter resource provider.",
+  "IsDataAction": false
+}

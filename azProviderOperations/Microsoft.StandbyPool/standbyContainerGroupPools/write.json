@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyContainerGroupPools/write",
+  "OperationName": "StandbyContainerGroupPools_Update",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyContainerGroupPools",
+  "Description": "Update a StandbyContainerGroupPoolResource",
+  "IsDataAction": false
+}

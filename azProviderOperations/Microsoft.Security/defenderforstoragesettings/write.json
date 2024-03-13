@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/defenderforstoragesettings/write",
+  "OperationName": "Update defenderForStorageSettings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "DefenderForStorageSettings",
+  "Description": "Creates or updates the defenderforstoragesettings for the scope",
+  "IsDataAction": false
+}

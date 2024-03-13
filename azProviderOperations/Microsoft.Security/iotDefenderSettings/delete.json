@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotDefenderSettings/delete",
+  "OperationName": "Delete IoT Defender Settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Defender Settings",
+  "Description": "Deletes IoT Defender Settings",
+  "IsDataAction": false
+}

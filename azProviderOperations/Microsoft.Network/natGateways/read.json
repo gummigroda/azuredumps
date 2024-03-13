@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/natGateways/read",
+  "OperationName": "Get Nat Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Nat Gateway",
+  "Description": "Gets a Nat Gateway Definition",
+  "IsDataAction": false
+}

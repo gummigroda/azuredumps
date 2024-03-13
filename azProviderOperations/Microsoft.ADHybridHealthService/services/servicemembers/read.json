@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/read",
+  "OperationName": "Reads a server.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Reads the server instance in the service.",
+  "IsDataAction": false
+}

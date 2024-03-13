@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/enrichment/anomalydetection/configurations/incidents/rootcause/read",
+  "OperationName": "Query root cause for incident",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Root cause of incidents under anomaly detection configuration",
+  "Description": "Query root cause for incident",
+  "IsDataAction": true
+}

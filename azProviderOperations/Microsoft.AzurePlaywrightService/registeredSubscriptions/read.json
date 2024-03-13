@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "read registeredSubscriptions",
+  "IsDataAction": false
+}

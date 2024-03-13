@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/Delete",
+  "OperationName": "Deletes virtualmachines resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines",
+  "Description": "Deletes virtualmachines",
+  "IsDataAction": false
+}

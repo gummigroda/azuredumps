@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testConfigurations/read",
+  "OperationName": "TestConfiguration_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testConfigurations",
+  "Description": "Get a test configuration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MarketplaceOrdering/agreements/offers/plans/read",
+  "OperationName": "Get Agreement",
+  "ProviderNamespace": "Microsoft Marketplace Ordering",
+  "ResourceName": "Agreement",
+  "Description": "Return an agreement for a given marketplace item",
+  "IsDataAction": false
+}

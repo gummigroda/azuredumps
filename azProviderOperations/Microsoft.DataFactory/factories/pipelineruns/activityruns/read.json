@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/pipelineruns/activityruns/read",
+  "OperationName": "Read Activity Runs",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads the activity runs for the specified pipeline run ID.",
+  "IsDataAction": false
+}

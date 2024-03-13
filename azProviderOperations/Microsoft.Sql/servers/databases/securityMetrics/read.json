@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/securityMetrics/read",
+  "OperationName": "Get database security metrics",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Security Metrics",
+  "Description": "Gets a collection of database security metrics",
+  "IsDataAction": false
+}

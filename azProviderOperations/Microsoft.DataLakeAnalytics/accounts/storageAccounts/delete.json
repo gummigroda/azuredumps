@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/storageAccounts/delete",
+  "OperationName": "Unlink Storage Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Storage Account",
+  "Description": "Unlink a Storage account from a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

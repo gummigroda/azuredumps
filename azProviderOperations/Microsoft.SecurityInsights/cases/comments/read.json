@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/cases/comments/read",
+  "OperationName": "Get Case Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Case Comments",
+  "Description": "Gets the case comments",
+  "IsDataAction": false
+}

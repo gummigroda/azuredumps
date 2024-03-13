@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/write",
+  "OperationName": "Put P2SVpnGateway.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Puts a P2SVpnGateway.",
+  "IsDataAction": false
+}

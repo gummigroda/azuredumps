@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/authorizationRules/listkeys/action",
+  "OperationName": "List EventHub keys",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub AuthorizationRules",
+  "Description": "Get the Connection String to EventHub",
+  "IsDataAction": false
+}

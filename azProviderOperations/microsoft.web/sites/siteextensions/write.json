@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/siteextensions/write",
+  "OperationName": "Update Web Apps Site Extensions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Site Extensions",
+  "Description": "Update Web Apps Site Extensions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/eventGridFilters/delete",
+  "OperationName": "Delete Redis Cache Event Grid Filters",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache Event Grid Filter",
+  "Description": "Delete Redis Cache Event Grid Filters",
+  "IsDataAction": false
+}

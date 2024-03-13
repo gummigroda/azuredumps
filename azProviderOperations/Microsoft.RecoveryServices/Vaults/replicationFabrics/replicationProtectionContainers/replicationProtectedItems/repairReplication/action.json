@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/repairReplication/action",
+  "OperationName": "Repair replication",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Repair replication",
+  "IsDataAction": false
+}

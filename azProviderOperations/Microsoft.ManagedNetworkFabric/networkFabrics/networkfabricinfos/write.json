@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/networkfabricinfos/write",
+  "OperationName": "NetworkFabricInfos_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/networkfabricinfos",
+  "Description": "Create a NetworkFabricInfo resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/prefixes/read",
+  "OperationName": "Read PeeringServicePrefixes",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "prefixes",
+  "Description": "Read any prefixes",
+  "IsDataAction": false
+}

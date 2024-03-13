@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/Delete",
+  "OperationName": "Delete a private link scope",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private Link Scope",
+  "Description": "Delete a private link scope",
+  "IsDataAction": false
+}

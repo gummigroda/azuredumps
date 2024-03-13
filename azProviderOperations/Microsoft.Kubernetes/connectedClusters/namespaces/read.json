@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/namespaces/read",
+  "OperationName": "Gets/List namespaces resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "namespaces",
+  "Description": "Reads namespaces",
+  "IsDataAction": true
+}

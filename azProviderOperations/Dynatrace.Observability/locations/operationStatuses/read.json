@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

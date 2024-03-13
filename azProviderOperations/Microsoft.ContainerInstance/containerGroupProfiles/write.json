@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroupProfiles/write",
+  "OperationName": "Create or update Container Group Profile",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group Profile",
+  "Description": "Create or update a specific container group profile.",
+  "IsDataAction": false
+}

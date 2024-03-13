@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/evaluations/files/read",
+  "OperationName": "Get Evaluation File|Get Evaluation Files*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "files*",
+  "Description": "Gets one specific file (identified with fileId) from an evaluation (identified with id).\r\nGets the files of the evaluation identified by the given ID.*",
+  "IsDataAction": true
+}

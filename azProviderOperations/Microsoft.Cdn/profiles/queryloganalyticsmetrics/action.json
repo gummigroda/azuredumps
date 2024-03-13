@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/queryloganalyticsmetrics/action",
+  "OperationName": "action",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

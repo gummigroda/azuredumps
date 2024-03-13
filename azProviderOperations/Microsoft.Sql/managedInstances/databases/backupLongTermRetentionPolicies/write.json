@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/write",
+  "OperationName": "Update long term retention policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Long Term Retention Policy",
+  "Description": "Updates a long term retention policy for a managed database",
+  "IsDataAction": false
+}

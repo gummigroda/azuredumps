@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/clusterServices/write",
+  "OperationName": "ClusterServices_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "clusterServices",
+  "Description": "Update a ClusterServiceResource",
+  "IsDataAction": false
+}

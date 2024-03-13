@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/read",
+  "OperationName": "Get Vault",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Get Vault operation gets an object representing the Azure resource of type 'vault'",
+  "IsDataAction": false
+}

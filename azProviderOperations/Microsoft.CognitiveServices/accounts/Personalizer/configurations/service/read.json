@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/service/read",
+  "OperationName": "Get Service Configuration.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage service configurations.",
+  "Description": "Get the Personalizer service configuration.",
+  "IsDataAction": true
+}

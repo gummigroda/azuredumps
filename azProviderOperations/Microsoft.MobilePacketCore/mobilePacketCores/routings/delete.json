@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/routings/delete",
+  "OperationName": "Routings_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/routings",
+  "Description": "Deletes the specified Mobile Packet Core Routing object.",
+  "IsDataAction": false
+}

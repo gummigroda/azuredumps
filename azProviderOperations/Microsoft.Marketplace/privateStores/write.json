@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/write",
+  "OperationName": "Creates PrivateStore.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Creates PrivateStore.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions/read",
+  "OperationName": "NetworkFunctionDefinitionVersions_ListByNetworkFunctionDefinitionGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions",
+  "Description": "Gets information about a list of network function definition versions under a network function definition group.",
+  "IsDataAction": false
+}

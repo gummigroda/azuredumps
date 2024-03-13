@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/models/base/manifest/read",
+  "OperationName": "Get Base Model Manifest",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Model manifest",
+  "Description": "Returns an manifest for this base model which can be used in an on-premise container.",
+  "IsDataAction": true
+}

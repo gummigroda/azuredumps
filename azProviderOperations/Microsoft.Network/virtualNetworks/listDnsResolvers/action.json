@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listDnsResolvers/action",
+  "OperationName": "Gets the DNS Resolver for Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Gets the DNS Resolver for Virtual Network, in JSON format",
+  "IsDataAction": false
+}

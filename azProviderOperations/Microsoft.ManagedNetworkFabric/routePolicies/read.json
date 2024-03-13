@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/read",
+  "OperationName": "RoutePolicies_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "Implements RoutePolicies list by subscription GET method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/commitmentplans/delete",
+  "OperationName": "Deletes Commitment Plan",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Commitment Plan",
+  "Description": "Deletes commitment plans.",
+  "IsDataAction": false
+}

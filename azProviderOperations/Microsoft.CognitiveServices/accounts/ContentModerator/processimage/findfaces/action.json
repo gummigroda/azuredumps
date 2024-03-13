@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/processimage/findfaces/action",
+  "OperationName": "Image - Find Faces",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Process images.",
+  "Description": "Find faces in images.",
+  "IsDataAction": true
+}

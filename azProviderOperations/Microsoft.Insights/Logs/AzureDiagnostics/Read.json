@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AzureDiagnostics/Read",
+  "OperationName": "Read AzureDiagnostics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AzureDiagnostics",
+  "Description": "Read data from the AzureDiagnostics table",
+  "IsDataAction": false
+}

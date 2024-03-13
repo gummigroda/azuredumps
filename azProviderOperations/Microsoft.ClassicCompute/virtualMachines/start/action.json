@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/start/action",
+  "OperationName": "Start Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Start the virtual machine.",
+  "IsDataAction": false
+}

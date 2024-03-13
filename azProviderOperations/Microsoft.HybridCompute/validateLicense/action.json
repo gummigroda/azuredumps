@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/validateLicense/action",
+  "OperationName": "Validates the provided license data and returns what would be created on a PUT to Microsoft.HybridCompute/licenses",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "",
+  "Description": "Validates the provided license data and returns what would be created on a PUT to Microsoft.HybridCompute/licenses",
+  "IsDataAction": false
+}

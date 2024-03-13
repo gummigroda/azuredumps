@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/resume/action",
+  "OperationName": "Resume Hosting Environments",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Resume Hosting Environments.",
+  "IsDataAction": false
+}

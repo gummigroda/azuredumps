@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/delete",
+  "OperationName": "Delete the CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Resource",
+  "Description": "Deletes the CloudService.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filter",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/EventGridFilters",
+  "Description": "Delete an event grid filter from a SignalR resource",
+  "IsDataAction": false
+}

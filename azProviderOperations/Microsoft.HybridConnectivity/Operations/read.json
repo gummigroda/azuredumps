@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

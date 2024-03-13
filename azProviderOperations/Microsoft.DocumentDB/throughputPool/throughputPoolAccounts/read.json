@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/throughputPool/throughputPoolAccounts/read",
+  "OperationName": "Read ThroughputPoolAccount",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "ThroughputPoolAccount",
+  "Description": "Read throughputPool account in throughputPool",
+  "IsDataAction": false
+}

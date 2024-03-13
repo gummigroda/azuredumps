@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/performMaintenance/action",
+  "OperationName": "Perform Maintenance Redeploy",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Performs Maintenance Operation on the VM.",
+  "IsDataAction": false
+}

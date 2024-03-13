@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/azureEndpoints/read",
+  "OperationName": "Get a Traffic Manager Azure Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Azure Endpoint",
+  "Description": "Gets an Azure Endpoint which belongs to a Traffic Manager Profile, including all the properties of that Azure Endpoint.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/unregister/action",
+  "OperationName": "Unregister the Microsoft.DevOpsInfrastructure",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.DevOpsInfrastructure",
+  "IsDataAction": false
+}

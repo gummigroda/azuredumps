@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labPlans/images/read",
+  "OperationName": "Get Image",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labPlans/images",
+  "Description": "Get the properties of an image.",
+  "IsDataAction": false
+}

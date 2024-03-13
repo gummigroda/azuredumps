@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/devices/read",
+  "OperationName": "Devices_Get",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/devices",
+  "Description": "read devices",
+  "IsDataAction": false
+}

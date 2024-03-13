@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/read",
+  "OperationName": "Read SQL database throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database throughput setting",
+  "Description": "Read a SQL database throughput.",
+  "IsDataAction": false
+}

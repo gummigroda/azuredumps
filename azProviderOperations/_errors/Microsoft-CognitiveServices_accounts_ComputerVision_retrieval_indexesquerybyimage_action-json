@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes:querybyimage/action",
+  "OperationName": "SearchByImage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Performs a image-based search on the specified index. The request accepts either image Url or base64 encoded image string.",
+  "IsDataAction": true
+}

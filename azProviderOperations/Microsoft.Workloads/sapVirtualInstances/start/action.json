@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/start/action",
+  "OperationName": "SAPVirtualInstances_Start",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances",
+  "Description": "Starts the SAP System.",
+  "IsDataAction": false
+}

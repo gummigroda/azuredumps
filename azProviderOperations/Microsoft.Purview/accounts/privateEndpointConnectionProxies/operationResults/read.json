@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privateEndpointConnectionProxies/operationResults/read",
+  "OperationName": "Operation result by Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Endpoint Connection Proxy Operation Result",
+  "Description": "Monitor Private Endpoint Connection Proxy async operations.",
+  "IsDataAction": false
+}

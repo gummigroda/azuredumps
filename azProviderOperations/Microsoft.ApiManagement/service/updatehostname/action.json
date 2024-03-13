@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/updatehostname/action",
+  "OperationName": "Update domain names",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Setup, update or remove custom domain names for an API Management Service",
+  "IsDataAction": false
+}

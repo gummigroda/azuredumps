@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/delete",
+  "OperationName": "LocalRulestacks_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "Delete a LocalRulestackResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roleInstances/read",
+  "OperationName": "Gets a RoleInstance from CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Role Instance",
+  "Description": "Gets a RoleInstance from CloudService.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/invoice/analyze/action",
+  "OperationName": "Analyze Invoice - Analyze Invoice",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "invoice",
+  "Description": "Extract field text and semantic values from a given invoice document.",
+  "IsDataAction": true
+}

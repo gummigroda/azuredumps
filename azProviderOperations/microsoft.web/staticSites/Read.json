@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/Read",
+  "OperationName": "Get Static Site",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Get the properties of a Static Site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/billingmeters/read",
+  "OperationName": "Read billing meters",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Billing meters for Microsoft Web Apps",
+  "Description": "Get list of billing meters.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/transcriptions/read",
+  "OperationName": "Get Transcriptions|Get Transcription*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "transcriptions*",
+  "Description": "Gets a list of transcriptions for the authenticated subscription.\r\nGets the transcription identified by the given ID.*",
+  "IsDataAction": true
+}

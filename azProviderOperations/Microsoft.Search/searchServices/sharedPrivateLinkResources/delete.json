@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/sharedPrivateLinkResources/delete",
+  "OperationName": "Delete Shared Private Link Resource",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Shared Private Link Resource",
+  "Description": "Deletes an existing shared private link resource",
+  "IsDataAction": false
+}

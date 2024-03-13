@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/testFailover/action",
+  "OperationName": "Test Failover Recovery Plan",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "Test Failover Recovery Plan",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/Write",
+  "OperationName": "Create or Update App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Create a new App Service Environment or update existing one",
+  "IsDataAction": false
+}

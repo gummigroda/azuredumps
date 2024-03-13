@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/register/action",
+  "OperationName": "Subscription Registration Action",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "",
+  "Description": "Subscription Registration Action",
+  "IsDataAction": false
+}

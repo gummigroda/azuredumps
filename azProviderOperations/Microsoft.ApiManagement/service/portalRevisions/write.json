@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalRevisions/write",
+  "OperationName": "Create developer portal revision or Update developer portal revision",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "PortalRevisions",
+  "Description": "Creates a new developer portal revision. or Updates the description of specified portal revision or makes it current.",
+  "IsDataAction": false
+}

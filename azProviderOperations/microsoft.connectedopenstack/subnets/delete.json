@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/subnets/delete",
+  "OperationName": "Subnets_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "subnets",
+  "Description": "Implements Subnet DELETE method.",
+  "IsDataAction": false
+}

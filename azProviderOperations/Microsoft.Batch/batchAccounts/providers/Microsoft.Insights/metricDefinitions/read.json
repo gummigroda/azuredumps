@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Batch service metric definitions",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Account Metric Definitions",
+  "Description": "Gets the available metrics for the Batch service",
+  "IsDataAction": false
+}

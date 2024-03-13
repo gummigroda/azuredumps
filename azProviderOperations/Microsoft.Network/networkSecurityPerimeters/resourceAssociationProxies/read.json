@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/resourceAssociationProxies/read",
+  "OperationName": "Gets a Network Security Perimeter Resource Association Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Resource Association Proxy",
+  "Description": "Gets a Network Security Perimeter Resource Association Proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/unregister/action",
+  "OperationName": "Unregister the Microsoft.MobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.MobilePacketCore",
+  "IsDataAction": false
+}

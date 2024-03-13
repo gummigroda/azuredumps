@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/policyElements/read",
+  "OperationName": "Read Policy Element",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Policy element",
+  "Description": "Read Policy Element.",
+  "IsDataAction": true
+}

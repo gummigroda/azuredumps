@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/webApplicationFirewalls/write",
+  "OperationName": "Create or Update Web Application Firewalls",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Web Application Firewalls",
+  "Description": "Creates a new web application firewall or updates an existing one",
+  "IsDataAction": false
+}

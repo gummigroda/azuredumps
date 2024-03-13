@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection or List Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Get a private endpoint connection or list private endpoint connections under the specified configuration store.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/linkedWorkspace/read",
+  "OperationName": "Read the workspace linked to the automation account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Workspace linked to automation account",
+  "Description": "Gets the workspace linked to the automation account",
+  "IsDataAction": false
+}

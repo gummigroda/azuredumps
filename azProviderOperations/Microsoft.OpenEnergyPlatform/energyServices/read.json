@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/read",
+  "OperationName": "EnergyServices_Get",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Returns oep resource for a given name.",
+  "IsDataAction": false
+}

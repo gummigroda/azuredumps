@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "",
+  "Description": "Checks if Elastic resource name is available",
+  "IsDataAction": false
+}

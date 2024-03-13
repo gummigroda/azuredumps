@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/racks/delete",
+  "OperationName": "Racks_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "racks",
+  "Description": "Delete the provided rack.\nAll customer initiated requests will be rejected as the life cycle of this resource is managed by the system.",
+  "IsDataAction": false
+}

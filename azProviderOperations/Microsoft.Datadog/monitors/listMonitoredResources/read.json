@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/listMonitoredResources/read",
+  "OperationName": "List monitored resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "ListMonitoredResources",
+  "Description": "List all resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

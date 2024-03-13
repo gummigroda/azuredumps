@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/hostedpools/resources/delete",
+  "OperationName": "Delete 1ES Hosted Pool agents",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "hostedpools",
+  "Description": "Deletes 1ES Hosted Pools agents",
+  "IsDataAction": true
+}

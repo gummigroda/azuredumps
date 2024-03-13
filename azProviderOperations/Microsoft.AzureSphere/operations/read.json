@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/LogProfiles/Read",
+  "OperationName": "Read Activity Log log profile",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Log Profiles",
+  "Description": "Read an Activity Log log profile",
+  "IsDataAction": false
+}

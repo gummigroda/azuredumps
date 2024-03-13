@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

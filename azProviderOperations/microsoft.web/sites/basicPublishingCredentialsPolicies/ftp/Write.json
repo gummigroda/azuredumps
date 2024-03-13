@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/basicPublishingCredentialsPolicies/ftp/Write",
+  "OperationName": "Update Web App FTP Publishing Credentials Policy",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Update whether FTP publishing credentials are allowed for a Web App",
+  "IsDataAction": false
+}

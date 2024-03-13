@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/testMigrateCleanup/action",
+  "OperationName": "Test Migrate Cleanup",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Migration Items",
+  "Description": "Test Migrate Cleanup",
+  "IsDataAction": false
+}

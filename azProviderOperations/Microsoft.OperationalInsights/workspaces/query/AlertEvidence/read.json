@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AlertEvidence/read",
+  "OperationName": "Read AlertEvidence data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AlertEvidence",
+  "Description": "Read data from the AlertEvidence table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/roles/resize/action",
+  "OperationName": "Resize Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Resize a HDInsight Cluster",
+  "IsDataAction": false
+}

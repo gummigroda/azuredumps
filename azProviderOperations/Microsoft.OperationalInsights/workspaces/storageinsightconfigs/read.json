@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/storageinsightconfigs/read",
+  "OperationName": "Get Storage Configuration",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Storage Insight Configuration",
+  "Description": "Gets a storage configuration.",
+  "IsDataAction": false
+}

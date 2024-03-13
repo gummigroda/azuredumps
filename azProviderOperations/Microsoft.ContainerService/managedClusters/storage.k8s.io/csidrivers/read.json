@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/storage.k8s.io/csidrivers/read",
+  "OperationName": "Gets/List csidrivers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Csidrivers",
+  "Description": "Reads csidrivers",
+  "IsDataAction": true
+}

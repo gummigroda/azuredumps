@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/resetQueryPerformanceInsightData/action",
+  "OperationName": "Reset Query Performance Insight data",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Reset Query Performance Insight data",
+  "IsDataAction": false
+}

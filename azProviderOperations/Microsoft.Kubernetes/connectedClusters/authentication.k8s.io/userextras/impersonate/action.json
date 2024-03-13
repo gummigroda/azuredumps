@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/authentication.k8s.io/userextras/impersonate/action",
+  "OperationName": "Impersonate userextras resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "userextras",
+  "Description": "Impersonate userextras",
+  "IsDataAction": true
+}

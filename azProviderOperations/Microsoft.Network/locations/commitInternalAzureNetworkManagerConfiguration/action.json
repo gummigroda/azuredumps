@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/commitInternalAzureNetworkManagerConfiguration/action",
+  "OperationName": "Commits Internal AzureNetworkManagerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Commits Internal AzureNetworkManager Configuration In ANM",
+  "IsDataAction": false
+}

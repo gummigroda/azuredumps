@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/datasets/read",
+  "OperationName": "Get one or more datasets",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Get one or more datasets",
+  "IsDataAction": true
+}

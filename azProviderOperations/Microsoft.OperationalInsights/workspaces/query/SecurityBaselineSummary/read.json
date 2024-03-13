@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SecurityBaselineSummary/read",
+  "OperationName": "Read SecurityBaselineSummary data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SecurityBaselineSummary",
+  "Description": "Read data from the SecurityBaselineSummary table",
+  "IsDataAction": false
+}

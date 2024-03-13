@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/contentTypes/contentItems/write",
+  "OperationName": "Create content item or Update content item",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Content items",
+  "Description": "Creates new content item or Updates specified content item",
+  "IsDataAction": false
+}

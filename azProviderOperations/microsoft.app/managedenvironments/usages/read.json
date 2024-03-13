@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/usages/read",
+  "OperationName": "Read Managed Environment Quota Usages",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Quota Usages",
+  "Description": "Get Quota Usages in a Managed Environment",
+  "IsDataAction": false
+}

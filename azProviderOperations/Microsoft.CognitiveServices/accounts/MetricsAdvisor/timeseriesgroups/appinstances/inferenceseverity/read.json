@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/inferenceseverity/read",
+  "OperationName": "Get the inference severity values from a time series group application instance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Inference severity of a time series group",
+  "Description": "Get the inference severity values from a time series group application instance",
+  "IsDataAction": true
+}

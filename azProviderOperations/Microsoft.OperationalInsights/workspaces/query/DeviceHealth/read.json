@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceHealth/read",
+  "OperationName": "Read DeviceHealth data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceHealth",
+  "Description": "Read data from the DeviceHealth table",
+  "IsDataAction": false
+}

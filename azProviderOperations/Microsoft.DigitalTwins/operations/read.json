@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/operations/read",
+  "OperationName": "Read Operations",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Operation",
+  "Description": "Read all Operations",
+  "IsDataAction": false
+}

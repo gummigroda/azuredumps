@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/suspend/action",
+  "OperationName": "Suspend the Analysis Server.",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Suspends the Analysis Server.",
+  "IsDataAction": false
+}

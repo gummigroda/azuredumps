@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/resetSlotConfig/Action",
+  "OperationName": "Reset Web App Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Reset web app configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/read",
+  "OperationName": "Gets/List readyz resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz",
+  "Description": "Reads readyz",
+  "IsDataAction": true
+}

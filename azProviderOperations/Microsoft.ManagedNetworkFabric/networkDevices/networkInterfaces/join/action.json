@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/join/action",
+  "OperationName": "NetworkInterfaces_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "Join action for Network Interface resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/batch/action",
+  "OperationName": "Batch Service Action",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Batch",
+  "Description": "Allows actions upon data for batch services.",
+  "IsDataAction": true
+}

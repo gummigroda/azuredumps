@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/read",
+  "OperationName": "Get Elastic San",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Elastic Sans",
+  "Description": "Get Elastic San",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/facelists/delete",
+  "OperationName": "FaceList - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Lists",
+  "Description": "Delete a specified face list.",
+  "IsDataAction": true
+}

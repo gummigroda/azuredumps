@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/refreshPermissions/action",
+  "OperationName": "Refresh permissions",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Refresh permissions for a workspace",
+  "IsDataAction": false
+}

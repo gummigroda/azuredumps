@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/write",
+  "OperationName": "Write Azure Arc privateLinkScopes",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateLinkScopes",
+  "Description": "Writes an Azure Arc privateLinkScopes",
+  "IsDataAction": false
+}

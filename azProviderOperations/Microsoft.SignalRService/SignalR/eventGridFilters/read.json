@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/eventGridFilters/read",
+  "OperationName": "Get Event Grid Filter or List Event Grid Filters",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/EventGridFilters",
+  "Description": "Get the properties of the specified event grid filter or lists all the event grid filters for the specified SignalR resource",
+  "IsDataAction": false
+}

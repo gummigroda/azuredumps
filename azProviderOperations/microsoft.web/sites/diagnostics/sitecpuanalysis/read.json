@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/sitecpuanalysis/read",
+  "OperationName": "Get Web Apps Diagnostics Site CPU Analysis",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Site CPU Analysis",
+  "Description": "Get Web Apps Diagnostics Site CPU Analysis.",
+  "IsDataAction": false
+}

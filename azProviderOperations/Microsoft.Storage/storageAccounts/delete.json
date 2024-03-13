@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/delete",
+  "OperationName": "Delete Storage Account",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Deletes an existing storage account.",
+  "IsDataAction": false
+}

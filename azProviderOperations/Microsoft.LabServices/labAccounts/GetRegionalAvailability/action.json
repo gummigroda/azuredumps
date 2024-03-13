@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/GetRegionalAvailability/action",
+  "OperationName": "Get regional availability for sizes configured under a lab account",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Lab Accounts",
+  "Description": "Get regional availability information for each size category configured under a lab account",
+  "IsDataAction": false
+}

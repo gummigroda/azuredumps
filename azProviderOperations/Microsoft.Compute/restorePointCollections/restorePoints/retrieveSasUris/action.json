@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/retrieveSasUris/action",
+  "OperationName": "Get Restore Point along with blob SAS URIs",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Restore Points",
+  "Description": "Get the properties of a restore point along with blob SAS URIs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/unregister/action",
+  "OperationName": "Unregister the Microsoft.ApiSecurity",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ApiSecurity",
+  "IsDataAction": false
+}

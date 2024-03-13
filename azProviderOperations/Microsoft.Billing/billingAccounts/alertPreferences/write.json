@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/alertPreferences/write",
+  "OperationName": "AlertPreferences_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Alert Preferences",
+  "Description": "Creates or updates an AlertPreference for the specifed Billing Account.",
+  "IsDataAction": false
+}

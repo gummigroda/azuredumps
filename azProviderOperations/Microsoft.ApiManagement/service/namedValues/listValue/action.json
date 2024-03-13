@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/namedValues/listValue/action",
+  "OperationName": "Get the value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of named values. Named values are used to manage constant string values across all API configurations or policies.",
+  "Description": "Gets the secret of the named value specified by its identifier.",
+  "IsDataAction": false
+}

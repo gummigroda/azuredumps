@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/restartNode/action",
+  "OperationName": "KubernetesClusters_RestartNode",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters",
+  "Description": "Restart a targeted node of a Kubernetes cluster.",
+  "IsDataAction": false
+}

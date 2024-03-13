@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/user/state/write",
+  "OperationName": "UpdateUserState",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "state*",
+  "Description": "Update user state",
+  "IsDataAction": true
+}

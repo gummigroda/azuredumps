@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/alerts/pcaps/write",
+  "OperationName": "Request related PCAP file for alert",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Alerts",
+  "Description": "Request related PCAP file for alert",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/read",
+  "OperationName": "Get policy assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy assignment",
+  "Description": "Get information about a policy assignment.",
+  "IsDataAction": false
+}

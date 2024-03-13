@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/healthmodels/snapshots/read",
+  "OperationName": "Snapshots_Get",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "healthmodels/snapshots",
+  "Description": "Get a Snapshot",
+  "IsDataAction": false
+}

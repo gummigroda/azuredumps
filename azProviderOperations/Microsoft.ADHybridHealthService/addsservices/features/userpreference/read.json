@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/features/userpreference/read",
+  "OperationName": "Gets the user preference setting.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets the user preference setting for the forest. Example- MetricCounterName like ldapsuccessfulbinds, ntlmauthentications, kerberosauthentications, addsinsightsagentprivatebytes, ldapsearches. Settings for the UI Charts etc.",
+  "IsDataAction": false
+}

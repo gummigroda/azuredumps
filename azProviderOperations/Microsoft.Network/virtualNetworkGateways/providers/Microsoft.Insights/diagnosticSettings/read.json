@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Virtual Network Gateway Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Gateway diagnostic settings",
+  "Description": "Gets the Virtual Network Gateway Diagnostic Settings",
+  "IsDataAction": false
+}

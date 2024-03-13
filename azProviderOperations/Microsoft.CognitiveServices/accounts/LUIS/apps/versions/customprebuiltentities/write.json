@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltentities/write",
+  "OperationName": "Add prebuilt domain entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain entities",
+  "Description": "Adds a custom prebuilt domain entity model to the application version. Use [delete entity](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c1f) with the entity id to remove this entity.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peerings/delete",
+  "OperationName": "Delete Peering",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "peerings",
+  "Description": "Delete any peerings",
+  "IsDataAction": false
+}

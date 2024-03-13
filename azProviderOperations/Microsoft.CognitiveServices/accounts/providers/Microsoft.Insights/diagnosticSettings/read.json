@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

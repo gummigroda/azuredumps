@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networksecuritygroups/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update Network Security Groups diagnostic settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Groups Diagnostic Settings",
+  "Description": "Creates or updates the Network Security Groups diagnostic settings, this operation is supplimented by insghts resource provider.",
+  "IsDataAction": false
+}

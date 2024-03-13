@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/extensions/write",
+  "OperationName": "Update Web Apps Slots Extensions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Extensions",
+  "Description": "Update Web Apps Slots Extensions.",
+  "IsDataAction": false
+}

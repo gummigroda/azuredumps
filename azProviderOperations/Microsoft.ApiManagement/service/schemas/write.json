@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/schemas/write",
+  "OperationName": "Create schema",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Schemas",
+  "Description": "Creates or updates an Schema to be used in Api Management instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ServiceFabricReliableActorEvent/read",
+  "OperationName": "Read ServiceFabricReliableActorEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ServiceFabricReliableActorEvent",
+  "Description": "Read data from the ServiceFabricReliableActorEvent table",
+  "IsDataAction": false
+}

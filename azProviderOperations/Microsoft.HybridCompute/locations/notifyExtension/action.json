@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/locations/notifyExtension/action",
+  "OperationName": "Notifies Microsoft.HybridCompute about extensions updates",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "locations",
+  "Description": "Notifies Microsoft.HybridCompute about extensions updates",
+  "IsDataAction": false
+}

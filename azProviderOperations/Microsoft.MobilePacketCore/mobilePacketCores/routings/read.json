@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/routings/read",
+  "OperationName": "Routings_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/routings",
+  "Description": "Lists all the Routing resources in a mobile packet core.",
+  "IsDataAction": false
+}

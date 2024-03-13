@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/metricDefinitions/read",
+  "OperationName": "Read search service metric definitions",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "The metric definitions for the search service",
+  "Description": "Gets the available metrics for the search service",
+  "IsDataAction": false
+}

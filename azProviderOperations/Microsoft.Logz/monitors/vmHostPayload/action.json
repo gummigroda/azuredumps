@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/vmHostPayload/action",
+  "OperationName": "Payload for VM Host",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Monitors",
+  "Description": "The payload to be sent for installing Logz agent on VM",
+  "IsDataAction": false
+}

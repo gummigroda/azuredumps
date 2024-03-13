@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/bgpPeers/delete",
+  "OperationName": "BgpPeers_Delete",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "bgpPeers",
+  "Description": "Delete a BgpPeer",
+  "IsDataAction": false
+}

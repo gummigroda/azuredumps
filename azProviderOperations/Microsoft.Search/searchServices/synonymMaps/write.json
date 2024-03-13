@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/synonymMaps/write",
+  "OperationName": "Create or Update Synonym Map",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Synonym Maps",
+  "Description": "Create a synonym map or modify its properties.",
+  "IsDataAction": false
+}

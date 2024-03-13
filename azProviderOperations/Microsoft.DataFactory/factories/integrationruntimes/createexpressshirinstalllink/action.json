@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/createexpressshirinstalllink/action",
+  "OperationName": "Create Self hosted Integration Runtime express install link",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Create express install link for self hosted Integration Runtime.",
+  "IsDataAction": false
+}

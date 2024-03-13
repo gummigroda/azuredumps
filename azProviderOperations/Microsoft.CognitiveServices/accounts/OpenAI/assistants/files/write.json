@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/files/write",
+  "OperationName": "Create assistant file",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Create assistant file.",
+  "IsDataAction": true
+}

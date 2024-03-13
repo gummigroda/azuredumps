@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnections/write",
+  "OperationName": "Write PrivateEndpointConnection",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "PrivateEndpointConnection",
+  "Description": "Write PrivateEndpointConnection resource",
+  "IsDataAction": false
+}

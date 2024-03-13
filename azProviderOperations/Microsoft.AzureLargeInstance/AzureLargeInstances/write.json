@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/AzureLargeInstances/write",
+  "OperationName": "Create or Update AzureLargeInstance",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "AzureLargeInstance",
+  "Description": "Create or update any AzureLargeInstance",
+  "IsDataAction": false
+}

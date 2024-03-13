@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/potentialoutages/read",
+  "OperationName": "Get Potential Outages",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Potential Outages",
+  "Description": "Get Potential Outages for given subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/eventtypes/values/Read",
+  "OperationName": "Read Activity Log",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Activity Log Events",
+  "Description": "Read Activity Log events",
+  "IsDataAction": false
+}

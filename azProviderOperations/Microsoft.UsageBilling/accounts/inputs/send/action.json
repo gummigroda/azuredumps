@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.UsageBilling/accounts/inputs/send/action",
+  "OperationName": "Provides permission to send usage events to input resource.",
+  "ProviderNamespace": "Microsoft.UsageBilling",
+  "ResourceName": "inputs",
+  "Description": "Send events to input resource.",
+  "IsDataAction": true
+}

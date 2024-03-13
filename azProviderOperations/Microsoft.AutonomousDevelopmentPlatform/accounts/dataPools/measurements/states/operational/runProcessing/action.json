@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/operational/runProcessing/action",
+  "OperationName": "Run Processing Steps for Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operational Measurements",
+  "Description": "Run Processing Steps for Operational Measurements",
+  "IsDataAction": true
+}

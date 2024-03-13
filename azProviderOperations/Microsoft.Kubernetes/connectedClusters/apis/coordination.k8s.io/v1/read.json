@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/coordination.k8s.io/v1/read",
+  "OperationName": "Gets/List coordination/v1 resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "coordination.k8s.io/v1",
+  "Description": "Reads coordination/v1",
+  "IsDataAction": true
+}

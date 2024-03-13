@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/serverfarms/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read App Service Plan metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of App Service Plan",
+  "Description": "Gets the available metrics for App Service Plan",
+  "IsDataAction": false
+}

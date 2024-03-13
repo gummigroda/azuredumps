@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/write",
+  "OperationName": "Set tenant policy configuration or Update tenant access information or Update tenant access information",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Set policy configuration for the tenant or Update tenant access information details or Update tenant access information details",
+  "IsDataAction": false
+}

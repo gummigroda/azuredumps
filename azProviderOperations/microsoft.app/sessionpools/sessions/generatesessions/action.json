@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/sessionpools/sessions/generatesessions/action",
+  "OperationName": "Generate Sessions",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Session",
+  "Description": "Generate sessions",
+  "IsDataAction": false
+}

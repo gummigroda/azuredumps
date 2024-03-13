@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/restore/action",
+  "OperationName": "Restore Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Triggers restore on the Backup Instance",
+  "IsDataAction": false
+}

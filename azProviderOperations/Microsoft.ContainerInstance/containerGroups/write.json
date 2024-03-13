@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/write",
+  "OperationName": "Create or update Container Group",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Create or update a specific container group.",
+  "IsDataAction": false
+}

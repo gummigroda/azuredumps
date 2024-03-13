@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/listProductFamilies/read",
+  "OperationName": "List Product Families",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "ArmApiRes_Microsoft.EdgeOrder",
+  "Description": "This method returns list of product families.",
+  "IsDataAction": false
+}

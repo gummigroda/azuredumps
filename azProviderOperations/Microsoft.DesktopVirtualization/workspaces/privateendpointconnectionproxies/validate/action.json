@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/workspaces/privateendpointconnectionproxies/validate/action",
+  "OperationName": "validate",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "workspaces/privateendpointconnectionproxies",
+  "Description": "Validates the private endpoint connection proxy",
+  "IsDataAction": false
+}

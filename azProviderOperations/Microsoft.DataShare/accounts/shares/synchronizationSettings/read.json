@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/synchronizationSettings/read",
+  "OperationName": "Read Data Share Synchronization Setting",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Synchronization Setting",
+  "Description": "Reads a Data Share Synchronization Setting.",
+  "IsDataAction": false
+}

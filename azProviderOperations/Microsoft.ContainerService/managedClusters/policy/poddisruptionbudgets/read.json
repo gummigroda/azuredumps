@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/policy/poddisruptionbudgets/read",
+  "OperationName": "Gets/List poddisruptionbudgets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Poddisruptionbudgets",
+  "Description": "Reads poddisruptionbudgets",
+  "IsDataAction": true
+}

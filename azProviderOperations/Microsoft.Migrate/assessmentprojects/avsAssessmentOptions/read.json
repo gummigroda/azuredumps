@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/avsAssessmentOptions/read",
+  "OperationName": "List AVS Assessment Options",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS Assessment Options",
+  "Description": "Gets the AVS assessment options which are available in the given location",
+  "IsDataAction": false
+}

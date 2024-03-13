@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/dynamicpersongroups/read",
+  "OperationName": "PersonDirectory DynamicPersonGroup - Get|PersonDirectory DynamicPersonGroup - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dynamicpersongroups*",
+  "Description": "Retrieve the information of a dynamic person group, including its name and userData. This API returns dynamic person group information\r\nList all existing dynamic person groups by dynamicPersonGroupId along with name and userData.*",
+  "IsDataAction": true
+}

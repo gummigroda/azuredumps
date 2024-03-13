@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/virtualnetworkconnections/gateways/read",
+  "OperationName": "Get Web Apps Virtual Network Connections Gateways",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Virtual Network Connections Gateways",
+  "Description": "Get Web Apps Virtual Network Connections Gateways.",
+  "IsDataAction": false
+}

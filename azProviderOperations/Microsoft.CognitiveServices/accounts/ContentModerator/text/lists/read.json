@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/read",
+  "OperationName": "Get All Text Lists|Get Text List By listId*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "lists*",
+  "Description": "Get All Text Lists\r\nReturns text list details of the Text List with list Id equal to list Id passed.*",
+  "IsDataAction": true
+}

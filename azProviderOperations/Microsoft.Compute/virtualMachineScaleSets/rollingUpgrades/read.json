@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/rollingUpgrades/read",
+  "OperationName": "Gets the latest Rolling Upgrade status for a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets Rolling Upgrades",
+  "Description": "Get latest Rolling Upgrade status for a Virtual Machine Scale Set",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "File service",
+  "Description": "Creates or updates the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

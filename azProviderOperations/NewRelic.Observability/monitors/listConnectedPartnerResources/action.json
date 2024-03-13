@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/listConnectedPartnerResources/action",
+  "OperationName": "List all deployments billed under an organization",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all deployments billed under an organization",
+  "IsDataAction": false
+}

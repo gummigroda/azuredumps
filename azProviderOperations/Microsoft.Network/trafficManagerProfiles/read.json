@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/read",
+  "OperationName": "Get Traffic Manager Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Profile",
+  "Description": "Get the Traffic Manager profile configuration. This includes DNS settings, traffic routing settings, endpoint monitoring settings, and the list of endpoints routed by this Traffic Manager profile.",
+  "IsDataAction": false
+}

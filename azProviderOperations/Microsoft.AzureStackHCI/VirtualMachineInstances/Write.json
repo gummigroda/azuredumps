@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachineInstances/Write",
+  "OperationName": "Creates/Updates virtual machine instance resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachineInstances",
+  "Description": "Creates/Updates virtual machine instance resource",
+  "IsDataAction": false
+}

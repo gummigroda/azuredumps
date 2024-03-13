@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/read",
+  "OperationName": "List/Get Azure SQL Managed instances(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Return the list of managed instances or gets the properties for the specified managed instance.",
+  "IsDataAction": false
+}

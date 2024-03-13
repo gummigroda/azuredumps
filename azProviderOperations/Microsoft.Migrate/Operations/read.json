@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/Operations/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Microsoft.Migrate/assessmentprojects",
+  "Description": "Lists operations available on Microsoft.Migrate resource provider",
+  "IsDataAction": false
+}

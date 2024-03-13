@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

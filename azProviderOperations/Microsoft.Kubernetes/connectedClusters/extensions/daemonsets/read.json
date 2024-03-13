@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/daemonsets/read",
+  "OperationName": "Gets/List daemonsets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "daemonsets",
+  "Description": "Reads daemonsets",
+  "IsDataAction": true
+}

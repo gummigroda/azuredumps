@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/sqlAssessments/delete",
+  "OperationName": "Delete SQL Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Assessments",
+  "Description": "Deletes an SQL assessment",
+  "IsDataAction": false
+}

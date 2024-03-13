@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EnterpriseSupport/locations/operationresults/read",
+  "OperationName": "Read Operation Result.",
+  "ProviderNamespace": "Microsoft EnterpriseSupport",
+  "ResourceName": "Operation Result",
+  "Description": "Read the status of an asynchronous operation.",
+  "IsDataAction": false
+}

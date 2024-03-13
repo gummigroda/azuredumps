@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFActivityRun/Read",
+  "OperationName": "Read ADFActivityRun data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFActivityRun",
+  "Description": "Read data from the ADFActivityRun table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/read",
+  "OperationName": "Read dnsServices",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dnsServices",
+  "Description": "Read dnsServices.",
+  "IsDataAction": false
+}

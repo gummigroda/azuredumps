@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/attachments/list/action",
+  "OperationName": "List AgFoodPlatform attachment resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform attachments",
+  "Description": "List(s) existing AgFoodPlatform attachment resource(s).",
+  "IsDataAction": true
+}

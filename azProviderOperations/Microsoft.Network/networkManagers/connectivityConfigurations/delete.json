@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/connectivityConfigurations/delete",
+  "OperationName": "Delete Connectivity Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ConnectivityConfiguration",
+  "Description": "Delete Connectivity Configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Create network security perimeter association",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Create network security perimeter association",
+  "IsDataAction": false
+}

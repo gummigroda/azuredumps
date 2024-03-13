@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies/Read",
+  "OperationName": "List Web App Slot Publishing Credentials Policies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "List which publishing credentials are allowed for a Web App Slot",
+  "IsDataAction": false
+}

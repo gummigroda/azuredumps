@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/locations/operations/read",
+  "OperationName": "Get the status of an asynchronous operation",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "Asynchronous Operation",
+  "Description": "Get the status of an asynchronous operation",
+  "IsDataAction": false
+}

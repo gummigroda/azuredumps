@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ImportSites/jobs/read",
+  "OperationName": "Get Import jobs",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Jobs",
+  "Description": "Gets the properties of a Import jobs",
+  "IsDataAction": false
+}

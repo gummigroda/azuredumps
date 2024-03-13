@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/schedules/Execute/action",
+  "OperationName": "Execute schedule",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "schedules",
+  "Description": "Execute a schedule.",
+  "IsDataAction": false
+}

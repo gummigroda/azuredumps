@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read SQL Pool diagnostic settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces/sqlPools",
+  "Description": "Gets the diagnostic settings for a SQL Pool",
+  "IsDataAction": false
+}

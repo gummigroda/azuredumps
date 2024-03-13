@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/networkSlices/read",
+  "OperationName": "NetworkSlices_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/networkSlices",
+  "Description": "Lists all the network slices in a mobile packet core instance.",
+  "IsDataAction": false
+}

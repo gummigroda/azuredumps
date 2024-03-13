@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/javacomponents/write",
+  "OperationName": "Create or Update Managed Environment Java Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Java Component",
+  "Description": "Create or update Managed Environment Java Component",
+  "IsDataAction": false
+}

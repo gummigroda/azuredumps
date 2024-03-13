@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/registeredSubscriptions/read",
+  "OperationName": "Get/List registered subscriptions",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

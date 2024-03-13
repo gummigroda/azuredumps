@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/triggers/write",
+  "OperationName": "Write Data Share Trigger",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Trigger",
+  "Description": "Write a Data Share Trigger.",
+  "IsDataAction": false
+}

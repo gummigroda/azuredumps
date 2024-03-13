@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/events/delete",
+  "OperationName": "Deletes/DeletesCollection events resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "events",
+  "Description": "Deletes events",
+  "IsDataAction": true
+}

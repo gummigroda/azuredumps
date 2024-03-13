@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/runs/operations/read",
+  "OperationName": "Get Workflow Run Operation Status",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Run Operation",
+  "Description": "Reads the workflow run operation status.",
+  "IsDataAction": false
+}

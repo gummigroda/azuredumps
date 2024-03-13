@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/register/action",
+  "OperationName": "Register Data Factory Resource Provider",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Data Factory Resource Provider.",
+  "IsDataAction": false
+}

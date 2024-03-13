@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/write",
+  "OperationName": "Create or Update Data Factory",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Creates or Updates the Data Factory.",
+  "IsDataAction": false
+}

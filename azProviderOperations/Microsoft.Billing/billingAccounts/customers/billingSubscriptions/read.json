@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/billingSubscriptions/read",
+  "OperationName": "BillingSubscriptions_ListByCustomer",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": "Lists the subscriptions for a customer. The operation is supported only for billing accounts with agreement type Microsoft Partner Agreement.",
+  "IsDataAction": false
+}

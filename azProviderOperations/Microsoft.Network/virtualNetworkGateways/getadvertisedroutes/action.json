@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/getadvertisedroutes/action",
+  "OperationName": "Gets virtualNetworkGateway advertised routes",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Gets virtualNetworkGateway advertised routes",
+  "IsDataAction": false
+}

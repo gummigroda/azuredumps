@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/connections/confirmconsentcode/action",
+  "OperationName": "Confirm Consent Code Api Management Accounts APIs Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Connections",
+  "Description": "Confirm Consent Code Api Management Accounts APIs Connections.",
+  "IsDataAction": false
+}

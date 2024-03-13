@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/storedProcedures/read",
+  "OperationName": "Read SQL stored procedure(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Stored Procedure",
+  "Description": "Read a SQL stored procedure or list all the SQL stored procedures.",
+  "IsDataAction": false
+}

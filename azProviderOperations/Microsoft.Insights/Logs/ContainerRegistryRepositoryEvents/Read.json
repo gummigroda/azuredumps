@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ContainerRegistryRepositoryEvents/Read",
+  "OperationName": "Read ContainerRegistryRepositoryEvents data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ContainerRegistryRepositoryEvents",
+  "Description": "Read data from the ContainerRegistryRepositoryEvents table",
+  "IsDataAction": false
+}

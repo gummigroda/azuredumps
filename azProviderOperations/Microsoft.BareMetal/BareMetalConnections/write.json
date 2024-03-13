@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/BareMetalConnections/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "BareMetalConnections",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

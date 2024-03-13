@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/AudioGenerationTasks/read",
+  "OperationName": "Query ACC export audio tasks.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio generation tasks",
+  "Description": "Query ACC export audio tasks.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/slots/evaluations/action",
+  "OperationName": "Trigger evaluations Async for an App Slot",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "slots*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

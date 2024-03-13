@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/skus/read",
+  "OperationName": "Skus_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "skus",
+  "Description": "Lists the available SKUs of Test Base Account in a subscription.",
+  "IsDataAction": false
+}

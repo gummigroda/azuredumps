@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/CheckNameAvailability/action",
+  "OperationName": "Check name availability action for a given type",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Checks name availability for a given type.",
+  "IsDataAction": false
+}

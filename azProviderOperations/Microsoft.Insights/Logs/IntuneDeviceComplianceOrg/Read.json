@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/IntuneDeviceComplianceOrg/Read",
+  "OperationName": "Read IntuneDeviceComplianceOrg data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "IntuneDeviceComplianceOrg",
+  "Description": "Read data from the IntuneDeviceComplianceOrg table",
+  "IsDataAction": false
+}

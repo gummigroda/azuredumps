@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/racks/read",
+  "OperationName": "Racks_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "racks",
+  "Description": "Get properties of the provided rack.",
+  "IsDataAction": false
+}

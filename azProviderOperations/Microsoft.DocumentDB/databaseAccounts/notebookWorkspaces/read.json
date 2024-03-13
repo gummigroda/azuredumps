@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Notebook Workspace",
+  "Description": "Read a notebook workspace",
+  "IsDataAction": false
+}

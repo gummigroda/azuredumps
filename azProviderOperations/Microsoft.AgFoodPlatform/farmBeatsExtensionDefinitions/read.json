@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeatsExtensionDefinitions/read",
+  "OperationName": "Get or List AgFoodPlatform FarmBeatsExtensionDefinitions resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform FarmBeatsExtensionDefinitions",
+  "Description": "Gets or Lists existing AgFoodPlatform FarmBeatsExtensionDefinitions resource(s).",
+  "IsDataAction": false
+}

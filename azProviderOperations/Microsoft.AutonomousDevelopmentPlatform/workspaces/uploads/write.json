@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/uploads/write",
+  "OperationName": "Write Uploads",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Uploads",
+  "Description": "Create a new upload of a data of measurements. Perform any operation within the scope of this upload such as abort.",
+  "IsDataAction": true
+}

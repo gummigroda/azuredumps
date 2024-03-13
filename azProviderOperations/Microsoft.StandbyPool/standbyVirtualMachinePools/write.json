@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyVirtualMachinePools/write",
+  "OperationName": "StandbyVirtualMachinePools_Update",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyVirtualMachinePools",
+  "Description": "Update a StandbyVirtualMachinePoolResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectableItems/read",
+  "OperationName": "Read Protectable Items",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protectable Items",
+  "Description": "Read any Protectable Items",
+  "IsDataAction": false
+}

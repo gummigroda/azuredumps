@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/correction/users/operations/read",
+  "OperationName": "Face User Correction - Get Operation State (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "operations*",
+  "Description": "Face User Correction - Get Operation State",
+  "IsDataAction": true
+}

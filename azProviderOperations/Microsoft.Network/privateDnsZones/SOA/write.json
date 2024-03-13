@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/SOA/write",
+  "OperationName": "Update record set of type SOA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS SOA record set",
+  "Description": "Update a record set of type ‘SOA’ within a Private DNS zone.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/start/action",
+  "OperationName": "Start Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Starts a managed cluster",
+  "IsDataAction": false
+}

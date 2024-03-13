@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/batch/cronjobs/read",
+  "OperationName": "Gets/List cronjobs resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Cronjobs",
+  "Description": "Reads cronjobs",
+  "IsDataAction": true
+}

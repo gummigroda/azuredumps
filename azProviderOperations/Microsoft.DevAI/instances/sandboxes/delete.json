@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/sandboxes/delete",
+  "OperationName": "Sandboxes_Delete",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/sandboxes",
+  "Description": "delete sandboxes",
+  "IsDataAction": false
+}

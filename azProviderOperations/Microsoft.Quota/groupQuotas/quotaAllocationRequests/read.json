@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/quotaAllocationRequests/read",
+  "OperationName": "Get GroupQuota to Subscription Quota allocation request status",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota to Subscription Quota allocation request",
+  "Description": "Get the GroupQuota to Subscription Quota allocation request status for the specific request",
+  "IsDataAction": false
+}

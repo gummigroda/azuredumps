@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/phpWorkloads/read",
+  "OperationName": "PhpWorkloads_Get",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "phpWorkloads",
+  "Description": "Gets a phpWorkload resource",
+  "IsDataAction": false
+}

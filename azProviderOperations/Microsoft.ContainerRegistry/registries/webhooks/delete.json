@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/delete",
+  "OperationName": "Delete Webhook",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Deletes a webhook from a container registry.",
+  "IsDataAction": false
+}

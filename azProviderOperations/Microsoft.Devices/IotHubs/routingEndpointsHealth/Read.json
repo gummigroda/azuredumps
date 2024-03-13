@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/routingEndpointsHealth/Read",
+  "OperationName": "Get Endpoint Health",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Gets the health of all routing Endpoints for an IotHub",
+  "IsDataAction": false
+}

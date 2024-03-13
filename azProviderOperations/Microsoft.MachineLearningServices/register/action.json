@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/register/action",
+  "OperationName": "Registers the subscription for the Machine Learning Services Resource Provider",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Machine Learning Services Resource Provider",
+  "IsDataAction": false
+}

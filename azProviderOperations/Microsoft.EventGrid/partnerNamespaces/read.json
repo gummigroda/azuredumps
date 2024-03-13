@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/read",
+  "OperationName": "Read PartnerNamespace",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerNamespaces",
+  "Description": "Read a partner namespace",
+  "IsDataAction": false
+}

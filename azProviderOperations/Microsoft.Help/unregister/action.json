@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/unregister/action",
+  "OperationName": "Unregisters Help Resource Provider",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "",
+  "Description": "Unregisters Help Resource Provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Deletes an existing private endpoint connection proxy",
+  "IsDataAction": false
+}

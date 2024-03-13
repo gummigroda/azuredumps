@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/artifactSources/delete",
+  "OperationName": "Delete artifact sources.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Artifact sources",
+  "Description": "Delete artifact sources.",
+  "IsDataAction": false
+}

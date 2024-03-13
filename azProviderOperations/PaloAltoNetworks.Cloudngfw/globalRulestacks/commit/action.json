@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/commit/action",
+  "OperationName": "GlobalRulestack_commit",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "Commit rulestack configuration",
+  "IsDataAction": false
+}

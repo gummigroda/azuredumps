@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/migrateRouteService/action",
+  "OperationName": "Validate or execute the hub router migration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Hub resource",
+  "Description": "Validate or execute the hub router migration",
+  "IsDataAction": false
+}

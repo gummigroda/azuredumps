@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/operations/read",
+  "OperationName": "GetOperation|GetOperations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Get information about a specific operation.\r\nGet a list of the available operations.",
+  "IsDataAction": true
+}

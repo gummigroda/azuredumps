@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/images/delete",
+  "OperationName": "Images_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "images",
+  "Description": "Implements Image DELETE method.",
+  "IsDataAction": false
+}

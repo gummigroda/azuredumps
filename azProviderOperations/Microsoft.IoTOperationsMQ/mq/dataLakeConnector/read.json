@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/dataLakeConnector/read",
+  "OperationName": "DataLakeConnector_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/dataLakeConnector",
+  "Description": "Get a DataLakeConnectorResource",
+  "IsDataAction": false
+}

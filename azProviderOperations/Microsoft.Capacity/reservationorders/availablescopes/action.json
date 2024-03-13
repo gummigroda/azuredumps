@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/availablescopes/action",
+  "OperationName": "Find Available Scope",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Find any Available Scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/alterations/write",
+  "OperationName": "Alterations - Replace",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Alterations",
+  "Description": "Replace alterations data.",
+  "IsDataAction": true
+}

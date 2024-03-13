@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/edgeModules/write",
+  "OperationName": "Create or Update Edge Module",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Edge Module Resource",
+  "Description": "Create or Update any Edge Module",
+  "IsDataAction": false
+}

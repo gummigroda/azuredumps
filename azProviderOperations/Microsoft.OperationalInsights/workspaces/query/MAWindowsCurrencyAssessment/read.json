@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MAWindowsCurrencyAssessment/read",
+  "OperationName": "Read MAWindowsCurrencyAssessment data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MAWindowsCurrencyAssessment",
+  "Description": "Read data from the MAWindowsCurrencyAssessment table",
+  "IsDataAction": false
+}

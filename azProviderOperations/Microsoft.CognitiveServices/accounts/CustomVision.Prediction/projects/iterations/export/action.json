@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/iterations/export/action",
+  "OperationName": "ExportIteration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Export a trained iteration.",
+  "IsDataAction": true
+}

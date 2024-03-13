@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

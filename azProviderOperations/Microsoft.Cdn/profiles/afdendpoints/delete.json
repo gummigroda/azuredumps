@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/afdendpoints/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdEndpoint",
+  "Description": null,
+  "IsDataAction": false
+}

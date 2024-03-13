@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/delete",
+  "OperationName": "Delete Azure Arc machines",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Deletes an Azure Arc machines",
+  "IsDataAction": false
+}

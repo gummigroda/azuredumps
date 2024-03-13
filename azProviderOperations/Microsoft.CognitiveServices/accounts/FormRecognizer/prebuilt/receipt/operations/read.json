@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/receipt/operations/read",
+  "OperationName": "Get Receipt Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Receipt Recognizer Operations",
+  "Description": "Query the status and retrieve the result of an <a href=\"/docs/services/form-recognizer-api/operations/AnalyzeReceipt\">Analyze Receipt</a> operation. The URL to this interface can be obtained from the 'Operation-Location' header in the <a href=\"/docs/services/form-recognizer-api/operations/AnalyzeReceipt\">Analyze Receipt</a> response.",
+  "IsDataAction": true
+}

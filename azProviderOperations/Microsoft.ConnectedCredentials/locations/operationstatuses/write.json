@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCredentials/locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.ConnectedCredentials",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

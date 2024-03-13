@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/EventHubConnections/read",
+  "OperationName": "Read a Event Hub connections resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Event Hub connections resource type",
+  "Description": "Reads a Event Hub connections resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/manifest/read",
+  "OperationName": "Returns an endpoint manifest which can be used in an on-premise container.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manifest",
+  "Description": "Returns an endpoint manifest which can be used in an on-premise container.",
+  "IsDataAction": true
+}

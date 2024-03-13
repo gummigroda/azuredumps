@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/write",
+  "OperationName": "Create or Update Configuration Store",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Create or update a configuration store with the specified parameters.",
+  "IsDataAction": false
+}

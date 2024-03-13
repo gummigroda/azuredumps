@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/fine-tunes/write",
+  "OperationName": "Create or cancel Fine-tunes",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Fine-tunes",
+  "Description": "Creates or cancels adaptation of a model.",
+  "IsDataAction": true
+}

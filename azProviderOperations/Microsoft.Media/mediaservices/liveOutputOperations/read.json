@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveOutputOperations/read",
+  "OperationName": "Read Live Output Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Output Operation",
+  "Description": "Read any Live Output Operation",
+  "IsDataAction": false
+}

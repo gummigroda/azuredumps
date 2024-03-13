@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/gatewayLoadBalancerAliases/read",
+  "OperationName": "Get Gateway LoadBalancer Alias",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Gateway LoadBalancer Alias",
+  "Description": "Get a Gateway LoadBalancer Alias definition",
+  "IsDataAction": false
+}

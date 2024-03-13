@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/issues/read",
+  "OperationName": "Lists a collection of issues in the specified service instance. or Get the issue details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of all API Management issues",
+  "Description": "Lists a collection of issues in the specified service instance. or Gets API Management issue details",
+  "IsDataAction": false
+}

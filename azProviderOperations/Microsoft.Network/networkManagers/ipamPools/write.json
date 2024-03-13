@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/write",
+  "OperationName": "Creates or Updates a Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Creates or Updates a Ipam Pool",
+  "IsDataAction": false
+}

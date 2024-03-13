@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Billing/submitusage/action",
+  "OperationName": "Submit Usage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Container Service",
+  "Description": "submit usage with meter name and quantity specified in request body.",
+  "IsDataAction": true
+}

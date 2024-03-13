@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/domains/read",
+  "OperationName": "Get custom domain(s) in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application custom domain of Microsoft Azure Spring Apps",
+  "Description": "Get the custom domains for a specific application",
+  "IsDataAction": false
+}

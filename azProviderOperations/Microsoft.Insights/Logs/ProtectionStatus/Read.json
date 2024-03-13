@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ProtectionStatus/Read",
+  "OperationName": "Read ProtectionStatus data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ProtectionStatus",
+  "Description": "Read data from the ProtectionStatus table",
+  "IsDataAction": false
+}

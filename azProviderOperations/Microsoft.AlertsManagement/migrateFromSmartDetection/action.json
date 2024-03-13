@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/migrateFromSmartDetection/action",
+  "OperationName": "Migrate From Smart Detection",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "",
+  "Description": "Starts an asynchronous migration process of Smart Detection to smart alerts in an Application Insights resource",
+  "IsDataAction": false
+}

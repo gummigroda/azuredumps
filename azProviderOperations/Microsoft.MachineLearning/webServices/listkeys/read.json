@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/webServices/listkeys/read",
+  "OperationName": "Get Machine Learning Web Service Keys",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Web Service",
+  "Description": "Get keys to a Machine Learning Web Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

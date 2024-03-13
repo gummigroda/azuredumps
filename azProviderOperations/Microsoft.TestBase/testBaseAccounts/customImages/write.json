@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/customImages/write",
+  "OperationName": "CustomImages_Create",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/customImages",
+  "Description": "Creates a test base custom image.",
+  "IsDataAction": false
+}

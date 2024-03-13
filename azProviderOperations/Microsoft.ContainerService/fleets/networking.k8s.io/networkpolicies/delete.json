@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/networking.k8s.io/networkpolicies/delete",
+  "OperationName": "Deletes/DeletesCollection networkpolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Networkpolicies",
+  "Description": "Deletes networkpolicies",
+  "IsDataAction": true
+}

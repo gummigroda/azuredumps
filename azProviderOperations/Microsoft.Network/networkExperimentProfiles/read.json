@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkExperimentProfiles/read",
+  "OperationName": "Get an Internet Analyzer profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Internet Analyzer Profile",
+  "Description": "Get an Internet Analyzer profile",
+  "IsDataAction": false
+}

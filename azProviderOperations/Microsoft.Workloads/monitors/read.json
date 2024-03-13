@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/monitors/read",
+  "OperationName": "monitors_Get",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "monitors",
+  "Description": "Gets properties of a SAP monitor for the specified subscription, resource group, and resource name.",
+  "IsDataAction": false
+}

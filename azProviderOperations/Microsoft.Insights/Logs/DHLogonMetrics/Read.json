@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHLogonMetrics/Read",
+  "OperationName": "Read DHLogonMetrics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHLogonMetrics",
+  "Description": "Read data from the DHLogonMetrics table",
+  "IsDataAction": false
+}

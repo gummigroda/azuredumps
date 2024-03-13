@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or Update Namespace diagnostic settings",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace diagnostic settings",
+  "Description": "Get list of Namespace diagnostic settings Resource Descriptions",
+  "IsDataAction": false
+}

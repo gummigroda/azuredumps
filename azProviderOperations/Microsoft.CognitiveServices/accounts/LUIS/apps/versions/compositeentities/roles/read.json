@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/compositeentities/roles/read",
+  "OperationName": "Get composite entity role or Get composite entity roles",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Composite entity roles",
+  "Description": "Gets the role for a composite entity model.\r\nGets the roles for a composite entity model.",
+  "IsDataAction": true
+}

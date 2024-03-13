@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/register/action",
+  "OperationName": "Register for Microsoft App Configuration",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "",
+  "Description": "Registers a subscription to use Microsoft App Configuration.",
+  "IsDataAction": false
+}

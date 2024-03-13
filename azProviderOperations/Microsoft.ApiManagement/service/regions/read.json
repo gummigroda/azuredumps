@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/regions/read",
+  "OperationName": "List of all azure regions in which the service exists.",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service Regions",
+  "Description": "Lists all azure regions in which the service exists.",
+  "IsDataAction": false
+}

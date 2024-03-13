@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/delete",
+  "OperationName": "Delete a VM image template instance resource",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template",
+  "Description": "Delete a VM image template instance resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Extension/Write",
+  "OperationName": "Creates or updates the Extension",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Extension",
+  "Description": "Set Extension",
+  "IsDataAction": false
+}

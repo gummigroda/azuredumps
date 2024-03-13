@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/metrics/categories/requestCounts/read",
+  "OperationName": "List API Request Count At Different Timestamps Of A Specific Category Given A Time Range.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "request counts for categories",
+  "Description": "List API request count at different timestamps of a specific category given a time range.",
+  "IsDataAction": true
+}

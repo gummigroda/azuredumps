@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/query/action",
+  "OperationName": "Query Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Query monitoring network traffic on a specified endpoint",
+  "IsDataAction": false
+}

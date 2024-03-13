@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/write",
+  "OperationName": "Create Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Creates or update the deployment.",
+  "IsDataAction": false
+}

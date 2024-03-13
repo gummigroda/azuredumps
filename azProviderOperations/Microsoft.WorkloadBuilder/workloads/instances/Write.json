@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/instances/Write",
+  "OperationName": "Creates or updates the instances",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "instances",
+  "Description": "Set instances",
+  "IsDataAction": false
+}

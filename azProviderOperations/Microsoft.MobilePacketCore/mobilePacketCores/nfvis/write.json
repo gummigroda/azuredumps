@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/write",
+  "OperationName": "Nfvis_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis",
+  "Description": "Creates or updates a Mobile Packet Core Network Function Virtualization Infrastructure resource",
+  "IsDataAction": false
+}

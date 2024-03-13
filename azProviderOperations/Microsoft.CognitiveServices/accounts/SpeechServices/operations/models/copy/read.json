@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/operations/models/copy/read",
+  "OperationName": "Get Model Copy",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "copy*",
+  "Description": "Gets the operation identified by the given ID.",
+  "IsDataAction": true
+}

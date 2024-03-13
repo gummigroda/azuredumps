@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/comments/read",
+  "OperationName": "Get comments or Get comment details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Comments",
+  "Description": "Lists all comments for the Issue associated with the specified API. or Gets the details of the issue Comment for an API specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkProfiles/removeContainers/action",
+  "OperationName": "Removes Containers",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Profile",
+  "Description": "Removes Containers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Events/Read",
+  "OperationName": "Application Insights Events read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Events",
+  "Description": "Get logs from Application Insights using OData query format",
+  "IsDataAction": false
+}

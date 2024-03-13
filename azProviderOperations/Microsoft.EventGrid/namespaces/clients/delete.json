@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/clients/delete",
+  "OperationName": "Delete Client",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "clients",
+  "Description": "Delete a client",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/sqlAssessments/downloadurl/action",
+  "OperationName": "Download an SQL assessment URL",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Assessments",
+  "Description": "Downloads an SQL assessment report's URL",
+  "IsDataAction": false
+}

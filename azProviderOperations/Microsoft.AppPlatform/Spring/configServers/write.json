@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/configServers/write",
+  "OperationName": "Update the Config Server settings of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The config server of Microsoft Azure Spring Apps",
+  "Description": "Create or update the config server for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

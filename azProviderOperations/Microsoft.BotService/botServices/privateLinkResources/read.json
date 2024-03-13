@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateLinkResources/read",
+  "OperationName": "Read a Private Links Resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Private Links Resource",
+  "Description": "Read a Private Links Resource",
+  "IsDataAction": false
+}

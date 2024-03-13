@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/deployments/write",
+  "OperationName": "Creates/Updates deployments resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "deployments",
+  "Description": "Writes deployments",
+  "IsDataAction": true
+}

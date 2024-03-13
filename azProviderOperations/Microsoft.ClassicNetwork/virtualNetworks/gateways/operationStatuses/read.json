@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/operationStatuses/read",
+  "OperationName": "Get the Virtual Networks Gateways Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Networks Gateways Operation Status",
+  "Description": "Reads the operation status for the virtual networks gateways.",
+  "IsDataAction": false
+}

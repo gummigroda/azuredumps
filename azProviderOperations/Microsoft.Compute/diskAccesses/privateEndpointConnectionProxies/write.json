@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnectionProxies/write",
+  "OperationName": "Create PrivateEndpointConnectionProxy",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnection proxies",
+  "Description": "Create a new Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/roles/delete",
+  "OperationName": "models - Delete closed list entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlist entity roles",
+  "Description": "Deletes the role for a closed list entity model.",
+  "IsDataAction": true
+}

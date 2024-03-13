@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/configurations/write",
+  "OperationName": "Create/Update Configuration",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Configurations",
+  "Description": "Creates/updates configuration",
+  "IsDataAction": false
+}

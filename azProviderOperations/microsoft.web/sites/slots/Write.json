@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/Write",
+  "OperationName": "Create or Update Web App Slot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Create a new Web App Slot or update an existing one",
+  "IsDataAction": false
+}

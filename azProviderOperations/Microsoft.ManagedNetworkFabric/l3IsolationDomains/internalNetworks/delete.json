@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/internalNetworks/delete",
+  "OperationName": "InternalNetworks_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/internalNetworks",
+  "Description": "Implements InternalNetworks DELETE method.",
+  "IsDataAction": false
+}

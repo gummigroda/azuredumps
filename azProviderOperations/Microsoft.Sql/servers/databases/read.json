@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/read",
+  "OperationName": "List/Get Azure SQL Database(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Return the list of databases or gets the properties for the specified database.",
+  "IsDataAction": false
+}

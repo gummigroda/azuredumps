@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/assessments/assessedApplications/machines/Read",
+  "OperationName": "List machines where an assessedApplication is installed for an assessment",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/assessments/assessedMachines",
+  "Description": "List machines where an assessedApplication is installed for an assessment",
+  "IsDataAction": false
+}

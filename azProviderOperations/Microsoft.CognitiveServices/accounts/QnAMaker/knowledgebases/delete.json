@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/delete",
+  "OperationName": "Knowledgebase - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Deletes the knowledgebase and all its data.",
+  "IsDataAction": true
+}

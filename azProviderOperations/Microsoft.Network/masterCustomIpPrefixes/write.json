@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/masterCustomIpPrefixes/write",
+  "OperationName": "Creates or Updates a Master Custom Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Master Custom Ip Prefix",
+  "Description": "Creates A Master Custom Ip Prefix Or Updates An Existing Master Custom Ip Prefix",
+  "IsDataAction": false
+}

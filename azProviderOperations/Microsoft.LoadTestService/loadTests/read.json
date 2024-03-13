@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadTests/read",
+  "OperationName": "Get/List loadtest resources",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadtests",
+  "Description": "Get a LoadTest resource, or Lists loadtest resources in a subscription or resource group.",
+  "IsDataAction": false
+}

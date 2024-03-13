@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/natRules/write",
+  "OperationName": "Put NAT Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "NAT Rule",
+  "Description": "Puts a NAT rule resource",
+  "IsDataAction": false
+}

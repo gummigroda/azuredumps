@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/galleries/write",
+  "OperationName": "Galleries_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/galleries",
+  "Description": "Creates or updates a gallery.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/subscriptions/acceptOwnershipStatus/read",
+  "OperationName": "Get the status of accepting ownership of Subscription",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "AcceptOwnershipStatus",
+  "Description": "Get the status of accepting ownership of Subscription",
+  "IsDataAction": false
+}

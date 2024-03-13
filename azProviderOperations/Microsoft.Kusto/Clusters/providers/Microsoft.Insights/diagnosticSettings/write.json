@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

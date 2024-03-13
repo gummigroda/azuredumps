@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/read",
+  "OperationName": "List Projects|Get Project Details*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "List Projects.\r\nGet Project Details.*",
+  "IsDataAction": true
+}

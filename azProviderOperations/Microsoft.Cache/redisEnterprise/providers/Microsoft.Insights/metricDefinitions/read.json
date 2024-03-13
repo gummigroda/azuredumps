@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Redis Enterprise Metric Definitions",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "The available metrics for a Redis Enterprise Cache",
+  "Description": "Gets the available metrics for a Redis Enterprise Cache",
+  "IsDataAction": false
+}

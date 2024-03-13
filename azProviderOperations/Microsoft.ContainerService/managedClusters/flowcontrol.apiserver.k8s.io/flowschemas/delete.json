@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/flowcontrol.apiserver.k8s.io/flowschemas/delete",
+  "OperationName": "Deletes/DeletesCollection flowschemas resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Flowschemas",
+  "Description": "Deletes flowschemas",
+  "IsDataAction": true
+}

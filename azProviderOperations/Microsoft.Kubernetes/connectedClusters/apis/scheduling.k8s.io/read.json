@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/scheduling.k8s.io/read",
+  "OperationName": "Gets/List scheduling.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "scheduling.k8s.io",
+  "Description": "Reads scheduling.k8s.io",
+  "IsDataAction": true
+}

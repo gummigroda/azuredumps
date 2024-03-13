@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/virtualNetworkRules/write",
+  "OperationName": "Create/Update Azure SQL Server Virtual Network Rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Virtual Network Rules",
+  "Description": "Creates a virtual network rule with the specified parameters or update the properties or tags for the specified virtual network rule.",
+  "IsDataAction": false
+}

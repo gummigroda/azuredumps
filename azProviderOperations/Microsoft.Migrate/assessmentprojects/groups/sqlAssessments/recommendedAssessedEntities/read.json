@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/sqlAssessments/recommendedAssessedEntities/read",
+  "OperationName": "Get Recommended Assessed Entity",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Recommended Assessed Entities",
+  "Description": "Get the properties of recommended assessed entity",
+  "IsDataAction": false
+}

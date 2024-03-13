@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/resources/read",
+  "OperationName": "Lists deployment resources",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "resources*",
+  "Description": "Lists the deployments resources assigned to the project.",
+  "IsDataAction": true
+}

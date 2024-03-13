@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/Workspaces/resyncstoragekeys/action",
+  "OperationName": "Resync Storage Keys",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Workspace",
+  "Description": "Resync keys of storage account configured for a Machine Learning Workspace",
+  "IsDataAction": false
+}

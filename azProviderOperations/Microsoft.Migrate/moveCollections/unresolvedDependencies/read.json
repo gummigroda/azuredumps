@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/unresolvedDependencies/read",
+  "OperationName": "Gets a list of unresolved dependencies in the move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Gets a list of unresolved dependencies in the move collection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/properties/listSecrets/action",
+  "OperationName": "Get property secrets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of properties. Properties are used to manage constant string values across all API configurations or policies.",
+  "Description": "Gets the secrets of the property specified by its identifier.",
+  "IsDataAction": false
+}

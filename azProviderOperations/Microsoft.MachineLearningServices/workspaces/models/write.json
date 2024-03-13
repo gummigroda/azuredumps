@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/models/write",
+  "OperationName": "Creates or updates models in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Models",
+  "Description": "Creates or updates models in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

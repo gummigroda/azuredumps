@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/addresses/delete",
+  "OperationName": "Delete Addresses",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "Addresses",
+  "Description": "Delete the Addresses",
+  "IsDataAction": false
+}

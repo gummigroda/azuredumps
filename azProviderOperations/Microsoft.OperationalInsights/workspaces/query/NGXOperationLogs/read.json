@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NGXOperationLogs/read",
+  "OperationName": "Read NGXOperationLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NGXOperationLogs",
+  "Description": "Read data from the NGXOperationLogs table",
+  "IsDataAction": false
+}

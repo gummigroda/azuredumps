@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/planogramcompliance:match/action",
+  "OperationName": "PlanogramCompliance_Match",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Run the planogram matching operation against a planogram and a product understanding result.",
+  "IsDataAction": true
+}

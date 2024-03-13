@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Locations/CheckNameAvailability/action",
+  "OperationName": "Check name availability action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Check name availability resource type",
+  "Description": "Checks resource name availability.",
+  "IsDataAction": false
+}

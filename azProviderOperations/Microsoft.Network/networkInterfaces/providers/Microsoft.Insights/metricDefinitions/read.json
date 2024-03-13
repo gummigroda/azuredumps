@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Network Interface metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface metric definition",
+  "Description": "Gets available metrics for the Network Interface",
+  "IsDataAction": false
+}

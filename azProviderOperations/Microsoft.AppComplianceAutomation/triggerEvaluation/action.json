@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/triggerEvaluation/action",
+  "OperationName": "TriggerEvaluation",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Trigger evaluation for given resourceIds to get quick compliance result.",
+  "IsDataAction": false
+}

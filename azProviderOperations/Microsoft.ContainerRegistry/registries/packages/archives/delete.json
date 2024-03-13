@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/delete",
+  "OperationName": "Delete an Archive",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive",
+  "Description": "Delete an Archvie from a contianer registry",
+  "IsDataAction": false
+}

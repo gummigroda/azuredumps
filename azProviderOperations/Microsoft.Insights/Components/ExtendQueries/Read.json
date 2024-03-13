@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ExtendQueries/Read",
+  "OperationName": "Application Insights component extended query results read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights component extended query results",
+  "Description": "Reading Application Insights component extended query results",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/pipelines/sandbox/run/action",
+  "OperationName": "Create Debug Pipeline Run",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "DebugRun",
+  "Description": "Creates a debug run for the Pipeline.",
+  "IsDataAction": false
+}

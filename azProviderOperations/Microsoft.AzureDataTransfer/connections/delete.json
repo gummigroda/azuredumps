@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/delete",
+  "OperationName": "Connections_Delete",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections",
+  "Description": "Deletes the connection resource.",
+  "IsDataAction": false
+}

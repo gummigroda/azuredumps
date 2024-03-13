@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/tenants/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "tenants",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

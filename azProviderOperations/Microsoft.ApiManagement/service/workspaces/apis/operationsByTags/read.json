@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/operationsByTags/read",
+  "OperationName": "Get Operation-Tag associations list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags - Operation associations",
+  "Description": "Lists a collection of operations associated with tags.",
+  "IsDataAction": false
+}

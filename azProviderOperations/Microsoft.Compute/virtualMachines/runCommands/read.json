@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/runCommands/read",
+  "OperationName": "Get Virtual Machine run command",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine RunCommands",
+  "Description": "Get the properties of a virtual machine run command",
+  "IsDataAction": false
+}

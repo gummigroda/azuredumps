@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apis/storage.k8s.io/v1beta1/read",
+  "OperationName": "Gets/List storage.k8s.io/v1beta1 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Storage.K8s.Io/V1beta1",
+  "Description": "Reads storage.k8s.io/v1beta1",
+  "IsDataAction": true
+}

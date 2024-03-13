@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/PrivateEndpointConnectionProxies",
+  "Description": "Read Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

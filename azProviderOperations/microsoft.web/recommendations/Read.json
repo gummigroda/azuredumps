@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/recommendations/Read",
+  "OperationName": "Get recommendations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Recommendation",
+  "Description": "Get the list of recommendations for subscriptions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/attachNetworkPort/action",
+  "OperationName": "VirtualMachines_NetworkPortAttach",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Attaches a networkPort to the virtual machine.",
+  "IsDataAction": false
+}

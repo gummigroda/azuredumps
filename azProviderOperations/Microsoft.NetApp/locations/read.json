@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/locations/read",
+  "OperationName": "Read location wide operation",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "NetApp resources",
+  "Description": "Reads a location wide operation.",
+  "IsDataAction": false
+}

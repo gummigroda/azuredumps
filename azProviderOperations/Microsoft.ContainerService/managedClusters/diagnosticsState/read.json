@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/diagnosticsState/read",
+  "OperationName": "Get Diagnostics State",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Diagnostics State",
+  "Description": "Gets the diagnostics state of the cluster",
+  "IsDataAction": false
+}

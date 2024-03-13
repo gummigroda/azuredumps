@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoorWebApplicationFirewallPolicies/read",
+  "OperationName": "Gets a Web Application Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Web Application Firewall Policy",
+  "Description": "Gets a Web Application Firewall Policy",
+  "IsDataAction": false
+}

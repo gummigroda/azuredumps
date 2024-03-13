@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/rollouts/cancel/action",
+  "OperationName": "Rollouts_Cancel",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications/rollouts",
+  "Description": "action cancel",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateLinkResources/read",
+  "OperationName": "List Private Link",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Link",
+  "Description": "Lists all the private link resources under the specified configuration store.",
+  "IsDataAction": false
+}

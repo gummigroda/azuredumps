@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/errorDetailedSummary/action",
+  "OperationName": "Retrieves Sql Error detailed summary",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Site",
+  "Description": "Retrieves Sql Error detailed summary for a resource under a given Sql Site",
+  "IsDataAction": false
+}

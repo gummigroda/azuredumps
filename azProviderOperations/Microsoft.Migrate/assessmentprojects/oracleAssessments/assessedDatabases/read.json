@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oracleAssessments/assessedDatabases/read",
+  "OperationName": "Get assessedDatabases",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "assessedDatabases",
+  "Description": "Gets the properties of the assessedDatabases ",
+  "IsDataAction": false
+}

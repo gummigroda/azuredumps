@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/configService/delete",
+  "OperationName": "Delete config server content from Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The content of config server from Microsoft Azure Spring Apps",
+  "Description": "Delete config server content for a specific Azure Spring Apps service instance",
+  "IsDataAction": true
+}

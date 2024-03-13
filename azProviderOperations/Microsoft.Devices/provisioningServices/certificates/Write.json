@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/certificates/Write",
+  "OperationName": "Create or Update Certificate",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Create or Update Certificate",
+  "IsDataAction": false
+}

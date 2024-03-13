@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/clusters/Write",
+  "OperationName": "Write Stream Analytics Cluster",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Cluster",
+  "Description": "Write Stream Analytics Cluster",
+  "IsDataAction": false
+}

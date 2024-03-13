@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/delete",
+  "OperationName": "Delete the specified voice endpoint.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Delete the specified voice endpoint.",
+  "IsDataAction": true
+}

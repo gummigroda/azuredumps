@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/VideoFiles/delete",
+  "OperationName": "Delete video files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video files operations.",
+  "Description": "Delete video files.",
+  "IsDataAction": true
+}

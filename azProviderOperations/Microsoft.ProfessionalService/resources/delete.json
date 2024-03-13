@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProfessionalService/resources/delete",
+  "OperationName": "Delete a Professional Service Resource",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "Professional Service Resources",
+  "Description": "Delete a Professional Service Resource",
+  "IsDataAction": false
+}

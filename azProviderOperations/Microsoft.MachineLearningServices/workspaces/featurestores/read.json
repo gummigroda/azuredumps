@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/featurestores/read",
+  "OperationName": "Gets the Machine Learning Services FeatureStore(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service FeatureStore",
+  "Description": "Gets the Machine Learning Services FeatureStore(s)",
+  "IsDataAction": false
+}

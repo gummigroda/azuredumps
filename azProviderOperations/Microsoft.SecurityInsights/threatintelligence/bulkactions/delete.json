@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/bulkactions/delete",
+  "OperationName": "Delete a TI Bulk Action",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIBulkActions",
+  "Description": "Deletes a TI Bulk Action",
+  "IsDataAction": false
+}

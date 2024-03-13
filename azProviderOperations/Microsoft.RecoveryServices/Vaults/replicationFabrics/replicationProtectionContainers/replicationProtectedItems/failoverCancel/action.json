@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/failoverCancel/action",
+  "OperationName": "Failover Cancel",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Failover Cancel",
+  "IsDataAction": false
+}

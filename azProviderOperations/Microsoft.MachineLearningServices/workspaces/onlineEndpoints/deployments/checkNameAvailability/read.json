@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/checkNameAvailability/read",
+  "OperationName": "Checks name for deployment in online inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoint Deployments",
+  "Description": "Checks name for deployment in online inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

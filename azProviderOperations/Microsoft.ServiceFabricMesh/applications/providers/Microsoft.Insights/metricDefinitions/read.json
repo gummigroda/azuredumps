@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabricMesh/applications/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Microsoft Service Fabric Mesh metric definitions",
+  "ProviderNamespace": "Microsoft ServiceFabricMesh",
+  "ResourceName": "Applications",
+  "Description": "Gets the available metrics for Microsoft Service Fabric Mesh",
+  "IsDataAction": false
+}

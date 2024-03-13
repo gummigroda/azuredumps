@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/write",
+  "OperationName": "Create or Update Asset",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset",
+  "Description": "Create or Update any Asset",
+  "IsDataAction": false
+}

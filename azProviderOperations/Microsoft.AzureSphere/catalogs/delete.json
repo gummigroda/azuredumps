@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/delete",
+  "OperationName": "Catalogs_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Delete a Catalog",
+  "IsDataAction": false
+}

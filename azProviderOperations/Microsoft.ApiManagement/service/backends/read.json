@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/backends/read",
+  "OperationName": "Get backends list or Get backend details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Backends",
+  "Description": "Lists a collection of backends in the specified service instance. or Gets the details of the backend specified by its identifier.",
+  "IsDataAction": false
+}

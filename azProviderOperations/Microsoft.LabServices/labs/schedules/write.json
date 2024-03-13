@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/schedules/write",
+  "OperationName": "Create or Update Schedule",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/schedules",
+  "Description": "Create new or update an existing schedule.",
+  "IsDataAction": false
+}

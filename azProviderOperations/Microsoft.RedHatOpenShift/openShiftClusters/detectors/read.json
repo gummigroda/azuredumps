@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/detectors/read",
+  "OperationName": "Get OpenShift Cluster Detector",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "openShiftClusters",
+  "Description": null,
+  "IsDataAction": false
+}

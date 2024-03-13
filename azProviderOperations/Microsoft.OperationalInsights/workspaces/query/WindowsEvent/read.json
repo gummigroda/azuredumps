@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WindowsEvent/read",
+  "OperationName": "Read WindowsEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WindowsEvent",
+  "Description": "Read data from the WindowsEvent table",
+  "IsDataAction": false
+}

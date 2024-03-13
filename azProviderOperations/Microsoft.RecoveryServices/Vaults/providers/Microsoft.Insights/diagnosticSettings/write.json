@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Azure Backup Diagnostics",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Azure Backup Diagnostics",
+  "IsDataAction": false
+}

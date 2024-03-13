@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/authentication.k8s.io/userextras/impersonate/action",
+  "OperationName": "Impersonate userextras resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Userextras",
+  "Description": "Impersonate userextras",
+  "IsDataAction": true
+}

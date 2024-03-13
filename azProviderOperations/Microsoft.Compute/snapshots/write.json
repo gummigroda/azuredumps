@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/snapshots/write",
+  "OperationName": "Create or Update Snapshot",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Snapshots",
+  "Description": "Create a new Snapshot or update an existing one",
+  "IsDataAction": false
+}

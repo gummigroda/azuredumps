@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/listClusterUserCredential/action",
+  "OperationName": "ProvisionedClusters_ListClusterUserCredentials",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters",
+  "Description": "Lists the AAD user credentials of a provisioned cluster used only in direct mode.",
+  "IsDataAction": false
+}

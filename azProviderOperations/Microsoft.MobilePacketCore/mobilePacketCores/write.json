@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/write",
+  "OperationName": "MobilePacketCores_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores",
+  "Description": "Updates Mobile Packet Core tags.",
+  "IsDataAction": false
+}

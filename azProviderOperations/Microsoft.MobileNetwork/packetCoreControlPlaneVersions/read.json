@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlaneVersions/read",
+  "OperationName": "PacketCoreControlPlaneVersions_ListBySubscription",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlaneVersions",
+  "Description": "Lists all supported packet core control planes versions.",
+  "IsDataAction": false
+}

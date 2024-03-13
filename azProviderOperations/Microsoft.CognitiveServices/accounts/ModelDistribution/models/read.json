@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ModelDistribution/models/read",
+  "OperationName": "Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models",
+  "Description": "Get model manifest for given conditions",
+  "IsDataAction": true
+}

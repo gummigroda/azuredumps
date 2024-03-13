@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/schemas/document/write",
+  "OperationName": "Update the document for the schema",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Document describing the API schema",
+  "Description": "Update the document describing the Schema",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/linkers/validateLinker/action",
+  "OperationName": "Linker_Validate",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "linkers",
+  "Description": "Validate a link.",
+  "IsDataAction": false
+}

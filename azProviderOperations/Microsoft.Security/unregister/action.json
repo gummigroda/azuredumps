@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription from Azure Security Center",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/keypairs/delete",
+  "OperationName": "Keypairs_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "keypairs",
+  "Description": "Implements Keypair DELETE method.",
+  "IsDataAction": false
+}

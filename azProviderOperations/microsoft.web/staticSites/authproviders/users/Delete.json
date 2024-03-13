@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/authproviders/users/Delete",
+  "OperationName": "Delete Static Site User",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site User",
+  "Description": "Delete a user for a Static Site",
+  "IsDataAction": false
+}

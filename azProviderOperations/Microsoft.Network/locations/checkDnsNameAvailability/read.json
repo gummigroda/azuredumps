@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/checkDnsNameAvailability/read",
+  "OperationName": "Check Dns Name Availability",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Dns Availability Check Result",
+  "Description": "Checks if dns label is available at the specified location",
+  "IsDataAction": false
+}

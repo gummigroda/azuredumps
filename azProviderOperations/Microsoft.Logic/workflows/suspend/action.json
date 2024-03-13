@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/suspend/action",
+  "OperationName": "Suspend Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Suspends the workflow.",
+  "IsDataAction": false
+}

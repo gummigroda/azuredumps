@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/locations/operationStatuses/read",
+  "OperationName": "Read Locations/operation Status",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Locations/operation Statuses",
+  "Description": "Read any Locations/operation Status",
+  "IsDataAction": false
+}

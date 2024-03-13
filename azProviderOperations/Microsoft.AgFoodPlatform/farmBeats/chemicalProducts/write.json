@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/chemicalProducts/write",
+  "OperationName": "Create or Update AgFoodPlatform Chemical Products.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Chemical Products",
+  "Description": "Creates or Updates AgFoodPlatform Chemical Products.",
+  "IsDataAction": true
+}

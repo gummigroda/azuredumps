@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/exportPipelines/write",
+  "OperationName": "Create or Update export pipeline",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ExportPipelines",
+  "Description": "Creates or updates an export pipeline for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Private Endpoint Connection Proxies",
+  "Description": "Validate Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

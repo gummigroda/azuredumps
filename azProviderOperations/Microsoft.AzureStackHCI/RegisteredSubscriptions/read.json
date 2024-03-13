@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/RegisteredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

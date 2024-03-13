@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/startreplicationplanner/action",
+  "OperationName": "Initiates replication planner for the set of resources included in the request body",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessment Projects",
+  "Description": "Initiates replication planner for the set of resources included in the request body",
+  "IsDataAction": false
+}

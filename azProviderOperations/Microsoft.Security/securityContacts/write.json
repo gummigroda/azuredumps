@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityContacts/write",
+  "OperationName": "Update security contact",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Contact",
+  "Description": "Updates the security contact",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/customImages/delete",
+  "OperationName": "Delete custom images.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "custom images",
+  "Description": "Delete custom images.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationruntimes/write",
+  "OperationName": "Create or Update Integration Runtimes.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Create or Update any Integration Runtimes.",
+  "IsDataAction": false
+}

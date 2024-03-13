@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/compositeentities/roles/delete",
+  "OperationName": "Delete composite entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Composite entity roles",
+  "Description": "Deletes the role for a composite entity model.",
+  "IsDataAction": true
+}

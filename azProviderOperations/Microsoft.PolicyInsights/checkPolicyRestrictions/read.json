@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/checkPolicyRestrictions/read",
+  "OperationName": "Check Policy Restrictions",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Check Policy Restrictions",
+  "Description": "Get details about the restrictions that policy will enforce on a resource.",
+  "IsDataAction": false
+}

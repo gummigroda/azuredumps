@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/datastores/AllocateSpace/action",
+  "OperationName": "Allocates on  datastores resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "datastores",
+  "Description": "Allocates on datastores",
+  "IsDataAction": false
+}

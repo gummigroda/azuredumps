@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/securityAlertPolicies/read",
+  "OperationName": "List server threat detection policies",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Server Threat Detection Policy",
+  "Description": "Retrieve a list of server threat detection policies configured for a given server",
+  "IsDataAction": false
+}

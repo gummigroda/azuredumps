@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/dataLakeConnector/topicMap/read",
+  "OperationName": "DataLakeConnectorTopicMap_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/dataLakeConnector/topicMap",
+  "Description": "Get a DataLakeTopicMapResource",
+  "IsDataAction": false
+}

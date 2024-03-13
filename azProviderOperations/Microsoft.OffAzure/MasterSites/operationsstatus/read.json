@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/operationsstatus/read",
+  "OperationName": "Get Master site  operation status",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "OperationsStatus",
+  "Description": "Gets the properties of a Master site operation status",
+  "IsDataAction": false
+}

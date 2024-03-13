@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudExadataInfrastructures/dbServers/read",
+  "OperationName": "DbServers_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudExadataInfrastructures/dbServers",
+  "Description": "Get a DbServer",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/metrics/rejectCounts/read",
+  "OperationName": "List API Reject Counts At Different Timestamps Given A Time Range.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "reject counts*",
+  "Description": "List API reject counts at different timestamps given a time range. Default maxpagesize is 1000.",
+  "IsDataAction": true
+}

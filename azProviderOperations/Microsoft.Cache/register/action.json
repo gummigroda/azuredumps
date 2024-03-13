@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/register/action",
+  "OperationName": "Register Resource Provider Microsoft.Cache",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "",
+  "Description": "Registers the 'Microsoft.Cache' resource provider with a subscription",
+  "IsDataAction": false
+}

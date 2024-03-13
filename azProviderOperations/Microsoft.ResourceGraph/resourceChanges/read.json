@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceGraph/resourceChanges/read",
+  "OperationName": "Query resource changes",
+  "ProviderNamespace": "Microsoft Resource Graph",
+  "ResourceName": "Resource Changes",
+  "Description": "Lists changes to a resource for a given time interval",
+  "IsDataAction": false
+}

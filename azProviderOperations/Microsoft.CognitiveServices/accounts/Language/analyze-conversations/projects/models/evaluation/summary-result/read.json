@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/models/evaluation/summary-result/read",
+  "OperationName": "Models_GetTrainedModelEvaluationSummaryResult",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "summary-result*",
+  "Description": "Get trained model evaluation summary.",
+  "IsDataAction": true
+}

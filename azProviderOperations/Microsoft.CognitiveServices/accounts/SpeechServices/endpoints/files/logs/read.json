@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/endpoints/files/logs/read",
+  "OperationName": "Get Custom Model Endpoint Log|Get Endpoint Logs*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "logs*",
+  "Description": "Gets a specific audio or transcription log for a given endpoint.\r\nGets the list of audio and transcription logs that have been stored for a given endpoint.*",
+  "IsDataAction": true
+}

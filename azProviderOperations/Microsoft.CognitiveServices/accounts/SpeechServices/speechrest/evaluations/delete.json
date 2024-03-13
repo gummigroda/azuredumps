@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/evaluations/delete",
+  "OperationName": "Delete an evaluation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Evaluations",
+  "Description": "Delete an evaluation",
+  "IsDataAction": true
+}

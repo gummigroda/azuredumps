@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securitySolutions/read",
+  "OperationName": "Get Security Solutions",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Solutions",
+  "Description": "Gets the security solutions",
+  "IsDataAction": false
+}

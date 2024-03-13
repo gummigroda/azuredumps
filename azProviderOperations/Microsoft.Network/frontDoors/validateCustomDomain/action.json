@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/validateCustomDomain/action",
+  "OperationName": "Validates a frontend endpoint for a Front Door",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Validates a frontend endpoint for a Front Door",
+  "IsDataAction": false
+}

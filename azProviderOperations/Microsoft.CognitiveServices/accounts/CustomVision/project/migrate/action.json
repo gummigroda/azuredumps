@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/project/migrate/action",
+  "OperationName": "MigrateToAzure",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "project*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

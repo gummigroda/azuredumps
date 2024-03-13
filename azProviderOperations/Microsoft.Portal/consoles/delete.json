@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/consoles/delete",
+  "OperationName": "Delete Cloud Shell",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Consoles",
+  "Description": "Removes the Cloud Shell instance.",
+  "IsDataAction": false
+}

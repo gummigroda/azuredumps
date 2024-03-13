@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/read",
+  "OperationName": "NetworkDevices_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "List all the Network Device resources in a given subscription.",
+  "IsDataAction": false
+}

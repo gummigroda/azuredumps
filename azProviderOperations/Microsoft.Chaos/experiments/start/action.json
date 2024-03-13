@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/experiments/start/action",
+  "OperationName": "Starts a Chaos Experiment.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Chaos Experiment",
+  "Description": "Starts a Chaos Experiment to inject faults.",
+  "IsDataAction": false
+}

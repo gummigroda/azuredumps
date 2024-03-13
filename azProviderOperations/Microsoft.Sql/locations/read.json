@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/read",
+  "OperationName": "Gets the available locations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL DB Network Security Perimeter Updates",
+  "Description": "Gets the available locations for a given subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/solutions/read",
+  "OperationName": "Read or create an solution",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "Solutions",
+  "Description": "Reads or creates an solution result",
+  "IsDataAction": false
+}

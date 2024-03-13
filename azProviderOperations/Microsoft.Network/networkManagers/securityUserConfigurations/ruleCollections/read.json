@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/read",
+  "OperationName": "Get Security User Rule Collection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Rule Collection",
+  "Description": "Get Security User Rule Collection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/locations/giVersions/read",
+  "OperationName": "GiVersions_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "locations/giVersions",
+  "Description": "Get a GiVersion",
+  "IsDataAction": false
+}

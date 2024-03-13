@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalRevisions/read",
+  "OperationName": "Get developer portal revision list or Get developer portal revision details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "PortalRevisions",
+  "Description": "Lists a collection of developer portal revision entities. or Gets developer portal revision specified by its identifier.",
+  "IsDataAction": false
+}

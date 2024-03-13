@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalBillingAccounts/externalSubscriptions/read",
+  "OperationName": "List externalBillingAccount externalSubscriptions",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "externalBillingAccounts/externalSubscriptions",
+  "Description": "List the externalSubscriptions within an externalBillingAccount for the authenticated user.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/unregister/action",
+  "OperationName": "Unregisters EventGrid Resource Provider",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the EventGrid resource provider.",
+  "IsDataAction": false
+}

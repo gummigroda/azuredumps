@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesPrivilegeUse/read",
+  "OperationName": "Read AADDomainServicesPrivilegeUse data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesPrivilegeUse",
+  "Description": "Read data from the AADDomainServicesPrivilegeUse table",
+  "IsDataAction": false
+}

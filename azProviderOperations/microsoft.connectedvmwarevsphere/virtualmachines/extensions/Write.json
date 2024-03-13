@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions/Write",
+  "OperationName": "Write extensions resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/extensions",
+  "Description": "Write extension resource",
+  "IsDataAction": false
+}

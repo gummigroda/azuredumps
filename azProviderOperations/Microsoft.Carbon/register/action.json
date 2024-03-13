@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Carbon/register/action",
+  "OperationName": "Register the Microsoft.Carbon",
+  "ProviderNamespace": "Microsoft.Carbon",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Carbon",
+  "IsDataAction": false
+}

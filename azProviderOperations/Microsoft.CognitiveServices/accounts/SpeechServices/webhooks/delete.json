@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/webhooks/delete",
+  "OperationName": "Delete Web Hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "webhooks*",
+  "Description": "Deletes the web hook identified by the given ID.",
+  "IsDataAction": true
+}

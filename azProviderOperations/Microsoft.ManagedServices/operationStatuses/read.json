@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/operationStatuses/read",
+  "OperationName": "Get the Operation Status",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Operation Status",
+  "Description": "Reads the operation status for the resource.",
+  "IsDataAction": false
+}

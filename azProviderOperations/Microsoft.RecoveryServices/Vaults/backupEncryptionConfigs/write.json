@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs/write",
+  "OperationName": "Put Backup Resource Encryption Config",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Encryption Config",
+  "Description": "Updates Backup Resource Encryption Configuration",
+  "IsDataAction": false
+}

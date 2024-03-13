@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/draftPackages/copyFromPackage/action",
+  "OperationName": "DraftPackages_CopyFromPackage",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/draftPackages",
+  "Description": "Copy package file and metadata from a package to this draft package",
+  "IsDataAction": false
+}

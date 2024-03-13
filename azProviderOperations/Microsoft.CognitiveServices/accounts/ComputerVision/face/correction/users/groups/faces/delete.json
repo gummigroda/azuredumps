@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/correction/users/groups/faces/delete",
+  "OperationName": "Face User Correction - Remove Faces from Group (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "faces*",
+  "Description": "Face User Correction - Remove Faces from Group",
+  "IsDataAction": true
+}

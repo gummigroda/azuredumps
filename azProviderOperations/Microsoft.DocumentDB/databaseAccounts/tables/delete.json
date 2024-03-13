@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/delete",
+  "OperationName": "Delete table",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table",
+  "Description": "Delete a table.",
+  "IsDataAction": false
+}

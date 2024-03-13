@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/b2ctenants/read",
+  "OperationName": "List all B2C tenants of the user",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "B2C Tenants",
+  "Description": "Lists all B2C tenants where the user is a member",
+  "IsDataAction": false
+}

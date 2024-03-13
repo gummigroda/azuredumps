@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/quarantine/read",
+  "OperationName": "Pull quarantined images",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Pull or Get quarantined images from container registry",
+  "IsDataAction": false
+}

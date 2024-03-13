@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/environments/ResetPassword/action",
+  "OperationName": "Reset password",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environments",
+  "Description": "Resets the user password on an environment",
+  "IsDataAction": false
+}

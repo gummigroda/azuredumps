@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/listAllowedUpgradePlans/action",
+  "OperationName": "Applications_ListAllowedUpgradePlans",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "List allowed upgrade plans for application.",
+  "IsDataAction": false
+}

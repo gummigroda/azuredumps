@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Azure Database for MySQL private endpoint connection",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL private endpoint connection",
+  "Description": "Approves or rejects an existing private endpoint connection",
+  "IsDataAction": false
+}

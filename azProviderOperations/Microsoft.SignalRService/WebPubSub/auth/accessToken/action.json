@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/auth/accessToken/action",
+  "OperationName": "Generate an Access Token for client to connect to the Azure Web Pubsub Service",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/Auth",
+  "Description": "Generate an AccessToken for client to connect to AWPS, the token will expire in 5 minutes by default",
+  "IsDataAction": true
+}

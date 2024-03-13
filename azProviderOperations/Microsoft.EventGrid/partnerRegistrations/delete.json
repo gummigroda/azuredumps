@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerRegistrations/delete",
+  "OperationName": "Delete PartnerRegistration",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerRegistrations",
+  "Description": "Delete a partner registration",
+  "IsDataAction": false
+}

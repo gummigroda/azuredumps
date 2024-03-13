@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/status/read",
+  "OperationName": "/status - GET",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Gets operation status.",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

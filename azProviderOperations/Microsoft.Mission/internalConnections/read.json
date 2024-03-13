@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/internalConnections/read",
+  "OperationName": "InternalConnections_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "internalConnections",
+  "Description": "Get a InternalConnection",
+  "IsDataAction": false
+}

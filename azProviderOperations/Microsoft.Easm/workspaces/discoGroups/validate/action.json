@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/validate/action",
+  "OperationName": "DiscoGroups_Validate",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Validate a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

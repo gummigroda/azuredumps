@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/unregister/action",
+  "OperationName": "Unregister the Microsoft.KubernetesRuntime",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.KubernetesRuntime",
+  "IsDataAction": false
+}

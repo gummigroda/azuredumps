@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/write",
+  "OperationName": "Create or Update Notification Hub",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub",
+  "Description": "Create a Notification Hub and Update its properties. Its properties mainly include PNS Credentials. Authorization Rules and TTL",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveSecurityAdminRules/read",
+  "OperationName": "List Network Manager Effective Security Admin Rules Permission",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Permission for calling List Network Manager Effective Security Admin Rules operation. This read permission, not listNetworkManagerEffectiveSecurityAdminRules/action, is required to call List Network Manager Effective Security Admin Rules.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/internalNetworks/updateBgpState/action",
+  "OperationName": "InternalNetworks_updateBgpState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/internalNetworks",
+  "Description": "Update BGP state for internalNetwork. Allowed only on edge devices.",
+  "IsDataAction": false
+}

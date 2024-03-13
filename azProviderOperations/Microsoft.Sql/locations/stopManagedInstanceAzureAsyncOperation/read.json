@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/stopManagedInstanceAzureAsyncOperation/read",
+  "OperationName": "Get Azure SQL Managed Instance Stop Azure async operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Gets Azure SQL Managed Instance Stop Azure async operation.",
+  "IsDataAction": false
+}

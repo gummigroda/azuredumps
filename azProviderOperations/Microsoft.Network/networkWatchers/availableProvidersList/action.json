@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/availableProvidersList/action",
+  "OperationName": "Get Available Providers List",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Returns all available internet service providers for a specified Azure region.",
+  "IsDataAction": false
+}

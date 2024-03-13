@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/agreements/write",
+  "OperationName": "Accept terms",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Agreemetns",
+  "Description": "Accept the marketplace agreemetns",
+  "IsDataAction": false
+}

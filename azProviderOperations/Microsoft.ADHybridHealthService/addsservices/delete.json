@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/delete",
+  "OperationName": "Deletes a Service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Deletes a Service and it's servers along with Health data.",
+  "IsDataAction": false
+}

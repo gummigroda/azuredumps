@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/recommendations/disable/action",
+  "OperationName": "Disable Web Apps Recommendations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Recommendation",
+  "Description": "Disable Web Apps Recommendations.",
+  "IsDataAction": false
+}

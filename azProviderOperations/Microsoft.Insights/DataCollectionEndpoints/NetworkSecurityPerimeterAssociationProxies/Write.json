@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/NetworkSecurityPerimeterAssociationProxies/Write",
+  "OperationName": "Create or update data collection endpoint NSP association proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint NSP association proxy",
+  "Description": "Create or update a data collection endpoint NSP association proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollectionGroupsDrafts/read",
+  "OperationName": "Get Firewall Policy Rule Collection Group Draft",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Rule Collection Group Draft",
+  "Description": "Gets a Firewall Policy Rule Collection Group raft",
+  "IsDataAction": false
+}

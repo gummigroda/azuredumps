@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/models/:cancel/action",
+  "OperationName": "CancelModelTraining",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Cancel model training.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/connectivityConfigurations/read",
+  "OperationName": "Get Connectivity Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ConnectivityConfiguration",
+  "Description": "Get Connectivity Configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/tenantActivityLogAlerts/read",
+  "OperationName": "Reads the tenantLevelActivityLogAlerts",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "tenantActivityLogAlerts",
+  "Description": "Read tenantLevelActivityLogAlerts",
+  "IsDataAction": false
+}

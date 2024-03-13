@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/virtualNetworks/write",
+  "OperationName": "virtualNetworks_Update",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "virtualNetworks",
+  "Description": "Patches the Hybrid AKS virtual network",
+  "IsDataAction": false
+}

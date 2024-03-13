@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete Network Security Perimeter Association Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Delete a network security perimeter association proxy under the specified configuration store.",
+  "IsDataAction": false
+}

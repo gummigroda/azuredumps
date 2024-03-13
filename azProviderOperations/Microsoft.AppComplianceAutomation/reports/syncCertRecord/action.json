@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/syncCertRecord/action",
+  "OperationName": "Reports_SyncCertRecord",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Synchronize attestation record from app compliance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/internalLoadBalancers/read",
+  "OperationName": "Get Internal Load Balancers.",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Internal Load Balancer",
+  "Description": "Gets the internal load balancers.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightAmbariClusterAlerts/read",
+  "OperationName": "Read HDInsightAmbariClusterAlerts data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightAmbariClusterAlerts",
+  "Description": "Read data from the HDInsightAmbariClusterAlerts table",
+  "IsDataAction": false
+}

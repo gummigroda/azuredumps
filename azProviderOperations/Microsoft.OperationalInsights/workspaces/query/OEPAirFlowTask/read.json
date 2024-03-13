@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/OEPAirFlowTask/read",
+  "OperationName": "Read OEPAirFlowTask data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "OEPAirFlowTask",
+  "Description": "Read data from the OEPAirFlowTask table",
+  "IsDataAction": false
+}

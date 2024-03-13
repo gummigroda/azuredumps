@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/networkSecurityPerimeterAssociationProxies/Write",
+  "OperationName": "Put NSP association proxy",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/NetworkSecurityPerimeters",
+  "Description": "Put an NSP association proxy on the IotHub to associate the resource with the NSP",
+  "IsDataAction": false
+}

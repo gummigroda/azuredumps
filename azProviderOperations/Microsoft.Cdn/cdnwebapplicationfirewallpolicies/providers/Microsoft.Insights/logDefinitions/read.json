@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/cdnwebapplicationfirewallpolicies/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read cdnwebapplicationfirewallpolicies log definitions",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "The log definition of cdnwebapplicationfirewallpolicies",
+  "Description": "Gets the available logs for Microsoft.Cdn/cdnwebapplicationfirewallpolicies",
+  "IsDataAction": false
+}

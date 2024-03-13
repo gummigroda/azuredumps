@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/acssBackups/delete",
+  "OperationName": "ACSSBackupConnections_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/acssBackups",
+  "Description": "Deletes the backup connection resource of virtual instance for SAP.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/slots/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Read information about resources",
+  "IsDataAction": false
+}

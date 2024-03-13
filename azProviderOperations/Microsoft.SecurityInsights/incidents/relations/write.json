@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/relations/write",
+  "OperationName": "Update Incident Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Relations",
+  "Description": "Updates a relation between the incident and related resources",
+  "IsDataAction": false
+}

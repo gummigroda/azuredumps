@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/privateEndpointConnections/write",
+  "OperationName": "Write a private endpoint connections",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Private endpoint connection resource",
+  "Description": "Writes a private endpoint connections.",
+  "IsDataAction": false
+}

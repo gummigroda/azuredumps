@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/privateLinkResources/read",
+  "OperationName": "Get PrivateLinkResources for domains",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateLinkResources",
+  "Description": "Get or List PrivateLinkResources for domains",
+  "IsDataAction": false
+}

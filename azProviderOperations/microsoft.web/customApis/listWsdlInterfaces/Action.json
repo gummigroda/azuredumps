@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/customApis/listWsdlInterfaces/Action",
+  "OperationName": "List Custom API WSDL interfaces",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Custom Apis",
+  "Description": "Lists WSDL interfaces for a Custom API.",
+  "IsDataAction": false
+}

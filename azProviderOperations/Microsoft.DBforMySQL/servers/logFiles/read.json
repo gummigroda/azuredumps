@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/logFiles/read",
+  "OperationName": "List/Get MySQL LogFiles",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL LogFiles",
+  "Description": "Return the list of MySQL LogFiles.",
+  "IsDataAction": false
+}

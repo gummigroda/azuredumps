@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/dataSets/read",
+  "OperationName": "Read Data Share DataSet",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share DataSet",
+  "Description": "Reads a DataSet.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/read",
+  "OperationName": "Read Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Read definition of managed storage accounts.",
+  "IsDataAction": true
+}

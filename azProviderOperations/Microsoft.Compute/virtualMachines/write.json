@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/write",
+  "OperationName": "Create or Update Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Creates a new virtual machine or updates an existing virtual machine",
+  "IsDataAction": false
+}

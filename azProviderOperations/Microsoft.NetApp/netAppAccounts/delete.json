@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/delete",
+  "OperationName": "Delete account resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Accounts resource type",
+  "Description": "Deletes a account resource.",
+  "IsDataAction": false
+}

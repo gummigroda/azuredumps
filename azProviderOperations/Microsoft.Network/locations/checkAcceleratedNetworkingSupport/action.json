@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/checkAcceleratedNetworkingSupport/action",
+  "OperationName": "Check Accelerated Networking support",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Checks Accelerated Networking support",
+  "IsDataAction": false
+}

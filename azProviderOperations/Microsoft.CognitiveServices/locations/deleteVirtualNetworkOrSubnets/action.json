@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Notification from Microsoft.Network of deleting VirtualNetworks or Subnets.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Notification from Microsoft.Network of deleting VirtualNetworks or Subnets.",
+  "IsDataAction": false
+}

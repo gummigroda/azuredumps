@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definitions",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Log definitions",
+  "Description": "Gets the available logs for the catalog.",
+  "IsDataAction": false
+}

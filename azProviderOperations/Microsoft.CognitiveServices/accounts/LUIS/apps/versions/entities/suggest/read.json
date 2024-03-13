@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/suggest/read",
+  "OperationName": "Suggest endpoint queries for entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Suggest for entities",
+  "Description": "Suggests examples that would improve the accuracy of the entity model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/write",
+  "OperationName": "EmailService_CreateOrUpdate",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "EmailServices",
+  "Description": "Get the EmailService and its properties.",
+  "IsDataAction": false
+}

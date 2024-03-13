@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MCVPAuditLogs/read",
+  "OperationName": "Read MCVPAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MCVPAuditLogs",
+  "Description": "Read data from the MCVPAuditLogs table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/write",
+  "OperationName": "Update Key Vault",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "Creates a new key vault or updates the properties of an existing key vault. Certain properties may require more permissions.",
+  "IsDataAction": false
+}

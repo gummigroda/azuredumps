@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/MarketPlaceGalleryImages/Read",
+  "OperationName": "Gets/Lists market place gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "MarketPlaceGalleryImages",
+  "Description": "Gets/Lists market place gallery images resource",
+  "IsDataAction": false
+}

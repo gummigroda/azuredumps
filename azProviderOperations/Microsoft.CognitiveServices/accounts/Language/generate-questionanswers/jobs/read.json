@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/generate-questionanswers/jobs/read",
+  "OperationName": "Get Question Answer Generation Job Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "generate-questionsanswers*",
+  "Description": "Get QA generation Job Status.",
+  "IsDataAction": true
+}

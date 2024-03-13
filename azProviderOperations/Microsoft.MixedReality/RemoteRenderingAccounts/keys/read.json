@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/keys/read",
+  "OperationName": "Read keys of a remote rendering account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Read keys of a remote rendering account",
+  "IsDataAction": false
+}

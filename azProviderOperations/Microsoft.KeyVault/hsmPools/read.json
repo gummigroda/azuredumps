@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/hsmPools/read",
+  "OperationName": "View HSM pool",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "HSM pool",
+  "Description": "View the properties of an HSM pool",
+  "IsDataAction": false
+}

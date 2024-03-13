@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesAccountLogon/read",
+  "OperationName": "Read AADDomainServicesAccountLogon data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesAccountLogon",
+  "Description": "Read data from the AADDomainServicesAccountLogon table",
+  "IsDataAction": false
+}

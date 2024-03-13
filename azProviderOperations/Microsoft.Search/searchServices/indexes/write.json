@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexes/write",
+  "OperationName": "Create or Update Index",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Indexes",
+  "Description": "Create an index or modify its properties.",
+  "IsDataAction": false
+}

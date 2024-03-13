@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/clusters/upgrade/action",
+  "OperationName": "Upgrade HDInsight on AKS Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster",
+  "Description": "Upgrade HDInsight on AKS Cluster",
+  "IsDataAction": false
+}

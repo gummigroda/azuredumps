@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/configurationscopes/delete",
+  "OperationName": "Delete Configuration Scope",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Configuration Scope",
+  "Description": "Delete configuration scope in a workspace.",
+  "IsDataAction": false
+}

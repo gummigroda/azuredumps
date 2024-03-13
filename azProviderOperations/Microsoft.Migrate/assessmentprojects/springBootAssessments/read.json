@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootAssessments/read",
+  "OperationName": "Get springBoot Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Assessments",
+  "Description": "Gets the properties of the springBoot Assessment",
+  "IsDataAction": false
+}

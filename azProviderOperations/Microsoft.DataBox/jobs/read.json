@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/read",
+  "OperationName": "List Orders",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "List or get the Orders",
+  "IsDataAction": false
+}

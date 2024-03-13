@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/operations/read",
+  "OperationName": "Get available operations in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Operation",
+  "Description": "List available operations of Microsoft Azure Spring Apps",
+  "IsDataAction": false
+}

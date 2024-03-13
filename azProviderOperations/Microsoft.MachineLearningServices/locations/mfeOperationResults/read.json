@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/locations/mfeOperationResults/read",
+  "OperationName": "Gets the result of a particular MFE operation",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Gets the result of a particular MFE operation",
+  "IsDataAction": false
+}

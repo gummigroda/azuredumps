@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/read",
+  "OperationName": "Gets one or more datasets.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Gets one or more datasets.",
+  "IsDataAction": true
+}

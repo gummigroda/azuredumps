@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ActivityLogAlerts/Activated/Action",
+  "OperationName": "Activity Log Alert activated",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Activity Log Alert",
+  "Description": "Activity Log Alert activated",
+  "IsDataAction": false
+}

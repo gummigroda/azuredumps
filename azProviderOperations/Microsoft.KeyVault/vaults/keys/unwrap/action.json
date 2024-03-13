@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/unwrap/action",
+  "OperationName": "Unwrap with Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Unwraps a symmetric key with a Key Vault key.",
+  "IsDataAction": true
+}

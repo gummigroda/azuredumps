@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/metricmetadata/read",
+  "OperationName": "Gets the list of supported metrics for a given service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Gets the list of supported metrics for a given service. For example Extranet Account Lockouts, Total Failed Requests, Outstanding Token Requests (Proxy), Token Requests /sec etc for ADFS service. NTLM Authentications/sec, LDAP Successful Binds/sec, LDAP Bind Time, LDAP Active Threads, Kerberos Authentications/sec, ATQ Threads Total etc for ADDomainService. Run Profile Latency, TCP Connections Established, Insights Agent Private Bytes,Export Statistics to Azure AD for ADSync service.",
+  "IsDataAction": false
+}

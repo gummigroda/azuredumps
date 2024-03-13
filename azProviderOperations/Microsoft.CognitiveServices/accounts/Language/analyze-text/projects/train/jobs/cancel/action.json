@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/train/jobs/cancel/action",
+  "OperationName": "Training_CancelJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Cancels a running training job.",
+  "IsDataAction": true
+}

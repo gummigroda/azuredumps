@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

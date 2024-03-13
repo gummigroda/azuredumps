@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/adaptiveNetworkHardenings/enforce/action",
+  "OperationName": "Traffic hardening rules enforcement",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Adaptive Network Hardening",
+  "Description": "Enforces the given traffic hardening rules by creating matching security rules on the given Network Security Group(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/overviewsummaries/read",
+  "OperationName": "Get overview summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Overview summary",
+  "Description": "Gets the overview summary of the business case",
+  "IsDataAction": false
+}

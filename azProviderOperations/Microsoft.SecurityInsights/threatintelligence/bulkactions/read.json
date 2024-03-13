@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/bulkactions/read",
+  "OperationName": "Get TI Bulk Actions",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIBulkActions",
+  "Description": "Reads TI Bulk Action objects",
+  "IsDataAction": false
+}

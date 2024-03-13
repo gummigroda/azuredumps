@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/checkNameAvailability/action",
+  "OperationName": "Check resource name availability",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "",
+  "Description": "Checks whether the resource name is used or not for the resource type",
+  "IsDataAction": false
+}

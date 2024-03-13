@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/featuresuggestion/suggestions/read",
+  "OperationName": "versions - Get application version feature suggestions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "suggestions*",
+  "Description": "Get application version feature suggestions",
+  "IsDataAction": true
+}

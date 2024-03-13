@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/extendedInformation/write",
+  "OperationName": "Get Extended Info",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Get Extended Info operation gets an object's Extended Info representing the Azure resource of type ?vault?",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "PrivateEndpointConnectionProxy",
+  "Description": "Validate Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

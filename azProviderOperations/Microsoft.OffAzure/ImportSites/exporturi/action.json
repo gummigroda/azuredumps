@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ImportSites/exporturi/action",
+  "OperationName": "Get SAS uri for exporting the machines CSV file.",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ImportSites",
+  "Description": "Gets the SAS uri for exporting the machines CSV file.",
+  "IsDataAction": false
+}

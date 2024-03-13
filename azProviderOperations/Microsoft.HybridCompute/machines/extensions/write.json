@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/extensions/write",
+  "OperationName": "Install or Update an Azure Arc extensions",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "extensions",
+  "Description": "Installs or Updates an Azure Arc extensions",
+  "IsDataAction": false
+}

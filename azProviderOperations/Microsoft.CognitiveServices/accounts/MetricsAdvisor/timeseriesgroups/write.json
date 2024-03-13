@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/write",
+  "OperationName": "Create or update a time series group",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Time series groups",
+  "Description": "Create or update a time series group",
+  "IsDataAction": true
+}

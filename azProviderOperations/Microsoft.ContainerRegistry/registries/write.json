@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/write",
+  "OperationName": "Create or Update Container Registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Creates or updates a container registry with the specified parameters.",
+  "IsDataAction": false
+}

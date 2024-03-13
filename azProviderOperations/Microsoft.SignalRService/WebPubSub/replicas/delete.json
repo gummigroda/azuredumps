@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/replicas/delete",
+  "OperationName": "Delete WebPubSub replica",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/replicas",
+  "Description": "Delete the WebPubSub replica resource",
+  "IsDataAction": false
+}

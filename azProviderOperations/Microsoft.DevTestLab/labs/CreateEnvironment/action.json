@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/CreateEnvironment/action",
+  "OperationName": "Create a virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Create virtual machines in a lab.",
+  "IsDataAction": false
+}

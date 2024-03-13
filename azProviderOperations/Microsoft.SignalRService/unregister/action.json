@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/unregister/action",
+  "OperationName": "Unregister Resource Provider Microsoft.SignalRService",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "",
+  "Description": "Unregisters the 'Microsoft.SignalRService' resource provider with a subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/objectReplicationPolicies/write",
+  "OperationName": "Put Object Replication Policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Policy",
+  "Description": "Create or update object replication policy",
+  "IsDataAction": false
+}

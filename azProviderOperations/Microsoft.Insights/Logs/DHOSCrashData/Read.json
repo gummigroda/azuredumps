@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHOSCrashData/Read",
+  "OperationName": "Read DHOSCrashData data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHOSCrashData",
+  "Description": "Read data from the DHOSCrashData table",
+  "IsDataAction": false
+}

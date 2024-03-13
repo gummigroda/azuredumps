@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/locations/usages/read",
+  "OperationName": "List usages and quotas",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Usages",
+  "Description": "Get all uasage and quota information",
+  "IsDataAction": false
+}

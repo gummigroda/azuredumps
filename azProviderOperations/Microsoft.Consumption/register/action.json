@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/register/action",
+  "OperationName": "Register to Consumption RP",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "",
+  "Description": "Register to Consumption RP",
+  "IsDataAction": false
+}

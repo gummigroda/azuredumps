@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/locks/delete",
+  "OperationName": "Delete management locks",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Management lock",
+  "Description": "Delete locks at the specified scope.",
+  "IsDataAction": false
+}

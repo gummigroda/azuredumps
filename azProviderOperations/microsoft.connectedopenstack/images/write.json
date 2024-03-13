@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/images/write",
+  "OperationName": "Images_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "images",
+  "Description": "API to update certain properties of the Image resource.",
+  "IsDataAction": false
+}

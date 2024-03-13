@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/privateEndpointConnections/write",
+  "OperationName": "Create or Update Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Create or Update Private Endpoint Connection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/schemas/tables/columns/sensitivityLabels/write",
+  "OperationName": "Create or update the sensitivity label of a given column",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Create or update the sensitivity label of a given column",
+  "IsDataAction": false
+}

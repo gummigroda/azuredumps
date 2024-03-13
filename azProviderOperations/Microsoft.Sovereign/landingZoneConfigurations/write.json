@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/landingZoneConfigurations/write",
+  "OperationName": "LandingZonesConfigurations_Update",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "landingZoneConfigurations",
+  "Description": "Update a LandingZoneConfiguration",
+  "IsDataAction": false
+}

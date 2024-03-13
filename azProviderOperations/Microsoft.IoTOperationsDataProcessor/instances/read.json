@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/read",
+  "OperationName": "Instances_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances",
+  "Description": "Get a Instance",
+  "IsDataAction": false
+}

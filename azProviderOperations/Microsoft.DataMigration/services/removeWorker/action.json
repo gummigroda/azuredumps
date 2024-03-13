@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/removeWorker/action",
+  "OperationName": "Remove Azure Database Migration Service Worker",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Removes a Azure Database Migration Service worker to the Service's availiable workers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UAApp/read",
+  "OperationName": "Read UAApp data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UAApp",
+  "Description": "Read data from the UAApp table",
+  "IsDataAction": false
+}

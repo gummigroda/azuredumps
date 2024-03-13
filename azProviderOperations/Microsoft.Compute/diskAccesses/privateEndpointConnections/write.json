@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject PrivateEndpointConnection",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnections",
+  "Description": "Approve or Reject a Private Endpoint Connection",
+  "IsDataAction": false
+}

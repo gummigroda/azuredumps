@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "",
+  "Description": "Registers a subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/migrateToManualThroughput/operationResults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin graph throughput setting",
+  "Description": "Read status of the asynchronous operation.",
+  "IsDataAction": false
+}

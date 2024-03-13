@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/plantTissueAnalyses/read",
+  "OperationName": "Get or List AgFoodPlatform plant tissue analyses resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform plant tissue analyses",
+  "Description": "Gets or Lists existing AgFoodPlatform plant tissue analyses resource(s).",
+  "IsDataAction": true
+}

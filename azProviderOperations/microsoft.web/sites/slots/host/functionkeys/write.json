@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/host/functionkeys/write",
+  "OperationName": "Update Web Apps Functions Host Function Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Functions",
+  "Description": "Update Functions Host Function keys.",
+  "IsDataAction": false
+}

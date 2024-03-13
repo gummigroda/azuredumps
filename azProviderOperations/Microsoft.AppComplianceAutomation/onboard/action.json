@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/onboard/action",
+  "OperationName": "Onboard",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Onboard given subscriptions to Microsoft.AppComplianceAutomation provider.",
+  "IsDataAction": false
+}

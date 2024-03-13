@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/keys/delete",
+  "OperationName": "Delete Azure SQL Server Key",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Keys",
+  "Description": "Deletes an existing server key.",
+  "IsDataAction": false
+}

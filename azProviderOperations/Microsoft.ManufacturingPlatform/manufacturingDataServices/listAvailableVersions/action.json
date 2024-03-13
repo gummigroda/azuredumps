@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/manufacturingDataServices/listAvailableVersions/action",
+  "OperationName": "ManufacturingDataServices_ListAvailableVersions",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "manufacturingDataServices",
+  "Description": "Returns the list of available versions",
+  "IsDataAction": false
+}

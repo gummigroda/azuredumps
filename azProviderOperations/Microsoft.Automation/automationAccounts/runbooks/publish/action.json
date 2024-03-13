@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/publish/action",
+  "OperationName": "Publish an Azure Automation runbook draft",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook",
+  "Description": "Publishes an Azure Automation runbook draft",
+  "IsDataAction": false
+}

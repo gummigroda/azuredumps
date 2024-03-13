@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Load Balancer metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer metric definition",
+  "Description": "Gets the available metrics for Load Balancer",
+  "IsDataAction": false
+}

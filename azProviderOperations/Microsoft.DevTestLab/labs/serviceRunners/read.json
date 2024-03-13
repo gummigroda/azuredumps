@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/serviceRunners/read",
+  "OperationName": "Read service runners.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service runners",
+  "Description": "Read service runners.",
+  "IsDataAction": false
+}

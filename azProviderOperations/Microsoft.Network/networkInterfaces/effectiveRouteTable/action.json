@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/effectiveRouteTable/action",
+  "OperationName": "Get Network Interface Effective Route Table",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Get Route Table configured On Network Interface Of The Vm",
+  "IsDataAction": false
+}

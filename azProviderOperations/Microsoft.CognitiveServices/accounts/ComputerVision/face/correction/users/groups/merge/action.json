@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/correction/users/groups/merge/action",
+  "OperationName": "Face User Correction - Merge Groups (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "groups*",
+  "Description": "Face User Correction - Merge Groups",
+  "IsDataAction": true
+}

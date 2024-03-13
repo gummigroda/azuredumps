@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/register/action",
+  "OperationName": "Register Resource Provider",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "",
+  "Description": "Registers the Microsoft.Logic resource provider for a given subscription.",
+  "IsDataAction": false
+}

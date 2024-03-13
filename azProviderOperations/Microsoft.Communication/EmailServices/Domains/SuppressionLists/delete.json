@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SuppressionLists/delete",
+  "OperationName": "SuppressionLists_Delete",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SuppressionLists",
+  "Description": "Operation to delete a suppressio lists.",
+  "IsDataAction": false
+}

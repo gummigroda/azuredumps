@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/crayServers/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Cray Server",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

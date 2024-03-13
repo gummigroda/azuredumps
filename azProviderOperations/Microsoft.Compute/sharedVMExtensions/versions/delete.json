@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMExtensions/versions/delete",
+  "OperationName": "Delete Shared VM Extension Version",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMExtensionVersions",
+  "Description": "Deletes the Shared VM Extension Version",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/join/action",
+  "OperationName": "Join Virtual Network.",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Joins the virtual network.",
+  "IsDataAction": false
+}

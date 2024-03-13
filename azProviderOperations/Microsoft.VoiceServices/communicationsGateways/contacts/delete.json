@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/communicationsGateways/contacts/delete",
+  "OperationName": "Contacts_Delete",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "communicationsGateways/contacts",
+  "Description": "Delete a Contact",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/purviewAccountBindings/write",
+  "OperationName": "Create or update Account Binding",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account binding",
+  "Description": "Create or update Account Binding.",
+  "IsDataAction": true
+}

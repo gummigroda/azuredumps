@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhosts/delete",
+  "OperationName": "Delete hostpools/sessionhosts",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhosts",
+  "Description": "Delete hostpools/sessionhosts",
+  "IsDataAction": false
+}

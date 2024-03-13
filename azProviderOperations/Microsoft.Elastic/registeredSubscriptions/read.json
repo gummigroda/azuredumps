@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/registeredSubscriptions/read",
+  "OperationName": "Get registered subscriptions",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Get details of the registered subscriptions, for internal use only",
+  "IsDataAction": false
+}

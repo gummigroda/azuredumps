@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/alerts/read",
+  "OperationName": "Get security alerts",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alerts",
+  "Description": "Gets all available security alerts",
+  "IsDataAction": false
+}

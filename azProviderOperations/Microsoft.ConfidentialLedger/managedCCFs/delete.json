@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/managedCCFs/delete",
+  "OperationName": "ManagedCCF_Delete",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "managedCCFs",
+  "Description": "Deletes an existing Managed CCF.",
+  "IsDataAction": false
+}

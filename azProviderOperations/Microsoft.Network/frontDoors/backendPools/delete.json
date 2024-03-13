@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/backendPools/delete",
+  "OperationName": "Deletes a backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Backend Pool",
+  "Description": "Deletes a backend pool",
+  "IsDataAction": false
+}

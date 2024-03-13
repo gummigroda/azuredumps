@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/locations/serverKeyAzureAsyncOperation/read",
+  "OperationName": "Data Encryption server keys operation",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Data Encryption server key operation",
+  "Description": "Gets in-progress operations on data encryption server keys",
+  "IsDataAction": false
+}

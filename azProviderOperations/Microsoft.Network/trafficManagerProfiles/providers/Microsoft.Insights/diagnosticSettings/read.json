@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Traffic Manager Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Diagnostic Settings",
+  "Description": "Gets the Traffic Manager Diagnostic Settings",
+  "IsDataAction": false
+}

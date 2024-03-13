@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/ocr/action",
+  "OperationName": "OCR",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Optical Character Recognition (OCR) detects text in an image and extracts the recognized characters into a machine-usable character stream.   ",
+  "IsDataAction": true
+}

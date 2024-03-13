@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/bootstrapConfigurations/write",
+  "OperationName": "Create or Update BootstrapConfigurations",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "BootstrapConfigurations",
+  "Description": "Create or update the BootstrapConfigurations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "services",
+  "Description": "Reads resources.",
+  "IsDataAction": false
+}

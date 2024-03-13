@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/delete",
+  "OperationName": "Delete Cluster Pool",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster Pool",
+  "Description": "Delete a HDInsight on AKS Cluster Pool",
+  "IsDataAction": false
+}

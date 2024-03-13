@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventGridFilters/Delete",
+  "OperationName": "Delete Event Grid filter",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/EventGridFilters",
+  "Description": "Deletes the Event Grid filter",
+  "IsDataAction": false
+}

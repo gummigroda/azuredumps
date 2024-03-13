@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/listAvailableProjects/action",
+  "OperationName": "AzureDevOpsProjects_ListAvailable",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs",
+  "Description": "Returns a list of all Azure DevOps projects accessible by the user token consumed by the connector.",
+  "IsDataAction": false
+}

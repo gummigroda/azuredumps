@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/getcustomdomainverificationid/action",
+  "OperationName": "Get Subscription Custom Domain Verification Id",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "",
+  "Description": "Get Subscription Verification Id used for verifying custom domains",
+  "IsDataAction": false
+}

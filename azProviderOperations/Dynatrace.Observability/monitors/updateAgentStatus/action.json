@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/updateAgentStatus/action",
+  "OperationName": "Update Agent Status",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Create/Update the list of all resources that have Dynatrace agent installed through the Liftr experience",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MicrosoftHealthcareApisAuditLogs/Read",
+  "OperationName": "Read MicrosoftHealthcareApisAuditLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MicrosoftHealthcareApisAuditLogs",
+  "Description": "Read data from the MicrosoftHealthcareApisAuditLogs table",
+  "IsDataAction": false
+}

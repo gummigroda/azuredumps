@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/classifyServices/action",
+  "OperationName": "List Classify Services",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "",
+  "Description": "Lists one or all classified services",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/customRecommendations/write",
+  "OperationName": "Create custom recommendations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security custom recommendations",
+  "Description": "Create or update the custom recommendation",
+  "IsDataAction": false
+}

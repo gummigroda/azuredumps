@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/selectdevopstenant/read",
+  "OperationName": "Updates userid(objectid) for the selected dev ops tenant.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Updates userid(objectid) for the selected dev ops tenant.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/ruleGroups/read",
+  "OperationName": "Get Firewall Policy Rule Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Rule Group",
+  "Description": "Gets a Firewall Policy Rule Group",
+  "IsDataAction": false
+}

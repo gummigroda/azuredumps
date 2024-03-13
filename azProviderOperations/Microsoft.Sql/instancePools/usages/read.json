@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/instancePools/usages/read",
+  "OperationName": "Gets an instance pool's usage",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Instance pool",
+  "Description": "Gets an instance pool's usage info",
+  "IsDataAction": false
+}

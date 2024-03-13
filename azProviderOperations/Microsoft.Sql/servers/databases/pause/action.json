@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/pause/action",
+  "OperationName": "Pause a Datawarehouse database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Pause Azure SQL Datawarehouse Database",
+  "IsDataAction": false
+}

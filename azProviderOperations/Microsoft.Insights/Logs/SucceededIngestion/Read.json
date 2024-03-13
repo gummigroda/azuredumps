@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SucceededIngestion/Read",
+  "OperationName": "Read SucceededIngestion data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SucceededIngestion",
+  "Description": "Read data from the SucceededIngestion table",
+  "IsDataAction": false
+}

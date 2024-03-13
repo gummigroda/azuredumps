@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/GoogleCloudSCC/read",
+  "OperationName": "Read GoogleCloudSCC data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "GoogleCloudSCC",
+  "Description": "Read data from the GoogleCloudSCC table",
+  "IsDataAction": false
+}

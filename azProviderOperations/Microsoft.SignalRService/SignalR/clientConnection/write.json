@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/clientConnection/write",
+  "OperationName": "Write Client Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/ClientConnection",
+  "Description": "Close client connection",
+  "IsDataAction": true
+}

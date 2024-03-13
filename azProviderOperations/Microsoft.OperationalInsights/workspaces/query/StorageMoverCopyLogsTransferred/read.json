@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/StorageMoverCopyLogsTransferred/read",
+  "OperationName": "Read StorageMoverCopyLogsTransferred data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "StorageMoverCopyLogsTransferred",
+  "Description": "Read data from the StorageMoverCopyLogsTransferred table",
+  "IsDataAction": false
+}

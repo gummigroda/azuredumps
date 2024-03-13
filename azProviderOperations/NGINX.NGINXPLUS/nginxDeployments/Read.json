@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/Read",
+  "OperationName": "Get/List deployment resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "nginxDeployments",
+  "Description": "Read nginxDeployments",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

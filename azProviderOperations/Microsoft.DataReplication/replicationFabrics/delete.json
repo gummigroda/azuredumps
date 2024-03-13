@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationFabrics/delete",
+  "OperationName": "Deletes the fabric",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Fabrics",
+  "Description": "Deletes any fabrics",
+  "IsDataAction": false
+}

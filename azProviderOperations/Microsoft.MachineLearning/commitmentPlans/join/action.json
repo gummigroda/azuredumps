@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/commitmentPlans/join/action",
+  "OperationName": "Join Machine Learning Commitment Plan",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Commitment Plan",
+  "Description": "Join any Machine Learning Commitment Plan",
+  "IsDataAction": false
+}

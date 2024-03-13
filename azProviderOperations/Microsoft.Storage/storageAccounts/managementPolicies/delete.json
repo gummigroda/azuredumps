@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/managementPolicies/delete",
+  "OperationName": "Delete storage account management policies",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Management Policies",
+  "Description": "Delete storage account management policies",
+  "IsDataAction": false
+}

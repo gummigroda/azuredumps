@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/localusers/listKeys/action",
+  "OperationName": "List Local User Keys",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Local User",
+  "Description": "List local user keys",
+  "IsDataAction": false
+}

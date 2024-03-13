@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/cacheRules/write",
+  "OperationName": "Create or Update cache rule",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CacheRules",
+  "Description": "Creates or updates a cache rule for a container registry with the specified parameters",
+  "IsDataAction": false
+}

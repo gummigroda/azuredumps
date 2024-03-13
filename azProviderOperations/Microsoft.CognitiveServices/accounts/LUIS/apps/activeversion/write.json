@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/activeversion/write",
+  "OperationName": "active version - UpdateActiveVersion",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "activeversion*",
+  "Description": "Updates the currently active version of the specified app",
+  "IsDataAction": true
+}

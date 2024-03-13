@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/TuneMetadatas/read",
+  "OperationName": "Query tuning metadata.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Query tuning metadata.",
+  "IsDataAction": true
+}

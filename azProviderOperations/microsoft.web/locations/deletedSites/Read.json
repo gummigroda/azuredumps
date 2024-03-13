@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/locations/deletedSites/Read",
+  "OperationName": "Get Deleted Web App at location",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Deleted Web App",
+  "Description": "Get the properties of a Deleted Web App at location",
+  "IsDataAction": false
+}

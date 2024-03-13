@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MyWorkbooks/Read",
+  "OperationName": "Read private workbook",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MyWorkbooks",
+  "Description": "Read a private Workbook",
+  "IsDataAction": false
+}

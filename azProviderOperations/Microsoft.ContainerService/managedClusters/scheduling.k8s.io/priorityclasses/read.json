@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/scheduling.k8s.io/priorityclasses/read",
+  "OperationName": "Gets/List priorityclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Priorityclasses",
+  "Description": "Reads priorityclasses",
+  "IsDataAction": true
+}

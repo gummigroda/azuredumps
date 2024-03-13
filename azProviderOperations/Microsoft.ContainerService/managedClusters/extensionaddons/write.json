@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensionaddons/write",
+  "OperationName": "Create or Update extension addon",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "ExtensionAddons",
+  "Description": "Creates a new extension addon or updates an existing one",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/keys/read",
+  "OperationName": "List/Get Azure Database for PostgreSQL Server Key(s)",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL Server Keys",
+  "Description": "Return the list of server keys or gets the properties for the specified server key.",
+  "IsDataAction": false
+}

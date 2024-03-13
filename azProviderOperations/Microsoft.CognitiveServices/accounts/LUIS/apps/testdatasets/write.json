@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/testdatasets/write",
+  "OperationName": "testdatasets - UpdateBatchTestDataSetResults",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "testdatasets*",
+  "Description": "Updates last test results of an exisiting batch test data set for a given application.",
+  "IsDataAction": true
+}

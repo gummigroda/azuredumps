@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/privateLinkResources/read",
+  "OperationName": "Read PrivateLinkResources for partner namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateLinkResources",
+  "Description": "Read PrivateLinkResources for partner namespaces",
+  "IsDataAction": false
+}

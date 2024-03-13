@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

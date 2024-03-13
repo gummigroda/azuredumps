@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ASCDeviceEvents/read",
+  "OperationName": "Read ASCDeviceEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ASCDeviceEvents",
+  "Description": "Read data from the ASCDeviceEvents table",
+  "IsDataAction": false
+}

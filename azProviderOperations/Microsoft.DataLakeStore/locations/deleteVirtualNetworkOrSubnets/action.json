@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Delete Virtual Network or Subnets Notification",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Name Availability",
+  "Description": "Delete Virtual Network or Subnets across DataLakeStore Accounts.",
+  "IsDataAction": false
+}

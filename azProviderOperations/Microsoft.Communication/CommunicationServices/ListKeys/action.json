@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/ListKeys/action",
+  "OperationName": "List keys for a communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Reads the keys for a communication service",
+  "IsDataAction": false
+}

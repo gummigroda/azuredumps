@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionServers/longTermRetentionDatabases/longTermRetentionBackups/changeAccessTier/action",
+  "OperationName": "Change long term retention backup access tier operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "LongTerm Retention Backup",
+  "Description": "Change long term retention backup access tier operation.",
+  "IsDataAction": false
+}

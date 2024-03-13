@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Force networkSecurityPerimeterConfigurations resource to refresh",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkSecurityPerimeterConfigurations",
+  "Description": "Forces the networkSecurityPerimeterConfigurations resource to refresh",
+  "IsDataAction": false
+}

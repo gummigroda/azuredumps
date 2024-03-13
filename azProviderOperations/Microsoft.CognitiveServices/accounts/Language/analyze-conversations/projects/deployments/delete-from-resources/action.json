@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/deployments/delete-from-resources/action",
+  "OperationName": "Delete deployment from resources",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Deletes a project deployment from the specified assigned resources.",
+  "IsDataAction": true
+}

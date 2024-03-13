@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/endpoints/read",
+  "OperationName": "Get one or more endpoints",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Get one or more endpoints",
+  "IsDataAction": true
+}

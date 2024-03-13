@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/virtualNetworkLinks/read",
+  "OperationName": "Get Private DNS zone link to virtual network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone Link to Virtual Network",
+  "Description": "Get the Private DNS zone link to virtual network properties, in JSON format.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/boundariesCascadeDeleteJobs/read",
+  "OperationName": "Get or List AgFoodPlatform boundariesCascadeDeleteJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform boundariesCascadeDeleteJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform boundariesCascadeDeleteJobs resource(s).",
+  "IsDataAction": true
+}

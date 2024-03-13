@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/read",
+  "OperationName": "FirmwareGroup_List",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups",
+  "Description": "Lists all of firmwareGroups in the specified subscription.",
+  "IsDataAction": false
+}

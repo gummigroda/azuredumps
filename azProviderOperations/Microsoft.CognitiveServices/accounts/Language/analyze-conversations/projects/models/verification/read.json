@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/models/verification/read",
+  "OperationName": "AnalyzeConversations_Models_GetTrainedModelVerification",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "verification*",
+  "Description": "Get trained model verification report.",
+  "IsDataAction": true
+}

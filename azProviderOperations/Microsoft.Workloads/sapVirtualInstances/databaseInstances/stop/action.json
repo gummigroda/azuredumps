@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/databaseInstances/stop/action",
+  "OperationName": "SAPDatabaseInstances_StopInstance",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/databaseInstances",
+  "Description": "Stops the database instance of the SAP system.",
+  "IsDataAction": false
+}

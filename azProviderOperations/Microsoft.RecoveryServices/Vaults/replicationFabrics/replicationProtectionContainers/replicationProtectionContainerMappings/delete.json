@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectionContainerMappings/delete",
+  "OperationName": "Delete Protection Container Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Container Mappings",
+  "Description": "Delete any Protection Container Mappings",
+  "IsDataAction": false
+}

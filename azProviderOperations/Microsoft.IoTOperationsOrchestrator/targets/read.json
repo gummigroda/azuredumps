@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/targets/read",
+  "OperationName": "Targets_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "targets",
+  "Description": "Get a Target",
+  "IsDataAction": false
+}

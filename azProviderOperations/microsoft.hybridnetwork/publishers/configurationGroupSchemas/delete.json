@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/configurationGroupSchemas/delete",
+  "OperationName": "ConfigurationGroupSchemas_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/configurationGroupSchemas",
+  "Description": "Deletes a specified configuration group schema.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/serviceEndpointPolicies/join/action",
+  "OperationName": "Join Service Endpoint Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Endpoint Policy",
+  "Description": "Joins a Service Endpoint Policy. Not alertable.",
+  "IsDataAction": false
+}

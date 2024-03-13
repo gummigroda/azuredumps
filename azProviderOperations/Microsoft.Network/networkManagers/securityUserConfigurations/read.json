@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/read",
+  "OperationName": "Get Security User Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Configuration",
+  "Description": "Get Security User Configuration",
+  "IsDataAction": false
+}

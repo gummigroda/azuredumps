@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/summarylogs/read",
+  "OperationName": "Get a log analytics table.",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SummaryLogs",
+  "Description": "Get a log analytics table.",
+  "IsDataAction": false
+}

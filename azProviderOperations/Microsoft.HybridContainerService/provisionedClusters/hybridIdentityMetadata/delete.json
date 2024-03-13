@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata/delete",
+  "OperationName": "HybridIdentityMetadata_Delete",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters/hybridIdentityMetadata",
+  "Description": "Deletes the hybrid identity metadata proxy resource.",
+  "IsDataAction": false
+}

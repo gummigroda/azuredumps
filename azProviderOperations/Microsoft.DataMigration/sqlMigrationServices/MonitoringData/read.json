@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/MonitoringData/read",
+  "OperationName": "Get the Monitoring Data",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "SQL Migration Service",
+  "Description": "Retrieve the Monitoring Data",
+  "IsDataAction": false
+}

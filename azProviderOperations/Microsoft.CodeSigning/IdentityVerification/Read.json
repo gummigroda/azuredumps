@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/IdentityVerification/Read",
+  "OperationName": "Reads Identity Verification Requests",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "IdentityVerification",
+  "Description": "Reads identity verification requests for the subscription.",
+  "IsDataAction": true
+}

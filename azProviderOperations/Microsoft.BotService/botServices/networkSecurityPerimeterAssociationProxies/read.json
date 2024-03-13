@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Read a Network Security Perimeter Association Proxies resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Network Security Perimeter Association Proxies resource",
+  "Description": "Read a Network Security Perimeter Association Proxies resource",
+  "IsDataAction": false
+}

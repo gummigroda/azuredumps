@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceTvmSoftwareVulnerabilities/read",
+  "OperationName": "Read DeviceTvmSoftwareVulnerabilities data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceTvmSoftwareVulnerabilities",
+  "Description": "Read data from the DeviceTvmSoftwareVulnerabilities table",
+  "IsDataAction": false
+}

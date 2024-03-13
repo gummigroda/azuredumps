@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/backendPools/write",
+  "OperationName": "Creates or updates a backend pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Backend Pool",
+  "Description": "Creates or updates a backend pool",
+  "IsDataAction": false
+}

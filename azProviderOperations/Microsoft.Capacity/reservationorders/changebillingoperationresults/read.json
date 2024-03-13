@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/changebillingoperationresults/read",
+  "OperationName": "Poll Reservation billing change operation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Poll any Reservation billing change operation",
+  "IsDataAction": false
+}

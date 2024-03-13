@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/networkSettings/read",
+  "OperationName": "networkSettings_ListBySubscription",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "networkSettings",
+  "Description": "Retrieves the properties of all GitHub.Network networkSettings resources.",
+  "IsDataAction": false
+}

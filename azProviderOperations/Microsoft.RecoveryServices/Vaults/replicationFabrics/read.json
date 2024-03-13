@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/read",
+  "OperationName": "Read Fabrics",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Read any Fabrics",
+  "IsDataAction": false
+}

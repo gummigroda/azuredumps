@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/write",
+  "OperationName": "Write Cassandra keyspace throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Keyspace throughput setting",
+  "Description": "Update a Cassandra keyspace throughput.",
+  "IsDataAction": false
+}

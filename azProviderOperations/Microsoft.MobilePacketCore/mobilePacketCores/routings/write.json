@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/routings/write",
+  "OperationName": "Routings_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/routings",
+  "Description": "Creates or updates a Mobile Packet Core Routing",
+  "IsDataAction": false
+}

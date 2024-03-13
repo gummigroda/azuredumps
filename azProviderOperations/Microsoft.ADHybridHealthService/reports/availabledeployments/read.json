@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/availabledeployments/read",
+  "OperationName": "Gets list of available regions for DevOps.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets list of available regions, used by DevOps to support customer incidents.",
+  "IsDataAction": false
+}

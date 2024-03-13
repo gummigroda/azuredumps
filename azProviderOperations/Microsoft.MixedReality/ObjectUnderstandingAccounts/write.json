@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectUnderstandingAccounts/write",
+  "OperationName": "Update the properties of an Object Understanding account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectUnderstandingAccounts",
+  "Description": "Update the properties an Object Understanding account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/authenticationsettings/delete",
+  "OperationName": "AuthenticationSettings_Delete",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/authenticationsettings",
+  "Description": "Delete a AuthenticationSetting",
+  "IsDataAction": false
+}

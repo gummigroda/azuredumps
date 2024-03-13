@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/managedstorages/quota/read",
+  "OperationName": "Get my data quota usage",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Data Admin",
+  "Description": "Get my data quota usage",
+  "IsDataAction": false
+}

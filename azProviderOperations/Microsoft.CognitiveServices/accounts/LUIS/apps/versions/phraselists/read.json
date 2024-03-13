@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/phraselists/read",
+  "OperationName": "Phraselists - Get phraselist feature info or Get phraselist features list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Phraselists",
+  "Description": "Gets phraselist feature info.\r\nGets all phraselist features for the application version.",
+  "IsDataAction": true
+}

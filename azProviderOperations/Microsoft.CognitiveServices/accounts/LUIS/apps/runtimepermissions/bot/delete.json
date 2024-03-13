@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/runtimepermissions/bot/delete",
+  "OperationName": "bot - DeleteAppBotRuntimePermissions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "bot*",
+  "Description": "Deleted a bot runtime application permission",
+  "IsDataAction": true
+}

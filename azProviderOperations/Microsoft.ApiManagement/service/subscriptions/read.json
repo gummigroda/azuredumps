@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/subscriptions/read",
+  "OperationName": "Get subscriptions list or Get subscripiton details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Lists all subscriptions of the API Management service instance. or Gets the specified Subscription entity (without keys).",
+  "IsDataAction": false
+}

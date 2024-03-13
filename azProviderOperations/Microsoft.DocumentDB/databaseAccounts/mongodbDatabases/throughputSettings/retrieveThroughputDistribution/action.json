@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/retrieveThroughputDistribution/action",
+  "OperationName": "Retrieve throughput for the specified physical partitions of the MongoDB database.",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Database throughput setting",
+  "Description": "Retrieve throughput for the specified physical partitions of the MongoDB database.",
+  "IsDataAction": false
+}

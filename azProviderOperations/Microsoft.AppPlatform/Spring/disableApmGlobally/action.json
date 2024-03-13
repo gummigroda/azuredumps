@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/disableApmGlobally/action",
+  "OperationName": "Disable an APM of an Azure Spring Apps service instance globally",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Disable APM globally for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

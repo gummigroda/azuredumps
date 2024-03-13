@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/suspend/action",
+  "OperationName": "Suspend Hosting Environments",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Suspend Hosting Environments.",
+  "IsDataAction": false
+}

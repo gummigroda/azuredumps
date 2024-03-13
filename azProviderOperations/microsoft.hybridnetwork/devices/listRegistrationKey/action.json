@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/devices/listRegistrationKey/action",
+  "OperationName": "Devices_ListRegistrationKey",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "devices",
+  "Description": "List the registration key for the device.",
+  "IsDataAction": false
+}

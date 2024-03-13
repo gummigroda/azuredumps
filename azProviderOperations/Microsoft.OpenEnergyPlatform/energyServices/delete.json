@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/delete",
+  "OperationName": "EnergyServices_Delete",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Deletes oep resource",
+  "IsDataAction": false
+}

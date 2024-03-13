@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/operationStatuses/read",
+  "OperationName": "Get operation Status",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Microsoft.AppPlatform/Spring/apps/deployments Operation Status",
+  "Description": "Read resource operation Status",
+  "IsDataAction": false
+}

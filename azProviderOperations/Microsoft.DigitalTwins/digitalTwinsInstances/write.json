@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/write",
+  "OperationName": "Create or Update Azure Digital Twins resource",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Create or update any Microsoft.DigitalTwins/digitalTwinsInstances resource",
+  "IsDataAction": false
+}

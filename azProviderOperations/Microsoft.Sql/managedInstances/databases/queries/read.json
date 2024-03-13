@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/queries/read",
+  "OperationName": "Get query by Id.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Query",
+  "Description": "Get query text by query id",
+  "IsDataAction": false
+}

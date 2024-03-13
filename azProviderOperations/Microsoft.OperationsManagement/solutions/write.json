@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/solutions/write",
+  "OperationName": "Create new OMS solution",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Solution",
+  "Description": "Create new OMS solution",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write SQL Pool diagnostic settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces/sqlPools",
+  "Description": "Creates or updates the diagnostic settings for a SQL Pool",
+  "IsDataAction": false
+}

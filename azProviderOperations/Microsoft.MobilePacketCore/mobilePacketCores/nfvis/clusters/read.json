@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/read",
+  "OperationName": "Clusters_ListByNfvi",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters",
+  "Description": "Lists all the clusters in a NFVI instance.",
+  "IsDataAction": false
+}

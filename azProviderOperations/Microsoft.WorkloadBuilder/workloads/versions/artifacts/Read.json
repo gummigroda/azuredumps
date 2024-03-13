@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/versions/artifacts/Read",
+  "OperationName": "Reads the artifacts",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "artifacts",
+  "Description": "Read artifacts",
+  "IsDataAction": false
+}

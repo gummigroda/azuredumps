@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/checkDomainNameAvailability/action",
+  "OperationName": "Availability For A Domain Name",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Checks the availability of a given domain name.",
+  "IsDataAction": false
+}

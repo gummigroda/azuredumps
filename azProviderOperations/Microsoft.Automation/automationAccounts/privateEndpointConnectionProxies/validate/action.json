@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate a Private endpoint connection request",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection Proxy",
+  "Description": "Validate a Private endpoint connection request (groupId Validation)",
+  "IsDataAction": false
+}

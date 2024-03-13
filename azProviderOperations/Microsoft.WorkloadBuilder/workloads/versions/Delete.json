@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/versions/Delete",
+  "OperationName": "Deletes the versions",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "versions",
+  "Description": "Delete versions",
+  "IsDataAction": false
+}

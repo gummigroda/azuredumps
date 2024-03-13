@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/instanceFailoverGroups/delete",
+  "OperationName": "Delete Azure SQL Database instance failover group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database instance failover group",
+  "Description": "Deletes an existing instance failover group.",
+  "IsDataAction": false
+}

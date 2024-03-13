@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/train/action",
+  "OperationName": "Train",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Train call to add suggestions to the knowledgebase.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ConfidentialWatchlists/write",
+  "OperationName": "Create Confidential Watchlists",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ConfidentialWatchlists",
+  "Description": "Creates Confidential Watchlists",
+  "IsDataAction": false
+}

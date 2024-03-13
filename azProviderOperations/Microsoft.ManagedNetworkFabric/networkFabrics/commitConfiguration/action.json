@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/commitConfiguration/action",
+  "OperationName": "NetworkFabrics_CommitConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Atomic update of the given Network Fabric instance. Sync update of NFA resources at Fabric level.",
+  "IsDataAction": false
+}

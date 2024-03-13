@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/backends/delete",
+  "OperationName": "Remove backend",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Backends",
+  "Description": "Deletes the specified backend.",
+  "IsDataAction": false
+}

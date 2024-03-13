@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/monitoredResources/action",
+  "OperationName": "List monitored resources",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

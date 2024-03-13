@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/read",
+  "OperationName": "Read PrivateLinkHubs.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "PrivateLinkHubs",
+  "Description": "Read any PrivateLinkHubs.",
+  "IsDataAction": false
+}

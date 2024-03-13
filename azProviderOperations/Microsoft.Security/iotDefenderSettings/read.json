@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotDefenderSettings/read",
+  "OperationName": "Get IoT Defender Settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Defender Settings",
+  "Description": "Gets IoT Defender Settings",
+  "IsDataAction": false
+}

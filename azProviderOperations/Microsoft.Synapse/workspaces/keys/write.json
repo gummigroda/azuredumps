@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/keys/write",
+  "OperationName": "Create or Update Workspace Keys",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Keys",
+  "Description": "Create or Update Workspace Keys",
+  "IsDataAction": false
+}

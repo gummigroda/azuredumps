@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/regeneratekey/action",
+  "OperationName": "Regenerate WebPubSub Access Keys",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "Change the value of WebPubSub access keys in the management portal or through API",
+  "IsDataAction": false
+}

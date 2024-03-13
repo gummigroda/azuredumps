@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/triggeredAnalyticsRuleRuns/read",
+  "OperationName": "Get Triggered Analytics Rule Runs",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Triggered Analytics Rule Runs",
+  "Description": "Gets the triggered analytics rule runs",
+  "IsDataAction": false
+}

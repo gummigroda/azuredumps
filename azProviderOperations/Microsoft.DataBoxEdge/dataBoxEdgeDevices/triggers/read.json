@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/read",
+  "OperationName": "List triggers",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "triggers",
+  "Description": "Lists or gets the triggers",
+  "IsDataAction": false
+}

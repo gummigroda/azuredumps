@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/write",
+  "OperationName": "NetworkFunctionDefinitionGroups_Update",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups",
+  "Description": "Updates a network function definition group resource.",
+  "IsDataAction": false
+}

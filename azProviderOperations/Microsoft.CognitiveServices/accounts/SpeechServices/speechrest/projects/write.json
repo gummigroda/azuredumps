@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/projects/write",
+  "OperationName": "Create or update a project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Projects",
+  "Description": "Create or update a project",
+  "IsDataAction": true
+}

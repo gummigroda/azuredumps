@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AlertHistory/Read",
+  "OperationName": "Read AlertHistory data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AlertHistory",
+  "Description": "Read data from the AlertHistory table",
+  "IsDataAction": false
+}

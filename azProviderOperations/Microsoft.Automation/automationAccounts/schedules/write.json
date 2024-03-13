@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/schedules/write",
+  "OperationName": "Create or Update an Azure Automation schedule asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Schedule Asset",
+  "Description": "Creates or updates an Azure Automation schedule asset",
+  "IsDataAction": false
+}

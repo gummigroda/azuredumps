@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/listKeys/action",
+  "OperationName": "List secrets for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "List secrets for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

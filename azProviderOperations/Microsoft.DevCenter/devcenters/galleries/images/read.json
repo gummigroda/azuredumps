@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/galleries/images/read",
+  "OperationName": "Images_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/galleries/images",
+  "Description": "Gets a gallery image.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/locations/operationresults/read",
+  "OperationName": "Read Operation Results",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Operation Results",
+  "Description": "Read the status of an asynchronous operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Autosuggest/search/action",
+  "OperationName": "Suggestions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Autosuggest - v7",
+  "Description": "This operation provides suggestions for a given query or partial query.",
+  "IsDataAction": true
+}

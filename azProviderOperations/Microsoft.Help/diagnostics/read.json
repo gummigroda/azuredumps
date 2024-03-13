@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/diagnostics/read",
+  "OperationName": "Read or create an diagnostic",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "Diagnostics",
+  "Description": "Reads or creates an diagnostic resource to troubleshoot an issue",
+  "IsDataAction": false
+}

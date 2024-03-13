@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/webAppAssessments/read",
+  "OperationName": "Lists web app assessments within a project",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Resource",
+  "Description": "Lists web app assessments within a project",
+  "IsDataAction": false
+}

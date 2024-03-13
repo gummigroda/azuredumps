@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationFabrics/write",
+  "OperationName": "Updates the fabric",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Fabrics",
+  "Description": "Updates any fabric",
+  "IsDataAction": false
+}

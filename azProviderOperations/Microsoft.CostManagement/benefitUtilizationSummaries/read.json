@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/benefitUtilizationSummaries/read",
+  "OperationName": "List Microsoft benefit utilization summaries",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "BenefitUtilizationSummaries",
+  "Description": "List benefit utilization summaries.",
+  "IsDataAction": false
+}

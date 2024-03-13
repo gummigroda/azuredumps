@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/locations/checkNameAvailability/action",
+  "OperationName": "Check availability of the Fabric resource name",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Checks that given Fabric resource name is valid and not in use.",
+  "IsDataAction": false
+}

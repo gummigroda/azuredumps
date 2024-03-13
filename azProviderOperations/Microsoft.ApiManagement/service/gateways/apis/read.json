@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/apis/read",
+  "OperationName": "Get Gateway APIs list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs added to Gateway",
+  "Description": "Lists a collection of the APIs associated with a gateway.",
+  "IsDataAction": false
+}

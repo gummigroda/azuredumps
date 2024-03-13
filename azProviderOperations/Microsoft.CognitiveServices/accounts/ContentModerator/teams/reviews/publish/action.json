@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/publish/action",
+  "OperationName": "Review - Publish video review",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage reviews.",
+  "Description": "Video reviews are initially created in an unpublished state - which means it is not available for reviewers on your team to review yet.",
+  "IsDataAction": true
+}

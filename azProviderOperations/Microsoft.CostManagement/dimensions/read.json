@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/dimensions/read",
+  "OperationName": "List supported dimensions",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Dimensions",
+  "Description": "List all supported dimensions by a scope.",
+  "IsDataAction": false
+}

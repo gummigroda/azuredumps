@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseCustomers/write",
+  "OperationName": "enterpriseCustomers_Update",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseCustomers",
+  "Description": "updates an existing enterpriseCustomers.",
+  "IsDataAction": false
+}

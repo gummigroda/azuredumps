@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Migrate/action",
+  "OperationName": "Cluster migrate action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Migrates the cluster data to another cluster.",
+  "IsDataAction": false
+}

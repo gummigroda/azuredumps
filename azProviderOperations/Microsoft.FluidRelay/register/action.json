@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/register/action",
+  "OperationName": "Register the Microsoft.FluidRelay",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.FluidRelay",
+  "IsDataAction": false
+}

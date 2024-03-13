@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationDefinitions/read",
+  "OperationName": "List Managed Services Registration Definitions",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Definition",
+  "Description": "Retrieves a list of Managed Services registration definitions.",
+  "IsDataAction": false
+}

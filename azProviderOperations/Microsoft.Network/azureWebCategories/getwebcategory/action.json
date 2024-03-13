@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureWebCategories/getwebcategory/action",
+  "OperationName": "Look up WebCategory",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure WebCategories",
+  "Description": "Looks up WebCategory",
+  "IsDataAction": false
+}

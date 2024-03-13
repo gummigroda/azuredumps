@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/amlFilesystems/read",
+  "OperationName": "Read amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystem",
+  "Description": "Gets the properties of an amlfilesystem",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/advisors/recommendedActions/write",
+  "OperationName": "Update elastic pool recommended action state",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Pool Recommended Action",
+  "Description": "Apply the recommended action on the elastic pool",
+  "IsDataAction": false
+}

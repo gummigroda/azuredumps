@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/environments/read",
+  "OperationName": "Get environment",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiEnvironment",
+  "Description": "Returns specified environment.",
+  "IsDataAction": false
+}

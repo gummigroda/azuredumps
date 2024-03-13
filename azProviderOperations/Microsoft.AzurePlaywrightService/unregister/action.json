@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/unregister/action",
+  "OperationName": "Unregister the Microsoft.AzurePlaywrightService",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AzurePlaywrightService",
+  "IsDataAction": false
+}

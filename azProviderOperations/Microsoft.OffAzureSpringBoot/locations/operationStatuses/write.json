@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "writeoperationStatuses",
+  "IsDataAction": false
+}

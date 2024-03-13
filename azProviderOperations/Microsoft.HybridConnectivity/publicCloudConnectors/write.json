@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/publicCloudConnectors/write",
+  "OperationName": "publicCloudConnectors_Update",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "publicCloudConnectors",
+  "Description": "Update the public cloud connectors resource.",
+  "IsDataAction": false
+}

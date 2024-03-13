@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/privateEndpointConnectionProxies/operationsstatus/read",
+  "OperationName": "Get status of a long running operation on a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "OperationsStatus",
+  "Description": "Get status of a long running operation on a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

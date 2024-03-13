@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GuestConfiguration/guestConfigurationAssignments/healthcheck/action",
+  "OperationName": "Microsoft.GuestConfiguration/guestConfigurationAssignments/healthcheck/action",
+  "ProviderNamespace": "Microsoft Guest Configuration",
+  "ResourceName": "Microsoft.GuestConfiguration/guestConfigurationAssignments",
+  "Description": "Get guest configuration assignment.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/billingSubscriptions/move/action",
+  "OperationName": "Move Billing Subscription",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": null,
+  "IsDataAction": false
+}

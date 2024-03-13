@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/sharedGalleries/read",
+  "OperationName": "Read sharedgalleries.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "SharedGalleries",
+  "Description": "Read sharedgalleries.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/privateLinkResources/read",
+  "OperationName": "Get Private Link Resources",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get Private Link Resources for HDInsight Cluster",
+  "IsDataAction": false
+}

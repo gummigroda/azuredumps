@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/resourcepools/Delete",
+  "OperationName": "Deletes resourcepools resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "resourcepools",
+  "Description": "Deletes resourcepools",
+  "IsDataAction": false
+}

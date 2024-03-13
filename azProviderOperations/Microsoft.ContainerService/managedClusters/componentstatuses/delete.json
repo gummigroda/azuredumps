@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/componentstatuses/delete",
+  "OperationName": "Deletes/DeletesCollection componentstatuses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Componentstatuses",
+  "Description": "Deletes componentstatuses",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SQLQueryPerformance/Read",
+  "OperationName": "Read SQLQueryPerformance data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SQLQueryPerformance",
+  "Description": "Read data from the SQLQueryPerformance table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/register/action",
+  "OperationName": "Register Subscription for Migrate",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.Migrate resource provider",
+  "IsDataAction": false
+}

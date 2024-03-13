@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/authorizations/delete",
+  "OperationName": "Delete a PriveCloud authorization.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/authorizations",
+  "Description": "Delete a specific PrivateCloud authorization.",
+  "IsDataAction": false
+}

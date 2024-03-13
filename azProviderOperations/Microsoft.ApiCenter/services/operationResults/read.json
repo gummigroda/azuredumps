@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/operationResults/read",
+  "OperationName": "Import APIM API status check",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "API",
+  "Description": "Checks status of individual import operation",
+  "IsDataAction": false
+}

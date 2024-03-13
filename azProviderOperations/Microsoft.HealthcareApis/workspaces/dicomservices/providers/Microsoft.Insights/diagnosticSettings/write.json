@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Azure service diagnostic settings.",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure service diagnostic settings.",
+  "Description": "Creates or updates the diagnostic settings for the Azure service.",
+  "IsDataAction": false
+}

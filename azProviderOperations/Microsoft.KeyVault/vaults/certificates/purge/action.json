@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/purge/action",
+  "OperationName": "Purge Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Purges a certificate, making it unrecoverable.",
+  "IsDataAction": true
+}

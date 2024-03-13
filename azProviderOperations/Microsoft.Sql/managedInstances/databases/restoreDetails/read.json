@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/restoreDetails/read",
+  "OperationName": "Gets managed database restore details.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed database restore details name.",
+  "Description": "Returns managed database restore details while restore is in progress.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/accounts/read",
+  "OperationName": "Accounts_Get",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "accounts",
+  "Description": "Get an Account",
+  "IsDataAction": false
+}

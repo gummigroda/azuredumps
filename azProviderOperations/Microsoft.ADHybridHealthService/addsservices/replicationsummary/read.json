@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/replicationsummary/read",
+  "OperationName": "Gets domain controller replication summary.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets complete domain controller list along with replication details for the given forest.",
+  "IsDataAction": false
+}

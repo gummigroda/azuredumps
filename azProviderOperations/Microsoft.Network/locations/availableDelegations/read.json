@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/availableDelegations/read",
+  "OperationName": "Get Available Delegations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Delegation",
+  "Description": "Gets Available Delegations",
+  "IsDataAction": false
+}

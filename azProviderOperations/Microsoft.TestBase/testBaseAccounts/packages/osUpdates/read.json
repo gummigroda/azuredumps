@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/osUpdates/read",
+  "OperationName": "OSUpdates_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages/osUpdates",
+  "Description": "Gets an OS Update by name in which the package was tested before.",
+  "IsDataAction": false
+}

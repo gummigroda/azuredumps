@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AmlRunStatusChangedEvent/read",
+  "OperationName": "Read AmlRunStatusChangedEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AmlRunStatusChangedEvent",
+  "Description": "Read data from the AmlRunStatusChangedEvent table",
+  "IsDataAction": false
+}

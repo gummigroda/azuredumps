@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/write",
+  "OperationName": "Creates or updates a Service Association Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Association Link",
+  "Description": "Creates a Service Association Link or updates an existing Service Association Link",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/users/read",
+  "OperationName": "List share users",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "share users",
+  "Description": "Lists or gets the share users",
+  "IsDataAction": false
+}

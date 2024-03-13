@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/dataWarehouseQueries/read",
+  "OperationName": "Get details about data warehouse query",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Data Warehouse Query",
+  "Description": "Returns the data warehouse distribution query information for selected query ID",
+  "IsDataAction": false
+}

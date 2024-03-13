@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/read",
+  "OperationName": "Get API list or Get API details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs",
+  "Description": "Lists all APIs of the API Management service instance. or Gets the details of the API specified by its identifier.",
+  "IsDataAction": false
+}

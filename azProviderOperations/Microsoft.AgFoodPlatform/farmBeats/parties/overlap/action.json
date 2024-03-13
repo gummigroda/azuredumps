@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/overlap/action",
+  "OperationName": "Search AgFoodPlatform Party resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform parties",
+  "Description": "Searches existing AgFoodPlatform Party resource(s).",
+  "IsDataAction": true
+}

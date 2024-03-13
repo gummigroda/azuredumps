@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Monitoring Account Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read any Monitoring Account Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

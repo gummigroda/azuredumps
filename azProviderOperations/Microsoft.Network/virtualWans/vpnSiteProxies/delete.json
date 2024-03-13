@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/vpnSiteProxies/delete",
+  "OperationName": "Delete Vpn Site proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Site Proxy",
+  "Description": "Deletes a Vpn Site proxy",
+  "IsDataAction": false
+}

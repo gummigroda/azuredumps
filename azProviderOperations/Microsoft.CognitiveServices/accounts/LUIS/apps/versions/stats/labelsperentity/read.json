@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/stats/labelsperentity/read",
+  "OperationName": "labelsperentity - GetNumOfLabelsPerEntity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "labelsperentity*",
+  "Description": "Gets the number of labels per entity of a given application",
+  "IsDataAction": true
+}

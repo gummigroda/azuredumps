@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networktraces/operationresults/read",
+  "OperationName": "Get Web Apps Network Trace Operation Results",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Operation Results",
+  "Description": "Get Web Apps Network Trace Operation Results.",
+  "IsDataAction": false
+}

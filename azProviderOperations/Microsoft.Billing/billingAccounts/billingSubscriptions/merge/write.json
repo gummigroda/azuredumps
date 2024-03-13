@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/merge/write",
+  "OperationName": "Merge two billing subscriptions",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Merge",
+  "Description": null,
+  "IsDataAction": false
+}

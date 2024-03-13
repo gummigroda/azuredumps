@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/managedPrivateEndpoints/delete",
+  "OperationName": "Delete Managed Private Endpoints",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "ManagedPrivateEndpoints",
+  "Description": "Delete Managed Private Endpoints",
+  "IsDataAction": false
+}

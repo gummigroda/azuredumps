@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/start/action",
+  "OperationName": "VirtualMachines_Start",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines",
+  "Description": "Start the provided virtual machine.",
+  "IsDataAction": false
+}

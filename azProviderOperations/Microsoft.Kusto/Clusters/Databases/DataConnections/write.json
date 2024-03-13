@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/DataConnections/write",
+  "OperationName": "Write a data connections resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Data connections resource type",
+  "Description": "Writes a data connections resource.",
+  "IsDataAction": false
+}

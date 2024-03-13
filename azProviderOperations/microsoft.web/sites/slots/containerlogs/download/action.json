@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/containerlogs/download/action",
+  "OperationName": "Download Web Apps Slots Container Logs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Container Logs",
+  "Description": "Download Web Apps Slots Container Logs.",
+  "IsDataAction": false
+}

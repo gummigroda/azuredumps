@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/debugSessions/read",
+  "OperationName": "Read Debug Session",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Debug Sessions",
+  "Description": "Return a debug session or a list of debug sessions.",
+  "IsDataAction": false
+}

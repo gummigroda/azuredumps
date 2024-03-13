@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/capacities/write",
+  "OperationName": "Create/Update Fabric Capacity",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Creates or updates the specified Fabric Capacity.",
+  "IsDataAction": false
+}

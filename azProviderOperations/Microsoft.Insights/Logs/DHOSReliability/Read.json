@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHOSReliability/Read",
+  "OperationName": "Read DHOSReliability data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHOSReliability",
+  "Description": "Read data from the DHOSReliability table",
+  "IsDataAction": false
+}

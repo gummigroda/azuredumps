@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/deployments/write",
+  "OperationName": "Deploy Project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Deploy Project.",
+  "IsDataAction": true
+}

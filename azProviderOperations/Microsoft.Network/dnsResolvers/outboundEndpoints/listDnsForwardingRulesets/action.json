@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/outboundEndpoints/listDnsForwardingRulesets/action",
+  "OperationName": "Get DNS Forwarding Rulesets for DNS Resolver Outbound Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver Outbound Endpoint",
+  "Description": "Gets the DNS Forwarding Rulesets Properties for DNS Resolver Outbound Endpoint, in JSON format",
+  "IsDataAction": false
+}

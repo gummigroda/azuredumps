@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/operations/read",
+  "OperationName": "List available Operations in NewRelic.Observability",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "operations",
+  "Description": "List available Operations in NewRelic.Observability",
+  "IsDataAction": false
+}

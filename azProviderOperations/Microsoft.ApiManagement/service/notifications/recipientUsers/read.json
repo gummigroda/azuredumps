@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/notifications/recipientUsers/read",
+  "OperationName": "Get recipient users for the Notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Users associated with a notification",
+  "Description": "Gets the list of the Notification Recipient User subscribed to the notification.",
+  "IsDataAction": false
+}

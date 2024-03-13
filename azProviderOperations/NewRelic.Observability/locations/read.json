@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

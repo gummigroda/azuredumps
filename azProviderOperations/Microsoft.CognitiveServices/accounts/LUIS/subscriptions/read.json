@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/subscriptions/read",
+  "OperationName": "user - Get user subscription keys",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "subscriptions*",
+  "Description": "**THIS API IS DEPRECATED.**",
+  "IsDataAction": true
+}

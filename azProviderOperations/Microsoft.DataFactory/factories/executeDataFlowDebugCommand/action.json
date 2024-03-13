@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/executeDataFlowDebugCommand/action",
+  "OperationName": "Execute Data Flow debug command.",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Execute Data Flow debug command.",
+  "IsDataAction": false
+}

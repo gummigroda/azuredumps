@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/computes/applicationaccess/action",
+  "OperationName": "Access compute resource in Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Computes",
+  "Description": "Access compute resource in Machine Learning Services Workspace",
+  "IsDataAction": false
+}

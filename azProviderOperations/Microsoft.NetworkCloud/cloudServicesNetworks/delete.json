@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/cloudServicesNetworks/delete",
+  "OperationName": "CloudServicesNetworks_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "cloudServicesNetworks",
+  "Description": "Delete the provided cloud services network.",
+  "IsDataAction": false
+}

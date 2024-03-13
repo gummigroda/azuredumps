@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/register/action",
+  "OperationName": "Subscription Registration Action",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "",
+  "Description": "Subscription Registration Action",
+  "IsDataAction": false
+}

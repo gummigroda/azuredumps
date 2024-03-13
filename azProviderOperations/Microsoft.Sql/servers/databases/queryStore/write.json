@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/queryStore/write",
+  "OperationName": "Update Query Store settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Query Store settings",
+  "Description": "Updates Query Store setting for the database",
+  "IsDataAction": false
+}

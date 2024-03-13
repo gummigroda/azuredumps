@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/recommendations/available/action",
+  "OperationName": "New recommendation is available",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Recommendations",
+  "Description": "New recommendation is available in Microsoft Advisor",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/read",
+  "OperationName": "Get the details of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Get Azure Spring Apps service instance(s)",
+  "IsDataAction": false
+}

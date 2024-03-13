@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/cancel/write",
+  "OperationName": "BillingSubscriptions_Cancel",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Cancel",
+  "Description": "Cancel an azure billing subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/sharedGalleries/delete",
+  "OperationName": "Delete shared galleries.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Shared Galleries",
+  "Description": "Delete shared galleries.",
+  "IsDataAction": false
+}

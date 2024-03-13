@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Synthesis/SpeakMetadataForPronunciation/action",
+  "OperationName": "Query TTS synthesis metadata for pronunciation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "SSML synthesis",
+  "Description": "Query TTS synthesis metadata for pronunciation.",
+  "IsDataAction": true
+}

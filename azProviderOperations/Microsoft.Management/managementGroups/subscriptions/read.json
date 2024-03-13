@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/subscriptions/read",
+  "OperationName": "Lists Management Group Subscription",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Lists subscription under the given management group.",
+  "IsDataAction": false
+}

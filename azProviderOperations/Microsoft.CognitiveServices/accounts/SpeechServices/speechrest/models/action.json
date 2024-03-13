@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/models/action",
+  "OperationName": "Model operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "This method can be used to copy a model from one location to another. If the target subscription",
+  "IsDataAction": true
+}

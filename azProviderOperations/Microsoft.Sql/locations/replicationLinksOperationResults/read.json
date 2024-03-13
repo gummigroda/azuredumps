@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/replicationLinksOperationResults/read",
+  "OperationName": "Get the operation result of replication links.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Resource name of ReplicationLinkOperationResults controller.",
+  "Description": "Return the get result of replication links operation.",
+  "IsDataAction": false
+}

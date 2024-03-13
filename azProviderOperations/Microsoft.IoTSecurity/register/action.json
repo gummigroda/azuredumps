@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "",
+  "Description": "Registers the subscription for Azure Defender for IoT",
+  "IsDataAction": false
+}

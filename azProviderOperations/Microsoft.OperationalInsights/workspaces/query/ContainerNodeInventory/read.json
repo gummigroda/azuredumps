@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ContainerNodeInventory/read",
+  "OperationName": "Read ContainerNodeInventory data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ContainerNodeInventory",
+  "Description": "Read data from the ContainerNodeInventory table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAComputerRank/Read",
+  "OperationName": "Read UAComputerRank data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAComputerRank",
+  "Description": "Read data from the UAComputerRank table",
+  "IsDataAction": false
+}

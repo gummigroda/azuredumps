@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/dataControllers/activeDirectoryConnectors/delete",
+  "OperationName": "ActiveDirectoryConnectors_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "dataControllers/activeDirectoryConnectors",
+  "Description": "Deletes an Active Directory connector resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/resourceProviders/locations/serviceLimitsRequests/read",
+  "OperationName": "Get service limit request",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Resource service limit request",
+  "Description": "Get any service limit request for the specified resource and location",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/accounts/read",
+  "OperationName": "List Accounts",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "ListAccounts",
+  "Description": "List all Accounts that for a user",
+  "IsDataAction": false
+}

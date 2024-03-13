@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceFileCertificateInfo/read",
+  "OperationName": "Read DeviceFileCertificateInfo data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceFileCertificateInfo",
+  "Description": "Read data from the DeviceFileCertificateInfo table",
+  "IsDataAction": false
+}

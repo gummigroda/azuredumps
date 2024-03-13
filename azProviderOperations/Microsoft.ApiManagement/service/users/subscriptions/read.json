@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/subscriptions/read",
+  "OperationName": "Get user subscriptions list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User subscriptions",
+  "Description": "Lists the collection of subscriptions of the specified user.",
+  "IsDataAction": false
+}

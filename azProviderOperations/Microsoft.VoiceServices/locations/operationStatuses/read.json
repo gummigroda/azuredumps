@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

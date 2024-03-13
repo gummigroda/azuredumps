@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/configuration/write",
+  "OperationName": "Creates a new Tenant.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Tenant Configuration",
+  "Description": "Creates a Tenant Configuration.",
+  "IsDataAction": false
+}

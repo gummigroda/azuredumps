@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/unregister/action",
+  "OperationName": "Unregister the Microsoft.SaaSHub",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.SaaSHub",
+  "IsDataAction": false
+}

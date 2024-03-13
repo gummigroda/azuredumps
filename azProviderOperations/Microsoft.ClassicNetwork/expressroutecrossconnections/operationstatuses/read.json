@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/expressroutecrossconnections/operationstatuses/read",
+  "OperationName": "Get Express Route Cross Connection Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Express Route Cross Connection Operation Status",
+  "Description": "Get an express route cross connection operation status.",
+  "IsDataAction": false
+}

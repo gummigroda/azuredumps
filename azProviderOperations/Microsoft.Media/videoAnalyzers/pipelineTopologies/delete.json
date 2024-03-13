@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineTopologies/delete",
+  "OperationName": "Delete Pipeline Topology",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Topology Resource",
+  "Description": "Delete any Pipeline Topology",
+  "IsDataAction": false
+}

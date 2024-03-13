@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate Cassandra view offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra view throughput setting",
+  "Description": "Migrate Cassandra view offer to autoscale.",
+  "IsDataAction": false
+}

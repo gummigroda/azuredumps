@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WVDHostRegistrations/Read",
+  "OperationName": "Read WVDHostRegistrations data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WVDHostRegistrations",
+  "Description": "Read data from the WVDHostRegistrations table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/DiagnoseVirtualNetwork/action",
+  "OperationName": "Diagnose virtual network.",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Diagnoses network connectivity status for external resources on which the service is dependent on.",
+  "IsDataAction": false
+}

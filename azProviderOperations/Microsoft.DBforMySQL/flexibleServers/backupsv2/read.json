@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/backupsv2/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Backup",
+  "Description": null,
+  "IsDataAction": false
+}

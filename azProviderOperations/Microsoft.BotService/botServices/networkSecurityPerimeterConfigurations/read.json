@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Read a Network Security Perimeter Configurations resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Network Security Perimeter Configurations resource",
+  "Description": "Read a Network Security Perimeter Configurations resource",
+  "IsDataAction": false
+}

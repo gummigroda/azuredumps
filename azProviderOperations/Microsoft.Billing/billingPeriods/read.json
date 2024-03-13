@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingPeriods/read",
+  "OperationName": "List/Get Billing Periods(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Periods",
+  "Description": null,
+  "IsDataAction": false
+}

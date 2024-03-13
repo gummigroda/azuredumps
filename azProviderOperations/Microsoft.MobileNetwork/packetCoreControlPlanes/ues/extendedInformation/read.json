@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/ues/extendedInformation/read",
+  "OperationName": "ExtendedUeInformation_Get",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/ues/extendedInformation",
+  "Description": "Gets extended information about the specified UE from the packet core.",
+  "IsDataAction": false
+}

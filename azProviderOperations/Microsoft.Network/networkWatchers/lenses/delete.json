@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/delete",
+  "OperationName": "Delete Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Deletes a Lens",
+  "IsDataAction": false
+}

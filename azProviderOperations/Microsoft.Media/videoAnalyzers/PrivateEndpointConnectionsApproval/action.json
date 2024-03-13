@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Analyzer Account",
+  "Description": "Approve Private Endpoint Connections",
+  "IsDataAction": false
+}

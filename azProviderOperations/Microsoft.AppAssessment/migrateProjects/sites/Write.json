@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/sites/Write",
+  "OperationName": "Create/update sites within a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/sites",
+  "Description": "Writes migrate project sites",
+  "IsDataAction": false
+}

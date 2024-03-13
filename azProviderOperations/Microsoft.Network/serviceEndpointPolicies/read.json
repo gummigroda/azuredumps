@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/serviceEndpointPolicies/read",
+  "OperationName": "Gets a Service Endpoint Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Endpoint Policy",
+  "Description": "Gets a Service Endpoint Policy Description",
+  "IsDataAction": false
+}

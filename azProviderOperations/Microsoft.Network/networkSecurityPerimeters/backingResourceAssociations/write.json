@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/backingResourceAssociations/write",
+  "OperationName": "Creates or Updates a Network Security Perimeter Backing Resource Association",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Backing Resource Association",
+  "Description": "Creates or Updates a Network Security Perimeter Backing Resource Association",
+  "IsDataAction": false
+}

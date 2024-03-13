@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Commerce/unregister/action",
+  "OperationName": "unregister Subscription",
+  "ProviderNamespace": "Microsoft Commerce",
+  "ResourceName": "",
+  "Description": "Unregister Subscription for Microsoft Commerce UsageAggregate",
+  "IsDataAction": false
+}

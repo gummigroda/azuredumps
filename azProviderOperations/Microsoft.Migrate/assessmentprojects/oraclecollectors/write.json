@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oraclecollectors/write",
+  "OperationName": "Create or update oracle Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Collectors",
+  "Description": "Creates a oracle Collector or updates an existing oracle Collector",
+  "IsDataAction": false
+}

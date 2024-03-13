@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/virtualNetworkLinks/write",
+  "OperationName": "Create or Update Private DNS zone link to virtual network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone Link to Virtual Network",
+  "Description": "Create or update a Private DNS zone link to virtual network.",
+  "IsDataAction": false
+}

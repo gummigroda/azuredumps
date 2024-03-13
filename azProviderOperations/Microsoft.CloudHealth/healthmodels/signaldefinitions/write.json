@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/signaldefinitions/write",
+  "OperationName": "SignalDefinitions_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/signaldefinitions",
+  "Description": "Create a SignalDefinition",
+  "IsDataAction": false
+}

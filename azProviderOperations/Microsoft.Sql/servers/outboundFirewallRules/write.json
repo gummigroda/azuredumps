@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/outboundFirewallRules/write",
+  "OperationName": "Create outbound firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB Outbound Firewall Rule",
+  "Description": "Create outbound firewall rule",
+  "IsDataAction": false
+}

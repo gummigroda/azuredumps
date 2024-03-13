@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/debugInfo/action",
+  "OperationName": "Create debugInfo for a cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Creates support information (GSI) or debug information for a cache.",
+  "IsDataAction": false
+}

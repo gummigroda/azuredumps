@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctions/executeRequest/action",
+  "OperationName": "NetworkFunctions_ExecuteRequest",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctions",
+  "Description": "Execute a request to services on a containerized network function.",
+  "IsDataAction": false
+}

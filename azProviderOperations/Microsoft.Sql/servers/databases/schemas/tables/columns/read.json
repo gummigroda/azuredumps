@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/columns/read",
+  "OperationName": "Get a database column.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Column",
+  "Description": "Get a database column.",
+  "IsDataAction": false
+}

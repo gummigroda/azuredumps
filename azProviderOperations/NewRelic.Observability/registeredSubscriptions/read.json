@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/registeredSubscriptions/read",
+  "OperationName": "Get registered subscriptions",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Get registered subscription details",
+  "IsDataAction": false
+}

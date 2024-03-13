@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/dataControllers/write",
+  "OperationName": "DataControllers_PatchDataController",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "dataControllers",
+  "Description": "Updates a dataController resource",
+  "IsDataAction": false
+}

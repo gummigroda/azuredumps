@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/delete",
+  "OperationName": "Deletes service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Deletes a service instance in the tenant.",
+  "IsDataAction": false
+}

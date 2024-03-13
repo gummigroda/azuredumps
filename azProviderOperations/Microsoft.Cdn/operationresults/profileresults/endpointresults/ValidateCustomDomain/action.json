@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/endpointresults/ValidateCustomDomain/action",
+  "OperationName": "ValidateCustomDomain",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Endpoint",
+  "Description": null,
+  "IsDataAction": false
+}

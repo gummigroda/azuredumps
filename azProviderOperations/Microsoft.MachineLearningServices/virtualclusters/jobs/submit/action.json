@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/virtualclusters/jobs/submit/action",
+  "OperationName": "Submit job to a Machine Learning Services Virtual Cluster",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Virtual Cluster",
+  "Description": "Submit job to a Machine Learning Services Virtual Cluster",
+  "IsDataAction": false
+}

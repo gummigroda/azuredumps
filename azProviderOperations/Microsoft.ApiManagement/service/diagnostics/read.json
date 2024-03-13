@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/diagnostics/read",
+  "OperationName": "Get diagnostics list or Get diagnostic details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Diagnostics",
+  "Description": "Lists all diagnostics of the API Management service instance. or Gets the details of the Diagnostic specified by its identifier.",
+  "IsDataAction": false
+}

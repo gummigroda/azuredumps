@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/workloads/stop/action",
+  "OperationName": "workloads_Stop",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/workloads",
+  "Description": "stop workloads",
+  "IsDataAction": false
+}

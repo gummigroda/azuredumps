@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/delete",
+  "OperationName": "SAPDiscoverySites_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites",
+  "Description": "Deletes a SAP Migration discovery site resource and its child resources, that is the associated SAP Instances and Server Instances.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/getObjectMetadata/action",
+  "OperationName": "Get Object metadata on an Intergration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Get Object metadata on any Intergration Runtime",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/write",
+  "OperationName": "Create or Update Azure SQL Managed instance",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Creates a managed instance with the specified parameters or update the properties or tags for the specified managed instance.",
+  "IsDataAction": false
+}

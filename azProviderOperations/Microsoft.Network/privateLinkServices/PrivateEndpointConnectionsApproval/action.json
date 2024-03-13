@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve or reject PrivateEndpoint connection on PrivateLinkService",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service",
+  "Description": "Approve or reject PrivateEndpoint connection on PrivateLinkService",
+  "IsDataAction": false
+}

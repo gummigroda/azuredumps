@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/azureADMetrics/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "azureADMetrics",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/listHosts/action",
+  "OperationName": "List VM Hosts",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all VMs that are sending compute logs for a monitor",
+  "IsDataAction": false
+}

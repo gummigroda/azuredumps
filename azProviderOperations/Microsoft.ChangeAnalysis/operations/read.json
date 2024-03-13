@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/operations/read",
+  "OperationName": "List/Get Change Analysis operations",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "Change Analysis operations",
+  "Description": "Return the list of Change Analysis operations",
+  "IsDataAction": false
+}

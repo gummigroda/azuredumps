@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/tenantassigneddeployment/read",
+  "OperationName": "Gets tenant storage mapping.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Given a tenant id gets the tenant storage location.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/write",
+  "OperationName": "UpdateProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Update a specific project.",
+  "IsDataAction": true
+}

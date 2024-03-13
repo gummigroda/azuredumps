@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/assetEndpointProfiles/read",
+  "OperationName": "AssetEndpointProfiles_Get",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "assetEndpointProfiles",
+  "Description": "Retrieve a single Asset Endpoint Profile.",
+  "IsDataAction": false
+}

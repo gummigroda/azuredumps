@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/images/delete",
+  "OperationName": "Images_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/images",
+  "Description": "Delete a Image",
+  "IsDataAction": false
+}

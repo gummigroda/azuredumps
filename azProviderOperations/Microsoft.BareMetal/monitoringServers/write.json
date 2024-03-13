@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/monitoringServers/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Monitoring Server",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

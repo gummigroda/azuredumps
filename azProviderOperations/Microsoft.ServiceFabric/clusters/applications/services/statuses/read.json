@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/clusters/applications/services/statuses/read",
+  "OperationName": "Read Service Status",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Service Statuses",
+  "Description": "Read any Service Status",
+  "IsDataAction": false
+}

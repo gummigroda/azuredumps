@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/write",
+  "OperationName": "Firmware_Update",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to update firmware.",
+  "IsDataAction": false
+}

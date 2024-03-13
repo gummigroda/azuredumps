@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/connectorProps/write",
+  "OperationName": "Write the service connector of an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application service connector of Microsoft Azure Spring Apps",
+  "Description": "Create or update the service connector for a specific application",
+  "IsDataAction": false
+}

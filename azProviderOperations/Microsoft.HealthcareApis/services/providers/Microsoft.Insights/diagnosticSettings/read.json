@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Azure API for FHIR diagnostic settings",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure API for FHIR diagnostic settings",
+  "Description": "Gets the diagnostic settings for Azure API for FHIR",
+  "IsDataAction": false
+}

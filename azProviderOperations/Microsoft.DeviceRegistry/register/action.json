@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/register/action",
+  "OperationName": "Register the Microsoft.DeviceRegistry",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.DeviceRegistry",
+  "IsDataAction": false
+}

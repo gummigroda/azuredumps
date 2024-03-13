@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/operations/read",
+  "OperationName": "List Managed Identity operations",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "Managed Identity operations",
+  "Description": "Lists operations available on Microsoft.ManagedIdentity resource provider",
+  "IsDataAction": false
+}

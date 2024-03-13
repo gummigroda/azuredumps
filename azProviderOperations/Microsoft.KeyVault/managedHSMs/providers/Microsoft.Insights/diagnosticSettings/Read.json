@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/providers/Microsoft.Insights/diagnosticSettings/Read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM Diagnostic Settings",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

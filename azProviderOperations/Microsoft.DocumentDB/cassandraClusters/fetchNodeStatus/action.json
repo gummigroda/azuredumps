@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/cassandraClusters/fetchNodeStatus/action",
+  "OperationName": "Microsoft.DocumentDB/cassandraClusters/fetchNodeStatus/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Managed Cassandra cluster",
+  "Description": "Asynchronously fetch node status of all nodes in a managed Cassandra cluster",
+  "IsDataAction": false
+}

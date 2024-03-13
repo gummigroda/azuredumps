@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/harvestData/delete",
+  "OperationName": "Delete AgFoodPlatform harvest operations data resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform harvest operations data",
+  "Description": "Deletes an existing AgFoodPlatform harvest operations data resource.",
+  "IsDataAction": true
+}

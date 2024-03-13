@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/testResults/getVideoDownloadUrl/action",
+  "OperationName": "TestResults_GetVideoDownloadURL",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages/testResults",
+  "Description": "Gets the download URL of the test execution screen recording.",
+  "IsDataAction": false
+}

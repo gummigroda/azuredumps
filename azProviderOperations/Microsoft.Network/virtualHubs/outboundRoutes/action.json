@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/outboundRoutes/action",
+  "OperationName": "Get Routes advertised by a connection ",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Hub resource",
+  "Description": "Get Routes advertised by a virtual wan connection",
+  "IsDataAction": false
+}

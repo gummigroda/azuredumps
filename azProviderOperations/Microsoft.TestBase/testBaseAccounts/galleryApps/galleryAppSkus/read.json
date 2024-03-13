@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/galleryApps/galleryAppSkus/read",
+  "OperationName": "GalleryAppSkus_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/galleryApps/galleryAppSkus",
+  "Description": "Gets a gallery application SKU to prepare a test run for a Test Base Account.",
+  "IsDataAction": false
+}

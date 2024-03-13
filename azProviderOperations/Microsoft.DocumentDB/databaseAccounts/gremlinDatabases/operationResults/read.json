@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/operationResults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Database",
+  "Description": "Read status of the asynchronous operation.",
+  "IsDataAction": false
+}

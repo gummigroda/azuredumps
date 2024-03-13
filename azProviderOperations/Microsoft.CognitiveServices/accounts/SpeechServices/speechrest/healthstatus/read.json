@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/healthstatus/read",
+  "OperationName": "Get health status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Health Status",
+  "Description": "Get health status",
+  "IsDataAction": true
+}

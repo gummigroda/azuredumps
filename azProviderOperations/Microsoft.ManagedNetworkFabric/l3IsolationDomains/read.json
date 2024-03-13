@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/read",
+  "OperationName": "L3IsolationDomains_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Displays L3IsolationDomains list by subscription GET method.",
+  "IsDataAction": false
+}

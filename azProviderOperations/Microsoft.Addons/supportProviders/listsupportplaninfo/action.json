@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/supportProviders/listsupportplaninfo/action",
+  "OperationName": "List support plan information.",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "listSupportPlanInfo",
+  "Description": "Lists current support plan information for the specified subscription.",
+  "IsDataAction": false
+}

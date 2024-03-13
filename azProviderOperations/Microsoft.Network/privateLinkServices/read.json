@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/read",
+  "OperationName": "Get an private link service resource.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service",
+  "Description": "Gets an private link service resource.",
+  "IsDataAction": false
+}

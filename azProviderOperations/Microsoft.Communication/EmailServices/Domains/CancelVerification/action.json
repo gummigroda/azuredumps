@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/CancelVerification/action",
+  "OperationName": "Domain_CancelVerification",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Cancel verification of Dns record.",
+  "IsDataAction": false
+}

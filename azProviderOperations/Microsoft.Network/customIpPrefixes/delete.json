@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/customIpPrefixes/delete",
+  "OperationName": "Delete Custom Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Custom Ip Prefix",
+  "Description": "Deletes A Custom Ip Prefix",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/unregister/action",
+  "OperationName": "Unregister the Microsoft.CleanRoom",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.CleanRoom",
+  "IsDataAction": false
+}

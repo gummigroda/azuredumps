@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/register/action",
+  "OperationName": "Registers Microsoft.Elastic Resource provider",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "",
+  "Description": "Registers Microsoft.Elastic Resource provider",
+  "IsDataAction": false
+}

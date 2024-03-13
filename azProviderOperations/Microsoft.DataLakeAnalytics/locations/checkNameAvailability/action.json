@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/locations/checkNameAvailability/action",
+  "OperationName": "Check DataLakeAnalytics Account Name Availability",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Name Availability",
+  "Description": "Check availability of a DataLakeAnalytics account name.",
+  "IsDataAction": false
+}

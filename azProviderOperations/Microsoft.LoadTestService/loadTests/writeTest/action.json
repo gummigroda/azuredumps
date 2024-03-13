@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadtests/writeTest/action",
+  "OperationName": "Create/Update Load Tests",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadtests",
+  "Description": "Create or Update Load Tests",
+  "IsDataAction": true
+}

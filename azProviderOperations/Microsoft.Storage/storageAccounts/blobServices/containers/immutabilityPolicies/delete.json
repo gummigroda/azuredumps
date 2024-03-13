@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/delete",
+  "OperationName": "Delete blob container immutability policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers ImmutabilityPolicy",
+  "Description": "Delete blob container immutability policy",
+  "IsDataAction": false
+}

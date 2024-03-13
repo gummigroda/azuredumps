@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/localRules/delete",
+  "OperationName": "LocalRules_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/localRules",
+  "Description": "Delete a LocalRulesResource",
+  "IsDataAction": false
+}

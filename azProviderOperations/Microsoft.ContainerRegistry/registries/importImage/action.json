@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/importImage/action",
+  "OperationName": "Import Image",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Import Image to container registry with the specified parameters.",
+  "IsDataAction": false
+}

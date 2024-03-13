@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/Start/action",
+  "OperationName": "Starts a template.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Starts a template by starting all resources inside the template.",
+  "IsDataAction": false
+}

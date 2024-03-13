@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/networkSecurityPerimeterConfigurationsReconcileAzureAsyncOperation/read",
+  "OperationName": "Sync sql server network security perimeter effective configuration with Network Provider",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Reconcile Network Security Perimeter Azure Async Operation",
+  "Description": "Sync sql server network security perimeter effective configuration with Network Provider",
+  "IsDataAction": false
+}

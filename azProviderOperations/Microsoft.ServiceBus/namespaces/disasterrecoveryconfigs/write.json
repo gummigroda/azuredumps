@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/disasterRecoveryConfigs/write",
+  "OperationName": "Create or Update Disaster Recovery configuration.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Creates or Updates the Disaster Recovery configuration associated with the namespace.",
+  "IsDataAction": false
+}

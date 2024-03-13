@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/synonymMaps/read",
+  "OperationName": "Read Synonym Map",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Synonym Maps",
+  "Description": "Return a synonym map or a list of synonym maps.",
+  "IsDataAction": false
+}

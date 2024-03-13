@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/refreshHubSchemaOperationResults/read",
+  "OperationName": "Get sync hub schema refresh operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Retrieve result of the sync hub schema refresh operation",
+  "IsDataAction": false
+}

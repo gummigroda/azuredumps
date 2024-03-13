@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitaltwins/relationships/write",
+  "OperationName": "Create Digital Twin Relationship",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Digital Twin Relationship",
+  "Description": "Create or Update any Digital Twin Relationship",
+  "IsDataAction": true
+}

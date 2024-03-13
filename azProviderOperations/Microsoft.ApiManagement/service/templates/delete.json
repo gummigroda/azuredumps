@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/templates/delete",
+  "OperationName": "Reset default email template",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of all email templates",
+  "Description": "Reset default API Management email template",
+  "IsDataAction": false
+}

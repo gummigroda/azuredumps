@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions/use/action",
+  "OperationName": "NetworkFunctionDefinitionVersions_use",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions",
+  "Description": "Use network function definition version in network function deployment.",
+  "IsDataAction": false
+}

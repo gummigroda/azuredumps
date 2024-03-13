@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/read",
+  "OperationName": "Get/List Accounts",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Returns the list of Device Update Accounts",
+  "IsDataAction": false
+}

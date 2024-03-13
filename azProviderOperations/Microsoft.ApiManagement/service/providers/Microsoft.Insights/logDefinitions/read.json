@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read API Management service log definitions",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "The log definition of API Management service",
+  "Description": "Gets the available logs for API Management service",
+  "IsDataAction": false
+}

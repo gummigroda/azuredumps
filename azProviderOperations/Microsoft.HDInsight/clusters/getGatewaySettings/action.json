@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/getGatewaySettings/action",
+  "OperationName": "Get gateway settings",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get gateway settings for HDInsight Cluster",
+  "IsDataAction": false
+}

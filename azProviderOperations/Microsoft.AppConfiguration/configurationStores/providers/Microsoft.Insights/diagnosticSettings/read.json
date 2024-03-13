@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Configuration Store Diagnostic Settings",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Read all Diagnostic Settings values for a Configuration Store.",
+  "IsDataAction": false
+}

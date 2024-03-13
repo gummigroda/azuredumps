@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpellCheck/spellcheck/action",
+  "OperationName": "Spell Check",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Spell Check - v7",
+  "Description": "Get result of a spell check query through GET or POST.",
+  "IsDataAction": true
+}

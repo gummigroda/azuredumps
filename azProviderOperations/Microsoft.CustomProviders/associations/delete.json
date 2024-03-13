@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/associations/delete",
+  "OperationName": "Delete association",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Associations",
+  "Description": "Deletes the association resource",
+  "IsDataAction": false
+}

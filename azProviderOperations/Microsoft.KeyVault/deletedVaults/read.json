@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/deletedVaults/read",
+  "OperationName": "View Soft Deleted Vaults",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Soft Deleted Key Vault",
+  "Description": "View the properties of soft deleted key vaults",
+  "IsDataAction": false
+}

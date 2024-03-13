@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/detect/iterations/url/action",
+  "OperationName": "DetectImageUrl",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Detect objects in an image url and saves the result.",
+  "IsDataAction": true
+}

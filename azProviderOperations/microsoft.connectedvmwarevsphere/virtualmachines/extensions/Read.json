@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions/Read",
+  "OperationName": "Gets extensions resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/extensions",
+  "Description": "Gets extension resource",
+  "IsDataAction": false
+}

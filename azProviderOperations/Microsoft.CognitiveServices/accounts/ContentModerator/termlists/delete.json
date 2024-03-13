@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/delete",
+  "OperationName": "Term Lists - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "termlists*",
+  "Description": "Term Lists - Delete",
+  "IsDataAction": true
+}

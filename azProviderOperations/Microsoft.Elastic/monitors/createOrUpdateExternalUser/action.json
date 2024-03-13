@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/createOrUpdateExternalUser/action",
+  "OperationName": "Create or Update User in Elastic Deployment",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Create or Update User inside Elastic monitor resource",
+  "IsDataAction": false
+}

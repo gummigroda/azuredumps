@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/unregister/action",
+  "OperationName": "Unregister the Oracle.Database",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Oracle.Database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EnterpriseSupport/enterpriseSupports/Write",
+  "OperationName": "Creates/Updates the Enterprise Support resources",
+  "ProviderNamespace": "Microsoft EnterpriseSupport",
+  "ResourceName": "enterpriseSupports",
+  "Description": "Writes Enterprise Support resources",
+  "IsDataAction": false
+}

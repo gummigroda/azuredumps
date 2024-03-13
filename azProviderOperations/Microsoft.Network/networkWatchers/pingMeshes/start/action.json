@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/pingMeshes/start/action",
+  "OperationName": "Start PingMesh",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh",
+  "Description": "Start PingMesh between specified VMs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/groupLinks/write",
+  "OperationName": "Create product-group link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-Group links resource",
+  "Description": "Creates or Updates a product-group link.",
+  "IsDataAction": false
+}

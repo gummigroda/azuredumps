@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/DevCenterJoin/action",
+  "OperationName": "Attach_NetworkConnection",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections",
+  "Description": "Allow a DevCenter to attach this NetworkConnection.",
+  "IsDataAction": false
+}

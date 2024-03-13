@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/vcenters/delete",
+  "OperationName": "Delete previously added Vcenter",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "vCenters",
+  "Description": "Delete previously added Vcenter",
+  "IsDataAction": false
+}

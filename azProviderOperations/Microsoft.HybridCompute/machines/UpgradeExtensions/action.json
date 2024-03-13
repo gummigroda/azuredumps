@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/UpgradeExtensions/action",
+  "OperationName": "Upgrade Extensions on Azure Arc machines",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Upgrades Extensions on Azure Arc machines",
+  "IsDataAction": false
+}

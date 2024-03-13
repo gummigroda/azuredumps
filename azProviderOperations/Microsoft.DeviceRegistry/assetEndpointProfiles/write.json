@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/assetEndpointProfiles/write",
+  "OperationName": "AssetEndpointProfiles_Update",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "assetEndpointProfiles",
+  "Description": "Update specific Asset Endpoint Profile properties.",
+  "IsDataAction": false
+}

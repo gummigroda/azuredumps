@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/jobAgentAzureAsyncOperation/read",
+  "OperationName": "Get job agent operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job agent",
+  "Description": "Gets the status of an job agent operation.",
+  "IsDataAction": false
+}

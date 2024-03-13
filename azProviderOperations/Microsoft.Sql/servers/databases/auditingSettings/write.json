@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/auditingSettings/write",
+  "OperationName": "Set database blob auditing policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Blob Auditing Policy",
+  "Description": "Change the blob auditing policy for a given database",
+  "IsDataAction": false
+}

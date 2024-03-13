@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/start/action",
+  "OperationName": "Start MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Starts a specific server.",
+  "IsDataAction": false
+}

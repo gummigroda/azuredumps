@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/userAction/action",
+  "OperationName": "Projects_Environments_UserAction",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows a user to perform an action on the environments they have access to in a project.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/providerShareSubscriptions/revoke/action",
+  "OperationName": "Revoke Data Share Share Subscriptions",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Provider Share Subscriptions",
+  "Description": "Revokes a Data Share Subscription.",
+  "IsDataAction": false
+}

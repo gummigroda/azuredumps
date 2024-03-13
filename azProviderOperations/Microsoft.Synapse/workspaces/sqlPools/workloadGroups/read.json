@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/read",
+  "OperationName": "Lists the workload groups for a selected SQL pool.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload group.",
+  "Description": "Lists the workload groups for a selected SQL pool.",
+  "IsDataAction": false
+}

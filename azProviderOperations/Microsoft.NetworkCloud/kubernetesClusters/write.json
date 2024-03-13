@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/write",
+  "OperationName": "KubernetesClusters_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters",
+  "Description": "Patch the properties of the provided Kubernetes cluster, or update the tags associated with the Kubernetes cluster. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

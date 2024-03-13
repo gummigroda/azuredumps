@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/read",
+  "OperationName": "Read table(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table",
+  "Description": "Read a table or list all the tables.",
+  "IsDataAction": false
+}

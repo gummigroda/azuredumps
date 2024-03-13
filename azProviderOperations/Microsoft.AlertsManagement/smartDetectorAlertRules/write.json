@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartDetectorAlertRules/write",
+  "OperationName": "Create Smart Detector alert rule",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartDetectorAlertRules",
+  "Description": "Create or update Smart Detector alert rule in a given subscription",
+  "IsDataAction": false
+}

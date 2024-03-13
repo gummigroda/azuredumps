@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/move/action",
+  "OperationName": "Rename Azure SQL Database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Change the name of an existing database.",
+  "IsDataAction": false
+}

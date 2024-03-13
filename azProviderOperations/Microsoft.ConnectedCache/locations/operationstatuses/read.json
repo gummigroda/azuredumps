@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/locations/operationstatuses/read",
+  "OperationName": "read_operationstatuses",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "read operationstatuses",
+  "IsDataAction": false
+}

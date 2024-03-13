@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/hybridconnectionnamespaces/relays/sites/read",
+  "OperationName": "Get App Service Plans Hybrid Connection Namespaces Relays Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Hybrid Connection Namespaces Relays Web Apps",
+  "Description": "Get App Service Plans Hybrid Connection Namespaces Relays Web Apps.",
+  "IsDataAction": false
+}

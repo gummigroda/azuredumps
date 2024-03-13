@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action",
+  "OperationName": "Fetch cross region restore jobs.",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "List cross region restore jobs of backup instance from secondary region.",
+  "IsDataAction": false
+}

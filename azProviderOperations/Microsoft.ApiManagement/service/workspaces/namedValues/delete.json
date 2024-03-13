@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/namedValues/delete",
+  "OperationName": "Remove named value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace NamedValues",
+  "Description": "Deletes specific named value from the API Management service instance.",
+  "IsDataAction": false
+}

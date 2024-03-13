@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/write",
+  "OperationName": "Write Cassandra view",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra View",
+  "Description": "Create or update a Cassandra view.",
+  "IsDataAction": false
+}

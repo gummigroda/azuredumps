@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/diagnosticOperations/read",
+  "OperationName": "Gets Compute DiagnsoticOperation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiagnosticOperations",
+  "Description": "Gets status of a Compute Diagnostic operation",
+  "IsDataAction": false
+}

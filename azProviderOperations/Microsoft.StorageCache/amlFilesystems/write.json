@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/amlFilesystems/write",
+  "OperationName": "Create or update an amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystem",
+  "Description": "Creates a new amlfilesystem, or updates an existing one",
+  "IsDataAction": false
+}

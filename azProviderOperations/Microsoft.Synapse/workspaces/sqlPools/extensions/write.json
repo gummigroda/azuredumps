@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/extensions/write",
+  "OperationName": "Change the extension for a given SQL Analytics Pool",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool extensions",
+  "Description": "Change the extension for a given SQL Analytics Pool",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/automationRules/read",
+  "OperationName": "Get Automation Rules",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "AutomationRules",
+  "Description": "Gets an automation rule",
+  "IsDataAction": false
+}

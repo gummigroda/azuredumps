@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoimaintenances/write",
+  "OperationName": "GNOIMaintenances_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoimaintenances",
+  "Description": "Create a GNOIMaintenance resource.",
+  "IsDataAction": false
+}

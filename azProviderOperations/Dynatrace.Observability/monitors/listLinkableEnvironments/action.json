@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/listLinkableEnvironments/action",
+  "OperationName": "Lists Linkable Environment",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Lists all the linkable environment for a particular region",
+  "IsDataAction": false
+}

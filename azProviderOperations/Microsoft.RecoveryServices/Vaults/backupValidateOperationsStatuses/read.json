@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupValidateOperationsStatuses/read",
+  "OperationName": "Validate Operation on Protected Item",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Validate Operation Status",
+  "Description": "Validate Operation on Protected Item",
+  "IsDataAction": false
+}

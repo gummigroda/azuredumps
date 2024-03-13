@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/failover/action",
+  "OperationName": "Failover MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Failovers a specific server.",
+  "IsDataAction": false
+}

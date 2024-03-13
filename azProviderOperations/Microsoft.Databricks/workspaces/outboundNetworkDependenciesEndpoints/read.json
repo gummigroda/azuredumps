@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "List Outbound Network Dependencies",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Outbound Network Dependency endpoints",
+  "Description": "Gets a list of egress endpoints (network endpoints of all outbound dependencies) for an Azure Databricks Workspace. The operation returns properties of each egress endpoint",
+  "IsDataAction": false
+}

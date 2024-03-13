@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/consents/read",
+  "OperationName": "Read Consent Resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Consent",
+  "Description": "Read Consent Resource.",
+  "IsDataAction": false
+}

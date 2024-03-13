@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/Start/action",
+  "OperationName": "Start",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Endpoint",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/log/read",
+  "OperationName": "Gets/List log resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/log",
+  "Description": "Reads log",
+  "IsDataAction": true
+}

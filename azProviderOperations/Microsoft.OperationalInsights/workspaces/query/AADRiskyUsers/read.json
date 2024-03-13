@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADRiskyUsers/read",
+  "OperationName": "Read AADRiskyUsers data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADRiskyUsers",
+  "Description": "Read data from the AADRiskyUsers table",
+  "IsDataAction": false
+}

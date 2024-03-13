@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EnterpriseSupport/Operations/read",
+  "OperationName": "Read resource provider operations",
+  "ProviderNamespace": "Microsoft EnterpriseSupport",
+  "ResourceName": "Operations",
+  "Description": "Read the operations for all resource types.",
+  "IsDataAction": false
+}

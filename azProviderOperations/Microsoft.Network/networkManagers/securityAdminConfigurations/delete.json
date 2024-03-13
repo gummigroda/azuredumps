@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/delete",
+  "OperationName": "Delete Security Admin Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Configuration",
+  "Description": "Delete Security Admin Configuration",
+  "IsDataAction": false
+}

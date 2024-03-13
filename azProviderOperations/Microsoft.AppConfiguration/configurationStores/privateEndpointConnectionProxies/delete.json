@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Delete a private endpoint connection proxy under the specified configuration store.",
+  "IsDataAction": false
+}

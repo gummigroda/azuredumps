@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/serviceaccounts/delete",
+  "OperationName": "Deletes/DeletesCollection serviceaccounts resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "serviceaccounts",
+  "Description": "Deletes serviceaccounts",
+  "IsDataAction": true
+}

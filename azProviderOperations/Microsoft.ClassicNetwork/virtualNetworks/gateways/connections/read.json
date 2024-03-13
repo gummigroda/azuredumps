@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/connections/read",
+  "OperationName": "Get Conection List",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Gateway Connection",
+  "Description": "Retrieves the list of connections.",
+  "IsDataAction": false
+}

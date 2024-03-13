@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/revert/action",
+  "OperationName": "Revert volume resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Revert volume to specific snapshot",
+  "IsDataAction": false
+}

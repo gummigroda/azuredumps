@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/arczones/deploy/action",
+  "OperationName": "Deploy on arczone.",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "arczones",
+  "Description": "Deploy on arczone.",
+  "IsDataAction": false
+}

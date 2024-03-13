@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/EGNFailedMqttConnections/read",
+  "OperationName": "Read EGNFailedMqttConnections data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "EGNFailedMqttConnections",
+  "Description": "Read data from the EGNFailedMqttConnections table",
+  "IsDataAction": false
+}

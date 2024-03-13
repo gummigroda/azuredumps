@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualwans/vpnconfiguration/action",
+  "OperationName": "Gets a Vpn Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Gets a Vpn Configuration",
+  "IsDataAction": false
+}

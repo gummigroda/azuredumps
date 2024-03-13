@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/delete",
+  "OperationName": "Products_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products",
+  "Description": "Delete a Product. '.default' and '.unassigned' are system defined values and cannot be used for product name'",
+  "IsDataAction": false
+}

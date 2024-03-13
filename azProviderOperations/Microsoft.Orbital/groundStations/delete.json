@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/groundStations/delete",
+  "OperationName": "Delete Ground Station",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Ground Stations",
+  "Description": "Delete any Ground Station",
+  "IsDataAction": false
+}

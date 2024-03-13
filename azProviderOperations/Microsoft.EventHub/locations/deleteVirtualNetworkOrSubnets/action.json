@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Deletes the VNet rules in EventHub Resource Provider for the specified VNet",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub Resource Provider",
+  "Description": "Deletes the VNet rules in EventHub Resource Provider for the specified VNet",
+  "IsDataAction": false
+}

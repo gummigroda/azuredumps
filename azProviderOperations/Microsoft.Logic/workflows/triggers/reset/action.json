@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/reset/action",
+  "OperationName": "Trigger Reset",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger",
+  "Description": "Resets the trigger.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/topicSpaces/write",
+  "OperationName": "Write Topic Space",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topicSpaces",
+  "Description": "Create or update a Topic Space",
+  "IsDataAction": false
+}

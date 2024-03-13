@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oracleAssessments/delete",
+  "OperationName": "Delete oracle Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Assessments",
+  "Description": "Deletes the oracle Assessment which are available in the given location",
+  "IsDataAction": false
+}

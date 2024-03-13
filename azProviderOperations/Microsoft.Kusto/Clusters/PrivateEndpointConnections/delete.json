@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrivateEndpointConnections/delete",
+  "OperationName": "Delete private endpoint connection",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Private endpoint connections resource type",
+  "Description": "Deletes a private endpoint connection",
+  "IsDataAction": false
+}

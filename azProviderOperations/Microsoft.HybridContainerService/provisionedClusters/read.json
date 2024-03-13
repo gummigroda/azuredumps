@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/read",
+  "OperationName": "ProvisionedClusters_ListBySubscription",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters",
+  "Description": "Gets the Hybrid AKS provisioned cluster in a subscription",
+  "IsDataAction": false
+}

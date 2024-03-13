@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/operationResults/read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Gets operation result of Private Link Service Resources for Power BI.",
+  "IsDataAction": false
+}

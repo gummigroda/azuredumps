@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/customRecommendations/read",
+  "OperationName": "Get custom recommendations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security custom recommendations",
+  "Description": "Get the custom recommendations",
+  "IsDataAction": false
+}

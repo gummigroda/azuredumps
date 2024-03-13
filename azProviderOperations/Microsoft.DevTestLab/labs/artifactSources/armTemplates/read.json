@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/artifactSources/armTemplates/read",
+  "OperationName": "Read azure resource manager templates.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Azure Resource Manager templates",
+  "Description": "Read azure resource manager templates.",
+  "IsDataAction": false
+}

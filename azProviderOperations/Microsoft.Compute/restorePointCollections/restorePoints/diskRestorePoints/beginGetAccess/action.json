@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/beginGetAccess/action",
+  "OperationName": "Get incremental DiskRestorePoint SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskRestorePoint",
+  "Description": "Get the SAS URI of the incremental DiskRestorePoint",
+  "IsDataAction": false
+}

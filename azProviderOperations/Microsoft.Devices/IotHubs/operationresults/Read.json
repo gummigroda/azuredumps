@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/operationresults/Read",
+  "OperationName": "Get Operation Result (Obsolete API)",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get Operation Result (Obsolete API)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/image:analyze/action",
+  "OperationName": "Analyze Image",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Safety",
+  "Description": "A sync API for harmful content analysis for image.",
+  "IsDataAction": true
+}

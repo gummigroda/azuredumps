@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/datastores/delete",
+  "OperationName": "Delete datastore in private cloud cluster",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters/datastores",
+  "Description": "Delete datastore in private cloud cluster.",
+  "IsDataAction": false
+}

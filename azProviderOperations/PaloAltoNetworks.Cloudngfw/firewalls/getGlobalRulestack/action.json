@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/firewalls/getGlobalRulestack/action",
+  "OperationName": "Firewalls_getGlobalRulestack",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "firewalls",
+  "Description": "Get Global Rulestack associated with the Firewall",
+  "IsDataAction": false
+}

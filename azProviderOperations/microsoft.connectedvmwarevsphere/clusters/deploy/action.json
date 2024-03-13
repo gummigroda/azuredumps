@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/clusters/deploy/action",
+  "OperationName": "Deploys on cluster",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "clusters",
+  "Description": "Deploys on cluster",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/shares/read",
+  "OperationName": "Get Share",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Share",
+  "Description": "Get information about a share.",
+  "IsDataAction": false
+}

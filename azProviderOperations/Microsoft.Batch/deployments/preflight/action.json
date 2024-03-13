@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/deployments/preflight/action",
+  "OperationName": "Check Preflight",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Preflight",
+  "Description": "Runs Preflight validation for resources included in the request",
+  "IsDataAction": false
+}

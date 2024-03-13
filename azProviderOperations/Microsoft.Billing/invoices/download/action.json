@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/invoices/download/action",
+  "OperationName": "Download Invoice",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Invoices",
+  "Description": "Download invoice using download link from list",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/unregister/action",
+  "OperationName": "Unregisters the Resource Provider",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the resource provider.",
+  "IsDataAction": false
+}

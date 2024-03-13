@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nssfDeployments/write",
+  "OperationName": "NssfDeployments_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nssfDeployments",
+  "Description": "Update a NssfDeploymentResource",
+  "IsDataAction": false
+}

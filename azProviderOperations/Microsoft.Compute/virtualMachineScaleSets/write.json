@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/write",
+  "OperationName": "Create or Update Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Creates a new Virtual Machine Scale Set or updates an existing one",
+  "IsDataAction": false
+}

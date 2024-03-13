@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/postgresInstances/write",
+  "OperationName": "PostgresInstances_Update",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "postgresInstances",
+  "Description": "Updates a postgres Instance resource",
+  "IsDataAction": false
+}

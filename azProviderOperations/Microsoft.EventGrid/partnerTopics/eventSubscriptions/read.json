@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerTopics/eventSubscriptions/read",
+  "OperationName": "Read PartnerTopic EventSubscription",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Read a partner topic event subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartGroups/changestate/action",
+  "OperationName": "Read smart groups",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartGroups",
+  "Description": "Change the state of the smart group",
+  "IsDataAction": false
+}

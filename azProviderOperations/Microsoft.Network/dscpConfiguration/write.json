@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dscpConfiguration/write",
+  "OperationName": "Creates or update DSCP Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Puts the DSCP Configuration resource",
+  "Description": "Operation to put the DSCP configuration",
+  "IsDataAction": false
+}

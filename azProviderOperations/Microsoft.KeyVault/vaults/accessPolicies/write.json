@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/accessPolicies/write",
+  "OperationName": "Update Access Policy",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Access Policy",
+  "Description": "Updates an existing access policy by merging or replacing, or adds a new access policy to the key vault.",
+  "IsDataAction": false
+}

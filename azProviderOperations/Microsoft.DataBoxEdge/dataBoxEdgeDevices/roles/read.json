@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/read",
+  "OperationName": "List roles",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "roles",
+  "Description": "Lists or gets the roles",
+  "IsDataAction": false
+}

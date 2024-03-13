@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/operationResults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Client Encryption Key",
+  "Description": "Read status of the asynchronous operation.",
+  "IsDataAction": false
+}

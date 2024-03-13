@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/relations/read",
+  "OperationName": "Get Incident Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Relations",
+  "Description": "Gets a relation between the incident and related resources",
+  "IsDataAction": false
+}

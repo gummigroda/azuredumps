@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/acssBackups/read",
+  "OperationName": "ACSSBackupConnections_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/acssBackups",
+  "Description": "Lists the backup connection resources of virtual instance for SAP under the given connector resource.",
+  "IsDataAction": false
+}

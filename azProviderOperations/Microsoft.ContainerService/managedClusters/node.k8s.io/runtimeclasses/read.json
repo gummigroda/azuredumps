@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/node.k8s.io/runtimeclasses/read",
+  "OperationName": "Gets/List runtimeclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Runtimeclasses",
+  "Description": "Reads runtimeclasses",
+  "IsDataAction": true
+}

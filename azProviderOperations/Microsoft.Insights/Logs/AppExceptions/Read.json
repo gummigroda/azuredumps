@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppExceptions/Read",
+  "OperationName": "Read AppExceptions data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppExceptions",
+  "Description": "Read data from the AppExceptions table",
+  "IsDataAction": false
+}

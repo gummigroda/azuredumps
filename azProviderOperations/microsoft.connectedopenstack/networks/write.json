@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networks/write",
+  "OperationName": "Networks_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networks",
+  "Description": "API to update certain properties of the Network resource.",
+  "IsDataAction": false
+}

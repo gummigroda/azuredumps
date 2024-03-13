@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/topics/eventSubscriptions/getDeliveryAttributes/action",
+  "OperationName": "Get DomainTopic EventSubscription Delivery Attributes",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Get DomainTopic EventSubscription Delivery Attributes",
+  "IsDataAction": false
+}

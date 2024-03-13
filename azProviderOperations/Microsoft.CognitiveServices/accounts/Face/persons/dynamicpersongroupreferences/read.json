@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/dynamicpersongroupreferences/read",
+  "OperationName": "PersonDirectory Person - List DynamicPersonGroup References",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dynamicpersongroupreferences*",
+  "Description": "List all dynamic person groups a person has been referenced by in person directory.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/exclusionTemplates/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ExclusionTemplates",
+  "Description": "Returns an Exclusion Template",
+  "IsDataAction": false
+}

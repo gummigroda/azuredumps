@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/validate/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection Proxy",
+  "Description": "Validate a private endpoint connection proxy of Database Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/checkNameAvailability/action",
+  "OperationName": "Check Server Name Availability",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "",
+  "Description": "Verify whether given server name is available for provisioning worldwide for a given subscription.",
+  "IsDataAction": false
+}

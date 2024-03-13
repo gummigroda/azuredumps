@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/sensitivitySettings/write",
+  "OperationName": "Update sensitivity settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Sensitivity Settings",
+  "Description": "Updates tenant level sensitivity settings",
+  "IsDataAction": false
+}

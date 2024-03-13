@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/tags/read",
+  "OperationName": "GetTag|GetTags*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tags*",
+  "Description": "Get information about a specific tag.\r\nGet the tags for a given project and iteration.*",
+  "IsDataAction": true
+}

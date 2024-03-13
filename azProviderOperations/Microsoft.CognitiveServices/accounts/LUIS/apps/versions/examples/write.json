@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/examples/write",
+  "OperationName": "Add a batch of labeled example utterances",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Examples",
+  "Description": "Adds a batch of non-duplicate labeled examples to the specified application. Batch can't include hierarchical child entities.",
+  "IsDataAction": true
+}

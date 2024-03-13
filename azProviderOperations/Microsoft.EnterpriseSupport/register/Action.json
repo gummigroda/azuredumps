@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EnterpriseSupport/register/Action",
+  "OperationName": "Registers the Enterprise Support Resource Provider",
+  "ProviderNamespace": "Microsoft EnterpriseSupport",
+  "ResourceName": "",
+  "Description": "Register the Enterprise Support resource provider and enable creation of resources",
+  "IsDataAction": true
+}

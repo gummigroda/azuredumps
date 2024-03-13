@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/tagRules/read",
+  "OperationName": "Get tag rules resource",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "TagRules",
+  "Description": "Read tag rules",
+  "IsDataAction": false
+}

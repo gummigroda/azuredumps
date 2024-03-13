@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/projects/read",
+  "OperationName": "Gets one or more projects.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Projects",
+  "Description": "Gets one or more projects.",
+  "IsDataAction": true
+}

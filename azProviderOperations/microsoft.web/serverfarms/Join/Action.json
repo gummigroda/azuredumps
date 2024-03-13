@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/serverfarms/Join/Action",
+  "OperationName": "Join App Service Plan",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plan",
+  "Description": "Joins an App Service Plan",
+  "IsDataAction": false
+}

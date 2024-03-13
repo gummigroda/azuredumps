@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SqlDataClassification/Read",
+  "OperationName": "Read SqlDataClassification data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SqlDataClassification",
+  "Description": "Read data from the SqlDataClassification table",
+  "IsDataAction": false
+}

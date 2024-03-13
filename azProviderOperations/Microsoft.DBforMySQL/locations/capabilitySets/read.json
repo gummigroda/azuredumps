@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/capabilitySets/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

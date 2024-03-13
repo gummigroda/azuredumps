@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/images/read",
+  "OperationName": "RegistrationHubImages_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/images",
+  "Description": "Get properties of the provided registration hub image.",
+  "IsDataAction": false
+}

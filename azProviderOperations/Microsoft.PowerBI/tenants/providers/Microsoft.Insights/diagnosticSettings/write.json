@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Diagnostic Settings",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Tenants",
+  "Description": "Writes Diagnostic Settings for the specified Azure Tenant.",
+  "IsDataAction": false
+}

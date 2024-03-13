@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/customApis/Delete",
+  "OperationName": "Delete Custom API",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Custom Apis",
+  "Description": "Deletes a Custom API.",
+  "IsDataAction": false
+}

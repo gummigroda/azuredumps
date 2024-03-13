@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/register/action",
+  "OperationName": "Register the cache resource provider",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the storage cache resource provider and enables creation of Azure HPC Cache resources",
+  "IsDataAction": false
+}

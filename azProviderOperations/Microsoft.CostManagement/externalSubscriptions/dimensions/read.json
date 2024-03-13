@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalSubscriptions/dimensions/read",
+  "OperationName": "List supported dimensions",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "externalSubscriptions/Dimensions",
+  "Description": "List all supported dimensions for external subscription.",
+  "IsDataAction": false
+}

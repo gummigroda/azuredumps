@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/register/action",
+  "OperationName": "Registers the subscription",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "",
+  "Description": "Registers the subscription with the Azure Database Migration Service provider",
+  "IsDataAction": false
+}

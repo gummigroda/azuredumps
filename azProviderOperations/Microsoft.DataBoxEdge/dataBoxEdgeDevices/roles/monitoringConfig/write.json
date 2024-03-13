@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/monitoringConfig/write",
+  "OperationName": "Creates or updates monitoring configuration",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "monitoring configuration",
+  "Description": "Creates or updates the monitoring configuration",
+  "IsDataAction": false
+}

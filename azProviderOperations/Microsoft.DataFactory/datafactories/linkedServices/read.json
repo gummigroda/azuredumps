@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/linkedServices/read",
+  "OperationName": "Read Linked Service",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Linked Service",
+  "Description": "Reads any Linked Service.",
+  "IsDataAction": false
+}

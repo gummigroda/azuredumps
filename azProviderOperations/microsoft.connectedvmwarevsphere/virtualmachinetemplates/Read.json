@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/Read",
+  "OperationName": "Gets/List virtualmachinetemplates resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Read virtualmachinetemplates",
+  "IsDataAction": false
+}

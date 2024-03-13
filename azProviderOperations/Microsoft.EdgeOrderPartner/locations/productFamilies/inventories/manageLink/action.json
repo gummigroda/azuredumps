@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrderPartner/locations/productFamilies/inventories/manageLink/action",
+  "OperationName": null,
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "ArmApiRes_inventories",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/validationJobs/write",
+  "OperationName": "Create or Update Certify validationJob.",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "validationJobs",
+  "Description": "Creates or Updates Certify validationJob.",
+  "IsDataAction": false
+}

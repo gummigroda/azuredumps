@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/persons/delete",
+  "OperationName": "LargePersonGroup Person - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persons*",
+  "Description": "Delete an existing person from a large person group. The persistedFaceId, userData, person name and face feature(s) in the person entry will all be deleted.",
+  "IsDataAction": true
+}

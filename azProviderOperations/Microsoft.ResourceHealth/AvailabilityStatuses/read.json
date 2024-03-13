@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/AvailabilityStatuses/read",
+  "OperationName": "Get Availability Statuses",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Availability Status",
+  "Description": "Gets the availability statuses for all resources in the specified scope",
+  "IsDataAction": false
+}

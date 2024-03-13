@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise private endpoint connection proxies",
+  "Description": "Validate the private endpoint connection proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/locations/operationsstatus/read",
+  "OperationName": "Get Machine Learning Operation Status",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Operations Status",
+  "Description": "Get status of an ongoing Machine Learning Operation",
+  "IsDataAction": false
+}

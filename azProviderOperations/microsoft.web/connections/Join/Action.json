@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connections/Join/Action",
+  "OperationName": "Join Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Joins a Connection.",
+  "IsDataAction": false
+}

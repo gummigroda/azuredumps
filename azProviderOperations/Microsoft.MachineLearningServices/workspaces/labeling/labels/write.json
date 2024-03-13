@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/labels/write",
+  "OperationName": "Creates labels of labeling projects in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling Labels",
+  "Description": "Creates labels of labeling projects in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitaltwins/relationships/delete",
+  "OperationName": "Delete Digital Twin Relationship",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Digital Twin Relationship",
+  "Description": "Delete any Digital Twin Relationship",
+  "IsDataAction": true
+}

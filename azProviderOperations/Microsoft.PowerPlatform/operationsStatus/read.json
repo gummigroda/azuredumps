@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/operationsStatus/read",
+  "OperationName": "Get Operation Status",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Operation Status",
+  "Description": "Gets the status of the asynchronous operation",
+  "IsDataAction": false
+}

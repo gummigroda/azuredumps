@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EntitlementManagement/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.EntitlementManagement",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

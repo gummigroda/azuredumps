@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/features/read",
+  "OperationName": "Features - Get version features",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Features",
+  "Description": "Gets all application version features.",
+  "IsDataAction": true
+}

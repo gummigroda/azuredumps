@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerAppsActivity/read",
+  "OperationName": "Read PowerAppsActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerAppsActivity",
+  "Description": "Read data from the PowerAppsActivity table",
+  "IsDataAction": false
+}

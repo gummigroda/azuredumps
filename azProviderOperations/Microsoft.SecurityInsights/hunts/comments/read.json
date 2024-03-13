@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/comments/read",
+  "OperationName": "Get Hunt Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Comments",
+  "Description": "Get Hunt Comments",
+  "IsDataAction": false
+}

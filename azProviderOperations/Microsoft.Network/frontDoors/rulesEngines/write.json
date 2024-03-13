@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/rulesEngines/write",
+  "OperationName": "Creates or updates a Rules Engine",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Rules Engine",
+  "Description": "Creates or updates a Rules Engine",
+  "IsDataAction": false
+}

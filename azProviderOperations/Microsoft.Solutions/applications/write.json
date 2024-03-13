@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/write",
+  "OperationName": "Applications_Update",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "Updates an existing managed application.",
+  "IsDataAction": false
+}

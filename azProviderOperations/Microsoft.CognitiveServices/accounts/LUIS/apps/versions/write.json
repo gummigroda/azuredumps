@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/write",
+  "OperationName": "Rename",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Updates the name or description of the application version.",
+  "IsDataAction": true
+}

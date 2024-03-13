@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppEvents/Read",
+  "OperationName": "Read AppEvents data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppEvents",
+  "Description": "Read data from the AppEvents table",
+  "IsDataAction": false
+}

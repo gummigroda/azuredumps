@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Azure Database for PostgreSQL Private Endpoint Connection Creation by NRP",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL Private Endpoint Connection Proxy",
+  "Description": "Validates a private endpoint connection create call from NRP side",
+  "IsDataAction": false
+}

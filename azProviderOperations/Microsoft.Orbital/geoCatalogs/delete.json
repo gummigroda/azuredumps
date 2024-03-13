@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/geoCatalogs/delete",
+  "OperationName": "Delete Geo Catalog",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Geo Catalogs",
+  "Description": "Delete any Geo Catalog",
+  "IsDataAction": false
+}

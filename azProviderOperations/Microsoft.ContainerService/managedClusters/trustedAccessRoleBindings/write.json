@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/write",
+  "OperationName": "Create or update trusted access role bindings for managed cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Create or update trusted access role bindings for managed cluster",
+  "IsDataAction": false
+}

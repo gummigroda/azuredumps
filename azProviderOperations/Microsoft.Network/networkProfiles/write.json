@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkProfiles/write",
+  "OperationName": "Creates or Updates Network Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Profile",
+  "Description": "Creates or updates a Network Profile",
+  "IsDataAction": false
+}

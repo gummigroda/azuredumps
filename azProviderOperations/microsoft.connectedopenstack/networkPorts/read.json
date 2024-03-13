@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networkPorts/read",
+  "OperationName": "NetworkPorts_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networkPorts",
+  "Description": "Implements NetworkPorts list by subscription GET method.",
+  "IsDataAction": false
+}

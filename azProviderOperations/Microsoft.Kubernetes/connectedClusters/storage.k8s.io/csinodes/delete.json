@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/csinodes/delete",
+  "OperationName": "Deletes/DeletesCollection csinodes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "csinodes",
+  "Description": "Deletes csinodes",
+  "IsDataAction": true
+}

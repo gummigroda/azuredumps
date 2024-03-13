@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/certificates/Read",
+  "OperationName": "Gets the Certificate",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Gets the Certificate",
+  "IsDataAction": false
+}

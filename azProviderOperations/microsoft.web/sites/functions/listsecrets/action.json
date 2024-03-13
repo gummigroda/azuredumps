@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/listsecrets/action",
+  "OperationName": "List Web Apps Functions Secrets",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Functions",
+  "Description": "List Function secrets.",
+  "IsDataAction": false
+}

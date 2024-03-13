@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/write",
+  "OperationName": "Organizations_Update",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations",
+  "Description": "Update a SolarWindsOrganizationResource",
+  "IsDataAction": false
+}

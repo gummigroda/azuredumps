@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/containerGroups/restart/action",
+  "OperationName": "Restart Container Groups in a Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Restart sepcific container groups in a container scale set.",
+  "IsDataAction": false
+}

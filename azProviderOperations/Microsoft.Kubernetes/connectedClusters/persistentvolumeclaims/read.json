@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/persistentvolumeclaims/read",
+  "OperationName": "Gets/List persistentvolumeclaims resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "persistentvolumeclaims",
+  "Description": "Reads persistentvolumeclaims",
+  "IsDataAction": true
+}

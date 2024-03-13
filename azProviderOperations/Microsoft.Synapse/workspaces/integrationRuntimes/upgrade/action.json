@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/upgrade/action",
+  "OperationName": "Upgrade an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Upgrade any Integration Runtime",
+  "IsDataAction": false
+}

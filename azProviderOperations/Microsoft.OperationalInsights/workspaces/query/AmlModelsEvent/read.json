@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AmlModelsEvent/read",
+  "OperationName": "Read AmlModelsEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AmlModelsEvent",
+  "Description": "Read data from the AmlModelsEvent table",
+  "IsDataAction": false
+}

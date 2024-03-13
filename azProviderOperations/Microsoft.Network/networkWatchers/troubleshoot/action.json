@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/troubleshoot/action",
+  "OperationName": "Troubleshoot",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Starts troubleshooting on a Networking resource in Azure.",
+  "IsDataAction": false
+}

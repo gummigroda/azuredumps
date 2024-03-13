@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/start/action",
+  "OperationName": "Start Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Starts a deployment slot.",
+  "IsDataAction": false
+}

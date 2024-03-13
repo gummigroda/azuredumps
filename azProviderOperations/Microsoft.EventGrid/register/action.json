@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/register/action",
+  "OperationName": "Registers EventGrid Resource Provider",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the EventGrid resource provider.",
+  "IsDataAction": false
+}

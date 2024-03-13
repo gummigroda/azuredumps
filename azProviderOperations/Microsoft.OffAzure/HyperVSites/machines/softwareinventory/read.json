@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/machines/softwareinventory/read",
+  "OperationName": "Gets HyperV machine software inventory data",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Gets HyperV machine software inventory data",
+  "IsDataAction": false
+}

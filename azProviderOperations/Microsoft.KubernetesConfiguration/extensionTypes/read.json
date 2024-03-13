@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/extensionTypes/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/extensionTypes/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/extensionTypes",
+  "Description": "Gets extension type.",
+  "IsDataAction": false
+}

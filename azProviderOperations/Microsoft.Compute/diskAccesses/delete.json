@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/delete",
+  "OperationName": "Delete DiskAccess",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccesses",
+  "Description": "Delete a DiskAccess resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/delete",
+  "OperationName": "Delete Disk",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Deletes the Disk",
+  "IsDataAction": false
+}

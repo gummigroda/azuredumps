@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/registries/checkNameAvailability/read",
+  "OperationName": "Checks name for Machine Learning Services registry(ies)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Registry",
+  "Description": "Checks name for Machine Learning Services registry(ies)",
+  "IsDataAction": false
+}

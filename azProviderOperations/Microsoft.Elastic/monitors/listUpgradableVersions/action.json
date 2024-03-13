@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listUpgradableVersions/action",
+  "OperationName": "List Upgradable versions for Elastic Deployment",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "List Upgradable versions for Elastic Deployment",
+  "IsDataAction": false
+}

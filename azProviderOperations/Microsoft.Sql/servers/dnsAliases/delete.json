@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/dnsAliases/delete",
+  "OperationName": "Delete Azure SQL Server Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Server Dns Alias",
+  "Description": "Deletes an existing Server Dns Alias.",
+  "IsDataAction": false
+}

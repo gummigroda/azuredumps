@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/locations/dbSystemShapes/read",
+  "OperationName": "DbSystemShapes_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "locations/dbSystemShapes",
+  "Description": "Get a DbSystemShape",
+  "IsDataAction": false
+}

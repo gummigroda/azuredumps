@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/jitNetworkAccessPolicies/initiate/action",
+  "OperationName": "Initiate JIT Network Access Policy",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Just-In-Time Network Access Policies",
+  "Description": "Initiates a just-in-time network access policy request",
+  "IsDataAction": false
+}

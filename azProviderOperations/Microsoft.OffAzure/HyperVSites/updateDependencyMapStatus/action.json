@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/updateDependencyMapStatus/action",
+  "OperationName": "Toggle dependency map switch of a list of machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Toggle dependency map switch of a list of machines",
+  "IsDataAction": false
+}

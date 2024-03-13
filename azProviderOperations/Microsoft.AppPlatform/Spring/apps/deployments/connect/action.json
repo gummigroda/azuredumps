@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/connect/action",
+  "OperationName": "Connect to an app instance in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application deployment of Microsoft Azure Spring Apps",
+  "Description": "Connect to an instance for a specific application",
+  "IsDataAction": true
+}

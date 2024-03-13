@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/clusters/ListStreamingJobs/action",
+  "OperationName": "List streaming jobs for Stream Analytics Cluster",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Cluster",
+  "Description": "List streaming jobs for Stream Analytics Cluster",
+  "IsDataAction": false
+}

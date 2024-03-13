@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/metricdefinitions/read",
+  "OperationName": "Get Web Apps Metric Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Metric Definitions",
+  "Description": "Get Web Apps Metric Definitions.",
+  "IsDataAction": false
+}

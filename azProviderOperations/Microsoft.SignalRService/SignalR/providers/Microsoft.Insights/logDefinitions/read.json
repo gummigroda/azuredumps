@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read SignalR Logs Definitions",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "Get the available logs of a SignalR resource",
+  "IsDataAction": false
+}

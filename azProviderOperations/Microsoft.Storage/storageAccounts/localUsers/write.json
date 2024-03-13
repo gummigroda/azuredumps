@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/localusers/write",
+  "OperationName": "Put Local User",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Local User",
+  "Description": "Create or update local user",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/supportProviders/supportPlanTypes/write",
+  "OperationName": "Adds a Canonical support plan.",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "supportPlanTypes",
+  "Description": "Adds the Canonical support plan type specified.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Deleted the references to virtual networks/subnets associated with Machine Learning Service Workspaces.",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Deleted the references to virtual networks/subnets associated with Machine Learning Service Workspaces.",
+  "IsDataAction": false
+}

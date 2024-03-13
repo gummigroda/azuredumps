@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/ocrawconfigs/write",
+  "OperationName": "OcRawConfigs_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/ocrawconfigs",
+  "Description": "Create a OcRawConfig resource.",
+  "IsDataAction": false
+}

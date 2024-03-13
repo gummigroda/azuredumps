@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/action",
+  "OperationName": "Create a new forest.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "",
+  "Description": "Create a new forest for the tenant.",
+  "IsDataAction": false
+}

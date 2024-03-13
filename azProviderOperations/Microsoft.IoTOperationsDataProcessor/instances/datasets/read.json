@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/datasets/read",
+  "OperationName": "Datasets_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances/datasets",
+  "Description": "Get a Dataset",
+  "IsDataAction": false
+}

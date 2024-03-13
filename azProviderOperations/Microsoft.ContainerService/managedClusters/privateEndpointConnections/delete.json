@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/privateEndpointConnections/delete",
+  "OperationName": "Delete private endpoint connection",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Private Endpoint Connections",
+  "Description": "Delete private endpoint connection",
+  "IsDataAction": false
+}

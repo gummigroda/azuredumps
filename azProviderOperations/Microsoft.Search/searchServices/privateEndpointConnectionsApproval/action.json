@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Approve Private Endpoint Connection",
+  "IsDataAction": false
+}

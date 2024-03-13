@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/register/action",
+  "OperationName": "Register Microsoft Container Instance",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the container instance resource provider and enables the creation of container groups.",
+  "IsDataAction": false
+}

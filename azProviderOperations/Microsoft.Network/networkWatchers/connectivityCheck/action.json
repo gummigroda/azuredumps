@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/connectivityCheck/action",
+  "OperationName": "Check Connectivity",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Verifies the possibility of establishing a direct TCP connection from a virtual machine to a given endpoint including another VM or an arbitrary remote server.",
+  "IsDataAction": false
+}

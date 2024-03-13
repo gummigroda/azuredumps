@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/packetFlowDescriptions/write",
+  "OperationName": "PacketFlowDescriptions_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/packetFlowDescriptions",
+  "Description": "Creates or updates a Mobile Packet Core Packet Flow Description resource",
+  "IsDataAction": false
+}

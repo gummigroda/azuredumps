@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/read",
+  "OperationName": "Get Network Interface",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Gets a network interface definition. ",
+  "IsDataAction": false
+}

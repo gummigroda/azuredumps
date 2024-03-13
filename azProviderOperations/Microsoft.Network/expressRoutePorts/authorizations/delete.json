@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/authorizations/delete",
+  "OperationName": "Delete ExpressRoutePorts Authorization",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Ports Authorization",
+  "Description": "Deletes an ExpressRoutePorts Authorization",
+  "IsDataAction": false
+}

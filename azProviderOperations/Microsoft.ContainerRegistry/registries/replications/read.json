@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/replications/read",
+  "OperationName": "Get Replication or List Replications",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Replications",
+  "Description": "Gets the properties of the specified replication or lists all the replications for the specified container registry.",
+  "IsDataAction": false
+}

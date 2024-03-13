@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/attestations/write",
+  "OperationName": "Write Attestation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Attestations",
+  "Description": "Writes Attestation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/locations/operationresults/read",
+  "OperationName": "Read operations resources",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Operations resource type",
+  "Description": "Reads operations resources",
+  "IsDataAction": false
+}

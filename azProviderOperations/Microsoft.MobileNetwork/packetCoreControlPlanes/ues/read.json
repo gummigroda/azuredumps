@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/ues/read",
+  "OperationName": "UeInformation_List",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/ues",
+  "Description": "List all UEs and their state in a packet core.",
+  "IsDataAction": false
+}

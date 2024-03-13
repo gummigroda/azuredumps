@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/example/write",
+  "OperationName": "Add labeled example utterance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Example",
+  "Description": "Adds a labeled example to the application version.",
+  "IsDataAction": true
+}

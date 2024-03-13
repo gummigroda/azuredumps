@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/vmWs/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "VmW",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

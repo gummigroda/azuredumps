@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualNetworks/Write",
+  "OperationName": "Creates/Updates virtual networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualNetworks",
+  "Description": "Creates/Updates virtual networks resource",
+  "IsDataAction": false
+}

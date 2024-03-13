@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/write",
+  "OperationName": "Create or update WebApp site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Site",
+  "Description": "Creates or updates the WebApp site",
+  "IsDataAction": false
+}

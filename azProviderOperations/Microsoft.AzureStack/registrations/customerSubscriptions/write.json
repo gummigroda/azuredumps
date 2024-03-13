@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/customerSubscriptions/write",
+  "OperationName": "Create Azure Stack Customer Subscription",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Customer Subscription",
+  "Description": "Creates or updates an Azure Stack Customer Subscription",
+  "IsDataAction": false
+}

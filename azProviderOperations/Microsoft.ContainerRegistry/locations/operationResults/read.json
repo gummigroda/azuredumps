@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/locations/operationResults/read",
+  "OperationName": "Get Async Operation Result",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "",
+  "Description": "Gets an async operation result",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connections/Write",
+  "OperationName": "Add or Update Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Creates or updates a Connection.",
+  "IsDataAction": false
+}

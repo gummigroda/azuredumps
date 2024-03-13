@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyVirtualMachinePools/read",
+  "OperationName": "StandbyVirtualMachinePools_Get",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyVirtualMachinePools",
+  "Description": "Get a StandbyVirtualMachinePoolResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/trunkedNetworks/join/action",
+  "OperationName": "TrunkedNetworks_Join",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "trunkedNetworks",
+  "Description": "Join a trunked network.",
+  "IsDataAction": false
+}

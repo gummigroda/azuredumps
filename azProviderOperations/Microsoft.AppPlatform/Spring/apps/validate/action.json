@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/validate/action",
+  "OperationName": "Validate Microsoft Azure Spring Appscontainer registry",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application of Microsoft Azure Spring Apps",
+  "Description": "Validate the container registry for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

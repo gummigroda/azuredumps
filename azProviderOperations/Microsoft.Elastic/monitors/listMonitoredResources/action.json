@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listMonitoredResources/action",
+  "OperationName": "List monitored resources",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "List all resources that are being monitored by the monitor resource",
+  "IsDataAction": false
+}

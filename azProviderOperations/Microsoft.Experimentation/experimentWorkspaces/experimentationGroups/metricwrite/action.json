@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action",
+  "OperationName": "Metric Write Experimentation Group",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experimentation Group Type",
+  "Description": "Metric Writes Experimentation Group",
+  "IsDataAction": true
+}

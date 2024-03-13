@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SfBOnlineAssessmentRecommendation/Read",
+  "OperationName": "Read SfBOnlineAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SfBOnlineAssessmentRecommendation",
+  "Description": "Read data from the SfBOnlineAssessmentRecommendation table",
+  "IsDataAction": false
+}

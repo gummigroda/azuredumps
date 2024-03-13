@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/dataSetMappings/delete",
+  "OperationName": "Delete Data Share DataSetMapping",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share DataSetMapping ",
+  "Description": "Deletes a Data Share DataSetMapping.",
+  "IsDataAction": false
+}

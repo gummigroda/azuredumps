@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/write",
+  "OperationName": "Write Domain Service",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Domain Service Type",
+  "Description": "Write Domain Service",
+  "IsDataAction": false
+}

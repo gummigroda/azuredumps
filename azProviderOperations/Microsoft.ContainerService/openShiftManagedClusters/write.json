@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/openShiftManagedClusters/write",
+  "OperationName": "Create or Update Open Shift Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Open Shift Managed Cluster",
+  "Description": "Creates a new Open Shift Managed Cluster or updates an existing one",
+  "IsDataAction": false
+}

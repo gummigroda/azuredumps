@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/operations/read",
+  "OperationName": "Get Available Operations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Available Operations",
+  "Description": "Get Available Operations",
+  "IsDataAction": false
+}

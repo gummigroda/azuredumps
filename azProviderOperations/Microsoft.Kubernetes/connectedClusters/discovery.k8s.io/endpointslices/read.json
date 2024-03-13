@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/discovery.k8s.io/endpointslices/read",
+  "OperationName": "Gets/List endpointslices resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpointslices",
+  "Description": "Reads endpointslices",
+  "IsDataAction": true
+}

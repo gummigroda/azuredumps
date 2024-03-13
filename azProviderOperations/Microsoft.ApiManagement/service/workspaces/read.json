@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/read",
+  "OperationName": "Get list of Workspaces or Workspace details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspaces",
+  "Description": "Lists a collection of Workspaces defined within a service instance. or Gets the details of the Workspace specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/postrestore/action",
+  "OperationName": "postrestore",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Cloud Endpoints",
+  "Description": "Call this action after restore",
+  "IsDataAction": false
+}

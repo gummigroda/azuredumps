@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/maintenanceConfigurations/read",
+  "OperationName": "Read maintenance configuration.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Read maintenance configuration.",
+  "IsDataAction": false
+}

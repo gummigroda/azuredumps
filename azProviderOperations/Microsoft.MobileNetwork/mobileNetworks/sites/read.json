@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/sites/read",
+  "OperationName": "Sites_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/sites",
+  "Description": "Lists all sites in the mobile network.",
+  "IsDataAction": false
+}

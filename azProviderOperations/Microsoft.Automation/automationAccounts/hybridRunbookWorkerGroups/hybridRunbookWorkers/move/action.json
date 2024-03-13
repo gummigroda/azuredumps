@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/hybridRunbookWorkers/move/action",
+  "OperationName": "Move a Hybrid Runbook Worker from one Worker Group to another",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Hybrid Runbook Worker Resource Type",
+  "Description": "Moves Hybrid Runbook Worker from one Worker Group to another",
+  "IsDataAction": false
+}

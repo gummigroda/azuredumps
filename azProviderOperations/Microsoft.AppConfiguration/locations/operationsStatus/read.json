@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/locations/operationsStatus/read",
+  "OperationName": "Get Operation Status",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "",
+  "Description": "Get the status of an operation.",
+  "IsDataAction": false
+}

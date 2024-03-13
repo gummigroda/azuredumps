@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-dependent/profiles/read",
+  "OperationName": "Read Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "profiles",
+  "Description": "Retrieves a set of profiles or retrieves a single profile by ID.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchSchedules/associations/Write",
+  "OperationName": "Create or Update Patch Schedule Association",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Schedule Association",
+  "Description": "Create or update a patch schedule association with a patch job configuration.",
+  "IsDataAction": false
+}

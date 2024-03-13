@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomerLockbox/requests/activitylog/ApproveLockboxRequest/action",
+  "OperationName": "Approve Lockbox Request",
+  "ProviderNamespace": "Microsoft Customer Lockbox",
+  "ResourceName": "Customer Lockbox Request",
+  "Description": "Approve Lockbox Request",
+  "IsDataAction": false
+}

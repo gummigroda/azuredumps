@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnections/read",
+  "OperationName": "Returns all the private endpoint connections.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Returns all the private endpoint connections.",
+  "IsDataAction": false
+}

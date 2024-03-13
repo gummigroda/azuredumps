@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoioperations/write",
+  "OperationName": "GNOIOperations_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoioperations",
+  "Description": "Create a GNOIOperation resource.",
+  "IsDataAction": false
+}

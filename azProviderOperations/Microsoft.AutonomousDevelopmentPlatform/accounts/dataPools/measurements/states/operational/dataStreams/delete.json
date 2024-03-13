@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/operational/dataStreams/delete",
+  "OperationName": "Delete Data Streams of Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Data Streams of Operational Measurements",
+  "Description": "Delete Data Streams of Operational Measurements",
+  "IsDataAction": true
+}

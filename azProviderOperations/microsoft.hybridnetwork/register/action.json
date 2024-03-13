@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.hybridnetwork/register/action",
+  "OperationName": "Register the microsoft.hybridnetwork",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "",
+  "Description": "Register the subscription for microsoft.hybridnetwork",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/operations/read",
+  "OperationName": "List of Operations",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Provider Operation",
+  "Description": "Operation returns the list of Operations for a Resource Provider",
+  "IsDataAction": false
+}

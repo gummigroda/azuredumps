@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/alerts/pcapAvailability/action",
+  "OperationName": "Get alert PCAP file aviability",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Alerts",
+  "Description": "Get alert PCAP file aviability",
+  "IsDataAction": false
+}

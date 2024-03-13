@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/snapshots/read",
+  "OperationName": "Get Web App Slots Config Snapshots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Config Snapshots",
+  "Description": "Get Web App Slots Config Snapshots.",
+  "IsDataAction": false
+}

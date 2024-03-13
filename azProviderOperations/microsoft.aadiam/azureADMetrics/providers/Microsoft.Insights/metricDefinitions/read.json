@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/azureADMetrics/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read azureADMetrics metric definitions",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "The metric definition of azureADMetrics",
+  "Description": "Gets the available metrics for azureADMetrics",
+  "IsDataAction": false
+}

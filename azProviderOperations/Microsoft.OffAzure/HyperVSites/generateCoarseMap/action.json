@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/generateCoarseMap/action",
+  "OperationName": "Generates coarse map for the list of machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Generates coarse map for the list of machines",
+  "IsDataAction": false
+}

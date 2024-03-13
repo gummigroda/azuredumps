@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/delete",
+  "OperationName": "Image Lists - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage image lists.",
+  "Description": "Image Lists - Delete",
+  "IsDataAction": true
+}

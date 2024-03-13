@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/write",
+  "OperationName": "GitHubConnectors_Update",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors",
+  "Description": "write gitHubConnectors",
+  "IsDataAction": false
+}

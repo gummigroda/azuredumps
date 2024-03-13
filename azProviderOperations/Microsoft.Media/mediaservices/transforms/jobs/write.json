@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/jobs/write",
+  "OperationName": "Create or Update Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Job",
+  "Description": "Create or Update any Job",
+  "IsDataAction": false
+}

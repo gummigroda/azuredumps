@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ContainerImageInventory/read",
+  "OperationName": "Read ContainerImageInventory data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ContainerImageInventory",
+  "Description": "Read data from the ContainerImageInventory table",
+  "IsDataAction": false
+}

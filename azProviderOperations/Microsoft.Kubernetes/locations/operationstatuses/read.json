@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/locations/operationstatuses/read",
+  "OperationName": "Read operation statuses of connected clusters",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "connectedClusters",
+  "Description": "Read Operation Statuses",
+  "IsDataAction": false
+}

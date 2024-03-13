@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/read",
+  "OperationName": "Get Queue",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue",
+  "Description": "Get list of Queue Resource Descriptions",
+  "IsDataAction": false
+}

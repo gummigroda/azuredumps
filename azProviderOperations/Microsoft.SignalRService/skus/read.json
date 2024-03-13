@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/skus/read",
+  "OperationName": "List SKUs",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "",
+  "Description": "List the valid SKUs for an existing resource",
+  "IsDataAction": false
+}

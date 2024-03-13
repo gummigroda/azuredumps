@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/hostedpools/read",
+  "OperationName": "Read 1ES Hosted Pool",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "hostedpools",
+  "Description": "Reads 1ES Hosted Pool pools",
+  "IsDataAction": false
+}

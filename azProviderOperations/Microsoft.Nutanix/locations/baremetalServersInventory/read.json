@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/locations/baremetalServersInventory/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "baremetalServersInventory",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

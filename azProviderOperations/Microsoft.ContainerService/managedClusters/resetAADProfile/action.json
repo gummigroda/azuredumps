@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/resetAADProfile/action",
+  "OperationName": "Reset AAD profile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Reset the AAD profile of a managed cluster",
+  "IsDataAction": false
+}

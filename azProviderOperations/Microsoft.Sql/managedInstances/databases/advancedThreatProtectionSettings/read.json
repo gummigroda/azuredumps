@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings/read",
+  "OperationName": "List the managed database Advanced Threat Protection settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed database Advanced Threat Protection settings",
+  "Description": "Retrieve a list of the managed database Advanced Threat Protection settings configured for a given managed database",
+  "IsDataAction": false
+}

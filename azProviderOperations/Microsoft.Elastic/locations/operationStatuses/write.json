@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

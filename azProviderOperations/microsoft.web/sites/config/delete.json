@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/delete",
+  "OperationName": "Delete Web Apps Config",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Delete Web Apps Config.",
+  "IsDataAction": false
+}

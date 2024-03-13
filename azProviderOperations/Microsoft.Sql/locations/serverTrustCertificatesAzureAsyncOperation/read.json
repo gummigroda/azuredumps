@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustCertificatesAzureAsyncOperation/read",
+  "OperationName": "Gets the status of a long term server trust certificate async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Trust Certificate",
+  "Description": "Gets the status of a long term server trust certificate async operation on Azure Sql Managed Instance.",
+  "IsDataAction": false
+}

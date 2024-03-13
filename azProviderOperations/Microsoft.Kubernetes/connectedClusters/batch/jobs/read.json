@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/batch/jobs/read",
+  "OperationName": "Gets/List jobs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "jobs",
+  "Description": "Reads jobs",
+  "IsDataAction": true
+}

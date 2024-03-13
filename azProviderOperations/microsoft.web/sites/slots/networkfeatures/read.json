@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networkfeatures/read",
+  "OperationName": "Get Web App Slot Network Features",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slots Network Features",
+  "Description": "Get Web App Slot Features.",
+  "IsDataAction": false
+}

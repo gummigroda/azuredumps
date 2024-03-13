@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/chargeShortfall/action",
+  "OperationName": "Charge shortfall on MACC",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "MACC",
+  "Description": "Charge shortfall on MACC",
+  "IsDataAction": false
+}

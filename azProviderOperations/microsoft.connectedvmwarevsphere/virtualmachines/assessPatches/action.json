@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/assessPatches/action",
+  "OperationName": "Assess patches on Azure Arc VMware machines",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines",
+  "Description": "Assess patches on Azure Arc VMware machines",
+  "IsDataAction": false
+}

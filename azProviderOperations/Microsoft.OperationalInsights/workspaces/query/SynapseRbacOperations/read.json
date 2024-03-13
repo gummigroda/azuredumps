@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseRbacOperations/read",
+  "OperationName": "Read SynapseRbacOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseRbacOperations",
+  "Description": "Read data from the SynapseRbacOperations table",
+  "IsDataAction": false
+}

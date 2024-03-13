@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/exclusionTemplates/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ExclusionTemplates",
+  "Description": "Deletes a given Exclusion Template.",
+  "IsDataAction": false
+}

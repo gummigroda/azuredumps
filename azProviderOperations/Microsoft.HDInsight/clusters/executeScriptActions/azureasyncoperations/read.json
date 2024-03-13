@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/executeScriptActions/azureasyncoperations/read",
+  "OperationName": "Get Script Action status for HDInsight Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get Script Action status for HDInsight Cluster",
+  "IsDataAction": false
+}

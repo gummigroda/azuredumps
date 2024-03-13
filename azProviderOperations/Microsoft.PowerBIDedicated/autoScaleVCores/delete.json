@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/autoScaleVCores/delete",
+  "OperationName": "Delete the Power BI Auto Scale V-Core.",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "autoScaleVCores",
+  "Description": "Deletes the Power BI Auto Scale V-Core.",
+  "IsDataAction": false
+}

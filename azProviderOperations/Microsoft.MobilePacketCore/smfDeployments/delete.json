@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/smfDeployments/delete",
+  "OperationName": "SmfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "smfDeployments",
+  "Description": "Delete a SmfDeploymentResource",
+  "IsDataAction": false
+}

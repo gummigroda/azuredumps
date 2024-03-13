@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/validatereservationorder/action",
+  "OperationName": "Validate Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Validate any Reservation",
+  "IsDataAction": false
+}

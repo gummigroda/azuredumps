@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFTriggerRun/Read",
+  "OperationName": "Read ADFTriggerRun data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFTriggerRun",
+  "Description": "Read data from the ADFTriggerRun table",
+  "IsDataAction": false
+}

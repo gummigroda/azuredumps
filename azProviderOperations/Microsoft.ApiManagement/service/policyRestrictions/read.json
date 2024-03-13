@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policyRestrictions/read",
+  "OperationName": "Get Policy Restrictions or Get Tenant policy restriction",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Lists all the Global Policy Restrictions of the Api Management service. or Get the Global policy restriction of the Api Management service.",
+  "IsDataAction": false
+}

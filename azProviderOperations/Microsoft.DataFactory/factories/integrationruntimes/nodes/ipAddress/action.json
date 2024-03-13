@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/nodes/ipAddress/action",
+  "OperationName": "Read Integration Runtime Node IP Address",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Returns the IP Address for the specified node of the Integration Runtime.",
+  "IsDataAction": false
+}

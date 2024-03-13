@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/operations/read",
+  "OperationName": "Get Classic Network Operations",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Microsoft ClassicNetwork",
+  "Description": "Get classic network operations.",
+  "IsDataAction": false
+}

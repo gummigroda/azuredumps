@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/experiments/read",
+  "OperationName": "Gets experiments in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Experiments",
+  "Description": "Gets experiments in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/locations/deletedConfigurationStores/purge/action",
+  "OperationName": "Purge Deleted Configuration Store",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Deleted Configuration Store",
+  "Description": "Purge the specified deleted configuration store.",
+  "IsDataAction": false
+}

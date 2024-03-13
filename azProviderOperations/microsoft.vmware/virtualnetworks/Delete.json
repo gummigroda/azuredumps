@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualnetworks/Delete",
+  "OperationName": "Deletes virtualnetworks resource",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualnetworks",
+  "Description": "Deletes virtualnetworks",
+  "IsDataAction": false
+}

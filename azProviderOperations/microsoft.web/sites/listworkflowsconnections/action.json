@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/listworkflowsconnections/action",
+  "OperationName": "List logic app's connections by its ID in a Logic App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "List logic app's connections by its ID in a Logic App.",
+  "IsDataAction": false
+}

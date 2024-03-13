@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/delete",
+  "OperationName": "Delete Workspaces.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Delete any Workspaces.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/read",
+  "OperationName": "Get Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Get details of a container scale set.",
+  "IsDataAction": false
+}

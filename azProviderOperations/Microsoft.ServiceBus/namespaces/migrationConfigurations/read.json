@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrationConfigurations/read",
+  "OperationName": "Gets the Migration configuration.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "MigrationConfigurations",
+  "Description": "Gets the Migration configuration which indicates the state of the migration and pending replication operations",
+  "IsDataAction": false
+}

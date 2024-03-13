@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceCleanup/read",
+  "OperationName": "Read DeviceCleanup data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceCleanup",
+  "Description": "Read data from the DeviceCleanup table",
+  "IsDataAction": false
+}

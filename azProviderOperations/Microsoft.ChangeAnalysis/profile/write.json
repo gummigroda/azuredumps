@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/profile/write",
+  "OperationName": "Modify Configuration Profile",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "Azure Application Change Analysis Service Configuration Profile",
+  "Description": "Create or Update Azure Application Change Analysis Service Configuration Profile Properties",
+  "IsDataAction": false
+}

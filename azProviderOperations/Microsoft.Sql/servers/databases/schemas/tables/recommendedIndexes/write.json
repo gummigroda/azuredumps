@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/recommendedIndexes/write",
+  "OperationName": "Update Recommended Index State",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Recommended Index",
+  "Description": "Apply index recommendation",
+  "IsDataAction": false
+}

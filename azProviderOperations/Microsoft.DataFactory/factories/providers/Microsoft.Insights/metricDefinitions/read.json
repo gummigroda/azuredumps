@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read metric definitions",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Gets the available metrics for factories",
+  "IsDataAction": false
+}

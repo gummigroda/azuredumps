@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/appattachpackages/useapplications/action",
+  "OperationName": "Use app attach packages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "appattachpackages",
+  "Description": "Allow user permissioning on app attach packages in an application group",
+  "IsDataAction": true
+}

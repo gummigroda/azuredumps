@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/billingRoleDefinitions/read",
+  "OperationName": "InvoiceSectionRoleDefinitions_Get",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Role Definitions",
+  "Description": "Gets the definition for a role on an invoice section. The operation is supported only for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/extensions/read",
+  "OperationName": "Get Virtual Machine Scale Set Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Set Extensions",
+  "Description": "Gets the properties of a Virtual Machine Scale Set Extension",
+  "IsDataAction": false
+}

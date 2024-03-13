@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.D365CustomerInsights/instances/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic settings",
+  "ProviderNamespace": "D365CustomerInsights",
+  "ResourceName": "Instances",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

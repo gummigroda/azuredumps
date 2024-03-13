@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l3Networks/write",
+  "OperationName": "L3Networks_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l3Networks",
+  "Description": "Update tags associated with the provided layer 3 (L3) network.",
+  "IsDataAction": false
+}

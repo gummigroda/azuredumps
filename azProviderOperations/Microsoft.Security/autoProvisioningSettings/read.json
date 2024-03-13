@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/autoProvisioningSettings/read",
+  "OperationName": "Get auto provisioning setting",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Auto Provisioning Settings",
+  "Description": "Get security auto provisioning setting for the subscription",
+  "IsDataAction": false
+}

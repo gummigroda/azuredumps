@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/keys/write",
+  "OperationName": "Create/Update Azure SQL Server Keys",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Keys",
+  "Description": "Creates a key with the specified parameters or update the properties or tags for the specified server key.",
+  "IsDataAction": false
+}

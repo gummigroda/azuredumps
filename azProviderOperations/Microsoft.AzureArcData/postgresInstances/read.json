@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/postgresInstances/read",
+  "OperationName": "PostgresInstances_Get",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "postgresInstances",
+  "Description": "Retrieves a postgres Instance resource",
+  "IsDataAction": false
+}

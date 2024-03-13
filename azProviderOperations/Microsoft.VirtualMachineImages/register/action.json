@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/register/action",
+  "OperationName": "Register Virtual Machine Image Builder RP",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "",
+  "Description": "Register Virtual Machine Image Builder RP",
+  "IsDataAction": false
+}

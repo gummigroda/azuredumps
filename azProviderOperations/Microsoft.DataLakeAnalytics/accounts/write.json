@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/write",
+  "OperationName": "Create or Update DataLakeAnalytics Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Account",
+  "Description": "Create or update a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/siterestartsettingupdate/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Site Restart Setting Update",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Site Restart Setting Update",
+  "Description": "Get Web Apps Slots Diagnostics Site Restart Setting Update.",
+  "IsDataAction": false
+}

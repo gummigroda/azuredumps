@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/write",
+  "OperationName": "Apps - Add or Rename",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Creates a new LUIS app.\r\nUpdates the name or description of the application.",
+  "IsDataAction": true
+}

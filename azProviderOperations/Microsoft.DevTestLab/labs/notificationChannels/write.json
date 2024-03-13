@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/notificationChannels/write",
+  "OperationName": "Add or modify notification channels.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Notification Channels",
+  "Description": "Add or modify notification channels.",
+  "IsDataAction": false
+}

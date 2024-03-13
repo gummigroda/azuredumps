@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/delete",
+  "OperationName": "Delete Sumissions",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions",
+  "Description": "Allows deletion of submissions",
+  "IsDataAction": true
+}

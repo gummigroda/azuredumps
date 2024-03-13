@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/predictions/query/action",
+  "OperationName": "QueryPredictions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "predictions*",
+  "Description": "Get images that were sent to your prediction endpoint.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "read registeredSubscriptions",
+  "IsDataAction": false
+}

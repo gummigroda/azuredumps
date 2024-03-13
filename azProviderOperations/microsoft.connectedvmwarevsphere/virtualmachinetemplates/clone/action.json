@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/clone/action",
+  "OperationName": "clones virtualmachinetemplates resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Cloness virtualmachinetemplates",
+  "IsDataAction": false
+}

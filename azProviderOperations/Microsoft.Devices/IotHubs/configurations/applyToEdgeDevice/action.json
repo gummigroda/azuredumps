@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/configurations/applyToEdgeDevice/action",
+  "OperationName": "Apply Configuration to Edge Device",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Applies the configuration content to an edge device",
+  "IsDataAction": true
+}

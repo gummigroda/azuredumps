@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/soilMoistureModelJobs/write",
+  "OperationName": "Create or Update AgFoodPlatform soilMoistureModelJobs.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform soilMoistureModelJobs",
+  "Description": "Creates or Updates AgFoodPlatform soilMoistureModelJobs.",
+  "IsDataAction": true
+}

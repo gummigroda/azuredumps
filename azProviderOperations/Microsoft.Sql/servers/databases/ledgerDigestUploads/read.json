@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/ledgerDigestUploads/read",
+  "OperationName": "Read ledger digest upload settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database ledger digest upload settings",
+  "Description": "Read ledger digest upload settings",
+  "IsDataAction": false
+}

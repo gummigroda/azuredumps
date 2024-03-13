@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/serviceconfiguration/read",
+  "OperationName": "Gets service configuration.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Gets service configuration for a given tenant.",
+  "IsDataAction": false
+}

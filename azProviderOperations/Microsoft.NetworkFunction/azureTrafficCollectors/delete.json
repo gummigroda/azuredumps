@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkFunction/azureTrafficCollectors/delete",
+  "OperationName": "DeleteAzureTrafficCollector",
+  "ProviderNamespace": "MicrosoftNetworkFunction",
+  "ResourceName": "AzureTrafficCollector",
+  "Description": "DeleteAzureTrafficCollector",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/messages/send/action",
+  "OperationName": "Send messages",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Messages",
+  "Description": "Send messages",
+  "IsDataAction": true
+}

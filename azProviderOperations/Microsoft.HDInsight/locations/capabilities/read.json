@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/locations/capabilities/read",
+  "OperationName": "Get Subscription Capabilities",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Subscription Capabilities",
+  "Description": "Get Subscription Capabilities",
+  "IsDataAction": false
+}

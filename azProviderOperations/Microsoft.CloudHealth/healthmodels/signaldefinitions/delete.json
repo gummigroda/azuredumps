@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/signaldefinitions/delete",
+  "OperationName": "SignalDefinitions_Delete",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/signaldefinitions",
+  "Description": "Delete a SignalDefinition",
+  "IsDataAction": false
+}

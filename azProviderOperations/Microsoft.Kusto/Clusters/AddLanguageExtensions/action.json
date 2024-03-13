@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/AddLanguageExtensions/action",
+  "OperationName": "Add language extensions action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Add language extensions.",
+  "IsDataAction": false
+}

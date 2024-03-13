@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/jobs/write",
+  "OperationName": "Write Jobs",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Create or update any job",
+  "IsDataAction": true
+}

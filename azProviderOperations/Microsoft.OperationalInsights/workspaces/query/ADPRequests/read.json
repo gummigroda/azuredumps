@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADPRequests/read",
+  "OperationName": "Read ADPRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADPRequests",
+  "Description": "Read data from the ADPRequests table",
+  "IsDataAction": false
+}

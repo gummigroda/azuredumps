@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/builds/read",
+  "OperationName": "Get Build or List Builds.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the properties of the specified build or lists all the builds for the specified container registry.",
+  "IsDataAction": false
+}

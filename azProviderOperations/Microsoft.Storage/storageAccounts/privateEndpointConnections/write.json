@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateEndpointConnections/write",
+  "OperationName": "Put Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Private Endpoint Connection",
+  "Description": "Put Private Endpoint Connection",
+  "IsDataAction": false
+}

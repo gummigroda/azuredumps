@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/sharedPrivateLinkResources/read",
+  "OperationName": "SharedPrivateLinkResources_Get",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers/sharedPrivateLinkResources",
+  "Description": "Get a SharedPrivateLinkResource",
+  "IsDataAction": false
+}

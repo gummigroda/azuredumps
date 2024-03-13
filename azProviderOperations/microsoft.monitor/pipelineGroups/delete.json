@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/pipelineGroups/delete",
+  "OperationName": "Delete Pipeline Groups",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Delete any Pipeline Group",
+  "IsDataAction": false
+}

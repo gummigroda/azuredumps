@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/builds/linkedBackends/validate/action",
+  "OperationName": "Validate Linked Backend",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build Linked Backends",
+  "Description": "Validate a Linked Backend for a Static Site Build",
+  "IsDataAction": false
+}

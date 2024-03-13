@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/gatewaySupportedDevices/read",
+  "OperationName": "List Supported Devices",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Gateway Supported Devices",
+  "Description": "Retrieves the list of supported devices.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/stop/action",
+  "OperationName": "Stop MariaDB Server",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Stops a specific server.",
+  "IsDataAction": false
+}

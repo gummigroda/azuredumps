@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

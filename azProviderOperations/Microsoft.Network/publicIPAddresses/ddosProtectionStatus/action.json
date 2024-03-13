@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/ddosProtectionStatus/action",
+  "OperationName": "Get Ddos protection status for a Public IP Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Gets the effective Ddos protection status for a Public IP Address resource.",
+  "IsDataAction": false
+}

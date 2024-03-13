@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/healthProbeSettings/delete",
+  "OperationName": "Deletes health probe settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Health Probe Settings",
+  "Description": "Deletes health probe settings",
+  "IsDataAction": false
+}

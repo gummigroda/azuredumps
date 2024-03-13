@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPointsRecommendedForMove/action",
+  "OperationName": "Get Recovery points recommended for move to another tier",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Get Recovery points recommended for move to another tier",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/listManagedProxyDetails/action",
+  "OperationName": "Endpoints_ListManagedProxyDetails",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Fetches the managed proxy details ",
+  "IsDataAction": false
+}

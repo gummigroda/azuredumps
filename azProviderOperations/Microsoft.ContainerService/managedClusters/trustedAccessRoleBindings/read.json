@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/read",
+  "OperationName": "Get trusted access role bindings for managed cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Get trusted access role bindings for managed cluster",
+  "IsDataAction": false
+}

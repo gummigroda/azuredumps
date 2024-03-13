@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/sqlAvailabilityGroups/read",
+  "OperationName": "Gets Sql Availability Groups for a given site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Availability Groups Resource",
+  "Description": "Gets Sql Availability Groups for a given site",
+  "IsDataAction": false
+}

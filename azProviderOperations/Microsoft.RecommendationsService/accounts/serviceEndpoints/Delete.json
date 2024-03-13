@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/serviceEndpoints/Delete",
+  "OperationName": "Delete account's serviceEndpoint resource",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts/serviceEndpoints",
+  "Description": "Deletes account's serviceEndpoint resource",
+  "IsDataAction": false
+}

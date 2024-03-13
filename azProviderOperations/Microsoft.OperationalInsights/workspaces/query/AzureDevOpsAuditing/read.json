@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AzureDevOpsAuditing/read",
+  "OperationName": "Read AzureDevOpsAuditing data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AzureDevOpsAuditing",
+  "Description": "Read data from the AzureDevOpsAuditing table",
+  "IsDataAction": false
+}

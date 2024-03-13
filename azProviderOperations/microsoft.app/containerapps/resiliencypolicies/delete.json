@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/resiliencypolicies/delete",
+  "OperationName": "Delete App Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "App Resiliency",
+  "Description": "Delete App Resiliency Policy",
+  "IsDataAction": false
+}

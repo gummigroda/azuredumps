@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/certificates/Delete",
+  "OperationName": "Delete Certificate",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "Certificate",
+  "Description": "Delete an existing certificate",
+  "IsDataAction": false
+}

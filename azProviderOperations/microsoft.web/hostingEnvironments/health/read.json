@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/health/read",
+  "OperationName": "Get the health details of an App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments",
+  "Description": "Get the health details of an App Service Environment.",
+  "IsDataAction": false
+}

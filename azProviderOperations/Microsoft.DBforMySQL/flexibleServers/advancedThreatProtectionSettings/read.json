@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/read",
+  "OperationName": "List/Get Advanced Threat Protection Settings",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server AdvancedThreatProtection",
+  "Description": "Returns the list of Advanced Threat Protection settings for a server or gets the properties for the specified Advanced Threat Protection setting.",
+  "IsDataAction": false
+}

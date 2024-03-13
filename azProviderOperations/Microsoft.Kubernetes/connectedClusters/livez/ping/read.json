@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/ping/read",
+  "OperationName": "Gets/List ping resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/ping",
+  "Description": "Reads ping",
+  "IsDataAction": true
+}

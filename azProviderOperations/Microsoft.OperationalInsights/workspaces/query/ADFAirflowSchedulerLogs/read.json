@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADFAirflowSchedulerLogs/read",
+  "OperationName": "Read ADFAirflowSchedulerLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADFAirflowSchedulerLogs",
+  "Description": "Read data from the ADFAirflowSchedulerLogs table",
+  "IsDataAction": false
+}

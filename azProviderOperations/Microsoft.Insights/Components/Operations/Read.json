@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Operations/Read",
+  "OperationName": "Application Insights Operations read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Operations",
+  "Description": "Get status of long-running operations in Application Insights",
+  "IsDataAction": false
+}

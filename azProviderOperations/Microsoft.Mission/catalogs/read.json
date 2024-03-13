@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/catalogs/read",
+  "OperationName": "Catalog_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "catalogs",
+  "Description": "Get a CatalogResource",
+  "IsDataAction": false
+}

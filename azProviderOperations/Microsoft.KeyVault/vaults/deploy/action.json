@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/deploy/action",
+  "OperationName": "Use Vault for Azure Deployments",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "Enables access to secrets in a key vault when deploying Azure resources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/removejob/action",
+  "OperationName": "Check permissions for deleting job linked to Singularity group policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Action to check for user access to delete a job linked to Singularity group policy",
+  "IsDataAction": false
+}

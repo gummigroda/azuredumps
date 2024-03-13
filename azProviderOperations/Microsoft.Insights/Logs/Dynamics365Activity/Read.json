@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Dynamics365Activity/Read",
+  "OperationName": "Read Dynamics365Activity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Dynamics365Activity",
+  "Description": "Read data from the Dynamics365Activity table",
+  "IsDataAction": false
+}

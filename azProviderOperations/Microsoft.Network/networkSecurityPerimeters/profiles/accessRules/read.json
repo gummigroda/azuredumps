@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/read",
+  "OperationName": "Gets a Network Security Perimeter Access Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Access Rule",
+  "Description": "Gets a Network Security Perimeter Access Rule",
+  "IsDataAction": false
+}

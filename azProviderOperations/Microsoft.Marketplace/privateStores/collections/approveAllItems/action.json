@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/collections/approveAllItems/action",
+  "OperationName": "Approve all items for collection",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Approve all items for collection",
+  "Description": "Delete all specific approved items and set collection to allItemsApproved",
+  "IsDataAction": false
+}

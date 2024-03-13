@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/simPolicies/write",
+  "OperationName": "SimPolicies_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/simPolicies",
+  "Description": "Updates SIM policy tags.",
+  "IsDataAction": false
+}

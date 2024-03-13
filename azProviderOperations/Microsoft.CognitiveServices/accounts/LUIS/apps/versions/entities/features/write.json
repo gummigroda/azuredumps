@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/features/write",
+  "OperationName": "models - Add entity feature relation|models - Update entity Feature relations*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "features*",
+  "Description": "Adds a feature relation for an entity model\r\nUpdates the list of feature relations for the entity*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/accessProfiles/listCredential/action",
+  "OperationName": "Get Managed Cluster AccessProfile by List Credential",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Get a managed cluster access profile by role name using list credential",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/subscriptions/resourceGroups/validateMoveResources/action",
+  "OperationName": "Validate Move Resource Request",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Move Resource",
+  "Description": "This method validates whether resource move is allowed or not.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/racks/join/action",
+  "OperationName": "Racks_Join",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "racks",
+  "Description": "Join a rack.",
+  "IsDataAction": false
+}

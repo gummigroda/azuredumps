@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoSearch/trending/action",
+  "OperationName": "Get trending videos",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video Search - v7",
+  "Description": "Get currently trending videos.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/metadata/read",
+  "OperationName": "app - Get application metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "metadata*",
+  "Description": "Get the application metadata",
+  "IsDataAction": true
+}

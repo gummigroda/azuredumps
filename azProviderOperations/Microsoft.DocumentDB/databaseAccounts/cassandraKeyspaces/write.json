@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/write",
+  "OperationName": "Write Cassandra keyspace",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Keyspace",
+  "Description": "Create a Cassandra keyspace.",
+  "IsDataAction": false
+}

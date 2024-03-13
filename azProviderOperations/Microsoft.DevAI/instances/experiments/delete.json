@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/experiments/delete",
+  "OperationName": "Experiments_Delete",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/experiments",
+  "Description": "delete experiments",
+  "IsDataAction": false
+}

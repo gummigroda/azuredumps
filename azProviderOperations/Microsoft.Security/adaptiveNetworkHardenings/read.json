@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/adaptiveNetworkHardenings/read",
+  "OperationName": "Gets Adaptive Network Hardening recommendations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Adaptive Network Hardening",
+  "Description": "Gets Adaptive Network Hardening recommendations of an Azure protected resource",
+  "IsDataAction": false
+}

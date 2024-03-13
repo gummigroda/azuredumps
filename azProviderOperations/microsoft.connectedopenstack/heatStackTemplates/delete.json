@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/heatStackTemplates/delete",
+  "OperationName": "HeatStackTemplates_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "heatStackTemplates",
+  "Description": "Implements HeatStackTemplate DELETE method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchSchedules/Delete",
+  "OperationName": "Delete Patch Schedule",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Schedule",
+  "Description": "Delete a patch schedule.",
+  "IsDataAction": false
+}

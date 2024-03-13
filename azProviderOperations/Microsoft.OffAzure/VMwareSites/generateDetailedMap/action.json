@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/generateDetailedMap/action",
+  "OperationName": "Generates Detailed VMware Coarse Map",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Generates the Detailed VMware Coarse Map",
+  "IsDataAction": false
+}

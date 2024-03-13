@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/download/action",
+  "OperationName": "Disk export data operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Perform read data operations on Disk SAS Uri",
+  "IsDataAction": true
+}

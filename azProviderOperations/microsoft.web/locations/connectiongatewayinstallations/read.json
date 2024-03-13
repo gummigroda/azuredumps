@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/connectiongatewayinstallations/read",
+  "OperationName": "Get Locations Connection Gateway Installations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations Connection Gateway Installations",
+  "Description": "Get Locations Connection Gateway Installations.",
+  "IsDataAction": false
+}

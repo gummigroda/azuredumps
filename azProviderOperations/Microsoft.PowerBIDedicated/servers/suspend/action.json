@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/suspend/action",
+  "OperationName": "Suspend the Server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Suspends the Server.",
+  "IsDataAction": false
+}

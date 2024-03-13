@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/extensions/operationStatuses/read",
+  "OperationName": "Get the Domain Names Extensions Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Names Extensions Operation Status",
+  "Description": "Reads the operation status for the domain names extensions.",
+  "IsDataAction": false
+}

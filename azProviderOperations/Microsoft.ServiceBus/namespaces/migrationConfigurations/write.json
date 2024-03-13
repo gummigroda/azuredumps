@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrationConfigurations/write",
+  "OperationName": "Create or Update Migration configuration.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "MigrationConfigurations",
+  "Description": "Creates or Updates Migration configuration. This will start synchronizing resources from the standard to the premium namespace",
+  "IsDataAction": false
+}

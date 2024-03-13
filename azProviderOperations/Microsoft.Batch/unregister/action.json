@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/unregister/action",
+  "OperationName": "Unregister the Batch Resource Provider",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Batch Resource Provider preventing the creation of Batch accounts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/artifactSources/write",
+  "OperationName": "Add or modify artifact sources.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Artifact sources",
+  "Description": "Add or modify artifact sources.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/contributors/read",
+  "OperationName": "Get Contributor",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "Contributors",
+  "Description": "Get all Contributors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/apis/write",
+  "OperationName": "Add API to product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs added to product",
+  "Description": "Adds an API to the specified product.",
+  "IsDataAction": false
+}

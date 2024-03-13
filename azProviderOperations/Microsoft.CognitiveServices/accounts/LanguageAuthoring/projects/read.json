@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/read",
+  "OperationName": "Projects_GetProject|Projects_GetProjectsList*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Returns a project.\r\nReturns the list of projects.*",
+  "IsDataAction": true
+}

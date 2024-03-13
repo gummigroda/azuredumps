@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/ops/inferencestatus/read",
+  "OperationName": "Get time series group application instance inference status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Inference status of a time series group",
+  "Description": "Get time series group application instance inference status",
+  "IsDataAction": true
+}

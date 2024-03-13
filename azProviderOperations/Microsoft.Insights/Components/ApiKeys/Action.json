@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ApiKeys/Action",
+  "OperationName": "Application Insights API key generate",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Generating an Application Insights API key",
+  "IsDataAction": false
+}

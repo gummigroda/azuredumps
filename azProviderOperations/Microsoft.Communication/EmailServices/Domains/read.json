@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/read",
+  "OperationName": "Domain_Get",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Get the email Domain and its properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Blueprint/blueprints/delete",
+  "OperationName": "Delete blueprints",
+  "ProviderNamespace": "Microsoft Blueprint",
+  "ResourceName": "Blueprints",
+  "Description": "Delete any blueprints",
+  "IsDataAction": false
+}

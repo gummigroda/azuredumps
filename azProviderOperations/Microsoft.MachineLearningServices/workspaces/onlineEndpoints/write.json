@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineEndpoints/write",
+  "OperationName": "Creates or updates an online inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Creates or updates an online inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

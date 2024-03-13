@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationPolicies/read",
+  "OperationName": "Read Policies",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Policies",
+  "Description": "Read any Policies",
+  "IsDataAction": false
+}

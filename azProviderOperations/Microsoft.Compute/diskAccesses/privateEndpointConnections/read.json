@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnections/read",
+  "OperationName": "Get PrivateEndpointConnection",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnections",
+  "Description": "Get a Private Endpoint Connection",
+  "IsDataAction": false
+}

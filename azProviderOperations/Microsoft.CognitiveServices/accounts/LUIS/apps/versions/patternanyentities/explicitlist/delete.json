@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/explicitlist/delete",
+  "OperationName": "Delete Pattern.any explicit list item",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Explicit list",
+  "Description": "Deletes an item from a Pattern.any explicit list.",
+  "IsDataAction": true
+}

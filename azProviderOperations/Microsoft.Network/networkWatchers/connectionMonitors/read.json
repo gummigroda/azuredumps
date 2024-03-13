@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/connectionMonitors/read",
+  "OperationName": "Get Connection Monitor",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Connection Monitor",
+  "Description": "Get Connection Monitor details",
+  "IsDataAction": false
+}

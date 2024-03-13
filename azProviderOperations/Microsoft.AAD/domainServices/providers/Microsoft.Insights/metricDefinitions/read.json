@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Metrics for Domain Service",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Domain Service Type",
+  "Description": "Gets metrics for Domain Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/synonymMaps/delete",
+  "OperationName": "Delete Synonym Map",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Synonym Maps",
+  "Description": "Delete a synonym map.",
+  "IsDataAction": false
+}

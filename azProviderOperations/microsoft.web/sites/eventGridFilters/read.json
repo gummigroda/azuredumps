@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/eventGridFilters/read",
+  "OperationName": "Get Event Grid Filter on web app",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Get Event Grid Filter on web app.",
+  "IsDataAction": false
+}

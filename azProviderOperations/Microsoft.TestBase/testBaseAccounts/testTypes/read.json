@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testTypes/read",
+  "OperationName": "TestTypes_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testTypes",
+  "Description": "Gets a test type of a Test Base Account.",
+  "IsDataAction": false
+}

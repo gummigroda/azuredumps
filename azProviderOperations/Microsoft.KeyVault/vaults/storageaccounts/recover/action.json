@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/recover/action",
+  "OperationName": "Recover Managed Storage Account or SAS",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Recover the soft-deleted definition of a managed storage account or SAS (Shared Access Signature).",
+  "IsDataAction": true
+}

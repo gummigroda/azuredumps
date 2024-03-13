@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/Write",
+  "OperationName": "Write Stream Analytics Job",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job",
+  "Description": "Write Stream Analytics Job",
+  "IsDataAction": false
+}

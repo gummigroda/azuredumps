@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationJobs/resume/action",
+  "OperationName": "Resume Job",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Jobs",
+  "Description": "Resume Job",
+  "IsDataAction": false
+}

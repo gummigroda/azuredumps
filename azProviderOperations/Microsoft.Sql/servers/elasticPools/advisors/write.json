@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/advisors/write",
+  "OperationName": "Update auto-execute status of a elastic pool advisor",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Pool Advisor",
+  "Description": "Update auto-execute status of an advisor on elastic pool level.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/poststarthook/generic-apiserver-start-informers/read",
+  "OperationName": "Gets/List generic-apiserver-start-informers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/poststarthook/generic-apiserver-start-informers",
+  "Description": "Reads generic-apiserver-start-informers",
+  "IsDataAction": true
+}

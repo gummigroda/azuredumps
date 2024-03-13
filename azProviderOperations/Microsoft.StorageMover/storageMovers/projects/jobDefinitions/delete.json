@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/projects/jobDefinitions/delete",
+  "OperationName": "JobDefinitions_Delete",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/projects/jobDefinitions",
+  "Description": "Deletes a Job Definition resource.",
+  "IsDataAction": false
+}

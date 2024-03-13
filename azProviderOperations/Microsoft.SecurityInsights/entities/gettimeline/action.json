@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/gettimeline/action",
+  "OperationName": "Entity Timeline",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entities",
+  "Description": "Gets entity timeline for a specific range",
+  "IsDataAction": false
+}

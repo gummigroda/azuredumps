@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/delete",
+  "OperationName": "Deletes a Front Door",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Deletes a Front Door",
+  "IsDataAction": false
+}

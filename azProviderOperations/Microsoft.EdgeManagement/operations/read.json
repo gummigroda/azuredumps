@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeManagement/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.EdgeManagement",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

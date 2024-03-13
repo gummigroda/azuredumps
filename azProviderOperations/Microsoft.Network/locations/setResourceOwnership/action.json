@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/setResourceOwnership/action",
+  "OperationName": "Set Resource Ownership",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Sets Resource Ownership",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/schedules/Retarget/action",
+  "OperationName": "Retarget schedule.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "schedules",
+  "Description": "Updates a schedule's target resource Id.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ActivityLogAlerts/Write",
+  "OperationName": "Create or update activity log alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Activity Log Alert",
+  "Description": "Create or update an activity log alert",
+  "IsDataAction": false
+}

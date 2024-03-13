@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/assessForMigration/action",
+  "OperationName": "Get Migration Assessment",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "",
+  "Description": "Performs a migration assessment with the specified parameters",
+  "IsDataAction": false
+}

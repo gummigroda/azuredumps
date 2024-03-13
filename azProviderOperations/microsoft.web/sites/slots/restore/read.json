@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/restore/read",
+  "OperationName": "Get Web Apps Slots Restore",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Restore",
+  "Description": "Get Web Apps Slots Restore.",
+  "IsDataAction": false
+}

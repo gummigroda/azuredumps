@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/getDownloadUrl/action",
+  "OperationName": "Packages_GetDownloadURL",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages",
+  "Description": "Gets the download URL of a package.",
+  "IsDataAction": false
+}

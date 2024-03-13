@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/rollouts/resume/action",
+  "OperationName": "Rollouts_Resume",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications/rollouts",
+  "Description": "action resume",
+  "IsDataAction": false
+}

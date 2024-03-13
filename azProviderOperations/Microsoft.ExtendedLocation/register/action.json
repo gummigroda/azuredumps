@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/register/action",
+  "OperationName": "Registers the Custom Location Resource Provider",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "",
+  "Description": "Registers the subscription for Custom Location resource provider and enables the creation of Custom Location.",
+  "IsDataAction": false
+}

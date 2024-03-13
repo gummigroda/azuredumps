@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/liveDataMigrations/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "LiveDataMigrations",
+  "Description": "Delete a Migrator migration",
+  "IsDataAction": false
+}

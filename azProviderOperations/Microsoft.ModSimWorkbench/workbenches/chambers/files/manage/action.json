@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/files/manage/action",
+  "OperationName": "file_manage",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/files",
+  "Description": "manage files",
+  "IsDataAction": true
+}

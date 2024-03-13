@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/dataStreams/write",
+  "OperationName": "Write Data Streams of Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Data Streams of Measurements",
+  "Description": "Write Data Streams of Measurements",
+  "IsDataAction": true
+}

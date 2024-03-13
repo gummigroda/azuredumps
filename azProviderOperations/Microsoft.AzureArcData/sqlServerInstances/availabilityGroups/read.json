@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/read",
+  "OperationName": "SqlServerAvailabilityGroups_List",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "read availabilityGroups",
+  "IsDataAction": false
+}

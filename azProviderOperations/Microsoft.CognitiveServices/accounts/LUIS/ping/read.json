@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/ping/read",
+  "OperationName": "Ping Api Call",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ping*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

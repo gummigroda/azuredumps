@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedopenstack/register/action",
+  "OperationName": "Register the microsoft.connectedopenstack",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "",
+  "Description": "Register the subscription for microsoft.connectedopenstack",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/serverfarms/read",
+  "OperationName": "Get Hosting Environments App Service Plans",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments App Service Plans",
+  "Description": "Get Hosting Environments App Service Plans.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/delete",
+  "OperationName": "Delete SecurityPartnerProviders",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Deletes a SecurityPartnerProvider",
+  "IsDataAction": false
+}

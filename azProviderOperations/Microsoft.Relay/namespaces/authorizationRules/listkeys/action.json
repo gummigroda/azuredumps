@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/authorizationRules/listkeys/action",
+  "OperationName": "Get Namespace Listkeys",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Get the Connection String to the Namespace",
+  "IsDataAction": false
+}

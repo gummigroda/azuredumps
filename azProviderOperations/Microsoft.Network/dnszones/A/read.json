@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/A/read",
+  "OperationName": "Get record set of type A",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS A record set",
+  "Description": "Get the record set of type ‘A’, in JSON format. The record set contains a list of records as well as the TTL, tags, and etag.",
+  "IsDataAction": false
+}

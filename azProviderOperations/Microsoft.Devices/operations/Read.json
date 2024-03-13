@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/operations/Read",
+  "OperationName": "Get All ResourceProvider Operations",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get All ResourceProvider Operations",
+  "IsDataAction": false
+}

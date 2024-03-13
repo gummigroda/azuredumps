@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/identitywebhooks/write",
+  "OperationName": "IdentityWebhooks_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/identitywebhooks",
+  "Description": "Create a IdentityWebhooks resource.",
+  "IsDataAction": false
+}

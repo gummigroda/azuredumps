@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/availabilitySets/vmSizes/read",
+  "OperationName": "List Virtual Machine Sizes for Availability Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Size for Availability set",
+  "Description": "List available sizes for creating or updating a virtual machine in the availability set",
+  "IsDataAction": false
+}

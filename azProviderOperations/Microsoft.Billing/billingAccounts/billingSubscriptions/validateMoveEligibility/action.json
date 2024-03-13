@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/validateMoveEligibility/action",
+  "OperationName": "Validate Subscription Move Parameters",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": null,
+  "IsDataAction": false
+}

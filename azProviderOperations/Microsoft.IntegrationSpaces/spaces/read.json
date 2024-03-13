@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/read",
+  "OperationName": "Spaces_Get",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces",
+  "Description": "Get a Space",
+  "IsDataAction": false
+}

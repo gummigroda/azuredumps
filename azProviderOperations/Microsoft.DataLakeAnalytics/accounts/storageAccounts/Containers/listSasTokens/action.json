@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/storageAccounts/Containers/listSasTokens/action",
+  "OperationName": "List SAS Tokens",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Container",
+  "Description": "List SAS tokens for storage containers of a linked Storage account of a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

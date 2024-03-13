@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/joinPerimeter/action",
+  "OperationName": "Action to Join the Network Security Perimeter",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace",
+  "Description": "Action to Join the Network Security Perimeter. This action is used to perform linked access by NSP RP.",
+  "IsDataAction": false
+}

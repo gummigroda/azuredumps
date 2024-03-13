@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/delete",
+  "OperationName": "Delete extension for Virtual Machine in Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Extensions for Virtual Machines in Virtual Machine Scale Set",
+  "Description": "Deletes the extension for Virtual Machine in Virtual Machine Scale Set",
+  "IsDataAction": false
+}

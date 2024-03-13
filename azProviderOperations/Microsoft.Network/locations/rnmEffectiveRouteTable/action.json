@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/rnmEffectiveRouteTable/action",
+  "OperationName": "Gets Effective Routes in RNM format",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Gets Effective Routes Configured In Rnm Format",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/managedCCFs/write",
+  "OperationName": "ManagedCCF_Update",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "managedCCFs",
+  "Description": "Updates properties of Managed CCF",
+  "IsDataAction": false
+}

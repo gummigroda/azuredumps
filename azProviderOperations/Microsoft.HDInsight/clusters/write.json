@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/write",
+  "OperationName": "Create or Update Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Create or Update HDInsight Cluster",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/gateway/write",
+  "OperationName": "Gateway_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/gateway",
+  "Description": "Create a Gateway resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/immutableStorage/runAsSuperUser/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": true
+}

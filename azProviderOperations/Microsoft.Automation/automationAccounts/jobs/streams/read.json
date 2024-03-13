@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/streams/read",
+  "OperationName": "Read an Azure Automation job stream",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job Stream",
+  "Description": "Gets an Azure Automation job stream",
+  "IsDataAction": false
+}

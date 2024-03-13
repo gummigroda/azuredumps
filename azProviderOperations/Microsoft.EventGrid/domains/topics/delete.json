@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/topics/delete",
+  "OperationName": "Delete Domain Topic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domaintopics",
+  "Description": "Delete a domain topic",
+  "IsDataAction": false
+}

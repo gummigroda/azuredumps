@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/export/action",
+  "OperationName": "Export labels of labeling projects in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling",
+  "Description": "Export labels of labeling projects in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

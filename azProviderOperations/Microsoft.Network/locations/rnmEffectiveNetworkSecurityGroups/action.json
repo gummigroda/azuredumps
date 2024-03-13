@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/rnmEffectiveNetworkSecurityGroups/action",
+  "OperationName": "Gets Effective Acls In RNM format",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Gets Effective Security Groups Configured In Rnm Format",
+  "IsDataAction": false
+}

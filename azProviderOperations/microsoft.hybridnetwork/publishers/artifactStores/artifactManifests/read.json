@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifactManifests/read",
+  "OperationName": "ArtifactManifests_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifactManifests",
+  "Description": "Gets information about a artifact manifest resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/partners/write",
+  "OperationName": "Set Integration Account Partner",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Partner",
+  "Description": "Creates or updates the partner in integration account.",
+  "IsDataAction": false
+}

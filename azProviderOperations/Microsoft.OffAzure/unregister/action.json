@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/unregister/action",
+  "OperationName": "Unregister Subscription for Migrate",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.Migrate resource provider",
+  "IsDataAction": false
+}

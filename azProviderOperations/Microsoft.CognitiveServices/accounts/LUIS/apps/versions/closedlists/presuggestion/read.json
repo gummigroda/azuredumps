@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/presuggestion/read",
+  "OperationName": "models - load previous suggestion result for closedlist entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "presuggestion*",
+  "Description": "Loads previous suggestion result for closed list entity.",
+  "IsDataAction": true
+}

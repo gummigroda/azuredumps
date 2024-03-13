@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/disasterRecoveryConfigs/authorizationRules/listkeys/action",
+  "OperationName": "Gets the authorization rules keys for the Disaster Recovery primary namespace",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Gets the authorization rules keys for the Disaster Recovery primary namespace",
+  "IsDataAction": false
+}

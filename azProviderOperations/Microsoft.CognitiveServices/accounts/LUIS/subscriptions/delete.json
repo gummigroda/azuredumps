@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/subscriptions/delete",
+  "OperationName": "user - Delete subscription key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "subscriptions*",
+  "Description": "**THIS API IS DEPRECATED.**",
+  "IsDataAction": true
+}

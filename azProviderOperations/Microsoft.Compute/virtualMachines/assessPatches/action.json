@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/assessPatches/action",
+  "OperationName": "Assess virtual machine for available OS update patches",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Assesses the virtual machine and finds list of available OS update patches for it.",
+  "IsDataAction": false
+}

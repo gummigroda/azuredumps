@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Read private endpoint connection proxies (internal use only)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Private endpoint connection proxies resource",
+  "Description": "Reads private endpoint connection proxies (internal use only).",
+  "IsDataAction": false
+}

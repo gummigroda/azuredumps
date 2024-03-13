@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGatewayAvailableServerVariables/read",
+  "OperationName": "Get Application Gateway available Server Variables",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway available Server Variables",
+  "Description": "Get Application Gateway available Server Variables",
+  "IsDataAction": false
+}

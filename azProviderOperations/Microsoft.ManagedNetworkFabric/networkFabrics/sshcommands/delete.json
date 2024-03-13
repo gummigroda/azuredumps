@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/sshcommands/delete",
+  "OperationName": "SSHCommands_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/sshcommands",
+  "Description": "Delete the SSHCommand resource.",
+  "IsDataAction": false
+}

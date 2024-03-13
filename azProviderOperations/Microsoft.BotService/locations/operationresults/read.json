@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/locations/operationresults/read",
+  "OperationName": "Read Operation Result",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Operation Results",
+  "Description": "Read the status of an asynchronous operation",
+  "IsDataAction": false
+}

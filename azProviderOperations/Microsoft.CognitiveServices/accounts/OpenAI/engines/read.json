@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/engines/read",
+  "OperationName": "Read engine",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Engines",
+  "Description": "Read engine information.",
+  "IsDataAction": true
+}

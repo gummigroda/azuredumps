@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels/delete",
+  "OperationName": "Management - Delete Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "documentmodels*",
+  "Description": "Mark model for deletion. Model artifacts will be permanently removed within 48 hours.",
+  "IsDataAction": true
+}

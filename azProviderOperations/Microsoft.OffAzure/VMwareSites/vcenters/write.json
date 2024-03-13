@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/vcenters/write",
+  "OperationName": "Create or update VMware vCenter",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "vCenters",
+  "Description": "Creates or updates the VMware vCenter",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGatewayRules/join/action",
+  "OperationName": "InternetGatewayRules_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGatewayRules",
+  "Description": "Join action for Internet Gateway Rule resource.",
+  "IsDataAction": false
+}

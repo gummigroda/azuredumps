@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/powerOff/action",
+  "OperationName": "Power Off Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Powers off the virtual machine. Note that the virtual machine will continue to be billed.",
+  "IsDataAction": false
+}

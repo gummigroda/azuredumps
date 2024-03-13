@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/oracleSubscriptions/listSaasSubscriptionDetails/action",
+  "OperationName": "OracleSubscriptions_ListSaasSubscriptionDetails",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "oracleSubscriptions",
+  "Description": "List Saas Subscription Details",
+  "IsDataAction": false
+}

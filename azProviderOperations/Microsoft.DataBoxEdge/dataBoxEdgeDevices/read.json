@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/read",
+  "OperationName": "List Data Box Edge devices",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Lists or gets the Data Box Edge devices",
+  "IsDataAction": false
+}

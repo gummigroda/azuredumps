@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

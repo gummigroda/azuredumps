@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/reservationTransactions/read",
+  "OperationName": "List Reservation Transactions history",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "ReservationTransactions",
+  "Description": "List the transaction history for reserved instances by management groups.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/importEntities/action",
+  "OperationName": "SAPDiscoverySites_ImportEntities",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites",
+  "Description": "Import a SAP Migration discovery site resource and it's child resources, that is the SAP instances and Server instances.",
+  "IsDataAction": false
+}

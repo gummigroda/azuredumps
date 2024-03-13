@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/write",
+  "OperationName": "Write ExperimentWorkspace.",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experiment Workspace",
+  "Description": "Writes Experiment Workspaces.",
+  "IsDataAction": true
+}

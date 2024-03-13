@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/storages/write",
+  "OperationName": "storages_Update",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/storages",
+  "Description": "Updates the specified storage.",
+  "IsDataAction": false
+}

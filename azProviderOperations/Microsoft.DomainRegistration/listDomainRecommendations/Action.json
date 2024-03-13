@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/listDomainRecommendations/Action",
+  "OperationName": "Retrieve Domain Recommendations",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "",
+  "Description": "Retrieve the list domain recommendations based on keywords",
+  "IsDataAction": false
+}

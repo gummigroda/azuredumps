@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/regions/action",
+  "OperationName": "CreateImageRegions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "This API accepts a batch of image regions, and optionally tags, to update existing images with region information.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "PrivateEndpointConnection",
+  "Description": "Delete Private Endpoint Connection",
+  "IsDataAction": false
+}

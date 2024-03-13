@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageTasks/delete",
+  "OperationName": "Delete Storage Task",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Task",
+  "Description": "Deletes an existing storage task",
+  "IsDataAction": false
+}

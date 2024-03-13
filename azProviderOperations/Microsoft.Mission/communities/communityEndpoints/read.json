@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/communityEndpoints/read",
+  "OperationName": "CommunityEndpoints_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/communityEndpoints",
+  "Description": "Get a CommunityEndpointResource",
+  "IsDataAction": false
+}

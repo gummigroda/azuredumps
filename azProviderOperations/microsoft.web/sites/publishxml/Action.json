@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/publishxml/Action",
+  "OperationName": "Get Web App Publishing Profile",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Get publishing profile xml for a Web App",
+  "IsDataAction": false
+}

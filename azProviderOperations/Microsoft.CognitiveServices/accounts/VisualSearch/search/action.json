@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VisualSearch/search/action",
+  "OperationName": "Visual Search",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Visual Search - v7",
+  "Description": "Returns a list of tags relevant to the provided image",
+  "IsDataAction": true
+}

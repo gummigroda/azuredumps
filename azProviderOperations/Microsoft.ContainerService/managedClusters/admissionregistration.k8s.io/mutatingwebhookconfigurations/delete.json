@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/admissionregistration.k8s.io/mutatingwebhookconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Mutatingwebhookconfigurations",
+  "Description": "Deletes mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

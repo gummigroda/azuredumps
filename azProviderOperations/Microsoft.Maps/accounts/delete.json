@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/delete",
+  "OperationName": "Delete a Maps Account.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Delete a Maps Account.",
+  "IsDataAction": false
+}

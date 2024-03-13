@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/read",
+  "OperationName": "DevCenters_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters",
+  "Description": "Gets a devcenter.",
+  "IsDataAction": false
+}

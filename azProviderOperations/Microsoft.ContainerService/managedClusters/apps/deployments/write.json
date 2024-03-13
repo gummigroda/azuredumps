@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apps/deployments/write",
+  "OperationName": "Creates/Updates deployments resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Deployments",
+  "Description": "Writes deployments",
+  "IsDataAction": true
+}

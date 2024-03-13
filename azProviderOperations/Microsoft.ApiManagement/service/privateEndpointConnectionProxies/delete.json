@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connection Proxy",
+  "Description": "Delete the private endpoint connection proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/read",
+  "OperationName": "Get/List Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection",
+  "Description": "Returns the list of Device Update Private Endpoint Connections",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/datasets/delete",
+  "OperationName": "UnregisterDataset",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Unregister a dataset.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/communityEndpoints/write",
+  "OperationName": "CommunityEndpoints_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/communityEndpoints",
+  "Description": "Update a CommunityEndpointResource",
+  "IsDataAction": false
+}

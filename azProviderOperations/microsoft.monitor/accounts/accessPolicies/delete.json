@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/accessPolicies/delete",
+  "OperationName": "Delete Monitoring Account Access Policies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Delete any Monitoring Account Access Policy",
+  "IsDataAction": false
+}

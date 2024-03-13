@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/fine-tunes/read",
+  "OperationName": "Read fine-tune metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Fine-tunes",
+  "Description": "Gets information about fine-tuned models.",
+  "IsDataAction": true
+}

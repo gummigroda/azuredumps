@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/distributedAvailabilityGroups/failover/action",
+  "OperationName": "Performs requested failover type in this distributed availability group.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Performs requested failover type in this distributed availability group.",
+  "IsDataAction": false
+}

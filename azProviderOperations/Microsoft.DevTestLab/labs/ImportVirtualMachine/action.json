@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/ImportVirtualMachine/action",
+  "OperationName": "Import a virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Import a virtual machine into a different lab.",
+  "IsDataAction": false
+}

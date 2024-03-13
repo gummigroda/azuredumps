@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/consumerDataShare/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

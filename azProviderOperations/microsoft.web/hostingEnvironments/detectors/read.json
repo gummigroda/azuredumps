@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/detectors/read",
+  "OperationName": "Get Hosting Environments Detectors",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Detectors",
+  "Description": "Get Hosting Environments Detectors.",
+  "IsDataAction": false
+}

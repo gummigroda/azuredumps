@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/read/analyze/action",
+  "OperationName": "OCR - Analyze",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OCR Analysis",
+  "Description": "Use this interface to perform a Read operation, employing the state-of-the-art Optical Character Recognition (OCR) algorithms optimized for text-heavy documents. It can handle hand-written, printed or mixed documents. When you use the Read interface, the response contains a header called 'Operation-Location'. The 'Operation-Location' header contains the URL that you must use for your <a href=\"/docs/services/5d98695995feb7853f67d6a6/operations/5d9869604be85dee480c8750\">Get Read Result</a> operation to access OCR results.**",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datasets/slices/write",
+  "OperationName": "Update Data Slice Status",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Slice",
+  "Description": "Update the Status of the Data Slice.",
+  "IsDataAction": false
+}

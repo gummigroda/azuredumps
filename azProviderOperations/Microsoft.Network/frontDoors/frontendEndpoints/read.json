@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/frontendEndpoints/read",
+  "OperationName": "Gets a frontend endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Frontend Endpoint",
+  "Description": "Gets a frontend endpoint",
+  "IsDataAction": false
+}

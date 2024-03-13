@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/ListVhds/action",
+  "OperationName": "List VHDs",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "List disk images available for custom image creation.",
+  "IsDataAction": false
+}

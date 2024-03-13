@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoices/validateRefundEligibility/write",
+  "OperationName": "Validate Refund Eligibility",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Validate Refund Eligibility",
+  "Description": null,
+  "IsDataAction": false
+}

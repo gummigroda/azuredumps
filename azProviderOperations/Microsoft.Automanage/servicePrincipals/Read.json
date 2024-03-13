@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/servicePrincipals/Read",
+  "OperationName": "Read Automanage AAD first party service principal",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage AAD first party service principal",
+  "Description": "Read the Automanage AAD first party service principal id and authorizationSet for the subscription. This service principal id is used to grant the Contributor RBAC permission to Automanage AAD first party Application.",
+  "IsDataAction": false
+}

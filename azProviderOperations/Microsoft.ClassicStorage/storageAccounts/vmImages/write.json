@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/vmImages/write",
+  "OperationName": "Add Virtual Machine Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Virtual Machine Image",
+  "Description": "Adds a given virtual machine image.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/syncAgents/delete",
+  "OperationName": "Delete Azure SQL Sync Agent",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Deletes an existing sync agent.",
+  "IsDataAction": false
+}

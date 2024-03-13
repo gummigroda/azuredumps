@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/services/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/services/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "CosmosDB Service Reosurce",
+  "Description": "Deletes a CosmosDB Service Resource",
+  "IsDataAction": false
+}

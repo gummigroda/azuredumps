@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete a network security perimeter association",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Network security perimeter association resource",
+  "Description": "Deletes a network security perimeter association.",
+  "IsDataAction": false
+}

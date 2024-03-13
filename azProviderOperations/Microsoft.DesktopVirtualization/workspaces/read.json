@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/workspaces/read",
+  "OperationName": "Read workspaces",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "workspaces",
+  "Description": "Read workspaces",
+  "IsDataAction": false
+}

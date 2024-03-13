@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/inboundNatRules/write",
+  "OperationName": "Create or Update Load Balancer Inbound Nat Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Inbound Nat Rule",
+  "Description": "Creates a load balancer inbound nat rule or updates an existing load balancer inbound nat rule",
+  "IsDataAction": false
+}

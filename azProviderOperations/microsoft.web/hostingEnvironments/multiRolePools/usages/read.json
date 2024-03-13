@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/multirolepools/usages/read",
+  "OperationName": "Get Hosting Environments MultiRole Pools Usages",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments MultiRole Pools Usages",
+  "Description": "Get Hosting Environments MultiRole Pools Usages.",
+  "IsDataAction": false
+}

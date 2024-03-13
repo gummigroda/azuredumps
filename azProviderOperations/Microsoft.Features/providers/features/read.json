@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Features/providers/features/read",
+  "OperationName": "Get Provider Feature",
+  "ProviderNamespace": "Microsoft Feature",
+  "ResourceName": "Feature",
+  "Description": "Gets the feature of a subscription in a given resource provider.",
+  "IsDataAction": false
+}

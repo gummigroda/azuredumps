@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/write",
+  "OperationName": "Create or Update API Management Service instance",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Create or Update API Management Service instance",
+  "IsDataAction": false
+}

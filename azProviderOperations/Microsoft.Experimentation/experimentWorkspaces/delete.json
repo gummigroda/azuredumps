@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/delete",
+  "OperationName": "Delete ExperimentWorkspace",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experiment Workspace",
+  "Description": "Deletes Experiment Workspaces.",
+  "IsDataAction": true
+}

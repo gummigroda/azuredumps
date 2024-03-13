@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/write",
+  "OperationName": "Create or update Server site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Creates or updates the Server site",
+  "IsDataAction": false
+}

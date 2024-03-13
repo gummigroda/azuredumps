@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/logFiles/read",
+  "OperationName": "List/Get PostgreSQL Flexible Server Log Files",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Flexible Server Log Files",
+  "Description": "Return a list of server log Files for a PostgreSQL Flexible server with File download links",
+  "IsDataAction": false
+}

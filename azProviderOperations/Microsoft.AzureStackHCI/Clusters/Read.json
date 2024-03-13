@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/Read",
+  "OperationName": "Gets/List cluster resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Gets clusters",
+  "IsDataAction": false
+}

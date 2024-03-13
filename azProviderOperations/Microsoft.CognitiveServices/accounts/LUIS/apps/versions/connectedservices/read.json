@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/connectedservices/read",
+  "OperationName": "dispatch - Get connected service list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "connectedservices*",
+  "Description": "Gets the mapping between an intent and a service",
+  "IsDataAction": true
+}

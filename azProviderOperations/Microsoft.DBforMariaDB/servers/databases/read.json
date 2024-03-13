@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/databases/read",
+  "OperationName": "List/Get MySQL Database",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Databases",
+  "Description": "Return the list of MariaDB Databases or gets the properties for the specified Database.",
+  "IsDataAction": false
+}

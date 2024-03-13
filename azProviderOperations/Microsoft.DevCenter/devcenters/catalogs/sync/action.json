@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/catalogs/sync/action",
+  "OperationName": "Catalogs_Sync",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/catalogs",
+  "Description": "Syncs templates for a template source.",
+  "IsDataAction": false
+}

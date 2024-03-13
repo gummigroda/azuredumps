@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/detachVolume/action",
+  "OperationName": "VirtualMachines_VolumeDetach",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Detaches a volume to the virtual machine.",
+  "IsDataAction": false
+}

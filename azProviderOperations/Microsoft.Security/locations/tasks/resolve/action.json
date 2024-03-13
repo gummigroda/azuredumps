@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/tasks/resolve/action",
+  "OperationName": "Resolve Recommendation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Recommendations",
+  "Description": "Resolve a security recommendation",
+  "IsDataAction": false
+}

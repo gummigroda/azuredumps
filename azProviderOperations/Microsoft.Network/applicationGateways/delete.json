@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/delete",
+  "OperationName": "Delete Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Deletes an application gateway",
+  "IsDataAction": false
+}

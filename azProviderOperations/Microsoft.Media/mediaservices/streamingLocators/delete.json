@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingLocators/delete",
+  "OperationName": "Delete Streaming Locator",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Locator",
+  "Description": "Delete any Streaming Locator",
+  "IsDataAction": false
+}

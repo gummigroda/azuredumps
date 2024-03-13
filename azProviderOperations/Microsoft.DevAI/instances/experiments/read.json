@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/experiments/read",
+  "OperationName": "Experiments_ListByInstance",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/experiments",
+  "Description": "read experiments",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/reports/details/read",
+  "OperationName": "Gets report for bad password.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Gets report of top 50 users with bad password errors from last 7 days",
+  "IsDataAction": false
+}

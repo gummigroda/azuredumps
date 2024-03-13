@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/whitelist/read",
+  "OperationName": "GetWhitelistedUsersWithCapability",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "whitelist*",
+  "Description": "Gets a list of whitelisted users with specific capability",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/internal/projects/submit-gpt-prediction-decisions/jobs/read",
+  "OperationName": "GPT_GetSubmitGptPredictionDecisionsJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get submit GPT prediction decisions job status and result details.",
+  "IsDataAction": true
+}

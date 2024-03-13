@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/user/authoringazureaccount/write",
+  "OperationName": "AzureAccounts_MigrateAuthoringKeyToAzure",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "authoringazureaccount*",
+  "Description": "Migrates the user's APIM authoring key to be an Azure resource.",
+  "IsDataAction": true
+}

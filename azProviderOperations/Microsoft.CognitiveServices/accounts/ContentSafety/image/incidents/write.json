@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/image/incidents/write",
+  "OperationName": "Create Or Update Image Incident",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Incidents",
+  "Description": "Updates a image incident. If the image incident does not exist, a new image incident will be created.",
+  "IsDataAction": true
+}

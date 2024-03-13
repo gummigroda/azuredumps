@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/setSecurityCenterConfiguration/action",
+  "OperationName": "Set Application Gateway SecurityCenter Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Sets Application Gateway Security Center Configuration",
+  "IsDataAction": false
+}

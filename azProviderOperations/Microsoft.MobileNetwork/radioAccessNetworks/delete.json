@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/radioAccessNetworks/delete",
+  "OperationName": "RadioAccessNetworks_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "radioAccessNetworks",
+  "Description": "Deletes the specified radio access network.",
+  "IsDataAction": false
+}

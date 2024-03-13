@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/remoteConfigurations/delete",
+  "OperationName": "Delete remote configuration",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Remote Configurations",
+  "Description": "Deletes remote configuration",
+  "IsDataAction": false
+}

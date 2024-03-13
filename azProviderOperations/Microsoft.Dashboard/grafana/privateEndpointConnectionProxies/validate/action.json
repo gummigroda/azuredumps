@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate PrivateEndpointConnectionProxy resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateEndpointConnectionProxy",
+  "Description": "Validate PrivateEndpointConnectionProxy",
+  "IsDataAction": false
+}

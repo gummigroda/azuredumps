@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Mongo Cluster Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Private Endpoint Connection Proxies",
+  "Description": "Reads a private endpoint connection proxy for the specified Mongo Cluster.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/register/action",
+  "OperationName": "Subscription Registration Action",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "",
+  "Description": "Subscription Registration Action",
+  "IsDataAction": false
+}

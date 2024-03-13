@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/refreshConfiguration/action",
+  "OperationName": "NetworkDevices_RefreshConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Refreshes the configuration the Network Device.",
+  "IsDataAction": false
+}

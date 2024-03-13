@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/deletePreservedOSDisk/action",
+  "OperationName": "Deletes PreservedOSDisk on the Virtual Machine.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Deletes PreservedOSDisk on the Virtual Machine which belongs to Virtual Machine Scale Set with Flexible Orchestration Mode.",
+  "IsDataAction": false
+}

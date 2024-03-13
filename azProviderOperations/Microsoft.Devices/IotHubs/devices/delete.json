@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/devices/delete",
+  "OperationName": "Delete Device/Module",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Delete any device or module identity",
+  "IsDataAction": true
+}

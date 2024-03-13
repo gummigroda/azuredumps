@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/write",
+  "OperationName": "Create or update load balancer backend address pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Creates a load balancer backend address pool or updates an existing load balancer backend address pool",
+  "IsDataAction": false
+}

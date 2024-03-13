@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/reservationDetailsOperationResults/read",
+  "OperationName": "Gets Microsoft Reserved Instances asynchronous operation results",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "reservationDetailsOperationResults",
+  "Description": "Gets Microsoft Reserved Instances utilization summaries asynchronous operation results.",
+  "IsDataAction": false
+}

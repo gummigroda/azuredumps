@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/read",
+  "OperationName": "Get Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Gets an application gateway",
+  "IsDataAction": false
+}

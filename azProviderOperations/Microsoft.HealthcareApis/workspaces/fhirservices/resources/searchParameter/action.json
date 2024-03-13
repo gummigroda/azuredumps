@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/fhirservices/resources/searchParameter/action",
+  "OperationName": "SearchParameter",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Allows running of $status operation for Search Parameters",
+  "IsDataAction": true
+}

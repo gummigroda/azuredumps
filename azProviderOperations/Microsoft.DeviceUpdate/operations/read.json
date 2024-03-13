@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Operation",
+  "Description": "Lists Device Update Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/link/action",
+  "OperationName": "Connections_Link",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections",
+  "Description": "Links the connection to its pending connection.",
+  "IsDataAction": false
+}

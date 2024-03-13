@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/externalPolicyBasedAuthorizationsOperationResults/read",
+  "OperationName": "External policy based authorization operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "External policy based authorization",
+  "Description": "External policy based authorization operation results",
+  "IsDataAction": false
+}

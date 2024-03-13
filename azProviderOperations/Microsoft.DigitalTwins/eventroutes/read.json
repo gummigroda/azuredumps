@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/eventroutes/read",
+  "OperationName": "Read Event Route",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Event Route",
+  "Description": "Read any Event Route",
+  "IsDataAction": true
+}

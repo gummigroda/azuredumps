@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/managementPolicies/read",
+  "OperationName": "Get storage account management policies",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Management Policies",
+  "Description": "Get storage management account policies",
+  "IsDataAction": false
+}

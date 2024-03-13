@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateEndpointConnectionProxies/read",
+  "OperationName": "Get PrivateEndpointConnectionProxy resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateEndpointConnectionProxy",
+  "Description": "Get PrivateEndpointConnectionProxy",
+  "IsDataAction": false
+}

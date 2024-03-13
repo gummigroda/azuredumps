@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/packetCaptures/stop/action",
+  "OperationName": "Stop Packet Capture",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Packet Capture",
+  "Description": "Stop the running packet capture session.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/builders/listUsingDeployments/action",
+  "OperationName": "List deployments using the Builder Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Builder of Microsoft Azure Spring Apps",
+  "Description": "List deployments using the Builders for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

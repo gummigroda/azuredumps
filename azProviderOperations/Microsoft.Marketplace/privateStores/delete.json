@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/delete",
+  "OperationName": "Deletes PrivateStore.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Deletes PrivateStore.",
+  "IsDataAction": false
+}

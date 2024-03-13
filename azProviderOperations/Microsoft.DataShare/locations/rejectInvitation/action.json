@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/locations/rejectInvitation/action",
+  "OperationName": "Reject Data Share Invitation",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Reject Invitation Operation",
+  "Description": "Rejects a Data Share Invitation.",
+  "IsDataAction": false
+}

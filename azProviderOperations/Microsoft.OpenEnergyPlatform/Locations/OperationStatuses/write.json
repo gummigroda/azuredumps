@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

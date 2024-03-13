@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/accessPolicies/write",
+  "OperationName": "Create or Update Access Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Access Policy Resource",
+  "Description": "Create or Update any Access Policy",
+  "IsDataAction": false
+}

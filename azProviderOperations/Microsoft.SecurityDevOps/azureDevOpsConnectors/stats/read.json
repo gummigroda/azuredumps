@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/stats/read",
+  "OperationName": "AzureDevOpsConnectorStatistics_List",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors/stats",
+  "Description": "read stats",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/virtualNetworkRulesOperationResults/read",
+  "OperationName": "Get Azure SQL Server Virtual Network Rules Operation Results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Virtual Network Rule Azure Async Operation Results",
+  "Description": "Returns the details of the specified virtual network rules operation ",
+  "IsDataAction": false
+}

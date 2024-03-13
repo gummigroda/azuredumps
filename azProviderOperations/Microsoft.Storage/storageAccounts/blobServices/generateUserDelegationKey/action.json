@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/generateUserDelegationKey/action",
+  "OperationName": "Generate a user delegation key",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Services",
+  "Description": "Returns a user delegation key for the blob service",
+  "IsDataAction": false
+}

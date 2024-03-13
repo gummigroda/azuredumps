@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/dataSets/delete",
+  "OperationName": "Delete Data Share DataSet",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share DataSet",
+  "Description": "Deletes a Data Share DataSet.",
+  "IsDataAction": false
+}

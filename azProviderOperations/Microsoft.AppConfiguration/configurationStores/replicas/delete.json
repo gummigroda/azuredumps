@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/replicas/delete",
+  "OperationName": "Delete Replica",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Replica",
+  "Description": "Deletes a replica.",
+  "IsDataAction": false
+}

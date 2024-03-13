@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/masterkey/read",
+  "OperationName": "Get Web Apps Functions Masterkey",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Functions Masterkey",
+  "Description": "Get Web Apps Functions Masterkey.",
+  "IsDataAction": false
+}

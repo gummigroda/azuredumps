@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/sims/write",
+  "OperationName": "Sims_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "sims",
+  "Description": "Updates SIM tags.",
+  "IsDataAction": false
+}

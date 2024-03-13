@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/capacityReservationGroups/deploy/action",
+  "OperationName": "Deploy a new VM/VMSS using Capacity Reservation Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Capacity Reservation Groups",
+  "Description": "Deploy a new VM/VMSS using Capacity Reservation Group",
+  "IsDataAction": false
+}

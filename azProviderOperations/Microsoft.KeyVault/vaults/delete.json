@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/delete",
+  "OperationName": "Delete Key Vault",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "Deletes a key vault",
+  "IsDataAction": false
+}

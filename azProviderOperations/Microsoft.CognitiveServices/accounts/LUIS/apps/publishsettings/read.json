@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/publishsettings/read",
+  "OperationName": "Apps - Get publish settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Publish Settings",
+  "Description": "Get the publish settings for the application.",
+  "IsDataAction": true
+}

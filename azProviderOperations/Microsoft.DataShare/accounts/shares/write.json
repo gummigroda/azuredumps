@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/write",
+  "OperationName": "Write Data Share Share",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Share",
+  "Description": "Writes a Data Share Share.",
+  "IsDataAction": false
+}

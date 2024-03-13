@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataMigrations/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataMigrations",
+  "Description": "Deletes a given Metadata Migration.",
+  "IsDataAction": false
+}

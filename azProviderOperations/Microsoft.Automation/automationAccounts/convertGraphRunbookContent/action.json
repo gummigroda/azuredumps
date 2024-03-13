@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/convertGraphRunbookContent/action",
+  "OperationName": "Convert Graph Runbook Content to its raw serialized format and vice-versa",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Convert Graph Runbook Content to its raw serialized format and vice-versa",
+  "IsDataAction": false
+}

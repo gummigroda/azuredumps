@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/reProtect/action",
+  "OperationName": "ReProtect Recovery Plan",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "ReProtect Recovery Plan",
+  "IsDataAction": false
+}

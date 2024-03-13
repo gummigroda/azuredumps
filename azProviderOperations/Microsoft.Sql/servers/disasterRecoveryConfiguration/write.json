@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/disasterRecoveryConfiguration/write",
+  "OperationName": "Set dserver disaster recovery configuration",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Disaster Recovery Configuration",
+  "Description": "Change server disaster recovery configuration",
+  "IsDataAction": false
+}

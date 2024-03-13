@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/virtualNetworkPeerings/delete",
+  "OperationName": "Delete Virtual Network Peering",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Virtual Network Peering",
+  "Description": "Deletes a virtual network peering",
+  "IsDataAction": false
+}

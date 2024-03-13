@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationvCenters/read",
+  "OperationName": "Read vCenters",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "vCenters",
+  "Description": "Read any vCenters",
+  "IsDataAction": false
+}

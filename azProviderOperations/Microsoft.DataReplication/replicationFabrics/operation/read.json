@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationFabrics/operation/read",
+  "OperationName": "Gets the operation status of the fabric",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Fabrics",
+  "Description": "Gets the operation status of the fabrics",
+  "IsDataAction": false
+}

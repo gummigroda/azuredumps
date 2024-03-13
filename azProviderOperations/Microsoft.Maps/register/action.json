@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/register/action",
+  "OperationName": "Register the provider",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "",
+  "Description": "Register the provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/fqdnlists/delete",
+  "OperationName": "FqdnListLocalRulestack_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/fqdnlists",
+  "Description": "Delete a FqdnListLocalRulestackResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid Filter",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/EventGridFilters",
+  "Description": "Create or update an event grid filter for a SignalR resource with the specified parameters",
+  "IsDataAction": false
+}

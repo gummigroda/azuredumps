@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/azureADMetrics/write",
+  "OperationName": "Azure AD Metrics Definition write",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Azure AD Metrics Definition",
+  "Description": "Create and Update Azure AD Metrics Definition",
+  "IsDataAction": false
+}

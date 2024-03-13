@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/read",
+  "OperationName": "Get Topic",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Topic",
+  "Description": "Get list of Topic Resource Descriptions",
+  "IsDataAction": false
+}

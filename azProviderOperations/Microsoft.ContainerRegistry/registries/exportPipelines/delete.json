@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/exportPipelines/delete",
+  "OperationName": "Delete export pipeline",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ExportPipelines",
+  "Description": "Deletes an export pipeline from a container registry.",
+  "IsDataAction": false
+}

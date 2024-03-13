@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/knowledgebases/write",
+  "OperationName": "Knowledgebase - Replace|Knowledgebase - Update",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Asynchronous operation to modify a knowledgebase or Replace knowledgebase contents.",
+  "IsDataAction": true
+}

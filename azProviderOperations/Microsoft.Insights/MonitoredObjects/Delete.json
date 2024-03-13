@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MonitoredObjects/Delete",
+  "OperationName": "Delete monitored object",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Monitored Object",
+  "Description": "Delete a monitored object",
+  "IsDataAction": false
+}

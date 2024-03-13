@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/images/versions/read",
+  "OperationName": "Get Gallery Image Version",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryImageVersions",
+  "Description": "Gets the properties of Gallery Image Version",
+  "IsDataAction": false
+}

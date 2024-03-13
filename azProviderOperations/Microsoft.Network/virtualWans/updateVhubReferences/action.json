@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/updateVhubReferences/action",
+  "OperationName": "Update VirtualHub reference in VirtualWan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Update VirtualHub reference in VirtualWan",
+  "IsDataAction": false
+}

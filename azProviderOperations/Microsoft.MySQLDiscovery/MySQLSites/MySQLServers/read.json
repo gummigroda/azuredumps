@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/MySQLServers/read",
+  "OperationName": "MySQLServers_ListBySite",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites/MySQLServers",
+  "Description": "Lists the MySQLServers resource in MySQLSites.",
+  "IsDataAction": false
+}

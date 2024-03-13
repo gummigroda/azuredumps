@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Reads Azure Automation Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection Proxy",
+  "Description": "Reads Azure Automation Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

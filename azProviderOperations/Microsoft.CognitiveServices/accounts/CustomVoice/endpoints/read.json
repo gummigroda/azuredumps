@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/read",
+  "OperationName": "Get one or more voice endpoints",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Get one or more voice endpoints",
+  "IsDataAction": true
+}

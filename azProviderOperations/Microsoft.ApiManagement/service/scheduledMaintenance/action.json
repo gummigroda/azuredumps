@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/scheduledMaintenance/action",
+  "OperationName": "Scheduled Maintenance",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Perform Scheduled Maintenance on the service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/capacities/skus/read",
+  "OperationName": "Read available SKU information for the capacity",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Retrieve available SKU information for the Fabric capacity",
+  "IsDataAction": false
+}

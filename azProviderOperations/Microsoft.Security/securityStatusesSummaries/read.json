@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityStatusesSummaries/read",
+  "OperationName": "Get security statuses summaries",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Statuses Summaries",
+  "Description": "Gets the security statuses summaries for the scope",
+  "IsDataAction": false
+}

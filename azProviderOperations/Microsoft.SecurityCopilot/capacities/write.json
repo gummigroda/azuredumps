@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityCopilot/capacities/write",
+  "OperationName": "Capacities_Update",
+  "ProviderNamespace": "Microsoft.SecurityCopilot",
+  "ResourceName": "capacities",
+  "Description": "Update a Capacity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/fhirservices/resources/convertData/action",
+  "OperationName": "ConvertData",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Data convert operation ($convert-data)",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read",
+  "OperationName": "Read blob tags",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Returns the result of reading blob tags",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/unregister/action",
+  "OperationName": "Unregisters the Azure Synapse Analytics (workspaces) Resource Provider.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "",
+  "Description": "Unregisters the Azure Synapse Analytics (workspaces) Resource Provider and disables the creation of Workspaces.",
+  "IsDataAction": false
+}

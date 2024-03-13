@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/eventroutes/write",
+  "OperationName": "Create Event Route",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Event Route",
+  "Description": "Create or Update any Event Route",
+  "IsDataAction": true
+}

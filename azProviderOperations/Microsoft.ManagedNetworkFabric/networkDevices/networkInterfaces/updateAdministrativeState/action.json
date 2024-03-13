@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/updateAdministrativeState/action",
+  "OperationName": "NetworkInterfaces_updateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "Update the admin state of the Network Interface.",
+  "IsDataAction": false
+}

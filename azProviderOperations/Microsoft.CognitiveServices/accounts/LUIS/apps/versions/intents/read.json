@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/read",
+  "OperationName": "Get intent or Get version intents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Intents",
+  "Description": "Gets info about the intent model.\r\nGets info about the intent models in the application version.",
+  "IsDataAction": true
+}

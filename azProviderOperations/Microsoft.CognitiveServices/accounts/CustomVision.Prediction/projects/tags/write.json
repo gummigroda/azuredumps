@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/tags/write",
+  "OperationName": "UpdateTag",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tags*",
+  "Description": "Update a tag.",
+  "IsDataAction": true
+}

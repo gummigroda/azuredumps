@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/write",
+  "OperationName": "Create or Update Application",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Applications",
+  "Description": "Creates a new application or updates an existing application",
+  "IsDataAction": false
+}

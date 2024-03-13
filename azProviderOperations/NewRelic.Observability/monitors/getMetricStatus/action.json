@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/getMetricStatus/action",
+  "OperationName": "Get Metric Status",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Get Metric status for resources",
+  "IsDataAction": false
+}

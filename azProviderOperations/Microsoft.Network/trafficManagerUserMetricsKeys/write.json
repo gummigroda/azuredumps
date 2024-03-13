@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerUserMetricsKeys/write",
+  "OperationName": "Create or update a subscription-level key used for Realtime User Metrics collection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Realtime User Metrics Keys for Traffic Management",
+  "Description": "Creates a new subscription-level key to be used for Realtime User Metrics collection.",
+  "IsDataAction": false
+}

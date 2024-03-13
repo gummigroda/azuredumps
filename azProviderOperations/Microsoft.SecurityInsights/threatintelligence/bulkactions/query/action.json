@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/bulkactions/query/action",
+  "OperationName": "Query Threat Intelligence STIX objects",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIBulkActions",
+  "Description": "Query Threat Intelligence STIX objects",
+  "IsDataAction": false
+}

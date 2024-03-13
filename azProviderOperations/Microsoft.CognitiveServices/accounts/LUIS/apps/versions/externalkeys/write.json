@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/externalkeys/write",
+  "OperationName": "versions - Update application version external key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "externalkeys*",
+  "Description": "**THIS IS DEPRECATED**",
+  "IsDataAction": true
+}

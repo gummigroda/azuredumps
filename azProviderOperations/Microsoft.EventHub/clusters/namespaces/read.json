@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/namespaces/read",
+  "OperationName": "List namespaces within a cluster read operation",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Non Resource Operation",
+  "Description": "List namespace ARM IDs for namespaces within a cluster.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/installUpdates/action",
+  "OperationName": "Install Updates",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Install Updates on device",
+  "IsDataAction": false
+}

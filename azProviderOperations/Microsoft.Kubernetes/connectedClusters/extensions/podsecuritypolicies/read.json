@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/podsecuritypolicies/read",
+  "OperationName": "Gets/List podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "podsecuritypolicies",
+  "Description": "Reads podsecuritypolicies",
+  "IsDataAction": true
+}

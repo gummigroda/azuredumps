@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/read",
+  "OperationName": "Read Gremlin database(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Database",
+  "Description": "Read a Gremlin database or list all the Gremlin databases.",
+  "IsDataAction": false
+}

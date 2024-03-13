@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/resourcetypes/read",
+  "OperationName": "Lists Available Resource Types",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "ResourceTypes",
+  "Description": "Lists available resource types for Microsoft CodeSigning resource provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/endpoints/base/files/logs/delete",
+  "OperationName": "Delete Base Model Endpoint Logs|Delete All Base Model Endpoint Logs*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "logs*",
+  "Description": "Deletes one audio or transcription log that have been stored when using the default base model of a given language.\r\nDeletion process is done asynchronously and can take up to one day depending on the amount of log files.*",
+  "IsDataAction": true
+}

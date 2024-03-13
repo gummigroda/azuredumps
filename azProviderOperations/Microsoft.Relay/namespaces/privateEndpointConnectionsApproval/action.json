@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Namespace",
+  "Description": "Approve Private Endpoint Connection",
+  "IsDataAction": false
+}

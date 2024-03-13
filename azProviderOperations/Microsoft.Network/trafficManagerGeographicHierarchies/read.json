@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerGeographicHierarchies/read",
+  "OperationName": "Get Traffic Manager Geographic Hierarchy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Geographic Hierarchy",
+  "Description": "Gets the Traffic Manager Geographic Hierarchy containing regions which can be used with the Geographic traffic routing method",
+  "IsDataAction": false
+}

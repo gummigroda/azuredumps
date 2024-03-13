@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/instances/extensions/log/read",
+  "OperationName": "Get Web Apps Instances Extensions Log",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Instances Extensions Log",
+  "Description": "Get Web Apps Instances Extensions Log.",
+  "IsDataAction": false
+}

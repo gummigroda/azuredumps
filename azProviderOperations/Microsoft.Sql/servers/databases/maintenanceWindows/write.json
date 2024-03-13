@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/maintenanceWindows/write",
+  "OperationName": "Set Data Warehouse maintenance windows.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Data Warehouse maintenance windows.",
+  "Description": "Sets maintenance windows settings for a selected database.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write",
+  "OperationName": "Create backup Protection Intent",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Intent",
+  "Description": "Create a backup Protection Intent",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/eventGridFilters/read",
+  "OperationName": "Get Configuration Store Event Grid Filter or List Configuration Store Event Grid Filters",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store Event Grid Filter",
+  "Description": "Gets the properties of the specified configuration store event grid filter or lists all the configuration store event grid filters under the specified configuration store.",
+  "IsDataAction": false
+}

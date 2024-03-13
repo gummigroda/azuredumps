@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/resourceTypes/read",
+  "OperationName": "Read the provider resourceTypes",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "resourceTypes",
+  "Description": "Read the provider resourceTypes",
+  "IsDataAction": false
+}

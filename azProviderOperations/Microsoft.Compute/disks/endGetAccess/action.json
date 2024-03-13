@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/endGetAccess/action",
+  "OperationName": "Revoke Disk SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Revoke the SAS URI of the Disk",
+  "IsDataAction": false
+}

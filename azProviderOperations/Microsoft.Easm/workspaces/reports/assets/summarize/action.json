@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/reports/assets/summarize/action",
+  "OperationName": "Reports_Summarize",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve asset summary details for the summary request.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/entitiescount/read",
+  "OperationName": "entities count - GetEntitiesCountForIntent",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "entitiescount*",
+  "Description": "Gets the entities count of the labeled utterances for the given intent in the given task in the given app.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/write",
+  "OperationName": "Create or update an voice endpoint.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Create or update an voice endpoint.",
+  "IsDataAction": true
+}

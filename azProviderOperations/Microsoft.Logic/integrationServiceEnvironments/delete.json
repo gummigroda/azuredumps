@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/delete",
+  "OperationName": "Delete Integration Service Environment",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment",
+  "Description": "Deletes the integration service environment.",
+  "IsDataAction": false
+}

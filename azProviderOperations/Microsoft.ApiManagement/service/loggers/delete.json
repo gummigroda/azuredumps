@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/loggers/delete",
+  "OperationName": "Remove logger",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Loggers",
+  "Description": "Deletes the specified logger.",
+  "IsDataAction": false
+}

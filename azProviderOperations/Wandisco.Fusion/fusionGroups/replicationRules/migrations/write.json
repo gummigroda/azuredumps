@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/migrations/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrations",
+  "Description": "Start a migration",
+  "IsDataAction": false
+}

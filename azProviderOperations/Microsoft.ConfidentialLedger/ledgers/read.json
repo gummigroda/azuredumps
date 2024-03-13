@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/ledgers/read",
+  "OperationName": "Ledger_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "ledgers",
+  "Description": "Retrieves the properties of all Confidential Ledgers.",
+  "IsDataAction": false
+}

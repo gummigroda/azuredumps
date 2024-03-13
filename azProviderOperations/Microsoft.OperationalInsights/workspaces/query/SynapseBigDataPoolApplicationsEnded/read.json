@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseBigDataPoolApplicationsEnded/read",
+  "OperationName": "Read SynapseBigDataPoolApplicationsEnded data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseBigDataPoolApplicationsEnded",
+  "Description": "Read data from the SynapseBigDataPoolApplicationsEnded table",
+  "IsDataAction": false
+}

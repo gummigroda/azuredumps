@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/delete",
+  "OperationName": "Instances_Delete",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances",
+  "Description": "delete instances",
+  "IsDataAction": false
+}

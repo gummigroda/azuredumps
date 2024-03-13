@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/weather/delete",
+  "OperationName": "Delete AgFoodPlatform weather resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform weather",
+  "Description": "Deletes an existing AgFoodPlatform weather resource.",
+  "IsDataAction": true
+}

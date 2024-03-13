@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/batch/read",
+  "OperationName": "Get Batch List (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch Analyze Image",
+  "Description": "This internal operation returns the list of batches.",
+  "IsDataAction": true
+}

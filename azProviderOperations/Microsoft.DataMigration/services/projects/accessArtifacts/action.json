@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/projects/accessArtifacts/action",
+  "OperationName": "Access project artifacts",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service Project",
+  "Description": "Generate a URL that can be used to GET or PUT project artifacts",
+  "IsDataAction": false
+}

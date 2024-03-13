@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/replicationdetails/read",
+  "OperationName": "Gets replication details.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets replication details for all the servers for the specified service name.",
+  "IsDataAction": false
+}

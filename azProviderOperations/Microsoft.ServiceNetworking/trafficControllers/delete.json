@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/delete",
+  "OperationName": "Delete Traffic Controller",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller",
+  "Description": "Delete the Traffic Controller resource",
+  "IsDataAction": false
+}

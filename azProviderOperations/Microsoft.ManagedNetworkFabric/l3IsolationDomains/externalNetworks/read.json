@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/externalNetworks/read",
+  "OperationName": "ExternalNetworks_List",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/externalNetworks",
+  "Description": "Implements External Networks list by resource group GET method.",
+  "IsDataAction": false
+}

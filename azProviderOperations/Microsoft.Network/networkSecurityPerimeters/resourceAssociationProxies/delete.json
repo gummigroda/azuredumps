@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/resourceAssociationProxies/delete",
+  "OperationName": "Deletes a Network Security Perimeter Resource Association Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Resource Association Proxy",
+  "Description": "Deletes a Network Security Perimeter Resource Association Proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/write",
+  "OperationName": "Vendors_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors",
+  "Description": "Creates or updates a vendor.",
+  "IsDataAction": false
+}

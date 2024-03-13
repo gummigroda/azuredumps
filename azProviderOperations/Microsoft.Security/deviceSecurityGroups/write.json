@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/deviceSecurityGroups/write",
+  "OperationName": "Create device security groups",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Device Security Groups",
+  "Description": "Creates or updates IoT device security groups",
+  "IsDataAction": false
+}

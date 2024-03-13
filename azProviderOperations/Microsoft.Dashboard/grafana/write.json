@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/write",
+  "OperationName": "Create/Update grafana resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Grafana",
+  "Description": "Write grafana",
+  "IsDataAction": false
+}

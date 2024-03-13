@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems/delete",
+  "OperationName": "Deletes blocklist items under a blocklist.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Responsible AI Customer Blocklist Item",
+  "Description": "Deletes blocklist items under a blocklist.",
+  "IsDataAction": false
+}

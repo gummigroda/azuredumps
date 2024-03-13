@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/pooledSchedules/write",
+  "OperationName": "Write scalingplans/pooledSchedules",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans/pooledSchedules",
+  "Description": "Write scalingplans/pooledSchedules",
+  "IsDataAction": false
+}

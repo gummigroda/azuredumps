@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/DeploymentSettings/Delete",
+  "OperationName": "Deletes DeploymentSettings resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "DeploymentSettings",
+  "Description": "Deletes DeploymentSettings resource",
+  "IsDataAction": false
+}

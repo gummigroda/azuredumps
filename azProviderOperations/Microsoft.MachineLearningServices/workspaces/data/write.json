@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/data/write",
+  "OperationName": "Writes Data container in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Data",
+  "Description": "Writes Data container in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

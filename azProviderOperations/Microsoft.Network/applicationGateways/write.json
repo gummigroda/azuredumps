@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/write",
+  "OperationName": "Create or Update Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Creates an application gateway or updates an application gateway",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/write",
+  "OperationName": "Update pricing settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings",
+  "Description": "Updates the pricing settings for the scope",
+  "IsDataAction": false
+}

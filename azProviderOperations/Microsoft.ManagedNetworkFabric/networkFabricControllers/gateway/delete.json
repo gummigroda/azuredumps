@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/gateway/delete",
+  "OperationName": "Gateway_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/gateway",
+  "Description": "Delete the Gateway resource.",
+  "IsDataAction": false
+}

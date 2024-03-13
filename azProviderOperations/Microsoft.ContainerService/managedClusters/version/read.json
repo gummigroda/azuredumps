@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/version/read",
+  "OperationName": "Gets/List version resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Version",
+  "Description": "Reads version",
+  "IsDataAction": true
+}

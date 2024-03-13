@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupPolicies/write",
+  "OperationName": "Create Protection Policy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Policies",
+  "Description": "Creates Protection Policy",
+  "IsDataAction": false
+}

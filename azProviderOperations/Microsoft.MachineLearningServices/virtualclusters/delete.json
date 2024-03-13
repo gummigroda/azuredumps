@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/virtualclusters/delete",
+  "OperationName": "Deletes the Machine Learning Services Virtual Cluster(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Virtual Cluster",
+  "Description": "Deletes the Machine Learning Services Virtual Cluster(s)",
+  "IsDataAction": false
+}

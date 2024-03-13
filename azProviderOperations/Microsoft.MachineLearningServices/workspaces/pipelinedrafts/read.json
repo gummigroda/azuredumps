@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/pipelinedrafts/read",
+  "OperationName": "Gets pipeline drafts in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Pipeline Drafts",
+  "Description": "Gets pipeline drafts in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

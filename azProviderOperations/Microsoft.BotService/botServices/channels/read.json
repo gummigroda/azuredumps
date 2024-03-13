@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/channels/read",
+  "OperationName": "Read a Bot Service Channel",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service Channel",
+  "Description": "Read a Bot Service Channel",
+  "IsDataAction": false
+}

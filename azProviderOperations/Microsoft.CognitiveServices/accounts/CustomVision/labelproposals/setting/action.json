@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/labelproposals/setting/action",
+  "OperationName": "SetLabelSetting",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "labelproposals*",
+  "Description": "Set pool size of Label Proposal.",
+  "IsDataAction": true
+}

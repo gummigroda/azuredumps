@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/delete",
+  "OperationName": "Delete orders",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "orders",
+  "Description": "Deletes the orders",
+  "IsDataAction": false
+}

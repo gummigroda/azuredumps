@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/assemblies/listContentCallbackUrl/action",
+  "OperationName": "List Integration Account Assembly Content Callback URL",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Assembly",
+  "Description": "Gets the callback URL for assembly content in integration account.",
+  "IsDataAction": false
+}

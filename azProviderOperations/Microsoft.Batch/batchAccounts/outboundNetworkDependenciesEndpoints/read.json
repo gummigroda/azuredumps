@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "List Outbound Network Dependency Endpoints",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Outbound Network Dependencies Endpoints",
+  "Description": "Lists the outbound network dependency endpoints for a Batch account",
+  "IsDataAction": false
+}

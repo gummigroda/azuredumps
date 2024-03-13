@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/trackingAreas/write",
+  "OperationName": "TrackingAreas_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas/trackingAreas",
+  "Description": "Creates or updates a Mobile Packet Core tracking area resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/validatingwebhookconfigurations/read",
+  "OperationName": "Gets/List validatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "validatingwebhookconfigurations",
+  "Description": "Reads validatingwebhookconfigurations",
+  "IsDataAction": true
+}

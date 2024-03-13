@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateCryptoKeySummary/action",
+  "OperationName": "Firmware_GenerateCryptoKeySummary",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to provide a high level summary of the discovered cryptographic keys reported for the firmware image.",
+  "IsDataAction": false
+}

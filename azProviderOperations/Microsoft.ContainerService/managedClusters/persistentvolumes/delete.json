@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/persistentvolumes/delete",
+  "OperationName": "Deletes/DeletesCollection persistentvolumes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Persistentvolumes",
+  "Description": "Deletes persistentvolumes",
+  "IsDataAction": true
+}

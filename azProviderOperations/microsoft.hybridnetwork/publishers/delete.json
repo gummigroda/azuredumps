@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/delete",
+  "OperationName": "Publishers_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers",
+  "Description": "Deletes the specified publisher.",
+  "IsDataAction": false
+}

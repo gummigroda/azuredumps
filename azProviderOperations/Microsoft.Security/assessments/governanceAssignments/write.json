@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessments/governanceAssignments/write",
+  "OperationName": "Create governance assignments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Governance assignments",
+  "Description": "Create or update governance assignments for security assessments",
+  "IsDataAction": false
+}

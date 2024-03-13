@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

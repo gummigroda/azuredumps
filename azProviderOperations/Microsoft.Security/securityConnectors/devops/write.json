@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/write",
+  "OperationName": "Configurations_Update",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps",
+  "Description": "Updates a DevOps Configuration.",
+  "IsDataAction": false
+}

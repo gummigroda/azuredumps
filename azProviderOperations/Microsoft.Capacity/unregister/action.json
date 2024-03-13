@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/unregister/action",
+  "OperationName": "Unregister Tenant",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Unregister any Tenant",
+  "IsDataAction": false
+}

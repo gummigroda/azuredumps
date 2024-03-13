@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/inboundEndpoints/delete",
+  "OperationName": "Delete a DNS Resolver Inbound Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver Inbound Endpoint",
+  "Description": "Deletes a DNS Resolver Inbound Endpoint, in JSON format",
+  "IsDataAction": false
+}

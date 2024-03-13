@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/delete/action",
+  "OperationName": "Delete Virtual Machines in a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Deletes the instances of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

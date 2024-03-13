@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/PTR/read",
+  "OperationName": "Get record set of type PTR",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS PTR record set",
+  "Description": "Get the record set of type ‘PTR’, in JSON format. The record set contains a list of records as well as the TTL, tags, and etag.",
+  "IsDataAction": false
+}

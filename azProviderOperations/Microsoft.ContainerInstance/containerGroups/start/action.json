@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/start/action",
+  "OperationName": "Start Container Group",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Starts a specific container group.",
+  "IsDataAction": false
+}

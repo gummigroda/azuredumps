@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/EventGridFilters/Write",
+  "OperationName": "Create/update EventGrid filters on a communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "ACS EventGrid Filters",
+  "Description": "Writes EventGrid filters on communication services",
+  "IsDataAction": false
+}

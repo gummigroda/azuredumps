@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/virtualnetworkconnections/delete",
+  "OperationName": "Delete Web Apps Virtual Network Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Virtual Network Connections",
+  "Description": "Delete Web Apps Virtual Network Connections.",
+  "IsDataAction": false
+}

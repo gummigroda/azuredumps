@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/videos/write",
+  "OperationName": "Create or Update Video",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Resource",
+  "Description": "Create or Update any Video",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get elastic pool metric definitions",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Database Pool Metric Definition",
+  "Description": "Return types of metrics that are available for elastic database pools",
+  "IsDataAction": false
+}

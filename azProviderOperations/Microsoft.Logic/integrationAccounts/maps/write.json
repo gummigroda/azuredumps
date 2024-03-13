@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/maps/write",
+  "OperationName": "Set Integration Account Map",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Map",
+  "Description": "Creates or updates the map in integration account.",
+  "IsDataAction": false
+}

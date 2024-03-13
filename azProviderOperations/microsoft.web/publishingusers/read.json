@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/publishingusers/read",
+  "OperationName": "Get Publishing Users",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Publishing Users",
+  "Description": "Get Publishing Users.",
+  "IsDataAction": false
+}

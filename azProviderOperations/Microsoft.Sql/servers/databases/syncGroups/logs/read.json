@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/logs/read",
+  "OperationName": "List Azure SQL Sync Group logs",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Return the list of sync group logs",
+  "IsDataAction": false
+}

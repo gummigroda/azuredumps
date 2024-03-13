@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/clusters/write",
+  "OperationName": "Create or Update HDInsight on AKS Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster",
+  "Description": "Create or Update HDInsight on AKS Cluster",
+  "IsDataAction": false
+}

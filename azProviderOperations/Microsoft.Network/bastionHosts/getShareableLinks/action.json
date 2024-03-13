@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/getShareableLinks/action",
+  "OperationName": "Returns the shareable urls for the specified VMs in a Bastion subnet provided their urls are created",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Returns the shareable urls for the specified VMs in a Bastion subnet provided their urls are created",
+  "IsDataAction": false
+}

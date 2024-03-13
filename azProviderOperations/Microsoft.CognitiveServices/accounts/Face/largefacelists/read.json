@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/read",
+  "OperationName": "LargeFaceList - Get|LargeFaceList - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largefacelists*",
+  "Description": "Retrieve a large face list��s largeFaceListId, name, userData and recognitionModel.\r\nList large face lists�� information of largeFaceListId, name, userData and recognitionModel.*",
+  "IsDataAction": true
+}

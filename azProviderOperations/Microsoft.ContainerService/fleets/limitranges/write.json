@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/limitranges/write",
+  "OperationName": "Creates/Updates limitranges resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Limitranges",
+  "Description": "Writes limitranges",
+  "IsDataAction": true
+}

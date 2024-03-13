@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/apps/v1beta2/read",
+  "OperationName": "Gets/List v1beta2 resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "v1beta2",
+  "Description": "Reads v1beta2",
+  "IsDataAction": true
+}

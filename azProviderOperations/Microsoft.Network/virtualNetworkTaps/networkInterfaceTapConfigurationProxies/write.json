@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/networkInterfaceTapConfigurationProxies/write",
+  "OperationName": "Create or update Network Interface Tap Configuration Proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration Proxy.",
+  "Description": "Creates a Network Interface Tap Configuration Proxy Or updates an existing Network Interface Tap Configuration Proxy.",
+  "IsDataAction": false
+}

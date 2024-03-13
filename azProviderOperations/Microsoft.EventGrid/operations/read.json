@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/operations/read",
+  "OperationName": "List EventGrid Operations",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "EventGrid Resource Provider",
+  "Description": "List EventGrid operations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/deleteNetworkFabricControllerEndPoints/action",
+  "OperationName": "ArtifactStores_DeleteNetworkFabricControllerEndPoints",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Delete network fabric controllers from artifact store.",
+  "IsDataAction": false
+}

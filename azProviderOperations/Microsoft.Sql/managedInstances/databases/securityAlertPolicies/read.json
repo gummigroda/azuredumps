@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/securityAlertPolicies/read",
+  "OperationName": "List managed database threat detection policies",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Database Threat Detection Policy",
+  "Description": "Retrieve a list of managed database threat detection policies configured for a given server",
+  "IsDataAction": false
+}

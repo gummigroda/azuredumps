@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/synchronize/action",
+  "OperationName": "Data Share Synchronize Action",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ShareSubscription",
+  "Description": "Initialize a Data Share Synchronize operation.",
+  "IsDataAction": false
+}

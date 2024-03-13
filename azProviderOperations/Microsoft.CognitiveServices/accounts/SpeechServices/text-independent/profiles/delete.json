@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-independent/profiles/delete",
+  "OperationName": "Delete Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "profiles",
+  "Description": "Deletes an existing profile.",
+  "IsDataAction": true
+}

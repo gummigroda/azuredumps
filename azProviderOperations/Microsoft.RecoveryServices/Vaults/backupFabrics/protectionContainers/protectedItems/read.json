@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read",
+  "OperationName": "Get Protected Item Details",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Returns object details of the Protected Item",
+  "IsDataAction": false
+}

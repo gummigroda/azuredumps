@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/multislot/events/activate/action",
+  "OperationName": "Activate multi-slot Event.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "events*",
+  "Description": "Report that the specified event was actually used or displayed to the user and a rewards should be expected for it.",
+  "IsDataAction": true
+}

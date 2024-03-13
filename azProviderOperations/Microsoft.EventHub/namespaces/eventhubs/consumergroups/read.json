@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventHubs/consumergroups/read",
+  "OperationName": "Get ConsumerGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "ConsumerGroup",
+  "Description": "Get list of ConsumerGroup Resource Descriptions",
+  "IsDataAction": false
+}

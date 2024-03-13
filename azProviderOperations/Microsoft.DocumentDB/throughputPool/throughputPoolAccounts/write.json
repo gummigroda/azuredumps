@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/throughputPool/throughputPoolAccounts/write",
+  "OperationName": "Create ThroughputPoolAccount",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "ThroughputPoolAccount",
+  "Description": "Create throughputPool account in throughputPool",
+  "IsDataAction": false
+}

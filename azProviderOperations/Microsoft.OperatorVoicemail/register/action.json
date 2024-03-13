@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperatorVoicemail/register/action",
+  "OperationName": "Register the Microsoft.OperatorVoicemail",
+  "ProviderNamespace": "Microsoft.OperatorVoicemail",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.OperatorVoicemail",
+  "IsDataAction": false
+}

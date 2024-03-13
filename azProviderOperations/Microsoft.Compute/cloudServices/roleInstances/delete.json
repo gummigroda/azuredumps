@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roleInstances/delete",
+  "OperationName": "Deletes a RoleInstance from CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Role Instance",
+  "Description": "Deletes a RoleInstance from CloudService.",
+  "IsDataAction": false
+}

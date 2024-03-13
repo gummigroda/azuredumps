@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/write",
+  "OperationName": "Create or update a dataset.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Create or update a dataset.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/train/action",
+  "OperationName": "Train time series group application instance model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App instances of a time series group",
+  "Description": "Train time series group application instance model",
+  "IsDataAction": true
+}

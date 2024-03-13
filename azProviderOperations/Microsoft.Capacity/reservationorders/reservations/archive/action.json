@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/reservations/archive/action",
+  "OperationName": "Archive Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Archive a reservation which is in a terminal state like Expired, Split etc.",
+  "IsDataAction": false
+}

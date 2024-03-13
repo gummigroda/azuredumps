@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/restore/read",
+  "OperationName": "Get Web Apps Restore",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Restore",
+  "Description": "Get Web Apps Restore.",
+  "IsDataAction": false
+}

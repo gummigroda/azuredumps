@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/operations/read",
+  "OperationName": "Read all Operations",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "Microsoft.HybridCompute Resource Provider",
+  "Description": "Read all Operations for Azure Arc for Servers",
+  "IsDataAction": false
+}

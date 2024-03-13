@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/resume/action",
+  "OperationName": "Resume an Azure Automation job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job",
+  "Description": "Resumes an Azure Automation job",
+  "IsDataAction": false
+}

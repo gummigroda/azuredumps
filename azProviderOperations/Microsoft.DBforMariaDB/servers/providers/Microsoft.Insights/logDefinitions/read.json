@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read the log definitions",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "The log definition of servers",
+  "Description": "Gets the available logs for MariaDB servers",
+  "IsDataAction": false
+}

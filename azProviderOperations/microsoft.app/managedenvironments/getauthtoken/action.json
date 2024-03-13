@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/getauthtoken/action",
+  "OperationName": "Auth Token for Managed Environment Dev APIs",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Get Auth Token for Managed Environment Dev APIs to get log stream, exec or port forward from a container",
+  "IsDataAction": false
+}

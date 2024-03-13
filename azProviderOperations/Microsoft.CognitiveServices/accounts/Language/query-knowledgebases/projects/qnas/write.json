@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/qnas/write",
+  "OperationName": "Update QnAs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "qnas*",
+  "Description": "Update QnAs.",
+  "IsDataAction": true
+}

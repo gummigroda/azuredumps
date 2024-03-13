@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bgpServiceCommunities/read",
+  "OperationName": "Get Bgp Service Communities",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bgp Service Community",
+  "Description": "Get Bgp Service Communities",
+  "IsDataAction": false
+}

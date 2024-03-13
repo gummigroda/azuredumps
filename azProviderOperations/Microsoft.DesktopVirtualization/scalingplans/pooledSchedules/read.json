@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/pooledSchedules/read",
+  "OperationName": "Read scalingplans/pooledSchedules",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans/pooledSchedules",
+  "Description": "Read scalingplans/pooledSchedules",
+  "IsDataAction": false
+}

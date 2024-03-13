@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/bmcKeySets/read",
+  "OperationName": "BmcKeySets_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/bmcKeySets",
+  "Description": "Get baseboard management controller key set of the provided cluster.",
+  "IsDataAction": false
+}

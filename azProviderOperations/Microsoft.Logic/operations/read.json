@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/operations/read",
+  "OperationName": "Get Operation",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Operation",
+  "Description": "Gets the operation.",
+  "IsDataAction": false
+}

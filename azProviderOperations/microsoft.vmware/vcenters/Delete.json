@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/vcenters/Delete",
+  "OperationName": "Deletes vcenters resource",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "vcenters",
+  "Description": "Deletes vcenters",
+  "IsDataAction": false
+}

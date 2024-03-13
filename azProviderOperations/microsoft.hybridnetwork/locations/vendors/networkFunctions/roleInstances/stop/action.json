@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/roleInstances/stop/action",
+  "OperationName": "RoleInstances_Stop",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions/roleInstances",
+  "Description": "Powers off (stop) a role instance of a vendor network function.",
+  "IsDataAction": false
+}

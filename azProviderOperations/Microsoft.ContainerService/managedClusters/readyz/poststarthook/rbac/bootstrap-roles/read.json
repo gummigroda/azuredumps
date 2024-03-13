@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/readyz/poststarthook/rbac/bootstrap-roles/read",
+  "OperationName": "Gets/List bootstrap-roles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Bootstrap-Roles",
+  "Description": "Reads bootstrap-roles",
+  "IsDataAction": true
+}

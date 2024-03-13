@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateEndpointConnections/delete",
+  "OperationName": "Delete private endpoint connections",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateEndpointConnections",
+  "Description": "Delete private endpoint connections",
+  "IsDataAction": false
+}

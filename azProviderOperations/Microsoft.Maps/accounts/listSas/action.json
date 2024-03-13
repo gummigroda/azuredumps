@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/listSas/action",
+  "OperationName": "List SAS Tokens",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Creates new SAS tokens on Maps Account.",
+  "IsDataAction": false
+}

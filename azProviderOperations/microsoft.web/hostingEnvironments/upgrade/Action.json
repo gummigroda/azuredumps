@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/upgrade/Action",
+  "OperationName": "Upgrade an App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Upgrades an App Service Environment",
+  "IsDataAction": false
+}

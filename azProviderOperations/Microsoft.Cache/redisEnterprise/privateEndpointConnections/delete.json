@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/privateEndpointConnections/delete",
+  "OperationName": "Delete private endpoint connection",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache private endpoint connections",
+  "Description": "Delete a private endpoint connection",
+  "IsDataAction": false
+}

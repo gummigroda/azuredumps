@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/computes/updateIdleShutdownSetting/action",
+  "OperationName": "Update compute idle shutdown settings in Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Computes",
+  "Description": "Update compute idle shutdown settings in Machine Learning Services Workspace",
+  "IsDataAction": false
+}

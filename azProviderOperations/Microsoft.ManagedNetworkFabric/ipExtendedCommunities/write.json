@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipExtendedCommunities/write",
+  "OperationName": "IpExtendedCommunities_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipExtendedCommunities",
+  "Description": "API to update certain properties of the IP Extended Community resource.",
+  "IsDataAction": false
+}

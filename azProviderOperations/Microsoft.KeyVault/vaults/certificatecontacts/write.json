@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificatecontacts/write",
+  "OperationName": "Manage Certificate Contact",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate Contact",
+  "Description": "Manage Certificate Contact",
+  "IsDataAction": true
+}

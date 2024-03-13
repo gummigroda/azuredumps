@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/dynamicpersongroups/write",
+  "OperationName": "PersonDirectory DynamicPersonGroup - Create|PersonDirectory DynamicPersonGroup - Update*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dynamicpersongroups*",
+  "Description": "Creates a new dynamic person group with specified dynamicPersonGroupId, name, and user-provided userData.\r\nUpdate an existing dynamic person group name, userData, add, or remove persons. The properties keep unchanged if they are not in request body.*",
+  "IsDataAction": true
+}

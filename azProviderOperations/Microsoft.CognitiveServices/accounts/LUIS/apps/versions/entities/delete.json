@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/delete",
+  "OperationName": "Delete simple entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entities",
+  "Description": "Deletes a simple entity extractor from the application version.",
+  "IsDataAction": true
+}

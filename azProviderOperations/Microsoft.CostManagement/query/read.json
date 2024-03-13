@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/query/read",
+  "OperationName": "Query usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Query",
+  "Description": "Query usage data by a scope.",
+  "IsDataAction": false
+}

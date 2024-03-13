@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/managementconfigurations/read",
+  "OperationName": "Get Management Configuration",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Management Configuration",
+  "Description": "Get management configuration.",
+  "IsDataAction": false
+}

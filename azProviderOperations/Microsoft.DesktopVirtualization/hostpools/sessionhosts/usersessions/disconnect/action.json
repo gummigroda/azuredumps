@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhosts/usersessions/disconnect/action",
+  "OperationName": "disconnect",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhosts/usersessions",
+  "Description": "Disconnects the user session form session host",
+  "IsDataAction": false
+}

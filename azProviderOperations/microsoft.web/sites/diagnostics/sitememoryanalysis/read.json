@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/sitememoryanalysis/read",
+  "OperationName": "Get Web Apps Diagnostics Site Memory Analysis",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Site Memory Analysis",
+  "Description": "Get Web Apps Diagnostics Site Memory Analysis.",
+  "IsDataAction": false
+}

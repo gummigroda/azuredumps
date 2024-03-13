@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/skus/read",
+  "OperationName": "Gets the list of Microsoft.Workloads SKUs available for your Subscription",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "Skus",
+  "Description": "Gets the list of Microsoft.Workloads SKUs available for your Subscription",
+  "IsDataAction": false
+}

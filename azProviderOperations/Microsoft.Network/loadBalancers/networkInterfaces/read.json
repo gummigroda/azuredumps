@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/networkInterfaces/read",
+  "OperationName": "Get Load Balancer Network Interfaces",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Network Interfaces",
+  "Description": "Gets references to all the network interfaces under a load balancer",
+  "IsDataAction": false
+}

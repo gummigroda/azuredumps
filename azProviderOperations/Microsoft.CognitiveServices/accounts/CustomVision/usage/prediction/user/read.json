@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/usage/prediction/user/read",
+  "OperationName": "GetPredictionUsageForOxford",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "user*",
+  "Description": "Get usage for prediction resource for Oxford user",
+  "IsDataAction": true
+}

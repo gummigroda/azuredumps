@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/start/action",
+  "OperationName": "BareMetalMachines_Start",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Start the provided bare metal machine.",
+  "IsDataAction": false
+}

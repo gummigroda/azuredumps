@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/resume/action",
+  "OperationName": "Resume Container Copy Job",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container Copy Jobs",
+  "Description": "Resume container copy job in a database account",
+  "IsDataAction": false
+}

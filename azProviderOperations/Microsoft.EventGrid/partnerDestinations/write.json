@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerDestinations/write",
+  "OperationName": "Write PartnerDestination",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerDestinations",
+  "Description": "Create or update a partner destination",
+  "IsDataAction": false
+}

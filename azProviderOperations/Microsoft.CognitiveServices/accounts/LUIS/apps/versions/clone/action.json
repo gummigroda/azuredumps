@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/clone/action",
+  "OperationName": "Clone version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Creates a new application version equivalent to the current snapshot of the selected application version.",
+  "IsDataAction": true
+}

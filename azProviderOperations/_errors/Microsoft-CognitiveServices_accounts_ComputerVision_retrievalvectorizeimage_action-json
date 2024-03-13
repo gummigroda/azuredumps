@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval:vectorizeimage/action",
+  "OperationName": "VectorizeImage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Return vector from an image.",
+  "IsDataAction": true
+}

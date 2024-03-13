@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/write",
+  "OperationName": "Create or Update Virtual Network Tap",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkTap",
+  "Description": "Create or Update Virtual Network Tap",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/eventGridFilters/read",
+  "OperationName": "List Event Grid Subscription Filter",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Event Grid Subscription Filter",
+  "Description": "List or get the Event Grid Subscription Filter",
+  "IsDataAction": false
+}

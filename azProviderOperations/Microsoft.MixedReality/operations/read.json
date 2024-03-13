@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/operations/read",
+  "OperationName": "List operations",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "Mixed Reality resource provider",
+  "Description": "List available operations for Microsoft Mixed Reality",
+  "IsDataAction": false
+}

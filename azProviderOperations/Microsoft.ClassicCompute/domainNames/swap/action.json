@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/swap/action",
+  "OperationName": "Swap Staging And Production Slots",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name",
+  "Description": "Swaps the staging slot to the production slot.",
+  "IsDataAction": false
+}

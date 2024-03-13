@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupCrrOperationsStatus/read",
+  "OperationName": "Get CRR Operation Status",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "CRR Operation Status",
+  "Description": "Returns CRR Operation Status for Recovery Services Vault.",
+  "IsDataAction": false
+}

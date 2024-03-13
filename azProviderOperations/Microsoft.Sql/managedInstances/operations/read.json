@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/operations/read",
+  "OperationName": "Get managed instance operations for specific managed instance",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed instance operations",
+  "Description": "Get managed instance operations",
+  "IsDataAction": false
+}

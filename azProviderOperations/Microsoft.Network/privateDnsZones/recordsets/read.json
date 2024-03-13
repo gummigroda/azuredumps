@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/recordsets/read",
+  "OperationName": "Gets Private DNS record sets across types",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS record set",
+  "Description": "Gets Private DNS record sets across types",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AirflowDagProcessingLogs/read",
+  "OperationName": "Read AirflowDagProcessingLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AirflowDagProcessingLogs",
+  "Description": "Read data from the AirflowDagProcessingLogs table",
+  "IsDataAction": false
+}

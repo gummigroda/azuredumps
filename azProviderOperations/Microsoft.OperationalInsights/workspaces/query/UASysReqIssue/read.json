@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UASysReqIssue/read",
+  "OperationName": "Read UASysReqIssue data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UASysReqIssue",
+  "Description": "Read data from the UASysReqIssue table",
+  "IsDataAction": false
+}

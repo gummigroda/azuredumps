@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/listApprovedSchemas/action",
+  "OperationName": "AzureDataTransfer_listApprovedSchemas",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "",
+  "Description": "Lists approved schemas for Azure Data Transfer.",
+  "IsDataAction": false
+}

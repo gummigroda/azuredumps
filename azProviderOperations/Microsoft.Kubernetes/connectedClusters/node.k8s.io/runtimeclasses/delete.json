@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/node.k8s.io/runtimeclasses/delete",
+  "OperationName": "Deletes/DeletesCollection runtimeclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "runtimeclasses",
+  "Description": "Deletes runtimeclasses",
+  "IsDataAction": true
+}

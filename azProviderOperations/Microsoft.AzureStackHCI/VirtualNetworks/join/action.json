@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualNetworks/join/action",
+  "OperationName": "Joins virtual networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualNetworks",
+  "Description": "Joins virtual networks resource",
+  "IsDataAction": false
+}

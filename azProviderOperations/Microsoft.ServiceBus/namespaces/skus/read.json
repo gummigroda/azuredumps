@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/skus/read",
+  "OperationName": "List SKUs",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace SKU",
+  "Description": "List Supported SKUs for Namespace",
+  "IsDataAction": false
+}

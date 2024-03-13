@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/saasresources/write",
+  "OperationName": "Create or Update a SaaS resource",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Resources",
+  "Description": "Create or Update a SaaS resource",
+  "IsDataAction": false
+}

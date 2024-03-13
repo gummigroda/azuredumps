@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/authorizationRules/read",
+  "OperationName": "Get Namespace Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Get the list of Namespaces Authorization Rules description.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/validations/action",
+  "OperationName": "Validations",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "",
+  "Description": "Validate the arguments",
+  "IsDataAction": false
+}

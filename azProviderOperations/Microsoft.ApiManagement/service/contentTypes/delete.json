@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/contentTypes/delete",
+  "OperationName": "Delete content item",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Content types",
+  "Description": "Removes content type.",
+  "IsDataAction": false
+}

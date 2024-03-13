@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/avsAssessments/delete",
+  "OperationName": "Delete AVS Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS Assessments",
+  "Description": "Deletes an AVS assessment",
+  "IsDataAction": false
+}

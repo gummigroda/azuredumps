@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/heatStackTemplates/write",
+  "OperationName": "HeatStackTemplates_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "heatStackTemplates",
+  "Description": "API to update certain properties of the HeatStackTemplate resource.",
+  "IsDataAction": false
+}

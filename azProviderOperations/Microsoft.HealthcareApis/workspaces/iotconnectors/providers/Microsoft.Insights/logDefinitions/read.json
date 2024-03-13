@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/iotconnectors/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read the Azure service log definitions.",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure service log definition.",
+  "Description": "Gets the available logs for the Azure service.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/delete",
+  "OperationName": "Deletes a deployment in an online inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoint Deployments",
+  "Description": "Deletes a deployment in an online inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

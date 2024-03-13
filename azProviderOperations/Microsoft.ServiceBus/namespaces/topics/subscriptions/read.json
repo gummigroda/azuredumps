@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/subscriptions/read",
+  "OperationName": "Get TopicSubscription",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "TopicSubscription",
+  "Description": "Get list of TopicSubscription Resource Descriptions",
+  "IsDataAction": false
+}

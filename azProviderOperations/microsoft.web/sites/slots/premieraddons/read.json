@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/premieraddons/read",
+  "OperationName": "Get Web Apps Slots Premier Addons",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Premier Addons",
+  "Description": "Get Web Apps Slots Premier Addons.",
+  "IsDataAction": false
+}

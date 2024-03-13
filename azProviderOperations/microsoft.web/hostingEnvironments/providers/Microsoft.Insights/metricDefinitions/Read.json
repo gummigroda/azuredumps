@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read App Service Environment metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of App Service Environment",
+  "Description": "Gets the available metrics for App Service Environment",
+  "IsDataAction": false
+}

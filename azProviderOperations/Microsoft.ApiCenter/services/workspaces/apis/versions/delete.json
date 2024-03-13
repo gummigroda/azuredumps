@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/delete",
+  "OperationName": "Delete API version.",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiVersion",
+  "Description": "Deletes specified API version.",
+  "IsDataAction": false
+}

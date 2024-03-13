@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedclustersnapshots/delete",
+  "OperationName": "Delete ManagedClusterSnapshot",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "ManagedClusterSnapshots",
+  "Description": "Deletes a managed cluster snapshot",
+  "IsDataAction": false
+}

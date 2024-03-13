@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/ltrBackupOperations/read",
+  "OperationName": "List/Get PostgreSQL server long term backup operation",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server Long term backup operation.",
+  "Description": "Returns the list of  PostgreSQL server long term backup operation tracking.",
+  "IsDataAction": false
+}

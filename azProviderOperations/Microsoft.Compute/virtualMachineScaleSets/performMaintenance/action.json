@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/performMaintenance/action",
+  "OperationName": "Perform planned maintenance on a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Performs planned maintenance on the instances of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

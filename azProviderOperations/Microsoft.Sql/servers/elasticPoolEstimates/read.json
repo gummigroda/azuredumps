@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPoolEstimates/read",
+  "OperationName": "Get elastic pool estimates of a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Pool Estimate",
+  "Description": "Returns list of elastic pool estimates already created for this server",
+  "IsDataAction": false
+}

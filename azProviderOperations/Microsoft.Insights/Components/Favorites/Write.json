@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Favorites/Write",
+  "OperationName": "Application Insights favorite write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights favorites",
+  "Description": "Writing an Application Insights favorite",
+  "IsDataAction": false
+}

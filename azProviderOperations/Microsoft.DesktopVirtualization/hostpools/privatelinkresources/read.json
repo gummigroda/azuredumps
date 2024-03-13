@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/privatelinkresources/read",
+  "OperationName": "privatelinkresources",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/privatelinkresources",
+  "Description": "Read privatelinkresources",
+  "IsDataAction": false
+}

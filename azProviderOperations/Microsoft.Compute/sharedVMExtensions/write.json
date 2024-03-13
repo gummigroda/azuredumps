@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMExtensions/write",
+  "OperationName": "Create or Update Shared VM Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMExtensions",
+  "Description": "Creates a new Shared VM Extension or updates an existing one",
+  "IsDataAction": false
+}

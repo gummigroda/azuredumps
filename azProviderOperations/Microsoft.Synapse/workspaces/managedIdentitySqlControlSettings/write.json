@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/managedIdentitySqlControlSettings/write",
+  "OperationName": "Update Managed Identity SQL Control Settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Managed Identity SQL Control Settings",
+  "Description": "Update Managed Identity SQL Control Settings on the workspace",
+  "IsDataAction": false
+}

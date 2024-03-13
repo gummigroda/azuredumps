@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/start/action",
+  "OperationName": "Start Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Start a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

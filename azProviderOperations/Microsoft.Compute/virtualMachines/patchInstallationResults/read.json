@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/patchInstallationResults/read",
+  "OperationName": "Summarizes latest patch installation operation results",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Patch Installation Results",
+  "Description": "Retrieves the summary of the latest patch installation operation",
+  "IsDataAction": false
+}

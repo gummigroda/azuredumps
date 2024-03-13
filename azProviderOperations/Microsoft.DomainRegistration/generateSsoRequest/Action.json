@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/generateSsoRequest/Action",
+  "OperationName": "Generate Domain Control Center Single Sign On Request",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "",
+  "Description": "Generate a request for signing into domain control center.",
+  "IsDataAction": false
+}

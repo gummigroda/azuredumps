@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/geoCatalogs/write",
+  "OperationName": "Create or Update Geo Catalog",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Geo Catalogs",
+  "Description": "Create or Update any Geo Catalog",
+  "IsDataAction": false
+}

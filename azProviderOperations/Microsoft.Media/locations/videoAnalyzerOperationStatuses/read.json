@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/locations/videoAnalyzerOperationStatuses/read",
+  "OperationName": "Read Video Analyzer Operation Status",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Analyzer Operation Status",
+  "Description": "Read any Video Analyzer Operation Status",
+  "IsDataAction": false
+}

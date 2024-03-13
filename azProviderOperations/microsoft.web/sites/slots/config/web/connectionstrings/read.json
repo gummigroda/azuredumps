@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/web/connectionstrings/read",
+  "OperationName": "Get Web App Slot's single connection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot Connectionstring",
+  "Description": "Get Web App Slot's single connection string",
+  "IsDataAction": false
+}

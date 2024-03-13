@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/statistics/read",
+  "OperationName": "Read Statistics",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Read device and service statistics",
+  "IsDataAction": true
+}

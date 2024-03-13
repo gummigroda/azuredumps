@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/upgradeDomain/write",
+  "OperationName": "Upgrade The Domain",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Upgrade Domain",
+  "Description": "Walk upgrade the domain.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Read all external outbound dependencies (FQDNs) programmatically",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace External FQDN List",
+  "Description": "Read all external outbound dependencies (FQDNs) programmatically",
+  "IsDataAction": false
+}

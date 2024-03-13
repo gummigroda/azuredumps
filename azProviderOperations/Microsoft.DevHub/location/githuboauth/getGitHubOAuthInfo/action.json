@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/location/githuboauth/getGitHubOAuthInfo/action",
+  "OperationName": "Read GitHubOAuth Info",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Location",
+  "Description": "Get Info associated to GitHubOAuth",
+  "IsDataAction": false
+}

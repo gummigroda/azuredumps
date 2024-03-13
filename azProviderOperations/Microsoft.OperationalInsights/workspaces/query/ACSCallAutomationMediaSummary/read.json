@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSCallAutomationMediaSummary/read",
+  "OperationName": "Read ACSCallAutomationMediaSummary data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSCallAutomationMediaSummary",
+  "Description": "Read data from the ACSCallAutomationMediaSummary table",
+  "IsDataAction": false
+}

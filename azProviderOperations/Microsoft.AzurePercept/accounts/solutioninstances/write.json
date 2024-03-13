@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/solutioninstances/write",
+  "OperationName": "SolutionInstances_Update",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/solutioninstances",
+  "Description": "write solutioninstances",
+  "IsDataAction": false
+}

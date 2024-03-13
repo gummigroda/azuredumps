@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/vmSizes/read",
+  "OperationName": "Lists Available Virtual Machine Sizes",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Size",
+  "Description": "Lists available sizes the virtual machine can be updated to",
+  "IsDataAction": false
+}

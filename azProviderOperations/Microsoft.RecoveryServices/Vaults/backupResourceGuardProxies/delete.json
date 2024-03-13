@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies/delete",
+  "OperationName": "Delete ResourceGuard proxy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Resource Guard Proxy",
+  "Description": "The Delete ResourceGuard proxy operation deletes the specified Azure resource of type 'ResourceGuard proxy'",
+  "IsDataAction": false
+}

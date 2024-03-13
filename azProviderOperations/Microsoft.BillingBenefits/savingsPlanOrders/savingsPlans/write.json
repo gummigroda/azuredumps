@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/savingsPlanOrders/savingsPlans/write",
+  "OperationName": "Patch SavingsPlans",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "SavingsPlans",
+  "Description": "Patch an existing Savings plan",
+  "IsDataAction": false
+}

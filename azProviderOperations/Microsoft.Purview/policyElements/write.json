@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/policyElements/write",
+  "OperationName": "Create or update Policy Element",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Policy element",
+  "Description": "Create or update Policy Element.",
+  "IsDataAction": true
+}

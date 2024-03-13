@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/administratorOperationResults/read",
+  "OperationName": "Get MySQL server operation results",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL server operation results",
+  "Description": "Return MySQL Server administrator operation results",
+  "IsDataAction": false
+}

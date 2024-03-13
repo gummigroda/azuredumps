@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SCOMAssessmentRecommendation/Read",
+  "OperationName": "Read SCOMAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SCOMAssessmentRecommendation",
+  "Description": "Read data from the SCOMAssessmentRecommendation table",
+  "IsDataAction": false
+}

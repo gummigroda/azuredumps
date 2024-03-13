@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/databases/write",
+  "OperationName": "SqlServerDatabases_Update",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/databases",
+  "Description": "Updates an existing database.",
+  "IsDataAction": false
+}

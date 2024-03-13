@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/write",
+  "OperationName": "SAPDiscoverySites_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites",
+  "Description": "SAPDiscoverySites_Update.",
+  "IsDataAction": false
+}

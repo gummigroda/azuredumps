@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/sensors/delete",
+  "OperationName": "Delete AgFoodPlatform sensors resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensors",
+  "Description": "Deletes an existing AgFoodPlatform sensors resource.",
+  "IsDataAction": true
+}

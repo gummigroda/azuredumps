@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/write",
+  "OperationName": "Write account resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "Write account resource for Microsoft Purview provider.",
+  "IsDataAction": false
+}

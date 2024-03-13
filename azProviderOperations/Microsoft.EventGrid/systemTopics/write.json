@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/systemTopics/write",
+  "OperationName": "Write System Topic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "systemTopics",
+  "Description": "Create or update a system topic",
+  "IsDataAction": false
+}

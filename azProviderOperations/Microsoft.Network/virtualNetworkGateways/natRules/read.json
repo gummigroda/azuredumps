@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualNetworkGateways/natRules/read",
+  "OperationName": "Get NAT Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "NAT Rule",
+  "Description": "Gets a NAT rule resource",
+  "IsDataAction": false
+}

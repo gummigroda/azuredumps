@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/write",
+  "OperationName": "Create or Update Trigger",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Creates or Updates any Trigger.",
+  "IsDataAction": false
+}

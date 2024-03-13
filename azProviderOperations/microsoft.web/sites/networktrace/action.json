@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networktrace/action",
+  "OperationName": "Network Trace Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Network Trace Web Apps.",
+  "IsDataAction": false
+}

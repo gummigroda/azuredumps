@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/versions/write",
+  "OperationName": "Create or Update Application Package",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Application Packages",
+  "Description": "Creates a new application package or updates an existing application package",
+  "IsDataAction": false
+}

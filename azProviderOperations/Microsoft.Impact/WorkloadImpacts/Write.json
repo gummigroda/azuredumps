@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/WorkloadImpacts/Write",
+  "OperationName": "CreateWorkloadImpactsresources",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "WorkloadImpacts",
+  "Description": "WritesWorkloadImpacts",
+  "IsDataAction": false
+}

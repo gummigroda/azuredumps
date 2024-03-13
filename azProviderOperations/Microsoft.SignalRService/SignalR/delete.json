@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/delete",
+  "OperationName": "Delete SignalR",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "Delete the SignalR resource",
+  "IsDataAction": false
+}

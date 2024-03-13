@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/revisions/read",
+  "OperationName": "Get revisions for an API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API revisions",
+  "Description": "Lists all revisions of an API.",
+  "IsDataAction": false
+}

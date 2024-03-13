@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/reports/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

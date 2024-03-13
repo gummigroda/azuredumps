@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Phoneme/validate/action",
+  "OperationName": "Validate phoneme.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "TTS phoneme operations",
+  "Description": "Validate phoneme.",
+  "IsDataAction": true
+}

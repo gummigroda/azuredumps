@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/defenderSettings/write",
+  "OperationName": "Create or update IoT Defender Settings",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Defender Settings",
+  "Description": "Creates or updates IoT Defender Settings",
+  "IsDataAction": false
+}

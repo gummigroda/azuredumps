@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/StorageContainers/deploy/action",
+  "OperationName": "Deploys storage containers resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "StorageContainers",
+  "Description": "Deploys storage containers resource",
+  "IsDataAction": false
+}

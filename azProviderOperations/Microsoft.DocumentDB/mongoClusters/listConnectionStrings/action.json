@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/listConnectionStrings/action",
+  "OperationName": "List Mongo Cluster Connection Strings",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster",
+  "Description": "List connection strings for a given Mongo Cluster",
+  "IsDataAction": false
+}

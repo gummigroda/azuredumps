@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppServiceAuthenticationLogs/read",
+  "OperationName": "Read AppServiceAuthenticationLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppServiceAuthenticationLogs",
+  "Description": "Read data from the AppServiceAuthenticationLogs table",
+  "IsDataAction": false
+}

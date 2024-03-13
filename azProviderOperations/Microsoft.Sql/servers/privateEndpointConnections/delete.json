@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/privateEndpointConnections/delete",
+  "OperationName": "Delete Azure SQL Database Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection",
+  "Description": "Deletes an existing private endpoint connection",
+  "IsDataAction": false
+}

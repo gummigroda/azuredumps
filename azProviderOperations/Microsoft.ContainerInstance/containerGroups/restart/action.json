@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/restart/action",
+  "OperationName": "Restart Container Group",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Restarts a specific container group.",
+  "IsDataAction": false
+}

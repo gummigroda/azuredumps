@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "",
+  "Description": "Registers a subscription",
+  "IsDataAction": false
+}

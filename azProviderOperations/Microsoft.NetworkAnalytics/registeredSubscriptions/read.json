@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "read registeredSubscriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/mitigate/action",
+  "OperationName": "Mitigate",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "This method helps in performing mitigation action on a job with a resolution code",
+  "IsDataAction": false
+}

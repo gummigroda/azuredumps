@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/enrichment/ip/geodata/read",
+  "OperationName": "Get geodata enrichment for an IP",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Get geodata enrichment for an IP",
+  "IsDataAction": false
+}

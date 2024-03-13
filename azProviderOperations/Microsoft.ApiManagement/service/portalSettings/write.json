@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalSettings/write",
+  "OperationName": "Update Settings or Update Settings or Update Settings or Update Settings or Update Settings or Update Settings",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Portal Settings",
+  "Description": "Update Sign-In settings. or Create or Update Sign-In settings. or Update Sign Up settings or Update Sign Up settings or Update Delegation settings. or Create or Update Delegation settings.",
+  "IsDataAction": false
+}

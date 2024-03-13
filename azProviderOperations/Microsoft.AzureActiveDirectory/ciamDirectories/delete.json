@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/ciamDirectories/delete",
+  "OperationName": "Delete CIAM Directory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "CIAM Directory",
+  "Description": "Delete CIAM Directory resource",
+  "IsDataAction": false
+}

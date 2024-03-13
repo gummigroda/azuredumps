@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/read",
+  "OperationName": "Manage SignalR(read-only)",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "View the SignalR's settings and configurations in the management portal or through API",
+  "IsDataAction": false
+}

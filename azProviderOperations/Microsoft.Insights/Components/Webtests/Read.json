@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Webtests/Read",
+  "OperationName": "Webtest read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Web tests",
+  "Description": "Reading a webtest configuration",
+  "IsDataAction": false
+}

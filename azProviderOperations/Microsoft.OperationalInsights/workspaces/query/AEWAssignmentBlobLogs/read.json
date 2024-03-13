@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AEWAssignmentBlobLogs/read",
+  "OperationName": "Read AEWAssignmentBlobLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AEWAssignmentBlobLogs",
+  "Description": "Read data from the AEWAssignmentBlobLogs table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builders/patches/apply/action",
+  "OperationName": "Apply Builder's Patch",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Patch",
+  "Description": "Apply a Builder's Patch",
+  "IsDataAction": false
+}

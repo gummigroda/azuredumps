@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/new/runValidations/action",
+  "OperationName": "Run Validations for New Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "New Measurements",
+  "Description": "Run Validations for New Measurements",
+  "IsDataAction": true
+}

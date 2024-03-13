@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/FailedIngestion/read",
+  "OperationName": "Read FailedIngestion data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "FailedIngestion",
+  "Description": "Read data from the FailedIngestion table",
+  "IsDataAction": false
+}

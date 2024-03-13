@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/eventroutes/delete",
+  "OperationName": "Delete Event Route",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Event Route",
+  "Description": "Delete any Event Route",
+  "IsDataAction": true
+}

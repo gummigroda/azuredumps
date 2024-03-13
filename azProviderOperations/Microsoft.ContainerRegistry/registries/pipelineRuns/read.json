@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/pipelineRuns/read",
+  "OperationName": "Get scope map or List pipeline runs",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/PipelineRuns",
+  "Description": "Gets the properties of the specified pipeline run or lists all the pipeline runs for the specified container registry.",
+  "IsDataAction": false
+}

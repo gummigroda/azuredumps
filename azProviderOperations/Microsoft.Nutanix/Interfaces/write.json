@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/Interfaces/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "Interfaces",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

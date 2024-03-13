@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/read",
+  "OperationName": "ServiceConfigurations_Get",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints/serviceConfigurations",
+  "Description": "Gets the details about the service to the resource.",
+  "IsDataAction": false
+}

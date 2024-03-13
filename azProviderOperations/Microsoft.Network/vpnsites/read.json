@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnsites/read",
+  "OperationName": "Gets a Vpn Site resource.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Site resource.",
+  "Description": "Gets a Vpn Site resource.",
+  "IsDataAction": false
+}

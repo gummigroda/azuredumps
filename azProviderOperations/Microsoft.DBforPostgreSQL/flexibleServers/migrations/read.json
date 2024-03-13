@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/migrations/read",
+  "OperationName": "List Migration Workflow details.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Database Migration Workflow",
+  "Description": "List of migration workflows for the specified database server.",
+  "IsDataAction": false
+}

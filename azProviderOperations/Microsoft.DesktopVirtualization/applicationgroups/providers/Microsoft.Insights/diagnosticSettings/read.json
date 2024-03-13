@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get diagnostic setting",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Gets the diagnostic setting",
+  "IsDataAction": false
+}

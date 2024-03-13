@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/databases/listKeys/action",
+  "OperationName": "View Redis Enterprise database access keys",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache database",
+  "Description": "View the value of Redis Enterprise database access keys in the management portal",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/securityAlertPolicies/write",
+  "OperationName": "Create or Update SQL server security alert policies.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Server Security Alert Policy",
+  "Description": "Create or Update SQL server security alert policies.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/domains/operationresults/Read",
+  "OperationName": "Get Domain Operation",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "Domain operation",
+  "Description": "Get a domain operation",
+  "IsDataAction": false
+}

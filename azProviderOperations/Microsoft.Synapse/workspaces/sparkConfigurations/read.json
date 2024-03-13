@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sparkConfigurations/read",
+  "OperationName": "Read SparkConfiguration Artifacts",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SparkConfiguration artifacts",
+  "Description": "Read SparkConfiguration Artifacts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/namespaces/delete",
+  "OperationName": "Deletes/DeletesCollection namespaces resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Namespaces",
+  "Description": "Deletes namespaces",
+  "IsDataAction": true
+}

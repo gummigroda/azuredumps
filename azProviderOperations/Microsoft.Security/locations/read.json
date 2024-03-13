@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Locations",
+  "Description": "Gets the security data location",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/register/action",
+  "OperationName": "Register the Microsoft.Certify",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Certify",
+  "IsDataAction": false
+}

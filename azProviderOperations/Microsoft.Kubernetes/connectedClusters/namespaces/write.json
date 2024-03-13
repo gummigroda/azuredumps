@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/namespaces/write",
+  "OperationName": "Creates/Updates namespaces resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "namespaces",
+  "Description": "Writes namespaces",
+  "IsDataAction": true
+}

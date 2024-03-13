@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

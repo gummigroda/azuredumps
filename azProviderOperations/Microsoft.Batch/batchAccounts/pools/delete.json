@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/pools/delete",
+  "OperationName": "Delete Pool",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Deletes a pool from a Batch account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/webServices/delete",
+  "OperationName": "Delete Machine Learning Web Service",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Web Service",
+  "Description": "Delete any Machine Learning Web Service",
+  "IsDataAction": false
+}

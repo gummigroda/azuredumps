@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Update Network Security Perimeter Profiles",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "locations",
+  "Description": "Updates Network Security Perimeter Profiles",
+  "IsDataAction": false
+}

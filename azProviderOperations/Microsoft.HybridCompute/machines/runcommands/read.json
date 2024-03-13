@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/runcommands/read",
+  "OperationName": "Read Azure Arc runcommands",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "runcommands",
+  "Description": "Reads any Azure Arc runcommands",
+  "IsDataAction": false
+}

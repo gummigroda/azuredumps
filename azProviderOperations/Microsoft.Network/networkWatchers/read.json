@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/read",
+  "OperationName": "Get Network Watcher",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Get the network watcher definition",
+  "IsDataAction": false
+}

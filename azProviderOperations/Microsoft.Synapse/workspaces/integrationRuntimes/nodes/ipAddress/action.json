@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/nodes/ipAddress/action",
+  "OperationName": "Get Integration Runtime Ip Address",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Get Integration Runtime Ip Address",
+  "IsDataAction": false
+}

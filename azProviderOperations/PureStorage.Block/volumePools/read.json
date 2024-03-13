@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/volumePools/read",
+  "OperationName": "VolumePools_Get",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "volumePools",
+  "Description": "Get a VolumePool",
+  "IsDataAction": false
+}

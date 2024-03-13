@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/locations/checkQuotaAvailability/read",
+  "OperationName": "Check Quota Availability",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "locations/checkQuotaAvailability",
+  "Description": "Checks if quota is available for the subscription",
+  "IsDataAction": false
+}

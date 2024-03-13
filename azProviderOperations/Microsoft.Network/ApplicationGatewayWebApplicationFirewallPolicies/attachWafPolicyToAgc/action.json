@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/attachWafPolicyToAgc/action",
+  "OperationName": "Attaches Web application firewall policy to application gateway for containers",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway WAF Policy",
+  "Description": "Attaches Web application firewall policy to application gateway for containers",
+  "IsDataAction": false
+}

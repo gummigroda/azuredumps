@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/customdomains/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "CustomDomain",
+  "Description": null,
+  "IsDataAction": false
+}

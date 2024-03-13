@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/workspaceCollections/regenerateKey/action",
+  "OperationName": "Regenerate Workspace Collection Access Key",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspace Collections",
+  "Description": "Regenerates the primary or secondary access key for the specified Power BI Workspace Collection.",
+  "IsDataAction": false
+}

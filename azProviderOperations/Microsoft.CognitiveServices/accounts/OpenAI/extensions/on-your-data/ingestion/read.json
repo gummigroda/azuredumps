@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/extensions/on-your-data/ingestion/read",
+  "OperationName": "OnYourData Ingestion Read Operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "On Your Data",
+  "Description": "Read Operations related to on-your-data feature",
+  "IsDataAction": true
+}

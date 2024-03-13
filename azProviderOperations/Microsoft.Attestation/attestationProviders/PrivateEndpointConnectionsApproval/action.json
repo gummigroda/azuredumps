@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Private endpoints approve operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Private endpoints approve description.",
+  "IsDataAction": false
+}

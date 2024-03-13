@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/updateAdminState/action",
+  "OperationName": "Update AdminStates of backend addresses of a pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Update AdminStates of backend addresses of a pool",
+  "IsDataAction": false
+}

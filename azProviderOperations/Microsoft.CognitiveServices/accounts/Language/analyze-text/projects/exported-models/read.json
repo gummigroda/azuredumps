@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/exported-models/read",
+  "OperationName": "Get exported model details|List exported models*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "exported-models*",
+  "Description": "Gets the details of an exported model.\r\nLists the exported models belonging to a project.*",
+  "IsDataAction": true
+}

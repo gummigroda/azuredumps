@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/resumejob/action",
+  "OperationName": "Check permissions for resuming job linked to Singularity group policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Action to check for user access to resume a job linked to Singularity group policy",
+  "IsDataAction": false
+}

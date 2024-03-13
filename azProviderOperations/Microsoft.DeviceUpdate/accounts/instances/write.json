@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/instances/write",
+  "OperationName": "Create/Update Instance",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Instance",
+  "Description": "Creates or updates a Device Update Instance",
+  "IsDataAction": false
+}

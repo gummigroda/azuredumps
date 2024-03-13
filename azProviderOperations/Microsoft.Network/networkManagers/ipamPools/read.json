@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/read",
+  "OperationName": "Gets a Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Gets a Ipam Pool",
+  "IsDataAction": false
+}

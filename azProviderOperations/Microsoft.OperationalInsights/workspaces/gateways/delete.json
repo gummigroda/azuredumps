@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/gateways/delete",
+  "OperationName": "Remove workspace gateway",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Gateway",
+  "Description": "Removes a gateway configured for the workspace.",
+  "IsDataAction": false
+}

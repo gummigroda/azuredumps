@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/securitypolicyresults/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "SecurityPolicy",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/read",
+  "OperationName": "Get fleet",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Fleets",
+  "Description": "Get fleet",
+  "IsDataAction": false
+}

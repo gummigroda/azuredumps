@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Purge/Action",
+  "OperationName": "Application Insights Purge Data action",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Purging data from Application Insights",
+  "IsDataAction": false
+}

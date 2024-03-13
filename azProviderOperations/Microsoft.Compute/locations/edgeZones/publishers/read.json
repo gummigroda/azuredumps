@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/edgeZones/publishers/read",
+  "OperationName": "Get Publisher in an edge zone",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Publishers in an edge zone",
+  "Description": "Get the properties of a Publisher in an edge zone",
+  "IsDataAction": false
+}

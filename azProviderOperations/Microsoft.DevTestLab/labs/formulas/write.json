@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/formulas/write",
+  "OperationName": "Add or modify formulas.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Formulas",
+  "Description": "Add or modify formulas.",
+  "IsDataAction": false
+}

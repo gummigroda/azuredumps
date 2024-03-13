@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/topics/write",
+  "OperationName": "Write Domain Topic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domaintopics",
+  "Description": "Create or update a domain topic",
+  "IsDataAction": false
+}

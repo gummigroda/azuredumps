@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/certificates/Write",
+  "OperationName": "Add or Update Certificate",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "Certificate",
+  "Description": "Add a new certificate or update an existing one",
+  "IsDataAction": false
+}

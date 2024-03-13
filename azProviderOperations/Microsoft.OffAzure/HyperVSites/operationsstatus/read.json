@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/operationsstatus/read",
+  "OperationName": "Get Hyper-V operation status",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "OperationsStatus",
+  "Description": "Gets the properties of a Hyper-V operation status",
+  "IsDataAction": false
+}

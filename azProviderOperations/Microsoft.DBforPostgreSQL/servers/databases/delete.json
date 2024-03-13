@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/databases/delete",
+  "OperationName": "Delete PostgreSQL Database",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Databases",
+  "Description": "Deletes an existing PostgreSQL Database.",
+  "IsDataAction": false
+}

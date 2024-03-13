@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/write",
+  "OperationName": "Create or update an application instance to a time series group",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App instances of a time series group",
+  "Description": "Create or update an application instance to a time series group",
+  "IsDataAction": true
+}

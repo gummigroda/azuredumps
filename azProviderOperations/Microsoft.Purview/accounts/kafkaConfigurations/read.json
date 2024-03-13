@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/kafkaConfigurations/read",
+  "OperationName": "Read Kafka Configurations",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Kafka Configurations",
+  "Description": "Read Kafka Configurations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/maps/write",
+  "OperationName": "Write Map data for Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Contribute mapping data to a map.",
+  "IsDataAction": true
+}

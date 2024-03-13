@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/getEntities/action",
+  "OperationName": "List Entities",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "",
+  "Description": "List all entities (Management Groups, Subscriptions, etc.) for the authenticated user.",
+  "IsDataAction": false
+}

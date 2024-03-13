@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneSsml/SplitSsmls/action",
+  "OperationName": "Split ssml with specified options.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ssml operation",
+  "Description": "Split ssml with specified options.",
+  "IsDataAction": true
+}

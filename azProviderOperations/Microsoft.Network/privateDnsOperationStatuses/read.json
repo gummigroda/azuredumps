@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsOperationStatuses/read",
+  "OperationName": "Gets status of a Private DNS operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS operation status",
+  "Description": "Gets status of a Private DNS operation",
+  "IsDataAction": false
+}

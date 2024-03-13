@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/bgpConnections/read",
+  "OperationName": "Get Hub Bgp Connection child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub BgpConnection resource",
+  "Description": "Gets a Hub Bgp Connection child resource of Virtual Hub",
+  "IsDataAction": false
+}

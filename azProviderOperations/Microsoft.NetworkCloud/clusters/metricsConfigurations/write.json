@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/metricsConfigurations/write",
+  "OperationName": "MetricsConfigurations_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/metricsConfigurations",
+  "Description": "Patch properties of metrics configuration for the provided cluster, or update the tags associated with it. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

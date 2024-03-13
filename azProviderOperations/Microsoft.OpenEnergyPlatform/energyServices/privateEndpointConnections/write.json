@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnections/write",
+  "OperationName": "PrivateEndpointConnections_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnections",
+  "Description": "Update the state of specified private endpoint connection associated with the OAK Instance.",
+  "IsDataAction": false
+}

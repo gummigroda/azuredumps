@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CHSMManagementAuditLogs/read",
+  "OperationName": "Read CHSMManagementAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CHSMManagementAuditLogs",
+  "Description": "Read data from the CHSMManagementAuditLogs table",
+  "IsDataAction": false
+}

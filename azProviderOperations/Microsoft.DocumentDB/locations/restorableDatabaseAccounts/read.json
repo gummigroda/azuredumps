@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/locations/restorableDatabaseAccounts/read",
+  "OperationName": "Microsoft.DocumentDB/locations/restorableDatabaseAccounts/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Restorable database account",
+  "Description": "Read a restorable database account or List all the restorable database accounts",
+  "IsDataAction": false
+}

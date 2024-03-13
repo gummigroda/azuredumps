@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/metadataSchemas/delete",
+  "OperationName": "Delete metadataSchema",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "MetadataSchema",
+  "Description": "Deletes specified metadataSchema.",
+  "IsDataAction": false
+}

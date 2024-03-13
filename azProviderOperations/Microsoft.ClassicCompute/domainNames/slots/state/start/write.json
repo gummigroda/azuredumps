@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/state/start/write",
+  "OperationName": "Stop Deployment State",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot Start",
+  "Description": "Changes the deployment slot state to stopped.",
+  "IsDataAction": false
+}

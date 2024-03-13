@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/externalNetworks/clearIpv6Neighbors/action",
+  "OperationName": "ExternalNetworks_clearIpv6Neighbors",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/externalNetworks",
+  "Description": "clearIpv6Neighbors for externalNetwork.",
+  "IsDataAction": false
+}

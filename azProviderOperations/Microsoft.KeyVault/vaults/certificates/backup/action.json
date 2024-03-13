@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/backup/action",
+  "OperationName": "Backup Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Creates the backup file of a certificate. The file can used to restore the certificate in a Key Vault of same subscription. Restrictions may apply.",
+  "IsDataAction": true
+}

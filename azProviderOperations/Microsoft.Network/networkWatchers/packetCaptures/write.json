@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/packetCaptures/write",
+  "OperationName": "Create Packet Capture",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Packet Capture",
+  "Description": "Creates a packet capture",
+  "IsDataAction": false
+}

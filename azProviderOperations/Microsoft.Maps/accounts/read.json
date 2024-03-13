@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/read",
+  "OperationName": "Get a Maps Account.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Get a Maps Account.",
+  "IsDataAction": false
+}

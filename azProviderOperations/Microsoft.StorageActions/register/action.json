@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageActions/register/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage Actions",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

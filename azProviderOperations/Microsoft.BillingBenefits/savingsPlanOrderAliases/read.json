@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/savingsPlanOrderAliases/read",
+  "OperationName": "Get Savings plan order alias",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "SavingsPlanOrderAliases",
+  "Description": "Read all savings plan order aliases",
+  "IsDataAction": false
+}

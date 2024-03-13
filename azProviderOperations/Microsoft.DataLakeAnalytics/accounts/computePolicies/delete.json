@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/computePolicies/delete",
+  "OperationName": "Delete Compute Policy",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Compute Policy",
+  "Description": "Delete a compute policy.",
+  "IsDataAction": false
+}

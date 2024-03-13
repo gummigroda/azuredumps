@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/detectors/read",
+  "OperationName": "Get Azure Cache for Redis Detector",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Azure Cache for Redis Detector",
+  "Description": "Get the properties of one or all detectors for an Azure Cache for Redis cache",
+  "IsDataAction": false
+}

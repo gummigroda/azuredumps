@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/poolOperationResults/read",
+  "OperationName": "Get Pool Operation Results",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Gets the results of a long running pool operation on a Batch account",
+  "IsDataAction": false
+}

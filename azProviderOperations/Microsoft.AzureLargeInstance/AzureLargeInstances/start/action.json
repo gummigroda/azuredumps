@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/AzureLargeInstances/start/action",
+  "OperationName": "Start AzureLargeInstance",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "AzureLargeInstance",
+  "Description": "Start any AzureLargeInstance",
+  "IsDataAction": false
+}

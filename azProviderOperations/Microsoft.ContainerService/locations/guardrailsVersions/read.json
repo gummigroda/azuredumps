@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/guardrailsVersions/read",
+  "OperationName": "GuardrailsVersions",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Get Guardrails Versions",
+  "IsDataAction": false
+}

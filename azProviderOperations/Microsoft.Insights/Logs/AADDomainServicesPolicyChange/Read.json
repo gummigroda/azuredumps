@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesPolicyChange/Read",
+  "OperationName": "Read AADDomainServicesPolicyChange data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesPolicyChange",
+  "Description": "Read data from the AADDomainServicesPolicyChange table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/evaluations/action",
+  "OperationName": "Trigger evaluations Async for an App version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

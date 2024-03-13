@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/runCommands/delete",
+  "OperationName": "Delete Virtual Machine run command",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine RunCommands",
+  "Description": "Deletes the virtual machine run command",
+  "IsDataAction": false
+}

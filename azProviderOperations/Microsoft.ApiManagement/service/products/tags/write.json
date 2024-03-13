@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/tags/write",
+  "OperationName": "Associate Tag with Product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags associated with the Product",
+  "Description": "Assign tag to the Product.",
+  "IsDataAction": false
+}

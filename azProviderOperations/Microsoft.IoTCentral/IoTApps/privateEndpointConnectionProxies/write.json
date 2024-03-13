@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateEndpointConnectionProxies/write",
+  "OperationName": "Create/Update/Patch private endpoint connection proxies",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateEndpointConnectionProxies",
+  "Description": "Create/Update/Patch private endpoint connection proxies",
+  "IsDataAction": false
+}

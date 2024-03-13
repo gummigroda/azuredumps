@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Write Azure Arc networkSecurityPerimeterAssociationProxies",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkSecurityPerimeterAssociationProxies",
+  "Description": "Writes an Azure Arc networkSecurityPerimeterAssociationProxies",
+  "IsDataAction": false
+}

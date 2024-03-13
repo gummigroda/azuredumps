@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/locations/operationResults/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Operation Results",
+  "Description": "Locations Operation Results",
+  "IsDataAction": false
+}

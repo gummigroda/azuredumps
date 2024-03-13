@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/read",
+  "OperationName": "UpdateSpecifications_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications",
+  "Description": "read updateSpecifications",
+  "IsDataAction": false
+}

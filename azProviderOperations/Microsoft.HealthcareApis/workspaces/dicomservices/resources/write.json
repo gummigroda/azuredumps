@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/resources/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "DICOM resources",
+  "Description": "Write DICOM resources.",
+  "IsDataAction": true
+}

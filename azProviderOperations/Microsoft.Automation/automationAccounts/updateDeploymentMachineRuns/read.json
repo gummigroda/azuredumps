@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/updateDeploymentMachineRuns/read",
+  "OperationName": "Get an Azure Automation update deployment machine ",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation update deployment machine resource type",
+  "Description": "Get an Azure Automation update deployment machine",
+  "IsDataAction": false
+}

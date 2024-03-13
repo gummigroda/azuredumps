@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/ocrawconfigs/delete",
+  "OperationName": "OcRawConfigs_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/ocrawconfigs",
+  "Description": "Delete the OcRawConfig resource.",
+  "IsDataAction": false
+}

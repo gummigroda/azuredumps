@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/serviceEndpoints/Write",
+  "OperationName": "Create/update account's serviceEndpoint resource",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts/serviceEndpoints",
+  "Description": "Writes account's serviceEndpoint resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hybridconnection/write",
+  "OperationName": "Update Web Apps Hybrid Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hybrid Connection",
+  "Description": "Update Web Apps Hybrid Connection.",
+  "IsDataAction": false
+}

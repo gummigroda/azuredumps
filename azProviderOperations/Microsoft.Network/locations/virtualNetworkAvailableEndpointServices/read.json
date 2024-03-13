@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/virtualNetworkAvailableEndpointServices/read",
+  "OperationName": "Get available Virtual Network Endpoint Services",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Endpoint Service",
+  "Description": "Gets a list of available Virtual Network Endpoint Services",
+  "IsDataAction": false
+}

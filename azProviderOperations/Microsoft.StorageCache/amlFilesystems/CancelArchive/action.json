@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/amlFilesystems/CancelArchive/action",
+  "OperationName": "Cancel archive",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystem",
+  "Description": "Cancel archiving the amlfilesystem",
+  "IsDataAction": false
+}

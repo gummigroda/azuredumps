@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/builds/showDatabaseConnections/action",
+  "OperationName": "Show Static Site Build Database Connections Details",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build Function App Setting",
+  "Description": "Show details for Database Connections for a Static Site Build",
+  "IsDataAction": false
+}

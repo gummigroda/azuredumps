@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/delete",
+  "OperationName": "Delete labs.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Delete labs.",
+  "IsDataAction": false
+}

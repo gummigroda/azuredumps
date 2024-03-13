@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

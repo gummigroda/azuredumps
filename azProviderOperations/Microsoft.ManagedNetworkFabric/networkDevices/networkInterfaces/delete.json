@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/delete",
+  "OperationName": "NetworkInterfaces_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "Delete the Network Interface resource.",
+  "IsDataAction": false
+}

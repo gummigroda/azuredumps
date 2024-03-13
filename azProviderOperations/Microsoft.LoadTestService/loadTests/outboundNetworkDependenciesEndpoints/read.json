@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadTests/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "List OutboundNetworkDependenciesEndpoints",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadTests/outboundNetworkDependenciesEndpoints",
+  "Description": "Lists the endpoints that agents may call as part of load testing.",
+  "IsDataAction": false
+}

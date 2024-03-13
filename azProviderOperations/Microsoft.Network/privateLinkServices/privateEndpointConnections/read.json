@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/privateEndpointConnections/read",
+  "OperationName": "Get an private endpoint connection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Gets an private endpoint connection definition.",
+  "IsDataAction": false
+}

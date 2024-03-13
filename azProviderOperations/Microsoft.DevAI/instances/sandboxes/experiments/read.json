@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/sandboxes/experiments/read",
+  "OperationName": "Experiments_ListBySandbox",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/sandboxes/experiments",
+  "Description": "read experiments",
+  "IsDataAction": false
+}

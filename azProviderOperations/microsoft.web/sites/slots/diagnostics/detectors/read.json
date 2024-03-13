@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/detectors/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Detector",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Detector",
+  "Description": "Get Web Apps Slots Diagnostics Detector.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/enrollmentPolicies/read",
+  "OperationName": "EnrollmentPolicy_ListByPki",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/enrollmentPolicies",
+  "Description": "Lists all the enrollment policies in a PKI resource.",
+  "IsDataAction": false
+}

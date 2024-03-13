@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "",
+  "Description": "Checks that name is valid and not in use for resource type",
+  "IsDataAction": false
+}

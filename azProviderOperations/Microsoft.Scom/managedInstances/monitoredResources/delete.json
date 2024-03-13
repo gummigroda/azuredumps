@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/monitoredResources/delete",
+  "OperationName": "MonitoredResources_Delete",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/monitoredResources",
+  "Description": "Delete a monitored resource.",
+  "IsDataAction": false
+}

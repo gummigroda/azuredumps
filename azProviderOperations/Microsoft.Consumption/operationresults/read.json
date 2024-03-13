@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/operationresults/read",
+  "OperationName": "List operationresults",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Operationresults",
+  "Description": "List operationresults",
+  "IsDataAction": false
+}

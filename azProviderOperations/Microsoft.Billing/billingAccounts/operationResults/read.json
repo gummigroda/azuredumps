@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/operationResults/read",
+  "OperationName": "Get operation status for a resolve billing role assignmnets operation",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Operation Results",
+  "Description": null,
+  "IsDataAction": false
+}

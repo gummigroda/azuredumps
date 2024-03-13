@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/artifacts/delete",
+  "OperationName": "Delete artifact in a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Delete artifact in a container registry.",
+  "IsDataAction": false
+}

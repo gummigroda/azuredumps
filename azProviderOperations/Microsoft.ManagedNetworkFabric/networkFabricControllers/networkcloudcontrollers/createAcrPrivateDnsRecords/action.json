@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/createAcrPrivateDnsRecords/action",
+  "OperationName": "NetworkCloudControllers_createAcrPrivateDnsRecords",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Create private dns records on acr in network fabric controller managed resource group.",
+  "IsDataAction": false
+}

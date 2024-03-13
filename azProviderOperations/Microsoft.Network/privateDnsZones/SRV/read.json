@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/SRV/read",
+  "OperationName": "Get record set of type SRV",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS SRV record set",
+  "Description": "Get the record set of type ‘SRV’ within a Private DNS zone, in JSON format. The record set contains a list of records as well as the TTL, tags, and etag.",
+  "IsDataAction": false
+}

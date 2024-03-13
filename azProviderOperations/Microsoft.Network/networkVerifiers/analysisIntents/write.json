@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/analysisIntents/write",
+  "OperationName": "Creates or Updates a Analysis Intent",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Analysis Intent",
+  "Description": "Creates or Updates a Analysis Intent",
+  "IsDataAction": false
+}

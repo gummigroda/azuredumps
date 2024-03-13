@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/frebanalysis/read",
+  "OperationName": "Get Web Apps Diagnostics FREB Analysis",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics FREB Analysis",
+  "Description": "Get Web Apps Diagnostics FREB Analysis.",
+  "IsDataAction": false
+}

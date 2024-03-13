@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/datasets/read",
+  "OperationName": "Get Datasets",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "datasets*",
+  "Description": "Gets the list of datasets for specified project.",
+  "IsDataAction": true
+}

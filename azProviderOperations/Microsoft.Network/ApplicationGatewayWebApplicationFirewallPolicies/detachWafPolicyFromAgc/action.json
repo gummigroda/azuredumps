@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/detachWafPolicyFromAgc/action",
+  "OperationName": "Detaches Web application firewall policy from application gateway for containers",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway WAF Policy",
+  "Description": "Detaches Web application firewall policy from application gateway for containers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleEligibilityScheduleRequests/write",
+  "OperationName": "Write Role eligibility schedule request",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role eligibility schedule request",
+  "Description": "Creates a role eligibility schedule request at given scope.",
+  "IsDataAction": false
+}

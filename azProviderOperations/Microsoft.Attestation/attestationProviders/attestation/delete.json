@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/attestation/delete",
+  "OperationName": "Removes attestation service.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Removes attestation service.",
+  "IsDataAction": false
+}

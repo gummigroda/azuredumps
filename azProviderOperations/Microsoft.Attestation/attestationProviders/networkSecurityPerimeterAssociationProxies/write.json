@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "NSP Association Proxy write operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "NSP Association Proxy resource name.",
+  "Description": "Network Security Perimeter Association Proxy write description.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/reInitializeReplication/action",
+  "OperationName": "Re-Initialize replication",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Attempts to re-initialize an uninitialized replication",
+  "IsDataAction": false
+}

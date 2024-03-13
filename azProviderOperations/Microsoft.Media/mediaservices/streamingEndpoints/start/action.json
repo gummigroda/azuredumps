@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/start/action",
+  "OperationName": "Start Streaming Endpoint Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoint",
+  "Description": "Start any Streaming Endpoint Operation",
+  "IsDataAction": false
+}

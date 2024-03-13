@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NCCVMOrchestrationLogs/read",
+  "OperationName": "Read NCCVMOrchestrationLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NCCVMOrchestrationLogs",
+  "Description": "Read data from the NCCVMOrchestrationLogs table",
+  "IsDataAction": false
+}

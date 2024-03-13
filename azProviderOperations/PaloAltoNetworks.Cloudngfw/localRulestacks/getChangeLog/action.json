@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/getChangeLog/action",
+  "OperationName": "LocalRulestacks_getChangeLog",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "Get changelog",
+  "IsDataAction": false
+}

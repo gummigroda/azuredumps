@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/register/action",
+  "OperationName": "Register the Microsoft.OracleDiscovery",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.OracleDiscovery",
+  "IsDataAction": false
+}

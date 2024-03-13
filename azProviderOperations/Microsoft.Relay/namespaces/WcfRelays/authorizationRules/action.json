@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/WcfRelays/authorizationRules/action",
+  "OperationName": "Update WcfRelay Authorization Rules (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "WcfRelay",
+  "Description": "Operation to update WcfRelay. This operation is not supported on API version 2017-04-01. Authorization Rules. Please use a PUT call to update Authorization Rule.",
+  "IsDataAction": false
+}

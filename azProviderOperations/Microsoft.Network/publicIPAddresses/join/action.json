@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/join/action",
+  "OperationName": "Join Public Ip Address.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Joins a public ip address. Not Alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/poststarthook/start-apiextensions-informers/read",
+  "OperationName": "Gets/List start-apiextensions-informers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Start-Apiextensions-Informers",
+  "Description": "Reads start-apiextensions-informers",
+  "IsDataAction": true
+}

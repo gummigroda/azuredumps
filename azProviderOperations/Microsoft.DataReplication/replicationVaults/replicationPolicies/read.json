@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationPolicies/read",
+  "OperationName": "Listss replication policies",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Policies",
+  "Description": "Listss replication policies",
+  "IsDataAction": false
+}

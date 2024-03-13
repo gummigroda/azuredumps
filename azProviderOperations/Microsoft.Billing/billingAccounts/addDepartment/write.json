@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/addDepartment/write",
+  "OperationName": "Add Department",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Add Department",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/downloadUpdates/action",
+  "OperationName": "Download Updates",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Download Updates in device",
+  "IsDataAction": false
+}

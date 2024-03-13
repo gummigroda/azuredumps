@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/beginGetAccess/action",
+  "OperationName": null,
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volume Snapshots",
+  "Description": null,
+  "IsDataAction": false
+}

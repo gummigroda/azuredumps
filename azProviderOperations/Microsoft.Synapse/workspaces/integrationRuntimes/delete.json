@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/delete",
+  "OperationName": "Delete Integration Runtimes",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Delete any Integration Runtime",
+  "IsDataAction": false
+}

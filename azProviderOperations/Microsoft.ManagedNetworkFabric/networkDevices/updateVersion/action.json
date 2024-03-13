@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/updateVersion/action",
+  "OperationName": "NetworkDevices_updateVersion",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Update the SKU version of the Network Device resource.",
+  "IsDataAction": false
+}

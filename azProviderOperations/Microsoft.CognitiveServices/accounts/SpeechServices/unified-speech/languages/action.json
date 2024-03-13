@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/unified-speech/languages/action",
+  "OperationName": "The REST language api (recognition/translation)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Unified Speech APIs",
+  "Description": "This endpoint provides the REST language api.",
+  "IsDataAction": true
+}

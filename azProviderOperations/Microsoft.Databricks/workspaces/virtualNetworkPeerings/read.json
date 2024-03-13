@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/virtualNetworkPeerings/read",
+  "OperationName": "Get Virtual Network Peering",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Virtual Network Peering",
+  "Description": "Gets the virtual network peering.",
+  "IsDataAction": false
+}

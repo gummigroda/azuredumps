@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/subscriberAnalyzers/write",
+  "OperationName": "SubscriberAnalyzers_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/subscriberAnalyzers",
+  "Description": "Creates or updates a Mobile Packet Core subscriber analyzer",
+  "IsDataAction": false
+}

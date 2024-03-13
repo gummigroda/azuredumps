@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/failoverGroups/write",
+  "OperationName": "Create/Update Azure SQL Database Failover Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Failover Group",
+  "Description": "Creates a failover group with the specified parameters or updates the properties or tags for the specified failover group.",
+  "IsDataAction": false
+}

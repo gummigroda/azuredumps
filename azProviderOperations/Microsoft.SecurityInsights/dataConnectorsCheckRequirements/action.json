@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/dataConnectorsCheckRequirements/action",
+  "OperationName": "Check user authorization and license",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "",
+  "Description": "Check user authorization and license",
+  "IsDataAction": false
+}

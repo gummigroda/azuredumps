@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGatewayAvailableSslOptions/predefinedPolicies/read",
+  "OperationName": "Application Gateway Ssl Predefined Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway Ssl Predefined Policy",
+  "Description": "Application Gateway Ssl Predefined Policy",
+  "IsDataAction": false
+}

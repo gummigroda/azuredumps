@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/experimentationWorkspaces/write",
+  "OperationName": "ExperimentationWorkspaces_Update",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "experimentationWorkspaces",
+  "Description": "Update a ExperimentationWorkspace",
+  "IsDataAction": false
+}

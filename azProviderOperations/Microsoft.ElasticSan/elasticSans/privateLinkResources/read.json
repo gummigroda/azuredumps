@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/privateLinkResources/read",
+  "OperationName": null,
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

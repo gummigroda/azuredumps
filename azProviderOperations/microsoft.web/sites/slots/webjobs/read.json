@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/webjobs/read",
+  "OperationName": "Get Web Apps Slots WebJobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots WebJobs",
+  "Description": "Get Web Apps Slots WebJobs.",
+  "IsDataAction": false
+}

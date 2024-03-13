@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/read",
+  "OperationName": "Get CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Resource",
+  "Description": "Get the properties of a CloudService.",
+  "IsDataAction": false
+}

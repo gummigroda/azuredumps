@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/privateEndpointConnections/delete",
+  "OperationName": "Delete a Private Endpoint connection",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Delete a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

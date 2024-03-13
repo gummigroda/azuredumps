@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/operationStatus/read",
+  "OperationName": "AzureAttestation",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "AzureAttestation",
+  "IsDataAction": false
+}

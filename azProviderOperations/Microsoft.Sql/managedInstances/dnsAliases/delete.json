@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dnsAliases/delete",
+  "OperationName": "Delete Azure SQL Managed Instance Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Dns Alias",
+  "Description": "Deletes an existing Azure SQL Managed Instance Dns Alias.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachineInstances/Delete",
+  "OperationName": "Deletes virtual machine instance resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachineInstances",
+  "Description": "Deletes virtual machine instance resource",
+  "IsDataAction": false
+}

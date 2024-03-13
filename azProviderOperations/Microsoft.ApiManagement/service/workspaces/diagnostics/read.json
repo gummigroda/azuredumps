@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/diagnostics/read",
+  "OperationName": "Get diagnostics list or Get diagnostic details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API diagnostics",
+  "Description": "Lists all diagnostics of a workspace. or Gets the details of the Diagnostic for a workspace specified by its identifier.",
+  "IsDataAction": false
+}

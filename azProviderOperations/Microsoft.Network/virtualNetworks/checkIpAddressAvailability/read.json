@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/checkIpAddressAvailability/read",
+  "OperationName": "Check Ip Address Availability",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IP Availability Check Result",
+  "Description": "Check if Ip Address is available at the specified virtual network",
+  "IsDataAction": false
+}

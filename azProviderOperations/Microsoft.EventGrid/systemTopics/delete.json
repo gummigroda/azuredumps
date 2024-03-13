@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/systemTopics/delete",
+  "OperationName": "Delete System Topic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "systemTopics",
+  "Description": "Delete a system topic",
+  "IsDataAction": false
+}

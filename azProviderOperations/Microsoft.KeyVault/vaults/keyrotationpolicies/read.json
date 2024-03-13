@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keyrotationpolicies/read",
+  "OperationName": "Read Key Rotation Policy",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Rotation Policy",
+  "Description": "Retrieves the rotation policy of a given key.",
+  "IsDataAction": true
+}

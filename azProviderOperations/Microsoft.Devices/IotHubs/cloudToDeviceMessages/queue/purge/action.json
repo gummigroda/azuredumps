@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/cloudToDeviceMessages/queue/purge/action",
+  "OperationName": "Delete cloud-to-device messages",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Deletes all the pending commands for a device",
+  "IsDataAction": true
+}

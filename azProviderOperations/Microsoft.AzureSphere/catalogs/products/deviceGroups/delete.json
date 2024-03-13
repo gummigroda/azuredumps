@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/delete",
+  "OperationName": "DeviceGroups_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups",
+  "Description": "Delete a DeviceGroup. '.default' and '.unassigned' are system defined values and cannot be used for product or device group name.",
+  "IsDataAction": false
+}

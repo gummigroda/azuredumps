@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/subnets/associatedNetworkSecurityGroups/delete",
+  "OperationName": "Delete Subnet Associated Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Subnet Associated Network Security Group",
+  "Description": "Deletes the network security group associated with the subnet.",
+  "IsDataAction": false
+}

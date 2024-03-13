@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/tags/delete",
+  "OperationName": "Remove Tag",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API/Tag associations",
+  "Description": "Detach the tag from the Api.",
+  "IsDataAction": false
+}

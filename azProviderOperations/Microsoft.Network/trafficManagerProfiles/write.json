@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/write",
+  "OperationName": "Create or Update Traffic Manager Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Profile",
+  "Description": "Create a Traffic Manager profile, or modify the configuration of an existing Traffic Manager profile. This includes enabling or disabling a profile and modifying DNS settings, traffic routing settings, or endpoint monitoring settings. Endpoints routed by the Traffic Manager profile can be added, removed, enabled or disabled.",
+  "IsDataAction": false
+}

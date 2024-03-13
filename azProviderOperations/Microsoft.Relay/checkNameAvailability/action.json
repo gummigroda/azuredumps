@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/checkNameAvailability/action",
+  "OperationName": "Get namespace availability.",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "",
+  "Description": "Checks availability of namespace under given subscription.",
+  "IsDataAction": false
+}

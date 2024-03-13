@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/joinPerimeterRule/action",
+  "OperationName": "Joins an NSP Access Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter",
+  "Description": "Joins an NSP Access Rule",
+  "IsDataAction": false
+}

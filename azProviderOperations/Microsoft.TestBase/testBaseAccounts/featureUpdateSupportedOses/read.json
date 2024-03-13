@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/featureUpdateSupportedOses/read",
+  "OperationName": "FeatureUpdateSupportedOses_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/featureUpdateSupportedOses",
+  "Description": "Lists all the available OSs to run a package under a Test Base Account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADNonInteractiveUserSignInLogs/Read",
+  "OperationName": "Read AADNonInteractiveUserSignInLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADNonInteractiveUserSignInLogs",
+  "Description": "Read data from the AADNonInteractiveUserSignInLogs table",
+  "IsDataAction": false
+}

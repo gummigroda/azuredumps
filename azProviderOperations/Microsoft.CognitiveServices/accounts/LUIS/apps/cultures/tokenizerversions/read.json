@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/cultures/tokenizerversions/read",
+  "OperationName": "apps - Get LUIS application tokenizer versions for culture",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tokenizerversions*",
+  "Description": "Gets the LUIS application culture and supported tokenizer versions for culture.",
+  "IsDataAction": true
+}

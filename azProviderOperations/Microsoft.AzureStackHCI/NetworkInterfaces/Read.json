@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/NetworkInterfaces/Read",
+  "OperationName": "Gets/Lists network interfaces resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "NetworkInterfaces",
+  "Description": "Gets/Lists network interfaces resource",
+  "IsDataAction": false
+}

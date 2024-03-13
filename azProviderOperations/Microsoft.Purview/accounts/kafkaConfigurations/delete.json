@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/kafkaConfigurations/delete",
+  "OperationName": "Delete Kafka Configurations",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Kafka Configurations",
+  "Description": "Delete Kafka Configurations.",
+  "IsDataAction": false
+}

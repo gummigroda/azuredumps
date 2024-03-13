@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/authorization.k8s.io/selfsubjectrulesreviews/write",
+  "OperationName": "Creates/Updates selfsubjectrulesreviews resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "selfsubjectrulesreviews",
+  "Description": "Writes selfsubjectrulesreviews",
+  "IsDataAction": true
+}

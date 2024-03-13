@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/virtualMachines/reimage/action",
+  "OperationName": "Reimage Virtual Machine",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/virtualMachines",
+  "Description": "Reimage a virtual machine to the last published image.",
+  "IsDataAction": false
+}

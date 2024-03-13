@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UASysReqIssue/Read",
+  "OperationName": "Read UASysReqIssue data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UASysReqIssue",
+  "Description": "Read data from the UASysReqIssue table",
+  "IsDataAction": false
+}

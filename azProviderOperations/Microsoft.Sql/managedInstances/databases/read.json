@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/read",
+  "OperationName": "Get managed database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Gets existing managed database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/computePolicies/write",
+  "OperationName": "Create or Update Compute Policy",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Compute Policy",
+  "Description": "Create or update a compute policy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationVaultHealth/operationresults/read",
+  "OperationName": "Track the results of an asynchronous operation on the resource Vault Replication Health",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Replication Health",
+  "Description": "Track the results of an asynchronous operation on the resource Vault Replication Health",
+  "IsDataAction": false
+}

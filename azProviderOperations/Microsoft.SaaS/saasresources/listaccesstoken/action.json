@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/saasresources/listaccesstoken/action",
+  "OperationName": "Get the access Token",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Resources",
+  "Description": "Get the access Token for a SaaS resource",
+  "IsDataAction": false
+}

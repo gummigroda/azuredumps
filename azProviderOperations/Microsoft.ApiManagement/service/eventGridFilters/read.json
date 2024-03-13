@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/eventGridFilters/read",
+  "OperationName": "Get Event Grid Filter",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Event Grid Filters",
+  "Description": "Get Event Grid Filter",
+  "IsDataAction": false
+}

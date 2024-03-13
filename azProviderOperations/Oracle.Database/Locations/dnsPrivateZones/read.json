@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/locations/dnsPrivateZones/read",
+  "OperationName": "DnsPrivateZones_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "locations/dnsPrivateZones",
+  "Description": "Get a DnsPrivateZone",
+  "IsDataAction": false
+}

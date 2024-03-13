@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/accountquotapolicies/delete",
+  "OperationName": "Remove Singularity Account Quota Policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Account Quota Policy",
+  "Description": "Removes Singularity account quota policy",
+  "IsDataAction": false
+}

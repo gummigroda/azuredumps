@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/billingRoleAssignments/write",
+  "OperationName": "Create / Update BillingRoleAssignment",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Role Assignments",
+  "Description": null,
+  "IsDataAction": false
+}

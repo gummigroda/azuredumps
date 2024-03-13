@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectionContainerMappings/write",
+  "OperationName": "Create or Update Protection Container Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Container Mappings",
+  "Description": "Create or Update any Protection Container Mappings",
+  "IsDataAction": false
+}

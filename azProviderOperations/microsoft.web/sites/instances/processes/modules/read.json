@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/instances/processes/modules/read",
+  "OperationName": "Get Web Apps Instances Processes Modules",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Instances Processes Modules",
+  "Description": "Get Web Apps Instances Processes Modules.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/policies/write",
+  "OperationName": "Policies_CreateOrUpdateByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Policies",
+  "Description": "Updates the policies for a billing profile. This operation is supported only for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

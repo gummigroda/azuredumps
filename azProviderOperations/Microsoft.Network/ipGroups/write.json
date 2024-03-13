@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/write",
+  "OperationName": "Create or Update IpGroups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Creates an IpGroup or Updates an Existing IpGroup",
+  "IsDataAction": false
+}

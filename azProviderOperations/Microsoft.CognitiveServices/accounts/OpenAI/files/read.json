@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/files/read",
+  "OperationName": "Read file metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Files",
+  "Description": "Gets information about files.",
+  "IsDataAction": true
+}

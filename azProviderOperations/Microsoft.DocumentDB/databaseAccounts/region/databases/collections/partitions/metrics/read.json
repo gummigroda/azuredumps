@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/region/databases/collections/partitions/metrics/read",
+  "OperationName": "Read regional database account partition level metrics",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Regional Database Account partition metrics",
+  "Description": "Read regional database account partition level metrics",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppPlatformLogsforSpring/Read",
+  "OperationName": "Read AppPlatformLogsforSpring data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppPlatformLogsforSpring",
+  "Description": "Read data from the AppPlatformLogsforSpring table",
+  "IsDataAction": false
+}

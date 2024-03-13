@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/register/Action",
+  "OperationName": "Registers the Automanage Provider",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Automanage Provider.",
+  "IsDataAction": false
+}

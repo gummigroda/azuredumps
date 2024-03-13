@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/delete",
+  "OperationName": "Delete Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Deletes the Backup Instance",
+  "IsDataAction": false
+}

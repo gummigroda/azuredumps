@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/configurations/getCount/action",
+  "OperationName": "Gets the count of an Azure Automation DSC's content",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Desired State Configuration",
+  "Description": "Reads the count of an Azure Automation DSC's content",
+  "IsDataAction": false
+}

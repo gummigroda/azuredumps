@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

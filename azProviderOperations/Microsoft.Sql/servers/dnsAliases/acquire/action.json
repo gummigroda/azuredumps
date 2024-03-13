@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/dnsAliases/acquire/action",
+  "OperationName": "Acquire Azure SQL Server Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Server Dns Alias",
+  "Description": "Acquire Server Dns Alias from the current server and repoint it to another server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ExportConfiguration/Read",
+  "OperationName": "Application Insights export settings read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights export settings",
+  "Description": "Reading Application Insights export settings",
+  "IsDataAction": false
+}

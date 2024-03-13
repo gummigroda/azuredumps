@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/write",
+  "OperationName": "UpdateIteration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Update a specific iteration.",
+  "IsDataAction": true
+}

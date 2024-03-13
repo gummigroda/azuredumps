@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/sessions/write",
+  "OperationName": "Set Integration Account Session",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Session",
+  "Description": "Creates or updates the session in integration account.",
+  "IsDataAction": false
+}

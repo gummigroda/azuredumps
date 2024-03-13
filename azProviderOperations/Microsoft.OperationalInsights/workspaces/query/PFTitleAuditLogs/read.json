@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PFTitleAuditLogs/read",
+  "OperationName": "Read PFTitleAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PFTitleAuditLogs",
+  "Description": "Read data from the PFTitleAuditLogs table",
+  "IsDataAction": false
+}

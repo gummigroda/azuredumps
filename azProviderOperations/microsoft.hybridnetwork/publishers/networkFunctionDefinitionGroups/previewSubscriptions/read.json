@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/previewSubscriptions/read",
+  "OperationName": "PreviewSubscriptions_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups/previewSubscriptions",
+  "Description": "Gets the preview subscription resource.",
+  "IsDataAction": false
+}

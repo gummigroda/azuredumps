@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/checkMembers/action",
+  "OperationName": "Checks if members can be accessed or not",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Profile",
+  "Description": "Checks if members can be accessed or not",
+  "IsDataAction": false
+}

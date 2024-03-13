@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/diagnostics/diskInspection/action",
+  "OperationName": "Run DiskInspection Diagnostic",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Diagnostics",
+  "Description": "Create a request for executing DiskInspection Diagnostic",
+  "IsDataAction": false
+}

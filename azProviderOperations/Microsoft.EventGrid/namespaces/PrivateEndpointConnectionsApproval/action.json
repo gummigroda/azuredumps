@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve PrivateEndpointConnections for namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "namespaces",
+  "Description": "Approve PrivateEndpointConnections for namespaces",
+  "IsDataAction": false
+}

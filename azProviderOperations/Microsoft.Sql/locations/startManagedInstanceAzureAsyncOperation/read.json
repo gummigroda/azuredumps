@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/startManagedInstanceAzureAsyncOperation/read",
+  "OperationName": "Get Azure SQL Managed Instance Start Azure async operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Gets Azure SQL Managed Instance Start Azure async operation.",
+  "IsDataAction": false
+}

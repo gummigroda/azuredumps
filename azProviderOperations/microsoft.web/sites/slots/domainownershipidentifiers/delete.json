@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/domainownershipidentifiers/delete",
+  "OperationName": "Delete Web App Slots Ownership Identifiers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slots Domain Ownership Identifiers",
+  "Description": "Delete Web App Slots Domain Ownership Identifiers.",
+  "IsDataAction": false
+}

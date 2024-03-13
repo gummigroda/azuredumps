@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkPacketBrokers/read",
+  "OperationName": "NetworkPacketBrokers_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkPacketBrokers",
+  "Description": "Displays Network Packet Brokers list by subscription GET method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/versions/delete",
+  "OperationName": "Delete an Archive version",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive version",
+  "Description": "Delete an Archvie version from an Archive",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ExtendedDiagnosticSettings/Read",
+  "OperationName": "Read network flow log diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Network flow log diagnostic setting",
+  "Description": "Read a network flow log diagnostic setting",
+  "IsDataAction": false
+}

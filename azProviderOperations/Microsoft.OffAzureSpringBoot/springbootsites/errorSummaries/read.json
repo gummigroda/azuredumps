@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/errorSummaries/read",
+  "OperationName": "ErrorSummaries_ListBySite",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/errorSummaries",
+  "Description": "ListstheErrorSummariesresourceinspringbootsites.",
+  "IsDataAction": false
+}

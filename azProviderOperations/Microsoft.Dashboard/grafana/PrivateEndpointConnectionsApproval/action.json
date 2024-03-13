@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve PrivateEndpointConnection resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Grafana",
+  "Description": "Approve PrivateEndpointConnection",
+  "IsDataAction": false
+}

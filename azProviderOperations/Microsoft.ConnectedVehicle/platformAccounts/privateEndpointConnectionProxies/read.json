@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Get/List Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "Connected Vehicle Platform Private Endpoint Connection Proxy",
+  "Description": "Returns the list of Connected Vehicle Platform Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

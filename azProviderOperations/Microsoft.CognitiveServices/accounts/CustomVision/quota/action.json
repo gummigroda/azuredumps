@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/quota/action",
+  "OperationName": "SetQuota",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Vision",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

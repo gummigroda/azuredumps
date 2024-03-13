@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProfessionalService/register/action",
+  "OperationName": "Register Professional Service resource provider",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "",
+  "Description": "Register Professional Service resource provider in the tenant",
+  "IsDataAction": false
+}

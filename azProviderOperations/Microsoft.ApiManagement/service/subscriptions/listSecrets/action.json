@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/subscriptions/listSecrets/action",
+  "OperationName": "Get subscripiton keys",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Gets the specified Subscription keys.",
+  "IsDataAction": false
+}

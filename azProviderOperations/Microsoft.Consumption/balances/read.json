@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/balances/read",
+  "OperationName": "List utlization summary",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Balances",
+  "Description": "List the utilization summary for a billing period for a management group.",
+  "IsDataAction": false
+}

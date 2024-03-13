@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensions/networkpolicies/read",
+  "OperationName": "Gets/List networkpolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Networkpolicies",
+  "Description": "Reads networkpolicies",
+  "IsDataAction": true
+}

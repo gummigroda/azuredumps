@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/clusters/read",
+  "OperationName": "Get Hyper-V cluster",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Clusters",
+  "Description": "Gets the properties of a Hyper-V cluster",
+  "IsDataAction": false
+}

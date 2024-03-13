@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/register/action",
+  "OperationName": "Registers the BillingBenefits Resource Provider.",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "",
+  "Description": "Registers the BillingBenefits resource provider and enables the creation of BillingBenefits resources.",
+  "IsDataAction": false
+}

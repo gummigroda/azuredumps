@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/pathMappings/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "PathMappings",
+  "Description": "Returns an LiveDataPathMapping",
+  "IsDataAction": false
+}

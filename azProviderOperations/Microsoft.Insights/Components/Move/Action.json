@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Move/Action",
+  "OperationName": "Application Insights Component Move",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Move an Application Insights Component to another resource group or subscription",
+  "IsDataAction": false
+}

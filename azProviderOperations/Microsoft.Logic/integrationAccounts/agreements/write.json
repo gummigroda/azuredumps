@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/agreements/write",
+  "OperationName": "Set Integration Account Agreement",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Agreement",
+  "Description": "Creates or updates the agreement in integration account.",
+  "IsDataAction": false
+}

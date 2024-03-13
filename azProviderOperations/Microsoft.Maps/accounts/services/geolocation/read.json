@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/geolocation/read",
+  "OperationName": "Geolocation Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Geolocation",
+  "Description": "Allows reading of data for Geolocation services.",
+  "IsDataAction": true
+}

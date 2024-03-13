@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/privateEndpointConnections/Write",
+  "OperationName": "Put Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/PrivateEndpointConnections",
+  "Description": "Creates or updates a private endpoint connection",
+  "IsDataAction": false
+}

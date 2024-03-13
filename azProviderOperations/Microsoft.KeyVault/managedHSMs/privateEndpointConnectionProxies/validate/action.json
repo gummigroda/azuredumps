@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validate a connection proxy to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

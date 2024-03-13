@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/detect/action",
+  "OperationName": "Detect Objects",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "This operation Performs object detection on the specified image. ",
+  "IsDataAction": true
+}

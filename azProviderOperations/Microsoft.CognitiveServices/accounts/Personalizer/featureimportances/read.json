@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/featureimportances/read",
+  "OperationName": "All Feature Importances|Feature Importance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "featureimportances*",
+  "Description": "List of all Feature Importances.\r\nGet the Feature Importance associated with the Id.",
+  "IsDataAction": true
+}

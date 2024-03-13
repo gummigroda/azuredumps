@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Azure Database for MySQL Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Private Endpoint Connection Proxy",
+  "Description": "Deletes an existing private endpoint connection proxy",
+  "IsDataAction": false
+}

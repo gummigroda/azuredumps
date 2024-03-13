@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/delete",
+  "OperationName": "Delete API",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "APIs",
+  "Description": "Deletes specified API.",
+  "IsDataAction": false
+}

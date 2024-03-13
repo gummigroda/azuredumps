@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/clientConnection/read",
+  "OperationName": "Read Client Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/ClientConnection",
+  "Description": "Check client connection existence",
+  "IsDataAction": true
+}

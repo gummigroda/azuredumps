@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/denyAssignments/write",
+  "OperationName": "Create deny assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Deny assignment",
+  "Description": "Create a deny assignment at the specified scope.",
+  "IsDataAction": false
+}

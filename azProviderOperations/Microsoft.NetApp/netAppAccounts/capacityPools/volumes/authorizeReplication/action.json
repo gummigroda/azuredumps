@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/authorizeReplication/action",
+  "OperationName": "Authorize Replication",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Authorize the source volume replication",
+  "IsDataAction": false
+}

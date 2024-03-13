@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/topology/Read",
+  "OperationName": "Read Topology",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Topology",
+  "Description": "Read Topology",
+  "IsDataAction": false
+}

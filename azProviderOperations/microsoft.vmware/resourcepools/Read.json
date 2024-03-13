@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/resourcepools/Read",
+  "OperationName": "Gets/List resourcepools resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "resourcepools",
+  "Description": "Read resourcepools",
+  "IsDataAction": false
+}

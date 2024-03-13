@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/removeNode/action",
+  "OperationName": "Remove an Integration Runtime node",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Remove any Integration Runtime node",
+  "IsDataAction": false
+}

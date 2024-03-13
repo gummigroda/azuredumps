@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/checkAccess/write",
+  "OperationName": "Allows/Disallows an access request at Billing Account scope",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Check Access",
+  "Description": null,
+  "IsDataAction": false
+}

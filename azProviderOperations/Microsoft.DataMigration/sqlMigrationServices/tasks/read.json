@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/tasks/read",
+  "OperationName": "Get Migration Service task details",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Migration Service Task",
+  "Description": "Get Migration Service task details",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/RegisteredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

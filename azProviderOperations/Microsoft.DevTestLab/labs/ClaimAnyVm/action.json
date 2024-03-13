@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/ClaimAnyVm/action",
+  "OperationName": "Claim Any Virtual Machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Claim a random claimable virtual machine in the lab.",
+  "IsDataAction": false
+}

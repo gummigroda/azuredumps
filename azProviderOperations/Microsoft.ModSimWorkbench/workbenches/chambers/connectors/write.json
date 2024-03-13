@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/connectors/write",
+  "OperationName": "connectors_Update",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/connectors",
+  "Description": "Updates the specified connector.",
+  "IsDataAction": false
+}

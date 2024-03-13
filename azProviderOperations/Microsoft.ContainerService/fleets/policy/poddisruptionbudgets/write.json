@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/policy/poddisruptionbudgets/write",
+  "OperationName": "Creates/Updates poddisruptionbudgets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Poddisruptionbudgets",
+  "Description": "Writes poddisruptionbudgets",
+  "IsDataAction": true
+}

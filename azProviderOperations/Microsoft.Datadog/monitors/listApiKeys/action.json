@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/listApiKeys/action",
+  "OperationName": "List Api Keys",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Monitors",
+  "Description": "List all the API keys for the given monitor resource",
+  "IsDataAction": false
+}

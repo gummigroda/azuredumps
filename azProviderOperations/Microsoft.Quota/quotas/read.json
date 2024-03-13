@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/quotas/read",
+  "OperationName": "Get resource Quota limit",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "Resource Quota limit",
+  "Description": "Get the current Service limit or quota of the specified resource",
+  "IsDataAction": false
+}

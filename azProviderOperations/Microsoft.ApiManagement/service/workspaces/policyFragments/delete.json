@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policyFragments/delete",
+  "OperationName": "Delete policy fragment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy fragments",
+  "Description": "Deletes a policy fragment.",
+  "IsDataAction": false
+}

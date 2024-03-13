@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/firewallRules/write",
+  "OperationName": "Create or update IP Firewall Rule.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "IP Firewall Rule.",
+  "Description": "Create or update any IP Firewall Rule.",
+  "IsDataAction": false
+}

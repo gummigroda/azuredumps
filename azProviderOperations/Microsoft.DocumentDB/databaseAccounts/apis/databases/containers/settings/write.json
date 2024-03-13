@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/settings/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write container throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Update a container throughput. Only applicable to API types: 'sql'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

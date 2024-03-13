@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoorWebApplicationFirewallPolicies/write",
+  "OperationName": "Creates or updates a Web Application Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Web Application Firewall Policy",
+  "Description": "Creates or updates a Web Application Firewall Policy",
+  "IsDataAction": false
+}

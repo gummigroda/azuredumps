@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/configurationSnapshots/read",
+  "OperationName": "Gets a Configuration Snapshot",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Configuration Snapshot",
+  "Description": "Gets a Configuration Snapshot",
+  "IsDataAction": false
+}

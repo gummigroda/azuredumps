@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/write",
+  "OperationName": "Write Gremlin database throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Database throughput setting",
+  "Description": "Update a Gremlin database throughput.",
+  "IsDataAction": false
+}

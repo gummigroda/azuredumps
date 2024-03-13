@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrivateEndpointConnectionProxies/read",
+  "OperationName": "Read private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Private endpoint connection proxies resource type",
+  "Description": "Reads a private endpoint connection proxy",
+  "IsDataAction": false
+}

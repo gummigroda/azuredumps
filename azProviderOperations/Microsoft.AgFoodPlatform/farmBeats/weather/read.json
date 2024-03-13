@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/weather/read",
+  "OperationName": "Get or List AgFoodPlatform weather resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform weather",
+  "Description": "Gets or Lists existing AgFoodPlatform weather resource(s).",
+  "IsDataAction": true
+}

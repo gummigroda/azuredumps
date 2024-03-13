@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/libraries/read",
+  "OperationName": "Read Library Artifacts",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Library artifacts",
+  "Description": "Read Library Artifacts",
+  "IsDataAction": false
+}

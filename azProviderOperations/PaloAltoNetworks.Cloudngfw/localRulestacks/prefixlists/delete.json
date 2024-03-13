@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/prefixlists/delete",
+  "OperationName": "PrefixListLocalRulestack_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/prefixlists",
+  "Description": "Delete a PrefixListResource",
+  "IsDataAction": false
+}

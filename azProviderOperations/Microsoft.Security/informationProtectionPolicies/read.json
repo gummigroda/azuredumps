@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/informationProtectionPolicies/read",
+  "OperationName": "Gets the information protection policies",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Information Protection Policies",
+  "Description": "Gets the information protection policies for the resource",
+  "IsDataAction": false
+}

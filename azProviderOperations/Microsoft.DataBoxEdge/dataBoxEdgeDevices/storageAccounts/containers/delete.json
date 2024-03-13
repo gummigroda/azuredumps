@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers/delete",
+  "OperationName": "Delete Containers",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Containers",
+  "Description": "Deletes the Containers",
+  "IsDataAction": false
+}

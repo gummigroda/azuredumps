@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/import/action",
+  "OperationName": "Import version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Imports a new version into a LUIS application, the version's JSON should be included in in the request body.",
+  "IsDataAction": true
+}

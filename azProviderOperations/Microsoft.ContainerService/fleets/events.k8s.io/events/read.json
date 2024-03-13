@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/events.k8s.io/events/read",
+  "OperationName": "Gets/List events resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Events",
+  "Description": "Reads events",
+  "IsDataAction": true
+}

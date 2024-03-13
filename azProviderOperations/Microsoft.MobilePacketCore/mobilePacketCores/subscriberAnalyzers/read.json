@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/subscriberAnalyzers/read",
+  "OperationName": "SubscriberAnalyzers_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/subscriberAnalyzers",
+  "Description": "Lists all the subscriber analyzers in a mobile packet core instance.",
+  "IsDataAction": false
+}

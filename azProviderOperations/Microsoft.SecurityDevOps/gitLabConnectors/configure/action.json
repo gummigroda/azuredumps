@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitLabConnectors/configure/action",
+  "OperationName": "GitLabConnectors_Configure",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitLabConnectors",
+  "Description": "action configure",
+  "IsDataAction": false
+}

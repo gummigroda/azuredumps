@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AzureActivity/Read",
+  "OperationName": "Read AzureActivity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AzureActivity",
+  "Description": "Read data from the AzureActivity table",
+  "IsDataAction": false
+}

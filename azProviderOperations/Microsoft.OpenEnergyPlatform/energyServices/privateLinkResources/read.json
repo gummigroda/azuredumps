@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateLinkResources/read",
+  "OperationName": "PrivateLinkResources_Get",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateLinkResources",
+  "Description": "Get the specified private link resource associated with the OAK instance.",
+  "IsDataAction": false
+}

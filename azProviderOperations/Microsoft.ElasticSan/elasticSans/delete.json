@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/delete",
+  "OperationName": "Delete ElasticSan",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Elastic Sans",
+  "Description": "Delete ElasticSan",
+  "IsDataAction": false
+}

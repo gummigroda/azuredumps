@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/volumeattachments/write",
+  "OperationName": "Creates/Updates volumeattachments resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "volumeattachments",
+  "Description": "Writes volumeattachments",
+  "IsDataAction": true
+}

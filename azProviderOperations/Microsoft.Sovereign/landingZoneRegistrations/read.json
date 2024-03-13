@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/landingZoneRegistrations/read",
+  "OperationName": "LandingZoneRegistrations_Get",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "landingZoneRegistrations",
+  "Description": "Get a LandingZoneRegistration",
+  "IsDataAction": false
+}

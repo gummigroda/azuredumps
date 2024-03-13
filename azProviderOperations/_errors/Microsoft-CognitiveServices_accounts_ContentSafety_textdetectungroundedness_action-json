@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text:detectungroundedness/action",
+  "OperationName": "Detect Ungrounded Information",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Safety",
+  "Description": "A synchronous API for the analysis of language model outputs to determine if they align with the information provided by the user or contain fictional content.",
+  "IsDataAction": true
+}

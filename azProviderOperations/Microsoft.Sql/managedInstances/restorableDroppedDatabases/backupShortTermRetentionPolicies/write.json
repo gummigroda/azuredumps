@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/restorableDroppedDatabases/backupShortTermRetentionPolicies/write",
+  "OperationName": "Updates a managed short term retention policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Short Term Retention Policy",
+  "Description": "Updates a short term retention policy for a dropped managed database",
+  "IsDataAction": false
+}

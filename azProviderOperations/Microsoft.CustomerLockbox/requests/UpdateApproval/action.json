@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomerLockbox/requests/UpdateApproval/action",
+  "OperationName": "Update Approval Microsoft.CustomerLockbox",
+  "ProviderNamespace": "Microsoft Customer Lockbox",
+  "ResourceName": "Microsoft Customer Lockbox",
+  "Description": "Update Approval Microsoft.CustomerLockbox",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/autoscaling/horizontalpodautoscalers/read",
+  "OperationName": "Gets/List horizontalpodautoscalers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Horizontalpodautoscalers",
+  "Description": "Reads horizontalpodautoscalers",
+  "IsDataAction": true
+}

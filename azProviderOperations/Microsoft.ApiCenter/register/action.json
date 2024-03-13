@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/register/action",
+  "OperationName": "Register Microsoft.ApiCenter resource provider",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "",
+  "Description": "Register Microsoft.ApiCenter resource provider for the subscription.",
+  "IsDataAction": false
+}

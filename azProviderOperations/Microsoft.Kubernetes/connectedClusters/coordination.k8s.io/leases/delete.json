@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/coordination.k8s.io/leases/delete",
+  "OperationName": "Deletes/DeletesCollection leases resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "leases",
+  "Description": "Deletes leases",
+  "IsDataAction": true
+}

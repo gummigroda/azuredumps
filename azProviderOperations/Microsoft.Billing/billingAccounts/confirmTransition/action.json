@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/confirmTransition/action",
+  "OperationName": "Confirm Transition",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

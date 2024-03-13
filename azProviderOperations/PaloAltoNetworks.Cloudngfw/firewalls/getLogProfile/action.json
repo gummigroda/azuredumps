@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/firewalls/getLogProfile/action",
+  "OperationName": "Firewalls_getLogProfile",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "firewalls",
+  "Description": "Log Profile for Firewall",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/privateEndpointConnectionProxies/operationstatus/read",
+  "OperationName": "Private endpoint operation status",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Non Resource Operation",
+  "Description": "Get the status of an asynchronous private endpoint operation",
+  "IsDataAction": false
+}

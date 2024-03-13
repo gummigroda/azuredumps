@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/resources/export/action",
+  "OperationName": "Export",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "DICOM resources",
+  "Description": "Export resources from the DICOM service.",
+  "IsDataAction": true
+}

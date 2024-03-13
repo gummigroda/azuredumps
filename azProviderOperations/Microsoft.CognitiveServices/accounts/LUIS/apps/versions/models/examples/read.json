@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/models/examples/read",
+  "OperationName": "models - Get model examples list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "examples*",
+  "Description": "Gets list of model examples.",
+  "IsDataAction": true
+}

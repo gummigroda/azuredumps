@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/batches/documents/read",
+  "OperationName": "Read Documents Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Operations",
+  "Description": "Get the translation status for a specific document based on the request Id and document Id or get the status for all documents in a document translation request.",
+  "IsDataAction": true
+}

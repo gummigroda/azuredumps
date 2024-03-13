@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/write",
+  "OperationName": "Create or Update Sync Groups",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Sync Groups",
+  "Description": "Create or Update any Sync Groups",
+  "IsDataAction": false
+}

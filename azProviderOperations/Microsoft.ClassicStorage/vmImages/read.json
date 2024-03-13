@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/vmImages/read",
+  "OperationName": "List Virtual Machine Images",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Virtual Machine Image",
+  "Description": "Lists virtual machine images.",
+  "IsDataAction": false
+}

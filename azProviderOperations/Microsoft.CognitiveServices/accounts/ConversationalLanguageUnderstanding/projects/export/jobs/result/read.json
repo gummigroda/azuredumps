@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/export/jobs/result/read",
+  "OperationName": "Projects_GetExportProjectJobResult",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "result*",
+  "Description": "Get export job result details.",
+  "IsDataAction": true
+}

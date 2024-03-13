@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/stats/endpointhitshistory/read",
+  "OperationName": "endpointhitshistory - GetApplicationEndpointHits",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "endpointhitshistory*",
+  "Description": "Gets the endpoint hits history for each day for a given timeframe.",
+  "IsDataAction": true
+}

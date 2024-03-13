@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionServers/longTermRetentionBackups/read",
+  "OperationName": "Lists the long term retention backups for every database on a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "LongTerm Retention Backup",
+  "Description": "Lists the long term retention backups for every database on a server",
+  "IsDataAction": false
+}

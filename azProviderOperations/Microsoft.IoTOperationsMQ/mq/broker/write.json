@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/write",
+  "OperationName": "Broker_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker",
+  "Description": "Update a BrokerResource",
+  "IsDataAction": false
+}

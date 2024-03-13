@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/locations/azureAsyncOperation/read",
+  "OperationName": "Get PostgreSQL Server Operation Results",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server Operation Results",
+  "Description": "Return PostgreSQL Server Operation Results",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/weatherDataDeletionJobs/read",
+  "OperationName": "Get or List AgFoodPlatform weatherDataDeletionJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform weatherDataDeletionJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform weatherDataDeletionJobs resource(s).",
+  "IsDataAction": true
+}

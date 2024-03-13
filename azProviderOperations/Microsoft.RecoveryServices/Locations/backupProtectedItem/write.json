@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupProtectedItem/write",
+  "OperationName": "Create Backup Protected Item",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Create a backup Protected Item",
+  "IsDataAction": false
+}

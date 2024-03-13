@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctions/components/read",
+  "OperationName": "Components_ListByNetworkFunction",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctions/components",
+  "Description": "Lists all the component resources in a network function.",
+  "IsDataAction": false
+}

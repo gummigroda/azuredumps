@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/bindings/read",
+  "OperationName": "Get the details of a service binding of an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application binding of Microsoft Azure Spring Apps",
+  "Description": "Get the bindings for a specific application",
+  "IsDataAction": false
+}

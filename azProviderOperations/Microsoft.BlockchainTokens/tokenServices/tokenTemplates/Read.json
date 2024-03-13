@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/tokenTemplates/Read",
+  "OperationName": "Gets/List tokenTemplates resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "tokenTemplates",
+  "Description": "Read tokenTemplates",
+  "IsDataAction": false
+}

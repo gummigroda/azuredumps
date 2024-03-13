@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/instancePoolAzureAsyncOperation/read",
+  "OperationName": "Get instance pool operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Instance pool",
+  "Description": "Gets the status of an instance pool operation",
+  "IsDataAction": false
+}

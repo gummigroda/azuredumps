@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/activate/write",
+  "OperationName": "Activate an Enrollment Account",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Activate",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppExceptions/read",
+  "OperationName": "Read AppExceptions data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppExceptions",
+  "Description": "Read data from the AppExceptions table",
+  "IsDataAction": false
+}

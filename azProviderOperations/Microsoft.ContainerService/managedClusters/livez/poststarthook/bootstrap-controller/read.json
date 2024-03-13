@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/livez/poststarthook/bootstrap-controller/read",
+  "OperationName": "Gets/List bootstrap-controller resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Poststarthook/Bootstrap-Controller",
+  "Description": "Reads bootstrap-controller",
+  "IsDataAction": true
+}

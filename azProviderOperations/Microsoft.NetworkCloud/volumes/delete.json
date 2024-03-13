@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/volumes/delete",
+  "OperationName": "Volumes_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "volumes",
+  "Description": "Delete the provided volume.",
+  "IsDataAction": false
+}

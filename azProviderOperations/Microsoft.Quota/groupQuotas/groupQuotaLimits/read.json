@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/groupQuotaLimits/read",
+  "OperationName": "Get GroupQuota resource Quota limit",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota Resource Quota limit",
+  "Description": "Get the current GroupQuota of the specified resource",
+  "IsDataAction": false
+}

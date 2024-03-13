@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/read",
+  "OperationName": "Get Datasets|Get Dataset*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "datasets*",
+  "Description": "Gets a list of datasets for the authenticated subscription.\r\nGets the dataset identified by the given ID.*",
+  "IsDataAction": true
+}

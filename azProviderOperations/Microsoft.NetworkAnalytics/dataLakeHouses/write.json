@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataLakeHouses/write",
+  "OperationName": "Storage_Update",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataLakeHouses",
+  "Description": "Update a DataLakeHouseResources",
+  "IsDataAction": false
+}

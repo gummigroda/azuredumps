@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/ingestionprogress/reset/action",
+  "OperationName": "Reset data ingestion status by data feed to backfill data",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ingestion progress",
+  "Description": "Reset data ingestion status by data feed to backfill data",
+  "IsDataAction": true
+}

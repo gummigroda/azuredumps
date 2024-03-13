@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/read",
+  "OperationName": "Read portMirroringProfiles",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/portMirroringProfiles",
+  "Description": "Read portMirroringProfiles.",
+  "IsDataAction": false
+}

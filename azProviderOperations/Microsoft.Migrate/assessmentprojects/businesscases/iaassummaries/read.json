@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/iaassummaries/read",
+  "OperationName": "Get IAAS summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "IAAS summary",
+  "Description": "Gets the IAAS summary of the business case",
+  "IsDataAction": false
+}

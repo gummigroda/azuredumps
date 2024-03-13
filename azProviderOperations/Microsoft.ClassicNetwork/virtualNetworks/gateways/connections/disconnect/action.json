@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/connections/disconnect/action",
+  "OperationName": "Disconnect Gateway Connection",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Gateway Connection",
+  "Description": "Disconnects a site to site gateway connection.",
+  "IsDataAction": false
+}

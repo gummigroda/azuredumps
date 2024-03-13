@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/certificates/operationresults/read",
+  "OperationName": "Get Certificates Operation Results",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Certificates Operation Results",
+  "Description": "Get Certificates Operation Results.",
+  "IsDataAction": false
+}

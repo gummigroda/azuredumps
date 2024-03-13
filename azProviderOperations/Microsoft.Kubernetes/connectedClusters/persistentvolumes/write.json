@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/persistentvolumes/write",
+  "OperationName": "Creates/Updates persistentvolumes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "persistentvolumes",
+  "Description": "Writes persistentvolumes",
+  "IsDataAction": true
+}

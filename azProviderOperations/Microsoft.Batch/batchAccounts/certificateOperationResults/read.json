@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/certificateOperationResults/read",
+  "OperationName": "Get Certificate Operation Results",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Certificates",
+  "Description": "Gets the results of a long running certificate operation on a Batch account",
+  "IsDataAction": false
+}

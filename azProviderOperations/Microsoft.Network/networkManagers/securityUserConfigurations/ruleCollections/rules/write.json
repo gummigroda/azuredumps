@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/write",
+  "OperationName": "Create Or Update Security User Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Rule",
+  "Description": "Create Or Update Security User Rule",
+  "IsDataAction": false
+}

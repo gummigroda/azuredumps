@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/runCommand/action",
+  "OperationName": "RunCommand",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Run user issued command against managed kubernetes server.",
+  "IsDataAction": false
+}

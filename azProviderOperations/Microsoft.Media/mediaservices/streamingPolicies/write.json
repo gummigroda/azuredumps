@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingPolicies/write",
+  "OperationName": "Create or Update Streaming Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Policy",
+  "Description": "Create or Update any Streaming Policy",
+  "IsDataAction": false
+}

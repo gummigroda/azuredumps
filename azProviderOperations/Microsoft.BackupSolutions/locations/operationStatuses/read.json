@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/locations/operationStatuses/read",
+  "OperationName": "Get the Operation Status",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "Operation Status",
+  "Description": "Reads the operation status for the resource.",
+  "IsDataAction": false
+}

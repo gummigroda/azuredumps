@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/containerServices/read",
+  "OperationName": "Get Container Service",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Container Services",
+  "Description": "Get a container service",
+  "IsDataAction": false
+}

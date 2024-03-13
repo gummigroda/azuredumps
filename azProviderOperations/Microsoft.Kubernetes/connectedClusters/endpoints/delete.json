@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/endpoints/delete",
+  "OperationName": "Deletes/DeletesCollection endpoints resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpoints",
+  "Description": "Deletes endpoints",
+  "IsDataAction": true
+}

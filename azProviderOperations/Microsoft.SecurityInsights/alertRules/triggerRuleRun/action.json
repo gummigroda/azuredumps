@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/alertRules/triggerRuleRun/action",
+  "OperationName": "Trigger On-demand Rule Run Execution",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Alert Rules",
+  "Description": "Trigger on-demand rule run execution",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/areaofinterest/action",
+  "OperationName": "Get Area of Interest",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "This operation returns a bounding box around the most important area of the image.",
+  "IsDataAction": true
+}

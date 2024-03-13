@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/projects/read",
+  "OperationName": "Gets labeling project in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling Projects",
+  "Description": "Gets labeling project in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

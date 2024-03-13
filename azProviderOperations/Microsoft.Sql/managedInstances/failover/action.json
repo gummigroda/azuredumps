@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/failover/action",
+  "OperationName": "Issue failover on the managed instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Customer initiated managed instance failover.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleDefinitions/read",
+  "OperationName": "Get role definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role definition",
+  "Description": "Get information about a role definition.",
+  "IsDataAction": false
+}

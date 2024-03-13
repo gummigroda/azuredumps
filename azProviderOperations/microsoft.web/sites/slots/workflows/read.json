@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/workflows/read",
+  "OperationName": "List the workflows in a deployment slot in a Logic App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Workflows",
+  "Description": "List the workflows in a deployment slot in a Logic App.",
+  "IsDataAction": false
+}

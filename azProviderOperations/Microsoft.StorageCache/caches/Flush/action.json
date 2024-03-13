@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/Flush/action",
+  "OperationName": "Flush the cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Flushes cached data to storage targets",
+  "IsDataAction": false
+}

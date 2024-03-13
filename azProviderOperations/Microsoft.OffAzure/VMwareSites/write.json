@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/write",
+  "OperationName": "Create or update VMware site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Creates or updates the VMware site",
+  "IsDataAction": false
+}

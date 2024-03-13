@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Database Metric Definition",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

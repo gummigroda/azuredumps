@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/delete",
+  "OperationName": "GitHubConnectors_Delete",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors",
+  "Description": "delete gitHubConnectors",
+  "IsDataAction": false
+}

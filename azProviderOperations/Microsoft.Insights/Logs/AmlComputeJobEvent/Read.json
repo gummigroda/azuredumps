@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AmlComputeJobEvent/Read",
+  "OperationName": "Read AmlComputeJobEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AmlComputeJobEvent",
+  "Description": "Read data from the AmlComputeJobEvent table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/packetCaptures/queryStatus/read",
+  "OperationName": "Read Packet Capture Status",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Packet Capture",
+  "Description": "Read Packet Capture Status",
+  "IsDataAction": false
+}

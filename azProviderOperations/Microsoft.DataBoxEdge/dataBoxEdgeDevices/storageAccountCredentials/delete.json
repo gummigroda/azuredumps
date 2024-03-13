@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials/delete",
+  "OperationName": "Delete storage account credentials",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "storage account credentials",
+  "Description": "Deletes the storage account credentials",
+  "IsDataAction": false
+}

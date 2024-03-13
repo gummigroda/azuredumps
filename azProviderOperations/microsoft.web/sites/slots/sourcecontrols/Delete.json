@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/sourcecontrols/Delete",
+  "OperationName": "Delete Web App Slot Source Control Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Delete Web App Slot's source control configuration settings",
+  "IsDataAction": false
+}

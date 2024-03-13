@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/unregister/action",
+  "OperationName": "UnRegisters the Custom Location Resource Provider",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "",
+  "Description": "UnRegisters the subscription for Custom Location resource provider and disables the creation of Custom Location.",
+  "IsDataAction": false
+}

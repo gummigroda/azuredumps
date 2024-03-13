@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/localusers/read",
+  "OperationName": "Get Local User",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Local User",
+  "Description": "Get local user",
+  "IsDataAction": false
+}

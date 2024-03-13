@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apps/replicasets/write",
+  "OperationName": "Creates/Updates replicasets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Replicasets",
+  "Description": "Writes replicasets",
+  "IsDataAction": true
+}

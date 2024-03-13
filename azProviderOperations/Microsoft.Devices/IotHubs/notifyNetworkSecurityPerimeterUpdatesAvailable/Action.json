@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/notifyNetworkSecurityPerimeterUpdatesAvailable/Action",
+  "OperationName": "Notify NSP updates available",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs",
+  "Description": "Notify RP that an associated NSP has profile updates.",
+  "IsDataAction": false
+}

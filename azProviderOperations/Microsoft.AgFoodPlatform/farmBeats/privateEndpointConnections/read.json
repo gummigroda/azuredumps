@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnections/read",
+  "OperationName": "Get or List AgFoodPlatform Private endpoint connections resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connections",
+  "Description": "Gets or Lists existing AgFoodPlatform Private endpoint connections resource(s).",
+  "IsDataAction": false
+}

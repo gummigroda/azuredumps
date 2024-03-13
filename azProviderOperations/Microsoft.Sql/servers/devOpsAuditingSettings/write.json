@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/devOpsAuditingSettings/write",
+  "OperationName": "Set server DevOps audit policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server DevOps Audit Policy",
+  "Description": "Change the server DevOps audit policy for a given server",
+  "IsDataAction": false
+}

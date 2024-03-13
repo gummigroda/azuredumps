@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/querytriggers/action",
+  "OperationName": "Query Triggers",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Queries the Triggers.",
+  "IsDataAction": false
+}

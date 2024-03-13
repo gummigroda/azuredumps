@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection",
+  "Description": "Read a private endpoint connection or list all the private endpoint connections of a Database Account",
+  "IsDataAction": false
+}

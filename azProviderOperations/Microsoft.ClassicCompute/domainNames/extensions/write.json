@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/extensions/write",
+  "OperationName": "Add Domain Name Extensions",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name Extension",
+  "Description": "Add the domain name extensions.",
+  "IsDataAction": false
+}

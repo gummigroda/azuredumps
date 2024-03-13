@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/groups/read",
+  "OperationName": "Get Integration Account Group",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Group",
+  "Description": "Reads the group in integration account.",
+  "IsDataAction": false
+}

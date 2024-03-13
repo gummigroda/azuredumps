@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/livez/poststarthook/apiservice-status-available-controller/read",
+  "OperationName": "Gets/List apiservice-status-available-controller resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Poststarthook/Apiservice-Status-Available-Controller",
+  "Description": "Reads apiservice-status-available-controller",
+  "IsDataAction": true
+}

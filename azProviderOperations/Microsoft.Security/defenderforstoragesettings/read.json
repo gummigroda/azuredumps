@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/defenderforstoragesettings/read",
+  "OperationName": "Get defenderForStorageSettings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "DefenderForStorageSettings",
+  "Description": "Gets the defenderforstoragesettings for the scope",
+  "IsDataAction": false
+}

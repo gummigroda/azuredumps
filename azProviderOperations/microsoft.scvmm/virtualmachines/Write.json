@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/virtualmachines/Write",
+  "OperationName": "Create/update virtualmachines resources",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualmachines",
+  "Description": "Writes virtualmachines",
+  "IsDataAction": false
+}

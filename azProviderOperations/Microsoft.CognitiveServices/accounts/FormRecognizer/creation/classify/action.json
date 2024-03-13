@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/creation/classify/action",
+  "OperationName": "Build Classifier",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Builds a custom document classifier.",
+  "IsDataAction": true
+}

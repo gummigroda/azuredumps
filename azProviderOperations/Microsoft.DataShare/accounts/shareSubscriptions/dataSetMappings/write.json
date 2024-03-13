@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/dataSetMappings/write",
+  "OperationName": "Write Data Share DataSetMapping",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share DataSetMapping ",
+  "Description": "Write a Data Share DataSetMapping.",
+  "IsDataAction": false
+}

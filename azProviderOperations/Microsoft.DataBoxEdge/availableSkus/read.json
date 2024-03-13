@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/availableSkus/read",
+  "OperationName": "List available skus",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "available skus",
+  "Description": "Lists or gets the available skus",
+  "IsDataAction": false
+}

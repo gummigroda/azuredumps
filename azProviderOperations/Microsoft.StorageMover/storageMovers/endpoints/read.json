@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/endpoints/read",
+  "OperationName": "Endpoints_Get",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/endpoints",
+  "Description": "Gets an Endpoint resource.",
+  "IsDataAction": false
+}

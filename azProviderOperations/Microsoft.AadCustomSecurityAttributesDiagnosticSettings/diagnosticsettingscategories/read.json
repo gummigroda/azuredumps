@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AadCustomSecurityAttributesDiagnosticSettings/diagnosticsettingscategories/read",
+  "OperationName": "Diagnostic settings categories read",
+  "ProviderNamespace": "Microsoft Monitoring Insights",
+  "ResourceName": "Diagnostic settings categories",
+  "Description": "Reading a diagnostic setting categories",
+  "IsDataAction": false
+}

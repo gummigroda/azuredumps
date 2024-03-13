@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/delete",
+  "OperationName": "Delete monitor resources",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Delete monitors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/datasets/write",
+  "OperationName": "RegisterDataset|UpdateDataset",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Register a new dataset.\r\nUpdate the properties of an existing dataset.",
+  "IsDataAction": true
+}

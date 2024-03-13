@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/unregister/action",
+  "OperationName": "Unregister the Microsoft.Community",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Community",
+  "IsDataAction": false
+}

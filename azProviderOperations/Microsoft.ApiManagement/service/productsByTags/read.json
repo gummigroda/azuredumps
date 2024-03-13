@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/productsByTags/read",
+  "OperationName": "Get Product-Tag associations list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags - Products associations",
+  "Description": "Lists a collection of products associated with tags.",
+  "IsDataAction": false
+}

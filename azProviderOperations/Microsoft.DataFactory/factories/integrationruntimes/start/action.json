@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/start/action",
+  "OperationName": "Start Integration Runtime",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Starts any Integration Runtime.",
+  "IsDataAction": false
+}

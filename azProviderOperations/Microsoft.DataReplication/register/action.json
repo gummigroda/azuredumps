@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/register/action",
+  "OperationName": "Registers Microsoft Data Replication",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft.DataReplication resource provider",
+  "IsDataAction": false
+}

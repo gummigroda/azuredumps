@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/datasets/access/grant/action",
+  "OperationName": "Create or Update AgFoodPlatform DatasetAccesses.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform DatasetAccesses",
+  "Description": "Creates or Updates AgFoodPlatform DatasetAccesses.",
+  "IsDataAction": true
+}

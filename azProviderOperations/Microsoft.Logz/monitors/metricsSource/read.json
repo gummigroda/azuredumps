@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/metricsSource/read",
+  "OperationName": "Get/List Metrics Sources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "MetricsSource",
+  "Description": "Read MetricsSource",
+  "IsDataAction": false
+}

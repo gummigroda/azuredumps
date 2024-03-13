@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/read",
+  "OperationName": "Pki_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis",
+  "Description": "Lists all the PKI resources in a resource group.",
+  "IsDataAction": false
+}

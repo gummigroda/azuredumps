@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdoors/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Frontdoor logs definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Frontdoor log definitions",
+  "Description": "Get available logs for Frontdoor resources",
+  "IsDataAction": false
+}

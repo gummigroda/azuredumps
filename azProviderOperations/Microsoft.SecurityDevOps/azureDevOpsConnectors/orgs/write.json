@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/orgs/write",
+  "OperationName": "AzureDevOpsOrgs_Update",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors/orgs",
+  "Description": "write orgs",
+  "IsDataAction": false
+}

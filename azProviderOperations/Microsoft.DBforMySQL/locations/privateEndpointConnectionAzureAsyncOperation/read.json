@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/privateEndpointConnectionAzureAsyncOperation/read",
+  "OperationName": "Get private endpoint connection operation status",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL private endpoint connection",
+  "Description": "Gets the result for a private endpoint connection operation",
+  "IsDataAction": false
+}

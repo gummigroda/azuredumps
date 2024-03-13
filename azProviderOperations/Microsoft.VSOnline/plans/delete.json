@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VSOnline/plans/delete",
+  "OperationName": "Deletes plan resource",
+  "ProviderNamespace": "Microsoft.VSOnline",
+  "ResourceName": "plans",
+  "Description": "Deletes plans",
+  "IsDataAction": false
+}

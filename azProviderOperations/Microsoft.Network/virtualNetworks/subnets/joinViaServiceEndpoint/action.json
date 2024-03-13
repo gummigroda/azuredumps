@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/joinViaServiceEndpoint/action",
+  "OperationName": "Join Service to a Subnet.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Joins resource such as storage account or SQL database to a subnet. Not alertable.",
+  "IsDataAction": false
+}

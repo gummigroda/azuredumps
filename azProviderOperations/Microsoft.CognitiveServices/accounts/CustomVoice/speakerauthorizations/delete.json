@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/speakerauthorizations/delete",
+  "OperationName": "Deletes the specified speaker authorization.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Speaker Authorizations",
+  "Description": "Deletes the specified speaker authorization.",
+  "IsDataAction": true
+}

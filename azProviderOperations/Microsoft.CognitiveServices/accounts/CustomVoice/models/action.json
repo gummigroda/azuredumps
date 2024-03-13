@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/models/action",
+  "OperationName": "Model operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Operations like model copy or model saveas.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/afdendpoints/CheckCustomDomainDNSMappingStatus/action",
+  "OperationName": "CheckCustomDomainDNSMappingStatus",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdEndpoint",
+  "Description": null,
+  "IsDataAction": false
+}

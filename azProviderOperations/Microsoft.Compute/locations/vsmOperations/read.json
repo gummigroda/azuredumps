@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/vsmOperations/read",
+  "OperationName": "Get Operation for Virtual Machine Scale Set with the Virtual Machine Runtime Service Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Operation for Virtual Machine Scale Set with the Virtual Machine Runtime Service Extension",
+  "Description": "Gets the status of an asynchronous operation for Virtual Machine Scale Set with the Virtual Machine Runtime Service Extension",
+  "IsDataAction": false
+}

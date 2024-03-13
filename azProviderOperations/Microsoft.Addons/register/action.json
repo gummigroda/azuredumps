@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/register/action",
+  "OperationName": "Register for Microsoft.Addons",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "",
+  "Description": "Register the specified subscription with Microsoft.Addons",
+  "IsDataAction": false
+}

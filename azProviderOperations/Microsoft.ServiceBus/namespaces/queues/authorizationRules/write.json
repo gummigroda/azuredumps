@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/authorizationRules/write",
+  "OperationName": "Create or Update Queue Authorization Rule",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue AuthorizationRules",
+  "Description": "Create Queue Authorization Rules and Update its properties. The Authorization Rules Access Rights can be updated.",
+  "IsDataAction": false
+}

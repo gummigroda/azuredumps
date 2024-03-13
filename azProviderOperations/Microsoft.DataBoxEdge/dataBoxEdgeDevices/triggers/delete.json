@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/delete",
+  "OperationName": "Delete triggers",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "triggers",
+  "Description": "Deletes the triggers",
+  "IsDataAction": false
+}

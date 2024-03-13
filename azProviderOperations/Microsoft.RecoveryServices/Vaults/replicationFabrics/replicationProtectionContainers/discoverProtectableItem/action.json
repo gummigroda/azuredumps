@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/discoverProtectableItem/action",
+  "OperationName": "Discover Protectable Item",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Containers",
+  "Description": "Discover Protectable Item",
+  "IsDataAction": false
+}

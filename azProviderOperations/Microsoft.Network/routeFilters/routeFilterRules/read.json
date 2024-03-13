@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeFilters/routeFilterRules/read",
+  "OperationName": "Get Route Filter Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Filter Rule",
+  "Description": "Gets a route filter rule definition",
+  "IsDataAction": false
+}

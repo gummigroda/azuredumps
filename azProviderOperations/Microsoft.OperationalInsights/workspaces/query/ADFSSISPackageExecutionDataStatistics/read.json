@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADFSSISPackageExecutionDataStatistics/read",
+  "OperationName": "Read ADFSSISPackageExecutionDataStatistics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADFSSISPackageExecutionDataStatistics",
+  "Description": "Read data from the ADFSSISPackageExecutionDataStatistics table",
+  "IsDataAction": false
+}

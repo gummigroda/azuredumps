@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nssfDeployments/read",
+  "OperationName": "NssfDeployments_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nssfDeployments",
+  "Description": "Get a NssfDeploymentResource",
+  "IsDataAction": false
+}

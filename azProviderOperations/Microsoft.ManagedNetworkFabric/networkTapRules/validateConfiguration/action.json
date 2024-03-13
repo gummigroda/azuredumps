@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/validateConfiguration/action",
+  "OperationName": "NetworkTapRules_ValidateConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "Implements the operation to the underlying resources.",
+  "IsDataAction": false
+}

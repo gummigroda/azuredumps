@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/fhirservices/resources/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Read FHIR resources (includes searching and versioned history). ",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2isolationdomains/l2isolationdomaininfos/write",
+  "OperationName": "L2isolationDomainInfos_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2isolationdomains/l2isolationdomaininfos",
+  "Description": "Create a L2isolationDomainInfos resource.",
+  "IsDataAction": false
+}

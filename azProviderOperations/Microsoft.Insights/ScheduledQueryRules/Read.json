@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ScheduledQueryRules/Read",
+  "OperationName": "Scheduled query rule read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Scheduled query rule",
+  "Description": "Reading a scheduled query rule",
+  "IsDataAction": false
+}

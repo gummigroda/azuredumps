@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/monitoringConfig/read",
+  "OperationName": "List monitoring configuration",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "monitoring configuration",
+  "Description": "Lists or gets the monitoring configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePortsLocations/read",
+  "OperationName": "Get Express Route Ports Locations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Ports Location",
+  "Description": "Get Express Route Ports Locations",
+  "IsDataAction": false
+}

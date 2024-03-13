@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/delete",
+  "OperationName": "Delete voice general tasks.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Export tasks",
+  "Description": "Delete voice general tasks.",
+  "IsDataAction": true
+}

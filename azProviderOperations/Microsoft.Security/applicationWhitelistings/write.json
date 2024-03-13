@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/applicationWhitelistings/write",
+  "OperationName": "Create or Update App Whitelisting",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "App Whitelistings",
+  "Description": "Creates a new application whitelisting or updates an existing one",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/register/action",
+  "OperationName": "Register the Microsoft.DevOpsInfrastructure",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.DevOpsInfrastructure",
+  "IsDataAction": false
+}

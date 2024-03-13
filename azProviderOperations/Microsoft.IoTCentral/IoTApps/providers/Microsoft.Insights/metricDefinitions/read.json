@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get/List metric definitions",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Read all the available metric definitions for IoT Central",
+  "IsDataAction": false
+}

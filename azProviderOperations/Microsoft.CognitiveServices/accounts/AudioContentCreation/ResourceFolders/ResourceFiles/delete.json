@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ResourceFolders/ResourceFiles/delete",
+  "OperationName": "Delete folder or files recursively, with optional to delete associated audio files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC resource files",
+  "Description": "Delete folder or files recursively, with optional to delete associated audio files.",
+  "IsDataAction": true
+}

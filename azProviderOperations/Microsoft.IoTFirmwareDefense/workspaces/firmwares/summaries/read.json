@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/summaries/read",
+  "OperationName": "Summaries_Get",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/summaries",
+  "Description": "Get an analysis result summary of a firmware by name.",
+  "IsDataAction": false
+}

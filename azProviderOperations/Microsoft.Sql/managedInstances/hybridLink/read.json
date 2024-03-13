@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/hybridLink/read",
+  "OperationName": "List/Get Azure SQL Managed instance hybrid link.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Hybrid Link",
+  "Description": "Return the list of hybrid links or gets the properties for the specified distributed availability group.",
+  "IsDataAction": false
+}

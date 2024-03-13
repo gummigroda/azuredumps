@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/p2sVpnGatewayProxies/read",
+  "OperationName": "Get P2SVpnGateway proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2SVpnGateway Proxy",
+  "Description": "Gets a P2SVpnGateway Proxy definition",
+  "IsDataAction": false
+}

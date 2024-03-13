@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/locations/operations/read",
+  "OperationName": "Read locations/operations",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "operations",
+  "Description": "Gets the status for an azure asynchronous operation",
+  "IsDataAction": false
+}

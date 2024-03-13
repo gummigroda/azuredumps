@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/jobs/delete",
+  "OperationName": "Delete Jobs",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Delete any job",
+  "IsDataAction": true
+}

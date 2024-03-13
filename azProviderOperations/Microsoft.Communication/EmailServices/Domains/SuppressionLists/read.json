@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SuppressionLists/read",
+  "OperationName": "SuppressionLists_Get",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SuppressionLists",
+  "Description": "Get the suppression list and its properties.",
+  "IsDataAction": false
+}

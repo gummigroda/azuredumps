@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/register/action",
+  "OperationName": "Register subscription for SQL Virtual Machine",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Register subscription with Microsoft.SqlVirtualMachine resource provider",
+  "IsDataAction": false
+}

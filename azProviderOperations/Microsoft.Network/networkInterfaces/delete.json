@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/delete",
+  "OperationName": "Delete Network Interface",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Deletes a network interface",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnections/write",
+  "OperationName": "Approve Or Reject Private Endpoint Connections by Name",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connections",
+  "Description": "Approve Or Reject Private Endpoint Connections",
+  "IsDataAction": false
+}

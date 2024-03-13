@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/communicationLinks/read",
+  "OperationName": "List/Get communication links of a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Communication Link",
+  "Description": "Return the list of communication links of a specified server.",
+  "IsDataAction": false
+}

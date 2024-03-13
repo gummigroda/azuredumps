@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageTasks/write",
+  "OperationName": "Put Storage Task",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Task",
+  "Description": "Creates or updates storage task",
+  "IsDataAction": false
+}

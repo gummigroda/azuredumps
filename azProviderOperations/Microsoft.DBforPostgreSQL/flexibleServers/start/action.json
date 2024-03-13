@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/start/action",
+  "OperationName": "Start PostgreSQL server",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Starts an existing server",
+  "IsDataAction": false
+}

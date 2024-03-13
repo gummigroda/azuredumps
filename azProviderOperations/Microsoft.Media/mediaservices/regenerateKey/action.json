@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/regenerateKey/action",
+  "OperationName": "Regenerate Key",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "Regenerate a Media Services ACS key",
+  "IsDataAction": false
+}

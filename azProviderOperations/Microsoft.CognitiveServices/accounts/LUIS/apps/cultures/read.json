@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/cultures/read",
+  "OperationName": "Apps - Get cultures list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Cultures",
+  "Description": "Gets the supported LUIS application cultures.",
+  "IsDataAction": true
+}

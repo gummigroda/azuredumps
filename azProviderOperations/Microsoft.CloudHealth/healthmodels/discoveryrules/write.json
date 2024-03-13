@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/discoveryrules/write",
+  "OperationName": "DiscoveryRules_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/discoveryrules",
+  "Description": "Create a DiscoveryRule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/transactions/Read",
+  "OperationName": "Read Transactions",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Transactions",
+  "Description": "Read Transactions",
+  "IsDataAction": false
+}

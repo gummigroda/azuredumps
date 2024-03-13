@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityCopilot/unregister/action",
+  "OperationName": "Unregister the Microsoft.SecurityCopilot",
+  "ProviderNamespace": "Microsoft.SecurityCopilot",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.SecurityCopilot",
+  "IsDataAction": false
+}

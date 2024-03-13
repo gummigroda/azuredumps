@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/trackingAreas/read",
+  "OperationName": "TrackingAreas_ListByServiceArea",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas/trackingAreas",
+  "Description": "Lists all the Tracking Areas in a specific service area.",
+  "IsDataAction": false
+}

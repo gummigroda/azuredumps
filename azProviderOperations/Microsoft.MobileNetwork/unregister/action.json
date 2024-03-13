@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/unregister/action",
+  "OperationName": "Unregister the Microsoft.MobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.MobileNetwork",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/evaluations/delete",
+  "OperationName": "Deletes the specified evaluation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Evaluations",
+  "Description": "Deletes the specified evaluation.",
+  "IsDataAction": true
+}

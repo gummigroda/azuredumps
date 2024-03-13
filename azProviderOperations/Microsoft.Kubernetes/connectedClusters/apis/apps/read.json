@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/apps/read",
+  "OperationName": "Gets/List apps resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "apps",
+  "Description": "Reads apps",
+  "IsDataAction": true
+}

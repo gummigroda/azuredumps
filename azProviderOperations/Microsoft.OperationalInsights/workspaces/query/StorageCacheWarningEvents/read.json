@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/StorageCacheWarningEvents/read",
+  "OperationName": "Read StorageCacheWarningEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "StorageCacheWarningEvents",
+  "Description": "Read data from the StorageCacheWarningEvents table",
+  "IsDataAction": false
+}

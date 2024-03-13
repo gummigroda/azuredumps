@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/changeLongTermRetentionBackupAccessTierAzureAsyncOperation/read",
+  "OperationName": "Gets the async operation status of changing long term retention backup access tier operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Change long term retention backup access tier",
+  "Description": "Gets the async operation status of changing long term retention backup access tier operation.",
+  "IsDataAction": false
+}

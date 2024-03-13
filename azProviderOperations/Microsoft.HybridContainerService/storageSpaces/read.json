@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/storageSpaces/read",
+  "OperationName": "storageSpaces_ListBySubscription",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "storageSpaces",
+  "Description": "List the Hybrid AKS storage object by subscription",
+  "IsDataAction": false
+}

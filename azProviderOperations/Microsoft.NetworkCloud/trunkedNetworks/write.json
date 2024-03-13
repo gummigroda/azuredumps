@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/trunkedNetworks/write",
+  "OperationName": "TrunkedNetworks_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "trunkedNetworks",
+  "Description": "Update tags associated with the provided trunked network.",
+  "IsDataAction": false
+}

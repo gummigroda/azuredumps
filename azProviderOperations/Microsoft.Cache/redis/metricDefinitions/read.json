@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/metricDefinitions/read",
+  "OperationName": "Read Redis Cache Metric Definitions",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "The available metrics for a Redis Cache",
+  "Description": "Gets the available metrics for a Redis Cache",
+  "IsDataAction": false
+}

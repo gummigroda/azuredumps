@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/usages/read",
+  "OperationName": "Usage_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/usages",
+  "Description": "Lists the usage data of a Test Base Account.",
+  "IsDataAction": false
+}

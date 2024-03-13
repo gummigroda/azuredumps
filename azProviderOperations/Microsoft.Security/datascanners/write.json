@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/datascanners/write",
+  "OperationName": "Update datascanners",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Datascanners",
+  "Description": "Creates or updates the datascanners for the scope",
+  "IsDataAction": false
+}

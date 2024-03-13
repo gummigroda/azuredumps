@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/bindings/write",
+  "OperationName": "Creates/Updates bindings resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Bindings",
+  "Description": "Writes bindings",
+  "IsDataAction": true
+}

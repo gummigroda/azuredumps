@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/virtualmachines/stop/action",
+  "OperationName": "Stop VM.",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualmachines",
+  "Description": "Stop VM.",
+  "IsDataAction": false
+}

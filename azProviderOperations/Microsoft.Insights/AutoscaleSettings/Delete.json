@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/Delete",
+  "OperationName": "Delete autoscale setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Autoscale Setting",
+  "Description": "Delete an autoscale setting",
+  "IsDataAction": false
+}

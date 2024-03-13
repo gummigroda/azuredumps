@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/observabilityServices/write",
+  "OperationName": "ObservabilityServices_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "observabilityServices",
+  "Description": "Update a ObservabilityServiceResource",
+  "IsDataAction": false
+}

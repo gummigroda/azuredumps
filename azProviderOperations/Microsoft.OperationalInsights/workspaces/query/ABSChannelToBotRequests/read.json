@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ABSChannelToBotRequests/read",
+  "OperationName": "Read ABSChannelToBotRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ABSChannelToBotRequests",
+  "Description": "Read data from the ABSChannelToBotRequests table",
+  "IsDataAction": false
+}

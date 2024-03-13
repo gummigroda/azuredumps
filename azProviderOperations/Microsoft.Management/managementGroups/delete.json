@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/delete",
+  "OperationName": "Delete Group",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Delete management group.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/storage.k8s.io/storageclasses/write",
+  "OperationName": "Creates/Updates storageclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Storageclasses",
+  "Description": "Writes storageclasses",
+  "IsDataAction": true
+}

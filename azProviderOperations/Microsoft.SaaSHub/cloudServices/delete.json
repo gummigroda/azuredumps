@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/delete",
+  "OperationName": "CloudServices_Delete",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Deletes a SaaSHub cloud service resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/computes/restart/action",
+  "OperationName": "Restart compute resource in Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Computes",
+  "Description": "Restart compute resource in Machine Learning Services Workspace",
+  "IsDataAction": false
+}

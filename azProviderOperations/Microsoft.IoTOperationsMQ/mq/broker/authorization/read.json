@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/authorization/read",
+  "OperationName": "BrokerAuthorization_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker/authorization",
+  "Description": "Get a BrokerAuthorizationResource",
+  "IsDataAction": false
+}

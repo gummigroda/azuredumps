@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/Start/action",
+  "OperationName": "Start virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Start a virtual machine.",
+  "IsDataAction": false
+}

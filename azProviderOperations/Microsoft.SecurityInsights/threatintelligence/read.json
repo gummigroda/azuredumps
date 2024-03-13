@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/read",
+  "OperationName": "Get Threat Intelligence",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Gets Threat Intelligence",
+  "IsDataAction": false
+}

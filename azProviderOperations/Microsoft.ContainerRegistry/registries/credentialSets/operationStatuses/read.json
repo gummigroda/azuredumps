@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/credentialSets/operationStatuses/read",
+  "OperationName": "Get credential set async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CredentialSets",
+  "Description": "Gets a credential set async operation status",
+  "IsDataAction": false
+}

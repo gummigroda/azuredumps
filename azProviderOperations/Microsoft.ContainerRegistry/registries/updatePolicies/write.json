@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/updatePolicies/write",
+  "OperationName": "Update registry policies",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Updates the policies for the specified container registry",
+  "IsDataAction": false
+}

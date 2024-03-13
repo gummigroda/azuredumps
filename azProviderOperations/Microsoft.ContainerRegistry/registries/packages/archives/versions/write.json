@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/versions/write",
+  "OperationName": "Create or Update Archive Version",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive version",
+  "Description": "Creates or updates a Archive version for an Archive with the specified parameter",
+  "IsDataAction": false
+}

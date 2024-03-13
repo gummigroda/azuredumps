@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/networkSecurityPerimeterConfigurationsReconcileOperationResults/read",
+  "OperationName": "Get Reconcile Network Security Perimeter Operation Result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Reconcile Network Security Perimeter Operation Results",
+  "Description": "Get Reconcile Network Security Perimeter Operation Result",
+  "IsDataAction": false
+}

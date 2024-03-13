@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Api/Read",
+  "OperationName": "Application Insights component data API read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights component data API",
+  "Description": "Reading Application Insights component data API",
+  "IsDataAction": false
+}

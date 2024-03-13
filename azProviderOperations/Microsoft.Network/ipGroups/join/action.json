@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/join/action",
+  "OperationName": "Joins IpGroups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Joins an IpGroup. Not alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppPlatformLogsforSpring/read",
+  "OperationName": "Read AppPlatformLogsforSpring data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppPlatformLogsforSpring",
+  "Description": "Read data from the AppPlatformLogsforSpring table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/twins/write",
+  "OperationName": "Write DeviceTwin",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Write any device or module twin",
+  "IsDataAction": true
+}

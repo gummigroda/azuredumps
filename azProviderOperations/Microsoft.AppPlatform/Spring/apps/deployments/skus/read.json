@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/skus/read",
+  "OperationName": "Get the scale values of a Service Tier for deployment(s) of an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Deployment Sku",
+  "Description": "List available skus of an application deployment",
+  "IsDataAction": false
+}

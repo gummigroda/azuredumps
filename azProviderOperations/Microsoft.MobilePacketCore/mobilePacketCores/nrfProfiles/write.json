@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nrfProfiles/write",
+  "OperationName": "NrfProfiles_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nrfProfiles",
+  "Description": "Creates or updates a Mobile Packet Core Network Repository Function profile resource",
+  "IsDataAction": false
+}

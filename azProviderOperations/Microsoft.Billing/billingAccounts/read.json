@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/read",
+  "OperationName": "BillingAccounts_List",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": "Lists accessible billing accounts.",
+  "IsDataAction": false
+}

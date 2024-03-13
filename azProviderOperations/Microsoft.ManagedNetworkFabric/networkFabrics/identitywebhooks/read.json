@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/identitywebhooks/read",
+  "OperationName": "IdentityWebhooks_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/identitywebhooks",
+  "Description": "Get the IdentityWebhooks resource details.",
+  "IsDataAction": false
+}

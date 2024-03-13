@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Unregister/Action",
+  "OperationName": "Unregisters the Azure Stack HCI Resource Provider",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Azure Stack HCI resource provider.",
+  "IsDataAction": false
+}

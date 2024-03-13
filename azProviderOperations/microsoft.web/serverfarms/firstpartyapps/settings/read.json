@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/firstpartyapps/settings/read",
+  "OperationName": "Get App Service Plans First Party Apps Settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans First Party Apps Settings",
+  "Description": "Get App Service Plans First Party Apps Settings.",
+  "IsDataAction": false
+}

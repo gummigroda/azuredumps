@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/write",
+  "OperationName": "KafkaConnector_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector",
+  "Description": "Update a KafkaConnectorResource",
+  "IsDataAction": false
+}

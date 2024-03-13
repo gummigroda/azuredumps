@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AddonAzureBackupAlerts/Read",
+  "OperationName": "Read AddonAzureBackupAlerts data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AddonAzureBackupAlerts",
+  "Description": "Read data from the AddonAzureBackupAlerts table",
+  "IsDataAction": false
+}

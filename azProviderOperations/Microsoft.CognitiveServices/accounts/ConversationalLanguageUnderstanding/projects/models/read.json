@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/models/read",
+  "OperationName": "Projects_GetTrainedModel|Projects_GetTrainedModels*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Gets a specific trained model of a project.\r\nGets the trained models of a project.*",
+  "IsDataAction": true
+}

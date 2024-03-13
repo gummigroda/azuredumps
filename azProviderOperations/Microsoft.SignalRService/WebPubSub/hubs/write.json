@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/hubs/write",
+  "OperationName": "Write hub settings",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/HubSettings",
+  "Description": "Write hub settings",
+  "IsDataAction": false
+}

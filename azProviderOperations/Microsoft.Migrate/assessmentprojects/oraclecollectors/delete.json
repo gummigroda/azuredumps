@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oraclecollectors/delete",
+  "OperationName": "Delete oracle Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Collectors",
+  "Description": "Deletes the oracle Collector which are available in the given location",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerTopics/deactivate/action",
+  "OperationName": "Deactivate PartnerTopic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerTopics",
+  "Description": "Deactivate a partner topic",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/policySets/EvaluatePolicies/action",
+  "OperationName": "Evaluate policy",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "policy sets",
+  "Description": "Evaluates lab policy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/alerts/read",
+  "OperationName": "List alerts",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "alerts",
+  "Description": "Lists or gets the alerts",
+  "IsDataAction": false
+}

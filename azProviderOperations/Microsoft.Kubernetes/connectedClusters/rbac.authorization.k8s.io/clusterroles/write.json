@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/clusterroles/write",
+  "OperationName": "Creates/Updates clusterroles resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "clusterroles",
+  "Description": "Writes clusterroles",
+  "IsDataAction": true
+}

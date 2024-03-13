@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/deleteShareableLinks/action",
+  "OperationName": "Deletes shareable urls for the provided VMs under a bastion",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Deletes shareable urls for the provided VMs under a bastion",
+  "IsDataAction": false
+}

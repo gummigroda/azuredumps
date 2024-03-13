@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/read/core/asyncbatchanalyze/action",
+  "OperationName": "Batch Read File",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OCR Batch",
+  "Description": "Use this interface to get the result of a Batch Read File operation, employing the state-of-the-art Optical Character",
+  "IsDataAction": true
+}

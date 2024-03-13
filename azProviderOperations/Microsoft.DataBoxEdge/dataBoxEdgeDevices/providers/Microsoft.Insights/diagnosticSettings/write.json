@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostics setting",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge device",
+  "Description": "Creates or updates the diagnostics setting for the resource",
+  "IsDataAction": false
+}

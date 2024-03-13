@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Operations",
+  "Description": "List the operations supported by Microsoft.ElasticSan",
+  "IsDataAction": false
+}

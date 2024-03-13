@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/skus/read",
+  "OperationName": "Get SKU",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/skus",
+  "Description": "Get the properties of a Lab Services SKU.",
+  "IsDataAction": false
+}

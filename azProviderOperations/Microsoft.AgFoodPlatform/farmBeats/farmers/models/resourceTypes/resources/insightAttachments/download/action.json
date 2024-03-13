@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/models/resourceTypes/resources/insightAttachments/download/action",
+  "OperationName": "insights Download",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform insight attachments",
+  "Description": "insights Download",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/configmaps/read",
+  "OperationName": "Gets/List configmaps resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "configmaps",
+  "Description": "Reads configmaps",
+  "IsDataAction": true
+}

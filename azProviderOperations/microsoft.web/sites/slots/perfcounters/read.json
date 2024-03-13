@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/perfcounters/read",
+  "OperationName": "Get Web Apps Slots Performance Counters",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Performance Counters",
+  "Description": "Get Web Apps Slots Performance Counters.",
+  "IsDataAction": false
+}

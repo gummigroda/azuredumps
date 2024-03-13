@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateLinkResources/read",
+  "OperationName": "Get StorageAccount groupids",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage account groupids",
+  "Description": "Get StorageAccount groupids",
+  "IsDataAction": false
+}

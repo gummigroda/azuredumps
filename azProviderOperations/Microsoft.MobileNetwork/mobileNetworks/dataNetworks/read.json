@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/dataNetworks/read",
+  "OperationName": "DataNetworks_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/dataNetworks",
+  "Description": "Lists all data networks in the mobile network.",
+  "IsDataAction": false
+}

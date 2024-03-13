@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networksecuritygroups/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Network Security Groups Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Groups Diagnostic Settings",
+  "Description": "Gets the Network Security Groups Diagnostic Settings",
+  "IsDataAction": false
+}

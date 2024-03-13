@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks/read",
+  "OperationName": "AttachedDataNetworks_ListByPacketCoreDataPlane",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks",
+  "Description": "Gets all the attached data networks associated with a packet core data plane.",
+  "IsDataAction": false
+}

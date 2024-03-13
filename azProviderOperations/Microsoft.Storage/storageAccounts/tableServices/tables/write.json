@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/tables/write",
+  "OperationName": "Create tables",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Tables",
+  "Description": "Create tables",
+  "IsDataAction": false
+}

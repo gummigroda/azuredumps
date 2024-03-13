@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsTables/Read",
+  "OperationName": "Application Insights analytics table read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics table",
+  "Description": "Reading an Application Insights analytics table schema",
+  "IsDataAction": false
+}

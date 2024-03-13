@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/stop/action",
+  "OperationName": "Stop Streaming Endpoint Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoint",
+  "Description": "Stop any Streaming Endpoint Operation",
+  "IsDataAction": false
+}

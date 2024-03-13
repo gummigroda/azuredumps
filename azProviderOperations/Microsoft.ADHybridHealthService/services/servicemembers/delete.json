@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/delete",
+  "OperationName": "Deletes server.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Deletes a server instance in the service.",
+  "IsDataAction": false
+}

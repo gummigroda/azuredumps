@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/collections/upsertOfferWithMultiContext/action",
+  "OperationName": "Upsert Offer With Multi Context",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Approve all items for collection",
+  "Description": "Upsert an offer with different contexts",
+  "IsDataAction": false
+}

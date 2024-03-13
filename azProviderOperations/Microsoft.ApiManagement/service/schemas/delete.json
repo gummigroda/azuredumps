@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/schemas/delete",
+  "OperationName": "Remove schema",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Schemas",
+  "Description": "Deletes specific Schema.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ScVmm/virtualMachines/extensions/read",
+  "OperationName": "MachineExtensions_Get",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualMachines/extensions",
+  "Description": "The operation to get the extension.",
+  "IsDataAction": false
+}

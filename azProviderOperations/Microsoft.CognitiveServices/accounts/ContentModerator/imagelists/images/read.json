@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/images/read",
+  "OperationName": "Image - Get all Image Ids",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Image - Get all Image Ids",
+  "IsDataAction": true
+}

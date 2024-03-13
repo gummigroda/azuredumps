@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ContentTemplates/delete",
+  "OperationName": "Delete installed Content Templates",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ContentTemplates",
+  "Description": "Delete installed Content Templates.",
+  "IsDataAction": false
+}

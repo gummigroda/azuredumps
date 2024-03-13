@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateCryptoKeyList/action",
+  "OperationName": "Firmware_ListGenerateCryptoKeyList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to list all crypto keys for a firmware.",
+  "IsDataAction": false
+}

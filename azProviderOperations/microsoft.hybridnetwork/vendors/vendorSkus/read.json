@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/vendorSkus/read",
+  "OperationName": "VendorSkus_List",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors/vendorSkus",
+  "Description": "Lists all the skus of a vendor.",
+  "IsDataAction": false
+}

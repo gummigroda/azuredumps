@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/tables/read",
+  "OperationName": "Query tables",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Tables",
+  "Description": "Query tables",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggerSupportPackage/action",
+  "OperationName": "Trigger Support Package",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Trigger Support Package",
+  "IsDataAction": false
+}

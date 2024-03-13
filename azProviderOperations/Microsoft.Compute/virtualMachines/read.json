@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/read",
+  "OperationName": "Get Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Get the properties of a virtual machine",
+  "IsDataAction": false
+}

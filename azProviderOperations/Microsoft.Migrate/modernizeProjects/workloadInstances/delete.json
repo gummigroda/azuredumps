@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/workloadInstances/delete",
+  "OperationName": "Deletes the workload instance",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Deletes the workload instance in the given modernizeProject",
+  "IsDataAction": false
+}

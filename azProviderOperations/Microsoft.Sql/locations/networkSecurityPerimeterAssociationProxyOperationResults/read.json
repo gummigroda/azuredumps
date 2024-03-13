@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/networkSecurityPerimeterAssociationProxyOperationResults/read",
+  "OperationName": "Get network security perimeter operation result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Get network security perimeter operation result",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectUnderstandingAccounts/regeneratekeys/action",
+  "OperationName": "Regenerate the keys of an Object Understanding account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectUnderstandingAccounts",
+  "Description": "Regenerate the keys of an Object Understanding account",
+  "IsDataAction": false
+}

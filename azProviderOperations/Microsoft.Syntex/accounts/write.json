@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/accounts/write",
+  "OperationName": "Accounts_Update",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "accounts",
+  "Description": "Update a Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/fluidRelayServers/regenerateKey/action",
+  "OperationName": "FluidRelayServers_RegenerateKey",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "fluidRelayServers",
+  "Description": "action regenerateKey",
+  "IsDataAction": false
+}

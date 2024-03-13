@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/diagnosticSettings/delete",
+  "OperationName": "Delete a diagnostics setting",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Diagnostics settings",
+  "Description": "Delete diagnostics settings",
+  "IsDataAction": false
+}

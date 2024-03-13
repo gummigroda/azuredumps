@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/register/action",
+  "OperationName": "Register the Microsoft.ApiSecurity",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ApiSecurity",
+  "IsDataAction": false
+}

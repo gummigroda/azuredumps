@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/register/action",
+  "OperationName": "Register Subscription for Microsoft.AVS",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "",
+  "Description": "Register Subscription for Microsoft.AVS resource provider.",
+  "IsDataAction": false
+}

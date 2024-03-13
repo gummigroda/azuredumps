@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/write",
+  "OperationName": "Creates or Updates a Network Security Perimeter Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Profile",
+  "Description": "Creates or Updates a Network Security Perimeter Profile",
+  "IsDataAction": false
+}

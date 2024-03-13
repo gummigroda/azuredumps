@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/verifyDomainOwnership/Action",
+  "OperationName": "Verify domain ownership",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "AppServiceCertificate",
+  "Description": "Verify domain ownership",
+  "IsDataAction": false
+}

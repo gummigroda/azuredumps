@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patterns/delete",
+  "OperationName": "Regex pattern features - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Regex pattern features",
+  "Description": "**THIS API IS DEPRECATED.**",
+  "IsDataAction": true
+}

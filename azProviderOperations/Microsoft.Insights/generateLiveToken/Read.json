@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/generateLiveToken/Read",
+  "OperationName": "Get Live Metrics token",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Live Metrics token",
+  "Description": "Live Metrics get token",
+  "IsDataAction": false
+}

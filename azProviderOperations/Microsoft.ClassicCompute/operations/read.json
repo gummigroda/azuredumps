@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/operations/read",
+  "OperationName": "Get operations",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Operations",
+  "Description": "Gets the list of operations.",
+  "IsDataAction": false
+}

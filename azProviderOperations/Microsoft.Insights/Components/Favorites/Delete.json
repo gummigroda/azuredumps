@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Favorites/Delete",
+  "OperationName": "Application Insights favorites delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights favorites",
+  "Description": "Deleting an Application Insights favorite",
+  "IsDataAction": false
+}

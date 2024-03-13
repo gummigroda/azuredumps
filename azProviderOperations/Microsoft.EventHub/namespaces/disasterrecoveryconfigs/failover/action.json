@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/disasterRecoveryConfigs/failover/action",
+  "OperationName": "Failover",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Invokes a GEO DR failover and reconfigures the namespace alias to point to the secondary namespace.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/analytics/write",
+  "OperationName": "Analytics Service Write",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Analytics",
+  "Description": "Allows writing of data for Analytic services.",
+  "IsDataAction": true
+}

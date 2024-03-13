@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/DiscoverySiteDataSources/read",
+  "OperationName": "Gets Web App Discovery Site Data Source For A Given Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App discovery site data sources resource",
+  "Description": "Gets Web App Discovery Site Data Source For A Given Site",
+  "IsDataAction": false
+}

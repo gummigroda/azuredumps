@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmers/parties/managementZones/write",
+  "OperationName": "Create or Update AgFoodPlatform management zones.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform management zones",
+  "Description": "Creates or Updates AgFoodPlatform management zones.",
+  "IsDataAction": true
+}

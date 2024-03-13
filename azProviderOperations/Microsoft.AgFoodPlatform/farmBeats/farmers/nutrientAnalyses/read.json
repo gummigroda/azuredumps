@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/nutrientAnalyses/read",
+  "OperationName": "Get or List AgFoodPlatform nutrient analyses resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform nutrient analyses",
+  "Description": "Gets or Lists existing AgFoodPlatform nutrient analyses resource(s).",
+  "IsDataAction": true
+}

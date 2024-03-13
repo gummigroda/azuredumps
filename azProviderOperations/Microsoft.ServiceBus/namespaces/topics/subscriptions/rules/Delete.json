@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/subscriptions/rules/Delete",
+  "OperationName": "Delete Rule",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Rule",
+  "Description": "Operation to delete Rule Resource",
+  "IsDataAction": false
+}

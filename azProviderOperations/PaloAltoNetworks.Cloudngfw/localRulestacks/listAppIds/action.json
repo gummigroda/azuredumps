@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/listAppIds/action",
+  "OperationName": "LocalRulestacks_listAppIds",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "List of AppIds for LocalRulestack ApiVersion",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/templateSpecs/versions/delete",
+  "OperationName": "删除模板规格版本",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "模板规格版本",
+  "Description": "删除模板规格版本",
+  "IsDataAction": false
+}

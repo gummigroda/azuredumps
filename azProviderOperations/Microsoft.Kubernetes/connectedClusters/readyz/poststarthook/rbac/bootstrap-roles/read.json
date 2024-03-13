@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/poststarthook/rbac/bootstrap-roles/read",
+  "OperationName": "Gets/List bootstrap-roles resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/poststarthook/bootstrap-roles",
+  "Description": "Reads bootstrap-roles",
+  "IsDataAction": true
+}

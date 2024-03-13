@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policySnippets/read",
+  "OperationName": "Get policy snippets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of policy snippets",
+  "Description": "Lists all policy snippets.",
+  "IsDataAction": false
+}

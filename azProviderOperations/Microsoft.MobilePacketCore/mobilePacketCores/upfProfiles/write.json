@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/upfProfiles/write",
+  "OperationName": "UpfProfiles_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/upfProfiles",
+  "Description": "Creates or updates a Mobile Packet Core User Plane Function profile resource",
+  "IsDataAction": false
+}

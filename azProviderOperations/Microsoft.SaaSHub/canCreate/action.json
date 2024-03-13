@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/canCreate/action",
+  "OperationName": "ProviderLevelActions_CanCreate",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "",
+  "Description": "Evaluates whether the request payload can create a new resource. Currently only supports CloudService resource type.",
+  "IsDataAction": false
+}

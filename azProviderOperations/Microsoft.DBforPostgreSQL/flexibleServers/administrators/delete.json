@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/administrators/delete",
+  "OperationName": "Delete PostgreSQL server administrator",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server Administrator",
+  "Description": "Deletes an existing PostgreSQL server administrator.",
+  "IsDataAction": false
+}

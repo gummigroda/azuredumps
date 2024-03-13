@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/restart/action",
+  "OperationName": "Restart an application gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Restarts an application gateway",
+  "IsDataAction": false
+}

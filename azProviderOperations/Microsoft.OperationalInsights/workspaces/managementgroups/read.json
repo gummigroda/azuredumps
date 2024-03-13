@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/managementgroups/read",
+  "OperationName": "Get Management Groups for Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Management Group",
+  "Description": "Gets the names and metadata for System Center Operations Manager management groups connected to this workspace.",
+  "IsDataAction": false
+}

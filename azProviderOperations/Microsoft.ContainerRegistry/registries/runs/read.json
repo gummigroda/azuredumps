@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/runs/read",
+  "OperationName": "Get the run or List runs.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the properties of a run against a container registry or list runs.",
+  "IsDataAction": false
+}

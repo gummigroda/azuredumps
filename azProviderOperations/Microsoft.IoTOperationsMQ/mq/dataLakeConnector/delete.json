@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/dataLakeConnector/delete",
+  "OperationName": "DataLakeConnector_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/dataLakeConnector",
+  "Description": "Delete a DataLakeConnectorResource",
+  "IsDataAction": false
+}

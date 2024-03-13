@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/getBillingInfo/action",
+  "OperationName": "Get marketplace and organization info mapped to the given monitor",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Get marketplace and organization info mapped to the given monitor",
+  "IsDataAction": false
+}

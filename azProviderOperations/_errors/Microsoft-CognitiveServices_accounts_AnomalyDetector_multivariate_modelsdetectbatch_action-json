@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models:detect-batch/action",
+  "OperationName": "Multivariate Anomaly Detection - Detect Multivariate Anomaly",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "multivariate",
+  "Description": "Submit multivariate anomaly detection task with the modelId of trained model and inference data, the input schema should be the same with the training request. The request will complete asynchronously and return a resultId to query the detection result.The request should be a source link to indicate an externally accessible Azure storage Uri, either pointed to an Azure blob storage folder, or pointed to a CSV file in Azure blob storage.",
+  "IsDataAction": true
+}

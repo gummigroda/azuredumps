@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SqlDataClassification/read",
+  "OperationName": "Read SqlDataClassification data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SqlDataClassification",
+  "Description": "Read data from the SqlDataClassification table",
+  "IsDataAction": false
+}

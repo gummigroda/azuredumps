@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DiagnosticSettings/Read",
+  "OperationName": "Read resource diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Resource diagnostic settings",
+  "Description": "Read a resource diagnostic setting",
+  "IsDataAction": false
+}

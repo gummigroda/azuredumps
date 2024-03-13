@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeManagement/locations/chat/action",
+  "OperationName": "Edge_Chat",
+  "ProviderNamespace": "Microsoft.EdgeManagement",
+  "ResourceName": "locations/chat",
+  "Description": "Post a message to chatbot",
+  "IsDataAction": false
+}

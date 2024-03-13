@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/metrics/blocklistHitCalls/read",
+  "OperationName": "Show Blocklist Hit Request Count At Different Timestamps.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "blocklist hit calls*",
+  "Description": "Show blocklist hit request count at different timestamps.",
+  "IsDataAction": true
+}

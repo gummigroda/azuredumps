@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/policy/delete",
+  "OperationName": "Reset Policy.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage configuration policies",
+  "Description": "Resets the learning settings of the Personalizer service to default.",
+  "IsDataAction": true
+}

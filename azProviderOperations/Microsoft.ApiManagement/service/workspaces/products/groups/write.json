@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/groups/write",
+  "OperationName": "Associate group with product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Developer groups associated with product",
+  "Description": "Adds the association between the specified developer group with the specified product.",
+  "IsDataAction": false
+}

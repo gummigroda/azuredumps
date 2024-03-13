@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/Voices/read",
+  "OperationName": "Query ACC voices.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Voices",
+  "Description": "Query ACC voices.",
+  "IsDataAction": true
+}

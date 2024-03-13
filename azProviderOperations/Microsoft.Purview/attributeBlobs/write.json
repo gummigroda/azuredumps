@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/attributeBlobs/write",
+  "OperationName": "Write Attribute Blob",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Attribute Blob",
+  "Description": "Write Attribute Blob.",
+  "IsDataAction": true
+}

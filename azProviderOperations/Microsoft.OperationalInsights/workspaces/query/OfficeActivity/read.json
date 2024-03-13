@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/OfficeActivity/read",
+  "OperationName": "Read OfficeActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "OfficeActivity",
+  "Description": "Read data from the OfficeActivity table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/image/incidents/read",
+  "OperationName": "Get or List Image Incidents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Incidents",
+  "Description": "Get or List Image Incidents",
+  "IsDataAction": true
+}

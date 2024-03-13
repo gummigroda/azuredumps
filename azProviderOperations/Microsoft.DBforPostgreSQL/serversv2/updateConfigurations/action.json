@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serversv2/updateConfigurations/action",
+  "OperationName": "Batch Update Server Configurations",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Update configurations for the specified server",
+  "IsDataAction": false
+}

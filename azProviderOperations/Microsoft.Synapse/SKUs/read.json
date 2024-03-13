@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/SKUs/read",
+  "OperationName": "Read SKU resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SKUs resource type",
+  "Description": "Reads a SKU resource.",
+  "IsDataAction": false
+}

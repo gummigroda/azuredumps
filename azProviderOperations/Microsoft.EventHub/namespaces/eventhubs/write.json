@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/write",
+  "OperationName": "Create or Update EventHub",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub",
+  "Description": "Create or Update EventHub properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/apiCollections/write",
+  "OperationName": "V3APICollectionOnboarding_Create",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "apiCollections",
+  "Description": "Onboard an APIM API Collection to Defender for APIs. The system will start monitoring the APIs within the APIM API Collection for intrusive behaviors and provide alerts for attacks that have been detected.",
+  "IsDataAction": false
+}

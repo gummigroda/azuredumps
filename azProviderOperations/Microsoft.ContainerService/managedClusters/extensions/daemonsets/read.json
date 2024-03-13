@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensions/daemonsets/read",
+  "OperationName": "Gets/List daemonsets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Daemonsets",
+  "Description": "Reads daemonsets",
+  "IsDataAction": true
+}

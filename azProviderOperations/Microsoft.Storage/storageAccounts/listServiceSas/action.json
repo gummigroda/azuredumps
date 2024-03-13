@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/listServiceSas/action",
+  "OperationName": "Returns Storage Service SAS Token",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Returns the Service SAS token for the specified storage account.",
+  "IsDataAction": false
+}

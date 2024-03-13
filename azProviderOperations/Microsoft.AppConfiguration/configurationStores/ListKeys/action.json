@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/ListKeys/action",
+  "OperationName": "List Configuration Store API Keys",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Lists the API keys for the specified configuration store.",
+  "IsDataAction": false
+}

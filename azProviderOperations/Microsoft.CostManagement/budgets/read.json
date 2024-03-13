@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/budgets/read",
+  "OperationName": "List budgets",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Budgets",
+  "Description": "List the budgets by a subscription or a management group.",
+  "IsDataAction": false
+}

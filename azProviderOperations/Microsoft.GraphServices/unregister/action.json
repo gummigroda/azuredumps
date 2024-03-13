@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/unregister/action",
+  "OperationName": "Unregister the Microsoft.GraphServices",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.GraphServices",
+  "IsDataAction": false
+}

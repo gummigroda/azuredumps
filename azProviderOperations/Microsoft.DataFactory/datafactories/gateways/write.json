@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/write",
+  "OperationName": "Create or Update Gateway",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Creates or Updates any Gateway.",
+  "IsDataAction": false
+}

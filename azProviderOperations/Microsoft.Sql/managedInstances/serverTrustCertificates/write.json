@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/serverTrustCertificates/write",
+  "OperationName": "Create/Update server trust certificate with specified parameters",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Trust Certificate",
+  "Description": "Creates or updates server trust certificate with specified parameters.",
+  "IsDataAction": false
+}

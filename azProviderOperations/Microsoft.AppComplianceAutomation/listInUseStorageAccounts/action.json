@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/listInUseStorageAccounts/action",
+  "OperationName": "Reports_ListInUseStorageAccount",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "List the storage accounts which are in use by related reports",
+  "IsDataAction": false
+}

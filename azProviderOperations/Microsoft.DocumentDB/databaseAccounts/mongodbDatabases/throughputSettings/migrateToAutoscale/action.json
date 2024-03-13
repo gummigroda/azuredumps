@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate MongoDB database offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Database throughput setting",
+  "Description": "Migrate MongoDB database offer to autoscale.",
+  "IsDataAction": false
+}

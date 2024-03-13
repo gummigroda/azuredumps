@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/virtualMachines/start/action",
+  "OperationName": "Start Virtual Machine",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/virtualMachines",
+  "Description": "Start a virtual machine.",
+  "IsDataAction": false
+}

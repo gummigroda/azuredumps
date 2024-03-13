@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/register/action",
+  "OperationName": "Register the Microsoft Purview provider",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft Purview provider.",
+  "IsDataAction": false
+}

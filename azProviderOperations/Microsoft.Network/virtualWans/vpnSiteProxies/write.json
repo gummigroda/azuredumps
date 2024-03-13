@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/vpnSiteProxies/write",
+  "OperationName": "Create or update Vpn Site proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Site Proxy",
+  "Description": "Creates a Vpn Site proxy or updates a Vpn Site proxy",
+  "IsDataAction": false
+}

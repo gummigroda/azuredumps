@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/migrateFromSmartDetection/read",
+  "OperationName": "Get Smart Detection Migration status",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "migrateFromSmartDetection",
+  "Description": "Get the status of an asynchronous Smart Detection to smart alerts migration process",
+  "IsDataAction": false
+}

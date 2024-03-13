@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/taskruns/read",
+  "OperationName": "Get a taskrun for a container registry or list all taskruns.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Get a taskrun for a container registry or list all taskruns.",
+  "IsDataAction": false
+}

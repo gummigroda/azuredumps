@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/attachments/download/action",
+  "OperationName": "boundaries Download",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform attachments",
+  "Description": "boundaries Download",
+  "IsDataAction": true
+}

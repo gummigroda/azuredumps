@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/cancelSynchronization/action",
+  "OperationName": "Data Share Synchronize Cancel Action",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ShareSubscription",
+  "Description": "Cancels a Data Share Synchronization.",
+  "IsDataAction": false
+}

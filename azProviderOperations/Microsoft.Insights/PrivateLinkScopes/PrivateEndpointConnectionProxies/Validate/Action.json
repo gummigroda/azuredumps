@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/PrivateEndpointConnectionProxies/Validate/Action",
+  "OperationName": "Validate a private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Validate a private endpoint connection proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Workbooks/Delete",
+  "OperationName": "Delete workbook",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Workbooks",
+  "Description": "Delete a workbook",
+  "IsDataAction": false
+}

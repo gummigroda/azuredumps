@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/sapInstances/serverInstances/read",
+  "OperationName": "ServerInstances_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites/sapInstances/serverInstances",
+  "Description": "Lists the Server Instance resources for the given SAP Instance resource.",
+  "IsDataAction": false
+}

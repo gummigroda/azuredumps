@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/locations/rmsOperationResults/read",
+  "OperationName": "Gets the status of the subscription wide location based operation",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Gets the status of the subscription wide location based operation",
+  "IsDataAction": false
+}

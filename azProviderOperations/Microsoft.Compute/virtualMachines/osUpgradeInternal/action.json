@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/osUpgradeInternal/action",
+  "OperationName": "Perform OS Upgrade on Virtual Machine.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Perform OS Upgrade on Virtual Machine belonging to Virtual Machine Scale Set with Flexible Orchestration Mode.",
+  "IsDataAction": false
+}

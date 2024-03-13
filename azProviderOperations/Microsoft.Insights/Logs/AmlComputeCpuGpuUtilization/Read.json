@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AmlComputeCpuGpuUtilization/Read",
+  "OperationName": "Read AmlComputeCpuGpuUtilization data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AmlComputeCpuGpuUtilization",
+  "Description": "Read data from the AmlComputeCpuGpuUtilization table",
+  "IsDataAction": false
+}

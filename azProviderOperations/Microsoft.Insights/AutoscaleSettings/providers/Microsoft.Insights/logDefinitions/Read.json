@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/providers/Microsoft.Insights/logDefinitions/Read",
+  "OperationName": "Log Definitions read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Log Definitions",
+  "Description": "Read log definitions",
+  "IsDataAction": false
+}

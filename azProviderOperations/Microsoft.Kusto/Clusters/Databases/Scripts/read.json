@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/Scripts/read",
+  "OperationName": "Read a script resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Script resource type",
+  "Description": "Reads a script resource.",
+  "IsDataAction": false
+}

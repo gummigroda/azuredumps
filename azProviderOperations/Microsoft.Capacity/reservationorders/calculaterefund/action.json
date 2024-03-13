@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/calculaterefund/action",
+  "OperationName": "Compute price for refund",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Computes the refund amount and price of new purchase and returns policy Errors.",
+  "IsDataAction": false
+}

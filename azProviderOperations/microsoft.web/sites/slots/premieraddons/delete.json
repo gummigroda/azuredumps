@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/premieraddons/delete",
+  "OperationName": "Delete Web Apps Slots Premier Addons",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Premier Addons",
+  "Description": "Delete Web Apps Slots Premier Addons.",
+  "IsDataAction": false
+}

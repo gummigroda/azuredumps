@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/smfDeployments/write",
+  "OperationName": "SmfDeployments_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "smfDeployments",
+  "Description": "Update a SmfDeploymentResource",
+  "IsDataAction": false
+}

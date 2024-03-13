@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/upfDeployments/delete",
+  "OperationName": "UpfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/upfDeployments",
+  "Description": "Deletes the specified Mobile Packet Core User Plane Function Deployment resource.",
+  "IsDataAction": false
+}

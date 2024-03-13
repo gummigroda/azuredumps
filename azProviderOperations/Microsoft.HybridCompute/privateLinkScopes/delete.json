@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/delete",
+  "OperationName": "Delete Azure Arc privateLinkScopes",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateLinkScopes",
+  "Description": "Deletes an Azure Arc privateLinkScopes",
+  "IsDataAction": false
+}

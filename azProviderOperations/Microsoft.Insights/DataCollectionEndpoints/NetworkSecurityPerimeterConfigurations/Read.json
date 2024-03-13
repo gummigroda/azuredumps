@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/NetworkSecurityPerimeterConfigurations/Read",
+  "OperationName": "Read data collection endpoint effective NSP configuration",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint effective NSP configuration",
+  "Description": "Read data collection endpoint effective NSP configuration",
+  "IsDataAction": false
+}

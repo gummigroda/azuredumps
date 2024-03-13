@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UpdateRunProgress/Read",
+  "OperationName": "Read UpdateRunProgress data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UpdateRunProgress",
+  "Description": "Read data from the UpdateRunProgress table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/read",
+  "OperationName": "List/Get SecurityDetonationChamber(s)",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Security Detonation Chambers",
+  "Description": "Returns the list of SecurityDetonationChambers or gets the properties for the specified SecurityDetonationChamber",
+  "IsDataAction": false
+}

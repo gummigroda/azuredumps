@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/marketplaces/read",
+  "OperationName": "List Marketplace resource usage",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Marketplaces",
+  "Description": "List the marketplace resource usage details for a scope for EA and WebDirect subscriptions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/pipelines/read",
+  "OperationName": "Pipelines_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances/pipelines",
+  "Description": "Get a Pipeline",
+  "IsDataAction": false
+}

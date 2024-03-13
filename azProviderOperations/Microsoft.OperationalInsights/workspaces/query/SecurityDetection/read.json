@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SecurityDetection/read",
+  "OperationName": "Read SecurityDetection data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SecurityDetection",
+  "Description": "Read data from the SecurityDetection table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/swagger-api/read",
+  "OperationName": "Gets/List swagger-api resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "swagger-api",
+  "Description": "Reads swagger-api",
+  "IsDataAction": true
+}

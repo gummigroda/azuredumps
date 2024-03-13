@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/unregister/action",
+  "OperationName": "Unregister the Microsoft.Scom",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Scom",
+  "IsDataAction": false
+}

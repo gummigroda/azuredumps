@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/register/action",
+  "OperationName": "Register the Microsoft.AzureArcData",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzureArcData",
+  "IsDataAction": false
+}

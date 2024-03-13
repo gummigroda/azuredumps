@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/advisors/createRecommendedActionSession/action",
+  "OperationName": "Create a new recommendation action session",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Advisors",
+  "Description": "Create a new recommendation action session",
+  "IsDataAction": false
+}

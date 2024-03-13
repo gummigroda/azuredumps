@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/read",
+  "OperationName": "Get Migrate Project",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate Projects ",
+  "Description": "Gets the properties of migrate project",
+  "IsDataAction": false
+}

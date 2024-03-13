@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/views/action",
+  "OperationName": "Create views",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "Create view.",
+  "IsDataAction": false
+}

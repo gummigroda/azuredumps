@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Operation",
+  "Description": "List available operations",
+  "IsDataAction": false
+}

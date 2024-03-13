@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/readyz/poststarthook/start-apiextensions-controllers/read",
+  "OperationName": "Gets/List start-apiextensions-controllers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Start-Apiextensions-Controllers",
+  "Description": "Reads start-apiextensions-controllers",
+  "IsDataAction": true
+}

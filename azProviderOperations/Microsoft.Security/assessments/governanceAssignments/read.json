@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessments/governanceAssignments/read",
+  "OperationName": "Get governance assignments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Governance assignments",
+  "Description": "Get governance assignments for security assessments",
+  "IsDataAction": false
+}

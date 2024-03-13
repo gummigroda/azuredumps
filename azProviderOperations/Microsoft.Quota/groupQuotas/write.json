@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/write",
+  "OperationName": "Creates GroupQuota resource",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota resource",
+  "Description": "Creates the GroupQuota resource",
+  "IsDataAction": false
+}

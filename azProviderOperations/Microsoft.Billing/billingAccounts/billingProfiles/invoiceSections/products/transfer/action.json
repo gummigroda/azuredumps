@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/products/transfer/action",
+  "OperationName": "Move Product",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Products",
+  "Description": null,
+  "IsDataAction": false
+}

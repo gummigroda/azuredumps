@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/syncAgents/generateKey/action",
+  "OperationName": "Generate Azure SQL Sync Agent registeration key",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Generate sync agent registeration key",
+  "IsDataAction": false
+}

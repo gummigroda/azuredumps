@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/delete",
+  "OperationName": "LargeFaceList - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largefacelists*",
+  "Description": "Delete a specified large face list.",
+  "IsDataAction": true
+}

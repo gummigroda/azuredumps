@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/eventsources/write",
+  "OperationName": "Create or Update Event Source",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Event Source",
+  "Description": "Creates a new event source for an environment, or updates an existing event source.",
+  "IsDataAction": false
+}

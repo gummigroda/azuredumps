@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnServerConfigurations/configurationPolicyGroups/write",
+  "OperationName": "Put Configuration Policy Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Configuration Policy Group",
+  "Description": "Puts a Configuration Policy Group",
+  "IsDataAction": false
+}

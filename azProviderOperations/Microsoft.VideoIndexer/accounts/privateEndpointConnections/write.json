@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/privateEndpointConnections/write",
+  "OperationName": "PrivateEndpointConnections_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts/privateEndpointConnections",
+  "Description": "Update the state of specified private endpoint connection associated with the Video Indexer account.",
+  "IsDataAction": false
+}

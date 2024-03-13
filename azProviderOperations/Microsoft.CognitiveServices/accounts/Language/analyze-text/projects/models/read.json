@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/models/read",
+  "OperationName": "AnalyzeText_Models_GetTrainedModel|AnalyzeText_Models_GetTrainedModels*|Models_GetTrainedModel*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Get a trained model info.\r\nList all trained models.*\r\nGet a trained model info.*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/endpoints/action",
+  "OperationName": "Endpoint operations.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Operations (disable/suspend/resume etc.) on an existing voice endpoint",
+  "IsDataAction": true
+}

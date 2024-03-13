@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/policies/write",
+  "OperationName": "Set Product policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product policies configuration",
+  "Description": "Creates or updates policy configuration for the Product.",
+  "IsDataAction": false
+}

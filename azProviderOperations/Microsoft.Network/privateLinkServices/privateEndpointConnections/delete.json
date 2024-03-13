@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/privateEndpointConnections/delete",
+  "OperationName": "Delete an private endpoint connection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Deletes an private endpoint connection.",
+  "IsDataAction": false
+}

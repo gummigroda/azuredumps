@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustGroups/delete",
+  "OperationName": "Deletes the existing SQL Server Trust Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Trust Group",
+  "Description": "Deletes the existing SQL Server Trust Group",
+  "IsDataAction": false
+}

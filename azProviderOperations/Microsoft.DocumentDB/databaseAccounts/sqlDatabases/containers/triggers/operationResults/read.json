@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/operationResults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Tirgger",
+  "Description": "Read status of the asynchronous operation.",
+  "IsDataAction": false
+}

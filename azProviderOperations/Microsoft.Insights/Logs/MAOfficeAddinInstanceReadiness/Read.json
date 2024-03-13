@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeAddinInstanceReadiness/Read",
+  "OperationName": "Read MAOfficeAddinInstanceReadiness data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeAddinInstanceReadiness",
+  "Description": "Read data from the MAOfficeAddinInstanceReadiness table",
+  "IsDataAction": false
+}

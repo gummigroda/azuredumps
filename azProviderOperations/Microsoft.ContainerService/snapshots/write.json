@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/snapshots/write",
+  "OperationName": "Create Snapshot",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Snapshots",
+  "Description": "Creates a new snapshot",
+  "IsDataAction": false
+}

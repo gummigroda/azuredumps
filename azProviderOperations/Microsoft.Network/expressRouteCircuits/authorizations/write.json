@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/authorizations/write",
+  "OperationName": "Create or update an existing ExpressRouteCircuit Authorization",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitAuthorization",
+  "Description": "Creates or updates an existing ExpressRouteCircuit Authorization",
+  "IsDataAction": false
+}

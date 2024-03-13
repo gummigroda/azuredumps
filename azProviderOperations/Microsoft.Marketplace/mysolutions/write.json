@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/mysolutions/write",
+  "OperationName": "UserSolutions_Write",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "UserSolutions",
+  "Description": "Create or update user solutions",
+  "IsDataAction": false
+}

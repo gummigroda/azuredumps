@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/write",
+  "OperationName": "DiscoGroups_Put",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Create a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/jobs/operations/read",
+  "OperationName": "Gets the workflow operation status",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Tracks the results of an asynchronous operation on the job",
+  "IsDataAction": false
+}

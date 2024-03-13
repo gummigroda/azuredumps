@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Reader/Action",
+  "OperationName": "Healthbot configuration reader",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Sign in to the management portal, with read-only access to resources, scenarios and configuration settings except for the bot instance keys & secrets and the end-user inputs.",
+  "IsDataAction": true
+}

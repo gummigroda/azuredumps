@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/search/action",
+  "OperationName": "Query azure private store offers",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Returns a list of azure private store marketplace catalog offers and total count and facets",
+  "IsDataAction": false
+}

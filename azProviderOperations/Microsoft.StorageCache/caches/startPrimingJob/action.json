@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/startPrimingJob/action",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "",
+  "IsDataAction": false
+}

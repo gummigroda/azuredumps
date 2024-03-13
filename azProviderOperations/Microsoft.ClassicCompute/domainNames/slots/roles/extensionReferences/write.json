@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/extensionReferences/write",
+  "OperationName": "Add Deployment Slot Role Extension Reference",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot Role Extension Reference",
+  "Description": "Add or modify the extension reference for the deployment slot role.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/networkConfigurations/write",
+  "OperationName": "Write Azure Arc networkConfigurations",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkConfigurations",
+  "Description": "Writes an Azure Arc networkConfigurations",
+  "IsDataAction": false
+}

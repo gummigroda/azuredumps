@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/resourceTypes/read",
+  "OperationName": "Gets resource types for Notification Hubs",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Microsoft Azure Notification Hub",
+  "Description": "Gets a list of the resource types for Notification Hubs",
+  "IsDataAction": false
+}

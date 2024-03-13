@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/readyz/poststarthook/bootstrap-controller/read",
+  "OperationName": "Gets/List bootstrap-controller resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Bootstrap-Controller",
+  "Description": "Reads bootstrap-controller",
+  "IsDataAction": true
+}

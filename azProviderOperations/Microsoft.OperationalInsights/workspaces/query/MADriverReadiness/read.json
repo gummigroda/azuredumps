@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MADriverReadiness/read",
+  "OperationName": "Read MADriverReadiness data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MADriverReadiness",
+  "Description": "Read data from the MADriverReadiness table",
+  "IsDataAction": false
+}

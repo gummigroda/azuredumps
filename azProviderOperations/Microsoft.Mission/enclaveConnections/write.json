@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/enclaveConnections/write",
+  "OperationName": "EnclaveConnection_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "enclaveConnections",
+  "Description": "Update a EnclaveConnectionResource",
+  "IsDataAction": false
+}

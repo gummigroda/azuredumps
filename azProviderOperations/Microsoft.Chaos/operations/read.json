@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/operations/read",
+  "OperationName": "Read Chaos Studio Operations.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Operations",
+  "Description": "Read the available Operations for Chaos Studio.",
+  "IsDataAction": false
+}

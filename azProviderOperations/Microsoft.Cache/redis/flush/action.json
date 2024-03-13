@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/flush/action",
+  "OperationName": "Flush Cache",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Deletes all of the keys in a cache. ",
+  "IsDataAction": false
+}

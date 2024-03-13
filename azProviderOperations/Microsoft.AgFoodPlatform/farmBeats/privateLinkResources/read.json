@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateLinkResources/read",
+  "OperationName": "Get or List AgFoodPlatform Private link resources resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private link resources",
+  "Description": "Gets or Lists existing AgFoodPlatform Private link resources resource(s).",
+  "IsDataAction": false
+}

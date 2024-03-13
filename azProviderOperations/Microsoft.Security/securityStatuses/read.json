@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityStatuses/read",
+  "OperationName": "Get resource security health",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Resource Security Health",
+  "Description": "Gets the security health statuses for Azure resources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UserPeerAnalytics/Read",
+  "OperationName": "Read UserPeerAnalytics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UserPeerAnalytics",
+  "Description": "Read data from the UserPeerAnalytics table",
+  "IsDataAction": false
+}

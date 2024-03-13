@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/listMonitoredResources/action",
+  "OperationName": "Organizations_ListMonitoredResources",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations",
+  "Description": "List the resources currently being monitored by the SolarWinds organization resource.",
+  "IsDataAction": false
+}

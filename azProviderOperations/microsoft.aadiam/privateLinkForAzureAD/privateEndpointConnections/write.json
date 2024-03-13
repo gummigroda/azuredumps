@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections/write",
+  "OperationName": "PrivateEndpointConnections read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Create and Update PrivateEndpointConnections",
+  "IsDataAction": false
+}

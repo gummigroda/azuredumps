@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deployments/delete",
+  "OperationName": "AnalyzeText_Deployments_TriggerDeleteDeployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Delete a deployment.",
+  "IsDataAction": true
+}

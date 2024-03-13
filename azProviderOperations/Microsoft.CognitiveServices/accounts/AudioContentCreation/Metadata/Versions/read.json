@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/Versions/read",
+  "OperationName": "Query API version.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Query API version.",
+  "IsDataAction": true
+}

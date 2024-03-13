@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/customdomains/Write",
+  "OperationName": "Create Static Site Custom Domain",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Custom Domain",
+  "Description": "Create a custom domain for a Static Site",
+  "IsDataAction": false
+}

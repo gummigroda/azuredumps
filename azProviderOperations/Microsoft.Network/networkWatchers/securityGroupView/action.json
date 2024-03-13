@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/securityGroupView/action",
+  "OperationName": "View Security Groups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "View the configured and effective network security group rules applied on a VM.",
+  "IsDataAction": false
+}

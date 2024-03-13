@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/prebuilts/delete",
+  "OperationName": "Delete prebuilt entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt entities",
+  "Description": "Deletes a prebuilt entity extractor from the application version.",
+  "IsDataAction": true
+}

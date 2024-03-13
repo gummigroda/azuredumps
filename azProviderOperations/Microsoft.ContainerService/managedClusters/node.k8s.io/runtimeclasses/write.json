@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/node.k8s.io/runtimeclasses/write",
+  "OperationName": "Creates/Updates runtimeclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Runtimeclasses",
+  "Description": "Writes runtimeclasses",
+  "IsDataAction": true
+}

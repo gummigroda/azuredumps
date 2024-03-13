@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/dataSources/write",
+  "OperationName": "Create or Update Data Source",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Data Sources",
+  "Description": "Create a data source or modify its properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/exportMachineErrors/action",
+  "OperationName": "Export machine errors",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Export machine errors for the entire Server site machine inventory",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/eventGridFilters/read",
+  "OperationName": "Get Event Grid Filter or List Event Grid Filters",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/EventGridFilters",
+  "Description": "Gets the properties of the specified event grid filter or lists all the event grid filters for the specified container registry.",
+  "IsDataAction": false
+}

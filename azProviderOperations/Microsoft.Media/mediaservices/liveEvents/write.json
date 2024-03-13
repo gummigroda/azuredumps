@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEvents/write",
+  "OperationName": "Create or Update Live Event",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Event",
+  "Description": "Create or Update any Live Event",
+  "IsDataAction": false
+}

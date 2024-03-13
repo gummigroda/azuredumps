@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/backends/delete",
+  "OperationName": "Remove backend",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Backend",
+  "Description": "Deletes specific Api Version Set.",
+  "IsDataAction": false
+}

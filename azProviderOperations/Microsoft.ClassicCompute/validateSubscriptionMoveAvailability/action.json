@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/validateSubscriptionMoveAvailability/action",
+  "OperationName": "Validate the Subscription for Move Operation",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Validate the subscription's availability for classic move operation.",
+  "IsDataAction": false
+}

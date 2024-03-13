@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/join/action",
+  "OperationName": "Join Connected Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment",
+  "Description": "Allows to create a Container App or Container Apps Job in a Connected Environment",
+  "IsDataAction": false
+}

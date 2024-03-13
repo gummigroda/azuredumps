@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Azure Database for PostgreSQL SGv2 Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL SGv2 Private Endpoint Connection",
+  "Description": "Approves or rejects an existing private endpoint connection",
+  "IsDataAction": false
+}

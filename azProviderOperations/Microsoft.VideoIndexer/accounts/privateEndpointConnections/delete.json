@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/privateEndpointConnections/delete",
+  "OperationName": "PrivateEndpointConnections_Delete",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts/privateEndpointConnections",
+  "Description": "Deletes the specified private endpoint connection associated with the Video Indexer account.",
+  "IsDataAction": false
+}

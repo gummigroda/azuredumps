@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/detectors/read",
+  "OperationName": "Read Detector",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/Detectors",
+  "Description": "Read Detector",
+  "IsDataAction": false
+}

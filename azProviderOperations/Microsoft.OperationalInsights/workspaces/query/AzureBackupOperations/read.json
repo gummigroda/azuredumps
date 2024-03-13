@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AzureBackupOperations/read",
+  "OperationName": "Read AzureBackupOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AzureBackupOperations",
+  "Description": "Read data from the AzureBackupOperations table",
+  "IsDataAction": false
+}

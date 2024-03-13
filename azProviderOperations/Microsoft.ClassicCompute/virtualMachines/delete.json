@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/delete",
+  "OperationName": "Remove Virtual Machines",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Removes virtual machines.",
+  "IsDataAction": false
+}

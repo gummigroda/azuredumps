@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/servercollectors/write",
+  "OperationName": "Create or Update Server collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Server Collector",
+  "Description": "Creates a new Server collector or updates an existing Server collector",
+  "IsDataAction": false
+}

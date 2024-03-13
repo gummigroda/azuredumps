@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Annotations/Read",
+  "OperationName": "Application Insights annotations read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights annotations",
+  "Description": "Reading an Application Insights annotation",
+  "IsDataAction": false
+}

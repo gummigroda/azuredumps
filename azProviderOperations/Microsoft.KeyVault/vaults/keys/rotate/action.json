@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/rotate/action",
+  "OperationName": "Rotate Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Creates a new version of an existing key (with the same parameters).",
+  "IsDataAction": true
+}

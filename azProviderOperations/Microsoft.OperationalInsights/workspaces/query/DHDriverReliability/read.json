@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DHDriverReliability/read",
+  "OperationName": "Read DHDriverReliability data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DHDriverReliability",
+  "Description": "Read data from the DHDriverReliability table",
+  "IsDataAction": false
+}

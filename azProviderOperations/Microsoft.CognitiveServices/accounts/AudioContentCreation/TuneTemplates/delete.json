@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneTemplates/delete",
+  "OperationName": "Delete tune template.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC tune template",
+  "Description": "Delete tune template.",
+  "IsDataAction": true
+}

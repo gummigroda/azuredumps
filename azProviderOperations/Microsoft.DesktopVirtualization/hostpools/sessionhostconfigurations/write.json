@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations/write",
+  "OperationName": "Write hostpools/sessionhostconfigurations",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhostconfigurations",
+  "Description": "Write hostpools/sessionhostconfigurations",
+  "IsDataAction": false
+}

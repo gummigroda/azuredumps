@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read container group metric definitions",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Gets the available metrics for container group.",
+  "IsDataAction": false
+}

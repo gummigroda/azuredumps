@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/delete",
+  "OperationName": "Delete dnsZones",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dnsZones",
+  "Description": "Delete dnsZones.",
+  "IsDataAction": false
+}

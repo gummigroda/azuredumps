@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/vapidkeys/read",
+  "OperationName": "Get VAPID keys for a Notification Hub",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub",
+  "Description": "Get new pair of VAPID keys for a Notification Hub",
+  "IsDataAction": false
+}

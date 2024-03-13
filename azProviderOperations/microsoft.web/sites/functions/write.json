@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/write",
+  "OperationName": "Update Web Apps Functions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Functions",
+  "Description": "Update Web Apps Functions.",
+  "IsDataAction": false
+}

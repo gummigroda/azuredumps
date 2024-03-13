@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationFabrics/fabricAgents/action",
+  "OperationName": "Refreshes fabric agent",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Fabrics",
+  "Description": "Refreshes any fabric agent",
+  "IsDataAction": false
+}

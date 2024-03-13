@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/write",
+  "OperationName": "Clusters_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters",
+  "Description": "Creates or updates a Mobile Packet Core Cluster resource",
+  "IsDataAction": false
+}

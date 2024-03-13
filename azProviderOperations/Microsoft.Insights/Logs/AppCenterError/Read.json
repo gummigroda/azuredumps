@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppCenterError/Read",
+  "OperationName": "Read AppCenterError data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppCenterError",
+  "Description": "Read data from the AppCenterError table",
+  "IsDataAction": false
+}

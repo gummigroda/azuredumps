@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/timeZones/read",
+  "OperationName": "List managed instance time zones by location",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance available time zones",
+  "Description": "Return the list of managed instance time zones by location.",
+  "IsDataAction": false
+}

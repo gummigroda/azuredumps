@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Subscription Filter",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Event Grid Subscription Filter",
+  "Description": "Delete the Event Grid Subscription Filter",
+  "IsDataAction": false
+}

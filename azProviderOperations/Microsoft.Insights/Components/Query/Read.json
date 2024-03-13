@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Query/Read",
+  "OperationName": "Application Insights Query read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights Query",
+  "Description": "Run queries against Application Insights logs",
+  "IsDataAction": false
+}

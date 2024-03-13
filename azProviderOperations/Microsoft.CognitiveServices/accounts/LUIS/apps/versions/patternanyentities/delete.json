@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/delete",
+  "OperationName": "models - Delete Pattern.any entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern.any entities",
+  "Description": "Deletes a Pattern.any entity extractor from the application version.",
+  "IsDataAction": true
+}

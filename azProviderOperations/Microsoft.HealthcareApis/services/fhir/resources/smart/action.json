@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/smart/action",
+  "OperationName": "Smart",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Allows user to access FHIR Service according to SMART on FHIR specification.",
+  "IsDataAction": true
+}

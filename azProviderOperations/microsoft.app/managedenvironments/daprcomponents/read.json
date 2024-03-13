@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/read",
+  "OperationName": "Read Managed Environment Dapr Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component",
+  "Description": "Read Managed Environment Dapr Component",
+  "IsDataAction": false
+}

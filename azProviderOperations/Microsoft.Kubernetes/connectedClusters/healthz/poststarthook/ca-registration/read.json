@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/ca-registration/read",
+  "OperationName": "Gets/List ca-registration resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/ca-registration",
+  "Description": "Reads ca-registration",
+  "IsDataAction": true
+}

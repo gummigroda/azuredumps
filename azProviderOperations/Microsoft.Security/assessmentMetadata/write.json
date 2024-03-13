@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessmentMetadata/write",
+  "OperationName": "Create assessment metadata",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Assessment Metadata",
+  "Description": "Create or update a security assessment metadata",
+  "IsDataAction": false
+}

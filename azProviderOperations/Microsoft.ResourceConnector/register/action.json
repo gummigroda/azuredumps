@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/register/action",
+  "OperationName": "Registers the Appliances Resource Provider",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "",
+  "Description": "Registers the subscription for Appliances resource provider and enables the creation of Appliance.",
+  "IsDataAction": false
+}

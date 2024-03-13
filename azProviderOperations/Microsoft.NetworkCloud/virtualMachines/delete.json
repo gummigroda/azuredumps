@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/delete",
+  "OperationName": "VirtualMachines_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines",
+  "Description": "Delete the provided virtual machine.",
+  "IsDataAction": false
+}

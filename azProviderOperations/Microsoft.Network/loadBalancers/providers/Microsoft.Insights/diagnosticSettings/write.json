@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update Load Balancer Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Diagnostic Settings",
+  "Description": "Creates or updates the Load Balancer Diagnostic Settings",
+  "IsDataAction": false
+}

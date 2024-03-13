@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/IntuneOperationalLogs/read",
+  "OperationName": "Read IntuneOperationalLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "IntuneOperationalLogs",
+  "Description": "Read data from the IntuneOperationalLogs table",
+  "IsDataAction": false
+}

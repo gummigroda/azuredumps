@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create/Update/Patch diagnostic settings",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Set diagnostic settings for the resource",
+  "IsDataAction": false
+}

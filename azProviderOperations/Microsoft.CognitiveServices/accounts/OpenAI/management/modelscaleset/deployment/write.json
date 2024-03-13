@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/management/modelscaleset/deployment/write",
+  "OperationName": "Modify Modelscale set deployment.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OpenAI Model Scaleset Operations",
+  "Description": "Modify Modelscale set deployment status and info.",
+  "IsDataAction": true
+}

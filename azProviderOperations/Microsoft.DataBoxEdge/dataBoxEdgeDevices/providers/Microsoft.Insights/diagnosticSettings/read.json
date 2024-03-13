@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostics setting",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge device",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

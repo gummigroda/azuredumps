@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/appliedreservations/read",
+  "OperationName": "Get Reservations",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Read All Reservations",
+  "IsDataAction": false
+}

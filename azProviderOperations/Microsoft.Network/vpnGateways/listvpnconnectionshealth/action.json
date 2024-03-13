@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/listvpnconnectionshealth/action",
+  "OperationName": "Gets connection health for all or a subset of connections on a VpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Gets connection health for all or a subset of connections on a VpnGateway",
+  "IsDataAction": false
+}

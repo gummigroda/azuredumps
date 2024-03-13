@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/businesscard/analyze/action",
+  "OperationName": "Analyze Business Card",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Businesscard Recognizers",
+  "Description": "Extract field text and semantic values from a given business card document. ",
+  "IsDataAction": true
+}

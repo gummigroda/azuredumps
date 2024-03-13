@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/configurations/Read",
+  "OperationName": "Get configuration resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "configurations",
+  "Description": "Read configurations",
+  "IsDataAction": false
+}

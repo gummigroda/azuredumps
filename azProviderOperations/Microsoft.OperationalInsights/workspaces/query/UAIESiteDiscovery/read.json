@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UAIESiteDiscovery/read",
+  "OperationName": "Read UAIESiteDiscovery data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UAIESiteDiscovery",
+  "Description": "Read data from the UAIESiteDiscovery table",
+  "IsDataAction": false
+}

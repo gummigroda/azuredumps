@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/singleSignOnConfigurations/read",
+  "OperationName": "Get the single sign-on configurations resource",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "SingleSignOnConfigurations",
+  "Description": "Reads the single-sign-on configurations",
+  "IsDataAction": false
+}

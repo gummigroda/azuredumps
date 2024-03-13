@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/tillageData/write",
+  "OperationName": "Create or Update AgFoodPlatform tillage operations data.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform tillage operations data",
+  "Description": "Creates or Updates AgFoodPlatform tillage operations data.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/encryptionProtector/read",
+  "OperationName": "List/Get Azure SQL Server Encryption Protector",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Encryption Protector",
+  "Description": "Returns a list of server encryption protectors or gets the properties for the specified server encryption protector.",
+  "IsDataAction": false
+}

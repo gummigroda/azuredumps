@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/join/action",
+  "OperationName": "Join Virtual Machine to a network interface.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Joins a Virtual Machine to a network interface. Not Alertable.",
+  "IsDataAction": false
+}

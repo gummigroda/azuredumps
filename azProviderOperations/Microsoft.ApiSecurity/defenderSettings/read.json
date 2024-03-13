@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/defenderSettings/read",
+  "OperationName": "DefenderSetting_Get",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "defenderSettings",
+  "Description": "Get a defender setting.",
+  "IsDataAction": false
+}

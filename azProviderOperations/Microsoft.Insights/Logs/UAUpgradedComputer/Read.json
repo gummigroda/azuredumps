@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAUpgradedComputer/Read",
+  "OperationName": "Read UAUpgradedComputer data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAUpgradedComputer",
+  "Description": "Read data from the UAUpgradedComputer table",
+  "IsDataAction": false
+}

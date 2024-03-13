@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/boundaries/delete",
+  "OperationName": "Delete AgFoodPlatform boundaries resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform boundaries",
+  "Description": "Deletes an existing AgFoodPlatform boundaries resource.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operations/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Microsoft.Cdn Operations",
+  "Description": null,
+  "IsDataAction": false
+}

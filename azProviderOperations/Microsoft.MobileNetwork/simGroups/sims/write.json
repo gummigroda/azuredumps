@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/simGroups/sims/write",
+  "OperationName": "Sims_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "simGroups/sims",
+  "Description": "Creates or updates a SIM.",
+  "IsDataAction": false
+}

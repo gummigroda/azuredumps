@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/extensions/read",
+  "OperationName": "Read Azure Arc extensions",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "extensions",
+  "Description": "Reads any Azure Arc extensions",
+  "IsDataAction": false
+}

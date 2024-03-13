@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/certificates/verify/Action",
+  "OperationName": "Verify Certificate resource",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Verify Certificate resource",
+  "IsDataAction": false
+}

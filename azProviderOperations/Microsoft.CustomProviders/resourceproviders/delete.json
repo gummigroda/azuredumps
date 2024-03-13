@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/delete",
+  "OperationName": "Delete Custom Resource Provider",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Custom Resource Provider ",
+  "Description": "Deletes the Custom Resource Provider Manifest",
+  "IsDataAction": false
+}

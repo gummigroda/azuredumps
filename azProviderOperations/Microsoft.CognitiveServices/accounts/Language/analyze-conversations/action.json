@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/action",
+  "OperationName": "Analyze_Conversations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Analyzes the input conversation.",
+  "IsDataAction": true
+}

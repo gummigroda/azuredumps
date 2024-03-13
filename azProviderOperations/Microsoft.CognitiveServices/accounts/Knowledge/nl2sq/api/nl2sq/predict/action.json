@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/nl2sq/api/nl2sq/predict/action",
+  "OperationName": "NL2SQL Predict",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "nl2sq*",
+  "Description": "NL2SQL Predict*",
+  "IsDataAction": true
+}

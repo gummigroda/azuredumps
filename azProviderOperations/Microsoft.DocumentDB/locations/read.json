@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/locations/read",
+  "OperationName": "Microsoft.DocumentDB/locations/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Read the metadata of a location or List all location metadata",
+  "IsDataAction": false
+}

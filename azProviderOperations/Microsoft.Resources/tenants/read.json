@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/tenants/read",
+  "OperationName": "获取租户",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "租户",
+  "Description": "获取租户列表。",
+  "IsDataAction": false
+}

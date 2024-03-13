@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/scanningAccounts/delete",
+  "OperationName": "AzureScanningAccount_Delete",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "scanningAccounts",
+  "Description": "Delete a Scan Account",
+  "IsDataAction": false
+}

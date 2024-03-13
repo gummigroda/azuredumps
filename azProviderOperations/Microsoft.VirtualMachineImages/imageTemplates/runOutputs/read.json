@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/runOutputs/read",
+  "OperationName": "Get a VM image template run output resource",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template run output",
+  "Description": "Get a VM image template run output resource",
+  "IsDataAction": false
+}

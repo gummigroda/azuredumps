@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

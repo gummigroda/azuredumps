@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/listActiveSecurityUserRules/action",
+  "OperationName": "List Active Security User Rules",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Lists Active Security User Rules",
+  "IsDataAction": false
+}

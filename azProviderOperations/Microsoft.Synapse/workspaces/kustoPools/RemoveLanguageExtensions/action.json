@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/RemoveLanguageExtensions/action",
+  "OperationName": "Remove language extensions action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Remove language extensions.",
+  "IsDataAction": false
+}

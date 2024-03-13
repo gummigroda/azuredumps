@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/delete",
+  "OperationName": "Delete accounts",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Account",
+  "Description": "Delete accounts",
+  "IsDataAction": false
+}

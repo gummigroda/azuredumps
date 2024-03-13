@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/webhooks/write",
+  "OperationName": "Create Web Hook|Update Web Hook*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "webhooks*",
+  "Description": "If the property secret in the configuration is present and contains a non-empty string, it will be used to create a SHA256 hash of the payload with\r\nIf the property secret in the configuration is omitted or contains an empty string, future callbacks won't contain X-MicrosoftSpeechServices-Signature*",
+  "IsDataAction": true
+}

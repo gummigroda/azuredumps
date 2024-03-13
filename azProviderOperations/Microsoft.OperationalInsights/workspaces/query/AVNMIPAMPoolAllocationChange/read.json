@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AVNMIPAMPoolAllocationChange/read",
+  "OperationName": "Read AVNMIPAMPoolAllocationChange data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AVNMIPAMPoolAllocationChange",
+  "Description": "Read data from the AVNMIPAMPoolAllocationChange table",
+  "IsDataAction": false
+}

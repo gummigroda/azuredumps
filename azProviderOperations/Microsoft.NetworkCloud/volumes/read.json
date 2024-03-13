@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/volumes/read",
+  "OperationName": "Volumes_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "volumes",
+  "Description": "Get properties of the provided volume.",
+  "IsDataAction": false
+}

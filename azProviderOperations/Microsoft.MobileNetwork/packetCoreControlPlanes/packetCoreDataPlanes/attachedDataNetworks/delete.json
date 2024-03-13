@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks/delete",
+  "OperationName": "AttachedDataNetworks_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks",
+  "Description": "Deletes the specified attached data network.",
+  "IsDataAction": false
+}

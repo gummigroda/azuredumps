@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/write",
+  "OperationName": "Create Or Update a DNS Resolver",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver",
+  "Description": "Creates Or Updates a DNS Resolver, in JSON format",
+  "IsDataAction": false
+}

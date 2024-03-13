@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/openStackIdentities/read",
+  "OperationName": "OpenStackIdentities_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "openStackIdentities",
+  "Description": "Implements OpenStackIdentities list by subscription GET method.",
+  "IsDataAction": false
+}

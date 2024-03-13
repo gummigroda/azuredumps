@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/countDevices/action",
+  "OperationName": "Products_CountDevices",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products",
+  "Description": "Counts devices in product. '.default' and '.unassigned' are system defined values and cannot be used for product name.",
+  "IsDataAction": false
+}

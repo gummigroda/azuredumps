@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/reservedIps/join/action",
+  "OperationName": "Join Reserved Ips",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Reserved Ip",
+  "Description": "Join a reserved Ip",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/schedules/read",
+  "OperationName": "Read schedules.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Schedules",
+  "Description": "Read schedules.",
+  "IsDataAction": false
+}

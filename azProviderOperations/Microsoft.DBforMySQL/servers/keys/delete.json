@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/keys/delete",
+  "OperationName": "Delete Azure Database for MySQL Server Key",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Server Keys",
+  "Description": "Deletes an existing server key.",
+  "IsDataAction": false
+}

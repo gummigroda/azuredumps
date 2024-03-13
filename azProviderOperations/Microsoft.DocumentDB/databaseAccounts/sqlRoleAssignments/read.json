@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Role Assignment",
+  "Description": "Read a SQL Role Assignment",
+  "IsDataAction": false
+}

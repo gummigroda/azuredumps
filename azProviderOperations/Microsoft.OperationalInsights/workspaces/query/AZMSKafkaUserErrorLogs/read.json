@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZMSKafkaUserErrorLogs/read",
+  "OperationName": "Read AZMSKafkaUserErrorLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZMSKafkaUserErrorLogs",
+  "Description": "Read data from the AZMSKafkaUserErrorLogs table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/read",
+  "OperationName": "Gets ExpressRoutePorts",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoutePorts",
+  "Description": "Gets ExpressRoutePorts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/backup/action",
+  "OperationName": "Backup Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Creates a backup file of the definition of a managed storage account and its SAS (Shared Access Signature).",
+  "IsDataAction": true
+}

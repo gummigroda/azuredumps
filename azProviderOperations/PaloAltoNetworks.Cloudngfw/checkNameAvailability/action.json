@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

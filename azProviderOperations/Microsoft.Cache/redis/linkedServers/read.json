@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/linkedServers/read",
+  "OperationName": "Get Redis Cache Linked Servers",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Linked Servers of a Redis Cache",
+  "Description": "Get Linked Servers associated with a redis cache.",
+  "IsDataAction": false
+}

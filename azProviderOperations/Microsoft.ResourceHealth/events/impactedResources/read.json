@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/events/impactedResources/read",
+  "OperationName": "Get Impacted Resources",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Impacted Resources",
+  "Description": "Get Impacted Resources for a given event",
+  "IsDataAction": false
+}

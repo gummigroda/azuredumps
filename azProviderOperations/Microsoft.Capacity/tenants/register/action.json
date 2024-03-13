@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/tenants/register/action",
+  "OperationName": "Register Tenant",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Register any Tenant",
+  "IsDataAction": false
+}

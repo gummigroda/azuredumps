@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnections/write",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Storage Account Private Endpoint Connections",
+  "Description": "Approve Private Endpoint Connections",
+  "IsDataAction": false
+}

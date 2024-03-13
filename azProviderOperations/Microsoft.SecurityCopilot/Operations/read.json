@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityCopilot/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.SecurityCopilot",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

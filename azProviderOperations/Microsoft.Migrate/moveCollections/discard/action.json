@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/discard/action",
+  "OperationName": "Discards the set of resources included in the request body",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Discards the set of resources included in the request body",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/azureEndpoints/delete",
+  "OperationName": "Delete a Traffic Manager Azure Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Azure Endpoint",
+  "Description": "Deletes an Azure Endpoint from an existing Traffic Manager Profile. Traffic Manager will stop routing traffic to the deleted Azure Endpoint.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models/delete",
+  "OperationName": "Multivariate Anomaly Detection - Delete Multivariate Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models",
+  "Description": "Delete an existing multivariate model according to the modelId",
+  "IsDataAction": true
+}

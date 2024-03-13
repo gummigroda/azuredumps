@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/operations/read",
+  "OperationName": "List Available Compute Operations",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Available Compute Operations",
+  "Description": "Lists operations available on Microsoft.Compute resource provider",
+  "IsDataAction": false
+}

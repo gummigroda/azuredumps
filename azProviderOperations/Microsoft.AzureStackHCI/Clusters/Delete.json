@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/Delete",
+  "OperationName": "Deletes cluster resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Deletes cluster resource",
+  "IsDataAction": false
+}

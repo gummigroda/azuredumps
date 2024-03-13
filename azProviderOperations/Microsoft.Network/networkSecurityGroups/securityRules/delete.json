@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityGroups/securityRules/delete",
+  "OperationName": "Delete Security Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Rule",
+  "Description": "Deletes a security rule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/linkedservices/read",
+  "OperationName": "Get Linked Service",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Linked Services",
+  "Description": "Get linked services under given workspace.",
+  "IsDataAction": false
+}

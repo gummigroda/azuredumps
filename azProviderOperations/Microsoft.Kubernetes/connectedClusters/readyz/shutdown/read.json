@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/shutdown/read",
+  "OperationName": "Gets/List shutdown resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/shutdown",
+  "Description": "Reads shutdown",
+  "IsDataAction": true
+}

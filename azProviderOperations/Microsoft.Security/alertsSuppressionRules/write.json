@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/alertsSuppressionRules/write",
+  "OperationName": "Create or Update security alert suppression rule",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alert Suppression Rules",
+  "Description": "Creates a new security alert suppression rule or update an existing rule",
+  "IsDataAction": false
+}

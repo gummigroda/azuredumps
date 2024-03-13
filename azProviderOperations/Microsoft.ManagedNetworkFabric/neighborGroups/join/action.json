@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/neighborGroups/join/action",
+  "OperationName": "NeighborGroups_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "neighborGroups",
+  "Description": "Join action for Neighbor Group resource.",
+  "IsDataAction": false
+}

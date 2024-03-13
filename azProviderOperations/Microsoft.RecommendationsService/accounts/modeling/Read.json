@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/modeling/Read",
+  "OperationName": "Get/list account's modeling resources",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts/modeling",
+  "Description": "Reads account's modeling resources",
+  "IsDataAction": false
+}

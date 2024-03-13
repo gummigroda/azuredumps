@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/write",
+  "OperationName": "BareMetalMachineKeySets_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/bareMetalMachineKeySets",
+  "Description": "Patch properties of bare metal machine key set for the provided cluster, or update the tags associated with it. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

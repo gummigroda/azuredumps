@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azurefirewalls/learnedIPPrefixes/action",
+  "OperationName": "Gets IP prefixes learned by Azure Firewall to not perform SNAT",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall",
+  "Description": "Gets IP prefixes learned by Azure Firewall to not perform SNAT",
+  "IsDataAction": false
+}

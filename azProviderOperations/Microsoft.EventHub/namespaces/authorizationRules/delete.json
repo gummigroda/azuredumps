@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/authorizationRules/delete",
+  "OperationName": "Delete Namespace Authorization Rule",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Delete Namespace Authorization Rule. The Default Namespace Authorization Rule cannot be deleted. ",
+  "IsDataAction": false
+}

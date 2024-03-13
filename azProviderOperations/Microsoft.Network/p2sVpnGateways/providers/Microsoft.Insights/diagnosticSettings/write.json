@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update P2S Vpn Gateway diagnostic settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Vpn Gateway diagnostic settings",
+  "Description": "Creates or updates the P2S Vpn Gateway diagnostic settings, this operation is supplimented by insights resource provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/read",
+  "OperationName": "ArtifactStores_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Gets information about the specified artifact store.",
+  "IsDataAction": false
+}

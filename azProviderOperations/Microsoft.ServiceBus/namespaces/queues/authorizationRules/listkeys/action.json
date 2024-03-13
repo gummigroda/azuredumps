@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/authorizationRules/listkeys/action",
+  "OperationName": "List Queue keys",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue AuthorizationRules",
+  "Description": "Get the Connection String to Queue",
+  "IsDataAction": false
+}

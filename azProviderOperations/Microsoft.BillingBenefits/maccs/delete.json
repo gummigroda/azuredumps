@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/delete",
+  "OperationName": "Delete a MACC",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "MACC",
+  "Description": "Delete a MACC",
+  "IsDataAction": false
+}

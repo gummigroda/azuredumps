@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionBackupOperationResults/read",
+  "OperationName": "Get long term retention backup operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "LongTerm Retention Backup",
+  "Description": "Get the status of long term retention backup operation",
+  "IsDataAction": false
+}

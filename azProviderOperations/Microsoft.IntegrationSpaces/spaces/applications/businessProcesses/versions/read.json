@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/businessProcesses/versions/read",
+  "OperationName": "BusinessProcessVersions_Get",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/businessProcesses/versions",
+  "Description": "Get a BusinessProcessVersion",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Editor/Action",
+  "OperationName": "Healthbot configuration editor",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Sign in to the management portal, view and edit all the bot resources, scenarios and configuration settings except for the bot instance keys & secrets and the end-user inputs. Read-only access to the bot skills and channels.",
+  "IsDataAction": true
+}

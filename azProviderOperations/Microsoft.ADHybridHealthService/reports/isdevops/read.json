@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/isdevops/read",
+  "OperationName": "Gets a value indicating wheather the teannt is DevOps Consented or not.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets a value indicating wheather the teannt is DevOps Consented or not.",
+  "IsDataAction": false
+}

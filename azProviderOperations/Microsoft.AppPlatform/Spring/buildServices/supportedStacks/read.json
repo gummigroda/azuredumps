@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/supportedStacks/read",
+  "OperationName": "Read Microsoft Azure Spring Apps Supported Stacks",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The supported stack of Microsoft Azure Spring Apps",
+  "Description": "Get the Supported Stacks for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

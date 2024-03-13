@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/getconnectioninfo/action",
+  "OperationName": "Read Integration Runtime Connection Info",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Reads Integration Runtime Connection Info.",
+  "IsDataAction": false
+}

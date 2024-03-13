@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/flowcontrol.apiserver.k8s.io/prioritylevelconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection prioritylevelconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Prioritylevelconfigurations",
+  "Description": "Deletes prioritylevelconfigurations",
+  "IsDataAction": true
+}

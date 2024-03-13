@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/read",
+  "OperationName": "Get security connector",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors",
+  "Description": "Gets the security connector",
+  "IsDataAction": false
+}

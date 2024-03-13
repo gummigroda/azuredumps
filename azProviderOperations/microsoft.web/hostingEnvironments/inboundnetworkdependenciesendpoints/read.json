@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/inboundnetworkdependenciesendpoints/read",
+  "OperationName": "Get the network endpoints of all inbound dependencies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments",
+  "Description": "Get the network endpoints of all inbound dependencies.",
+  "IsDataAction": false
+}

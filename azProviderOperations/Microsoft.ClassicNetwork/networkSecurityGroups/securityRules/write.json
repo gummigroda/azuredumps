@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/securityRules/write",
+  "OperationName": "Add Security Rule",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Security Rule",
+  "Description": "Adds or update a security rule.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/dataLakeConnector/write",
+  "OperationName": "DataLakeConnector_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/dataLakeConnector",
+  "Description": "Update a DataLakeConnectorResource",
+  "IsDataAction": false
+}

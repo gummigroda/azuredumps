@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualmachines/Write",
+  "OperationName": "Create/update virtualmachines resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualmachines",
+  "Description": "Writes virtualmachines",
+  "IsDataAction": false
+}

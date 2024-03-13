@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/configurations/write",
+  "OperationName": "Update MySQL Server Configuration",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Configuration",
+  "Description": "Updates the configuration of a MySQL server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/databaseMigrations/cancel/action",
+  "OperationName": "Stop ongoing migration for the database",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Database Migration Resource",
+  "Description": "Stop ongoing migration for the database",
+  "IsDataAction": false
+}

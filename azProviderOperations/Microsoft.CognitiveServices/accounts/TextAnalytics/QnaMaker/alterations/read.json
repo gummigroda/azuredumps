@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/alterations/read",
+  "OperationName": "Alterations - Get",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Alterations",
+  "Description": "Download alterations from runtime.",
+  "IsDataAction": true
+}

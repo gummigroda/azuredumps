@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/agents/write",
+  "OperationName": "Agents_Update",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/agents",
+  "Description": "Creates or updates an Agent resource.",
+  "IsDataAction": false
+}

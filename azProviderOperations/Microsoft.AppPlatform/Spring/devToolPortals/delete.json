@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/devToolPortals/delete",
+  "OperationName": "Delete Microsoft Azure Spring Apps Dev Tool Portal",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Dev Tool Portal of Microsoft Azure Spring Apps",
+  "Description": "Delete Dev Tool Portal for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

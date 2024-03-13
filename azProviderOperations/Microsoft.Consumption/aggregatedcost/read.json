@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/aggregatedcost/read",
+  "OperationName": "List AggregatedCost",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "AggregatedCost",
+  "Description": "List AggregatedCost for management group.",
+  "IsDataAction": false
+}

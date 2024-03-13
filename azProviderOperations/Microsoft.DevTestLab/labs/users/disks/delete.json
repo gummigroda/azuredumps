@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/disks/delete",
+  "OperationName": "Delete disks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "disks",
+  "Description": "Delete disks.",
+  "IsDataAction": false
+}

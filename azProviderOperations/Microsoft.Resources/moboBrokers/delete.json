@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/moboBrokers/delete",
+  "OperationName": "删除 mobo 中转站",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "mobo 中转站",
+  "Description": "删除 mobo 中转站",
+  "IsDataAction": false
+}

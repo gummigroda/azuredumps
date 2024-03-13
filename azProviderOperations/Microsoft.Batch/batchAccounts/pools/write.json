@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/pools/write",
+  "OperationName": "Create or Update Pool",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Creates a new pool on a Batch account or updates an existing pool",
+  "IsDataAction": false
+}

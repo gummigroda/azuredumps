@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADFTriggerRun/read",
+  "OperationName": "Read ADFTriggerRun data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADFTriggerRun",
+  "Description": "Read data from the ADFTriggerRun table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/domainownershipidentifiers/write",
+  "OperationName": "Update Web Apps Domain Ownership Identifiers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Domain Ownership Identifiers",
+  "Description": "Update Web Apps Domain Ownership Identifiers.",
+  "IsDataAction": false
+}

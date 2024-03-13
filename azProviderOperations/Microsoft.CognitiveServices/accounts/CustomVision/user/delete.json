@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/user/delete",
+  "OperationName": "DeleteUser",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "user*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

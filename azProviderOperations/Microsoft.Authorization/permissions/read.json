@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/permissions/read",
+  "OperationName": "List permissions",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Permission",
+  "Description": "Lists all the permissions the caller has at a given scope.",
+  "IsDataAction": false
+}

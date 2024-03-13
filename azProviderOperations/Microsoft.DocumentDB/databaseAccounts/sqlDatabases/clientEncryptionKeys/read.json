@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/read",
+  "OperationName": "Read Client Encryption Key(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Client Encryption Key",
+  "Description": "Read a Client Encryption Key or list all the Client Encryption Keys.",
+  "IsDataAction": false
+}

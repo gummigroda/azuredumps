@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/eventSubscriptions/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "EventSubscription Diagnostics",
+  "Description": "Creates or updates the diagnostic setting for event subscriptions",
+  "IsDataAction": false
+}

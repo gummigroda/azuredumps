@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/delete",
+  "OperationName": "Delete Endpoint",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Endpoint",
+  "Description": "Delete any Endpoint of a Digital Twins resource",
+  "IsDataAction": false
+}

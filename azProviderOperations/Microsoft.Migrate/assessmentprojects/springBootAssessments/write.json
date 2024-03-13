@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootAssessments/write",
+  "OperationName": "Create or update springBoot Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Assessments",
+  "Description": "Creates a springBoot Assessment or updates an existing springBoot Assessment",
+  "IsDataAction": false
+}

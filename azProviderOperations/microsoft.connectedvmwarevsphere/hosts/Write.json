@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/hosts/Write",
+  "OperationName": "Create/update hosts resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "hosts",
+  "Description": "Writes hosts",
+  "IsDataAction": false
+}

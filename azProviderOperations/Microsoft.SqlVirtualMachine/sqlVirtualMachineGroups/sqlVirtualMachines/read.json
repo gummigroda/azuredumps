@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/sqlVirtualMachines/read",
+  "OperationName": "List Sql virtual machines by a particular sql virtual virtual machine group",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "List Sql virtual machines by a particular sql virtual virtual machine group",
+  "IsDataAction": false
+}

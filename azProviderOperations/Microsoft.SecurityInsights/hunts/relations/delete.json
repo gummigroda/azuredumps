@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/relations/delete",
+  "OperationName": "Delete Hunt Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Relations",
+  "Description": "Deletes Hunt Relations",
+  "IsDataAction": false
+}

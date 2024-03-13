@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/start/action",
+  "OperationName": "Start an Azure Cache for Redis",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Start an Azure Cache for Redis",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/billingSubscriptions/read",
+  "OperationName": "BillingSubscriptions_ListByEnrollmentAccount",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": "Lists the subscriptions for an enrollment account. The operation is supported for billing accounts with agreement type Enterprise Agreement.",
+  "IsDataAction": false
+}

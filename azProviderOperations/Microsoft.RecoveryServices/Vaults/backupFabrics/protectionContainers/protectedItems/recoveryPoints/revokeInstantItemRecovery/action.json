@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/revokeInstantItemRecovery/action",
+  "OperationName": "Revoke Instant Item Recovery for Protected Item",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Revoke Instant Item Recovery for Protected Item",
+  "IsDataAction": false
+}

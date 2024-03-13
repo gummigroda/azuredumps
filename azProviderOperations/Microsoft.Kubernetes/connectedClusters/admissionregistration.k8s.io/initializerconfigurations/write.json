@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/initializerconfigurations/write",
+  "OperationName": "Creates/Updates initializerconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "initializerconfigurations",
+  "Description": "Writes initializerconfigurations",
+  "IsDataAction": true
+}

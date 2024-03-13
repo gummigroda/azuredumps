@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/virtualNetworkRules/delete",
+  "OperationName": "Delete Azure SQL Server Virtual Network Rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Virtual Network Rules",
+  "Description": "Deletes an existing Virtual Network Rule",
+  "IsDataAction": false
+}

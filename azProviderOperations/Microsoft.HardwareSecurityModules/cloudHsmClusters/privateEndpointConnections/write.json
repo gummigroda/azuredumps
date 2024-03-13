@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/privateEndpointConnections/write",
+  "OperationName": "Change state of Private Endpoint connection",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "CloudHsm",
+  "Description": "Change the state of a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

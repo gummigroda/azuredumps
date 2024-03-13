@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationAlertSettings/read",
+  "OperationName": "Read Alerts Settings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Alerts Settings",
+  "Description": "Read any Alerts Settings",
+  "IsDataAction": false
+}

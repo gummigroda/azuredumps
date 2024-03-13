@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualnetworks/join/action",
+  "OperationName": "Join virtual network.",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualnetworks",
+  "Description": "Join virtual network.",
+  "IsDataAction": false
+}

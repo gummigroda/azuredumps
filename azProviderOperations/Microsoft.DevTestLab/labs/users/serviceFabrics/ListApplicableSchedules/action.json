@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/ListApplicableSchedules/action",
+  "OperationName": "List all applicable schedules",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service Fabrics",
+  "Description": "Lists the applicable start/stop schedules, if any.",
+  "IsDataAction": false
+}

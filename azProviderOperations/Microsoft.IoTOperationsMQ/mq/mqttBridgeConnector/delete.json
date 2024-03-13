@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/mqttBridgeConnector/delete",
+  "OperationName": "MqttBridgeConnector_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/mqttBridgeConnector",
+  "Description": "Delete a MqttBridgeConnectorResource",
+  "IsDataAction": false
+}

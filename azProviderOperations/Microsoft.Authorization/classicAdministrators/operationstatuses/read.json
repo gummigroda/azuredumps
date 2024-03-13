@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/classicAdministrators/operationstatuses/read",
+  "OperationName": "Get administrator operation statuses",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Classic subscription administrator operation statuses",
+  "Description": "Gets the administrator opreation statuses of the subscription.",
+  "IsDataAction": false
+}

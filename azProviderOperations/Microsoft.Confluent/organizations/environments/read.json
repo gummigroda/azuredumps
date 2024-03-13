@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/environments/read",
+  "OperationName": "Gets the list of environments for the organization",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Gets the list of environments for the organization",
+  "IsDataAction": false
+}

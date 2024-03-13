@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/backup/action",
+  "OperationName": "Backup Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Creates the backup file of a key. The file can used to restore the key in a Key Vault of same subscription. Restrictions may apply.",
+  "IsDataAction": true
+}

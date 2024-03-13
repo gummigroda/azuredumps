@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/usage/training/resource/tier/read",
+  "OperationName": "GetTrainingUsageForAzure",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tier*",
+  "Description": "Get usage for training resource for Azure user",
+  "IsDataAction": true
+}

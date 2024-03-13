@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/node.k8s.io/runtimeclasses/delete",
+  "OperationName": "Deletes/DeletesCollection runtimeclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Runtimeclasses",
+  "Description": "Deletes runtimeclasses",
+  "IsDataAction": true
+}

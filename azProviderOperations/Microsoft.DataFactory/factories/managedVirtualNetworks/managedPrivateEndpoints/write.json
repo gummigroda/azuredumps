@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/write",
+  "OperationName": "Create or Update Managed Private Endpoint",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Managed Private Endpoint",
+  "Description": "Create or Update Managed Private Endpoint.",
+  "IsDataAction": false
+}

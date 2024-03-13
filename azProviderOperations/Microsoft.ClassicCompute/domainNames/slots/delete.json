@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/delete",
+  "OperationName": "Delete Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Deletes a given deployment slot.",
+  "IsDataAction": false
+}

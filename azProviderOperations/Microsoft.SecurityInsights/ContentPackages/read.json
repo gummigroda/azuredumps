@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ContentPackages/read",
+  "OperationName": "Read Content Packages",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ContentPackages",
+  "Description": "Read available Content Packages.",
+  "IsDataAction": false
+}

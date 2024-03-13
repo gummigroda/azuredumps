@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/results/read",
+  "OperationName": "Multivariate Anomaly Detection - Get Multivariate Anomaly Detection Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "results",
+  "Description": "Get multivariate anomaly detection result based on resultId returned by the DetectAnomalyAsync api",
+  "IsDataAction": true
+}

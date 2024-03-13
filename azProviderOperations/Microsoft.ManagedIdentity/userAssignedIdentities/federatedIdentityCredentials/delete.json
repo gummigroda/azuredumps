@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/delete",
+  "OperationName": "Delete Federated Identity Credential",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "Federated Identity Credentials",
+  "Description": "Delete a Federated Identity Credential",
+  "IsDataAction": false
+}

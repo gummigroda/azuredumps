@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models:detect-last/action",
+  "OperationName": "Multivariate Anomaly Detection - Detect anomalies in the last point of the request body",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "multivariate",
+  "Description": "Submit multivariate anomaly detection task with the modelId of trained model and inference data, and the inference data should be put into request body in a JSON format. The request will complete synchronously and return the detection immediately in the response body.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnectionProxies/write",
+  "OperationName": "Write Azure Arc privateEndpointConnectionProxies",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Writes an Azure Arc privateEndpointConnectionProxies",
+  "IsDataAction": false
+}

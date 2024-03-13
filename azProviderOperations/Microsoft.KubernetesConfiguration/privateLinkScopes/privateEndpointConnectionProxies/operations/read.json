@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/operations/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/operations/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies",
+  "Description": "Gets private endpoint connection proxies operation.",
+  "IsDataAction": false
+}

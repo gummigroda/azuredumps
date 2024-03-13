@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/feedback/action",
+  "OperationName": "Update Active Learning feedback",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Train Active Learning.",
+  "IsDataAction": true
+}

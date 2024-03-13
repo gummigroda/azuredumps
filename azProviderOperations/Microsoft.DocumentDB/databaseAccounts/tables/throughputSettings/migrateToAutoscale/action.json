@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate table offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table throughput setting",
+  "Description": "Migrate table offer to autoscale.",
+  "IsDataAction": false
+}

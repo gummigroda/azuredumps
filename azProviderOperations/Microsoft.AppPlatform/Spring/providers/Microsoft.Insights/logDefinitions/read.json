@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Microsoft Azure Spring Apps log definitions",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The log definition of Microsoft Azure Spring Apps",
+  "Description": "Get definitions of logs from Azure Spring Apps service instance",
+  "IsDataAction": false
+}

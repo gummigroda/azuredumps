@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/removePrimingJob/action",
+  "OperationName": "Remove primining job",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Removes a primining job from the cache",
+  "IsDataAction": false
+}

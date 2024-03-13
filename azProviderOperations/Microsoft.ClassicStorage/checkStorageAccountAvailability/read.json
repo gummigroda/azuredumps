@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/checkStorageAccountAvailability/read",
+  "OperationName": "Get Storage Account Availability",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Availability",
+  "Description": "Get the availability of a storage account.",
+  "IsDataAction": false
+}

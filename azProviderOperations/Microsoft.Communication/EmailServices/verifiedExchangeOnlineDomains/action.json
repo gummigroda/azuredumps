@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/verifiedExchangeOnlineDomains/action",
+  "OperationName": "EmailService_ListVerifiedDomainsFromExchangeOnline",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "EmailServices",
+  "Description": "List Verified Domains from the exchange online tenant.",
+  "IsDataAction": false
+}

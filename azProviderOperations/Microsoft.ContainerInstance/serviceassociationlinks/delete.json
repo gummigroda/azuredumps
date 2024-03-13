@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/serviceassociationlinks/delete",
+  "OperationName": "Delete Service Association Link.",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Service Association Link.",
+  "Description": "Delete the service association link created by azure container instance resource provider on a subnet.",
+  "IsDataAction": false
+}

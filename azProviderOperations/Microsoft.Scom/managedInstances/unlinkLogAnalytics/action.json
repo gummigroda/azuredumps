@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/unlinkLogAnalytics/action",
+  "OperationName": "Instances_UnlinkLogAnalytics",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Unlink Log Analytics workspace for SCOM monitoring instance",
+  "IsDataAction": false
+}

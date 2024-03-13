@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networks/delete",
+  "OperationName": "Networks_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networks",
+  "Description": "Implements Network DELETE method.",
+  "IsDataAction": false
+}

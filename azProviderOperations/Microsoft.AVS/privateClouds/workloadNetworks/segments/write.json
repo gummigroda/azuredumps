@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/segments/write",
+  "OperationName": "Write segments",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/segments",
+  "Description": "Write segments.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/publishingusers/write",
+  "OperationName": "Update Publishing Users",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Publishing Users",
+  "Description": "Update Publishing Users.",
+  "IsDataAction": false
+}

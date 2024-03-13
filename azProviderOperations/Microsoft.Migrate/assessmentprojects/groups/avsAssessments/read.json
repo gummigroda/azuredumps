@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/avsAssessments/read",
+  "OperationName": "Get AVS Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS Assessments",
+  "Description": "Gets the properties of an AVS assessment",
+  "IsDataAction": false
+}

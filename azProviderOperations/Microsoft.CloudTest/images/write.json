@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/images/write",
+  "OperationName": "Create or update 1ES Image",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "images",
+  "Description": "Creates or updates 1ES images",
+  "IsDataAction": false
+}

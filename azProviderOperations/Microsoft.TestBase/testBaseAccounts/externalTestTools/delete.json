@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/externalTestTools/delete",
+  "OperationName": "ExternalTestTools_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/externalTestTools",
+  "Description": "Deletes a Test Base External Test Tool.",
+  "IsDataAction": false
+}

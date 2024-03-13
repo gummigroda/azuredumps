@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGatewayRules/read",
+  "OperationName": "InternetGatewayRules_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGatewayRules",
+  "Description": "List all Internet Gateway rules in the given subscription.",
+  "IsDataAction": false
+}

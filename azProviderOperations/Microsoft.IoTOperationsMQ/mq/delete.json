@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/delete",
+  "OperationName": "Mq_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq",
+  "Description": "Delete a MqResource",
+  "IsDataAction": false
+}

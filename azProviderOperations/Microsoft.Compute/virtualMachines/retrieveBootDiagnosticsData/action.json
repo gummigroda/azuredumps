@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/retrieveBootDiagnosticsData/action",
+  "OperationName": "Retrieve boot diagnostic logs blob URIs",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Retrieves boot diagnostic logs blob URIs",
+  "IsDataAction": false
+}

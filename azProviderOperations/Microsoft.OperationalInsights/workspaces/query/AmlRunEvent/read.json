@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AmlRunEvent/read",
+  "OperationName": "Read AmlRunEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AmlRunEvent",
+  "Description": "Read data from the AmlRunEvent table",
+  "IsDataAction": false
+}

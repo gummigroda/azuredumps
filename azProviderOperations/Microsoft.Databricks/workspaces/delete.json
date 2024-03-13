@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/delete",
+  "OperationName": "Remove Databricks Workspace",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Removes a Databricks workspace.",
+  "IsDataAction": false
+}

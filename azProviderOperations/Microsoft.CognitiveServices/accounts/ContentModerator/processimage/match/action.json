@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/processimage/match/action",
+  "OperationName": "Image - Match",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Process images.",
+  "Description": "Fuzzily match an image against one of your custom Image Lists. You can create and manage your custom image lists using <a href=\"/docs/services/57cf755e3f9b070c105bd2c2/operations/57cf755e3f9b070868a1f672\">this</a> API. ",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/nfadevices/delete",
+  "OperationName": "NfaDevices_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/nfadevices",
+  "Description": "Delete the NfaDevice resource.",
+  "IsDataAction": false
+}

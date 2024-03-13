@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/databaseConnections/Read",
+  "OperationName": "Get Static Site Database Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Database Connections",
+  "Description": "Get Static Site Database Connection",
+  "IsDataAction": false
+}

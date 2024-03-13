@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/modules/read",
+  "OperationName": "Read an Azure Automation Powershell module",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Powershell Module",
+  "Description": "Gets an Azure Automation Powershell module",
+  "IsDataAction": false
+}

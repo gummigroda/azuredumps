@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/unregister/action",
+  "OperationName": "Unregister the Microsoft.AppPlatform resource provider",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "",
+  "Description": "Unregister the subscription from the Microsoft.AppPlatform resource provider",
+  "IsDataAction": false
+}

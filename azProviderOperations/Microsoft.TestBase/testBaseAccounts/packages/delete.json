@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/delete",
+  "OperationName": "Packages_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages",
+  "Description": "Deletes a Test Base Package.",
+  "IsDataAction": false
+}

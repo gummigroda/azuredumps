@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/liveDataMigrations/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "LiveDataMigrations",
+  "Description": "Read a migrator migration",
+  "IsDataAction": false
+}

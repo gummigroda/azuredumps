@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/standardAssignments/read",
+  "OperationName": "Get security standard assignments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security standardAssignments",
+  "Description": "Get the standard assignments",
+  "IsDataAction": false
+}

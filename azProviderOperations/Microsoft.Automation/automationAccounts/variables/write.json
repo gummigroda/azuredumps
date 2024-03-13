@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/variables/write",
+  "OperationName": "Create or Update an Azure Automation variable asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Variable Asset",
+  "Description": "Creates or updates an Azure Automation variable asset",
+  "IsDataAction": false
+}

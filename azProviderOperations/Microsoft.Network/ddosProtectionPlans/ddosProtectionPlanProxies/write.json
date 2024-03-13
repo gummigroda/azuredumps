@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/ddosProtectionPlanProxies/write",
+  "OperationName": "Create or update DDoS Protection Plan Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan Proxy",
+  "Description": "Creates a DDoS Protection Plan Proxy or updates and existing DDoS Protection Plan Proxy",
+  "IsDataAction": false
+}

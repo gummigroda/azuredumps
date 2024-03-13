@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipCommunityLists/write",
+  "OperationName": "IpCommunityLists_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipCommunityLists",
+  "Description": "API to update certain properties of the Ip Community List resource.",
+  "IsDataAction": false
+}

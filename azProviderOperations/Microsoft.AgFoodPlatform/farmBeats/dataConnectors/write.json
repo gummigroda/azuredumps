@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/dataConnectors/write",
+  "OperationName": "Create or Update AgFoodPlatform DataConnectors.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform DataConnectors",
+  "Description": "Creates or Updates AgFoodPlatform DataConnectors.",
+  "IsDataAction": false
+}

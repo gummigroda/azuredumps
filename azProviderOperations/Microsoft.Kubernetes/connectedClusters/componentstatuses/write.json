@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/componentstatuses/write",
+  "OperationName": "Creates/Updates componentstatuses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "componentstatuses",
+  "Description": "Writes componentstatuses",
+  "IsDataAction": true
+}

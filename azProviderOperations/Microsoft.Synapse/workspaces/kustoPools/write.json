@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/write",
+  "OperationName": "Write cluster resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Writes a cluster resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetalInfrastructure/bareMetalInstances/start/action",
+  "OperationName": "Start BareMetal Instance",
+  "ProviderNamespace": "Microsoft BareMetal Infrastructure",
+  "ResourceName": "BareMetal Instance",
+  "Description": "Start any BareMetal Instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/automationRules/write",
+  "OperationName": "Update Automation Rules",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "AutomationRules",
+  "Description": "Updates an automation rule",
+  "IsDataAction": false
+}

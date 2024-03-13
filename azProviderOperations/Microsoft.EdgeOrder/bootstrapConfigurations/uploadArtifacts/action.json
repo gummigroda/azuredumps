@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/bootstrapConfigurations/uploadArtifacts/action",
+  "OperationName": "Upload artifacts",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "BootstrapConfigurations",
+  "Description": "Upload artifacts",
+  "IsDataAction": false
+}

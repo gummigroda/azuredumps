@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppServiceAntivirusScanLogs/Read",
+  "OperationName": "Read AppServiceAntivirusScanLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppServiceAntivirusScanLogs",
+  "Description": "Read data from the AppServiceAntivirusScanLogs table",
+  "IsDataAction": false
+}

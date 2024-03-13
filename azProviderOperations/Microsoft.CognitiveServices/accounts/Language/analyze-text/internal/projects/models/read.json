@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/models/read",
+  "OperationName": "AnalyzeText_Internal_Models_GetTrainedModel|AnalyzeText_Internal_Models_GetTrainedModels*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Get a trained model info.\r\nGet trained models info.*",
+  "IsDataAction": true
+}

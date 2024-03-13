@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/register/action",
+  "OperationName": "Register the Microsoft.VoiceServices",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.VoiceServices",
+  "IsDataAction": false
+}

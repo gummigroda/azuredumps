@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateLinkResources/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateLinkResources/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Link Resource",
+  "Description": "Read a private link resource or list all the private link resources of a Database Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipPrefixLists/write",
+  "OperationName": "IpPrefixLists_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipPrefixLists",
+  "Description": "API to update certain properties of the Ip Prefix List resource.",
+  "IsDataAction": false
+}

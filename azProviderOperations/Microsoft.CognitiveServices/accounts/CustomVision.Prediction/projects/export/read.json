@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/export/read",
+  "OperationName": "ExportProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "export*",
+  "Description": "Exports a project.",
+  "IsDataAction": true
+}

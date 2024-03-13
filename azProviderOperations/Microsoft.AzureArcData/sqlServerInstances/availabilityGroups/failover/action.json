@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/failover/action",
+  "OperationName": "SqlServerAvailabilityGroups_Failover",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "Request manual failover of the availability group to this server.",
+  "IsDataAction": false
+}

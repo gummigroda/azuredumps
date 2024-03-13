@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

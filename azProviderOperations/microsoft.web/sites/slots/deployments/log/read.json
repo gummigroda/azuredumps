@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/deployments/log/read",
+  "OperationName": "Get Web Apps Slots Deployments Log",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Deployments Log",
+  "Description": "Get Web Apps Slots Deployments Log.",
+  "IsDataAction": false
+}

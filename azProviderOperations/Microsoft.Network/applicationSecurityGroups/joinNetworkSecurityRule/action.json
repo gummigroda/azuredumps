@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/joinNetworkSecurityRule/action",
+  "OperationName": "Joins SecurityRule To Application Security Groups.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Joins a Security Rule to Application Security Groups. Not alertable.",
+  "IsDataAction": false
+}

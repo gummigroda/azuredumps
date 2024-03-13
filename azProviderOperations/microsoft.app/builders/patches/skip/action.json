@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builders/patches/skip/action",
+  "OperationName": "Skip Builder's Patch",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Patch",
+  "Description": "Skip a Builder's Patch",
+  "IsDataAction": false
+}

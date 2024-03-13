@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/restart/action",
+  "OperationName": "Restart Virtual Machine instance in a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine in Scale Set",
+  "Description": "Restarts a Virtual Machine instance in a VM Scale Set.",
+  "IsDataAction": false
+}

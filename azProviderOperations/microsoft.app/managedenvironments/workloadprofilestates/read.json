@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/workloadprofilestates/read",
+  "OperationName": "Read Current Workload Profile State",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Get Current Workload Profile States",
+  "IsDataAction": false
+}

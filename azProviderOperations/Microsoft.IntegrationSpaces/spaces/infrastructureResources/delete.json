@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/infrastructureResources/delete",
+  "OperationName": "InfrastructureResources_Delete",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/infrastructureResources",
+  "Description": "Delete a InfrastructureResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/privateEndpointConnections/delete",
+  "OperationName": "Removes Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Removes Private Endpoint Connection",
+  "IsDataAction": false
+}

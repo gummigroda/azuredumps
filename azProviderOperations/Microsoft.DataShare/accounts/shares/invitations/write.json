@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/invitations/write",
+  "OperationName": "Write Data Share Invitations",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Invitations",
+  "Description": "Writes a Data Share Invitation.",
+  "IsDataAction": false
+}

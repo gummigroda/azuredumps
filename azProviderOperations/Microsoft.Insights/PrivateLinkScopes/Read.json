@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/Read",
+  "OperationName": "Read a private link scope",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private Link Scope",
+  "Description": "Read a private link scope",
+  "IsDataAction": false
+}

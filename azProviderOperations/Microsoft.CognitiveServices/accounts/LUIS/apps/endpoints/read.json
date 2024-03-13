@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/endpoints/read",
+  "OperationName": "Apps - Get endpoints",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Endpoints",
+  "Description": "Returns the available endpoint deployment regions and urls",
+  "IsDataAction": true
+}

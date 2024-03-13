@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/register/action",
+  "OperationName": "Register the Microsoft.ManufacturingPlatform",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ManufacturingPlatform",
+  "IsDataAction": false
+}

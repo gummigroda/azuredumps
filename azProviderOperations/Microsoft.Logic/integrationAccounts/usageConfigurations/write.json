@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/usageConfigurations/write",
+  "OperationName": "Set Integration Account Usage Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Usage Configuration",
+  "Description": "Creates or updates the usage configuration in integration account.",
+  "IsDataAction": false
+}

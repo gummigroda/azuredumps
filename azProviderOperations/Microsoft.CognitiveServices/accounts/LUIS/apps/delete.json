@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/delete",
+  "OperationName": "Apps - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Deletes an application.",
+  "IsDataAction": true
+}

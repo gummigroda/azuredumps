@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/stop/action",
+  "OperationName": "Stop Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Stops the virtual machine.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ConfidentialWatchlists/delete",
+  "OperationName": "Delete Confidential Watchlists",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ConfidentialWatchlists",
+  "Description": "Deletes Confidential Watchlists",
+  "IsDataAction": false
+}

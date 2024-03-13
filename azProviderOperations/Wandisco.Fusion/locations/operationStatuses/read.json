@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/locations/operationStatuses/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "OperationStatuses",
+  "Description": "Return the given operationStatus.",
+  "IsDataAction": false
+}

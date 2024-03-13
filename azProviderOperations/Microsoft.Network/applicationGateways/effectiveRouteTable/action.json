@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/effectiveRouteTable/action",
+  "OperationName": "Get Effective Route Table of an Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Get Route Table configured On Application Gateway",
+  "IsDataAction": false
+}

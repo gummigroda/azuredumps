@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/monitoringData/action",
+  "OperationName": "Get an Integration Runtime's monitoring data",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Get any Integration Runtime's monitoring data",
+  "IsDataAction": false
+}

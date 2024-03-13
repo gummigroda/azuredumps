@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/groups/users/read",
+  "OperationName": "Get group users list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Group users",
+  "Description": "Lists a collection of user entities associated with the group.",
+  "IsDataAction": false
+}

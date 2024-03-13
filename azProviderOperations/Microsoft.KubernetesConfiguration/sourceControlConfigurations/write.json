@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations",
+  "Description": "Creates or updates source control configuration.",
+  "IsDataAction": false
+}

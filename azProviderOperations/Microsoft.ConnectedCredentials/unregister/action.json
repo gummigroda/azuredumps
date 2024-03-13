@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCredentials/unregister/action",
+  "OperationName": "Unregister the Microsoft.ConnectedCredentials",
+  "ProviderNamespace": "Microsoft.ConnectedCredentials",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ConnectedCredentials",
+  "IsDataAction": false
+}

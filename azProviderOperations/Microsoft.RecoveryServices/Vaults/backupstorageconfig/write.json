@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupstorageconfig/write",
+  "OperationName": "Write Resource Storage Config",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Storage Config",
+  "Description": "Updates Storage Configuration for Recovery Services Vault.",
+  "IsDataAction": false
+}

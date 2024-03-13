@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/renewcertificate/action",
+  "OperationName": "Renew Certificate for Fabric",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Renew Certificate for Fabric",
+  "IsDataAction": false
+}

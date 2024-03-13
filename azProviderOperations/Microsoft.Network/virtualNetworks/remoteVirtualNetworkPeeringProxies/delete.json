@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/remoteVirtualNetworkPeeringProxies/delete",
+  "OperationName": "Delete Virtual Network Peering Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Peering Proxy",
+  "Description": "Deletes a virtual network peering proxy",
+  "IsDataAction": false
+}

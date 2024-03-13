@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/configure/action",
+  "OperationName": "AzureDevOpsConnectors_Configure",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors",
+  "Description": "action configure",
+  "IsDataAction": false
+}

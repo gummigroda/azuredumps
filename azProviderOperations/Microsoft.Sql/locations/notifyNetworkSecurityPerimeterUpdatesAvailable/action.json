@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Notify of NSP Update",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL DB Network Security Perimeter Updates",
+  "Description": "Notify of NSP Update",
+  "IsDataAction": false
+}

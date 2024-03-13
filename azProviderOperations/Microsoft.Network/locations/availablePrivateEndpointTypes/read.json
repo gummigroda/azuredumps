@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/availablePrivateEndpointTypes/read",
+  "OperationName": "Get available Private Endpoint resources",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Available Private Endpoint resources",
+  "Description": "Gets available Private Endpoint resources",
+  "IsDataAction": false
+}

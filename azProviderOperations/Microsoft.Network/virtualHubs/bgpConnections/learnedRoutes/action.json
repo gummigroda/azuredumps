@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/bgpConnections/learnedRoutes/action",
+  "OperationName": "Gets virtualrouter learned routes",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub BgpConnection resource",
+  "Description": "Gets virtualrouter learned routes",
+  "IsDataAction": false
+}

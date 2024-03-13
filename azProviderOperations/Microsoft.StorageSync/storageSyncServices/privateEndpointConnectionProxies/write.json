@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update Private Endpoint ConnectionProxies",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Private Endpoint ConnectionProxies",
+  "Description": "Create or Update any Private Endpoint ConnectionProxies",
+  "IsDataAction": false
+}

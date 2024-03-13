@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnections/write",
+  "OperationName": "Create or Update Enterprise Policy Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Creates an enterprise policy private endpoint connection or update an existing enterprise policy private endpoint connection",
+  "IsDataAction": false
+}

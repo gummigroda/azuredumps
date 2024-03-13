@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/features/read",
+  "OperationName": "KubernetesClusterFeatures_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters/features",
+  "Description": "Get properties of the provided the Kubernetes cluster feature.",
+  "IsDataAction": false
+}

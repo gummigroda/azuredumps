@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MicrosoftDataShareReceivedSnapshotLog/Read",
+  "OperationName": "Read MicrosoftDataShareReceivedSnapshotLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MicrosoftDataShareReceivedSnapshotLog",
+  "Description": "Read data from the MicrosoftDataShareReceivedSnapshotLog table",
+  "IsDataAction": false
+}

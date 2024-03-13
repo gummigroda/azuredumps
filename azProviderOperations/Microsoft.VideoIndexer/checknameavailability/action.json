@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/checknameavailability/action",
+  "OperationName": "action_checknameavailability",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "",
+  "Description": "action checknameavailability",
+  "IsDataAction": false
+}

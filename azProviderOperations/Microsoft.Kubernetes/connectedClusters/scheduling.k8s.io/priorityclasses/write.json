@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/scheduling.k8s.io/priorityclasses/write",
+  "OperationName": "Creates/Updates priorityclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "priorityclasses",
+  "Description": "Writes priorityclasses",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/executions/write",
+  "OperationName": "Create or update a job execution",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job execution",
+  "Description": "Creates or updates a job execution",
+  "IsDataAction": false
+}

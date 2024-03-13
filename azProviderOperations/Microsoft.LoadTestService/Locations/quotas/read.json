@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/locations/quotas/read",
+  "OperationName": "Get/List Quotas",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "locations/quotas",
+  "Description": "Get/List the available quotas for quota buckets per region per subscription.",
+  "IsDataAction": false
+}

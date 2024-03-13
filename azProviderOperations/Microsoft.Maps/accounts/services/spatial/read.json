@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/spatial/read",
+  "OperationName": "Spatial Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Spatial",
+  "Description": "Allows reading of data for Spatial services.",
+  "IsDataAction": true
+}

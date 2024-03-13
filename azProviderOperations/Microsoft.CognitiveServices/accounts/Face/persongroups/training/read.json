@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/training/read",
+  "OperationName": "PersonGroup - Get Training Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "training*",
+  "Description": "To check person group training status completed or still ongoing. PersonGroup Training is an asynchronous operation triggered",
+  "IsDataAction": true
+}

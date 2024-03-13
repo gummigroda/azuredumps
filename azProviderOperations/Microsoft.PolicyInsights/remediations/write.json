@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/remediations/write",
+  "OperationName": "Create or Update Microsoft Policy remediations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Remediations",
+  "Description": "Create or update Microsoft Policy remediations.",
+  "IsDataAction": false
+}

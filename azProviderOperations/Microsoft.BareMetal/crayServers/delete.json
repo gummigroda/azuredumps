@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/crayServers/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Cray Server",
+  "Description": "Delete operation",
+  "IsDataAction": false
+}

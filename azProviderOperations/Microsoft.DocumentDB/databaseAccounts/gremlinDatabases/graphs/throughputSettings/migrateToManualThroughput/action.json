@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/migrateToManualThroughput/action",
+  "OperationName": "Migrate Gremlin graph offer to to manual throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Graph throughput setting",
+  "Description": "Migrate Gremlin graph offer to to manual throughput.",
+  "IsDataAction": false
+}

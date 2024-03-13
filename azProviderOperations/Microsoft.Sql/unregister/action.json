@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/unregister/action",
+  "OperationName": "Unregisters the Azure SQL Database Resource Provider",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Azure SQL Database resource provider and disables the creation of Azure SQL Databases.",
+  "IsDataAction": false
+}

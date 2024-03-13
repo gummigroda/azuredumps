@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/failedrequestsperuri/read",
+  "OperationName": "Get Web Apps Diagnostics Failed Requests Per Uri",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Failed Requests Per Uri",
+  "Description": "Get Web Apps Diagnostics Failed Requests Per Uri.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/write",
+  "OperationName": "Create or Update run command for Virtual Machine in Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "RunCommands for Virtual Machines in Virtual Machine Scale Set",
+  "Description": "Creates a new run command for Virtual Machine in Virtual Machine Scale Set or updates an existing one",
+  "IsDataAction": false
+}

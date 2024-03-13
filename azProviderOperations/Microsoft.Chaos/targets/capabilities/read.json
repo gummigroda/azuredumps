@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/targets/capabilities/read",
+  "OperationName": "Gets all Capabilities.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Capability",
+  "Description": "Gets all Capabilities that extend a Target resource.",
+  "IsDataAction": false
+}

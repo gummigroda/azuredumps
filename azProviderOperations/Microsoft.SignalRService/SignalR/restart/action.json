@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/restart/action",
+  "OperationName": "Restart SignalR",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "To restart a SignalR resource in the management portal or through API. There will be certain downtime",
+  "IsDataAction": false
+}

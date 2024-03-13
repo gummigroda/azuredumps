@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/write",
+  "OperationName": "Create or Rename intent",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Intents",
+  "Description": "Adds an intent classifier to the application version.\r\nUpdates the name of an intent classifier.",
+  "IsDataAction": true
+}

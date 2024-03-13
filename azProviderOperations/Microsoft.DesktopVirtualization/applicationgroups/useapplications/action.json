@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/useapplications/action",
+  "OperationName": "Use ApplicationGroup",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Use ApplicationGroup",
+  "IsDataAction": true
+}

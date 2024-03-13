@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/datasets/write",
+  "OperationName": "Write Datasets",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Datasets",
+  "Description": "Write Datasets",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/sensors/connectionStrings/write",
+  "OperationName": "Create or Update AgFoodPlatform ConnnectionStrings for Sensor Partners.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform ConnnectionStrings for Sensor Partners",
+  "Description": "Creates or Updates AgFoodPlatform ConnnectionStrings for Sensor Partners.",
+  "IsDataAction": true
+}

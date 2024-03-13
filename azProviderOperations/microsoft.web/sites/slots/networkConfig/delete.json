@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networkConfig/delete",
+  "OperationName": "Delete App Service Slots Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Slots Network Configuration",
+  "Description": "Delete App Service Slots Network Configuration.",
+  "IsDataAction": false
+}

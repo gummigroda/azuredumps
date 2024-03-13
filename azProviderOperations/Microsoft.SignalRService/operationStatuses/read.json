@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/operationStatuses/read",
+  "OperationName": "Query Async Operation status",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Operation Statuses",
+  "Description": "Query the status of a provider-level asynchronous operation",
+  "IsDataAction": false
+}

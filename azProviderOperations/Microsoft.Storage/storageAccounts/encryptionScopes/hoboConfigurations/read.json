@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/encryptionScopes/hoboConfigurations/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

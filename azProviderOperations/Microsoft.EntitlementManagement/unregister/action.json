@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EntitlementManagement/unregister/action",
+  "OperationName": "Unregister the Microsoft.EntitlementManagement",
+  "ProviderNamespace": "Microsoft.EntitlementManagement",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.EntitlementManagement",
+  "IsDataAction": false
+}

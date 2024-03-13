@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/instances/read",
+  "OperationName": "Get/List Instances",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Instance",
+  "Description": "Returns the list of Device Update Instances",
+  "IsDataAction": false
+}

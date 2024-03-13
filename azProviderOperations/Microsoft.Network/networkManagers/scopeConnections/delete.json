@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/scopeConnections/delete",
+  "OperationName": "Delete Network Manager Scope Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager Scope Connection",
+  "Description": "Delete Network Manager Scope Connection",
+  "IsDataAction": false
+}

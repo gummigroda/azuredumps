@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensions/deployments/read",
+  "OperationName": "Gets/List deployments resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Deployments",
+  "Description": "Reads deployments",
+  "IsDataAction": true
+}

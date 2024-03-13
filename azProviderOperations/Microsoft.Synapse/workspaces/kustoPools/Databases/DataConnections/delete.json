@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Databases/DataConnections/delete",
+  "OperationName": "Delete a data connections resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Data connections resource type",
+  "Description": "Deletes a data connections resource.",
+  "IsDataAction": false
+}

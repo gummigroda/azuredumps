@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/badpassworduseridipfrequency/read",
+  "OperationName": "Gets Blob SAS Uri for enqueued report job.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Technical Advisor Reports",
+  "Description": "Gets Blob SAS URI containing status and eventual result of newly enqueued report job for frequency of Bad Username/Password attempts per UserId per IPAddress per Day for a given Tenant.",
+  "IsDataAction": false
+}

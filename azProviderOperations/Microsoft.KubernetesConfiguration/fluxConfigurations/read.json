@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/fluxConfigurations/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/fluxConfigurations/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/fluxConfigurations",
+  "Description": "Gets flux configuration.",
+  "IsDataAction": false
+}

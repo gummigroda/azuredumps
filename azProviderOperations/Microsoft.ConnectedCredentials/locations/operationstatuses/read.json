@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCredentials/locations/operationstatuses/read",
+  "OperationName": "read_operationstatuses",
+  "ProviderNamespace": "Microsoft.ConnectedCredentials",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "read operationstatuses",
+  "IsDataAction": false
+}

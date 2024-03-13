@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/computes/reimage/action",
+  "OperationName": "Reimages compute resource in Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Computes",
+  "Description": "Reimages compute resource in Machine Learning Services Workspace",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/write",
+  "OperationName": "Create or update a HubVirtualNetworkConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a HubVirtualNetworkConnection resource",
+  "Description": "Create or update a HubVirtualNetworkConnection",
+  "IsDataAction": false
+}

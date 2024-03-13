@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/consoleConnections/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "ConsoleConnection",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

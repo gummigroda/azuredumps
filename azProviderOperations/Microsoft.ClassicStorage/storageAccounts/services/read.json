@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/services/read",
+  "OperationName": "Get Available Services",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Services",
+  "Description": "Get the available services.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/dataNetworks/write",
+  "OperationName": "DataNetworks_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/dataNetworks",
+  "Description": "Updates data network tags.",
+  "IsDataAction": false
+}

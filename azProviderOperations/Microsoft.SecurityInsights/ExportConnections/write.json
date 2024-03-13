@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ExportConnections/write",
+  "OperationName": "Write ExportConnections",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ExportConnections",
+  "Description": "write ExportConnections",
+  "IsDataAction": false
+}

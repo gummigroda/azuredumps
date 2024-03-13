@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/openAIIntegrations/write",
+  "OperationName": "Create/Update open AI Integration resource",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "OpenAIIntegrations",
+  "Description": "Write open AI Integration resource",
+  "IsDataAction": false
+}

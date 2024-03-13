@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/cancel/action",
+  "OperationName": "CloudServices_Cancel",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Cancels a SaaSHub cloud service.",
+  "IsDataAction": false
+}

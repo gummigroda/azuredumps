@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/favoriteProcesses/delete",
+  "OperationName": "FavoriteProcesses_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages/favoriteProcesses",
+  "Description": "Deletes a favorite process for a specific package.",
+  "IsDataAction": false
+}

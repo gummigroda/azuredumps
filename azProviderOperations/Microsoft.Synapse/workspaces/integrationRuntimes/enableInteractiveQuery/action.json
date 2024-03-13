@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/enableInteractiveQuery/action",
+  "OperationName": "Enable Interactive query on an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Enable Interactive query on any Integration Runtime",
+  "IsDataAction": false
+}

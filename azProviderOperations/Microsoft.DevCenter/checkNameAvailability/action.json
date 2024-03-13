@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

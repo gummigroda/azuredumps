@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/operationresults/read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "OperationResult",
+  "Description": "Gets the status of an asynchronous operation result",
+  "IsDataAction": false
+}

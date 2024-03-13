@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/delete",
+  "OperationName": "Workspaces_Delete",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces",
+  "Description": "The operation to delete a firmware analysis workspace.",
+  "IsDataAction": false
+}

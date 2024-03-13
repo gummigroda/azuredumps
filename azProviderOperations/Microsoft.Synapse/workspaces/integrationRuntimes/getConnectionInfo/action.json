@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/getConnectionInfo/action",
+  "OperationName": "Get Connection Info of an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Get Connection Info of any Integration Runtime",
+  "IsDataAction": false
+}

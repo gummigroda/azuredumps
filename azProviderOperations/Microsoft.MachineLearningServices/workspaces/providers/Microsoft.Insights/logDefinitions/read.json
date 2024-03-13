@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets the available logs for Azure machine learning workspaces",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Gets the available logs for Azure machine learning workspaces",
+  "IsDataAction": false
+}

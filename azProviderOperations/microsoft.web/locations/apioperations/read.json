@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/apioperations/read",
+  "OperationName": "Get Locations API Operations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations API Operations",
+  "Description": "Get Locations API Operations.",
+  "IsDataAction": false
+}

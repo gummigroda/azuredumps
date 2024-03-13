@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/CheckNameAvailability/action",
+  "OperationName": "CheckNameAvailability",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

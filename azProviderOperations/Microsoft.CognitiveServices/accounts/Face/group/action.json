@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/group/action",
+  "OperationName": "Face - Group",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Divide candidate faces into groups based on face similarity.",
+  "IsDataAction": true
+}

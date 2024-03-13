@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/subscriptions/write",
+  "OperationName": "Add Management Group Subscription",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Associates existing subscription with the management group.",
+  "IsDataAction": false
+}

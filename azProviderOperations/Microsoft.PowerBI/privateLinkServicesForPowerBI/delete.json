@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/delete",
+  "OperationName": "Deletes private link service",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Deletes resource for the tenant private link service.",
+  "IsDataAction": false
+}

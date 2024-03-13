@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureWebCategories/read",
+  "OperationName": "Get Azure WebCategories",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure WebCategories",
+  "Description": "Gets Azure WebCategories",
+  "IsDataAction": false
+}

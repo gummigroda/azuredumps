@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/dataConnectors/read",
+  "OperationName": "Get Data Connectors",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "DataConnectors",
+  "Description": "Gets the data connectors",
+  "IsDataAction": false
+}

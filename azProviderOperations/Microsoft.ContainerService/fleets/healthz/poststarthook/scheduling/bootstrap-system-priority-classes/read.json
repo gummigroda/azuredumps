@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/poststarthook/scheduling/bootstrap-system-priority-classes/read",
+  "OperationName": "Gets/List bootstrap-system-priority-classes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Bootstrap-System-Priority-Classes",
+  "Description": "Reads bootstrap-system-priority-classes",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/metrics.k8s.io/nodes/read",
+  "OperationName": "Gets/List nodes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Nodes",
+  "Description": "Reads nodes",
+  "IsDataAction": true
+}

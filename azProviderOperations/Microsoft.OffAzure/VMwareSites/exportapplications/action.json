@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/exportapplications/action",
+  "OperationName": "Exports VMware applications and roles data into xls",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Exports the VMware applications and roles data into xls",
+  "IsDataAction": false
+}

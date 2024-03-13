@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/networkruleset/read",
+  "OperationName": "Gets NetworkRuleSet Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Network Rule Set",
+  "Description": "Gets NetworkRuleSet Resource",
+  "IsDataAction": false
+}

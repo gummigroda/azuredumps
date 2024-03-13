@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or update a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Create or update a Private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

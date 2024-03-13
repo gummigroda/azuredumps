@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read SignalR Metrics Definitions",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "Get the available metrics of a SignalR resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/GetRestrictionsAndUsage/action",
+  "OperationName": "Get restrictions and usage",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Lab Accounts",
+  "Description": "Get core restrictions and usage for this subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/accesskey/read",
+  "OperationName": "Content AccessKey - Get",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage access keys.",
+  "Description": "Get the review content access key for your team.",
+  "IsDataAction": true
+}

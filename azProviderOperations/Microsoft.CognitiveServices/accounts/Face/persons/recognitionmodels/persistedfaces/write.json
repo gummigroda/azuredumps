@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/recognitionmodels/persistedfaces/write",
+  "OperationName": "PersonDirectory Person - Add Face|PersonDirectory Person - Update Face",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Add a face to a person (see <a href=\"/docs/services/face-v1-0-preview/operations/5f063c5279ef2ecd2da02bbc\">PersonDirectory Person - Create</a>) for face identification or verification. To deal with an image containing\r\nUpdate a person persisted face's userData field.*\r\nAdd a face to a person (see <a href=\"/docs/services/563879b61984550e40cbbe8d/operations/5f063c5279ef2ecd2da02bbc\">PersonDirectory Person - Create</a>) for face identification or verification. To deal with an image containing*\r\nUpdate a person persisted face's userData field.*",
+  "IsDataAction": true
+}

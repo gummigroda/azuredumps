@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/evidences/write",
+  "OperationName": "Evidences_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/evidences",
+  "Description": "Create or Update an evidence a specified report",
+  "IsDataAction": false
+}

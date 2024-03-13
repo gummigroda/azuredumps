@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/write",
+  "OperationName": "Watchers_Update",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers",
+  "Description": "Update a Watcher",
+  "IsDataAction": false
+}

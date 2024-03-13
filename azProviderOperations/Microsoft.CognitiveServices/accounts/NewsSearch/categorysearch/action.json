@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/NewsSearch/categorysearch/action",
+  "OperationName": "Get category news",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "News Search - v7",
+  "Description": "Returns news for a provided category.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/pods/exec/action",
+  "OperationName": "Exec into a  pods resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "pods",
+  "Description": "Exec into a pod",
+  "IsDataAction": true
+}

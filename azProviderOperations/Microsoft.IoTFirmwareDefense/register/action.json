@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/register/action",
+  "OperationName": "Register the Microsoft.IoTFirmwareDefense",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.IoTFirmwareDefense",
+  "IsDataAction": false
+}

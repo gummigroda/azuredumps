@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels:copyto/action",
+  "OperationName": "Creation  - Copy Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Copies model to the target resource, region, and modelId.",
+  "IsDataAction": true
+}

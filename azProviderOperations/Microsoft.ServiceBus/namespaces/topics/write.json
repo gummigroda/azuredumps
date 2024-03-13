@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/write",
+  "OperationName": "Create or Update Topic",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Topic",
+  "Description": "Create or Update Topic properties.",
+  "IsDataAction": false
+}

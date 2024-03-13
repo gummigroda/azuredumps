@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/tenantwhitelisting/read",
+  "OperationName": "Gets feature whitelisting status.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Gets feature whitelisting status for a given tenant.",
+  "IsDataAction": false
+}

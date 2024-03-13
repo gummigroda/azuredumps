@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/savedsearches/schedules/actions/read",
+  "OperationName": "Get scheduled search actions",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Schedules",
+  "Description": "Get scheduled search actions.",
+  "IsDataAction": false
+}

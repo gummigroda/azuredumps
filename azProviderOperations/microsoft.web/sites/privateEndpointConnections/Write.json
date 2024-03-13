@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/privateEndpointConnections/Write",
+  "OperationName": "Approve or Reject Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Approve or Reject a private endpoint connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/Locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "Locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

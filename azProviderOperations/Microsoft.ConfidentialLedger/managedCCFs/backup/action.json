@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/managedCCFs/backup/action",
+  "OperationName": "ManagedCCF_Backup",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "managedCCFs",
+  "Description": "Backs up a Managed CCF Resource.",
+  "IsDataAction": false
+}

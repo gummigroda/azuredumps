@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/privateEndpointConnectionProxies/Read",
+  "OperationName": "Get Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Private Endpoint Connection Proxies",
+  "Description": "Get Private Endpoint Connection Proxies for a Static Site",
+  "IsDataAction": false
+}

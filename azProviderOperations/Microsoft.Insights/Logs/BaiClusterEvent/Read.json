@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BaiClusterEvent/Read",
+  "OperationName": "Read BaiClusterEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BaiClusterEvent",
+  "Description": "Read data from the BaiClusterEvent table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/privateEndpointConnectionProxies/read",
+  "OperationName": null,
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

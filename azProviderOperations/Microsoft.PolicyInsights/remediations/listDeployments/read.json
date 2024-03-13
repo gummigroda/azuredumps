@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/remediations/listDeployments/read",
+  "OperationName": "List Remediation Deployments",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Remediations",
+  "Description": "Lists the deployments required by a policy remediation.",
+  "IsDataAction": false
+}

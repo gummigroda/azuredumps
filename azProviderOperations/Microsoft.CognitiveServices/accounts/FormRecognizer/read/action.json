@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/read/action",
+  "OperationName": "Analysis - Sync Analyze Read",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Internal usage",
+  "IsDataAction": true
+}

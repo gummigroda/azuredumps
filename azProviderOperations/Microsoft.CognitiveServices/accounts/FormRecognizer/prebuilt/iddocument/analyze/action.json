@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/iddocument/analyze/action",
+  "OperationName": "Analyze Id Document - Analyze Id Document",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iddocument*",
+  "Description": "Extract field text and semantic values from a given Id document.",
+  "IsDataAction": true
+}

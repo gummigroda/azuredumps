@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/locations/restorableDatabaseAccounts/restore/action",
+  "OperationName": "Microsoft.DocumentDB/locations/restorableDatabaseAccounts/restore/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Restorable database account",
+  "Description": "Submit a restore request",
+  "IsDataAction": false
+}

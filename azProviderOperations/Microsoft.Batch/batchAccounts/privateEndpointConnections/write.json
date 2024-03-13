@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/privateEndpointConnections/write",
+  "OperationName": "Update Private endpoint connection",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Update an existing Private endpoint connection on a Batch account",
+  "IsDataAction": false
+}

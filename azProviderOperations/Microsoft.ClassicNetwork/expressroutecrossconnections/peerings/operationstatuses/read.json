@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/expressroutecrossconnections/peerings/operationstatuses/read",
+  "OperationName": "Get Express Route Cross Connection Peering Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Express Route Cross Connection Peering",
+  "Description": "Get an express route cross connection peering operation status.",
+  "IsDataAction": false
+}

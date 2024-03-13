@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Operations",
+  "Description": "Gets operations",
+  "IsDataAction": false
+}

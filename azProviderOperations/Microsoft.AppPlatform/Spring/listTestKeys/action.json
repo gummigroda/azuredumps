@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/listTestKeys/action",
+  "OperationName": "Get the test endpoint keys of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "List test keys for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

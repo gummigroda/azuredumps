@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/locations/assessmentOptions/read",
+  "OperationName": "List Assessment Options",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessment Options",
+  "Description": "Gets the assessment options which are available in the given location",
+  "IsDataAction": false
+}

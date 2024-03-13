@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/train/action",
+  "OperationName": "PersonGroup - Train",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persongroups*",
+  "Description": "Submit a person group training task. Training is a crucial step that only a trained person group can be used by",
+  "IsDataAction": true
+}

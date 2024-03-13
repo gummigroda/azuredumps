@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/attestationdefinitions/read",
+  "OperationName": "Reads all subscription level attestation definitions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "AttestationDefinitions",
+  "Description": "Reads all subscription level attestation definitions",
+  "IsDataAction": false
+}

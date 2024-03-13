@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/customViews/get/action",
+  "OperationName": "Get Virtual network custom view content",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network custom view",
+  "Description": "Get a Virtual Network custom view content",
+  "IsDataAction": false
+}

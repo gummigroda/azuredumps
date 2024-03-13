@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/consoles/read",
+  "OperationName": "Get Cloud Shell",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Consoles",
+  "Description": "Reads the Cloud Shell instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/listSecurityServices/action",
+  "OperationName": "LocalRulestacks_listSecurityServices",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "List the security services for rulestack",
+  "IsDataAction": false
+}

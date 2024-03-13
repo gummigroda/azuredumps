@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/administrators/write",
+  "OperationName": "Adds or updates a specific Azure Active Directory administrator object",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The server administrator",
+  "Description": "Adds or updates a specific Azure Active Directory administrator object",
+  "IsDataAction": false
+}

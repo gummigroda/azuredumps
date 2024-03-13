@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/networking.k8s.io/ingressclasses/read",
+  "OperationName": "Gets/List ingressclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "ingressclasses",
+  "Description": "Reads ingressclasses",
+  "IsDataAction": true
+}

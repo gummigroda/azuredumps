@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/action",
+  "OperationName": "Term Lists - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Moderator",
+  "Description": "Create term list.",
+  "IsDataAction": true
+}

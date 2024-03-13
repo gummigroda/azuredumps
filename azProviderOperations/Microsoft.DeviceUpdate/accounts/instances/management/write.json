@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/instances/management/write",
+  "OperationName": "Management Write",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Performs a write operation related to management",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/listHosts/action",
+  "OperationName": "List VM Hosts",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all VMs that are sending compute logs for a monitor",
+  "IsDataAction": false
+}

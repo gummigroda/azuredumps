@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/operationresults/read",
+  "OperationName": "Get long running operation result",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Operation Result",
+  "Description": "Gets current status of long running operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/tenants/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read tenants log definitions",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "The log definition of tenants",
+  "Description": "Gets the available logs for tenants",
+  "IsDataAction": false
+}

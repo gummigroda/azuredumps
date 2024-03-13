@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/groupLinks/delete",
+  "OperationName": "Remove product-group link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-Group links resource",
+  "Description": "Delete product-group link.",
+  "IsDataAction": false
+}

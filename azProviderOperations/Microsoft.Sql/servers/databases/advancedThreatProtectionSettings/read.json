@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/read",
+  "OperationName": "List the database Advanced Threat Protection settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Advanced Threat Protection settings",
+  "Description": "Retrieve a list of database Advanced Threat Protection settings configured for a given database",
+  "IsDataAction": false
+}

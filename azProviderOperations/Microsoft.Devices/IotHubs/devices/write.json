@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/devices/write",
+  "OperationName": "Write Device/Module",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Create or update any device or module identity",
+  "IsDataAction": true
+}

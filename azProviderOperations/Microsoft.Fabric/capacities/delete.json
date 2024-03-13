@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/capacities/delete",
+  "OperationName": "Delete the Fabric Capacity",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Deletes the Fabric Capacity.",
+  "IsDataAction": false
+}

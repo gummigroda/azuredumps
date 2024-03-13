@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/Locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "Locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

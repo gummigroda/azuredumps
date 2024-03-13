@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltentities/read",
+  "OperationName": "Get custom prebuilt domain entities list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain entities",
+  "Description": "Gets all custom prebuilt domain entities info for this application version",
+  "IsDataAction": true
+}

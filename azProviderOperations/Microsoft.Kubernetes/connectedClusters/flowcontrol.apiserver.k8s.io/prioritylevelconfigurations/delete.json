@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/flowcontrol.apiserver.k8s.io/prioritylevelconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection prioritylevelconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "prioritylevelconfigurations",
+  "Description": "Deletes prioritylevelconfigurations",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/namedValues/delete",
+  "OperationName": "Remove named value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of named values. Named values are used to manage constant string values across all API configurations or policies.",
+  "Description": "Deletes specific named value from the API Management service instance.",
+  "IsDataAction": false
+}

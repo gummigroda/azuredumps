@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

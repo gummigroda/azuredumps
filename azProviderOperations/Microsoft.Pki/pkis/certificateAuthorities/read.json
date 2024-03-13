@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/certificateAuthorities/read",
+  "OperationName": "CertificateAuthority_ListByPki",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/certificateAuthorities",
+  "Description": "Lists all the certificate authorities in a PKI resource.",
+  "IsDataAction": false
+}

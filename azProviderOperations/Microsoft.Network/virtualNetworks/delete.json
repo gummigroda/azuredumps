@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/delete",
+  "OperationName": "Delete Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Deletes a virtual network",
+  "IsDataAction": false
+}

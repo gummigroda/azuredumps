@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/operations/read",
+  "OperationName": "Read all Operations",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Microsoft Data Factory Provider",
+  "Description": "Reads all Operations in Microsoft Data Factory Provider.",
+  "IsDataAction": false
+}

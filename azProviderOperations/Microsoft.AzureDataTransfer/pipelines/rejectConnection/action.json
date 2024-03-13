@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/rejectConnection/action",
+  "OperationName": "Pipelines_RejectConnection",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Rejects the specified connection in a pipeline.",
+  "IsDataAction": false
+}

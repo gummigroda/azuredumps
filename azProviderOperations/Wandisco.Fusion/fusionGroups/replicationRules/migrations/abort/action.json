@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/migrations/abort/action",
+  "OperationName": "Abort",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrations",
+  "Description": "Abort a migration",
+  "IsDataAction": false
+}

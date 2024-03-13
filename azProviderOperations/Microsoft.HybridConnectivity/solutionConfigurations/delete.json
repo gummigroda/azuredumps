@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/solutionConfigurations/delete",
+  "OperationName": "SolutionConfiguration_Delete",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "solutionConfigurations",
+  "Description": "Deletes the solution configuration with provided solution name.",
+  "IsDataAction": false
+}

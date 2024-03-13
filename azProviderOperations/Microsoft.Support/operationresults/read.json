@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/operationresults/read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "Operation Results",
+  "Description": "Gets the result of the asynchronous operation",
+  "IsDataAction": false
+}

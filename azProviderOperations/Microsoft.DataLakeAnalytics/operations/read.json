@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/operations/read",
+  "OperationName": "Get Available Operations",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Available Operations",
+  "Description": "Get available operations of DataLakeAnalytics.",
+  "IsDataAction": false
+}

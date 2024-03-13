@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/operationResults/read",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/OperationResults",
+  "Description": "",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/delete",
+  "OperationName": "Delete Enterprise Policy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Enterprise Policy",
+  "Description": "Deletes an enterprise policy",
+  "IsDataAction": false
+}

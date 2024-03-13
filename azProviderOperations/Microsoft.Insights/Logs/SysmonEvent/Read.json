@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SysmonEvent/Read",
+  "OperationName": "Read SysmonEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SysmonEvent",
+  "Description": "Read data from the SysmonEvent table",
+  "IsDataAction": false
+}

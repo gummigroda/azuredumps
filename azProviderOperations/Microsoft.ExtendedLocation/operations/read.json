@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/operations/read",
+  "OperationName": "List Available Operations for Custom Locations",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Operations",
+  "Description": "Gets list of Available Operations for Custom Locations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/poststarthook/crd-informer-synced/read",
+  "OperationName": "Gets/List crd-informer-synced resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/poststarthook/crd-informer-synced",
+  "Description": "Reads crd-informer-synced",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/imagecomposition:stitch/action",
+  "OperationName": "ImageComposition_Stitch",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Run the image stitching operation against a sequence of images.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/extensionReferences/operationStatuses/read",
+  "OperationName": "Get the Domain Names Slots Roles Extension References Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Names Slots Roles Extension References Operation Status",
+  "Description": "Reads the operation status for the domain names slots roles extension references.",
+  "IsDataAction": false
+}

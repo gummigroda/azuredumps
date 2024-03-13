@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/securityMLAnalyticsSettings/read",
+  "OperationName": "Get Analytics Settings",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Analytics Settings",
+  "Description": "Gets the analytics settings",
+  "IsDataAction": false
+}

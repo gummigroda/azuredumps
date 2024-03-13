@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/errorSummary/read",
+  "OperationName": "Get Error Summary for HyperV site inventory",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Gets the error summaries of all the HyperV Site resource inventory",
+  "IsDataAction": false
+}

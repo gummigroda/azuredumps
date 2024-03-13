@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labPlans/read",
+  "OperationName": "Get Lab Plan",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labPlans",
+  "Description": "Get the properties of a lab plan.",
+  "IsDataAction": false
+}

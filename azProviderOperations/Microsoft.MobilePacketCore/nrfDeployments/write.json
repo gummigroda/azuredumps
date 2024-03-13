@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nrfDeployments/write",
+  "OperationName": "NrfDeployments_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nrfDeployments",
+  "Description": "Update a NrfDeploymentResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/Workspaces/listworkspacekeys/action",
+  "OperationName": "List Workspace Keys",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Workspace",
+  "Description": "List keys for a Machine Learning Workspace",
+  "IsDataAction": false
+}

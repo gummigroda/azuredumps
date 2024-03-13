@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/cloudServiceOsVersions/read",
+  "OperationName": "Read Cloud Service OS Version",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CloudService OS Versions",
+  "Description": "Read any guest OS Version that can be specified in the XML service configuration (.cscfg) for a Cloud Service.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/operations/read",
+  "OperationName": "Read all API operations available for API Management",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Operations",
+  "Description": "Read all API operations available for Microsoft.ApiManagement resource",
+  "IsDataAction": false
+}

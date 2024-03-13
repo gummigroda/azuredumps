@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/checknameavailability/read",
+  "OperationName": "Check if name of purview account is available",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Check Name Availability",
+  "Description": "Check if name of purview account resource is available for Microsoft Purview provider.",
+  "IsDataAction": false
+}

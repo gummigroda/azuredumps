@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/write",
+  "OperationName": "Create or update ExpressRouteCircuit Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitPeering",
+  "Description": "Creates or updates an existing ExpressRouteCircuit Peering",
+  "IsDataAction": false
+}

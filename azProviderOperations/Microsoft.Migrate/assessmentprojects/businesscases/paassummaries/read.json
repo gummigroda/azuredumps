@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/paassummaries/read",
+  "OperationName": "Get PAAS summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "PAAS summary",
+  "Description": "Gets the PAAS summary of the business case",
+  "IsDataAction": false
+}

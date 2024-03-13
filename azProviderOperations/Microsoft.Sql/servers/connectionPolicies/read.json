@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/connectionPolicies/read",
+  "OperationName": "List/Get server connection policies of a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Connection Policy",
+  "Description": "Return the list of server connection policies of a specified server.",
+  "IsDataAction": false
+}

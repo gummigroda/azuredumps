@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/refreshindex/action",
+  "OperationName": "Image Lists - Refresh Search Index",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage image lists.",
+  "Description": "Image Lists - Refresh Search Index",
+  "IsDataAction": true
+}

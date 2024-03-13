@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/dataNetworks/delete",
+  "OperationName": "DataNetworks_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/dataNetworks",
+  "Description": "Deletes the specified data network.",
+  "IsDataAction": false
+}

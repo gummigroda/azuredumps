@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/read",
+  "OperationName": "Read Certificate Properties",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "List certificates in a specified key vault, or get information about a certificate.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/delete",
+  "OperationName": "Deletes a HubVirtualNetworkConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a HubVirtualNetworkConnection resource",
+  "Description": "Deletes a HubVirtualNetworkConnection",
+  "IsDataAction": false
+}

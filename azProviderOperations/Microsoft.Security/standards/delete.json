@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/standards/delete",
+  "OperationName": "Delete security standards",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secrity standards",
+  "Description": "Deletes the security standard",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/quota/refresh/write",
+  "OperationName": "RefreshQuota",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "refresh*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

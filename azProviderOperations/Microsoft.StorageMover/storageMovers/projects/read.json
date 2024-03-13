@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/projects/read",
+  "OperationName": "Projects_Get",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/projects",
+  "Description": "Gets a Project resource.",
+  "IsDataAction": false
+}

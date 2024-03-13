@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/delete",
+  "OperationName": "Applications_Delete",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications",
+  "Description": "Delete a Application",
+  "IsDataAction": false
+}

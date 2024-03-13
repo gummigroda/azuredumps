@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/operations/read",
+  "OperationName": "List all operations.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "List all operations in Microsoft AgFoodPlatform resource provider.",
+  "Description": "List all operations in Microsoft AgFoodPlatform resource provider.",
+  "IsDataAction": false
+}

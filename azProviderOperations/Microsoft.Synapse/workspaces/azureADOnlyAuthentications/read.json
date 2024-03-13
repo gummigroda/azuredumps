@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/azureADOnlyAuthentications/read",
+  "OperationName": "Status of Azure AD only authentication for workspace and its sub resources.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Status of Azure AD only authentication for workspace and its sub resources.",
+  "IsDataAction": false
+}

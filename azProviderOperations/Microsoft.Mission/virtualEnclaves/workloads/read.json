@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/virtualEnclaves/workloads/read",
+  "OperationName": "Workload_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "virtualEnclaves/workloads",
+  "Description": "Get a WorkloadResource",
+  "IsDataAction": false
+}

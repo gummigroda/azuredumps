@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/runcommands/write",
+  "OperationName": "Install or Update an Azure Arc runcommands",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "runcommands",
+  "Description": "Installs or Updates an Azure Arc runcommands",
+  "IsDataAction": false
+}

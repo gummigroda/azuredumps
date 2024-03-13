@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/clientConnection/send/action",
+  "OperationName": "Send messages to client connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/ClientConnection",
+  "Description": "Send messages directly to a client connection",
+  "IsDataAction": true
+}

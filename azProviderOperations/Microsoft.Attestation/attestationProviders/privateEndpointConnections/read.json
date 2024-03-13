@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/privateEndpointConnections/read",
+  "OperationName": "Private endpoints read operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Private endpoints resource name.",
+  "Description": "Private endpoints read description.",
+  "IsDataAction": false
+}

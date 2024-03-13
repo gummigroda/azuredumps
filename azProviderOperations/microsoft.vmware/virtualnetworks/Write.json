@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualnetworks/Write",
+  "OperationName": "Create/update virtualnetworks resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualnetworks",
+  "Description": "Writes virtualnetworks",
+  "IsDataAction": false
+}

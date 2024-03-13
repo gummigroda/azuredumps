@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetgateways/igwinfos/delete",
+  "OperationName": "igwinfos_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways/igwinfos",
+  "Description": "Delete the igwinfos resource.",
+  "IsDataAction": false
+}

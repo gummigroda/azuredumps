@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/listener/read",
+  "OperationName": "BrokerListener_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker/listener",
+  "Description": "Get a BrokerListenerResource",
+  "IsDataAction": false
+}

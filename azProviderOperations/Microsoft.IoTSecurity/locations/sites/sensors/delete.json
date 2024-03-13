@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/sites/sensors/delete",
+  "OperationName": "Delete IoT Sensors",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Deletes IoT Sensors",
+  "IsDataAction": false
+}

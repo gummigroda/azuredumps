@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/hybridconnectionrelays/read",
+  "OperationName": "Get Web Apps Slots Hybrid Connection Relays",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Hybrid Connection Relays",
+  "Description": "Get Web Apps Slots Hybrid Connection Relays.",
+  "IsDataAction": false
+}

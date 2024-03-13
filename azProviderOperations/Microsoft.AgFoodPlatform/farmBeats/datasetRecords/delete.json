@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/datasetRecords/delete",
+  "OperationName": "Delete AgFoodPlatform Dataset Records resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Dataset Records",
+  "Description": "Deletes an existing AgFoodPlatform Dataset Records resource.",
+  "IsDataAction": true
+}

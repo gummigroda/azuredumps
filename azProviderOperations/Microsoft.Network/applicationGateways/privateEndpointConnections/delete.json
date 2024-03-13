@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/privateEndpointConnections/delete",
+  "OperationName": "Delete Application Gateway PrivateEndpoint Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway Private Endpoint Connection",
+  "Description": "Deletes Application Gateway PrivateEndpoint Connection",
+  "IsDataAction": false
+}

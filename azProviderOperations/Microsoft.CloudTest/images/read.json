@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/images/read",
+  "OperationName": "Read 1ES Image",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "images",
+  "Description": "Reads 1ES images",
+  "IsDataAction": false
+}

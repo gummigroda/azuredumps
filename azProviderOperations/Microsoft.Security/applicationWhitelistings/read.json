@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/applicationWhitelistings/read",
+  "OperationName": "Get App Whitelisting",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "App Whitelistings",
+  "Description": "Gets the application whitelistings",
+  "IsDataAction": false
+}

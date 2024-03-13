@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dtc/read",
+  "OperationName": "Azure SQL Managed Instance DTC Get/List operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance DTC",
+  "Description": "Gets properties for the specified Azure SQL Managed Instance DTC.",
+  "IsDataAction": false
+}

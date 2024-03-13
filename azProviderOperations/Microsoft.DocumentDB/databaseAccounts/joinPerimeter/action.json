@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/joinPerimeter/action",
+  "OperationName": "Join database account to NSP",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Joins a database account to a Network Security Perimeter",
+  "IsDataAction": false
+}

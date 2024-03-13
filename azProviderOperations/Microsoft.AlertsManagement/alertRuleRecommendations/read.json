@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alertRuleRecommendations/read",
+  "OperationName": "Read the alertRuleRecommendations",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "alertRuleRecommendations",
+  "Description": "Read alertRuleRecommendations",
+  "IsDataAction": false
+}

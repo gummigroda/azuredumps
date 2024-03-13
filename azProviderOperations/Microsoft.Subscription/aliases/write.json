@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/aliases/write",
+  "OperationName": "Create subscription alias",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "Aliases",
+  "Description": "Create subscription alias",
+  "IsDataAction": false
+}

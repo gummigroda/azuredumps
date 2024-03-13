@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/managedcertificateoperationstatuses/read",
+  "OperationName": "Read Managed Certificate Operation Result",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Get a Managed Certificate Long Running Operation Result",
+  "IsDataAction": false
+}

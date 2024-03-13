@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/authenticationsettings/read",
+  "OperationName": "AuthenticationSettings_Get",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/authenticationsettings",
+  "Description": "Get a AuthenticationSetting",
+  "IsDataAction": false
+}

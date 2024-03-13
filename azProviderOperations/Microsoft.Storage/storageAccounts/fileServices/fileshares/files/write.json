@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/write",
+  "OperationName": "Write Files",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Returns the result of writing a file or creating a folder",
+  "IsDataAction": true
+}

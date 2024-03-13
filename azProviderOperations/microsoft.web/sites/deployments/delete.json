@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/deployments/delete",
+  "OperationName": "Delete Web Apps Deployments",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Deployments",
+  "Description": "Delete Web Apps Deployments.",
+  "IsDataAction": false
+}

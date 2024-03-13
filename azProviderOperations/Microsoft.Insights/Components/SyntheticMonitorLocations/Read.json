@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/SyntheticMonitorLocations/Read",
+  "OperationName": "Application Insights webtest locations read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights webtest location",
+  "Description": "Reading Application Insights webtest locations",
+  "IsDataAction": false
+}

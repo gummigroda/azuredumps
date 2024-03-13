@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/privateEndpoints/delete",
+  "OperationName": "Deletes a private endpoint",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB private endpoints",
+  "Description": "Delete a private endpoint",
+  "IsDataAction": false
+}

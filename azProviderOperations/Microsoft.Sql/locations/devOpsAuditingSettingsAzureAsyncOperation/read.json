@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/devOpsAuditingSettingsAzureAsyncOperation/read",
+  "OperationName": "Get server DevOps audit operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server DevOps Audit Operation Results",
+  "Description": "Retrieve result of the server DevOps audit policy Set operation",
+  "IsDataAction": false
+}

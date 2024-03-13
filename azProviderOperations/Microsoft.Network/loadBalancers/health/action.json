@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/health/action",
+  "OperationName": "Get Health Summary of Load Balancer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Get Health Summary of Load Balancer",
+  "IsDataAction": false
+}

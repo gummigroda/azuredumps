@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/pingMeshes/write",
+  "OperationName": "Create PingMesh",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh",
+  "Description": "Creates a PingMesh",
+  "IsDataAction": false
+}

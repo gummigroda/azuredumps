@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/abort/action",
+  "OperationName": "Abort latest operation in managed cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Latest ongoing operation on managed cluster gets aborted",
+  "IsDataAction": false
+}

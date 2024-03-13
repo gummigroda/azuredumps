@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/delete",
+  "OperationName": "Remove Singularity Account",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Account",
+  "Description": "Removes Singularity Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/scale/action",
+  "OperationName": "Verify Scaling of Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Verify if an existing Virtual Machine Scale Set can Scale In/Scale Out to specified instance count",
+  "IsDataAction": false
+}

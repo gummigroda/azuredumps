@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/livez/ping/read",
+  "OperationName": "Gets/List ping resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Ping",
+  "Description": "Reads ping",
+  "IsDataAction": true
+}

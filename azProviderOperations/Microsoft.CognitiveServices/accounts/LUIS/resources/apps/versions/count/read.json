@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/resources/apps/versions/count/read",
+  "OperationName": "resources - GetAppVersionCount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "count*",
+  "Description": "Gets the number of versions of a given application.",
+  "IsDataAction": true
+}

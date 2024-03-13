@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/read",
+  "OperationName": "Read Managed Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Get a Managed Environment",
+  "IsDataAction": false
+}

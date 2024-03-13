@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/VMwareApplications/write",
+  "OperationName": "Create Application",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "Application",
+  "Description": "Creates an application.",
+  "IsDataAction": false
+}

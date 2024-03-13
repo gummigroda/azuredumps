@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsItems/Read",
+  "OperationName": "Application Insights analytics item read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics item",
+  "Description": "Reading an Application Insights analytics item",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/machines/read",
+  "OperationName": "RegistrationHubMachines_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/machines",
+  "Description": "Get properties of the provided registration hub machine.",
+  "IsDataAction": false
+}

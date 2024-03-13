@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/unregister/action",
+  "OperationName": "Un-register Microsoft.ApiManagement resource provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "",
+  "Description": "Un-register subscription for Microsoft.ApiManagement resource provider",
+  "IsDataAction": false
+}

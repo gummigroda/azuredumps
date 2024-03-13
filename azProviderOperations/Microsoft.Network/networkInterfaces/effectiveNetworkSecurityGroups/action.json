@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/effectiveNetworkSecurityGroups/action",
+  "OperationName": "Get Network Interface Effective Security Groups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Get Network Security Groups configured On Network Interface Of The Vm",
+  "IsDataAction": false
+}

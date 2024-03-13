@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/GetAvailableBillingFeatures/Read",
+  "OperationName": "Application Insights component available billing features read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights component available billing features",
+  "Description": "Reading Application Insights component available billing features",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/schedules/delete",
+  "OperationName": "Delete Schedule",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/schedules",
+  "Description": "Delete the schedule.",
+  "IsDataAction": false
+}

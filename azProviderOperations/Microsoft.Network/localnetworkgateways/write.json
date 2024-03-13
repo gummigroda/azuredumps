@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/localnetworkgateways/write",
+  "OperationName": "Create or update LocalNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "LocalNetworkGateway",
+  "Description": "Creates or updates an existing LocalNetworkGateway",
+  "IsDataAction": false
+}

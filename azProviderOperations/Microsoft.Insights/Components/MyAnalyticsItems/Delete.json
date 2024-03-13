@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/MyAnalyticsItems/Delete",
+  "OperationName": "Application Insights personal analytics item delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics item",
+  "Description": "Deleting an Application Insights personal analytics item",
+  "IsDataAction": false
+}

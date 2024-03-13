@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "",
+  "Description": "Unregisters a subscription",
+  "IsDataAction": false
+}

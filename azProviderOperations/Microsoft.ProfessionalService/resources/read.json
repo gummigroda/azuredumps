@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProfessionalService/resources/read",
+  "OperationName": "Get a Professional Service Resources",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "Professional Service Resources",
+  "Description": "Get a Professional Service resource",
+  "IsDataAction": false
+}

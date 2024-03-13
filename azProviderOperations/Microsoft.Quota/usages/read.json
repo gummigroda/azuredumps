@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/usages/read",
+  "OperationName": "Get the usages for providers",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "usages information",
+  "Description": "Get the usages for resource providers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/availableInplaceUpgradeOSs/read",
+  "OperationName": "AvailableInplaceUpgradeOS_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/availableInplaceUpgradeOSs",
+  "Description": "Gets an available In-place Upgrade OS to run a package under a Test Base Account.",
+  "IsDataAction": false
+}

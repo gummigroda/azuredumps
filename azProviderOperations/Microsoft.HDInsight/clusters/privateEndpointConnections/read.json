@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get Private Endpoint Connections for HDInsight Cluster",
+  "IsDataAction": false
+}

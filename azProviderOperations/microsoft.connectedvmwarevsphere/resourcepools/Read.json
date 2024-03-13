@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/resourcepools/Read",
+  "OperationName": "Gets/List resourcepools resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "resourcepools",
+  "Description": "Read resourcepools",
+  "IsDataAction": false
+}

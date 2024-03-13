@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/configServers/read",
+  "OperationName": "Get the Config Server settings of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The config server of Microsoft Azure Spring Apps",
+  "Description": "Get the config server for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

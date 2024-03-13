@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/discoveryrules/read",
+  "OperationName": "DiscoveryRules_Get",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/discoveryrules",
+  "Description": "Get a DiscoveryRule",
+  "IsDataAction": false
+}

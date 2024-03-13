@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/EGNSuccessfulMqttConnections/read",
+  "OperationName": "Read EGNSuccessfulMqttConnections data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "EGNSuccessfulMqttConnections",
+  "Description": "Read data from the EGNSuccessfulMqttConnections table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/products/read",
+  "OperationName": "List/Get Product(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Products",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/write",
+  "OperationName": "Write Cassandra table",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Table",
+  "Description": "Create or update a Cassandra table.",
+  "IsDataAction": false
+}

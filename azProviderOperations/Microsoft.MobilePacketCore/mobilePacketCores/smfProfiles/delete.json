@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/smfProfiles/delete",
+  "OperationName": "SmfProfiles_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/smfProfiles",
+  "Description": "Deletes the specified Mobile Packet Core Session Management Function Profile resource.",
+  "IsDataAction": false
+}

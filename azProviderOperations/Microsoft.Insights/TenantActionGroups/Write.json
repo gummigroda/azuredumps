@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/TenantActionGroups/Write",
+  "OperationName": "Create or update a tenant action group",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Tenant Action Groups",
+  "Description": "Create or update a tenant action group",
+  "IsDataAction": false
+}

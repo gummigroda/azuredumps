@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/galleries/delete",
+  "OperationName": "Galleries_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/galleries",
+  "Description": "Deletes a gallery resource.",
+  "IsDataAction": false
+}

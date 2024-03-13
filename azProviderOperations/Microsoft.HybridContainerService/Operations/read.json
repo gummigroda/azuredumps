@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/networking.k8s.io/networkpolicies/delete",
+  "OperationName": "Deletes/DeletesCollection networkpolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "networkpolicies",
+  "Description": "Deletes networkpolicies",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/verifyhostingenvironmentvnet/action",
+  "OperationName": "Verify Hosting Environment Vnet",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "",
+  "Description": "Verify Hosting Environment Vnet.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/global/training-config-versions/read",
+  "OperationName": "Models_GetTrainingConfigVersions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "training-config-versions*",
+  "Description": "List all training config versions.",
+  "IsDataAction": true
+}

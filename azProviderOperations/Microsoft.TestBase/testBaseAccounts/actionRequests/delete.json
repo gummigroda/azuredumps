@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/actionRequests/delete",
+  "OperationName": "ActionRequests_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/actionRequests",
+  "Description": "Delete (revoke) an action request. Only requests in review can be deleted.",
+  "IsDataAction": false
+}

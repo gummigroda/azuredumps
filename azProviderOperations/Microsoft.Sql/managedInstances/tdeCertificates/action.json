@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/tdeCertificates/action",
+  "OperationName": "Update Azure SQL Server TDE Certificate",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Create/Update TDE certificate",
+  "IsDataAction": false
+}

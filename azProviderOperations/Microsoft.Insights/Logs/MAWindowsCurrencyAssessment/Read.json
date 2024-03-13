@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAWindowsCurrencyAssessment/Read",
+  "OperationName": "Read MAWindowsCurrencyAssessment data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAWindowsCurrencyAssessment",
+  "Description": "Read data from the MAWindowsCurrencyAssessment table",
+  "IsDataAction": false
+}

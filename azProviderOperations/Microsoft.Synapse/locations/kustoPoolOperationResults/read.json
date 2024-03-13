@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/locations/kustoPoolOperationResults/read",
+  "OperationName": "Read operations resources",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Operations resource type",
+  "Description": "Reads operations resources",
+  "IsDataAction": false
+}

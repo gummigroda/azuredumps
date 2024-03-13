@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AGWFirewallLogs/read",
+  "OperationName": "Read AGWFirewallLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AGWFirewallLogs",
+  "Description": "Read data from the AGWFirewallLogs table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Notify Network Security Perimeter Updates Available",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "",
+  "Description": "Receive network security perimeter update notifications.",
+  "IsDataAction": false
+}

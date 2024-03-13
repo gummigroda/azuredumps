@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationStorageClassifications/replicationStorageClassificationMappings/delete",
+  "OperationName": "Delete Storage Classification Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Storage Classification Mappings",
+  "Description": "Delete any Storage Classification Mappings",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/packetDetectionRules/write",
+  "OperationName": "PacketDetectionRules_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/packetDetectionRules",
+  "Description": "Creates or updates a Mobile Packet Core Packet Detection Rule resource",
+  "IsDataAction": false
+}

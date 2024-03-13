@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/migrateV1ToV2/action",
+  "OperationName": "Migrate Application Gateway V1 To V2",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Migrate Application Gateway from v1 sku to v2 sku",
+  "IsDataAction": false
+}

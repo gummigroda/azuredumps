@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/operations/read",
+  "OperationName": null,
+  "ProviderNamespace": "",
+  "ResourceName": "Available REST operations",
+  "Description": null,
+  "IsDataAction": false
+}

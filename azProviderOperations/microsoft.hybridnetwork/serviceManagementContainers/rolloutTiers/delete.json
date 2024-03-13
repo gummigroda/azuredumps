@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/rolloutTiers/delete",
+  "OperationName": "RolloutTiers_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/rolloutTiers",
+  "Description": "delete rolloutTiers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingPolicies/read",
+  "OperationName": "Read Streaming Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Policy",
+  "Description": "Read any Streaming Policy",
+  "IsDataAction": false
+}

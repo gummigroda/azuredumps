@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/decrypt/action",
+  "OperationName": "Decrypt with Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Decrypts ciphertext with a key.",
+  "IsDataAction": true
+}

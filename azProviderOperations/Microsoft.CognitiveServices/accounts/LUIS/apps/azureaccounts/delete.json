@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/azureaccounts/delete",
+  "OperationName": "Apps - Removes an assigned LUIS Azure account from an application",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Azure accounts",
+  "Description": "Gets the LUIS Azure accounts for the user using his ARM token.",
+  "IsDataAction": true
+}

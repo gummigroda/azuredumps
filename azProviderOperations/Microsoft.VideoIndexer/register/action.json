@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/register/action",
+  "OperationName": "Register the Microsoft.VideoIndexer",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.VideoIndexer",
+  "IsDataAction": false
+}

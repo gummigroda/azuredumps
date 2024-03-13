@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/rulesets/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "RuleSet",
+  "Description": null,
+  "IsDataAction": false
+}

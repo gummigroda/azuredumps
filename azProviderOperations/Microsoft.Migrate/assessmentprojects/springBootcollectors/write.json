@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootcollectors/write",
+  "OperationName": "Create or update springBoot Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Collectors",
+  "Description": "Creates a springBoot Collector or updates an existing springBoot Collector",
+  "IsDataAction": false
+}

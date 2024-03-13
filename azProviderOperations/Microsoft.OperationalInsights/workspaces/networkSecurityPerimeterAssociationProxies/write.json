@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Write Network Security Perimeter Association Proxies",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NetworkSecurityPerimeterAssociationProxies",
+  "Description": "Write Network Security Perimeter Association Proxies",
+  "IsDataAction": false
+}

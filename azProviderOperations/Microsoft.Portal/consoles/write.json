@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/consoles/write",
+  "OperationName": "Create Cloud Shell",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Consoles",
+  "Description": "Create or update a Cloud Shell instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/write",
+  "OperationName": "Create Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Creates a new workspace or links to an existing workspace by providing the customer id from the existing workspace.",
+  "IsDataAction": false
+}

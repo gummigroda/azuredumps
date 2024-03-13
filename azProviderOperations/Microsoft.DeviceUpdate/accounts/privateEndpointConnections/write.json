@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/write",
+  "OperationName": "Create/Update Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection",
+  "Description": "Creates or updates a Device Update Private Endpoint Connection",
+  "IsDataAction": false
+}

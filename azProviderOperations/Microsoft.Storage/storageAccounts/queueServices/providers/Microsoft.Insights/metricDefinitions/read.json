@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get list of Microsoft Storage Metrics definitions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Queue service",
+  "Description": "Get list of Microsoft Storage Metrics definitions.",
+  "IsDataAction": false
+}

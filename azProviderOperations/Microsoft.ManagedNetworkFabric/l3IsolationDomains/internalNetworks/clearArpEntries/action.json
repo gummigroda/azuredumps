@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/internalNetworks/clearArpEntries/action",
+  "OperationName": "InternalNetworks_clearArpEntries",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/internalNetworks",
+  "Description": "clearArpEntries for internalNetwork.",
+  "IsDataAction": false
+}

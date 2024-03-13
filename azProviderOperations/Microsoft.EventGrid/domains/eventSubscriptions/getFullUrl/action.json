@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/eventSubscriptions/getFullUrl/action",
+  "OperationName": "Get FullUrl of Domain EventSubscription",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Get full url for the Domain event subscription",
+  "IsDataAction": false
+}

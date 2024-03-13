@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootcollectors/read",
+  "OperationName": "Get springBoot Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Collectors",
+  "Description": "Gets the properties of the springBoot Collector",
+  "IsDataAction": false
+}

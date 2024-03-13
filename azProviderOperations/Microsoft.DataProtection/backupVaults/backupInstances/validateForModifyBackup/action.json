@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/validateForModifyBackup/action",
+  "OperationName": "Validate for modification of Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Validates for modification of Backup Instance",
+  "IsDataAction": false
+}

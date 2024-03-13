@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/blocklists/delete",
+  "OperationName": "Delete Text Blocklist By blocklistName",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Blocklists",
+  "Description": "Deletes a text blocklist.",
+  "IsDataAction": true
+}

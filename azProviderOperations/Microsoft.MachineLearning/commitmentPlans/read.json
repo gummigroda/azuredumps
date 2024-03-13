@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/commitmentPlans/read",
+  "OperationName": "Read Machine Learning Commitment Plan",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Commitment Plan",
+  "Description": "Read any Machine Learning Commitment Plan",
+  "IsDataAction": false
+}

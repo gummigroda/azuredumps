@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/providers/Microsoft.Insights/MetricDefinitions/Read",
+  "OperationName": "Read metric definitions",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metric Definitions",
+  "Description": "Read metric definitions",
+  "IsDataAction": false
+}

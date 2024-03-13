@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/contentKeyPolicies/delete",
+  "OperationName": "Delete Content Key Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Content Key Policy",
+  "Description": "Delete any Content Key Policy",
+  "IsDataAction": false
+}

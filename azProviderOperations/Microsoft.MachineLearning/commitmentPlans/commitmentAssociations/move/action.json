@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/commitmentPlans/commitmentAssociations/move/action",
+  "OperationName": "Move Machine Learning Commitment Plan Association",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Commitment Plan Association",
+  "Description": "Move any Machine Learning Commitment Plan Association",
+  "IsDataAction": false
+}

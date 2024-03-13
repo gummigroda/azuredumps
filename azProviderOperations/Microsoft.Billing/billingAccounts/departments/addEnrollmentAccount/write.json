@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/departments/addEnrollmentAccount/write",
+  "OperationName": "Add an Enrollment Account",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Add Enrollment Account",
+  "Description": null,
+  "IsDataAction": false
+}

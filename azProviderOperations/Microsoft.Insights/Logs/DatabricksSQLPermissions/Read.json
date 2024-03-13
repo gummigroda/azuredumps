@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DatabricksSQLPermissions/Read",
+  "OperationName": "Read DatabricksSQLPermissions data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DatabricksSQLPermissions",
+  "Description": "Read data from the DatabricksSQLPermissions table",
+  "IsDataAction": false
+}

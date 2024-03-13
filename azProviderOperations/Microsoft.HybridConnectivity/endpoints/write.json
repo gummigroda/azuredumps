@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/write",
+  "OperationName": "Endpoints_Update",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Update the endpoint to the target resource.",
+  "IsDataAction": false
+}

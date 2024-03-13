@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/queryFlowLogStatus/action",
+  "OperationName": "Query Flow Log Status",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Gets the status of flow logging on a resource.",
+  "IsDataAction": false
+}

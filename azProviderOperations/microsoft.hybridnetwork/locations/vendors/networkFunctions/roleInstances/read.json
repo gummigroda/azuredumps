@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/roleInstances/read",
+  "OperationName": "RoleInstances_List",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions/roleInstances",
+  "Description": "Lists the information of role instances of vendor network function.",
+  "IsDataAction": false
+}

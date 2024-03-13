@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/sourcecontrols/Delete",
+  "OperationName": "Delete Web App Source Control Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Delete Web App's source control configuration settings",
+  "IsDataAction": false
+}

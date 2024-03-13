@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/keys/listkeys/Action",
+  "OperationName": "Get IotDps Keys for key name",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get IotDps Keys for key name",
+  "IsDataAction": false
+}

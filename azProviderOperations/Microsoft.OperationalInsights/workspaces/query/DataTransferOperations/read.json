@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DataTransferOperations/read",
+  "OperationName": "Read DataTransferOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DataTransferOperations",
+  "Description": "Read data from the DataTransferOperations table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/operationResults/read",
+  "OperationName": "Check Operation Result",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Long Run Operation Result",
+  "Description": "Check the result of a long run operation",
+  "IsDataAction": false
+}

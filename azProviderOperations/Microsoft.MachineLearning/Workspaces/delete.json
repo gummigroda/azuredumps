@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/Workspaces/delete",
+  "OperationName": "Delete Machine Learning Workspace",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Workspace",
+  "Description": "Delete any Machine Learning Workspace",
+  "IsDataAction": false
+}

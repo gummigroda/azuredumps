@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/write",
+  "OperationName": "Put blob service properties",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Services",
+  "Description": "Returns the result of put blob service properties",
+  "IsDataAction": false
+}

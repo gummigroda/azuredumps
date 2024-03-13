@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/configurationGroupValues/write",
+  "OperationName": "configurationGroupValues_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "configurationGroupValues",
+  "Description": "Updates a hybrid configuration group tags.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/setvpnclientipsecparameters/action",
+  "OperationName": "Set Vpnclient Ipsec parameters for VirtualNetworkGateway P2S client.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Set Vpnclient Ipsec parameters for VirtualNetworkGateway P2S client.",
+  "IsDataAction": false
+}

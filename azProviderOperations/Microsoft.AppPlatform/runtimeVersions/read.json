@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/runtimeVersions/read",
+  "OperationName": "Get runtime versions in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "RuntimeVersions",
+  "Description": "Get runtime versions of Microsoft Azure Spring Apps",
+  "IsDataAction": false
+}

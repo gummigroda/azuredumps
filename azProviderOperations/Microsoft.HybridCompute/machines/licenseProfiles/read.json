@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/licenseProfiles/read",
+  "OperationName": "Read Azure Arc licenseProfiles",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "licenseProfiles",
+  "Description": "Reads any Azure Arc licenseProfiles",
+  "IsDataAction": false
+}

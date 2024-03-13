@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/targets/delete",
+  "OperationName": "Targets_Delete",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/targets",
+  "Description": "delete targets",
+  "IsDataAction": false
+}

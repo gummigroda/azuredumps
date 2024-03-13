@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/listActiveSecurityUserRules/read",
+  "OperationName": "List Active Security User Rules Permission",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Permission for calling List Active Security User Rules operation. This read permission, not listActiveSecurityUserRules/action, is required to call List Active Security User Rules.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/serialPorts/write",
+  "OperationName": "Enable/Disable Serial Port",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Enable or disable access to the serial port",
+  "IsDataAction": false
+}

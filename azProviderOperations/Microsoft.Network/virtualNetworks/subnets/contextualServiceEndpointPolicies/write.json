@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/contextualServiceEndpointPolicies/write",
+  "OperationName": "Create or update ContextualServiceEndpointPolicy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Contextual Service Endpoint Policies",
+  "Description": "Creates a Contextual Service Endpoint Policy or updates an existing Contextual Service Endpoint Policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/budgets/write",
+  "OperationName": "Create and update budgets",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Budgets",
+  "Description": "Creates and update the budgets by a subscription or a management group.",
+  "IsDataAction": false
+}

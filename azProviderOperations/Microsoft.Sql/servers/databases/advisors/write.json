@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/advisors/write",
+  "OperationName": "Update auto-execute status of a database advisor",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Advisor",
+  "Description": "Update auto-execute status of an advisor on database level.",
+  "IsDataAction": false
+}

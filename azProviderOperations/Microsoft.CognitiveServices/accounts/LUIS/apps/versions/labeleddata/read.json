@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/labeleddata/read",
+  "OperationName": "bot - FetchLabeledData",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "labeleddata*",
+  "Description": "Gets the labeled data for the specified application",
+  "IsDataAction": true
+}

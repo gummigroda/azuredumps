@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read",
+  "OperationName": "Get ResourceGuards in a Resource Group",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Guards",
+  "Description": "Gets list of ResourceGuards in a Resource Group",
+  "IsDataAction": false
+}

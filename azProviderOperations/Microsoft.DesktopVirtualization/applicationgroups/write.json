@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/write",
+  "OperationName": "Write applicationgroups",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Write applicationgroups",
+  "IsDataAction": false
+}

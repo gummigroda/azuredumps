@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs/read",
+  "OperationName": "Get Backup Resource Encryption Config",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Encryption Config",
+  "Description": "Gets Backup Resource Encryption Configuration.",
+  "IsDataAction": false
+}

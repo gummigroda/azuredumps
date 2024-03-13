@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/sites/delete",
+  "OperationName": "Sites_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/sites",
+  "Description": "Deletes the specified mobile network site. This will also delete any network functions that are a part of this site.",
+  "IsDataAction": false
+}

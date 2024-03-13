@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/steps/read",
+  "OperationName": "Get build step or List build steps.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the properties of the specified build step or lists all the build steps for the specified build task.",
+  "IsDataAction": false
+}

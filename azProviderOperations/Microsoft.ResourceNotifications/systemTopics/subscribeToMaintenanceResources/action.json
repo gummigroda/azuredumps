@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceNotifications/systemTopics/subscribeToMaintenanceResources/action",
+  "OperationName": "Permission subscribeToMaintenanceResources granted",
+  "ProviderNamespace": "Microsoft Resource Notifications",
+  "ResourceName": "Permission",
+  "Description": "Permission to perform creation and event subscription creation on a MaintenanceResources system topic",
+  "IsDataAction": false
+}

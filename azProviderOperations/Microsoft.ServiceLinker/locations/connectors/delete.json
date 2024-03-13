@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/connectors/delete",
+  "OperationName": "Connector_Delete",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/connectors",
+  "Description": "Delete a Connector.",
+  "IsDataAction": false
+}

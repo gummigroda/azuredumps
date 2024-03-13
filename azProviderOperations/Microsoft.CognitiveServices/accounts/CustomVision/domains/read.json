@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/domains/read",
+  "OperationName": "GetDomain|GetDomains*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "domains*",
+  "Description": "Get information about a specific domain.\r\nGet a list of the available domains.*",
+  "IsDataAction": true
+}

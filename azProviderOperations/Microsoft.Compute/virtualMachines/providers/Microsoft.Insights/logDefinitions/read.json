@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Virtual Machine log definitions",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "The log definition of Virtual Machine",
+  "Description": "Gets the available logs for Virtual Machine.",
+  "IsDataAction": false
+}

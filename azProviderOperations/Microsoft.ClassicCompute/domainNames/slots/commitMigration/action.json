@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/commitMigration/action",
+  "OperationName": "Commit Migration of a Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Commits migration of a deployment slot.",
+  "IsDataAction": false
+}

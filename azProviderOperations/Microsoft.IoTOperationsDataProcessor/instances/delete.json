@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/delete",
+  "OperationName": "Instances_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances",
+  "Description": "Delete a Instance",
+  "IsDataAction": false
+}

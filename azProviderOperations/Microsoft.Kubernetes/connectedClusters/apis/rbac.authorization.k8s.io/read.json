@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/rbac.authorization.k8s.io/read",
+  "OperationName": "Gets/List rbac.authorization.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "rbac.authorization.k8s.io",
+  "Description": "Reads rbac.authorization.k8s.io",
+  "IsDataAction": true
+}

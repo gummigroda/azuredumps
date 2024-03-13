@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/documentProcessors/write",
+  "OperationName": "DocumentProcessor_Update",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "documentProcessors",
+  "Description": "Updates a document processor resource for a given name.",
+  "IsDataAction": false
+}

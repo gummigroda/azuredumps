@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/backupPolicies/write",
+  "OperationName": "Write backup policy resource.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Backup Policy resource type",
+  "Description": "Writes a backup policy resource.",
+  "IsDataAction": false
+}

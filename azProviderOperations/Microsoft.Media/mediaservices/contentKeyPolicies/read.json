@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/contentKeyPolicies/read",
+  "OperationName": "Read Content Key Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Content Key Policy",
+  "Description": "Read any Content Key Policy",
+  "IsDataAction": false
+}

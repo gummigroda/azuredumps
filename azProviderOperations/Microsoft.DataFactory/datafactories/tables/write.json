@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/tables/write",
+  "OperationName": "Create or Update Dataset",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Dataset",
+  "Description": "Creates or Updates any Dataset.",
+  "IsDataAction": false
+}

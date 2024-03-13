@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/serviceArtifacts/delete",
+  "OperationName": "Delete Gallery Service Artifact",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryServiceArtifacts",
+  "Description": "Deletes the Gallery Service Artifact",
+  "IsDataAction": false
+}

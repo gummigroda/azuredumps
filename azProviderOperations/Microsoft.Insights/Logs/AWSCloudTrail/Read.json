@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AWSCloudTrail/Read",
+  "OperationName": "Read AWSCloudTrail data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AWSCloudTrail",
+  "Description": "Read data from the AWSCloudTrail table",
+  "IsDataAction": false
+}

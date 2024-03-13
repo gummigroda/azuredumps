@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/updateManagementPatchJob/read",
+  "OperationName": "Gets an Azure Automation update management patch job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation update management patch job resource type",
+  "Description": "Gets an Azure Automation update management patch job",
+  "IsDataAction": false
+}

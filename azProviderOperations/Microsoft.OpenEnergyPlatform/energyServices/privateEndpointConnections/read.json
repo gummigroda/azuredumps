@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnections/read",
+  "OperationName": "PrivateEndpointConnections_Get",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnections",
+  "Description": "Get the specified private endpoint connection associated with the OAK Instance.",
+  "IsDataAction": false
+}

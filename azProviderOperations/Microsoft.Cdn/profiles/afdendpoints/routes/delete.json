@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/afdendpoints/routes/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Route",
+  "Description": null,
+  "IsDataAction": false
+}

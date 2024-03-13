@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Usage/Read",
+  "OperationName": "Read Usage data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Usage",
+  "Description": "Read data from the Usage table",
+  "IsDataAction": false
+}

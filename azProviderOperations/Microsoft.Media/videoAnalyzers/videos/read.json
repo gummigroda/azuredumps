@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/videos/read",
+  "OperationName": "Read Video",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Resource",
+  "Description": "Read any Video",
+  "IsDataAction": false
+}

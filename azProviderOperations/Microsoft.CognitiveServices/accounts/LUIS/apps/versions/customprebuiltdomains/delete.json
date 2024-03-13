@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltdomains/delete",
+  "OperationName": "Delete custom prebuilt domain",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domains",
+  "Description": "Deletes a prebuilt domain's models from the application version.",
+  "IsDataAction": true
+}

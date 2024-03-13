@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/endpoints/files/logs/delete",
+  "OperationName": "Delete some or all custom model endpoint logs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Logs",
+  "Description": "Delete some or all custom model endpoint logs",
+  "IsDataAction": true
+}

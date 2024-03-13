@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apis/apps/v1beta2/read",
+  "OperationName": "Gets/List apps/v1beta2 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Apps/V1beta2",
+  "Description": "Reads apps/v1beta2",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/remoteConfigurations/read",
+  "OperationName": "Get remote configuration",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Remote Configurations",
+  "Description": "Gets remote configuration",
+  "IsDataAction": false
+}

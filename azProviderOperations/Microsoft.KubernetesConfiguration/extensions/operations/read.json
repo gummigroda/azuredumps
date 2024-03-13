@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/extensions/operations/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/extensions/operations/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/extensions",
+  "Description": "Gets Async Operation status.",
+  "IsDataAction": false
+}

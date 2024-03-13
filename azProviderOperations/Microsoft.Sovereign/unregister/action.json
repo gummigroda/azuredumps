@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/unregister/action",
+  "OperationName": "Unregister the Microsoft.Sovereign",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Sovereign",
+  "IsDataAction": false
+}

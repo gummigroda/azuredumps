@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/operations/read",
+  "OperationName": "Read Operations",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read All Operations",
+  "IsDataAction": false
+}

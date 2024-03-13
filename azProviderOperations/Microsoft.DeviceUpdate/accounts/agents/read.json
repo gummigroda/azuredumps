@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/agents/read",
+  "OperationName": "Get/List Agent",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Agent",
+  "Description": "Returns the list of Device Update Agents",
+  "IsDataAction": false
+}

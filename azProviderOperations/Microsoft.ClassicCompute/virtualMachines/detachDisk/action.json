@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/detachDisk/action",
+  "OperationName": "Detach Data Disk",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Detaches a data disk from virtual machine.",
+  "IsDataAction": false
+}

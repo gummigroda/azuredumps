@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/write",
+  "OperationName": "Write account resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Accounts resource type",
+  "Description": "Writes an account resource.",
+  "IsDataAction": false
+}

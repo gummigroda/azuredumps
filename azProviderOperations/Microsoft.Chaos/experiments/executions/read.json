@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/experiments/executions/read",
+  "OperationName": "Gets all Chaos Experiment executions.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Chaos Experiment Execution",
+  "Description": "Gets all chaos experiment executions for a given chaos experiment.",
+  "IsDataAction": false
+}

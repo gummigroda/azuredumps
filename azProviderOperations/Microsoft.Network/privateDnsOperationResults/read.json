@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsOperationResults/read",
+  "OperationName": "Gets results of a Private DNS operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS operation results",
+  "Description": "Gets results of a Private DNS operation",
+  "IsDataAction": false
+}

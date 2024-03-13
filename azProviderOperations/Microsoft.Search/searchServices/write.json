@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/write",
+  "OperationName": "Set Search Service",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Creates or updates the search service.",
+  "IsDataAction": false
+}

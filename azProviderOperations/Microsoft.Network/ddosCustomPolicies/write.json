@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosCustomPolicies/write",
+  "OperationName": "Create or Update a DDoS customized policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS customized Policy",
+  "Description": "Creates a DDoS customized policy or updates an existing DDoS customized policy",
+  "IsDataAction": false
+}

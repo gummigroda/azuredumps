@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Operations",
+  "Description": "Get Operations",
+  "IsDataAction": false
+}

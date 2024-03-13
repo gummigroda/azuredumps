@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oracleAssessments/downloadurl/action",
+  "OperationName": "Get oracle AssessmentReport",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Assessments",
+  "Description": "Get Blob SAS URI for the oracle AssessmentReport",
+  "IsDataAction": false
+}

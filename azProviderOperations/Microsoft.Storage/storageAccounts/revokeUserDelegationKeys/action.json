@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/revokeUserDelegationKeys/action",
+  "OperationName": "Revoke Storage Account User Delegation Keys",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Revokes all the user delegation keys for the specified storage account.",
+  "IsDataAction": false
+}

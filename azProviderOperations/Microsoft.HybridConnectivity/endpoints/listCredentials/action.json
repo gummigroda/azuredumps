@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/listCredentials/action",
+  "OperationName": "Endpoints_ListCredentials",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Gets the endpoint access credentials to the resource.",
+  "IsDataAction": false
+}

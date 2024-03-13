@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/getConfiguration/action",
+  "OperationName": "Get self-hosted gateway configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "Fetches configuration for specified self-hosted gateway",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/restorePoints/delete",
+  "OperationName": "Delete Object Replication Restore Point",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Restore Point",
+  "Description": "Delete object replication restore point",
+  "IsDataAction": false
+}

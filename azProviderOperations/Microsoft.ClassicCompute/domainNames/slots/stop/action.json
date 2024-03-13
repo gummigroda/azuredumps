@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/stop/action",
+  "OperationName": "Suspend Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Suspends the deployment slot.",
+  "IsDataAction": false
+}

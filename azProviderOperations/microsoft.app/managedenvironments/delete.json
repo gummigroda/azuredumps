@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/delete",
+  "OperationName": "Delete Managed Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Delete a Managed Environment",
+  "IsDataAction": false
+}

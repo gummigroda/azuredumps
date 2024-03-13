@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/operationresults/read",
+  "OperationName": "Read Operation Result",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "",
+  "Description": "Get a Long Running Operation Result",
+  "IsDataAction": false
+}

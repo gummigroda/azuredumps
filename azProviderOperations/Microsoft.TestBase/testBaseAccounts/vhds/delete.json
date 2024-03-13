@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/vhds/delete",
+  "OperationName": "VHDs_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/vhds",
+  "Description": "Deletes a Test Base VHD.",
+  "IsDataAction": false
+}

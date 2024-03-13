@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/regenerateSecondaryKey/action",
+  "OperationName": "Regenerate secondary key",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Regenerate secondary access key",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/delete",
+  "OperationName": "Removes issue",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API issues",
+  "Description": "Deletes the specified Issue from an API.",
+  "IsDataAction": false
+}

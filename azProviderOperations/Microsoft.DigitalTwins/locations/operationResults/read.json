@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/locations/operationResults/read",
+  "OperationName": "Read Operation Result",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Operation Result",
+  "Description": "Read any Operation Result",
+  "IsDataAction": false
+}

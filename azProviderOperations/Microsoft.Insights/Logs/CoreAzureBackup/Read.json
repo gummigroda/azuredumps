@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/CoreAzureBackup/Read",
+  "OperationName": "Read CoreAzureBackup data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "CoreAzureBackup",
+  "Description": "Read data from the CoreAzureBackup table",
+  "IsDataAction": false
+}

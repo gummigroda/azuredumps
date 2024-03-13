@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/listAppServices/action",
+  "OperationName": "List App services",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all the app services that have NewRelic agent installed",
+  "IsDataAction": false
+}

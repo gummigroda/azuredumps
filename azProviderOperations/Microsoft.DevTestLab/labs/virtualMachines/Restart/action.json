@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/Restart/action",
+  "OperationName": "Restart virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Restart a virtual machine.",
+  "IsDataAction": false
+}

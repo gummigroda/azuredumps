@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/expressRouteConnections/delete",
+  "OperationName": "Delete Express Route Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Connection",
+  "Description": "Deletes an Express Route Connection",
+  "IsDataAction": false
+}

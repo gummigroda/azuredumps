@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Register/Action",
+  "OperationName": "Registers the Azure Stack HCI Resource Provider",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Azure Stack HCI resource provider and enables the creation of Azure Stack HCI resources.",
+  "IsDataAction": false
+}

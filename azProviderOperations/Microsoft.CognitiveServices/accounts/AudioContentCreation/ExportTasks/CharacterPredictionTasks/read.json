@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/CharacterPredictionTasks/read",
+  "OperationName": "Query ACC predict ssml content type tasks.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Character prediction tasks",
+  "Description": "Query ACC predict ssml content type tasks.",
+  "IsDataAction": true
+}

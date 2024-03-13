@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/plantTissueAnalyses/write",
+  "OperationName": "Create or Update AgFoodPlatform plant tissue analyses.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform plant tissue analyses",
+  "Description": "Creates or Updates AgFoodPlatform plant tissue analyses.",
+  "IsDataAction": true
+}

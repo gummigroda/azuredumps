@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/stopManagedInstanceOperationResults/read",
+  "OperationName": "Get Azure SQL Managed Instance Stop operation result.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Gets Azure SQL Managed Instance Stop operation result.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/register/action",
+  "OperationName": "Registers NewRelic.Observability Resource provider",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "",
+  "Description": "Registers NewRelic.Observability Resource provider",
+  "IsDataAction": false
+}

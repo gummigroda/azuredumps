@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/updateAdministrativeState/action",
+  "OperationName": "L3IsolationDomains_updateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Enables racks for this Isolation Domain.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/settings/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write collection throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Collection throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Update a collection throughput. Only applicable to API types: 'mongodb'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

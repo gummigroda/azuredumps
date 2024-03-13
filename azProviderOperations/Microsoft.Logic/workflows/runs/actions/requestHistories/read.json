@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/runs/actions/requestHistories/read",
+  "OperationName": "Gets the workflow run action request history",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow run action request history",
+  "Description": "Reads the workflow run action request history.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataConnectors/delete",
+  "OperationName": "DataConnector_Delete",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataConnectors",
+  "Description": "Delete a DataConnectors",
+  "IsDataAction": false
+}

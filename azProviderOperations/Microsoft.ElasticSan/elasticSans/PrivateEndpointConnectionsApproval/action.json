@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/PrivateEndpointConnectionsApproval/action",
+  "OperationName": null,
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Elastic Sans",
+  "Description": null,
+  "IsDataAction": false
+}

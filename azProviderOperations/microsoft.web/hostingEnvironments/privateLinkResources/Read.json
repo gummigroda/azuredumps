@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/privateLinkResources/Read",
+  "OperationName": "Get Private Link Resources",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Get Private Link Resources.",
+  "IsDataAction": false
+}

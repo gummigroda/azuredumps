@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/privateEndpointConnectionsApproval/action",
+  "OperationName": "Private Endpoint Connections Approval",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server",
+  "Description": "Determines if user is allowed to approve a private endpoint connection",
+  "IsDataAction": false
+}

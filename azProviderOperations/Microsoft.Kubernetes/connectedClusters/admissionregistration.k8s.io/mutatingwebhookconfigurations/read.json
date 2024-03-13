@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/mutatingwebhookconfigurations/read",
+  "OperationName": "Gets/List mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "mutatingwebhookconfigurations",
+  "Description": "Reads mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

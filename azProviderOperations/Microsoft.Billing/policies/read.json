@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/policies/read",
+  "OperationName": "Get policies of a subscription",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Policies",
+  "Description": null,
+  "IsDataAction": false
+}

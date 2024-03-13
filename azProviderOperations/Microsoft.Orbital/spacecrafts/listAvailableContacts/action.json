@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/listAvailableContacts/action",
+  "OperationName": "List Available Contacts for Spacecraft",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Spacecrafts",
+  "Description": "List time windows during which a Spacecraft is visible and available for contact",
+  "IsDataAction": false
+}

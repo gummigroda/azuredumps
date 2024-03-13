@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/checknameavailability/action",
+  "OperationName": "Checks Account Name Availability",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "",
+  "Description": "Checks code signing account name availability globally.",
+  "IsDataAction": false
+}

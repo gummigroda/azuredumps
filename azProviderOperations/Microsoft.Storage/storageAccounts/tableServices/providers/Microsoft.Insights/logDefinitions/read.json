@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definition",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Table Service",
+  "Description": "Gets the log definition for Table",
+  "IsDataAction": false
+}

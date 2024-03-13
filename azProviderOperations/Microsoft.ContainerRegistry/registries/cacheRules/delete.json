@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/cacheRules/delete",
+  "OperationName": "Delete cache rule",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CacheRules",
+  "Description": "Deletes a cache rule from a container registry",
+  "IsDataAction": false
+}

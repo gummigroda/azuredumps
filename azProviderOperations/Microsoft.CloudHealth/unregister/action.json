@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/unregister/action",
+  "OperationName": "Unregister the Microsoft.CloudHealth",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.CloudHealth",
+  "IsDataAction": false
+}

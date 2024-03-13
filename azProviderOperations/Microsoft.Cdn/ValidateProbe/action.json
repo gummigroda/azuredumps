@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/ValidateProbe/action",
+  "OperationName": "ValidateProbe",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

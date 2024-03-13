@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/CNAME/delete",
+  "OperationName": "Delete record set of type CNAME",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS CNAME record set",
+  "Description": "Remove the record set of a given name and type ‘CNAME’ from a Private DNS zone.",
+  "IsDataAction": false
+}

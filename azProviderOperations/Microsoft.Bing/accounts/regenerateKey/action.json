@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/regenerateKey/action",
+  "OperationName": "Regenerate Account Key",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "Regenerate a key for an account",
+  "IsDataAction": false
+}

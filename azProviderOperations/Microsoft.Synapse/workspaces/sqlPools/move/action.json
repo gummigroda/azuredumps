@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/move/action",
+  "OperationName": "Rename SQL Analytics pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pools",
+  "Description": "Rename any SQL Analytics pools.",
+  "IsDataAction": false
+}

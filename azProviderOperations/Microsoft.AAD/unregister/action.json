@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/unregister/action",
+  "OperationName": "Unregister Domain Service",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "",
+  "Description": "Unregister Domain Service",
+  "IsDataAction": false
+}

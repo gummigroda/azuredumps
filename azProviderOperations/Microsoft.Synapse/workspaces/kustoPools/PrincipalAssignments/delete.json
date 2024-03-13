@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments/delete",
+  "OperationName": "Delete a Cluster principal assignments resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Cluster principal assignments resource type",
+  "Description": "Deletes a Cluster principal assignments resource.",
+  "IsDataAction": false
+}

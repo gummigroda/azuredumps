@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/externalNetworks/updateStaticRouteBfdAdministrativeState/action",
+  "OperationName": "ExternalNetworks_UpdateStaticRouteBfdAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/externalNetworks",
+  "Description": "Update Static Route BFD for external Network.",
+  "IsDataAction": false
+}

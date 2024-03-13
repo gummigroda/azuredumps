@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/delete",
+  "OperationName": "Delete Domain Service",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Domain Service Type",
+  "Description": "Delete Domain Service",
+  "IsDataAction": false
+}

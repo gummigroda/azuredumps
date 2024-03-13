@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/externalConnections/delete",
+  "OperationName": "ExternalConnections_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "externalConnections",
+  "Description": "Delete a ExternalConnection",
+  "IsDataAction": false
+}

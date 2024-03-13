@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipCommunityLists/delete",
+  "OperationName": "IpCommunityLists_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipCommunityLists",
+  "Description": "Implements Ip Community List DELETE method.",
+  "IsDataAction": false
+}

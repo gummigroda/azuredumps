@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes:querybytext/action",
+  "OperationName": "SearchByText",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Performs a text-based search on the specified index.",
+  "IsDataAction": true
+}

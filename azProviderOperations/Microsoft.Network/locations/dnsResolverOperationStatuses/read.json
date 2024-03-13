@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/dnsResolverOperationStatuses/read",
+  "OperationName": "Get status of a DNS Resolver operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver operation status",
+  "Description": "Gets status of a DNS Resolver operation",
+  "IsDataAction": false
+}

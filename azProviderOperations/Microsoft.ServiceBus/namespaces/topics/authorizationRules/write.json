@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/authorizationRules/write",
+  "OperationName": "Create or Update Topic Authorization Rule",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Topic AuthorizationRules",
+  "Description": "Create Topic Authorization Rules and Update its properties. The Authorization Rules Access Rights can be updated.",
+  "IsDataAction": false
+}

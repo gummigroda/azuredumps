@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/snapshots/write",
+  "OperationName": "Snapshot - Update",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "snapshots*",
+  "Description": "Update properties of a snapshot.",
+  "IsDataAction": true
+}

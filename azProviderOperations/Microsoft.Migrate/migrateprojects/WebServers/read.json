@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/WebServers/read",
+  "OperationName": "Gets the properties of a web server",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Web Server",
+  "Description": "Gets the properties of a web server",
+  "IsDataAction": false
+}

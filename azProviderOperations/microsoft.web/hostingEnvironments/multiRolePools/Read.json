@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/multiRolePools/Read",
+  "OperationName": "Get FrontEnd Pool",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment FrontEnd Pool",
+  "Description": "Get the properties of a FrontEnd Pool in an App Service Environment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/instanceFailoverGroups/failover/action",
+  "OperationName": "Failover Azure SQL Database instance failover group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database instance failover group",
+  "Description": "Executes planned failover in an existing instance failover group.",
+  "IsDataAction": false
+}

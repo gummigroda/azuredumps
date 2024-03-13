@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/unregister/action",
+  "OperationName": "Unregister the Microsoft.ManufacturingPlatform",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ManufacturingPlatform",
+  "IsDataAction": false
+}

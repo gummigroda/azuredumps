@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/serverfarms/recommendations/Read",
+  "OperationName": "Get recommendations for App Service Plan",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Recommendation",
+  "Description": "Get the list of recommendations for App Service Plan.",
+  "IsDataAction": false
+}

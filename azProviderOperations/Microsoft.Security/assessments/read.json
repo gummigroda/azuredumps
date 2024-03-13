@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessments/read",
+  "OperationName": "Get assessments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Assessments",
+  "Description": "Get security assessments on your subscription",
+  "IsDataAction": false
+}

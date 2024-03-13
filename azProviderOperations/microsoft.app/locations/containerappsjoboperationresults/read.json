@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/containerappsjoboperationresults/read",
+  "OperationName": "Read Container Apps Job Operation Result",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container Apps Job",
+  "Description": "Get a Container Apps Job Long Running Operation Result",
+  "IsDataAction": false
+}

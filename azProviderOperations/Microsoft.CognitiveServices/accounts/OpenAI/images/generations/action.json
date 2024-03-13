@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/images/generations/action",
+  "OperationName": "Create image generations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Images",
+  "Description": "Create image generations.",
+  "IsDataAction": true
+}

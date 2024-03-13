@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/hsmPools/delete",
+  "OperationName": "Delete HSM pool",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "HSM pool",
+  "Description": "Delete an HSM pool",
+  "IsDataAction": false
+}

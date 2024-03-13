@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/devices/read",
+  "OperationName": "Get or List AgFoodPlatform devices resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform devices",
+  "Description": "Gets or Lists existing AgFoodPlatform devices resource(s).",
+  "IsDataAction": true
+}

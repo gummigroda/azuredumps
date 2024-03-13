@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/imageDefinitions/write",
+  "OperationName": "ImageDefinitions_Create",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/imageDefinitions",
+  "Description": "Create image definition for test base custom images which are derived from 'VHD' source.",
+  "IsDataAction": false
+}

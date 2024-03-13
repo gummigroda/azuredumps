@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/users/uncertainfaces/action",
+  "OperationName": "Face Grouping - Get Uncertain Faces (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "users*",
+  "Description": "Face Grouping - Get Uncertain Faces",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/resources/unassign/action",
+  "OperationName": "Unassign deployment resources",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "resources*",
+  "Description": "Unassign resources from a project. This disallows deploying new deployments to these resources, and deletes existing deployments assigned to them.",
+  "IsDataAction": true
+}

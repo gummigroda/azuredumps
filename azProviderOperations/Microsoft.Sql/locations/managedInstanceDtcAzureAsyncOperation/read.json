@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstanceDtcAzureAsyncOperation/read",
+  "OperationName": "Get Azure SQL Managed Instance DTC Azure async operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance DTC",
+  "Description": "Gets the status of Azure SQL Managed Instance DTC Azure async operation.",
+  "IsDataAction": false
+}

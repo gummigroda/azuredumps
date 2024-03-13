@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/internalPublicIpAddresses/read",
+  "OperationName": "Returns internal public ip addresses in subscription",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Returns internal public ip addresses in subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/rollback/action",
+  "OperationName": "PacketCoreControlPlanes_Rollback",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes",
+  "Description": "Roll back the specified packet core control plane to the previous version, \"rollbackVersion\". Multiple consecutive rollbacks are not possible. This action may cause a service outage.",
+  "IsDataAction": false
+}

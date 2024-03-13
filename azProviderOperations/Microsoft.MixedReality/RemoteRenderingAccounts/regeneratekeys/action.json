@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/regeneratekeys/action",
+  "OperationName": "Regenerate the keys of a remote rendering account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Regenerate the keys of a remote rendering account",
+  "IsDataAction": false
+}

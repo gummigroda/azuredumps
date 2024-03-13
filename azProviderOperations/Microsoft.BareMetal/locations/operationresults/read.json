@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/locations/operationresults/read",
+  "OperationName": null,
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

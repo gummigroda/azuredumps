@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/listGatewayStatus/action",
+  "OperationName": "List the status of the gateway associated with the server",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "List the status of the gateway associated with the server.",
+  "IsDataAction": false
+}

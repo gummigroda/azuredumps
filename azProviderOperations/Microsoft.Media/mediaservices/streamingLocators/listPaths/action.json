@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingLocators/listPaths/action",
+  "OperationName": "List Paths",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Locator",
+  "Description": "List Paths",
+  "IsDataAction": false
+}

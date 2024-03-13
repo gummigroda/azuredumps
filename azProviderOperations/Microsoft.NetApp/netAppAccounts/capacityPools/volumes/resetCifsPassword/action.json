@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/resetCifsPassword/action",
+  "OperationName": "Reset cifs password for volume.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Reset cifs password from specific volume.",
+  "IsDataAction": false
+}

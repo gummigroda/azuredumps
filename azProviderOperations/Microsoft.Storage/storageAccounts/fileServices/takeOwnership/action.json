@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/takeOwnership/action",
+  "OperationName": "File Take Ownership Privilege",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "File Take Ownership Privilege",
+  "IsDataAction": true
+}

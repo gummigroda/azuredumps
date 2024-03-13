@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/managedOnPremZones/updateDownloadLocation/action",
+  "OperationName": "UpdateDownloadLocation",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ManagedOnPremZones",
+  "Description": "Update the downloadLocation of the Managed OnPrem Zone.",
+  "IsDataAction": false
+}

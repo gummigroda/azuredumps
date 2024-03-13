@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/hybridIdentityMetadata/read",
+  "OperationName": "Read Azure Arc machines's Hybrid Identity Metadata",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines/hybridIdentityMetadata",
+  "Description": "Read any Azure Arc machines's Hybrid Identity Metadata",
+  "IsDataAction": false
+}

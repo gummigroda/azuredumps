@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/queryConnectionMonitors/action",
+  "OperationName": "Query Connection Monitors",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Batch query monitoring connectivity between specified endpoints",
+  "IsDataAction": false
+}

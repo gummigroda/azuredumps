@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/metricdefinitions/read",
+  "OperationName": "Get Virtual Machine Metric Definition",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Metric Definitions",
+  "Description": "Get the virtual machine metric definition.",
+  "IsDataAction": false
+}

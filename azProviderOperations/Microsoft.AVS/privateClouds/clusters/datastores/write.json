@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/datastores/write",
+  "OperationName": "Create or update datastore in private cloud cluster",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters/datastores",
+  "Description": "Create or update datastore in private cloud cluster.",
+  "IsDataAction": false
+}

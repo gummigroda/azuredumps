@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/creators/delete",
+  "OperationName": "Delete a Creator.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Creator",
+  "Description": "Delete a Creator.",
+  "IsDataAction": false
+}

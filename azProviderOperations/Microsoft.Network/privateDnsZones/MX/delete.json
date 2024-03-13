@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/MX/delete",
+  "OperationName": "Delete record set of type MX",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS MX record set",
+  "Description": "Remove the record set of a given name and type ‘MX’ from a Private DNS zone.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/experimentationWorkspaces/dataPlaneApplications/exchangeToken/action",
+  "OperationName": "DataPlaneApplications_ExchangeToken",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "experimentationWorkspaces/dataPlaneApplications/exchangeToken",
+  "Description": "The action to exchange Split.IO data plane authentication token.",
+  "IsDataAction": false
+}

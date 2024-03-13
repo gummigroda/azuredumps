@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/read",
+  "OperationName": "View Key Vault",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "View the properties of a key vault",
+  "IsDataAction": false
+}

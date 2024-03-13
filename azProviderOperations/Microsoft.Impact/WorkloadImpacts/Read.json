@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/WorkloadImpacts/Read",
+  "OperationName": "GetsorListWorkloadImpactsresources",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "WorkloadImpacts",
+  "Description": "ReadsWorkloadImpacts",
+  "IsDataAction": false
+}

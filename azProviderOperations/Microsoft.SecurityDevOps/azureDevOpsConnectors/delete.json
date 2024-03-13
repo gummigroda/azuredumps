@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/delete",
+  "OperationName": "AzureDevOpsConnectors_Delete",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors",
+  "Description": "delete azureDevOpsConnectors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/dataNetworks/write",
+  "OperationName": "DataNetworks_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/dataNetworks",
+  "Description": "Creates or updates a Mobile Packet Core Data Network Name resource",
+  "IsDataAction": false
+}

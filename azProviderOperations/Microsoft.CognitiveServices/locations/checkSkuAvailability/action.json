@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/checkSkuAvailability/action",
+  "OperationName": "Reads avaible SKUs for an subscription.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Reads avaible SKUs for an subscription.",
+  "IsDataAction": false
+}

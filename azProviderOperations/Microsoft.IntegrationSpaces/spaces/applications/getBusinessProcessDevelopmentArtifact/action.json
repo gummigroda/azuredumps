@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/getBusinessProcessDevelopmentArtifact/action",
+  "OperationName": "Applications_GetBusinessProcessDevelopmentArtifact",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications",
+  "Description": "The get business process development artifact action.",
+  "IsDataAction": false
+}

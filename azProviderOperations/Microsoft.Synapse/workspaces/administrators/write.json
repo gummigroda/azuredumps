@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/administrators/write",
+  "OperationName": "Set Active Directory Administrator",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Administrators",
+  "Description": "Set Active Directory Administrator on the Workspace",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/startDiagnostics/action",
+  "OperationName": "Start Virtual Network Gateway Diagnostic",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network Gateway",
+  "Description": "Starts diagnositic for the virtual network gateway.",
+  "IsDataAction": false
+}

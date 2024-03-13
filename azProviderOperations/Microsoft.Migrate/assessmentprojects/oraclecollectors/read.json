@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/oraclecollectors/read",
+  "OperationName": "Get oracle Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "oracle Collectors",
+  "Description": "Gets the properties of the oracle Collector",
+  "IsDataAction": false
+}

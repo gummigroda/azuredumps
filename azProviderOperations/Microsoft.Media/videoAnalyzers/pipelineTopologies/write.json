@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineTopologies/write",
+  "OperationName": "Create or Update Pipeline Topology",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Topology Resource",
+  "Description": "Create or Update any Pipeline Topology",
+  "IsDataAction": false
+}

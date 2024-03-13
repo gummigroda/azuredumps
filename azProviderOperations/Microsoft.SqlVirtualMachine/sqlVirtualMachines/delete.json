@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/delete",
+  "OperationName": "Delete existing SQL virtual machine",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Delete existing SQL virtual machine",
+  "IsDataAction": false
+}

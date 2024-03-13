@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/operation/read",
+  "OperationName": "Gets operation status on the vault",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Vaults",
+  "Description": "Gets operation status of any vault",
+  "IsDataAction": false
+}

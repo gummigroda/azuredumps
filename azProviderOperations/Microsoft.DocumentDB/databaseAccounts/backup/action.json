@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/backup/action",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/backup/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Submit a request to configure backup",
+  "IsDataAction": false
+}

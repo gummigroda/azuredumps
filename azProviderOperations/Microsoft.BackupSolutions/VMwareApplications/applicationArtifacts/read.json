@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/VMwareApplications/applicationArtifacts/read",
+  "OperationName": "List application artifacts",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "Application",
+  "Description": "Lists application artifacts.",
+  "IsDataAction": false
+}

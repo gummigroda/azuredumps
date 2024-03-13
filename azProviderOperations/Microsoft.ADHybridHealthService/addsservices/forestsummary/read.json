@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/forestsummary/read",
+  "OperationName": "Gets forest summary.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets forest summary for the given forest like forest name, number of domains under this forest, number of sites and sites details etc.",
+  "IsDataAction": false
+}

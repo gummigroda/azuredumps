@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/privateEndpointConnections/read",
+  "OperationName": "Get Application Gateway Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway Private Endpoint Connection",
+  "Description": "Gets Application Gateway PrivateEndpoint Connections",
+  "IsDataAction": false
+}

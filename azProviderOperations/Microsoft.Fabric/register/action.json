@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/register/action",
+  "OperationName": "Register Fabric resource provider",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "",
+  "Description": "Registers Fabric resource provider.",
+  "IsDataAction": false
+}

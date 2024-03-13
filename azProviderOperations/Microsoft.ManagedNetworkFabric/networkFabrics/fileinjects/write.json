@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/fileinjects/write",
+  "OperationName": "FileInjects_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/fileinjects",
+  "Description": "Create a FileInject resource.",
+  "IsDataAction": false
+}

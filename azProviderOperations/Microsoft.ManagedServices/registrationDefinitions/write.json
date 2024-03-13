@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationDefinitions/write",
+  "OperationName": "Add Managed Services Registration Definition",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Definition",
+  "Description": "Add or modify Managed Services registration definition.",
+  "IsDataAction": false
+}

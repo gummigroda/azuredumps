@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/tapConfigurations/delete",
+  "OperationName": "Delete Network Interface Tap Configuration.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration.",
+  "Description": "Deletes a Network Interface Tap Configuration.",
+  "IsDataAction": false
+}

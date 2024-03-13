@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/trackingAreas/delete",
+  "OperationName": "TrackingAreas_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas/trackingAreas",
+  "Description": "Deletes the specified Mobile Packet Core tracking area resource.",
+  "IsDataAction": false
+}

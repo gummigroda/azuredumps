@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/pauseReplication/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Migration Items",
+  "Description": null,
+  "IsDataAction": false
+}

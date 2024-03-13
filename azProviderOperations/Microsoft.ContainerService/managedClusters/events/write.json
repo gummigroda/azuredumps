@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/events/write",
+  "OperationName": "Creates/Updates events resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Events",
+  "Description": "Writes events",
+  "IsDataAction": true
+}

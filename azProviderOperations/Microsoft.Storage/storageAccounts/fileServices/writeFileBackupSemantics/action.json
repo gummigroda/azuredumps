@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/writeFileBackupSemantics/action",
+  "OperationName": "Write File Backup Sematics Privilege",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Write File Backup Sematics Privilege",
+  "IsDataAction": true
+}

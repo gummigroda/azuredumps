@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/origingroups/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdOriginGroup",
+  "Description": null,
+  "IsDataAction": false
+}

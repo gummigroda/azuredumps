@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/connections/confirmconsentcode/action",
+  "OperationName": "Confirm Connections Consent Code",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Confirm Connections Consent Code.",
+  "IsDataAction": false
+}

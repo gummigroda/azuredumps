@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/simGroups/write",
+  "OperationName": "SimGroups_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "simGroups",
+  "Description": "Patch SIM group resource.",
+  "IsDataAction": false
+}

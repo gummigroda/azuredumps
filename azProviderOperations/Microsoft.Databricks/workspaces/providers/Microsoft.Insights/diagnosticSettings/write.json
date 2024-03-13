@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Databricks workspace diagnostic settings",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Add or modify diagnostics settings.",
+  "IsDataAction": false
+}

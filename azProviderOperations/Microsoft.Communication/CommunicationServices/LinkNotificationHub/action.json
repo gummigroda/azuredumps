@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/LinkNotificationHub/action",
+  "OperationName": "Link an Azure Notification Hub to the communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Links an Azure Notification Hub to the communication service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/resourceTypes/read",
+  "OperationName": "resourceTypes",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "resourceTypes",
+  "Description": "Read resourceTypes",
+  "IsDataAction": false
+}

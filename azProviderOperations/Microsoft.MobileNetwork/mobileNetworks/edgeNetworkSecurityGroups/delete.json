@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/edgeNetworkSecurityGroups/delete",
+  "OperationName": "EdgeNetworkSecurityGroups_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/edgeNetworkSecurityGroups",
+  "Description": "Deletes the specified Edge Network Security Group.",
+  "IsDataAction": false
+}

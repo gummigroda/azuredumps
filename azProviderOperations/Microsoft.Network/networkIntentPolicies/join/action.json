@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkIntentPolicies/join/action",
+  "OperationName": "Joins Network Intent Policy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Intent Policy",
+  "Description": "Joins a Network Intent Policy. Not alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/read",
+  "OperationName": "Read Tenant",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Tenants",
+  "Description": "Reads the specified Power BI Tenant.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/delete",
+  "OperationName": "Delete application version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Deletes an application version.",
+  "IsDataAction": true
+}

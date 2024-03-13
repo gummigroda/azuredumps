@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

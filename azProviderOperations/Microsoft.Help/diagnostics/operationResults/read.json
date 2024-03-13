@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/diagnostics/operationResults/read",
+  "OperationName": "Get diagnostic operation results",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "Diagnostics/OperationResults",
+  "Description": "Gets the result of the asynchronous diagnostic operation",
+  "IsDataAction": false
+}

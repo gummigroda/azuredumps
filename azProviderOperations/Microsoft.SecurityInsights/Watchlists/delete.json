@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Watchlists/delete",
+  "OperationName": "Delete Watchlists",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Watchlists",
+  "Description": "Deletes Watchlists",
+  "IsDataAction": false
+}

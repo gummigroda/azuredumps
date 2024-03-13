@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/configurationGroupSchemas/updateState/action",
+  "OperationName": "ConfigurationGroupSchemas_updateState",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/configurationGroupSchemas",
+  "Description": "Update configuration group schema state.",
+  "IsDataAction": false
+}

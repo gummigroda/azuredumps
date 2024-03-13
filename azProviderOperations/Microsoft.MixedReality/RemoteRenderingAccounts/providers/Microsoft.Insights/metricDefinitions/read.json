@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/remoteRenderingAccounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read the remoteRenderingAccounts metric definitions",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "The metric definition of remoteRenderingAccounts",
+  "Description": "Gets the available metrics for Microsoft.MixedReality/remoteRenderingAccounts",
+  "IsDataAction": false
+}

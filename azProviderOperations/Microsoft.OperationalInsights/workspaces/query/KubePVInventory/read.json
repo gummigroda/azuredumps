@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/KubePVInventory/read",
+  "OperationName": "Read KubePVInventory data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "KubePVInventory",
+  "Description": "Read data from the KubePVInventory table",
+  "IsDataAction": false
+}

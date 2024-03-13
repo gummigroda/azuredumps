@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/histories/read",
+  "OperationName": "GetHistories",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Histories",
+  "Description": "Generic query report API for endpoint billing history, model training hours history etc.",
+  "IsDataAction": true
+}

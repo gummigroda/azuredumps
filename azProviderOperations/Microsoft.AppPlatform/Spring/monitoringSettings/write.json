@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/monitoringSettings/write",
+  "OperationName": "Update the monitoring settings of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The monitoring setting of Microsoft Azure Spring Apps",
+  "Description": "Create or update the monitoring setting for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

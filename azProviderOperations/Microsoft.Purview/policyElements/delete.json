@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/policyElements/delete",
+  "OperationName": "Delete Policy Element",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Policy element",
+  "Description": "Delete Policy Element.",
+  "IsDataAction": true
+}

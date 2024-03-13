@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/backup/Action",
+  "OperationName": "Create Web App Slot Backup",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Create new Web App Slot backup.",
+  "IsDataAction": false
+}

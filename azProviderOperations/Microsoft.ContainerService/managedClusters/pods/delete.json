@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/pods/delete",
+  "OperationName": "Deletes/DeletesCollection pods resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Pods",
+  "Description": "Deletes pods",
+  "IsDataAction": true
+}

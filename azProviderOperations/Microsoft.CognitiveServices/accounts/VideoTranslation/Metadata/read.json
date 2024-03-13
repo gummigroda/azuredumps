@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/Metadata/read",
+  "OperationName": "Query video translation metadata.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video translation metadata.",
+  "Description": "Query video translation metadata.",
+  "IsDataAction": true
+}

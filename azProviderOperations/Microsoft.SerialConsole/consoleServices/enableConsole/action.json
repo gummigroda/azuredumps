@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/consoleServices/enableConsole/action",
+  "OperationName": "Enable Console",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Enable Serial Console for a subscription",
+  "IsDataAction": false
+}

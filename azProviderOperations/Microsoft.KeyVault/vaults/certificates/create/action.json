@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/create/action",
+  "OperationName": "Create Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Creates a new certificate. If the certificate does not exist, the first version is created. Otherwise, a new version is created.",
+  "IsDataAction": true
+}

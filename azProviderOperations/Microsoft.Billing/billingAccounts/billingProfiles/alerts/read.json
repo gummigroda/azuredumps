@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/alerts/read",
+  "OperationName": "Alerts_ListByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Alerts",
+  "Description": "Lists the alerts for a billing profile. The operation is supported for billing accounts with agreement type Microsoft Customer Agreement and Microsoft Partner Agreement.",
+  "IsDataAction": false
+}

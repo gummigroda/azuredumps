@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/fine-tunes/delete",
+  "OperationName": "Delete Fine-tunes",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Fine-tunes",
+  "Description": "Delete the adaptation of a model.",
+  "IsDataAction": true
+}

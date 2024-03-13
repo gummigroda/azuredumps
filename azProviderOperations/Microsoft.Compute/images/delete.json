@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/images/delete",
+  "OperationName": "Delete Image",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Images",
+  "Description": "Deletes the image",
+  "IsDataAction": false
+}

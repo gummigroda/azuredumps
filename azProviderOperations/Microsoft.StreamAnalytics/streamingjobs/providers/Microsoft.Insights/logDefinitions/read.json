@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read streamingjobs log definitions",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "The log definition of streamingjobs",
+  "Description": "Gets the available logs for streamingjobs",
+  "IsDataAction": false
+}

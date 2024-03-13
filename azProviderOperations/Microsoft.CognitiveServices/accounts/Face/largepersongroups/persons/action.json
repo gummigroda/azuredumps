@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/persons/action",
+  "OperationName": "LargePersonGroup Person - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largepersongroups*",
+  "Description": "Create a new person in a specified large person group. To add face to this person, please call",
+  "IsDataAction": true
+}

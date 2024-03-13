@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/write",
+  "OperationName": "Write portMirroringProfiles",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/portMirroringProfiles",
+  "Description": "Write portMirroringProfiles.",
+  "IsDataAction": false
+}

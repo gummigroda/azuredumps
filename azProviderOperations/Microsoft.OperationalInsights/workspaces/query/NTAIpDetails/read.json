@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NTAIpDetails/read",
+  "OperationName": "Read NTAIpDetails data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NTAIpDetails",
+  "Description": "Read data from the NTAIpDetails table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/deallocate/action",
+  "OperationName": "Deallocate Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Powers off the virtual machine and releases the compute resources",
+  "IsDataAction": false
+}

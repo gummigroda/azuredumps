@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/devboxdefinitions/delete",
+  "OperationName": "DevBoxDefinitions_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/devboxdefinitions",
+  "Description": "Deletes a Dev Box definition",
+  "IsDataAction": false
+}

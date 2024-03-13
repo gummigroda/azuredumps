@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/instanceView/read",
+  "OperationName": "Get Virtual Machine Instance View",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Instance View",
+  "Description": "Gets the detailed runtime status of the virtual machine and its resources",
+  "IsDataAction": false
+}

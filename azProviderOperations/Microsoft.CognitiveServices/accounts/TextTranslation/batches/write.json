@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/batches/write",
+  "OperationName": "Submit Document Translation Request",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Translation Requests Operations",
+  "Description": "Submit a bulk (batch) translation request to the Document Translation service.",
+  "IsDataAction": true
+}

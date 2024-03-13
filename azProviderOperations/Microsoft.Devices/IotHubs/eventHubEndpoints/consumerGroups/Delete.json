@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventHubEndpoints/consumerGroups/Delete",
+  "OperationName": "Delete EventHub Consumer Group",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Delete EventHub Consumer Group",
+  "IsDataAction": false
+}

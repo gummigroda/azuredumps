@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/tags/operationLinks/delete",
+  "OperationName": "Remove Tag-operation link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tag-operation links resource",
+  "Description": "Delete Tag-operation link.",
+  "IsDataAction": false
+}

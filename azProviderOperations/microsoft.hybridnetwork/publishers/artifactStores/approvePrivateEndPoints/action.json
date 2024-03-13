@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/approvePrivateEndPoints/action",
+  "OperationName": "ArtifactStores_ApprovePrivateEndPoints",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Approve private endpoints connected to artifact store.",
+  "IsDataAction": false
+}

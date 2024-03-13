@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/evaluations/action",
+  "OperationName": "Creates Evaluation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "Creates a new evaluation.",
+  "IsDataAction": true
+}

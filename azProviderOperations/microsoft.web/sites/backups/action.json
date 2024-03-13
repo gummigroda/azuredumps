@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/backups/action",
+  "OperationName": "Discovers an existing app backup",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Discovers an existing app backup that can be restored from a blob in Azure storage.",
+  "IsDataAction": false
+}

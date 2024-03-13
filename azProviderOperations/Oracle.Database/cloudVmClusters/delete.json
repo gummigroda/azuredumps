@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/delete",
+  "OperationName": "CloudVmClusters_Delete",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters",
+  "Description": "Delete a CloudVmCluster",
+  "IsDataAction": false
+}

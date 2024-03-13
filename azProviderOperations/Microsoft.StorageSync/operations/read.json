@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/operations/read",
+  "OperationName": "Gets the Supported Operations",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Supported Operations",
+  "Description": "Gets a list of the Supported Operations",
+  "IsDataAction": false
+}

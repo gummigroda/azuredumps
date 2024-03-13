@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SQLAssessmentRecommendation/read",
+  "OperationName": "Read SQLAssessmentRecommendation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SQLAssessmentRecommendation",
+  "Description": "Read data from the SQLAssessmentRecommendation table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/set/action",
+  "OperationName": "Set Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Creates or updates the definition of a managed storage account.",
+  "IsDataAction": true
+}

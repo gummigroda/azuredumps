@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/hostGroups/read",
+  "OperationName": "Get Host Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Host Groups",
+  "Description": "Get the properties of a host group",
+  "IsDataAction": false
+}

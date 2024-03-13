@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkServiceDesignGroups/read",
+  "OperationName": "networkServiceDesignGroups_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkServiceDesignGroups",
+  "Description": "Gets information about the specified networkServiceDesign group.",
+  "IsDataAction": false
+}

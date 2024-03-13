@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/write",
+  "OperationName": "Create or Update vCenters",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "vCenters",
+  "Description": "Create or Update any vCenters",
+  "IsDataAction": false
+}

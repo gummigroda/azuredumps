@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/UnClaim/action",
+  "OperationName": "Unclaim a virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Release ownership of an existing virtual machine",
+  "IsDataAction": false
+}

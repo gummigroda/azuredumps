@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppEnvSpringAppConsoleLogs/read",
+  "OperationName": "Read AppEnvSpringAppConsoleLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppEnvSpringAppConsoleLogs",
+  "Description": "Read data from the AppEnvSpringAppConsoleLogs table",
+  "IsDataAction": false
+}

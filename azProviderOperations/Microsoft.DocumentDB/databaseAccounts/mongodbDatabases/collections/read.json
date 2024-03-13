@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/read",
+  "OperationName": "Read MongoDB collection(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Collection",
+  "Description": "Read a MongoDB collection or list all the MongoDB collections.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Private Endpoint requests. This call is made by Backup Admin.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Approve or Reject Private Endpoint requests. This call is made by Backup Admin.",
+  "IsDataAction": false
+}

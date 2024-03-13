@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/unregister/action",
+  "OperationName": "Unregister the Microsoft.FluidRelay",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.FluidRelay",
+  "IsDataAction": false
+}

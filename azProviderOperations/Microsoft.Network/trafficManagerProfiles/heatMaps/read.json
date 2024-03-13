@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/heatMaps/read",
+  "OperationName": "Get Traffic Manager Heat Map",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Heat Map",
+  "Description": "Gets the Traffic Manager Heat Map for the given Traffic Manager profile which contains query counts and latency data by location and source IP.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/resourcepools/Write",
+  "OperationName": "Create/update resourcepools resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "resourcepools",
+  "Description": "Writes resourcepools",
+  "IsDataAction": false
+}

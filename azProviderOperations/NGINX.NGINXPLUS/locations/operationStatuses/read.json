@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

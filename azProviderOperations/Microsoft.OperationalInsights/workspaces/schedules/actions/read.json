@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/schedules/actions/read",
+  "OperationName": "Get Management Configuration Action",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Action",
+  "Description": "Get Management Configuration action.",
+  "IsDataAction": false
+}

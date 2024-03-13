@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationNetworks/read",
+  "OperationName": "Read Networks",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Networks",
+  "Description": "Read any Networks",
+  "IsDataAction": false
+}

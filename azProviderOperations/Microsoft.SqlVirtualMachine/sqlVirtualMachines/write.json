@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/write",
+  "OperationName": "Create new or update existing SQL virtual machine",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Create a new or change properties of existing SQL virtual machine",
+  "IsDataAction": false
+}

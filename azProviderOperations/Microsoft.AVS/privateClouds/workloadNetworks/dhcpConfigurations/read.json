@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/read",
+  "OperationName": "Read dhcpConfigurations",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dhcpConfigurations",
+  "Description": "Read dhcpConfigurations.",
+  "IsDataAction": false
+}

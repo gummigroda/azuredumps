@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/anyExistingOffersInTheStore/action",
+  "OperationName": "Any existing offers in the collections",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Return true if there is an existing offer for at least one enabled collection",
+  "IsDataAction": false
+}

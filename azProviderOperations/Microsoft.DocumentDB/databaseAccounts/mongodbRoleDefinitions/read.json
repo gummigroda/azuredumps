@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Role Definition",
+  "Description": "Read a MongoDB Role Definition",
+  "IsDataAction": false
+}

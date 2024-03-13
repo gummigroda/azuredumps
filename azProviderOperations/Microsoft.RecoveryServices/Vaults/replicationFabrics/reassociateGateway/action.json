@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/reassociateGateway/action",
+  "OperationName": "Reassociate Gateway",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Reassociate Gateway",
+  "IsDataAction": false
+}

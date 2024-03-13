@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/privateEndpointConnectionProxies/Write",
+  "OperationName": "Put Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/PrivateEndpointConnectionProxies",
+  "Description": "Creates or updates a private endpoint connection proxy",
+  "IsDataAction": false
+}

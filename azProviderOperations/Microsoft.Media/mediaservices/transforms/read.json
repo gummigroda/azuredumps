@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/read",
+  "OperationName": "Read Transform",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Transform",
+  "Description": "Read any Transform",
+  "IsDataAction": false
+}

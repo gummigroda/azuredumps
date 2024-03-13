@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/LogicAppWorkflowRuntime/read",
+  "OperationName": "Read LogicAppWorkflowRuntime data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "LogicAppWorkflowRuntime",
+  "Description": "Read data from the LogicAppWorkflowRuntime table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/elasticVersions/read",
+  "OperationName": "Get elastic versions",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "elasticVersions",
+  "Description": "Get versions",
+  "IsDataAction": false
+}

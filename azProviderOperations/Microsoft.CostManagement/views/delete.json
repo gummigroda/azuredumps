@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/views/delete",
+  "OperationName": "Delete views",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Views",
+  "Description": "Delete saved views.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADeploymentPlan/Read",
+  "OperationName": "Read MADeploymentPlan data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADeploymentPlan",
+  "Description": "Read data from the MADeploymentPlan table",
+  "IsDataAction": false
+}

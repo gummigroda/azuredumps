@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/locations/operationresults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Retrieves the information of the specified operation result.",
+  "IsDataAction": false
+}

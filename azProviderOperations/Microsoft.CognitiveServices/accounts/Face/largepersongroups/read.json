@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/read",
+  "OperationName": "LargePersonGroup - Get|LargePersonGroup - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largepersongroups*",
+  "Description": "Retrieve the information of a large person group, including its name, userData and recognitionModel. This API returns large person group information\r\nList all existing large person groups��s largePersonGroupId, name, userData and recognitionModel.*",
+  "IsDataAction": true
+}

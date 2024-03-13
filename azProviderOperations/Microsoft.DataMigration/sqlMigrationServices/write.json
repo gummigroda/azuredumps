@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/write",
+  "OperationName": "Create or update properties of existing Service",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "SQL Migration Service",
+  "Description": "Create a new or change properties of existing Service",
+  "IsDataAction": false
+}

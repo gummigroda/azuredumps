@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/reservationRecommendations/read",
+  "OperationName": "List reserved instances recommendations",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "ReservationRecommendations",
+  "Description": "List single or shared recommendations for Reserved instances for a subscription.",
+  "IsDataAction": false
+}

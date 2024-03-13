@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/delete",
+  "OperationName": "SqlServerAvailabilityGroups_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "Deletes an Arc Sql Server availability group resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/Locations/OperationStatuses/read",
+  "OperationName": "OperationStatuses_Get",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "OperationStatuses",
+  "Description": "Reads the status of an async operation",
+  "IsDataAction": false
+}

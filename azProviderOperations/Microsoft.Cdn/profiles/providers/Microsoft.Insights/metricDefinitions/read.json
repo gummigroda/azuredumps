@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read profiles metrics definitions",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "The metric definition of profiles",
+  "Description": "Gets the available metrics for Microsoft.Cdn",
+  "IsDataAction": false
+}

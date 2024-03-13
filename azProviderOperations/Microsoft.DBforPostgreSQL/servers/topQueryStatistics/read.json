@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/topQueryStatistics/read",
+  "OperationName": "List/Get Query Statistic(s) for top queries",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Top Query Statistics",
+  "Description": "Return the list of Query Statistics for the top queries.",
+  "IsDataAction": false
+}

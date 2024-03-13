@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/read",
+  "OperationName": "Knowledgebase - Get Details|Knowledgebase - List All",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Gets List of Knowledgebases or details of a specific knowledgebaser.",
+  "IsDataAction": true
+}

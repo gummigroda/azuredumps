@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/getUploadUri/action",
+  "OperationName": "chambers_GetUploadUri",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "getUploadUri chambers",
+  "IsDataAction": false
+}

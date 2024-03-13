@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/schedules/delete",
+  "OperationName": "Delete an Azure Automation schedule asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Schedule Asset",
+  "Description": "Deletes an Azure Automation schedule asset",
+  "IsDataAction": false
+}

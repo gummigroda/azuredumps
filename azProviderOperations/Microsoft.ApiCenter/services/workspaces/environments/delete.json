@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/environments/delete",
+  "OperationName": "Delete environment",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiEnvironment",
+  "Description": "Deletes specified environment.",
+  "IsDataAction": false
+}

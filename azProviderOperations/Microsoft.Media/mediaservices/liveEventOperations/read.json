@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEventOperations/read",
+  "OperationName": "Read Live Event Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Event Operation",
+  "Description": "Read any Live Event Operation",
+  "IsDataAction": false
+}

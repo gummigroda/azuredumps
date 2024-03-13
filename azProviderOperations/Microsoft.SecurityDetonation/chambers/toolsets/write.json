@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/toolsets/write",
+  "OperationName": "Toolsets Write",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Toolsets",
+  "Description": "Allows adding or modifying toolsets",
+  "IsDataAction": true
+}

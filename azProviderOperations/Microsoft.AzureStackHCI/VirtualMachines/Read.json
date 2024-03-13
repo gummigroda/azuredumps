@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachines/Read",
+  "OperationName": "Gets/Lists virtual machine resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachines",
+  "Description": "Gets/Lists virtual machine resource",
+  "IsDataAction": false
+}

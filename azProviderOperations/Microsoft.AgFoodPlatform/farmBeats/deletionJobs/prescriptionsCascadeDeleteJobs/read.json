@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/prescriptionsCascadeDeleteJobs/read",
+  "OperationName": "Get or List AgFoodPlatform prescriptionsCascadeDeleteJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform prescriptionsCascadeDeleteJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform prescriptionsCascadeDeleteJobs resource(s).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/read",
+  "OperationName": "Get a database table.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Table",
+  "Description": "Get a database table.",
+  "IsDataAction": false
+}

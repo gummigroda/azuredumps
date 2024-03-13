@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/workspaceManagerAssignments/jobs/delete",
+  "OperationName": "Delete WorkspaceManagerAssignments jobs",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerAssignments jobs",
+  "Description": "Deletes WorkspaceManagerAssignments jobs",
+  "IsDataAction": false
+}

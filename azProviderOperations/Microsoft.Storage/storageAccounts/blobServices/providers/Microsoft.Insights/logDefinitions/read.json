@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definition",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Blob Service",
+  "Description": "Gets the log definition for Blob",
+  "IsDataAction": false
+}

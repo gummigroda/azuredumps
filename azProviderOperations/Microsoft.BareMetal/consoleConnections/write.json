@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/consoleConnections/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "ConsoleConnection",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

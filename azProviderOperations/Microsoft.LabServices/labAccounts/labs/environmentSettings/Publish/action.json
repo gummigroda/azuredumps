@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/Publish/action",
+  "OperationName": "Publishes changes to an environment setting based on changes made to lab/environment setting",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Provisions/deprovisions required resources for an environment setting based on current state of the lab/environment setting.",
+  "IsDataAction": false
+}

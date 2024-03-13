@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/usageModels/read",
+  "OperationName": "List usage models",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Usage models",
+  "Description": "Lists available usage models for NFS storage targets in this cache",
+  "IsDataAction": false
+}

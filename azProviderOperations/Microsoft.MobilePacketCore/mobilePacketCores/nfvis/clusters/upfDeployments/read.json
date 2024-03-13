@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/upfDeployments/read",
+  "OperationName": "UpfDeployments_ListByCluster",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/upfDeployments",
+  "Description": "Lists all the User Plane Function Deployments in a cluster.",
+  "IsDataAction": false
+}

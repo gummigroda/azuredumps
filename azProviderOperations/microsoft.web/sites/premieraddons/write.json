@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/premieraddons/write",
+  "OperationName": "Update Web Apps Premier Addons",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Premier Addons",
+  "Description": "Update Web Apps Premier Addons.",
+  "IsDataAction": false
+}

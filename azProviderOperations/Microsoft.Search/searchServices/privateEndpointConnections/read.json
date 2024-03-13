@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Returns the list of private endpoint connections or gets the properties for the specified private endpoint connections",
+  "IsDataAction": false
+}

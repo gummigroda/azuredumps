@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/resources/apps/count/read",
+  "OperationName": "resources - GetApplicationCount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "count*",
+  "Description": "Gets the number of applications owned by the user.",
+  "IsDataAction": true
+}

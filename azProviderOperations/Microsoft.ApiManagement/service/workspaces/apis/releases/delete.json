@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/releases/delete",
+  "OperationName": "Removes all releases of the API or Delete API release",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace API releases",
+  "Description": "Removes all releases of the API or Deletes the specified release in the API.",
+  "IsDataAction": false
+}

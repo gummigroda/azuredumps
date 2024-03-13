@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/locations/operationStatuses/write",
+  "OperationName": "Update operation statuses",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "OperationStatus",
+  "Description": "Update operation statuses",
+  "IsDataAction": false
+}

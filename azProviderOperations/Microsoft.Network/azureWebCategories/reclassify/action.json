@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureWebCategories/reclassify/action",
+  "OperationName": "Reclassify WebCategory",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure WebCategories",
+  "Description": "Reclassifies WebCategory",
+  "IsDataAction": false
+}

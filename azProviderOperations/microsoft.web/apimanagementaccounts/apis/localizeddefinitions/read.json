@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/localizeddefinitions/read",
+  "OperationName": "Get Api Management Accounts APIs Localized Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Localized Definitions",
+  "Description": "Get Api Management Accounts APIs Localized Definitions.",
+  "IsDataAction": false
+}

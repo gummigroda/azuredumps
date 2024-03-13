@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/connections/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read connections log definitions",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Gets the available logs for <Name of the resource>",
+  "IsDataAction": false
+}

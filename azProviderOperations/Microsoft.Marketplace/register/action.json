@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/register/action",
+  "OperationName": "Registers Microsoft.Marketplace resource provider in the subscription.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Registers Microsoft.Marketplace resource provider in the subscription.",
+  "IsDataAction": false
+}

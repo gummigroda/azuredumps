@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/getFileUploadUrl/action",
+  "OperationName": "TestBaseAccounts_GetFileUploadUrl",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts",
+  "Description": "Gets the file upload URL of a Test Base Account.",
+  "IsDataAction": false
+}

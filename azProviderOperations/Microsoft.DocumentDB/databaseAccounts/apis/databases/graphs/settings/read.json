@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read graph throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Graph throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read a graph throughput. Only applicable to API types: 'gremlin'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

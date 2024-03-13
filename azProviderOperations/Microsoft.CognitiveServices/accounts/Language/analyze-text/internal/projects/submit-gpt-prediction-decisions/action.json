@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/submit-gpt-prediction-decisions/action",
+  "OperationName": "AnalyzeText_Internal_GPT_TriggerSubmitGptPredictionDecisionsJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Trigger job to submit decisions on accepting, rejecting, or modifying GPT predictions.",
+  "IsDataAction": true
+}

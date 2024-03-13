@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/threads/messages/write",
+  "OperationName": "Create assistant thread message",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Create assistant thread message.",
+  "IsDataAction": true
+}

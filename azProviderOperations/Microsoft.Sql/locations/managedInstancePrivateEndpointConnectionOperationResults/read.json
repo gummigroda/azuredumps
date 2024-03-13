@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstancePrivateEndpointConnectionOperationResults/read",
+  "OperationName": "Get private endpoint connection operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection",
+  "Description": "Gets the result for a private endpoint connection operation",
+  "IsDataAction": false
+}

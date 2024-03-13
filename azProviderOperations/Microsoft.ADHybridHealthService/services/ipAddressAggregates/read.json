@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/ipAddressAggregates/read",
+  "OperationName": "Reads ipAddressAggregates.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Reads the bad IPs which attempted to access the service.",
+  "IsDataAction": false
+}

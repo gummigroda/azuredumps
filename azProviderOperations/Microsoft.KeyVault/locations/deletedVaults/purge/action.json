@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/deletedVaults/purge/action",
+  "OperationName": "Purge Soft Deleted Key Vault",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Soft Deleted Key Vault",
+  "Description": "Purge a soft deleted key vault",
+  "IsDataAction": false
+}

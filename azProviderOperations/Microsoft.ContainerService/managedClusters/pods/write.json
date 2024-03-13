@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/pods/write",
+  "OperationName": "Creates/Updates pods resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Pods",
+  "Description": "Writes pods",
+  "IsDataAction": true
+}

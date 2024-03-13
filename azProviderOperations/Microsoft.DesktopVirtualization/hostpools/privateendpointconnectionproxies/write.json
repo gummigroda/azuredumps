@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/privateendpointconnectionproxies/write",
+  "OperationName": "Write hostpools/privateendpointconnectionproxies",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/privateendpointconnectionproxies",
+  "Description": "Write hostpools/privateendpointconnectionproxies",
+  "IsDataAction": false
+}

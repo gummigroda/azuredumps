@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Batch service log definitions",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Account Log Definitions",
+  "Description": "Gets the available logs for the Batch service",
+  "IsDataAction": false
+}

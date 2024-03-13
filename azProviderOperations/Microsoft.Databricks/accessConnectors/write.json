@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/accessConnectors/write",
+  "OperationName": "Create Azure Databricks Access Connector",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "AccessConnector",
+  "Description": "Creates an Azure Databricks Access Connector",
+  "IsDataAction": false
+}

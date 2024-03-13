@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrincipalAssignments/write",
+  "OperationName": "Write a Cluster principal assignments resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Cluster principal assignments resource type",
+  "Description": "Writes a Cluster principal assignments resource.",
+  "IsDataAction": false
+}

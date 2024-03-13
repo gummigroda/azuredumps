@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/read",
+  "OperationName": "Check API exists",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "APIs",
+  "Description": "Checks if specified API exists.",
+  "IsDataAction": false
+}

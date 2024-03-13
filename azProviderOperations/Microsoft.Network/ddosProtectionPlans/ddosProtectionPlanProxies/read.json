@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/ddosProtectionPlanProxies/read",
+  "OperationName": "Get DDoS Protection Plan Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan Proxy",
+  "Description": "Gets a DDoS Protection Plan Proxy definition",
+  "IsDataAction": false
+}

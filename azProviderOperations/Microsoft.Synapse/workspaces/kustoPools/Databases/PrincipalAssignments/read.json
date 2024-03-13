@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Databases/PrincipalAssignments/read",
+  "OperationName": "Read a database principal assignments resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Database principal assignments resource type",
+  "Description": "Reads a database principal assignments resource.",
+  "IsDataAction": false
+}

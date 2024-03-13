@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SecurityRecommendation/Read",
+  "OperationName": "Read SecurityRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SecurityRecommendation",
+  "Description": "Read data from the SecurityRecommendation table",
+  "IsDataAction": false
+}

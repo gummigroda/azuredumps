@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policySetDefinitions/delete",
+  "OperationName": "Delete policy set definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy set definition",
+  "Description": "Delete a policy set definition.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/capture/action",
+  "OperationName": "Capture Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Captures the virtual machine by copying virtual hard disks and generates a template that can be used to create similar virtual machines",
+  "IsDataAction": false
+}

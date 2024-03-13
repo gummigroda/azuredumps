@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/importcollectors/write",
+  "OperationName": "Create or Update Import collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Import Collector",
+  "Description": "Creates a new Import collector or updates an existing Import collector",
+  "IsDataAction": false
+}

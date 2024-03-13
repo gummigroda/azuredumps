@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "Updates Azure Arc privateEndpointConnectionProxies with updated Private Endpoint details",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Updates an Azure Arc privateEndpointConnectionProxies with updated Private Endpoint details",
+  "IsDataAction": false
+}

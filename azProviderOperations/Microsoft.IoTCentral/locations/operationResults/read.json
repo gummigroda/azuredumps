@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/locations/operationResults/read",
+  "OperationName": "Get async operation results",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "locations/operationResults",
+  "Description": "Get async operation results for IoT Central",
+  "IsDataAction": false
+}

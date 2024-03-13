@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/documentations/write",
+  "OperationName": "Create documentation or Update documentation",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Documentations",
+  "Description": "Creates or Updates a documentation. or Updates the specified documentation of the API Management service instance.",
+  "IsDataAction": false
+}

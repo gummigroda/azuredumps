@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/securityMLAnalyticsSettings/write",
+  "OperationName": "Update Analytics Settings",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Analytics Settings",
+  "Description": "Update the analytics settings",
+  "IsDataAction": false
+}

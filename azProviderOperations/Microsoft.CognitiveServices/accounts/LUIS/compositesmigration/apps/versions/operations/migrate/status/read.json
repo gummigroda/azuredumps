@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/compositesmigration/apps/versions/operations/migrate/status/read",
+  "OperationName": "app - GetCompositeMigrationStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "status*",
+  "Description": "Get composite migration operation status",
+  "IsDataAction": true
+}

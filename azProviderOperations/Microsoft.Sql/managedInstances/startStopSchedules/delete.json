@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/startStopSchedules/delete",
+  "OperationName": "Azure SQL Managed Instance Start-Stop schedule Delete operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Start-Stop schedule.",
+  "Description": "Deletes Azure SQL Managed Instance's Start-Stop schedule.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Gets the diagnostic setting for the resource HDInsight Cluster",
+  "IsDataAction": false
+}

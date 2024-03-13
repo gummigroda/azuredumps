@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/localnetworkgateways/delete",
+  "OperationName": "Delete LocalNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "LocalNetworkGateway",
+  "Description": "Deletes LocalNetworkGateway",
+  "IsDataAction": false
+}

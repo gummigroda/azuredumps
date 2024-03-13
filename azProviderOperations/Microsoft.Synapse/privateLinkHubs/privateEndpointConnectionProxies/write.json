@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update Private Endpoint Connection for PrivateLinkHub Proxy",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection For PrivateLinkHub Proxy",
+  "Description": "Create or Update Private Endpoint Connection for PrivateLinkHub Proxy",
+  "IsDataAction": false
+}

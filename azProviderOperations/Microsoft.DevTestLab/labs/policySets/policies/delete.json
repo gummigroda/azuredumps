@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/policySets/policies/delete",
+  "OperationName": "Delete policies.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "policies",
+  "Description": "Delete policies.",
+  "IsDataAction": false
+}

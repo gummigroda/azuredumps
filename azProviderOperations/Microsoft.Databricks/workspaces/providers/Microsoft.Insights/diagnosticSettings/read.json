@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Databricks workspace diagnostic settings",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Sets the available diagnostic settings for the Databricks workspace",
+  "IsDataAction": false
+}

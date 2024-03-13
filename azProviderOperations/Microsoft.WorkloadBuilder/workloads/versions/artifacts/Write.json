@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/versions/artifacts/Write",
+  "OperationName": "Creates or updates the artifacts",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "artifacts",
+  "Description": "Set artifacts",
+  "IsDataAction": false
+}

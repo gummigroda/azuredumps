@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualmachinetemplates/Delete",
+  "OperationName": "Deletes virtualmachinetemplates resource",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Deletes virtualmachinetemplates",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/metadata/read",
+  "OperationName": "Get metadata of a repository for a container registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the metadata of a specific repository for a container registry",
+  "IsDataAction": false
+}

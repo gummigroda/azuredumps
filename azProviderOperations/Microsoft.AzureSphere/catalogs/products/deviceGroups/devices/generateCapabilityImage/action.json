@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/devices/generateCapabilityImage/action",
+  "OperationName": "Devices_GenerateCapabilityImage",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups/devices",
+  "Description": "Generates the capability image for the device. Use '.unassigned' or '.default' for the device group and product names to generate the image for a device that does not belong to a specific device group and product.",
+  "IsDataAction": false
+}

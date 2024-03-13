@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartDetectorAlertRules/read",
+  "OperationName": "Read Smart Detector alert rules",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartDetectorAlertRules",
+  "Description": "Get all the Smart Detector alert rules for the input filters",
+  "IsDataAction": false
+}

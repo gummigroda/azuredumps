@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Delete virtual network or subnets notification",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Location",
+  "Description": "Notifies Microsoft.KeyVault that a virtual network or subnet is being deleted",
+  "IsDataAction": false
+}

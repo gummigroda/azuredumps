@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routeMaps/write",
+  "OperationName": "Creates or Updates Route Map child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "RouteMap",
+  "Description": "Creates or Updates a Route Map child resource of Virtual Hub",
+  "IsDataAction": false
+}

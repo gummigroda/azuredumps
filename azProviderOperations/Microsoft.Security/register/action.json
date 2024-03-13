@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "",
+  "Description": "Registers the subscription for Azure Security Center",
+  "IsDataAction": false
+}

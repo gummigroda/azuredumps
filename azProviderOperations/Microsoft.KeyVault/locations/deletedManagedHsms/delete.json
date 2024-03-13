@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/deletedManagedHsms/delete",
+  "OperationName": "Purge Soft Deleted Managed Hsm",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "Purge a soft deleted managed hsm",
+  "IsDataAction": false
+}

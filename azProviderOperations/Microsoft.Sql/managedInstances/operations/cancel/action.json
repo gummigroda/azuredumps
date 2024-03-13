@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/operations/cancel/action",
+  "OperationName": "Cancel Azure SQL Managed Instance async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed instance operations",
+  "Description": "Cancels Azure SQL Managed Instance pending asynchronous operation that is not finished yet.",
+  "IsDataAction": false
+}

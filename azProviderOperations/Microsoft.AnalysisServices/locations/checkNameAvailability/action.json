@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/locations/checkNameAvailability/action",
+  "OperationName": "Check availability of the Analysis Server name",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Checks that given Analysis Server name is valid and not in use.",
+  "IsDataAction": false
+}

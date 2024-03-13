@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/user/read",
+  "OperationName": "Read User",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/User",
+  "Description": "Check user existence",
+  "IsDataAction": true
+}

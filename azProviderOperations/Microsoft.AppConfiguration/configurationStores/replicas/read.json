@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/replicas/read",
+  "OperationName": "Get Replica or List Replicas",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Replica",
+  "Description": "Gets the properties of the specified replica or lists all the replicas under the specified configuration store.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrationConfigurations/revert/action",
+  "OperationName": "Revert",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "MigrationConfigurations",
+  "Description": "Reverts the standard to premium namespace migration",
+  "IsDataAction": false
+}

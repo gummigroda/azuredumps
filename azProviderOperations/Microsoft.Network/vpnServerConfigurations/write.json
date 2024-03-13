@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/write",
+  "OperationName": "Create or Update VpnServerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VpnServerConfiguration",
+  "Description": "Create or Update VpnServerConfiguration",
+  "IsDataAction": false
+}

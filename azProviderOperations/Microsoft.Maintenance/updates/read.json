@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/updates/read",
+  "OperationName": "Read updates to a resource.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Read updates to a resource.",
+  "IsDataAction": false
+}

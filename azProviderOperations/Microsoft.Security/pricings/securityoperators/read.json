@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/securityoperators/read",
+  "OperationName": "Get security operators",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings/SecurityOperators",
+  "Description": "Gets the security operators for the scope",
+  "IsDataAction": false
+}

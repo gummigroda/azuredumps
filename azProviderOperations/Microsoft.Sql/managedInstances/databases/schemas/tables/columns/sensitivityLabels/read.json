@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/schemas/tables/columns/sensitivityLabels/read",
+  "OperationName": "Get the sensitivity label of a given column",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Get the sensitivity label of a given column",
+  "IsDataAction": false
+}

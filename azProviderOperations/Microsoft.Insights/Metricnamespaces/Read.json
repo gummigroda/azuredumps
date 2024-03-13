@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Metricnamespaces/Read",
+  "OperationName": "Metric namespaces read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metric namespaces",
+  "Description": "Read metric namespaces",
+  "IsDataAction": false
+}

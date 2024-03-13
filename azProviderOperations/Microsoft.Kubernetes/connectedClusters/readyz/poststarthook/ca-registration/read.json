@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/poststarthook/ca-registration/read",
+  "OperationName": "Gets/List ca-registration resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/poststarthook/ca-registration",
+  "Description": "Reads ca-registration",
+  "IsDataAction": true
+}

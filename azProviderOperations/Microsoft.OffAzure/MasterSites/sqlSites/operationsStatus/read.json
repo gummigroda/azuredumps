@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/operationsStatus/read",
+  "OperationName": "Gets Sql Operation Status",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Operation Status",
+  "Description": "Gets Sql Operation Status",
+  "IsDataAction": false
+}

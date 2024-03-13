@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/bigDataPools/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Big Data Pools metric definitions",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces/bigDataPools",
+  "Description": "Gets the available metrics for Big Data Pools",
+  "IsDataAction": false
+}

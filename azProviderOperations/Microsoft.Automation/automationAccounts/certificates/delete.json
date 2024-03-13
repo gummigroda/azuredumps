@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/certificates/delete",
+  "OperationName": "Delete an Azure Automation certificate",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Certificate Asset",
+  "Description": "Deletes an Azure Automation certificate asset",
+  "IsDataAction": false
+}

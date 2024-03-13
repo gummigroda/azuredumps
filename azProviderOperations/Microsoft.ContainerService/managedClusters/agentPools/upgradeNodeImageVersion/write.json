@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/agentPools/upgradeNodeImageVersion/write",
+  "OperationName": "Upgrade agent pool node image version",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Agent Pools",
+  "Description": "Upgrade the node image version of agent pool",
+  "IsDataAction": false
+}

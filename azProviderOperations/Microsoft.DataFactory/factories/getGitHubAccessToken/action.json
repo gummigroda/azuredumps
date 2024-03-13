@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/getGitHubAccessToken/action",
+  "OperationName": "Get GitHub access token",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Gets GitHub access token.",
+  "IsDataAction": false
+}

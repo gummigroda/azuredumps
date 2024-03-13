@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/shares/restore/action",
+  "OperationName": "Restore File Share",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "File Share",
+  "Description": "Restore file share",
+  "IsDataAction": false
+}

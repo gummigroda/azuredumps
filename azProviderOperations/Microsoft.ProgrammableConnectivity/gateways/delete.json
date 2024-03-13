@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/gateways/delete",
+  "OperationName": "Gateways_Delete",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "gateways",
+  "Description": "Delete a Gateway.",
+  "IsDataAction": false
+}

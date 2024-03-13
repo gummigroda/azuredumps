@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Configuration Store Metric Definitions",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Microsoft App Configuration Metric Definition.",
+  "Description": "Retrieve all metric definitions for Microsoft App Configuration.",
+  "IsDataAction": false
+}

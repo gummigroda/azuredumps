@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/auditingSettingsAzureAsyncOperation/read",
+  "OperationName": "Get extended server blob auditing policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Blob Auditing Azure Async Operation",
+  "Description": "Retrieve result of the extended server blob auditing policy Set operation",
+  "IsDataAction": false
+}

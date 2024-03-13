@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/operations/read",
+  "OperationName": "Get operations",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Operations",
+  "Description": "Gets the list of operations.",
+  "IsDataAction": false
+}

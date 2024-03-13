@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/WorkbookTemplates/Delete",
+  "OperationName": "Delete workbook template",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WorkbookTemplates",
+  "Description": "Delete a workbook template",
+  "IsDataAction": false
+}

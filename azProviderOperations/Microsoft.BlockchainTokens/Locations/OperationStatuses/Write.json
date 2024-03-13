@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/Locations/OperationStatuses/Write",
+  "OperationName": "Create/update OperationStatuses resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "OperationStatuses",
+  "Description": "Writes OperationStatuses",
+  "IsDataAction": false
+}

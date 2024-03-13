@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/dnsAliases/read",
+  "OperationName": "List/Get Azure SQL Server Dns Alias(es)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Server Dns Alias",
+  "Description": "Return the list of Server Dns Aliases for the specified server.",
+  "IsDataAction": false
+}

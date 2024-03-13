@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/getInsights/action",
+  "OperationName": "Entity Insights",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entities",
+  "Description": "Gets entity Insights for a specific range",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/delete",
+  "OperationName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/delete",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations",
+  "Description": "Deletes source control configuration.",
+  "IsDataAction": false
+}

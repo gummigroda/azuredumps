@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateEndpointConnections/read",
+  "OperationName": "Get/List private endpoint connections",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateEndpointConnections",
+  "Description": "Read private endpoint connections",
+  "IsDataAction": false
+}

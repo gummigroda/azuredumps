@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateEndpointConnections/delete",
+  "OperationName": "Delete PrivateEndpointConnection resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateEndpointConnection",
+  "Description": "Delete PrivateEndpointConnection",
+  "IsDataAction": false
+}

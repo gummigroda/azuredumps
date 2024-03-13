@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/deploymentslots/roles/read",
+  "OperationName": "Get Role on Deployment Slot of Domain Name",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slots Roles",
+  "Description": "Get role on deployment slot of domain name",
+  "IsDataAction": false
+}

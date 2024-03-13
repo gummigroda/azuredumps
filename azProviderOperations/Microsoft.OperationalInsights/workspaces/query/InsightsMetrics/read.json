@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/InsightsMetrics/read",
+  "OperationName": "Read InsightsMetrics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "InsightsMetrics",
+  "Description": "Read data from the InsightsMetrics table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/singleSignOnConfigurations/read",
+  "OperationName": "SingleSignOnOperations_Get",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/singleSignOnConfigurations",
+  "Description": "Get a SingleSignOn",
+  "IsDataAction": false
+}

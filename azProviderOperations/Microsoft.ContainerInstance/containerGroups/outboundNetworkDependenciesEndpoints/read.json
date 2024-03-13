@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Container Group Detectors",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "List Container Group Detectors",
+  "IsDataAction": false
+}

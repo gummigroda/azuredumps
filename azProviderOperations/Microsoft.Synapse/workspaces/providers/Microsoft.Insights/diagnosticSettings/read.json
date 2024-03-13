@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Workspace diagnostic settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces",
+  "Description": "Gets the diagnostic settings for a Workspace",
+  "IsDataAction": false
+}

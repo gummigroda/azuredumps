@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/delete",
+  "OperationName": "Delete Volume Group",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volume Groups",
+  "Description": "Delete Volume Group",
+  "IsDataAction": false
+}

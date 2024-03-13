@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/troubleshoot/action",
+  "OperationName": "Start SQL virtual machine troubleshooting operation",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Start SQL virtual machine troubleshooting operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/retrieveThroughputDistribution/action",
+  "OperationName": "Retrieve throughput information for each physical partition of the SQL container.",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Container throughput setting",
+  "Description": "Retrieve throughput information for each physical partition of the SQL container.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/locations/allocateStamp/action",
+  "OperationName": "Allocated Stamp Action",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "AllocateStamp is internal operation used by service",
+  "IsDataAction": false
+}

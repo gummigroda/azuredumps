@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/write",
+  "OperationName": "Create or Update Integration Runtime",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Creates or Updates any Integration Runtime.",
+  "IsDataAction": false
+}

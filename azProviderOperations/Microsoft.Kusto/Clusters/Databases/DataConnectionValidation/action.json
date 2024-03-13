@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/DataConnectionValidation/action",
+  "OperationName": "Data connection validation action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Validates database data connection.",
+  "IsDataAction": false
+}

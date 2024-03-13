@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/serviceaccounts/write",
+  "OperationName": "Creates/Updates serviceaccounts resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "serviceaccounts",
+  "Description": "Writes serviceaccounts",
+  "IsDataAction": true
+}

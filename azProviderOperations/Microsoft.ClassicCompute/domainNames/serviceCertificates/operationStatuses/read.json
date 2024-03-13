@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/serviceCertificates/operationStatuses/read",
+  "OperationName": "Get the Domain Names Service Certificates Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Names Service Certificates Operation Status",
+  "Description": "Reads the operation status for the domain names service certificates.",
+  "IsDataAction": false
+}

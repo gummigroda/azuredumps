@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/savedSearches/read",
+  "OperationName": "Get Saved Search",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Saved Search",
+  "Description": "Gets a saved search query.",
+  "IsDataAction": false
+}

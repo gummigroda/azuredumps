@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/start/action",
+  "OperationName": "Start an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application deployment of Microsoft Azure Spring Apps",
+  "Description": "Start the deployment for a specific application",
+  "IsDataAction": false
+}

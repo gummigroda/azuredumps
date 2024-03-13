@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/migrateAgents/delete",
+  "OperationName": "Deletes the MigrateAgent",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Deletes the modernizeProject agent",
+  "IsDataAction": false
+}

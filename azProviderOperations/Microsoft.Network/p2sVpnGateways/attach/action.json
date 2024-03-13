@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/p2sVpnGateways/attach/action",
+  "OperationName": "Attaches a P2SVpnGateway Hub from WAN Traffic manager",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Attaches a P2SVpnGateway Hub from WAN Traffic manager",
+  "IsDataAction": false
+}

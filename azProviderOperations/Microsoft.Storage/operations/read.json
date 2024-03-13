@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/operations/read",
+  "OperationName": "Poll Asynchronous Operation",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Operations",
+  "Description": "Polls the status of an asynchronous operation.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/write",
+  "OperationName": "Projects_UpdateProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Updates the project info.",
+  "IsDataAction": true
+}

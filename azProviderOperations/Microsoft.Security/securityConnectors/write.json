@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/write",
+  "OperationName": "Update security connector",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors",
+  "Description": "Updates the security connector",
+  "IsDataAction": false
+}

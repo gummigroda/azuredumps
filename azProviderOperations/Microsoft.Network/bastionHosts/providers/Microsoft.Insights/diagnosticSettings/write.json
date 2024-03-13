@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

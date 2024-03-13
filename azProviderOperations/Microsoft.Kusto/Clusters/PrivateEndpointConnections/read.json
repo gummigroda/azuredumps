@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrivateEndpointConnections/read",
+  "OperationName": "Read private endpoint connection",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Private endpoint connections resource type",
+  "Description": "Reads a private endpoint connection",
+  "IsDataAction": false
+}

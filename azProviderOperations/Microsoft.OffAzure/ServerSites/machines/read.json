@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/machines/read",
+  "OperationName": "Get Server machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Gets the properties of a Server machines",
+  "IsDataAction": false
+}

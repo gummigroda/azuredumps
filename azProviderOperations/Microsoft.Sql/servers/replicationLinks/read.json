@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/replicationLinks/read",
+  "OperationName": "List/Get Replication links of Azure SQL database(s).",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Return the list of replication links or gets the properties for the specified replication links.",
+  "IsDataAction": false
+}

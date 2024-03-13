@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get list of Microsoft Storage Metrics definitions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Get list of Microsoft Storage Metrics definitions.",
+  "IsDataAction": false
+}

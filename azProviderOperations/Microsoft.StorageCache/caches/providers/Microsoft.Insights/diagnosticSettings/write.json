@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "StorageCache",
+  "Description": "Creates or updates the diagnostic setting for the Cache.",
+  "IsDataAction": false
+}

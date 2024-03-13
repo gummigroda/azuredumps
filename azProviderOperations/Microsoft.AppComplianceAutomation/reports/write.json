@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/write",
+  "OperationName": "Reports_Update",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Update an exiting AppComplianceAutomation report.",
+  "IsDataAction": false
+}

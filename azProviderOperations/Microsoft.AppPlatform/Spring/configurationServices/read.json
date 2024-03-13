@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/configurationServices/read",
+  "OperationName": "Get Microsoft Azure Spring Apps Application Configuration Service",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Application Configuration Service of Microsoft Azure Spring Apps",
+  "Description": "Get the Application Configuration Services for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

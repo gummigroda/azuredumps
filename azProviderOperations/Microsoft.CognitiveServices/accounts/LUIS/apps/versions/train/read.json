@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/train/read",
+  "OperationName": "Get training status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Train",
+  "Description": "Gets the training status of all models (intents and entities) for the specified application version. You must <a href=\"https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c45\">call the train API</a> to train the LUIS app before you call this API to get training status.",
+  "IsDataAction": true
+}

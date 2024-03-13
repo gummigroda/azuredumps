@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/inaccessibleManagedDatabases/read",
+  "OperationName": "Get inaccessible managed databases",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Gets a list of inaccessible managed databases in a managed instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/unregister/action",
+  "OperationName": "Unregister the Microsoft.VideoIndexer",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.VideoIndexer",
+  "IsDataAction": false
+}

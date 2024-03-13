@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/admissionregistration.k8s.io/validatingwebhookconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection validatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Validatingwebhookconfigurations",
+  "Description": "Deletes validatingwebhookconfigurations",
+  "IsDataAction": true
+}

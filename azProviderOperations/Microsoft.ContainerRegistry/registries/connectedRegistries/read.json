@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/connectedRegistries/read",
+  "OperationName": "Get connected registry or List connected registries",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ConnectedRegistries",
+  "Description": "Gets the properties of the specified connected registry or lists all the connected registries for the specified container registry.",
+  "IsDataAction": false
+}

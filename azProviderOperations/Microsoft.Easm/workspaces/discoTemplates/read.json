@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoTemplates/read",
+  "OperationName": "DiscoTemplates_Get",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve a disco template with a given discoTemplateId.",
+  "IsDataAction": true
+}

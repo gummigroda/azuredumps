@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/updateMachines/action",
+  "OperationName": "Update machines in group",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Groups",
+  "Description": "Update group by adding or removing machines",
+  "IsDataAction": false
+}

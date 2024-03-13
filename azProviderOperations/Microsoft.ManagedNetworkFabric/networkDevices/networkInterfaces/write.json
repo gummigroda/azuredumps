@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/write",
+  "OperationName": "NetworkInterfaces_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "Update certain properties of the Network Interface resource.",
+  "IsDataAction": false
+}

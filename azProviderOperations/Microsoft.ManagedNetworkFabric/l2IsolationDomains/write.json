@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2IsolationDomains/write",
+  "OperationName": "L2IsolationDomains_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2IsolationDomains",
+  "Description": "API to update certain properties of the L2 Isolation Domain resource.",
+  "IsDataAction": false
+}

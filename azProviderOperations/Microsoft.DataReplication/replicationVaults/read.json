@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/read",
+  "OperationName": "Gets the statistics of the vault",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": "Gets the statistics of any vault",
+  "IsDataAction": false
+}

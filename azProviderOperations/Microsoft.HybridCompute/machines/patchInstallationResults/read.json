@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/patchInstallationResults/read",
+  "OperationName": "Read Azure Arc patchInstallationResults",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "Microsoft.HybridCompute/machines/patchInstallationResults",
+  "Description": "Reads any Azure Arc patchInstallationResults",
+  "IsDataAction": false
+}

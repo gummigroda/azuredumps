@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/operationsStatus/read",
+  "OperationName": "Get Operation Status for refresh container operation",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Refresh Containers Operation Statuses",
+  "Description": "Returns status of the operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/metricDefinitions/read",
+  "OperationName": "Metric Definition operation",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Metric Definitions",
+  "Description": "Get Metric Definitions under workspace",
+  "IsDataAction": false
+}

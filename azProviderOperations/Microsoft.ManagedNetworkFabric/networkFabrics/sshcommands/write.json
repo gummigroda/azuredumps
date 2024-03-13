@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/sshcommands/write",
+  "OperationName": "SSHCommands_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/sshcommands",
+  "Description": "Create a SSHCommand resource.",
+  "IsDataAction": false
+}

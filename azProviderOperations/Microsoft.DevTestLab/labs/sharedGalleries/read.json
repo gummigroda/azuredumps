@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/sharedGalleries/read",
+  "OperationName": "Read shared galleries.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Shared Galleries",
+  "Description": "Read shared galleries.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksRemoteHistoryService/read",
+  "OperationName": "Read DatabricksRemoteHistoryService data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksRemoteHistoryService",
+  "Description": "Read data from the DatabricksRemoteHistoryService table",
+  "IsDataAction": false
+}

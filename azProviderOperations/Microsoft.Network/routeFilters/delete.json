@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeFilters/delete",
+  "OperationName": "Delete Route Filter",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Filter",
+  "Description": "Deletes a route filter definition",
+  "IsDataAction": false
+}

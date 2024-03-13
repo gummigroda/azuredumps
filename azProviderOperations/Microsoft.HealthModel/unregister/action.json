@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/unregister/action",
+  "OperationName": "Unregister the Microsoft.HealthModel",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.HealthModel",
+  "IsDataAction": false
+}

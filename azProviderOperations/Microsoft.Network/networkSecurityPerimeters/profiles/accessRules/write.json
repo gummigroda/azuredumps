@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/write",
+  "OperationName": "Creates or Updates a Network Security Perimeter Access Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Access Rule",
+  "Description": "Creates or Updates a Network Security Perimeter Access Rule",
+  "IsDataAction": false
+}

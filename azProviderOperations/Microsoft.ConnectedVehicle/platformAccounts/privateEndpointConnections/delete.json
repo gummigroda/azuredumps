@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "Connected Vehicle Platform Private Endpoint Connection",
+  "Description": "Deletes a Connected Vehicle Platform Private Endpoint Connection",
+  "IsDataAction": false
+}

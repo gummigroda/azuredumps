@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/networkSecurityPerimeterConfigurations/Action",
+  "OperationName": "Reconcile NSP configuration",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs",
+  "Description": "Reconcile NSP configuration profile from NSP RP",
+  "IsDataAction": false
+}

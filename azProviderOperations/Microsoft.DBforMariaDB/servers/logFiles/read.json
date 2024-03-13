@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/logFiles/read",
+  "OperationName": "List/Get MySQL LogFiles",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB LogFiles",
+  "Description": "Return the list of MariaDB LogFiles.",
+  "IsDataAction": false
+}

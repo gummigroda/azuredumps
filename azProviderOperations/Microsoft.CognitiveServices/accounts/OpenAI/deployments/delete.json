@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/deployments/delete",
+  "OperationName": "Delete deployments",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Delete deployment.",
+  "IsDataAction": true
+}

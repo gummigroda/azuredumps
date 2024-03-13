@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/availableservicetiers/read",
+  "OperationName": "List Available Service Tiers",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Available Service Tier",
+  "Description": "List of all the available service tiers for workspace.",
+  "IsDataAction": false
+}

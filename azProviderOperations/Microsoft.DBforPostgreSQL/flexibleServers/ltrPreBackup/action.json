@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/ltrPreBackup/action",
+  "OperationName": "Checks if a server is ready for a long term backup",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Checks if a server is ready for a long term backup",
+  "IsDataAction": false
+}

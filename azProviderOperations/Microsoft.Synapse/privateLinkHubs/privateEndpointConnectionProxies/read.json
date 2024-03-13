@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection For PrivateLinkHub Proxy",
+  "Description": "Read any Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

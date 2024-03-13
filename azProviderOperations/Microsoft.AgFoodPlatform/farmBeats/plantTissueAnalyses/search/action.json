@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/plantTissueAnalyses/search/action",
+  "OperationName": "Search AgFoodPlatform plant tissue analysis resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform plant tissue analyses",
+  "Description": "Searches existing AgFoodPlatform plant tissue analysis resource(s).",
+  "IsDataAction": true
+}

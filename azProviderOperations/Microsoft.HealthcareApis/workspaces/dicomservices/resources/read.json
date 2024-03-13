@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/resources/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "DICOM resources",
+  "Description": "Read DICOM resources (includes searching and change feed). ",
+  "IsDataAction": true
+}

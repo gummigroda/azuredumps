@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnectionProxies/read",
+  "OperationName": "Gets a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Gets a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

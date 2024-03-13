@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/read",
+  "OperationName": "Get Service Association Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Association Link",
+  "Description": "Gets a Service Association Link definition",
+  "IsDataAction": false
+}

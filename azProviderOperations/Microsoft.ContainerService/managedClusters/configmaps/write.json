@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/configmaps/write",
+  "OperationName": "Creates/Updates configmaps resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Configmaps",
+  "Description": "Writes configmaps",
+  "IsDataAction": true
+}

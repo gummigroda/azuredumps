@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/disks/read",
+  "OperationName": "Read disks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "disks",
+  "Description": "Read disks.",
+  "IsDataAction": false
+}

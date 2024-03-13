@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/dbdata/answer/action",
+  "OperationName": "DBDataAnswer",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dbdata*",
+  "Description": "DBDataAnswer",
+  "IsDataAction": true
+}

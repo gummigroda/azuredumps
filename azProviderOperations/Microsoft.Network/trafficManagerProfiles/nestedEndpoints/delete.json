@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/nestedEndpoints/delete",
+  "OperationName": "Delete a Traffic Manager Nested Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Nested Endpoint",
+  "Description": "Deletes an Nested Endpoint from an existing Traffic Manager Profile. Traffic Manager will stop routing traffic to the deleted Nested Endpoint.",
+  "IsDataAction": false
+}

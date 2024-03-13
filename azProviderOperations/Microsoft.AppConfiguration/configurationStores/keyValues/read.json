@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/keyValues/read",
+  "OperationName": "Read Key-Value",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Key-Value",
+  "Description": "Reads a key-value from the configuration store.",
+  "IsDataAction": true
+}

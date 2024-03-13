@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/unregister/action",
+  "OperationName": "Unregister the Microsoft.ConnectedCache",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ConnectedCache",
+  "IsDataAction": false
+}

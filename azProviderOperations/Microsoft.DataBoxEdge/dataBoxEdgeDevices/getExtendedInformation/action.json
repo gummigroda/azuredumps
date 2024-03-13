@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/getExtendedInformation/action",
+  "OperationName": "Gets resource extended information",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Retrieves resource extended information",
+  "IsDataAction": false
+}

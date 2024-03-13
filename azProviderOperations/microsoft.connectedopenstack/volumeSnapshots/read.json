@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumeSnapshots/read",
+  "OperationName": "VolumeSnapshots_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumeSnapshots",
+  "Description": "Implements VolumeSnapshots list by subscription GET method.",
+  "IsDataAction": false
+}

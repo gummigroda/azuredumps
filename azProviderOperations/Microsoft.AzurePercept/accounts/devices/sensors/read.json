@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/devices/sensors/read",
+  "OperationName": "Sensors_Get",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/devices/sensors",
+  "Description": "read sensors",
+  "IsDataAction": false
+}

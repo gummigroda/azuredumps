@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerDestinations/setToIdleState/action",
+  "OperationName": "Set provisioning status of PartnerDestination to idle",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerDestinations",
+  "Description": "Set provisioning status of partner destination to idle",
+  "IsDataAction": false
+}

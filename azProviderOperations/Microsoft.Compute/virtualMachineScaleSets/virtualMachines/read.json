@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/read",
+  "OperationName": "Gets the properties of a Virtual Machine in a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine in Scale Set",
+  "Description": "Retrieves the properties of a Virtual Machine in a VM Scale Set",
+  "IsDataAction": false
+}

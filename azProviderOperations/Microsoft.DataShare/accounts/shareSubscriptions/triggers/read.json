@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/triggers/read",
+  "OperationName": "Read Data Share Trigger",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Trigger",
+  "Description": "Reads a Data Share Trigger.",
+  "IsDataAction": false
+}

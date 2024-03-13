@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routeMaps/delete",
+  "OperationName": "Deletes Route Map child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "RouteMap",
+  "Description": "Deletes a Route Map child resource of Virtual Hub",
+  "IsDataAction": false
+}

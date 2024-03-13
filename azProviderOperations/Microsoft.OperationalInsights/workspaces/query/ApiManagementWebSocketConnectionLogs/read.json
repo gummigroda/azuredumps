@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ApiManagementWebSocketConnectionLogs/read",
+  "OperationName": "Read ApiManagementWebSocketConnectionLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ApiManagementWebSocketConnectionLogs",
+  "Description": "Read data from the ApiManagementWebSocketConnectionLogs table",
+  "IsDataAction": false
+}

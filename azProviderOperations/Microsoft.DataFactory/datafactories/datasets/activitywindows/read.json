@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datasets/activitywindows/read",
+  "OperationName": "Read Activity Windows for any Dataset",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Activity Windows",
+  "Description": "Reads Activity Windows for the Dataset with specified parameters.",
+  "IsDataAction": false
+}

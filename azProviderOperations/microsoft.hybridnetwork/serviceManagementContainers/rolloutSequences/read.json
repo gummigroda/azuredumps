@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/rolloutSequences/read",
+  "OperationName": "RolloutSequences_ListByServiceManagementContainer",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/rolloutSequences",
+  "Description": "read rolloutSequences",
+  "IsDataAction": false
+}

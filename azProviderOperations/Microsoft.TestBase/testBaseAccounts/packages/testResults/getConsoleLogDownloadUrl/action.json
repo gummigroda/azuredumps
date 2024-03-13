@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/packages/testResults/getConsoleLogDownloadUrl/action",
+  "OperationName": "TestResults_GetConsoleLogDownloadURL",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/packages/testResults",
+  "Description": "Gets the download URL of the test execution console log file.",
+  "IsDataAction": false
+}

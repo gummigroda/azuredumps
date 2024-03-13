@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/replicationplannerjobs/read",
+  "OperationName": "Get Replication Job",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Replication Planner Job",
+  "Description": "Gets the properties of an replication planner jobs",
+  "IsDataAction": false
+}

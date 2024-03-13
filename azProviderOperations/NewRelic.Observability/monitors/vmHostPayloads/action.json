@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/vmHostPayloads/action",
+  "OperationName": "Payload for VM Host",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "The payload to be sent for installing NewRelic agent on VM",
+  "IsDataAction": false
+}

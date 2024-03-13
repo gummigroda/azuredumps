@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Database Diagnostic Settings",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

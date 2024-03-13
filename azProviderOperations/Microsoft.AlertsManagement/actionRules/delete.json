@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/actionRules/delete",
+  "OperationName": "Delete action rule",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "actionRules",
+  "Description": "Delete alert processing rule in a given subscription.",
+  "IsDataAction": false
+}

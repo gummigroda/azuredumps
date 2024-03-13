@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/connections/test/action",
+  "OperationName": "Test Gateway Connection",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Gateway Connection",
+  "Description": "Tests a site to site gateway connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3isolationdomains/l3isolationdomaininfos/delete",
+  "OperationName": "L3isolationDomainInfos_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3isolationdomains/l3isolationdomaininfos",
+  "Description": "Delete the L3isolationDomainInfos resource.",
+  "IsDataAction": false
+}

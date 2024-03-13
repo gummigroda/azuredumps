@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/openStackIdentities/delete",
+  "OperationName": "OpenStackIdentities_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "openStackIdentities",
+  "Description": "Implements OpenStackIdentity DELETE method.",
+  "IsDataAction": false
+}

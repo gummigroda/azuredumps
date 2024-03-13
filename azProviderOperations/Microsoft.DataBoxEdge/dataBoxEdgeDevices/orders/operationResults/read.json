@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/operationResults/read",
+  "OperationName": "List operation result",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "operation result",
+  "Description": "Lists or gets the operation result",
+  "IsDataAction": false
+}

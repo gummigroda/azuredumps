@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/read",
+  "OperationName": "Get/List monitor resources",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Read monitors",
+  "IsDataAction": false
+}

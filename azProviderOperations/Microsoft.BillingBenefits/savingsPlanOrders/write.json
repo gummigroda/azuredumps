@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/savingsPlanOrders/write",
+  "OperationName": "Create Savings plan orders",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "SavingsPlanOrders",
+  "Description": "Create a savings plan orders",
+  "IsDataAction": false
+}

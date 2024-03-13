@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/ApplyTuneTemplateTasks/read",
+  "OperationName": "Query ACC apply tune template tasks.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apply tune template tasks",
+  "Description": "Query ACC apply tune template tasks.",
+  "IsDataAction": true
+}

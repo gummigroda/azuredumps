@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testConfigurations/write",
+  "OperationName": "TestConfiguration_Update",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testConfigurations",
+  "Description": "Update a test configuration.",
+  "IsDataAction": false
+}

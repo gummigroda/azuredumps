@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/checkSubdomainAvailability/action",
+  "OperationName": "Check IoTApp resource subdomain availability",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "",
+  "Description": "Check if a IoTApp resource subdomain is available",
+  "IsDataAction": false
+}

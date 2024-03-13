@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseDXFailedIngestion/read",
+  "OperationName": "Read SynapseDXFailedIngestion data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseDXFailedIngestion",
+  "Description": "Read data from the SynapseDXFailedIngestion table",
+  "IsDataAction": false
+}

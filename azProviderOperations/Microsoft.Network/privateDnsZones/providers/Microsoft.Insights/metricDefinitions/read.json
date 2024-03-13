@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Private DNS zone metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS zone metric definitions",
+  "Description": "Gets the Private DNS zone metric settings",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/vmWs/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "VmW",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

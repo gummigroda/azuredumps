@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitLabConnectors/groups/listSubgroups/action",
+  "OperationName": "GitLabGroups_ListSubgroups",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitLabConnectors/groups",
+  "Description": "action listSubgroups",
+  "IsDataAction": false
+}

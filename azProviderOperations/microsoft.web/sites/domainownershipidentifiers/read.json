@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/domainownershipidentifiers/read",
+  "OperationName": "Get Web Apps Domain Ownership Identifiers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Domain Ownership Identifiers",
+  "Description": "Get Web Apps Domain Ownership Identifiers.",
+  "IsDataAction": false
+}

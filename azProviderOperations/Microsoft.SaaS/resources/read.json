@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/resources/read",
+  "OperationName": "SaaS Subscription Level Resources",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Subscription Level Resources",
+  "Description": "Get one resource",
+  "IsDataAction": false
+}

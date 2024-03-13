@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/draftPackages/write",
+  "OperationName": "DraftPackages_Update",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/draftPackages",
+  "Description": "Updates an existing Test Base Draft Package.",
+  "IsDataAction": false
+}

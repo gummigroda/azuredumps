@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Features/operations/read",
+  "OperationName": "Get operations",
+  "ProviderNamespace": "Microsoft Feature",
+  "ResourceName": "Feature",
+  "Description": "Gets the list of operations.",
+  "IsDataAction": false
+}

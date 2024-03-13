@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/geoBackupPolicies/read",
+  "OperationName": "Read SQL Analytics pool Geo Backup Policies.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Geo Backup Policies",
+  "Description": "Read any SQL Analytics pool Geo Backup Policies.",
+  "IsDataAction": false
+}

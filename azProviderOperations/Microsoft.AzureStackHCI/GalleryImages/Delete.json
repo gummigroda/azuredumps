@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/GalleryImages/Delete",
+  "OperationName": "Deletes gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "GalleryImages",
+  "Description": "Deletes gallery images resource",
+  "IsDataAction": false
+}

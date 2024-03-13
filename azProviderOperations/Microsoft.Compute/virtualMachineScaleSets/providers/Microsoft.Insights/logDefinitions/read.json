@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Virtual Machine Scale Set log definitions",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "The log definition of Virtual Machine Scale Sets",
+  "Description": "Gets the available logs for Virtual Machine Scale Sets.",
+  "IsDataAction": false
+}

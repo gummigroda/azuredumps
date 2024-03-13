@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/read",
+  "OperationName": "NetworkToNetworkInterconnects_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Implements NetworkToNetworkInterconnects GET method.",
+  "IsDataAction": false
+}

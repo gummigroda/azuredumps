@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/operationResults/read",
+  "OperationName": "Get Container App Operation",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App",
+  "Description": "Get the results of a Container App operation",
+  "IsDataAction": false
+}

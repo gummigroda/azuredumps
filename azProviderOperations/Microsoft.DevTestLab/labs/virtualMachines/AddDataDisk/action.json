@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/AddDataDisk/action",
+  "OperationName": "Add or attach a data disk",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Attach a new or existing data disk to virtual machine.",
+  "IsDataAction": false
+}

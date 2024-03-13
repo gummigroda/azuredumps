@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/delete",
+  "OperationName": "Delete Data Factory",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Deletes Data Factory.",
+  "IsDataAction": false
+}

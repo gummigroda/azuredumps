@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filter",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/EventGridFilters",
+  "Description": "Deletes an event grid filter from a container registry.",
+  "IsDataAction": false
+}

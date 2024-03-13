@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/pingMeshes/stop/action",
+  "OperationName": "Stop PingMesh",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh",
+  "Description": "Stop PingMesh between specified VMs",
+  "IsDataAction": false
+}

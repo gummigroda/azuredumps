@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/delete",
+  "OperationName": "Delete Tenant",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Tenants",
+  "Description": "Deletes the specified Power BI Tenant.",
+  "IsDataAction": false
+}

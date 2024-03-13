@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apiPortals/validateDomain/action",
+  "OperationName": "Validate Microsoft Azure Spring Apps API portal domain",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The API portal of Microsoft Azure Spring Apps",
+  "Description": "Validate the API portal domain for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

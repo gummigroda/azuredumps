@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/testdatasets/run/read",
+  "OperationName": "run - RunBatchTestDataSet",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "run*",
+  "Description": "Runs the batch test given by the application id and dataset id on the given",
+  "IsDataAction": true
+}

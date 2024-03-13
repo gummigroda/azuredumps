@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/catalogs/read",
+  "OperationName": "Catalogs_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/catalogs",
+  "Description": "Gets a catalog",
+  "IsDataAction": false
+}

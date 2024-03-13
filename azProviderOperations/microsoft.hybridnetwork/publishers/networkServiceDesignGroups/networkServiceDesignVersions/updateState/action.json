@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkServiceDesignGroups/networkServiceDesignVersions/updateState/action",
+  "OperationName": "networkServiceDesignVersions_updateState",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkServiceDesignGroups/networkServiceDesignVersions",
+  "Description": "Update network service design version state.",
+  "IsDataAction": false
+}

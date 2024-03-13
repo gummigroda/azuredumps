@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/read",
+  "OperationName": "Get Virtual Network Tap",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkTap",
+  "Description": "Get Virtual Network Tap",
+  "IsDataAction": false
+}

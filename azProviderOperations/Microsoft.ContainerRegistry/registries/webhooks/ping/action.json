@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/ping/action",
+  "OperationName": "Ping Webhook",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Triggers a ping event to be sent to the webhook.",
+  "IsDataAction": false
+}

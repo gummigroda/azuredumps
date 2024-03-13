@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/checkAmlFSSubnets/action",
+  "OperationName": "Check the subnets for Amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "",
+  "Description": "Validates the subnets for Amlfilesystem",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesDirectoryServiceAccess/Read",
+  "OperationName": "Read AADDomainServicesDirectoryServiceAccess data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesDirectoryServiceAccess",
+  "Description": "Read data from the AADDomainServicesDirectoryServiceAccess table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/workflows/read",
+  "OperationName": "Workflow - Get|Workflow - Get All*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage workflows.",
+  "Description": "Get the details of a specific Workflow on your Team\r\nGet all the Workflows available for you Team*",
+  "IsDataAction": true
+}

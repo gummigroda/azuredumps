@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/Delete",
+  "OperationName": "Deletes migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects",
+  "Description": "Deletes migrate project",
+  "IsDataAction": false
+}

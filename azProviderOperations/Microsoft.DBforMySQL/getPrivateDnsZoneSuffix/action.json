@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/getPrivateDnsZoneSuffix/action",
+  "OperationName": "Get Private DNS Zone Suffix.",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "",
+  "Description": "Gets the private dns zone suffix.",
+  "IsDataAction": false
+}

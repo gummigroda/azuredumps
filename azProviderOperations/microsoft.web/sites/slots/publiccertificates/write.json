@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/publiccertificates/write",
+  "OperationName": "Write Web Apps Slots Public Certificates",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Public Certificates",
+  "Description": "Create or Update Web Apps Slots Public Certificates.",
+  "IsDataAction": false
+}

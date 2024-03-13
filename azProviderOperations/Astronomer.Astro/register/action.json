@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/register/action",
+  "OperationName": "Register the Astronomer.Astro",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "",
+  "Description": "Register the subscription for Astronomer.Astro",
+  "IsDataAction": false
+}

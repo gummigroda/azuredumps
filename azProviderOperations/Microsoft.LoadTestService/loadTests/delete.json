@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadTests/delete",
+  "OperationName": "Delete loadtest resources",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadtests",
+  "Description": "Delete a LoadTest resource.",
+  "IsDataAction": false
+}

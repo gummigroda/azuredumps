@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/tagRules/write",
+  "OperationName": "Create/Update tag rules resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "TagRules",
+  "Description": "Write tag rules",
+  "IsDataAction": false
+}

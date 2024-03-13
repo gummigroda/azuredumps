@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/privateLinkResources/read",
+  "OperationName": "List Private Link Resources",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/PrivateLinkResources",
+  "Description": "List Private Link Resources",
+  "IsDataAction": false
+}

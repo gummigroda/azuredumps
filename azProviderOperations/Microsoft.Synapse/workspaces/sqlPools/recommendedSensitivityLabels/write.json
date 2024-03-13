@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/recommendedSensitivityLabels/write",
+  "OperationName": "Batch update recommended sensitivity labels",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Recommended Sensitivity Labels",
+  "Description": "Batch update recommended sensitivity labels",
+  "IsDataAction": false
+}

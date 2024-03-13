@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/amlFilesystems/Archive/action",
+  "OperationName": "Archive the amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "AmlFilesystem",
+  "Description": "Archive the data in the amlfilesystem",
+  "IsDataAction": false
+}

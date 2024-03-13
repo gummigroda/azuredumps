@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/write",
+  "OperationName": "BillingSubscriptions_Update",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": "Updates the properties of a billing subscription. Cost center can only be updated for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

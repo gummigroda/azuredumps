@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/usage/read",
+  "OperationName": "Get Server site usages",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Gets the usages of a Server site",
+  "IsDataAction": false
+}

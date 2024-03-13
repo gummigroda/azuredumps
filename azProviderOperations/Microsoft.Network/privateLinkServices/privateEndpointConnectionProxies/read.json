@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/privateEndpointConnectionProxies/read",
+  "OperationName": "Get an private endpoint connection proxy resource.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Gets an private endpoint connection proxy resource.",
+  "IsDataAction": false
+}

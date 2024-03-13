@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/testSuites/write",
+  "OperationName": "Create or Update Certify testSuites.",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "testSuites",
+  "Description": "Creates or Updates Certify testSuites.",
+  "IsDataAction": false
+}

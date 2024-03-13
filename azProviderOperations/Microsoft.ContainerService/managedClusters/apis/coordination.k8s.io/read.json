@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/coordination.k8s.io/read",
+  "OperationName": "Gets/List coordination.k8s.io resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Coordination.K8s.Io",
+  "Description": "Reads coordination.k8s.io",
+  "IsDataAction": true
+}

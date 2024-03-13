@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedopenstack/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

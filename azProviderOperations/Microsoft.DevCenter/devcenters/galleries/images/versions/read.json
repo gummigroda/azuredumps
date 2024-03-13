@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/galleries/images/versions/read",
+  "OperationName": "ImageVersions_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/galleries/images/versions",
+  "Description": "Gets an image version.",
+  "IsDataAction": false
+}

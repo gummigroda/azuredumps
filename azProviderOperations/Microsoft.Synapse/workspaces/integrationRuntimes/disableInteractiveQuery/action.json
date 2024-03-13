@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/disableInteractiveQuery/action",
+  "OperationName": "Disable Interactive query on an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Disable Interactive query on any Integration Runtime",
+  "IsDataAction": false
+}

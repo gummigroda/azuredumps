@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/unregister/action",
+  "OperationName": "Unregister Subscription for Custom Providers",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.CustomProviders resource provider",
+  "IsDataAction": false
+}

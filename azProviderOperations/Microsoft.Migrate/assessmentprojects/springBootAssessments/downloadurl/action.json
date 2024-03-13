@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootAssessments/downloadurl/action",
+  "OperationName": "Get springBoot AssessmentReport",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Assessments",
+  "Description": "Get Blob SAS URI for the springBoot AssessmentReport",
+  "IsDataAction": false
+}

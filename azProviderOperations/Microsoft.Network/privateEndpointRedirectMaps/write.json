@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpointRedirectMaps/write",
+  "OperationName": "Create Or Update Private Endpoint Redirect Map",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Redirect Map",
+  "Description": "Creates Private Endpoint RedirectMap Or Updates An Existing Private Endpoint RedirectMap",
+  "IsDataAction": false
+}

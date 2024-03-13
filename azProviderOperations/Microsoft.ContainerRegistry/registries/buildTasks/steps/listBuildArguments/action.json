@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/steps/listBuildArguments/action",
+  "OperationName": "List build arguments for a build step.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Lists the build arguments for a build step including the secret arguments.",
+  "IsDataAction": false
+}

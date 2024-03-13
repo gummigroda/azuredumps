@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/delete",
+  "OperationName": "Delete ResourceGuard proxy",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Guard Proxy",
+  "Description": "The Delete ResourceGuard proxy operation deletes the specified Azure resource of type 'ResourceGuard proxy'",
+  "IsDataAction": false
+}

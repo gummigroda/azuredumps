@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/listEvents/action",
+  "OperationName": "List Webhook Events",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Lists recent events for the specified webhook.",
+  "IsDataAction": false
+}

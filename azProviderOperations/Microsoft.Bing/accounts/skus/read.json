@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/skus/read",
+  "OperationName": "Read Account SKUs",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "Read available SKUs for an existing resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Private Endpoint Connection Proxy",
+  "Description": "Delete Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/checkNameAvailability/Action",
+  "OperationName": "Check If IotHub name is available",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Check If IotHub name is available",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/BillingPlanForComponent/Read",
+  "OperationName": "Billing plan for Application Insights component read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Billing plan for Application Insights component",
+  "Description": "Reading a billing plan for Application Insights component",
+  "IsDataAction": false
+}

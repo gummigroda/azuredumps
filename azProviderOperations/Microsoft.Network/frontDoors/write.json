@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/write",
+  "OperationName": "Creates or updates a Front Door",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Creates or updates a Front Door",
+  "IsDataAction": false
+}

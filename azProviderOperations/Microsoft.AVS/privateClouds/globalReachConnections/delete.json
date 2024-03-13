@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/globalReachConnections/delete",
+  "OperationName": "Delete globalReachConnections",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/globalReachConnections",
+  "Description": "Delete globalReachConnections.",
+  "IsDataAction": false
+}

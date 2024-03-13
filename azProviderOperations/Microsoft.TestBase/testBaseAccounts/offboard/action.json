@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/offboard/action",
+  "OperationName": "TestBaseAccounts_Offboard",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts",
+  "Description": "Offboard a Test Base Account.",
+  "IsDataAction": false
+}

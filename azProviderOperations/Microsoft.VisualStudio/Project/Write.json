@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Project/Write",
+  "OperationName": "Creates or updates the Project",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Project",
+  "Description": "Set Project",
+  "IsDataAction": false
+}

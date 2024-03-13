@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/ScopedPrivateLinkProxies/Write",
+  "OperationName": "Create or update data collection endpoint private link proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint scoped private link proxy",
+  "Description": "Create or update a data collection endpoint private link proxy",
+  "IsDataAction": false
+}

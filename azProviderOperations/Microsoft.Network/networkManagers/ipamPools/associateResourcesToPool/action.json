@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/associateResourcesToPool/action",
+  "OperationName": "Associate resources to Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Action permission for associate resources to Ipam Pool",
+  "IsDataAction": false
+}

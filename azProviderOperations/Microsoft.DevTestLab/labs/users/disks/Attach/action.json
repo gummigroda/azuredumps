@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/disks/Attach/action",
+  "OperationName": "Attach disk",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "disks",
+  "Description": "Attach and create the lease of the disk to the virtual machine.",
+  "IsDataAction": false
+}

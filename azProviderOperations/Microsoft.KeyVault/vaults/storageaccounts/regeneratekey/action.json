@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/regeneratekey/action",
+  "OperationName": "Regenerate Key of Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Regenerate the access key of a managed storage account.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/createdataflowdebugsession/action",
+  "OperationName": "Create Data Flow debug session.",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Creates a Data Flow debug session.",
+  "IsDataAction": false
+}

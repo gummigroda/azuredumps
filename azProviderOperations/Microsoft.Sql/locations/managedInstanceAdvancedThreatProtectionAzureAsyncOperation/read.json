@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstanceAdvancedThreatProtectionAzureAsyncOperation/read",
+  "OperationName": "Get the managed instance Advanced Threat Protection operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed instance Advanced Threat Protection settings",
+  "Description": "Retrieve results of the managed instance Advanced Threat Protection settings write operation",
+  "IsDataAction": false
+}

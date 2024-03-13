@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/clusterrolebindings/delete",
+  "OperationName": "Deletes/DeletesCollection clusterrolebindings resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "clusterrolebindings",
+  "Description": "Deletes clusterrolebindings",
+  "IsDataAction": true
+}

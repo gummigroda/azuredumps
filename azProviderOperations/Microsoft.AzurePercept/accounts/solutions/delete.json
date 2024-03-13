@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/solutions/delete",
+  "OperationName": "Solutions_Delete",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/solutions",
+  "Description": "delete solutions",
+  "IsDataAction": false
+}

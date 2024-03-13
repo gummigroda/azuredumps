@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/runasaccounts/read",
+  "OperationName": "Get Server run as accounts",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "RunAsAccounts",
+  "Description": "Gets the properties of a Server run as accounts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/register/action",
+  "OperationName": "Register the Microsoft.ServiceLinker",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ServiceLinker",
+  "IsDataAction": false
+}

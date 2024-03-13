@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/tables/write",
+  "OperationName": "Write table",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table",
+  "Description": "Create or update a table.",
+  "IsDataAction": false
+}

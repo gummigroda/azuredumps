@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/administrators/read",
+  "OperationName": "Get Administrators of Azure SQL Managed Instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Administrator of Azure SQL Managed Instance.",
+  "Description": "Gets a list of managed instance administrators.",
+  "IsDataAction": false
+}

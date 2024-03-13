@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/links/write",
+  "OperationName": "创建资源链接",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "资源链接",
+  "Description": "创建或更新资源链接。",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/serviceRegistries/write",
+  "OperationName": "Update Microsoft Azure Spring Apps Service Registry",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Service Registry of Microsoft Azure Spring Apps",
+  "Description": "Create or update the Service Registry for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

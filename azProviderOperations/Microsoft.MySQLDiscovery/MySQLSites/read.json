@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/read",
+  "OperationName": "MySQLSites_ListBySubscription",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites",
+  "Description": "Lists the MySQLSites resource in a subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/resumeBackups/action",
+  "OperationName": "Resume Backups of Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Resume Backups for a BackupsSuspended BI.",
+  "IsDataAction": false
+}

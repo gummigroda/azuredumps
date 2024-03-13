@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read web app slots log definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The log definition of web app slots",
+  "Description": "Gets the available logs for Web App slots",
+  "IsDataAction": false
+}

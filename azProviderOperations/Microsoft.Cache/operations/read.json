@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/operations/read",
+  "OperationName": "List Provider Operations",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "",
+  "Description": "Lists the operations that 'Microsoft.Cache' provider supports.",
+  "IsDataAction": false
+}

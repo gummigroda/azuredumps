@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/neighborGroups/read",
+  "OperationName": "NeighborGroups_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "neighborGroups",
+  "Description": "Displays NeighborGroups list by subscription GET method.",
+  "IsDataAction": false
+}

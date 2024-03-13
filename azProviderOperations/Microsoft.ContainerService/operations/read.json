@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/operations/read",
+  "OperationName": "List Available Container Service Operations",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Available Container Service Operations",
+  "Description": "Lists operations available on Microsoft.ContainerService resource provider",
+  "IsDataAction": false
+}

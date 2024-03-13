@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/alerts/read",
+  "OperationName": "Reads the service alerts.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Alert",
+  "Description": "Reads the alerts for a service.",
+  "IsDataAction": false
+}

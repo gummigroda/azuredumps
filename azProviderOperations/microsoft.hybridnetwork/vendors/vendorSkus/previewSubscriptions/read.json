@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/vendorSkus/previewSubscriptions/read",
+  "OperationName": "VendorSkuPreview_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors/vendorSkus/previewSubscriptions",
+  "Description": "Gets the preview information of a vendor sku.",
+  "IsDataAction": false
+}

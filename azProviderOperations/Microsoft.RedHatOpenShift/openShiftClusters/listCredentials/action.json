@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/listCredentials/action",
+  "OperationName": "List credentials of an OpenShift cluster",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "openShiftClusters",
+  "Description": null,
+  "IsDataAction": false
+}

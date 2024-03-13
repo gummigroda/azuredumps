@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/remediations/delete",
+  "OperationName": "Delete Policy Remediations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Remediations",
+  "Description": "Delete policy remediations.",
+  "IsDataAction": false
+}

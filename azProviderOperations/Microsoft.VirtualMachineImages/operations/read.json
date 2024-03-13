@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/operations/read",
+  "OperationName": "List available Virtual Machine Image Builder Operations",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "Operation",
+  "Description": "List available Virtual Machine Image Builder Operations",
+  "IsDataAction": false
+}

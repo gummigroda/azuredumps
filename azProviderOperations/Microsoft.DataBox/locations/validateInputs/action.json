@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/locations/validateInputs/action",
+  "OperationName": "Validate Inputs",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Validate Inputs",
+  "Description": "This method does all type of validations.",
+  "IsDataAction": false
+}

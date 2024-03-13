@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/write",
+  "OperationName": "Update Azure Database for PostgreSQL Server Advanced Threat Protection state",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL Server Advanced Threat Protection",
+  "Description": "Enables/Disables Azure Database for PostgreSQL Flexible Server Advanced Threat Protection",
+  "IsDataAction": false
+}

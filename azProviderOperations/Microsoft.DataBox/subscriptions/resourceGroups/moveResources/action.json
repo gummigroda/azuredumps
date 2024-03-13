@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/subscriptions/resourceGroups/moveResources/action",
+  "OperationName": "Move Resource",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Move Resource",
+  "Description": "This method performs the resource move.",
+  "IsDataAction": false
+}

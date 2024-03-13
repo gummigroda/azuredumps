@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/identities/read",
+  "OperationName": "Get System Assigned Identity",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "System Assigned Identities",
+  "Description": "Gets an existing system assigned identity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/getTelemetry/action",
+  "OperationName": "SqlServerInstances_getTelemetry",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances",
+  "Description": "Retrieves SQL Server instance telemetry",
+  "IsDataAction": false
+}

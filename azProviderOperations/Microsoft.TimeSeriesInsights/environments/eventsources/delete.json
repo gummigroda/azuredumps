@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/eventsources/delete",
+  "OperationName": "Delete Event Source",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Event Source",
+  "Description": "Deletes the event source.",
+  "IsDataAction": false
+}

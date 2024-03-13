@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/suspend/action",
+  "OperationName": "Suspend the Capacity.",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Suspends the Capacity.",
+  "IsDataAction": false
+}

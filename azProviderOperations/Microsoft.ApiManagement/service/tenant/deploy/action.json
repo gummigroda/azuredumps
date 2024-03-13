@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/deploy/action",
+  "OperationName": "Runs a deployment task to apply changes from the specified git branch",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Runs a deployment task to apply changes from the specified git branch to the configuration in database.",
+  "IsDataAction": false
+}

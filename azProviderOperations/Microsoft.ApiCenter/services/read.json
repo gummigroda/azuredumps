@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/read",
+  "OperationName": "List services",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Service",
+  "Description": "Returns paginated collection of services.",
+  "IsDataAction": false
+}

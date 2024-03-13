@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/extensions/write",
+  "OperationName": "Performs a database extension operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Performs a database extension operation.",
+  "IsDataAction": false
+}

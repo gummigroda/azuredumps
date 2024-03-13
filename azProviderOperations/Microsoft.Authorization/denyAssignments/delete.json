@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/denyAssignments/delete",
+  "OperationName": "Delete deny assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Deny assignment",
+  "Description": "Delete a deny assignment at the specified scope.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/register/action",
+  "OperationName": "Register Microsoft.AzureActiveDirectory resource provider",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "",
+  "Description": "Register subscription for Microsoft.AzureActiveDirectory resource provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/sharedKey/write",
+  "OperationName": "Create or update VirtualNetworkGatewayConnection SharedKey",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection shared key",
+  "Description": "Creates or updates an existing VirtualNetworkGatewayConnection SharedKey",
+  "IsDataAction": false
+}

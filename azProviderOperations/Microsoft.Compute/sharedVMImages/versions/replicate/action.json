@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMImages/versions/replicate/action",
+  "OperationName": "Replicate SharedVMImageVersion",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMImageVersions",
+  "Description": "Replicate a SharedVMImageVersion to target regions",
+  "IsDataAction": false
+}

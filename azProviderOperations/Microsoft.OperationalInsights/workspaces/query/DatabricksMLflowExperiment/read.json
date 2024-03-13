@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksMLflowExperiment/read",
+  "OperationName": "Read DatabricksMLflowExperiment data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksMLflowExperiment",
+  "Description": "Read data from the DatabricksMLflowExperiment table",
+  "IsDataAction": false
+}

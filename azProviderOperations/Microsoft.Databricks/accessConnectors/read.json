@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/accessConnectors/read",
+  "OperationName": "List Azure Databricks Access Connectors",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "AccessConnector",
+  "Description": "Retrieves a list of Azure Databricks Access Connectors",
+  "IsDataAction": false
+}

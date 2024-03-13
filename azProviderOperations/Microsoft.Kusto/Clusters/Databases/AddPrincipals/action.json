@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/AddPrincipals/action",
+  "OperationName": "Add database principals action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Adds database principals.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/endpoints/delete",
+  "OperationName": "Delete Endpoint",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Deletes endpoints.",
+  "IsDataAction": true
+}

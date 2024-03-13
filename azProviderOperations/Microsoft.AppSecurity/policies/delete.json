@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppSecurity/policies/delete",
+  "OperationName": "Policies_Delete",
+  "ProviderNamespace": "Microsoft.AppSecurity",
+  "ResourceName": "policies",
+  "Description": "Delete a Policy",
+  "IsDataAction": false
+}

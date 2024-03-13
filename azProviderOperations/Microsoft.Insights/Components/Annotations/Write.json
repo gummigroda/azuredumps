@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Annotations/Write",
+  "OperationName": "Application Insights annotation write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights annotations",
+  "Description": "Writing an Application Insights annotation",
+  "IsDataAction": false
+}

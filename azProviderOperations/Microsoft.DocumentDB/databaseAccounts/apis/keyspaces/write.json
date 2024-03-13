@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write keyspace",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Keyspace",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Create a keyspace. Only applicable to API types: 'cassandra'.",
+  "IsDataAction": false
+}

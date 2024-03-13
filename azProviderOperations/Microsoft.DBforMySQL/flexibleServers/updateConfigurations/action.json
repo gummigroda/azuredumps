@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/updateConfigurations/action",
+  "OperationName": "Batch Update Server Configurations",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Updates configurations for the specified server.",
+  "IsDataAction": false
+}

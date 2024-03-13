@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/centralInstances/write",
+  "OperationName": "SAPCentralInstances_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/centralInstances",
+  "Description": "Updates the SAP Central Instance. <br><br>This can be used to update tags.",
+  "IsDataAction": false
+}

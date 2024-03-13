@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/authorizationRules/listkeys/action",
+  "OperationName": "Get Notification Hub Listkeys",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub Authorization Rule",
+  "Description": "Get the Connection String to the Notification Hub",
+  "IsDataAction": false
+}

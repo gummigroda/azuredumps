@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/s3Buckets/read",
+  "OperationName": "S3Buckets_Get",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "s3Buckets",
+  "Description": "Get a S3Bucket",
+  "IsDataAction": false
+}

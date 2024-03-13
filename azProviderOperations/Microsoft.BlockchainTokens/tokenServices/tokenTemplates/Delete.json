@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/tokenTemplates/Delete",
+  "OperationName": "Deletes tokenTemplates resource",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "tokenTemplates",
+  "Description": "Deletes tokenTemplates",
+  "IsDataAction": false
+}

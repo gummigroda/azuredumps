@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/persistentvolumeclaims/write",
+  "OperationName": "Creates/Updates persistentvolumeclaims resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Persistentvolumeclaims",
+  "Description": "Writes persistentvolumeclaims",
+  "IsDataAction": true
+}

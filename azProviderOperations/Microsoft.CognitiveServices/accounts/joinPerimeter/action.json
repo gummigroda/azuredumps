@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/joinPerimeter/action",
+  "OperationName": "Allow to join CognitiveServices account to an given perimeter.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Allow to join CognitiveServices account to an given perimeter.",
+  "IsDataAction": false
+}

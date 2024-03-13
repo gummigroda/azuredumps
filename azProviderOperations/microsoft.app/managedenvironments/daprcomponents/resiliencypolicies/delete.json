@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/resiliencypolicies/delete",
+  "OperationName": "Delete Managed Environment Dapr Component Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component Resiliency Policy",
+  "Description": "Delete Managed Environment Dapr Component Resiliency Policy",
+  "IsDataAction": false
+}

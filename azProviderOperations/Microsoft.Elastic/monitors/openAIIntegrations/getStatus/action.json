@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/openAIIntegrations/getStatus/action",
+  "OperationName": "Get open AI Integration resource Status",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "OpenAIIntegrations",
+  "Description": "Get open AI Integration resource Status",
+  "IsDataAction": false
+}

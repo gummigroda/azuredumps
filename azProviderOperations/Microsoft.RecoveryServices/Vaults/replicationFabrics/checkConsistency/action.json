@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/checkConsistency/action",
+  "OperationName": "Checks Consistency of the Fabric",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Checks Consistency of the Fabric",
+  "IsDataAction": false
+}

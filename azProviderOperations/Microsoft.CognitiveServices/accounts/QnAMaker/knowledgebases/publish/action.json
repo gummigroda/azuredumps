@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/publish/action",
+  "OperationName": "Knowledgebase - Publish",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Publishes all changes in test index of a knowledgebase to its prod index.",
+  "IsDataAction": true
+}

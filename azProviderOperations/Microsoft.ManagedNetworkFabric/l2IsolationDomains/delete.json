@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2IsolationDomains/delete",
+  "OperationName": "L2IsolationDomains_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2IsolationDomains",
+  "Description": "Deletes layer 2 connectivity between compute nodes by managed by named L2 Isolation name.",
+  "IsDataAction": false
+}

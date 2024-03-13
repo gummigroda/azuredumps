@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/read",
+  "OperationName": "chambers_List",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "Lists all Chambers.",
+  "IsDataAction": false
+}

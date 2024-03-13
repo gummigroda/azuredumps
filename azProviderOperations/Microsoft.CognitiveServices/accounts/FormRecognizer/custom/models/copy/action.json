@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/copy/action",
+  "OperationName": "Copy Custom Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Model - Results",
+  "Description": "Copy a custom Form Recognizer model to a target Form Recognizer resource. Before invoking this operation, you must first obtain authorization to copy into ",
+  "IsDataAction": true
+}

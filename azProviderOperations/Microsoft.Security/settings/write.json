@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/settings/write",
+  "OperationName": "Update settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Settings",
+  "Description": "Updates the settings for the scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/migratetoaad/action",
+  "OperationName": "Migrate Fabric To AAD",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Migrate Fabric To AAD",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networks/read",
+  "OperationName": "Networks_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networks",
+  "Description": "Implements Networks list by subscription GET method.",
+  "IsDataAction": false
+}

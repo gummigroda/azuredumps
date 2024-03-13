@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/connectionMonitors/stop/action",
+  "OperationName": "Stop Connection Monitor",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Connection Monitor",
+  "Description": "Stop/pause monitoring connectivity between specified endpoints",
+  "IsDataAction": false
+}

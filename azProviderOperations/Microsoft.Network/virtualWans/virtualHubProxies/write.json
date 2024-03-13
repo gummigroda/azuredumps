@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/virtualHubProxies/write",
+  "OperationName": "Create or update Virtual Hub proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Hub Proxy",
+  "Description": "Creates a Virtual Hub proxy or updates a Virtual Hub proxy",
+  "IsDataAction": false
+}

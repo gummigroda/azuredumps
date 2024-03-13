@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Delete a Network Security Perimeter Association Proxy",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Delete an association proxy to a Network Security Perimeter resource of Microsoft.Network provider.",
+  "IsDataAction": false
+}

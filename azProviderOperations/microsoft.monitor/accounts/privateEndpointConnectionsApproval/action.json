@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionsApproval/action",
+  "OperationName": "Give approval to Monitoring Account Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Give approval to any Monitoring Account Private Endpoint Connection",
+  "IsDataAction": false
+}

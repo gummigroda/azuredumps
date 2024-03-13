@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/deploymentslots/state/read",
+  "OperationName": "Get Deployment Slot State",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot State",
+  "Description": "Get the deployment slot state.",
+  "IsDataAction": false
+}

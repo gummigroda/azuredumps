@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alertsSummary/read",
+  "OperationName": "Read alerts summary",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "alertsSummary",
+  "Description": "Get the summary of alerts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSCallSummary/read",
+  "OperationName": "Read ACSCallSummary data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSCallSummary",
+  "Description": "Read data from the ACSCallSummary table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/proximityPlacementGroups/write",
+  "OperationName": "Create or Update Proximity Placement Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Proximity Placement Groups",
+  "Description": "Creates a new Proximity Placement Group or updates an existing one",
+  "IsDataAction": false
+}

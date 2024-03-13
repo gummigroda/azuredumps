@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NCSStorageAlerts/read",
+  "OperationName": "Read NCSStorageAlerts data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NCSStorageAlerts",
+  "Description": "Read data from the NCSStorageAlerts table",
+  "IsDataAction": false
+}

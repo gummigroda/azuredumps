@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/watchers/stop/action",
+  "OperationName": "Stop an Azure Automation watcher job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation watcher job",
+  "Description": "Stop an Azure Automation watcher job",
+  "IsDataAction": false
+}

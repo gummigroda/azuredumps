@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/locations/cloudHsmOperationResults/read",
+  "OperationName": "Check Operation Result",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "Long Run Operation Result",
+  "Description": "Check the result of a long run operation",
+  "IsDataAction": false
+}

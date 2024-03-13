@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/arczones/Read",
+  "OperationName": "Gets/List arczones resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "arczones",
+  "Description": "Read arczones",
+  "IsDataAction": false
+}

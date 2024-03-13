@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/register/action",
+  "OperationName": "Registers the Microsoft SQL Database Resource Provider",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft SQL Database resource provider and enables the creation of Microsoft SQL Databases.",
+  "IsDataAction": false
+}

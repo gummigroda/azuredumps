@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Create or Update Network Security Perimeter Association Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Create or update a network security perimeter association proxy under the specified configuration store.",
+  "IsDataAction": false
+}

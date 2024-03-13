@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/policy/podsecuritypolicies/write",
+  "OperationName": "Creates/Updates podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "podsecuritypolicies",
+  "Description": "Writes podsecuritypolicies",
+  "IsDataAction": true
+}

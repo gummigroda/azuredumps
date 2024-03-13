@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/configmaps/write",
+  "OperationName": "Creates/Updates configmaps resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "configmaps",
+  "Description": "Writes configmaps",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/write",
+  "OperationName": "Creates or updates private link service",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Creates or updates resource for the tenant private link service.",
+  "IsDataAction": false
+}

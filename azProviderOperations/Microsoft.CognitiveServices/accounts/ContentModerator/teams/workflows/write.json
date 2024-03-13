@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/workflows/write",
+  "OperationName": "Workflow - Create Or Update",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage workflows.",
+  "Description": "Create a new workflow or update an existing one.",
+  "IsDataAction": true
+}

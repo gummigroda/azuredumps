@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ExchangeOnlineAssessmentRecommendation/Read",
+  "OperationName": "Read ExchangeOnlineAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ExchangeOnlineAssessmentRecommendation",
+  "Description": "Read data from the ExchangeOnlineAssessmentRecommendation table",
+  "IsDataAction": false
+}

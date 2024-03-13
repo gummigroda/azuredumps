@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

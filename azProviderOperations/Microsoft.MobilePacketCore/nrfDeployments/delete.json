@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nrfDeployments/delete",
+  "OperationName": "NrfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nrfDeployments",
+  "Description": "Delete a NrfDeploymentResource",
+  "IsDataAction": false
+}

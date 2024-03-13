@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection Proxy",
+  "Description": "Validates a Device Update Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

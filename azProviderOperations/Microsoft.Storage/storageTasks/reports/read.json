@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageTasks/reports/read",
+  "OperationName": "List Storage Task Run Reports",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Task Run Statuses",
+  "Description": "List run statuses of a storage task",
+  "IsDataAction": false
+}

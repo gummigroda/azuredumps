@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/package/slot/gzip/read",
+  "OperationName": "Package published application as GZip",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Get GZip package for published application slot",
+  "Description": "Packages published LUIS application as GZip",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/read",
+  "OperationName": "Get Security Admin Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Rule",
+  "Description": "Get Security Admin Rule",
+  "IsDataAction": false
+}

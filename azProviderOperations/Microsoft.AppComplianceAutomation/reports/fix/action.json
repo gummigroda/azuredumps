@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/fix/action",
+  "OperationName": "Reports_Fix",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Fix the AppComplianceAutomation report error. e.g: App Compliance Automation Tool service unregistered, automation removed.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/reservationSummaries/read",
+  "OperationName": "List Reservation Utilization Summaries",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "ReservationSummaries",
+  "Description": "List the utilization summary for reserved instances by reservation order or managment groups. The summary data is either at monthly or daily level.",
+  "IsDataAction": false
+}

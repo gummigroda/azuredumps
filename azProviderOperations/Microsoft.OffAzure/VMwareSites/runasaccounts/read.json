@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/runasaccounts/read",
+  "OperationName": "Get VMware run as accounts",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "RunAsAccounts",
+  "Description": "Gets the properties of a VMware run as accounts",
+  "IsDataAction": false
+}

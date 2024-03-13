@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/tagsandregions/suggestions/action",
+  "OperationName": "SuggestTagsAndRegions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tagsandregions*",
+  "Description": "This API will get suggested tags and regions for an array/batch of untagged images along with confidences for the tags. It returns an empty array if no tags are found.",
+  "IsDataAction": true
+}

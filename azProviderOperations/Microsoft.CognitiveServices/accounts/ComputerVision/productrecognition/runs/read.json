@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/productrecognition/runs/read",
+  "OperationName": "ProductRecognition_Get|ProductRecognition_List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "runs*",
+  "Description": "Get information about a specific product recognition run.\r\nList all product recognition run of a model.*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Perform validation on Monitoring Account Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Perform validation on any Monitoring Account Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

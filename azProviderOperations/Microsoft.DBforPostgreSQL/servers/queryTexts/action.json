@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/queryTexts/action",
+  "OperationName": "List query text of a query",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Return the text of a query",
+  "IsDataAction": false
+}

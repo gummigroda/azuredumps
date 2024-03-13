@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeAppInstance/Read",
+  "OperationName": "Read MAOfficeAppInstance data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeAppInstance",
+  "Description": "Read data from the MAOfficeAppInstance table",
+  "IsDataAction": false
+}

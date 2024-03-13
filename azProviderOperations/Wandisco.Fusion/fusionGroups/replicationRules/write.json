@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ReplicationRules",
+  "Description": "Create or update a replicationRule",
+  "IsDataAction": false
+}

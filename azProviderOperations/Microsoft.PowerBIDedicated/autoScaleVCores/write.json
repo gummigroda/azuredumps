@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/autoScaleVCores/write",
+  "OperationName": "Create/Update Power BI Auto Scale V-Core.",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "autoScaleVCores",
+  "Description": "Creates or updates the specified Power BI Auto Scale V-Core.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/whatIfSnapshot/action",
+  "OperationName": "MobilePacketCores_WhatIfSnapshot",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores",
+  "Description": "action whatIfSnapshot",
+  "IsDataAction": false
+}

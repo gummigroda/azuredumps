@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/validateResourceOwnership/action",
+  "OperationName": "Validate Resource Ownership",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Validates Resource Ownership",
+  "IsDataAction": false
+}

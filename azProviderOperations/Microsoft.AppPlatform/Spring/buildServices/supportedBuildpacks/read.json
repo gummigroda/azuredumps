@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/supportedBuildpacks/read",
+  "OperationName": "Read Microsoft Azure Spring Apps Supported Buildpacks",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The supported buildpack of Microsoft Azure Spring Apps",
+  "Description": "Get the Supported Buildpacks for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

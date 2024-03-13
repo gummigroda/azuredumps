@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/permissions/read",
+  "OperationName": "permissions - Get user access list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "permissions*",
+  "Description": "Gets the list of user emails that have permissions to access your application. ",
+  "IsDataAction": true
+}

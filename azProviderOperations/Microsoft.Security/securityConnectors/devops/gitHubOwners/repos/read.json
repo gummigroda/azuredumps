@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitHubOwners/repos/read",
+  "OperationName": "GitHubRepos_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitHubOwners Repos",
+  "Description": "Returns a list of GitHub repositories onboarded to the connector.",
+  "IsDataAction": false
+}

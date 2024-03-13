@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkruleset/write",
+  "OperationName": "Create VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Rule Set",
+  "Description": "Create VNET Rule Resource",
+  "IsDataAction": false
+}

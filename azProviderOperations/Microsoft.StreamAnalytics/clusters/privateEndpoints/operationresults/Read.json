@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/clusters/privateEndpoints/operationresults/Read",
+  "OperationName": "Read operation results for Stream Analytics Cluster Private Endpoint",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Cluster Private Endpoint",
+  "Description": "Read operation results for Stream Analytics Cluster Private Endpoint",
+  "IsDataAction": false
+}

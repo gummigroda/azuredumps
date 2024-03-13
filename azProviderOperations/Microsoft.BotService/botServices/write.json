@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/write",
+  "OperationName": "Write a Bot Service",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Write a Bot Service",
+  "IsDataAction": false
+}

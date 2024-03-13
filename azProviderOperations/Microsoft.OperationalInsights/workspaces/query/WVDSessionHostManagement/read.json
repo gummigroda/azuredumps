@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WVDSessionHostManagement/read",
+  "OperationName": "Read WVDSessionHostManagement data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WVDSessionHostManagement",
+  "Description": "Read data from the WVDSessionHostManagement table",
+  "IsDataAction": false
+}

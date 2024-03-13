@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionManagedInstanceBackups/read",
+  "OperationName": "List/Get managed instance LTR backups for specified location",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Database Long Term Retention Backup",
+  "Description": "Returns a list of managed instance LTR backups for a specific location ",
+  "IsDataAction": false
+}

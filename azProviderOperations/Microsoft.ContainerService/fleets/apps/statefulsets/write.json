@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apps/statefulsets/write",
+  "OperationName": "Creates/Updates statefulsets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Statefulsets",
+  "Description": "Writes statefulsets",
+  "IsDataAction": true
+}

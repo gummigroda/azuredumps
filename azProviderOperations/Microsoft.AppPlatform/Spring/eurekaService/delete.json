@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/eurekaService/delete",
+  "OperationName": "Delete app registration of eureka server from Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The app(s) registration of eureka server from Microsoft Azure Spring Apps",
+  "Description": "Delete the user app registration information for a specific Azure Spring Apps service instance",
+  "IsDataAction": true
+}

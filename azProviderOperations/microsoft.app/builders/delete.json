@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builders/delete",
+  "OperationName": "Delete a Builder",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Builder",
+  "Description": "Delete a Builder",
+  "IsDataAction": false
+}

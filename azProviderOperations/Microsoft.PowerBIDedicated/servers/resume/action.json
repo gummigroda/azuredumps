@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/resume/action",
+  "OperationName": "Resume the Server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Resumes the Server.",
+  "IsDataAction": false
+}

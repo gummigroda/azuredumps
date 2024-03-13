@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/operations/Read",
+  "OperationName": "Read Stream Analytics Operations",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Operations",
+  "Description": "Read Stream Analytics Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/Insights/Read",
+  "OperationName": "GetsorListInsights",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "Insights",
+  "Description": "ReadsInsights",
+  "IsDataAction": false
+}

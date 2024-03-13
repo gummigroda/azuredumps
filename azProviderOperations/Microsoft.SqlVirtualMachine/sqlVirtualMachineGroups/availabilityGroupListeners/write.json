@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/write",
+  "OperationName": "Create new or update existing availability group listener",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL availability group listener",
+  "Description": "Create a new or changes properties of existing SQL availability group listener",
+  "IsDataAction": false
+}

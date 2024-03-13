@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/run-gpt/action",
+  "OperationName": "AnalyzeText_Internal_GPT_TriggerGptJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Trigger GPT job.",
+  "IsDataAction": true
+}

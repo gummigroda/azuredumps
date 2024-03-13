@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/delete",
+  "OperationName": "Delete Cassandra keyspace",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Keyspace",
+  "Description": "Delete a Cassandra keyspace.",
+  "IsDataAction": false
+}

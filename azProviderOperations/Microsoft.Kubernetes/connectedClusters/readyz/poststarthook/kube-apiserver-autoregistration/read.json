@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/poststarthook/kube-apiserver-autoregistration/read",
+  "OperationName": "Gets/List kube-apiserver-autoregistration resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/poststarthook/kube-apiserver-autoregistration",
+  "Description": "Reads kube-apiserver-autoregistration",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/privateLinkResources/read",
+  "OperationName": "Read Private Link Resource",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "PrivateLinkResource",
+  "Description": "Read any Private Link Resource",
+  "IsDataAction": false
+}

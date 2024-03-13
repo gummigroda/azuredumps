@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/NewsSearch/trendingtopics/action",
+  "OperationName": "Get trending topics",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "News Search - v7",
+  "Description": "Get trending topics identified by Bing. These are the same topics shown in the banner at the bottom of the Bing home page.",
+  "IsDataAction": true
+}

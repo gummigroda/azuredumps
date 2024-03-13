@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/versions/read",
+  "OperationName": "Get Application Package",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Application Packages",
+  "Description": "Gets the properties of an application package",
+  "IsDataAction": false
+}

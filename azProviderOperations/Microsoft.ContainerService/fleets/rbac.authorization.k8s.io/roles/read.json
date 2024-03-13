@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/roles/read",
+  "OperationName": "Gets/List roles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Roles",
+  "Description": "Reads roles",
+  "IsDataAction": true
+}

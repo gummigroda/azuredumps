@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/datastores/Delete",
+  "OperationName": "Deletes datastores resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "datastores",
+  "Description": "Deletes datastores",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/delete",
+  "OperationName": "Delete Vault",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Delete Vault operation deletes the specified Azure resource of type 'vault'",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/manualUpgrade/action",
+  "OperationName": "Manual Upgrade Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Manually updates instances to latest model of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

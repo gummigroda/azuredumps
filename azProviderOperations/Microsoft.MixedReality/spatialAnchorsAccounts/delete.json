@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/delete",
+  "OperationName": "Delete Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Delete spatial anchors",
+  "IsDataAction": true
+}

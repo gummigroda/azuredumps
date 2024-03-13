@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/migrations/write",
+  "OperationName": "Update a database migration workflow.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Database Migration Workflow",
+  "Description": "Update the properties for the specified migration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/evaluations/delete",
+  "OperationName": "Delete Evaluation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Delete the Offline Evaluation associated with the Id.",
+  "IsDataAction": true
+}

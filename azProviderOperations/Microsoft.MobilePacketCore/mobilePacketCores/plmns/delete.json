@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/plmns/delete",
+  "OperationName": "Plmns_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/plmns",
+  "Description": "Deletes the specified Mobile Packet Core Public Land Mobile Network resource",
+  "IsDataAction": false
+}

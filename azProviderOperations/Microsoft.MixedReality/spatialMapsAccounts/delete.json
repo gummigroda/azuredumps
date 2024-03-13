@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/spatialMapsAccounts/delete",
+  "OperationName": "spatialMapsAccounts_DeleteData",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "spatialMapsAccounts",
+  "Description": "Deletes a spatialMapsAccounts data for a given name.",
+  "IsDataAction": true
+}

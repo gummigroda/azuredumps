@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificatecas/delete",
+  "OperationName": "Delete Certificate Issuer",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate Issuer",
+  "Description": "Delete Certificate Issuer",
+  "IsDataAction": true
+}

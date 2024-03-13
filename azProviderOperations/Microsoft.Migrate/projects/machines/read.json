@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/projects/machines/read",
+  "OperationName": "Get Machine",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Machines",
+  "Description": "Gets the properties of a machine",
+  "IsDataAction": false
+}

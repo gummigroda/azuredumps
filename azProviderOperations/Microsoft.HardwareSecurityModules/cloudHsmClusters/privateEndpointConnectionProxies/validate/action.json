@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validate a connection proxy to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

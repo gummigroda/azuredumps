@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/collections/disableApproveAllItems/action",
+  "OperationName": "Disable approve all items",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Approve all items for collection",
+  "Description": "Set approve all items property to false for the collection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SecurityAlert/read",
+  "OperationName": "Read SecurityAlert data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SecurityAlert",
+  "Description": "Read data from the SecurityAlert table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/delete",
+  "OperationName": "PersonGroup - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persongroups*",
+  "Description": "Delete an existing person group with specified personGroupId. Persisted data in this person group will be deleted.",
+  "IsDataAction": true
+}

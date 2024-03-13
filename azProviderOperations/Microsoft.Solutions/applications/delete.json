@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/delete",
+  "OperationName": "Applications_Delete",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "Deletes the managed application.",
+  "IsDataAction": false
+}

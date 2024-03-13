@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/diagnostics/write",
+  "OperationName": "Add diagnostic or Update diagnostic",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API diagnostics",
+  "Description": "Creates a new Diagnostic for a workspace or updates an existing one. or Updates the details of the Diagnostic for a workspace specified by its identifier.",
+  "IsDataAction": false
+}

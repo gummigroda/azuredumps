@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/catalogs/delete",
+  "OperationName": "Catalog_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "catalogs",
+  "Description": "Delete a CatalogResource",
+  "IsDataAction": false
+}

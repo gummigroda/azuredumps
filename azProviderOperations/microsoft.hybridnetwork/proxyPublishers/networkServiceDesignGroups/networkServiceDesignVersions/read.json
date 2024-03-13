@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/proxyPublishers/networkServiceDesignGroups/networkServiceDesignVersions/read",
+  "OperationName": "ProxyNetworkServiceDesignVersions_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "proxyPublishers/networkServiceDesignGroups/networkServiceDesignVersions",
+  "Description": "Get information about network service design version overview.",
+  "IsDataAction": false
+}

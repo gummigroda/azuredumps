@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/serviceArtifacts/write",
+  "OperationName": "Create or Update Gallery Service Artifact",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryServiceArtifacts",
+  "Description": "Creates a new Gallery Service Artifact or updates an existing one",
+  "IsDataAction": false
+}

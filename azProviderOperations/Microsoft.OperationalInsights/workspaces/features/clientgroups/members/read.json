@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/features/clientGroups/members/read",
+  "OperationName": "Get the Client Groups Members of a resource",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ClientGroupsMembers",
+  "Description": "Get the Client Groups Members of a resource.",
+  "IsDataAction": false
+}

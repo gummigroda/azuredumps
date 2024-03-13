@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/locations/sapVirtualInstanceMetadata/getSizingRecommendations/action",
+  "OperationName": "SAPSizingRecommendations",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "locations/sapVirtualInstanceMetadata",
+  "Description": "Get SAP sizing recommendations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/SOA/read",
+  "OperationName": "Gets DNS record set of type SOA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type SOA",
+  "Description": "Gets DNS record set of type SOA",
+  "IsDataAction": false
+}

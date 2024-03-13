@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/OfficeActivity/Read",
+  "OperationName": "Read OfficeActivity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "OfficeActivity",
+  "Description": "Read data from the OfficeActivity table",
+  "IsDataAction": false
+}

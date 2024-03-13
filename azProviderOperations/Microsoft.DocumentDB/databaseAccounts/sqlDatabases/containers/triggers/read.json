@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/read",
+  "OperationName": "Read SQL trigger(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Tirgger",
+  "Description": "Read a SQL trigger or list all the SQL triggers.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoorWebApplicationFirewallManagedRuleSets/read",
+  "OperationName": "Gets Web Application Firewall Managed Rule Sets",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Web Application Firewall Managed Rule Sets",
+  "Description": "Gets Web Application Firewall Managed Rule Sets",
+  "IsDataAction": false
+}

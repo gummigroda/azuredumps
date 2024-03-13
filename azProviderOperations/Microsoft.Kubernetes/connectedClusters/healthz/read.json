@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/read",
+  "OperationName": "Gets/List healthz resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz",
+  "Description": "Reads healthz",
+  "IsDataAction": true
+}

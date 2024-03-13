@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/roles/escalate/action",
+  "OperationName": "Escalate roles resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "roles",
+  "Description": "Escalates roles",
+  "IsDataAction": true
+}

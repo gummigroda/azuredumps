@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/accessPolicies/delete",
+  "OperationName": "Delete Access Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Access Policy Resource",
+  "Description": "Delete any Access Policy",
+  "IsDataAction": false
+}

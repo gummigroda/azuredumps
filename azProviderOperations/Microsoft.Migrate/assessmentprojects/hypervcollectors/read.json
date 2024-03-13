@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/hypervcollectors/read",
+  "OperationName": "Get HyperV collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "HyperV Collector",
+  "Description": "Gets the properties of HyperV collector",
+  "IsDataAction": false
+}

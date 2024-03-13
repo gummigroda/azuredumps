@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/readyz/poststarthook/ca-registration/read",
+  "OperationName": "Gets/List ca-registration resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Ca-Registration",
+  "Description": "Reads ca-registration",
+  "IsDataAction": true
+}

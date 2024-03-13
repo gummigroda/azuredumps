@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/LogProfiles/Delete",
+  "OperationName": "Delete Activity Log log profile",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Log Profiles",
+  "Description": "Delete an Activity Log log profile",
+  "IsDataAction": false
+}

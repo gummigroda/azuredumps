@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightOozieLogs/read",
+  "OperationName": "Read HDInsightOozieLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightOozieLogs",
+  "Description": "Read data from the HDInsightOozieLogs table",
+  "IsDataAction": false
+}

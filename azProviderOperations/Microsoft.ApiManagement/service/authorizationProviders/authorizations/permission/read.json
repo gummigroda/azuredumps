@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/authorizations/permission/read",
+  "OperationName": "Get Authorization Permission list or Get Authorization Permission details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Authorization Permission",
+  "Description": "Lists Authorization Permissions or Get Authorization Permission",
+  "IsDataAction": false
+}

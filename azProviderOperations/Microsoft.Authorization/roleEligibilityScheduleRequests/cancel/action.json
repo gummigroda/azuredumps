@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleEligibilityScheduleRequests/cancel/action",
+  "OperationName": "Cancel Role eligibility schedule request",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role eligibility schedule request",
+  "Description": "Cancels a pending role eligibility schedule request.",
+  "IsDataAction": false
+}

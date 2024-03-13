@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/publicIPAddresses/read",
+  "OperationName": "Get all public IP addresses of a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Public IP addresses of a Virtual Machine Scale Set",
+  "Description": "Get properties of all public IP addresses of a Virtual Machine Scale Set",
+  "IsDataAction": false
+}

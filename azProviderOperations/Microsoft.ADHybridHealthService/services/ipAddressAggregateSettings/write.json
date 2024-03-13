@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/ipAddressAggregateSettings/write",
+  "OperationName": "Writes ipAddressAggregateSettings.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Writes alarm thresholds for bad IPs.",
+  "IsDataAction": false
+}

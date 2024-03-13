@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/read",
+  "OperationName": "Get Network Manager",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Get Network Manager",
+  "IsDataAction": false
+}

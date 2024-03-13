@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/skus/read",
+  "OperationName": "Read Chaos Studio SKUs.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Skus",
+  "Description": "Read the available SKUs for Chaos Studio.",
+  "IsDataAction": false
+}

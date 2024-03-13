@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Database Diagnostic Settings",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

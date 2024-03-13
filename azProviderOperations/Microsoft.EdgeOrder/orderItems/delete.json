@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/orderItems/delete",
+  "OperationName": "Delete OrderItem",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "OrderItem",
+  "Description": "Delete the OrderItem",
+  "IsDataAction": false
+}

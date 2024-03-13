@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/locations/deletedservices/delete",
+  "OperationName": "Purge API Management Service",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Deleted API Management Service",
+  "Description": "Delete API Management Service without the option to restore it",
+  "IsDataAction": false
+}

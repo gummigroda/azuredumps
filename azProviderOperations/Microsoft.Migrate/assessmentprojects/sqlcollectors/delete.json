@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/sqlcollectors/delete",
+  "OperationName": "Delete SQL collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Collector",
+  "Description": "Deletes the SQL collector",
+  "IsDataAction": false
+}

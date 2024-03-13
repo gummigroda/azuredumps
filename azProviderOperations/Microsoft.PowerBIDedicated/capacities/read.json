@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/read",
+  "OperationName": "Read Power BI Dedicated Capacity",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Retrieves the information of the specified Power BI Dedicated Capacity.",
+  "IsDataAction": false
+}

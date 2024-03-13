@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/delete",
+  "OperationName": "ProvisionedClusters_Delete",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters",
+  "Description": "Deletes the Hybrid AKS provisioned cluster",
+  "IsDataAction": false
+}

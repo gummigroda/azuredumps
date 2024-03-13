@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/logs/read",
+  "OperationName": "Gets agent logs.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Agent Logs",
+  "Description": "Gets agent installation and registration logs for the tenant.",
+  "IsDataAction": false
+}

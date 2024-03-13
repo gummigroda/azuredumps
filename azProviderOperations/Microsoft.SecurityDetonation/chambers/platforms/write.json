@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/platforms/write",
+  "OperationName": "Platforms Write",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Platforms",
+  "Description": "Allows adding or modifying platforms",
+  "IsDataAction": true
+}

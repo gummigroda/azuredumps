@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/products/uploadProductLog/action",
+  "OperationName": "Upload Azure Stack Marketplace Product Operation Log",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Marketplace Product",
+  "Description": "Record Azure Stack Marketplace product operation status and timestamp",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/samples/read",
+  "OperationName": "Gets the sample notebooks",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Notebooks",
+  "Description": "Gets the sample notebooks",
+  "IsDataAction": false
+}

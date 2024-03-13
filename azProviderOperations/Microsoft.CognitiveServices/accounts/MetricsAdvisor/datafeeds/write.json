@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/write",
+  "OperationName": "Create or update a data feed",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Data feed",
+  "Description": "Create or update a data feed.",
+  "IsDataAction": true
+}

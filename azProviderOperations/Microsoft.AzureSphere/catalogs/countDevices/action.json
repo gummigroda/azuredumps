@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/countDevices/action",
+  "OperationName": "Catalogs_CountDevices",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Counts devices in catalog.",
+  "IsDataAction": false
+}

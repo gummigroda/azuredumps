@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/recoverableDatabases/read",
+  "OperationName": "List/Get recoverable database(s).",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Return the list of recoverable databases or gets the properties for the specified recoverable database.",
+  "IsDataAction": false
+}

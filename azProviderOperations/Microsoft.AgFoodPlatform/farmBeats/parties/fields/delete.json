@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/fields/delete",
+  "OperationName": "Delete AgFoodPlatform fields resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform fields",
+  "Description": "Deletes an existing AgFoodPlatform fields resource.",
+  "IsDataAction": true
+}

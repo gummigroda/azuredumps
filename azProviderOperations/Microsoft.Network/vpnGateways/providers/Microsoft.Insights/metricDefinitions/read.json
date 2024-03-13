@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnGateways/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Vpn Gateway metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Gateway metric definition",
+  "Description": "Gets the available metrics for Vpn Gateway",
+  "IsDataAction": false
+}

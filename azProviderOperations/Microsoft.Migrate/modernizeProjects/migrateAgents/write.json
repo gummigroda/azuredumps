@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/migrateAgents/write",
+  "OperationName": "Puts the MigrateAgent",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Creates the modernizeProject agent",
+  "IsDataAction": false
+}

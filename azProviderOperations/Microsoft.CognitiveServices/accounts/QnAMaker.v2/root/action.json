@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker.v2/root/action",
+  "OperationName": "QnA Maker",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "QnA Maker",
+  "Description": "QnA Maker",
+  "IsDataAction": true
+}

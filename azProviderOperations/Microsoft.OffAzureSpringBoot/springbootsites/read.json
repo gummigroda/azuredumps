@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/read",
+  "OperationName": "springbootsites_ListBySubscription",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites",
+  "Description": "Listspringbootsitesresourcebysubscription",
+  "IsDataAction": false
+}

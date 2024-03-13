@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/write",
+  "OperationName": "Create or Update Mongo Cluster",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster",
+  "Description": "Create or Update the properties or tags of the specified Mongo Cluster.",
+  "IsDataAction": false
+}

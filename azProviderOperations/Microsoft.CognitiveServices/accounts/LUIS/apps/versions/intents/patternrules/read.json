@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/patternrules/read",
+  "OperationName": "Get intent patterns",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern rules",
+  "Description": "Gets the patterns for a specific intent.",
+  "IsDataAction": true
+}

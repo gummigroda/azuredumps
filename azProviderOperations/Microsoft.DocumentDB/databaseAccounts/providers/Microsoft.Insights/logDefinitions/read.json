@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read database account log definitions",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Gets the available log catageries for Database Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/scheduling/bootstrap-system-priority-classes/read",
+  "OperationName": "Gets/List bootstrap-system-priority-classes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/bootstrap-system-priority-classes",
+  "Description": "Reads bootstrap-system-priority-classes",
+  "IsDataAction": true
+}

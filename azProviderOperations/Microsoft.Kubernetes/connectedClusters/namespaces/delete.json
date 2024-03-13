@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/namespaces/delete",
+  "OperationName": "Deletes/DeletesCollection namespaces resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "namespaces",
+  "Description": "Deletes namespaces",
+  "IsDataAction": true
+}

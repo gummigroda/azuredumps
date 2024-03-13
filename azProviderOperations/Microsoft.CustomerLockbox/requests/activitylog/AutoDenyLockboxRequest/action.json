@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomerLockbox/requests/activitylog/AutoDenyLockboxRequest/action",
+  "OperationName": "AutoDeny Lockbox Request",
+  "ProviderNamespace": "Microsoft Customer Lockbox",
+  "ResourceName": "Customer Lockbox Request",
+  "Description": "AutoDeny Lockbox Request",
+  "IsDataAction": false
+}

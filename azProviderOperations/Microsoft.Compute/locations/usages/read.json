@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/usages/read",
+  "OperationName": "Get Usage Metrics",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Usage Metrics",
+  "Description": "Gets service limits and current usage quantities for the subscription's compute resources in a location",
+  "IsDataAction": false
+}

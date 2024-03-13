@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/tokens/operationStatuses/read",
+  "OperationName": "Get token async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Tokens",
+  "Description": "Gets a token async operation status.",
+  "IsDataAction": false
+}

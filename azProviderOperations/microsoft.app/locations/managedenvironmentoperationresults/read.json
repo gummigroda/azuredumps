@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/managedenvironmentoperationresults/read",
+  "OperationName": "Read Managed Environment Operation Result",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Get a Managed Environment Long Running Operation Result",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/skus/read",
+  "OperationName": "List Skus",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Sku",
+  "Description": "Lists the Skus supported by Microsoft.Storage.",
+  "IsDataAction": false
+}

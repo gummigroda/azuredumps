@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Gets the metric definitions for ExpressRoute Circuit Peerings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoute Circuit Peerings metric definitions",
+  "Description": "Gets the metric definitions for ExpressRoute Circuit Peerings",
+  "IsDataAction": false
+}

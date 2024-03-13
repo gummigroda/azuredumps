@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/linkedBackends/Read",
+  "OperationName": "Get Static Site Linked Backends",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Linked Backends",
+  "Description": "Get Static Site Linked Backends",
+  "IsDataAction": false
+}

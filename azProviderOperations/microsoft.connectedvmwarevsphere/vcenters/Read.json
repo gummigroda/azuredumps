@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/Read",
+  "OperationName": "Gets/List vcenters resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters",
+  "Description": "Read vcenters",
+  "IsDataAction": false
+}

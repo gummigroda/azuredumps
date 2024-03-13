@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/access/deleteRoleBinding/delete",
+  "OperationName": "Delete confluent roles of user in confluent organization",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "access",
+  "Description": "Delete confluent roles of user in confluent organization",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/processimage/ocr/action",
+  "OperationName": "Image - OCR",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Process images.",
+  "Description": "Returns any text found in the image for the language specified. If no language is specified in input then the detection defaults to English.",
+  "IsDataAction": true
+}

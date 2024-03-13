@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WVDConnections/read",
+  "OperationName": "Read WVDConnections data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WVDConnections",
+  "Description": "Read data from the WVDConnections table",
+  "IsDataAction": false
+}

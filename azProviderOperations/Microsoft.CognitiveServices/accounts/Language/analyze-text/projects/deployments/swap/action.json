@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deployments/swap/action",
+  "OperationName": "AnalyzeText_Deployments_TriggerSwapDeployments",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Trigger job to swap two deployments.",
+  "IsDataAction": true
+}

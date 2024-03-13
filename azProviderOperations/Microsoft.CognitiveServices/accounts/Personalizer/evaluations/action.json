@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/evaluations/action",
+  "OperationName": "Submit a new evaluation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Personalizer API",
+  "Description": "Submit a new evaluation.",
+  "IsDataAction": true
+}

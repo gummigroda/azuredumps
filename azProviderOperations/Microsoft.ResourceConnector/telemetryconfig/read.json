@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/telemetryconfig/read",
+  "OperationName": "Get Appliances Telemetry Config",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Get Appliances telemetry config utilized by Appliances CLI",
+  "IsDataAction": false
+}

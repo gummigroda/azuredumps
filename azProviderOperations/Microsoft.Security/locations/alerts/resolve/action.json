@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/alerts/resolve/action",
+  "OperationName": "Resolve Alert",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alerts",
+  "Description": "Resolve a security alert",
+  "IsDataAction": false
+}

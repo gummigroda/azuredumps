@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoorWebApplicationFirewallPolicies/join/action",
+  "OperationName": "Join Web Application Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Web Application Firewall Policy",
+  "Description": "Joins a Web Application Firewall Policy. Not Alertable.",
+  "IsDataAction": false
+}

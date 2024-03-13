@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EntitlementManagement/register/action",
+  "OperationName": "Register the Microsoft.EntitlementManagement",
+  "ProviderNamespace": "Microsoft.EntitlementManagement",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.EntitlementManagement",
+  "IsDataAction": false
+}

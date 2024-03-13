@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/iddocument/analyzeresults/read",
+  "OperationName": "Analyze Id Document- Get Analyze Id Document Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyzeresults*",
+  "Description": "Query the status and retrieve the result of an <a href=\"/docs/services/form-recognizer-api-v2-preview/operations/5f74a7738978e467c5fb8707\">Analyze Id</a> operation. The URL to this interface can be obtained from the 'Operation-Location' header in the <a href=\"/docs/services/form-recognizer-api-v2-preview/operations/5f74a7738978e467c5fb8707\">Analyze Id</a> response.",
+  "IsDataAction": true
+}

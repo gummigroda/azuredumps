@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DiagnosticSettingsCategories/Read",
+  "OperationName": "Read diagnostic settings categories",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Diagnostic settings categories resource",
+  "Description": "Read diagnostic settings categories",
+  "IsDataAction": false
+}

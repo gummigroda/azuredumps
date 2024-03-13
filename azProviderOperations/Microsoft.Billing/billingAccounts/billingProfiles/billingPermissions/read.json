@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/billingPermissions/read",
+  "OperationName": "List/Get Billing Permissions by Billing Profile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Permissions",
+  "Description": null,
+  "IsDataAction": false
+}

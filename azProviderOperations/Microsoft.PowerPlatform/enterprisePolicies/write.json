@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/write",
+  "OperationName": "Create or Update Enterprise Policy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Enterprise Policy",
+  "Description": "Creates an enterprise Policy or updates an existing enterprise policy",
+  "IsDataAction": false
+}

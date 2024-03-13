@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/keys/read",
+  "OperationName": "List/Get Azure SQL Managed Instance Key(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Keys",
+  "Description": "Return the list of managed instance keys or gets the properties for the specified managed instance key.",
+  "IsDataAction": false
+}

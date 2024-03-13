@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/connections/delete",
+  "OperationName": "Delete an Azure Automation connection asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Connection Asset",
+  "Description": "Deletes an Azure Automation connection asset",
+  "IsDataAction": false
+}

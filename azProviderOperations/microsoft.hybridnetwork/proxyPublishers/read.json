@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/proxyPublishers/read",
+  "OperationName": "ProxyPublisher_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "proxyPublishers",
+  "Description": "Get a publisher overview information.",
+  "IsDataAction": false
+}

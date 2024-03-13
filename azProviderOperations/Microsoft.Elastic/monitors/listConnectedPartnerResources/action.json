@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listConnectedPartnerResources/action",
+  "OperationName": "List all deployments billed under an organization",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "List all deployments billed under an organization",
+  "IsDataAction": false
+}

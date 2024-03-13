@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/BillingStatistics/read",
+  "OperationName": "Read BillingStatistics",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "BillingStatistics",
+  "Description": "Read BillingStatistics",
+  "IsDataAction": false
+}

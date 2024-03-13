@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/images/refresh/action",
+  "OperationName": "Refresh 1ES Image",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "images",
+  "Description": "Refreshes 1ES images",
+  "IsDataAction": false
+}

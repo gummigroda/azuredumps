@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/tillageData/list/action",
+  "OperationName": "List AgFoodPlatform tillage operation data resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform tillage operations data",
+  "Description": "List(s) existing AgFoodPlatform tillage operation data resource(s).",
+  "IsDataAction": true
+}

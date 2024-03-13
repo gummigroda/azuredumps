@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/tagDescriptions/read",
+  "OperationName": "Tags descriptions in scope of API or Get Tag metadata",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags descriptions",
+  "Description": "Lists all Tags descriptions in scope of API. Model similar to swagger - tagDescription is defined on API level but tag may be assigned to the Operations or Get Tag description in scope of API",
+  "IsDataAction": false
+}

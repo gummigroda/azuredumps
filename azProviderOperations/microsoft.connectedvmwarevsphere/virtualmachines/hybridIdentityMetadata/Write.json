@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/hybridIdentityMetadata/Write",
+  "OperationName": "Write hybridIdentityMetadata resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/hybridIdentityMetadata",
+  "Description": "Write hybridIdentityMetadata",
+  "IsDataAction": false
+}

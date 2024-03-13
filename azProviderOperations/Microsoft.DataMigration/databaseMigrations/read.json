@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/databaseMigrations/read",
+  "OperationName": "Get the Database Migration resource",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Database Migration Resource",
+  "Description": "Retrieve the Database Migration resource",
+  "IsDataAction": false
+}

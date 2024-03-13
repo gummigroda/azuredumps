@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/write",
+  "OperationName": "Add or update Federated Identity Credential",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "Federated Identity Credentials",
+  "Description": "Add or update a Federated Identity Credential",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/read",
+  "OperationName": "Vendors_ListBySubscription",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors",
+  "Description": "Lists all the vendors in a subscription.",
+  "IsDataAction": false
+}

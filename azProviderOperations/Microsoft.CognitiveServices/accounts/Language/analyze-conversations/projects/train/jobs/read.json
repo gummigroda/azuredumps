@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/train/jobs/read",
+  "OperationName": "AnalyzeConversations_Training_GetTrainingJobsList|AnalyzeConversations_Training_GetTrainingJobStatus*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get training jobs.\r\nGet training job status and result details.*",
+  "IsDataAction": true
+}

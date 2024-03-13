@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/global/deployments/resources/read",
+  "OperationName": "Lists assigned resource deployments",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "resources*",
+  "Description": "Lists the deployments to which an Azure resource is assigned. This doesn't return deployments belonging to projects owned by this resource. It only returns deployments belonging to projects owned by other resources.",
+  "IsDataAction": true
+}

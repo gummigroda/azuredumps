@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/events/action",
+  "OperationName": "Get Event Details",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "",
+  "Description": "Endpoint to fetch details for event",
+  "IsDataAction": false
+}

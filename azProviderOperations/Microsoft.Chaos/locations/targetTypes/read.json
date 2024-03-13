@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/locations/targetTypes/read",
+  "OperationName": "Gets all TargetTypes.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "TargetType",
+  "Description": "Gets all TargetTypes.",
+  "IsDataAction": false
+}

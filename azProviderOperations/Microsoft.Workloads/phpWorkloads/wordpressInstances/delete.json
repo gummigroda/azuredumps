@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/phpWorkloads/wordpressInstances/delete",
+  "OperationName": "WordpressInstances_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "phpWorkloads/wordpressInstances",
+  "Description": "Delete WordpressInstances resource",
+  "IsDataAction": false
+}

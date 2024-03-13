@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/pipelines/createrun/action",
+  "OperationName": "Create Pipeline Run",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Creates a run for the Pipeline.",
+  "IsDataAction": false
+}

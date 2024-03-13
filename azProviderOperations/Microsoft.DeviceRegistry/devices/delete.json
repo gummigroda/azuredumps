@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/devices/delete",
+  "OperationName": "Devices_Delete",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "devices",
+  "Description": "Delete a Device",
+  "IsDataAction": false
+}

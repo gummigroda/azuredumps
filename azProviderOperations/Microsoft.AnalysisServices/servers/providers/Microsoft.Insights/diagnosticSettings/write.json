@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Creates or updates the diagnostic setting for Analysis Server",
+  "IsDataAction": false
+}

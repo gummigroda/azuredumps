@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/write",
+  "OperationName": "Creates or updates Storage Accounts",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Storage Accounts",
+  "Description": "Creates or updates the Storage Accounts",
+  "IsDataAction": false
+}

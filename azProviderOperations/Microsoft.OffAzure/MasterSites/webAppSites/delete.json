@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/delete",
+  "OperationName": "Delete WebApp site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Site",
+  "Description": "Deletes the WebApp site",
+  "IsDataAction": false
+}

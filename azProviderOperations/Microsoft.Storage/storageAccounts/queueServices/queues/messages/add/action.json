@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/queues/messages/add/action",
+  "OperationName": "Add message",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Service Messages",
+  "Description": "Returns the result of adding a message",
+  "IsDataAction": true
+}

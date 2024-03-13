@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksDeltaPipelines/read",
+  "OperationName": "Read DatabricksDeltaPipelines data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksDeltaPipelines",
+  "Description": "Read data from the DatabricksDeltaPipelines table",
+  "IsDataAction": false
+}

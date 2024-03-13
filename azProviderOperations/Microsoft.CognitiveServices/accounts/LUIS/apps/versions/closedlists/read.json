@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/read",
+  "OperationName": "Get closed list entity info or Get all version closedlist infos",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlists",
+  "Description": "Gets information of a closed list model.\r\nGets information about the closedlist models.",
+  "IsDataAction": true
+}

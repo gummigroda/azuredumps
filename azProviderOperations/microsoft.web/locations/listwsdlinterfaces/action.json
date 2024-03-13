@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/listwsdlinterfaces/action",
+  "OperationName": "List WSDL Interfaces for Locations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations",
+  "Description": "List WSDL Interfaces for Locations.",
+  "IsDataAction": false
+}

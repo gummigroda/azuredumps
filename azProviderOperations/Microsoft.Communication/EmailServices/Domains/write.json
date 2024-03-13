@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/write",
+  "OperationName": "Domain_CreateOrUpdate",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Add a new Domain under the parent EmailService resource or update an existing Domain resource.",
+  "IsDataAction": false
+}

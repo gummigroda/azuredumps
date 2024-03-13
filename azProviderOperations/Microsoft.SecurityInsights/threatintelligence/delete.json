@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/delete",
+  "OperationName": "Delete Threat Intelligence",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Deletes Threat Intelligence",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/unregister/action",
+  "OperationName": "Un-Register Microsoft.Databox",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "",
+  "Description": "Un-Register Provider Microsoft.Databox",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/OEPAuditLogs/read",
+  "OperationName": "Read OEPAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "OEPAuditLogs",
+  "Description": "Read data from the OEPAuditLogs table",
+  "IsDataAction": false
+}

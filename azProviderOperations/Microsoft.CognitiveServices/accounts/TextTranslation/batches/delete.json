@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/batches/delete",
+  "OperationName": "Cancel Document Translation Requests",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Translation Requests Operations",
+  "Description": "Cancel a currently processing or queued document translation request.",
+  "IsDataAction": true
+}

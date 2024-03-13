@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apiVersionSets/read",
+  "OperationName": "Get version set list or Get versionSet details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "ApiVersionSets",
+  "Description": "Lists a collection of API Version Sets in the specified service instance. or Gets the details of the Api Version Set specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/updateRuns/stop/action",
+  "OperationName": "Stops a fleet update run",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "UpdateRuns",
+  "Description": "Stops a fleet update run",
+  "IsDataAction": false
+}

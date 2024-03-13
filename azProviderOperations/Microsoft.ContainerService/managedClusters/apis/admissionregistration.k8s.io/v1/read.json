@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/admissionregistration.k8s.io/v1/read",
+  "OperationName": "Gets/List admissionregistration.k8s.io/v1 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Admissionregistration.K8s.Io/V1",
+  "Description": "Reads admissionregistration.k8s.io/v1",
+  "IsDataAction": true
+}

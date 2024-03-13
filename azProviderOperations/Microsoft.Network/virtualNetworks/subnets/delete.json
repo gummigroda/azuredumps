@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/delete",
+  "OperationName": "Delete Virtual Network Subnet",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Deletes a virtual network subnet",
+  "IsDataAction": false
+}

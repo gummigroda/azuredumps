@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchTiers/Read",
+  "OperationName": "Read Patch Tier",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Tier",
+  "Description": "Read any Patch Tier",
+  "IsDataAction": false
+}

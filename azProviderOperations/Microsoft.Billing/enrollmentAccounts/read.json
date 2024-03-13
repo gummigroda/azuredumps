@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/enrollmentAccounts/read",
+  "OperationName": "List/Get Enrollment Account(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enrollment Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

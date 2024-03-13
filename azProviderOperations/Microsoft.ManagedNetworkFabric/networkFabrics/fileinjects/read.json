@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/fileinjects/read",
+  "OperationName": "FileInjects_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/fileinjects",
+  "Description": "Get the FileInject resource details.",
+  "IsDataAction": false
+}

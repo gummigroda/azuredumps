@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/move/action",
+  "OperationName": "apps - Move app to another LUIS authoring Azure resource",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Moves the app to a different LUIS authoring Azure resource.",
+  "IsDataAction": true
+}

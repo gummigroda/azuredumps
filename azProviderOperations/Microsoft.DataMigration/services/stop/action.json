@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/stop/action",
+  "OperationName": "Stop Azure Database Migration Service",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Stop the Azure Database Migration Service to minimize its cost",
+  "IsDataAction": false
+}

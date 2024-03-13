@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/batchEndpoints/write",
+  "OperationName": "Creates or updates batch inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Batch Endpoints",
+  "Description": "Creates or updates batch inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

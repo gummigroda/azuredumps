@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/workflows/write",
+  "OperationName": "Create or Update Workflow",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Workflows",
+  "Description": "Create or Update any Workflow",
+  "IsDataAction": false
+}

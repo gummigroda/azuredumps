@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/authorizations/read",
+  "OperationName": "Get an ExpressRouteCircuit Authorization",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitAuthorization",
+  "Description": "Gets an ExpressRouteCircuit Authorization",
+  "IsDataAction": false
+}

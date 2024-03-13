@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/ingestions/write",
+  "OperationName": "CreateIngestion",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ingestions*",
+  "Description": "Ingestion request can have either video or image payload at once, but not both.",
+  "IsDataAction": true
+}

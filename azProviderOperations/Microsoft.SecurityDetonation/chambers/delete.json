@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/delete",
+  "OperationName": "Delete SecurityDetonationChamber",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Security Detonation Chambers",
+  "Description": "Deletes an existing SecurityDetonationChamber",
+  "IsDataAction": false
+}

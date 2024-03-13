@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/Locations/OperationStatuses/write",
+  "OperationName": "Write OperationStatuses",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "Write OperationStatuses",
+  "IsDataAction": false
+}

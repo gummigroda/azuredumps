@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalSettings/listSecrets/action",
+  "OperationName": "Get property secrets or Get media content blob container uri",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Portal Settings",
+  "Description": "Gets validation key of portal delegation settings. or Get media content blob container uri.",
+  "IsDataAction": false
+}

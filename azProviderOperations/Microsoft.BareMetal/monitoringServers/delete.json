@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/monitoringServers/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Monitoring Server",
+  "Description": "Delete operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalConfigs/listDelegationSecrets/action",
+  "OperationName": "Get property secrets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "portalConfigs",
+  "Description": "Gets validation key of portal delegation settings.",
+  "IsDataAction": false
+}

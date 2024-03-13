@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/messages/receive/action",
+  "OperationName": "Receive messages",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Messages",
+  "Description": "Receive messages",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupPolicies/delete",
+  "OperationName": "Delete Backup Policy",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Policies",
+  "Description": "Deletes the Backup Policy",
+  "IsDataAction": false
+}

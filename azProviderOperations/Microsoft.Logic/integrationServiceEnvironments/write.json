@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/write",
+  "OperationName": "Set Integration Service Environment",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment",
+  "Description": "Creates or updates the integration service environment.",
+  "IsDataAction": false
+}

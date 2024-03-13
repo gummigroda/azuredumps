@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/configurations/Write",
+  "OperationName": "Create/Update configuration resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "configurations",
+  "Description": "Write configurations",
+  "IsDataAction": false
+}

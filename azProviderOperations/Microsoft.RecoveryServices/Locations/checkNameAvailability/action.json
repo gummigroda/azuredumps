@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/locations/checkNameAvailability/action",
+  "OperationName": "Check Resource Name Availability Action",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Check Resource Name Availability is an API to check if resource name is available",
+  "IsDataAction": false
+}

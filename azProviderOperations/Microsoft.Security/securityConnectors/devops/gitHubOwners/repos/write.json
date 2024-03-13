@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitHubOwners/repos/write",
+  "OperationName": "GitHubRepos_Update",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitHubOwners Repos",
+  "Description": "Updates a monitored GitHub repository.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/locations/operationsStatus/read",
+  "OperationName": "Read Operation Status",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "Operation",
+  "Description": "Read the status of any Operation",
+  "IsDataAction": false
+}

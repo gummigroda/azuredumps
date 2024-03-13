@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/delete",
+  "OperationName": "Deletes a Bastion Host",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Deletes a Bastion Host",
+  "IsDataAction": false
+}

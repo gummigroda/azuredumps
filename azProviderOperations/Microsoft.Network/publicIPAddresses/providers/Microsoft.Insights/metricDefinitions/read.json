@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get metrics definitions of Public IP Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public IP Address metrics definitions",
+  "Description": "Get the metrics definitions of Public IP Address",
+  "IsDataAction": false
+}

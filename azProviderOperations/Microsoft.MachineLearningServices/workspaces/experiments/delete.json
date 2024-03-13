@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/experiments/delete",
+  "OperationName": "Deletes experiments in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Experiments",
+  "Description": "Deletes experiments in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/users/retrievegroups/action",
+  "OperationName": "Face Grouping - Retrieve Groups (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "users*",
+  "Description": "Face Grouping - Retrieve Groups",
+  "IsDataAction": true
+}

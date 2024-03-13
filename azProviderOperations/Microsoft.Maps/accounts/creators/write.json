@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/creators/write",
+  "OperationName": "Create or update a Creator.",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Creator",
+  "Description": "Create or update a Creator.",
+  "IsDataAction": false
+}

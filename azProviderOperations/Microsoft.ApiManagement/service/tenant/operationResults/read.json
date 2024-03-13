@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/operationResults/read",
+  "OperationName": "Get operation results or Get operation result",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Results of async operations",
+  "Description": "Get list of operation results or Get result of a specific operation",
+  "IsDataAction": false
+}

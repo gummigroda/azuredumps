@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filters",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Event Grid Filters",
+  "Description": "Delete Event Grid filters.",
+  "IsDataAction": false
+}

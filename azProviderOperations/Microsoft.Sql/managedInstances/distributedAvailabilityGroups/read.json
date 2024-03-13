@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/distributedAvailabilityGroups/read",
+  "OperationName": "List/Get Azure SQL Managed instance distributed availability groups.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Return the list of distributed availability groups or gets the properties for the specified distributed availability group.",
+  "IsDataAction": false
+}

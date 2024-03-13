@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/locations/migrationServiceOperationResults/read",
+  "OperationName": "Get Service Operation Results",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "",
+  "Description": "Retrieve Service Operation Results",
+  "IsDataAction": false
+}

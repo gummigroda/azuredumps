@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/items/write",
+  "OperationName": "Create Item In Text List",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "items*",
+  "Description": "Create Item In Text List",
+  "IsDataAction": true
+}

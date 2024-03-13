@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/resources/delete",
+  "OperationName": "Delete a SaaS Subscription Level Resource",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Subscription Level Resources",
+  "Description": "Delete a SaaS Subscription Level Resource",
+  "IsDataAction": false
+}

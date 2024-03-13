@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/externalkeys/delete",
+  "OperationName": "user - Delete external api key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "externalkeys*",
+  "Description": "**THIS API IS DEPRECATED.**.",
+  "IsDataAction": true
+}

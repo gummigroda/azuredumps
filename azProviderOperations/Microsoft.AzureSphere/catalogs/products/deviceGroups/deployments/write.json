@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/deployments/write",
+  "OperationName": "Deployments_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups/deployments",
+  "Description": "Create a Deployment. '.default' and '.unassigned' are system defined values and cannot be used for product or device group name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/galleryImages/read",
+  "OperationName": "Read gallery images.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "gallery images",
+  "Description": "Read gallery images.",
+  "IsDataAction": false
+}

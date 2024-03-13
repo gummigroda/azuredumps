@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/extensionReferences/read",
+  "OperationName": "Get Deployment Slot Role Extension Reference",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot Role Extension Reference",
+  "Description": "Returns the extension reference for the deployment slot role.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/DetachFollowerDatabases/action",
+  "OperationName": "Detach follower databases action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Detaches follower's databases.",
+  "IsDataAction": false
+}

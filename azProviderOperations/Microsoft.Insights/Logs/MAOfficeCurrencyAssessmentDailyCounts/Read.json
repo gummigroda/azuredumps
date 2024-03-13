@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeCurrencyAssessmentDailyCounts/Read",
+  "OperationName": "Read MAOfficeCurrencyAssessmentDailyCounts data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeCurrencyAssessmentDailyCounts",
+  "Description": "Read data from the MAOfficeCurrencyAssessmentDailyCounts table",
+  "IsDataAction": false
+}

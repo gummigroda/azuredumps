@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/ScopedPrivateLinkProxies/Read",
+  "OperationName": "Read data collection endpoint private link proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint scoped private link proxy",
+  "Description": "Read a data collection endpoint private link proxy",
+  "IsDataAction": false
+}

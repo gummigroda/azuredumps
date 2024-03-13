@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/location/generatePreviewArtifacts/action",
+  "OperationName": "Generate Preview Artifacts",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Location",
+  "Description": "Preview artifacts that will be generated on a workflow create request",
+  "IsDataAction": false
+}

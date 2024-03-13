@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/phpWorkloads/delete",
+  "OperationName": "PhpWorkloads_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "phpWorkloads",
+  "Description": "Delete phpWorkloads resource",
+  "IsDataAction": false
+}

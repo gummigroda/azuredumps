@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/register/action",
+  "OperationName": "Register Managed Services.",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "",
+  "Description": "Register to Managed Services.",
+  "IsDataAction": false
+}

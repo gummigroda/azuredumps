@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/Operations/read",
+  "OperationName": "Read resource provider operations",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Operations",
+  "Description": "Read the operations for all resource types",
+  "IsDataAction": false
+}

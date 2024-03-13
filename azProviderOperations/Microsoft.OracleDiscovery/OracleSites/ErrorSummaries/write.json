@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/ErrorSummaries/write",
+  "OperationName": "ErrorSummaries_Update",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/ErrorSummaries",
+  "Description": "Patch the ErrorSummaries resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/rollbackOSDisk/action",
+  "OperationName": "Rollback OSDisk on Virtual Machine after failed OS Upgrade.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Rollback OSDisk on Virtual Machine after failed OS Upgrade invoked by Virtual Machine Scale Set with Flexible Orchestration Mode.",
+  "IsDataAction": false
+}

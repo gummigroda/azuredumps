@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/featurestoreentities/write",
+  "OperationName": "Creates or Updates the Machine Learning Services FeatureEntity(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service FeatureStore",
+  "Description": "Creates or Updates the Machine Learning Services FeatureEntity(s)",
+  "IsDataAction": false
+}

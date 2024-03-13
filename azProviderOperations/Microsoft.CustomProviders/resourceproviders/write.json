@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/write",
+  "OperationName": "Write Custom Resource Provider",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Custom Resource Provider ",
+  "Description": "Writes the Custom Resource Provider Manifest",
+  "IsDataAction": false
+}

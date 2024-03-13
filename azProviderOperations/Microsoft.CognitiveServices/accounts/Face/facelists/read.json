@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/facelists/read",
+  "OperationName": "FaceList - Get|FaceList - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Lists",
+  "Description": "Retrieve a face list��s faceListId, name, userData, recognitionModel and faces in the face list.\r\nList face lists�� faceListId, name, userData and recognitionModel.*",
+  "IsDataAction": true
+}

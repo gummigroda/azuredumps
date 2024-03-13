@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/externalTestTools/read",
+  "OperationName": "ExternalTestTools_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/externalTestTools",
+  "Description": "Retrieves a single External Test Tool setup by name for the Test Base Account.",
+  "IsDataAction": false
+}

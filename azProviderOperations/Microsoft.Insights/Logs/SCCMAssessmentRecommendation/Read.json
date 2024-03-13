@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SCCMAssessmentRecommendation/Read",
+  "OperationName": "Read SCCMAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SCCMAssessmentRecommendation",
+  "Description": "Read data from the SCCMAssessmentRecommendation table",
+  "IsDataAction": false
+}

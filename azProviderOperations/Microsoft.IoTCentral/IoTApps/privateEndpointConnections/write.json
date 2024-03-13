@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateEndpointConnections/write",
+  "OperationName": "Approve/Reject/Disconnect private endpoint connections",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateEndpointConnections",
+  "Description": "Approve/reject/disconnect private endpoint connections",
+  "IsDataAction": false
+}

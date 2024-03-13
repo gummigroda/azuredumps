@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/autoheal/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Autoheal",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Autoheal",
+  "Description": "Get Web Apps Slots Diagnostics Autoheal.",
+  "IsDataAction": false
+}

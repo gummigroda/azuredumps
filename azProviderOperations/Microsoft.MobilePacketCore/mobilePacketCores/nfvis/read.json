@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/read",
+  "OperationName": "Nfvis_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis",
+  "Description": "Lists all the Network Function Virtualization Infrastructure instances in a mobile packet core instance.",
+  "IsDataAction": false
+}

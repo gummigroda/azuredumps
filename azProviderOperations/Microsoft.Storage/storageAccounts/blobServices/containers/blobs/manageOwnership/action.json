@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/manageOwnership/action",
+  "OperationName": "Manage blob ownership",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Changes ownership of the blob",
+  "IsDataAction": true
+}

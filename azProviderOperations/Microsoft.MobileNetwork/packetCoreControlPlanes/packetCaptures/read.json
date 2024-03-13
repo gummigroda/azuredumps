@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCaptures/read",
+  "OperationName": "PacketCaptures_ListByPacketCoreControlPlane",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCaptures",
+  "Description": "Lists all the packet capture sessions under a packet core control plane.",
+  "IsDataAction": false
+}

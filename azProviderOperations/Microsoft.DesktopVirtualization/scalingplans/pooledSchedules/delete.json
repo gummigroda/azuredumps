@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/pooledSchedules/delete",
+  "OperationName": "Delete scalingplans/pooledSchedules",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans/pooledSchedules",
+  "Description": "Delete scalingplans/pooledSchedules",
+  "IsDataAction": false
+}

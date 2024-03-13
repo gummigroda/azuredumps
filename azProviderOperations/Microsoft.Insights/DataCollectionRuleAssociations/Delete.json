@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionRuleAssociations/Delete",
+  "OperationName": "Delete data collection rule association",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection rule association",
+  "Description": "Delete a resource's association with a data collection rule",
+  "IsDataAction": false
+}

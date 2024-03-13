@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityGroups/securityRules/write",
+  "OperationName": "Create or Update Security Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Rule",
+  "Description": "Creates a security rule or updates an existing security rule",
+  "IsDataAction": false
+}

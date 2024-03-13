@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/keyValues/write",
+  "OperationName": "Write Key-Value",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Key-Value",
+  "Description": "Creates or updates a key-value in the configuration store.",
+  "IsDataAction": false
+}

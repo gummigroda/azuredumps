@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/taggedTrafficConsumers/write",
+  "OperationName": "Create or Update Tagged Traffic Consumer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Tagged Traffic Consumer",
+  "Description": "Creates a Tagged Traffic Consumer or updates an existing Tagged Traffic Consumer",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/groups/accounts/Read",
+  "OperationName": "Gets/List accounts resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "accounts",
+  "Description": "Read accounts",
+  "IsDataAction": false
+}

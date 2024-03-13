@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/databaseInstances/write",
+  "OperationName": "SAPDatabaseInstances_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/databaseInstances",
+  "Description": "Puts the SAP Database Instance.",
+  "IsDataAction": false
+}

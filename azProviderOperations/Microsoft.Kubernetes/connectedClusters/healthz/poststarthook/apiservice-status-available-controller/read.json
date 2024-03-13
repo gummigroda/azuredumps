@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/apiservice-status-available-controller/read",
+  "OperationName": "Gets/List apiservice-status-available-controller resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/apiservice-status-available-controller",
+  "Description": "Reads apiservice-status-available-controller",
+  "IsDataAction": true
+}

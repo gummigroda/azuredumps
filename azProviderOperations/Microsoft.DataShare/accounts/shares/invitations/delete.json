@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/invitations/delete",
+  "OperationName": "Delete Data Share Invitations",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Invitations",
+  "Description": "Deletes a Data Share Invitation.",
+  "IsDataAction": false
+}

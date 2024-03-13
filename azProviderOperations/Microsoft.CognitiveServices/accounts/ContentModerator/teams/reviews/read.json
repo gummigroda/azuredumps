@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/read",
+  "OperationName": "Review - Get",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage reviews.",
+  "Description": "Returns review details for the review Id passed.",
+  "IsDataAction": true
+}

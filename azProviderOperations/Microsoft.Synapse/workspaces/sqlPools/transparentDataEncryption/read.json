@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/read",
+  "OperationName": "Read SQL Analytics pool Transparent Data Encryption Configuration.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Transparent Data Encryption Configuration",
+  "Description": "Read any SQL Analytics pool Transparent Data Encryption Configuration.",
+  "IsDataAction": false
+}

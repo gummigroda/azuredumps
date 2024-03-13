@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/prometheusRuleGroups/read",
+  "OperationName": "Read the prometheusRuleGroups",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "prometheusRuleGroups",
+  "Description": "Read prometheusRuleGroups",
+  "IsDataAction": false
+}

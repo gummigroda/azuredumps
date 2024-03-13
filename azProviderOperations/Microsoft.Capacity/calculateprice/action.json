@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/calculateprice/action",
+  "OperationName": "Calculate Reservation Price",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Calculate any Reservation Price",
+  "IsDataAction": false
+}

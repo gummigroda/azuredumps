@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/upgradeNodeImageVersionForEntireCluster/action",
+  "OperationName": "ProvisionedClusters_UpgradeNodeImageVersionForEntireCluster",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters",
+  "Description": "Upgrading the node image version of a cluster applies the newest OS and runtime updates to the nodes.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/certificates/write",
+  "OperationName": "Create or Update Azure Automation certificate",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Certificate Asset",
+  "Description": "Creates or updates an Azure Automation certificate asset",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/unregister/action",
+  "OperationName": "Registers the Relay Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Relay resource provider and enables the creation of Relay resources",
+  "IsDataAction": false
+}

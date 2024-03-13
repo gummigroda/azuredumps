@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/linkers/write",
+  "OperationName": "Linker_Update",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "linkers",
+  "Description": "Operation to update an existing link.",
+  "IsDataAction": false
+}

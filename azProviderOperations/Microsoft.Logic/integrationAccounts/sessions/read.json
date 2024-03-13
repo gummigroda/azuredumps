@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/sessions/read",
+  "OperationName": "Get Integration Account Session",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Session",
+  "Description": "Reads the session in integration account.",
+  "IsDataAction": false
+}

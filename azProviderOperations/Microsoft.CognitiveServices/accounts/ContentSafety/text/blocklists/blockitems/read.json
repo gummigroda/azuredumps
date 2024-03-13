@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/blocklists/blockitems/read",
+  "OperationName": "Get or List BlockItems from a Text Blocklist",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Blockitems",
+  "Description": "Get blockItem By blockItemId from a text blocklist.",
+  "IsDataAction": true
+}

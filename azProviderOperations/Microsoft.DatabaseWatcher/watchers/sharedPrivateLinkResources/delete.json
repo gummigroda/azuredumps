@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/sharedPrivateLinkResources/delete",
+  "OperationName": "SharedPrivateLinkResources_Delete",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers/sharedPrivateLinkResources",
+  "Description": "Delete a SharedPrivateLinkResource",
+  "IsDataAction": false
+}

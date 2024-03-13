@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/tableServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Metric Definitions",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Metric Definition",
+  "Description": "Gets the metrics definitions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/logstreamService/read",
+  "OperationName": "Get the streaming log of app from Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The streaming log of app from Microsoft Azure Spring Apps",
+  "Description": "Read the streaming log of user app for a specific Azure Spring Apps service instance",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineendpoints/operationsstatus/read",
+  "OperationName": "Checks Online Endpoint Operation Status for an online inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Checks Online Endpoint Operation Status for an online inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

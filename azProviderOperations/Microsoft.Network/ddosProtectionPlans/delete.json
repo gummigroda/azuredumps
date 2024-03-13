@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/delete",
+  "OperationName": "Deletes a DDoS Protection Plan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan",
+  "Description": "Deletes a DDoS Protection Plan",
+  "IsDataAction": false
+}

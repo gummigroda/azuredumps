@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/EventHubConnections/write",
+  "OperationName": "Write a Event Hub connections resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Event Hub connections resource type",
+  "Description": "Writes an Event Hub connections resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/complianceResults/read",
+  "OperationName": "Get compliance results",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Compliance Results",
+  "Description": "Gets the compliance results for the resource",
+  "IsDataAction": false
+}

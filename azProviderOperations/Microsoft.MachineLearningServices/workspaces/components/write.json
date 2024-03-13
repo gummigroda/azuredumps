@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/components/write",
+  "OperationName": "Creates or updates component in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Components",
+  "Description": "Creates or updates component in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

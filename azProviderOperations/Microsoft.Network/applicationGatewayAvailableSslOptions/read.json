@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGatewayAvailableSslOptions/read",
+  "OperationName": "Application Gateway available Ssl Options",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway available Ssl Options",
+  "Description": "Application Gateway available Ssl Options",
+  "IsDataAction": false
+}

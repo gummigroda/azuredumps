@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksSSH/read",
+  "OperationName": "Read DatabricksSSH data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksSSH",
+  "Description": "Read data from the DatabricksSSH table",
+  "IsDataAction": false
+}

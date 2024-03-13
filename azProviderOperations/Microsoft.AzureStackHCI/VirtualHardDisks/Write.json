@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualHardDisks/Write",
+  "OperationName": "Creates/Updates virtual hard disk resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualHardDisks",
+  "Description": "Creates/Updates virtual hard disk resource",
+  "IsDataAction": false
+}

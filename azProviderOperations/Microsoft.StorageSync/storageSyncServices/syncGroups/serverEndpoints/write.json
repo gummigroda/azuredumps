@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/write",
+  "OperationName": "Create or Update Server Endpoints",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Server Endpoints",
+  "Description": "Create or Update any Server Endpoints",
+  "IsDataAction": false
+}

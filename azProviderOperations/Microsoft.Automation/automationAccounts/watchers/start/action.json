@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/watchers/start/action",
+  "OperationName": "Start an Azure Automation watcher job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation watcher job",
+  "Description": "Start an Azure Automation watcher job",
+  "IsDataAction": false
+}

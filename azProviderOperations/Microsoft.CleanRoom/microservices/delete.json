@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/microservices/delete",
+  "OperationName": "MicroServices_Delete",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "microservices",
+  "Description": "Deletes an micro service.",
+  "IsDataAction": false
+}

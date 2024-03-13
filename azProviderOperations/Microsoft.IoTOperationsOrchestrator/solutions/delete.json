@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/solutions/delete",
+  "OperationName": "Solutions_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "solutions",
+  "Description": "Delete a Solution",
+  "IsDataAction": false
+}

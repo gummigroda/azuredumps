@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/write",
+  "OperationName": "Create or Update Application Gateway WAF Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway WAF Policy",
+  "Description": "Creates an Application Gateway WAF policy or updates an Application Gateway WAF policy",
+  "IsDataAction": false
+}

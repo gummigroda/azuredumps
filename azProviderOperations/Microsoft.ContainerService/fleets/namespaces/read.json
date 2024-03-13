@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/namespaces/read",
+  "OperationName": "Gets/List namespaces resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Namespaces",
+  "Description": "Reads namespaces",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/unregister/action",
+  "OperationName": "Unregister the Microsoft.AzureSphere",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AzureSphere",
+  "IsDataAction": false
+}

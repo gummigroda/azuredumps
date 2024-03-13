@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/write",
+  "OperationName": "workbenches_Patch",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches",
+  "Description": "write workbenches",
+  "IsDataAction": false
+}

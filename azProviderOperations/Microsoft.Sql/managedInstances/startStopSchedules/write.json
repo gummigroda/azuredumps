@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/startStopSchedules/write",
+  "OperationName": "Azure SQL Managed Instance Start-Stop schedule Create or Update operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Start-Stop schedule.",
+  "Description": "Creates Azure SQL Managed Instance's Start-Stop schedule with the specified parameters or updates the properties of the schedule for the specified instance.",
+  "IsDataAction": false
+}

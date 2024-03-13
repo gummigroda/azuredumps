@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/exported-models/delete",
+  "OperationName": "Delete exported model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "exported-models*",
+  "Description": "Deletes an existing exported model.",
+  "IsDataAction": true
+}

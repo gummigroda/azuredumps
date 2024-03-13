@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/storageClasses/read",
+  "OperationName": "StorageClass_Get",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "storageClasses",
+  "Description": "Get a StorageClassResource",
+  "IsDataAction": false
+}

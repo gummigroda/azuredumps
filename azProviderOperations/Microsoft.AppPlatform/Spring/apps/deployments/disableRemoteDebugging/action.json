@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/disableRemoteDebugging/action",
+  "OperationName": "Disable remote debugging for an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application deployment of Microsoft Azure Spring Apps",
+  "Description": "Disable remote debugging for a specific application",
+  "IsDataAction": false
+}

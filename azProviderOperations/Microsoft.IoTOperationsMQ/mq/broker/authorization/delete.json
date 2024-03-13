@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/authorization/delete",
+  "OperationName": "BrokerAuthorization_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker/authorization",
+  "Description": "Delete a BrokerAuthorizationResource",
+  "IsDataAction": false
+}

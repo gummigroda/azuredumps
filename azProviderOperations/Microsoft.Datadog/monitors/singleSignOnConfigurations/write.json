@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/singleSignOnConfigurations/write",
+  "OperationName": "Create/Update single sign-on configurations resource",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "SingleSignOnConfigurations",
+  "Description": "Writes the single sign-on configuration",
+  "IsDataAction": false
+}

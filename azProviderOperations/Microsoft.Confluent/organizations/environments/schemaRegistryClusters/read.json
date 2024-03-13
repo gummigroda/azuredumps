@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/environments/schemaRegistryClusters/read",
+  "OperationName": "Gets schema registry cluster details in an environment for the organization",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Gets schema registry cluster details in an environment for the organization",
+  "IsDataAction": false
+}

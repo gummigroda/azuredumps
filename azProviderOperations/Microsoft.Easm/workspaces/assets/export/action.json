@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/assets/export/action",
+  "OperationName": "Assets_Export",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Perform a background datasheet export of assets matching the provided filter.  The response contains the information of the running export task.",
+  "IsDataAction": true
+}

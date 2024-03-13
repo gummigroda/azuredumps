@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/fhirservices/resources/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Write FHIR resources (includes create and update).",
+  "IsDataAction": true
+}

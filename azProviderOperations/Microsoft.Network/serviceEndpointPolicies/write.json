@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/serviceEndpointPolicies/write",
+  "OperationName": "Create or Update Service Endpoint Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Endpoint Policy",
+  "Description": "Creates a Service Endpoint Policy or updates an existing Service Endpoint Policy",
+  "IsDataAction": false
+}

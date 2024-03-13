@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes",
+  "Description": "Gets private link scope",
+  "IsDataAction": false
+}

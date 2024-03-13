@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/read",
+  "OperationName": "List or Get Applications",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Applications",
+  "Description": "Lists applications or gets the properties of an application",
+  "IsDataAction": false
+}

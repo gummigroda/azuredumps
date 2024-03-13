@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/msixpackages/delete",
+  "OperationName": "Delete hostpools/msixpackages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/msixpackages",
+  "Description": "Delete hostpools/msixpackages",
+  "IsDataAction": false
+}

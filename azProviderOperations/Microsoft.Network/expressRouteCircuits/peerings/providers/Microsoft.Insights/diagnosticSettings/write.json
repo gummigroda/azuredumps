@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update diagnostic settings for ExpressRoute Circuit Peerings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Diagnostic settings for ExpressRoute Circuit Peerings",
+  "Description": "Creates or updates diagnostic settings for ExpressRoute Circuit Peerings",
+  "IsDataAction": false
+}

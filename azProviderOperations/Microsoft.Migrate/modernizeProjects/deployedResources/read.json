@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/deployedResources/read",
+  "OperationName": "Gets the deployed resource",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Gets the details of the deployed resource",
+  "IsDataAction": false
+}

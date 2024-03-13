@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/hub/write",
+  "OperationName": "Write Hub",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Hub",
+  "Description": "Close all client connections in the hub",
+  "IsDataAction": true
+}

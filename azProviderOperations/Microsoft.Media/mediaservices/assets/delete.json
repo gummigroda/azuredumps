@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/delete",
+  "OperationName": "Delete Asset",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset",
+  "Description": "Delete any Asset",
+  "IsDataAction": false
+}

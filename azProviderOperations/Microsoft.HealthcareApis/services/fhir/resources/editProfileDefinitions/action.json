@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/editProfileDefinitions/action",
+  "OperationName": "EditProfileDefinitions",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Allows user to perform Create Update Delete operations on profile resources.",
+  "IsDataAction": true
+}

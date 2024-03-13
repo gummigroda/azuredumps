@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/EdgeDevices/Validate/Action",
+  "OperationName": "Validates EdgeDevice Resources for deployment",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "EdgeDevices",
+  "Description": "Validates EdgeDevice Resources for deployment",
+  "IsDataAction": false
+}

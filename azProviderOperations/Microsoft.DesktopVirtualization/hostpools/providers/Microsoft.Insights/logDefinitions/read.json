@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definitions",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools",
+  "Description": "Gets the available logs",
+  "IsDataAction": false
+}

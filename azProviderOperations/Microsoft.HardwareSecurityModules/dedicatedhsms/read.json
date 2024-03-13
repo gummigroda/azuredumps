@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/dedicatedhsms/read",
+  "OperationName": "View DedicatedHsm",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "DedicatedHsm",
+  "Description": "View the properties of a DedicatedHsm",
+  "IsDataAction": false
+}

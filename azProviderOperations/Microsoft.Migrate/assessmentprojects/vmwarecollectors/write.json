@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/vmwarecollectors/write",
+  "OperationName": "Create or Update VMware collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "VMware Collector",
+  "Description": "Creates a new VMware collector or updates an existing VMware collector",
+  "IsDataAction": false
+}

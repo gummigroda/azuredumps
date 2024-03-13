@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnectionProxies/delete",
+  "OperationName": "Deletes a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Deletes a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/customImages/read",
+  "OperationName": "CustomImages_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/customImages",
+  "Description": "Gets a test base custom image.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/logs/properties/read",
+  "OperationName": "Get Log Properties.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage log properties.",
+  "Description": "Get properties of the Personalizer logs.",
+  "IsDataAction": true
+}

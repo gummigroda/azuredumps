@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/pools/delete",
+  "OperationName": "Pools_Delete",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "pools",
+  "Description": "Delete a Pool",
+  "IsDataAction": false
+}

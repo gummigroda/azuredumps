@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupProtectedItems/read",
+  "OperationName": "Get All Protected Items",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protected Items",
+  "Description": "Returns the list of all Protected Items.",
+  "IsDataAction": false
+}

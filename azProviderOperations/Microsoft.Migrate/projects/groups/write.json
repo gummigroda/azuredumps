@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/projects/groups/write",
+  "OperationName": "Create or Update Group",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Groups",
+  "Description": "Creates a new group or updates an existing group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/failoverCancel/action",
+  "OperationName": "Cancel Failover Recovery Plan",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "Cancel Failover Recovery Plan",
+  "IsDataAction": false
+}

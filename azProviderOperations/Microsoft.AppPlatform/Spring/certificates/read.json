@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/certificates/read",
+  "OperationName": "Get certificate(s) in an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The certificate of Microsoft Azure Spring Apps",
+  "Description": "Get the certificates for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

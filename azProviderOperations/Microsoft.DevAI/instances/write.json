@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/write",
+  "OperationName": "Instances_Update",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances",
+  "Description": "write instances",
+  "IsDataAction": false
+}

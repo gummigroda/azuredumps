@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/frontendIPConfigurations/read",
+  "OperationName": "Get Load Balancer Frontend IP Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Frontend IP Configuration",
+  "Description": "Gets a load balancer frontend IP configuration definition",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Write private endpoint connection proxies (internal use only)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Private endpoint connection proxies resource",
+  "Description": "Writes private endpoint connection proxies (internal use only).",
+  "IsDataAction": false
+}

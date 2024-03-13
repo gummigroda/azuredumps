@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/agents/delete",
+  "OperationName": "Agents_Delete",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/agents",
+  "Description": "Deletes an Agent resource.",
+  "IsDataAction": false
+}

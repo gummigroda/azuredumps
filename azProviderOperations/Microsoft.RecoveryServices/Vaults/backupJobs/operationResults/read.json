@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupJobs/operationResults/read",
+  "OperationName": "Get Job Operation Result",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Jobs Operation Results",
+  "Description": "Returns the Result of Job Operation.",
+  "IsDataAction": false
+}

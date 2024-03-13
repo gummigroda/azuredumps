@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/ddosProtectionPlanProxies/delete",
+  "OperationName": "Delete DDoS Protection Plan Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan Proxy",
+  "Description": "Deletes a DDoS Protection Plan Proxy",
+  "IsDataAction": false
+}

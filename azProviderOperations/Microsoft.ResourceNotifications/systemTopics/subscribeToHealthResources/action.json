@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceNotifications/systemTopics/subscribeToHealthResources/action",
+  "OperationName": "Permission subscribeToHealthResources granted",
+  "ProviderNamespace": "Microsoft Resource Notifications",
+  "ResourceName": "Permission",
+  "Description": "Permission to perform creation and event subscription creation on a HealthResources system topic",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/query/action",
+  "OperationName": "Query Threat Intelligence",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Query Threat Intelligence",
+  "IsDataAction": false
+}

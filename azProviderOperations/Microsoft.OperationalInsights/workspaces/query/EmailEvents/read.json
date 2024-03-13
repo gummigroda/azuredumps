@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/EmailEvents/read",
+  "OperationName": "Read EmailEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "EmailEvents",
+  "Description": "Read data from the EmailEvents table",
+  "IsDataAction": false
+}

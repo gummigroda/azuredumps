@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/BatchAvatar/operations/read",
+  "OperationName": "Read operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Gets detail of operations",
+  "IsDataAction": true
+}

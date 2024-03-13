@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/continuouswebjobs/delete",
+  "OperationName": "Delete Web Apps Continuous Web Jobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Continuous Web Jobs",
+  "Description": "Delete Web Apps Continuous Web Jobs.",
+  "IsDataAction": false
+}

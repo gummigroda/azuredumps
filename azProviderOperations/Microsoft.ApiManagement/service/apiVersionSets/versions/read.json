@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apiVersionSets/versions/read",
+  "OperationName": "Get VersionSet version entity list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Version entities associated with VersionSet",
+  "Description": "Get list of version entities",
+  "IsDataAction": false
+}

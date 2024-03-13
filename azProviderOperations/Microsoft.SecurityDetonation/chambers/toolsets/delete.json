@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/toolsets/delete",
+  "OperationName": "Toolsets Delete",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Toolsets",
+  "Description": "Allows deleting available toolsets",
+  "IsDataAction": true
+}

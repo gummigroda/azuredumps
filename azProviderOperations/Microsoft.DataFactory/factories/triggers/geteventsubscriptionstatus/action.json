@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/geteventsubscriptionstatus/action",
+  "OperationName": "Event Subscription Status",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Event Subscription Status.",
+  "IsDataAction": false
+}

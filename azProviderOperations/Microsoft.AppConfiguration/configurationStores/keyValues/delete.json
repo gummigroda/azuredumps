@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/keyValues/delete",
+  "OperationName": "Delete Key-Value",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Key-Value",
+  "Description": "Deletes an existing key-value from the configuration store.",
+  "IsDataAction": false
+}

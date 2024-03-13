@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets P2S Vpn Gateway Log Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Vpn Gateway Log Definitions",
+  "Description": "Gets the events for P2S Vpn Gateway",
+  "IsDataAction": false
+}

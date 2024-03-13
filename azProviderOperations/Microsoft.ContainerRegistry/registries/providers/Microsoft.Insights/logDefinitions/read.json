@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Microsoft ContainerRegistry log definitions",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "The logs definition of Microsoft ContainerRegistry",
+  "Description": "Gets the available logs for Microsoft ContainerRegistry",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/roles/write",
+  "OperationName": "Add or Update closed list entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlist entity roles",
+  "Description": "Adds a role for a closed list entity model\r\nUpdates a role for a closed list entity model.",
+  "IsDataAction": true
+}

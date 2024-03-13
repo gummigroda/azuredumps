@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/backups/read",
+  "OperationName": "List/Get MySQL Server Backup(s)",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Backup",
+  "Description": "Returns the list of backups for a server or gets the properties for the specified backup.",
+  "IsDataAction": false
+}

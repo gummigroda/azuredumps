@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerConfigurations/authorizePartner/action",
+  "OperationName": "Authorize Partner",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerConfigurations",
+  "Description": "Authorize a partner in the partner configuration",
+  "IsDataAction": false
+}

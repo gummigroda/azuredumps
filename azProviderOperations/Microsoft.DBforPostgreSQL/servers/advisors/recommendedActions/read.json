@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/advisors/recommendedActions/read",
+  "OperationName": "Return the list of recommended actions",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Recommended Actions",
+  "Description": "Return the list of recommended actions",
+  "IsDataAction": false
+}

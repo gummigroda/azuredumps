@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/write",
+  "OperationName": "StorageMovers_Update",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers",
+  "Description": "Updates properties for a Storage Mover resource. Properties not specified in the request body will be unchanged.",
+  "IsDataAction": false
+}

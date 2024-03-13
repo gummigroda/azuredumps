@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/debugSessions/write",
+  "OperationName": "Create or Update Debug Session",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Debug Sessions",
+  "Description": "Create a debug session or modify its properties.",
+  "IsDataAction": false
+}

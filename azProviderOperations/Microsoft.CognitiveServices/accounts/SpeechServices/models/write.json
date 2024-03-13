@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models/write",
+  "OperationName": "Update Model|Create Model*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Updates the metadata of the model identified by the given ID.\r\nCreates a new model.*",
+  "IsDataAction": true
+}

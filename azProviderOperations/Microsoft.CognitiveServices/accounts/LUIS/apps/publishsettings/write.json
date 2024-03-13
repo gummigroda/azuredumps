@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/publishsettings/write",
+  "OperationName": "Apps - Update publish settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Publish Settings",
+  "Description": "Updates the application publish settings.",
+  "IsDataAction": true
+}

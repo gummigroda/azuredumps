@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/Locations/OperationStatuses/write",
+  "OperationName": "OperationStatus_CreateOrUpdate",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "OperationStatuses",
+  "Description": "Writes the status of an async operation",
+  "IsDataAction": false
+}

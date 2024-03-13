@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/reimage/action",
+  "OperationName": "Reimage Virtual Machine in a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine in Scale Set",
+  "Description": "Reimages a Virtual Machine instance in a Virtual Machine Scale Set.",
+  "IsDataAction": false
+}

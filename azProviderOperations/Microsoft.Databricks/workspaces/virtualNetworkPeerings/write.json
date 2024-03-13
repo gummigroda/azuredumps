@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/virtualNetworkPeerings/write",
+  "OperationName": "Add Virtual Network Peering",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Virtual Network Peering",
+  "Description": "Add or modify virtual network peering",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/configurationAssignments/delete",
+  "OperationName": "Delete maintenance configuration assignment.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration assignment instance",
+  "Description": "Delete maintenance configuration assignment.",
+  "IsDataAction": false
+}

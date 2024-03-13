@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADTEventRoutesOperation/read",
+  "OperationName": "Read ADTEventRoutesOperation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADTEventRoutesOperation",
+  "Description": "Read data from the ADTEventRoutesOperation table",
+  "IsDataAction": false
+}

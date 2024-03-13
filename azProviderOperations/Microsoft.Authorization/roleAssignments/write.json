@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleAssignments/write",
+  "OperationName": "Create role assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role assignment",
+  "Description": "Create a role assignment at the specified scope.",
+  "IsDataAction": false
+}

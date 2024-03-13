@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/new/updateMetadata/action",
+  "OperationName": "Update Metadata of New Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "New Measurements",
+  "Description": "Update Metadata of New Measurements",
+  "IsDataAction": true
+}

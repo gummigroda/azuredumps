@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/deployments/read",
+  "OperationName": "Get Project Deploymment|List Deployments*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Get Project Deployment.\r\nList Deployments.*",
+  "IsDataAction": true
+}

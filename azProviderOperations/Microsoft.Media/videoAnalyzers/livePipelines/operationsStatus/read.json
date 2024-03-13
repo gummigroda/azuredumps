@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/livePipelines/operationsStatus/read",
+  "OperationName": "Read Live Pipeline operation status",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Pipeline operation status Resource",
+  "Description": "Read any Live Pipeline operation status",
+  "IsDataAction": false
+}

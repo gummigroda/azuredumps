@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/quotaAllocations/write",
+  "OperationName": "Creates GroupQuota to subscription Quota limit request",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota to Subscription Quota allocation",
+  "Description": "Creates the GroupQuota to subscription Quota limit request for the specified resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/action",
+  "OperationName": "Register new user",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Register a new user",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/GalleryImages/Read",
+  "OperationName": "Gets/Lists gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "GalleryImages",
+  "Description": "Gets/Lists gallery images resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/restore/action",
+  "OperationName": "Restore API Management Service",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Restore API Management Service from the specified container in a user provided storage account",
+  "IsDataAction": false
+}

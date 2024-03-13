@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/write",
+  "OperationName": "Create/Update Azure SQL Sync Member",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Creates a sync member with the specified parameters or update the properties for the specified sync member.",
+  "IsDataAction": false
+}

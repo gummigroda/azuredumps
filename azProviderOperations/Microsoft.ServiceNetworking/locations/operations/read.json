@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/locations/operations/read",
+  "OperationName": "Get operation",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Operations",
+  "Description": "Get an operation from Microsoft.ServiceNetworking",
+  "IsDataAction": false
+}

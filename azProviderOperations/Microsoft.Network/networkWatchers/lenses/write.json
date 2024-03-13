@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/write",
+  "OperationName": "Create Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Creates a Lens",
+  "IsDataAction": false
+}

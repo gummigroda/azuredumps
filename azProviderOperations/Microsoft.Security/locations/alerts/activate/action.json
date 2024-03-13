@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/alerts/activate/action",
+  "OperationName": "Activate Alert",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alerts",
+  "Description": "Activate a security alert",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/storageTargets/restoreDefaults/action",
+  "OperationName": "Restore storage target settings to defaults",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Storage target in a cache",
+  "Description": "Restores the Cache's storage target's settings to their default values",
+  "IsDataAction": false
+}

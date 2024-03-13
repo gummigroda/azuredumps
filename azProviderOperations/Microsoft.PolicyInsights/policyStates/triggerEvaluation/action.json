@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyStates/triggerEvaluation/action",
+  "OperationName": "Trigger Policy Insights Compliance Evaluation",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy States",
+  "Description": "Triggers a new compliance evaluation for the selected scope.",
+  "IsDataAction": false
+}

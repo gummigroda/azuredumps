@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/downloadremotedesktopconnectionfile/action",
+  "OperationName": "Download Remote Desktop Connection File For The Role Instance On The Domain Names Slot Role",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Role Instance",
+  "Description": "Downloads remote desktop connection file for the role instance on the domain name slot role.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/enabledresourcetypes/read",
+  "OperationName": "Get EnabledResourceTypes for Custom Location",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Custom Locations",
+  "Description": "Gets EnabledResourceTypes for a Custom Location resource",
+  "IsDataAction": false
+}

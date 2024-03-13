@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceNotifications/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Resource Notifications",
+  "ResourceName": "Operation",
+  "Description": "Gets the list of supported operations",
+  "IsDataAction": false
+}

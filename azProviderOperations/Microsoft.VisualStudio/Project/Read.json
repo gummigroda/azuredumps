@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Project/Read",
+  "OperationName": "Reads the Project",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Project",
+  "Description": "Read Project",
+  "IsDataAction": false
+}

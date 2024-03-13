@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/ingestionstatus/query/action",
+  "OperationName": "Get data ingestion status by data feed",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ingestion status",
+  "Description": "Get data ingestion status by data feed",
+  "IsDataAction": true
+}

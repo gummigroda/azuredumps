@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/locations/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Digital Twins Resource Provider",
+  "Description": "Check Name Availability of a resource in the Digital Twins Resource Provider",
+  "IsDataAction": false
+}

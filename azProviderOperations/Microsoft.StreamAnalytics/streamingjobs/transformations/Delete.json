@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/transformations/Delete",
+  "OperationName": "Delete Stream Analytics Job Transformation",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job Transformation",
+  "Description": "Delete Stream Analytics Job Transformation",
+  "IsDataAction": false
+}

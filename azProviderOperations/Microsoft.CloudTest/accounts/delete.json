@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/accounts/delete",
+  "OperationName": "Delete CloudTest Account",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "accounts",
+  "Description": "Deletes CloudTest Account",
+  "IsDataAction": false
+}

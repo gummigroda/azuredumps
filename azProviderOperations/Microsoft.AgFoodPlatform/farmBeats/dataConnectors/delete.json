@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/dataConnectors/delete",
+  "OperationName": "Delete AgFoodPlatform DataConnectors resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform DataConnectors",
+  "Description": "Deletes an existing AgFoodPlatform DataConnectors resource.",
+  "IsDataAction": false
+}

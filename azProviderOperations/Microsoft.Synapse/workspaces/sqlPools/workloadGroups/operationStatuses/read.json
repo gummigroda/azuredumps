@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/operationStatuses/read",
+  "OperationName": "SQL Analytics Pool workload group operation status",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload group operation status",
+  "Description": "SQL Analytics Pool workload group operation status",
+  "IsDataAction": false
+}

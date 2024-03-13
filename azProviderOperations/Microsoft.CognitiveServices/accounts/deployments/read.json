@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/deployments/read",
+  "OperationName": "Read Deployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Reads deployments.",
+  "IsDataAction": false
+}

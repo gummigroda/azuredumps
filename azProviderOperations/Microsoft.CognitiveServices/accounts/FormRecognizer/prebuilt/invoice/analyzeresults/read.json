@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/invoice/analyzeresults/read",
+  "OperationName": "Analyze Invoice - Get Analyze Invoice Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyzeresults",
+  "Description": "Query the status and retrieve the result of an <a href=\"/docs/services/form-recognizer-api-v2-1-preview-2/operations/5ed8c9843c2794cbb1a96291\">Analyze Invoice</a> operation. The URL to this interface can be obtained from the 'Operation-Location' header in the <a href=\"/docs/services/form-recognizer-api-v2-1-preview-2/operations/5ed8c9843c2794cbb1a96291\">Analyze Invoice</a> response.",
+  "IsDataAction": true
+}

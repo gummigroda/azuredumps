@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/usagescenarios/read",
+  "OperationName": "Apps - Get usage scenarios",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Usage scenarios",
+  "Description": "Gets the application available usage scenarios.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/validateMedtechMappings/read",
+  "OperationName": "mappingEditorValidator",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "",
+  "Description": "Handles requests related to editing IotConnector mapping files",
+  "IsDataAction": false
+}

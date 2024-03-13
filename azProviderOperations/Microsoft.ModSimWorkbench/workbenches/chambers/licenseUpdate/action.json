@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/licenseUpdate/action",
+  "OperationName": "chambers_LicenseUpdate",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "licenseUpdate chambers",
+  "IsDataAction": false
+}

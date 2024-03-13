@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/ingestionprogress/read",
+  "OperationName": "Get data last success ingestion job timestamp by data feed",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ingestion progress",
+  "Description": "Get data last success ingestion job timestamp by data feed",
+  "IsDataAction": true
+}

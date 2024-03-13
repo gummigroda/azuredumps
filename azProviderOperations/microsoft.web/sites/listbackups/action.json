@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/listbackups/action",
+  "OperationName": "List Web App backups",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "List Web App backups.",
+  "IsDataAction": false
+}

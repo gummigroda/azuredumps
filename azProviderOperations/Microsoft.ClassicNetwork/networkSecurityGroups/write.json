@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/write",
+  "OperationName": "Add Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Network Security Group",
+  "Description": "Adds a new network security group.",
+  "IsDataAction": false
+}

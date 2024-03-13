@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/location/githuboauth/read",
+  "OperationName": "Read GitHubOAuth Singleton",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Location",
+  "Description": "Read GitHubOAuth Singleton",
+  "IsDataAction": false
+}

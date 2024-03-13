@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/cloudConnectors/read",
+  "OperationName": "List cloudConnectors",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "CloudConnectors",
+  "Description": "List the cloudConnectors for the authenticated user.",
+  "IsDataAction": false
+}

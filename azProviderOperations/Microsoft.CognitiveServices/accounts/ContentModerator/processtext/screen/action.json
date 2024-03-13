@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/processtext/screen/action",
+  "OperationName": "Text - Screen",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "processtext*",
+  "Description": "The operation detects profanity in more than 100 languages and match against custom and shared blacklists.",
+  "IsDataAction": true
+}

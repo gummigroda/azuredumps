@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/effectiveResourceOwnership/action",
+  "OperationName": "Get Effective Resource Ownership",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Gets Effective  Resource Ownership",
+  "IsDataAction": false
+}

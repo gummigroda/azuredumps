@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/disks/write",
+  "OperationName": "Add Storage Account Disk",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Disk",
+  "Description": "Adds a storage account disk.",
+  "IsDataAction": false
+}

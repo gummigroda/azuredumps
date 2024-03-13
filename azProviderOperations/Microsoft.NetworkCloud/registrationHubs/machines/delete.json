@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/machines/delete",
+  "OperationName": "RegistrationHubMachines_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/machines",
+  "Description": "Delete the provided registration hub machine.",
+  "IsDataAction": false
+}

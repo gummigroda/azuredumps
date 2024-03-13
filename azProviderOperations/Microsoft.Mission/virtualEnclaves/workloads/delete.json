@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/virtualEnclaves/workloads/delete",
+  "OperationName": "Workload_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "virtualEnclaves/workloads",
+  "Description": "Delete a WorkloadResource",
+  "IsDataAction": false
+}

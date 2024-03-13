@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/apis/write",
+  "OperationName": "Add API to Gateway",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs added to Gateway",
+  "Description": "Adds an API to the specified Gateway.",
+  "IsDataAction": false
+}

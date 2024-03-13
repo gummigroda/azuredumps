@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/createIndicator/action",
+  "OperationName": "Create Threat Intelligence Indicator",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Create Threat Intelligence Indicator",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/DeploymentSettings/Read",
+  "OperationName": "Gets/List DeploymentSettings resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "DeploymentSettings",
+  "Description": "Gets DeploymentSettings",
+  "IsDataAction": false
+}

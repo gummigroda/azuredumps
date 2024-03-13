@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/availableAgentPoolVersions/read",
+  "OperationName": "Get Available Agent Pool Versions",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Gets the available agent pool versions of the cluster",
+  "IsDataAction": false
+}

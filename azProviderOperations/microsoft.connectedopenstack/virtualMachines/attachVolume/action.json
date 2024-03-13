@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/attachVolume/action",
+  "OperationName": "VirtualMachines_VolumeAttach",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Attaches a volume to the virtual machine.",
+  "IsDataAction": false
+}

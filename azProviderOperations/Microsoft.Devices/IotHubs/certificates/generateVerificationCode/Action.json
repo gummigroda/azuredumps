@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/certificates/generateVerificationCode/Action",
+  "OperationName": "Generate Verification code",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Generate Verification code",
+  "IsDataAction": false
+}

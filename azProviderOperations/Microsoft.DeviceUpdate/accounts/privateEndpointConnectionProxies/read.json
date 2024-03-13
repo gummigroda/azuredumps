@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Get/List Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection Proxy",
+  "Description": "Returns the list of Device Update Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

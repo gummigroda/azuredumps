@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Get network security perimeter association",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Get network security perimeter association",
+  "IsDataAction": false
+}

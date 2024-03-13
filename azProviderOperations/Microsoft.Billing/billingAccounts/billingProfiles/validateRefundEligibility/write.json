@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/validateRefundEligibility/write",
+  "OperationName": "BillingProfiles_ValidateRefundEligibility",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Validate Refund Eligibility",
+  "Description": "Validates whether the billing profile has any invoices eligible for an expedited refund. The operation is supported for billing accounts with the agreement type Microsoft Customer Agreement and the account type Individual.",
+  "IsDataAction": false
+}

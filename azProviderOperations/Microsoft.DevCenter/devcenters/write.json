@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/write",
+  "OperationName": "DevCenters_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters",
+  "Description": "Partially updates a devcenter.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyExemptions/delete",
+  "OperationName": "Delete policy exemption",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy exemption",
+  "Description": "Delete a policy exemption at the specified scope.",
+  "IsDataAction": false
+}

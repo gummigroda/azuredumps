@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/delete",
+  "OperationName": "Delete database resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Deletes a database resource.",
+  "IsDataAction": false
+}

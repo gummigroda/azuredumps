@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/publishResources/action",
+  "OperationName": "Publish Resource Data Operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Publish Subscrioption Resources",
+  "IsDataAction": false
+}

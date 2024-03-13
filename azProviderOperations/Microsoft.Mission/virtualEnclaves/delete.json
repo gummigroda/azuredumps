@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/virtualEnclaves/delete",
+  "OperationName": "VirtualEnclave_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "virtualEnclaves",
+  "Description": "Delete a EnclaveResource",
+  "IsDataAction": false
+}

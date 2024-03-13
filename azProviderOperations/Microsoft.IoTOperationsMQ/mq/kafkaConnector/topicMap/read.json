@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/topicMap/read",
+  "OperationName": "KafkaConnectorTopicMap_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector/topicMap",
+  "Description": "Get a KafkaTopicMapResource",
+  "IsDataAction": false
+}

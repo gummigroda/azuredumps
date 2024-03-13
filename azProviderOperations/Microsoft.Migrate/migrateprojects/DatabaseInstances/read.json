@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/DatabaseInstances/read",
+  "OperationName": "Get database instance",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Database Instances",
+  "Description": "Gets the properties of a database instance",
+  "IsDataAction": false
+}

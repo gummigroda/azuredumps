@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/synonyms/read",
+  "OperationName": "Get Synonyms",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "synonyms*",
+  "Description": "Get Synonyms.",
+  "IsDataAction": true
+}

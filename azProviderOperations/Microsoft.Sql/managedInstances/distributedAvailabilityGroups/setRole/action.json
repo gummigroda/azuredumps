@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/distributedAvailabilityGroups/setRole/action",
+  "OperationName": "Set Role for Azure SQL Managed Instance Link to Primary or Secondary.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Set Role for Azure SQL Managed Instance Link to Primary or Secondary.",
+  "IsDataAction": false
+}

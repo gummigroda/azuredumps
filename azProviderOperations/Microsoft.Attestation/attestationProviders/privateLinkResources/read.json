@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/privateLinkResources/read",
+  "OperationName": "Gets privatelink resources operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Gets privatelink resources description.",
+  "IsDataAction": false
+}

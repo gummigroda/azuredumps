@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/waitStatistics/read",
+  "OperationName": "Return a wait statistic",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Wait Statistics",
+  "Description": "Return a wait statistic",
+  "IsDataAction": false
+}

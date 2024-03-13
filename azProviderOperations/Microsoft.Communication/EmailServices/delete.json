@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/delete",
+  "OperationName": "EmailService_Delete",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "EmailServices",
+  "Description": "Operation to delete a EmailService.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/dbvalue/update/action",
+  "OperationName": "DBValueUpdate",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dbvalue*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

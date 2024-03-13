@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/users/write",
+  "OperationName": "Create or Update User",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/users",
+  "Description": "Create new or update an existing user.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/qnas/read",
+  "OperationName": "Get QnAs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "qnas*",
+  "Description": "Get QnAs.",
+  "IsDataAction": true
+}

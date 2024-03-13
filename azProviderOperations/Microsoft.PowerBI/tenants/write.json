@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/write",
+  "OperationName": "Create/Update Tenant",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Tenants",
+  "Description": "Creates or updates the specified Power BI Tenant.",
+  "IsDataAction": false
+}

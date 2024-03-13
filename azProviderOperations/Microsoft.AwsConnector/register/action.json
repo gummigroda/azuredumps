@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/register/action",
+  "OperationName": "Register the Microsoft.AwsConnector",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AwsConnector",
+  "IsDataAction": false
+}

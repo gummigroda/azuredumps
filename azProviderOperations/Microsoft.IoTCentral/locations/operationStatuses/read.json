@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/locations/operationStatuses/read",
+  "OperationName": "Get async operation status",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "Get async operation status for IoT Central",
+  "IsDataAction": false
+}

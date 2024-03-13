@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/write",
+  "OperationName": "Create Or Update Network Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group",
+  "Description": "Create Or Update Network Group",
+  "IsDataAction": false
+}

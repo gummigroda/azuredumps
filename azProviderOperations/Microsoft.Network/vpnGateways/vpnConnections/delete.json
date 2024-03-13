@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/delete",
+  "OperationName": "Delete VpnConnection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnConeection resource.",
+  "Description": "Deletes a VpnConnection.",
+  "IsDataAction": false
+}

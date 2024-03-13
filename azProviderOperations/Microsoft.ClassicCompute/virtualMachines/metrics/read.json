@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/metrics/read",
+  "OperationName": "Get Metrics",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Metrics",
+  "Description": "Gets the metrics.",
+  "IsDataAction": false
+}

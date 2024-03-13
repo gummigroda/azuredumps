@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/cdnwebapplicationfirewallmanagedrulesets/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "WebApplicationFirewallManagedRuleSetDefinition",
+  "Description": null,
+  "IsDataAction": false
+}

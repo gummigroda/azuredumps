@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/contentTypes/read",
+  "OperationName": "Get content types or Get all",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Content types",
+  "Description": "Returns list of content types or Returns content type",
+  "IsDataAction": false
+}

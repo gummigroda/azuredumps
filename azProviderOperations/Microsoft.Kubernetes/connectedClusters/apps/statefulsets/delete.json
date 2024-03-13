@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/statefulsets/delete",
+  "OperationName": "Deletes/DeletesCollection statefulsets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "statefulsets",
+  "Description": "Deletes statefulsets",
+  "IsDataAction": true
+}

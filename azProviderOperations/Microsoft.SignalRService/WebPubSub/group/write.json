@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/group/write",
+  "OperationName": "Write Group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/Group",
+  "Description": "Join / Leave group",
+  "IsDataAction": true
+}

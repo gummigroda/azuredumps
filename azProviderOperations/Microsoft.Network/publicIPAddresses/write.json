@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/write",
+  "OperationName": "Create or Update Public Ip Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Creates a public Ip address or updates an existing public Ip address. ",
+  "IsDataAction": false
+}

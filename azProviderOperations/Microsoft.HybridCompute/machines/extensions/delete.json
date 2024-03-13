@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/extensions/delete",
+  "OperationName": "Delete Azure Arc extensions",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "extensions",
+  "Description": "Deletes an Azure Arc extensions",
+  "IsDataAction": false
+}

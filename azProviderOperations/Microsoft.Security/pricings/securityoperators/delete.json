@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/securityoperators/delete",
+  "OperationName": "Delete security operators",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings/SecurityOperators",
+  "Description": "Deletes the security operators for the scope",
+  "IsDataAction": false
+}

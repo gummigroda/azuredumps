@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/transfers/write",
+  "OperationName": "Delete customer transfer",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Transfers",
+  "Description": null,
+  "IsDataAction": false
+}

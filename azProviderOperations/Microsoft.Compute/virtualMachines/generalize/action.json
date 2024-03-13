@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/generalize/action",
+  "OperationName": "Generalize Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Sets the virtual machine state to Generalized and prepares the virtual machine for capture",
+  "IsDataAction": false
+}

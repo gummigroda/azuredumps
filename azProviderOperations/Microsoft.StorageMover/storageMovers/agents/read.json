@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/agents/read",
+  "OperationName": "Agents_Get",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/agents",
+  "Description": "Gets an Agent resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/delete",
+  "OperationName": "chambers_Delete",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "Deletes the specified Chamber.",
+  "IsDataAction": false
+}

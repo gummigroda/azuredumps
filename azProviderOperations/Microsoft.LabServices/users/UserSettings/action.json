@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/UserSettings/action",
+  "OperationName": "User settings",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "Updates and returns personal user settings.",
+  "IsDataAction": false
+}

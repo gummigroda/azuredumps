@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/start/action",
+  "OperationName": "Starts the CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Resource",
+  "Description": "Starts the CloudService.",
+  "IsDataAction": false
+}

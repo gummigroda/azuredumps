@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineEndpoints/score/action",
+  "OperationName": "Score Online Endpoints in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Score Online Endpoints in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

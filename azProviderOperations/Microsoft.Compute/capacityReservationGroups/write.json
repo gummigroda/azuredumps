@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/capacityReservationGroups/write",
+  "OperationName": "Create or Update Capacity Reservation Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Capacity Reservation Groups",
+  "Description": "Creates a new capacity reservation group or updates an existing capacity reservation group",
+  "IsDataAction": false
+}

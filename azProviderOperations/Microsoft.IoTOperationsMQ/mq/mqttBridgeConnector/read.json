@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/mqttBridgeConnector/read",
+  "OperationName": "MqttBridgeConnector_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/mqttBridgeConnector",
+  "Description": "Get a MqttBridgeConnectorResource",
+  "IsDataAction": false
+}

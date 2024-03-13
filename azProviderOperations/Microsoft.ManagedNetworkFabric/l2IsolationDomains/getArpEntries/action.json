@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2IsolationDomains/getArpEntries/action",
+  "OperationName": "L2IsolationDomains_getArpEntries",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2IsolationDomains",
+  "Description": "Clears IPv6 neighbors for this Isolation Domain.",
+  "IsDataAction": false
+}

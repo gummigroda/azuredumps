@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/adminActionRead/action",
+  "OperationName": "Projects_Users_Environments_AdminActionRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows an admin to read environment actions.",
+  "IsDataAction": true
+}

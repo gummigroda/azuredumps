@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMImages/delete",
+  "OperationName": "Delete SharedVMImage",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMImages",
+  "Description": "Deletes the SharedVMImage",
+  "IsDataAction": false
+}

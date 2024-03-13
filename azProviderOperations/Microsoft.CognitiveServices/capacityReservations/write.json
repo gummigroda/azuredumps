@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/capacityReservations/write",
+  "OperationName": "Write API Account",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Writes API Accounts.",
+  "IsDataAction": false
+}

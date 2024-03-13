@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/ApplyArtifacts/action",
+  "OperationName": "Apply artifacts to virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Apply artifacts to virtual machine.",
+  "IsDataAction": false
+}

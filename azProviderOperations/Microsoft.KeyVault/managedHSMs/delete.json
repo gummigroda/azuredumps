@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/delete",
+  "OperationName": "Delete Managed HSM",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "Delete a Managed HSM",
+  "IsDataAction": false
+}

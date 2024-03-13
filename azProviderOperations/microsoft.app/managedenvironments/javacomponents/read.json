@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/javacomponents/read",
+  "OperationName": "Read Managed Environment Java Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Java Component",
+  "Description": "Read Managed Environment Java Component",
+  "IsDataAction": false
+}

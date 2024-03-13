@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/delete",
+  "OperationName": "Delete Redis Cache",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Delete the entire Redis Cache",
+  "IsDataAction": false
+}

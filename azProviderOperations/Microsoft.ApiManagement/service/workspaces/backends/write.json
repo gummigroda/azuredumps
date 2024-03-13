@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/backends/write",
+  "OperationName": "Add Backend or Update backend",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Backend",
+  "Description": "Creates or Updates a Api Version Set. or Updates the details of the backend specified by its identifier.",
+  "IsDataAction": false
+}

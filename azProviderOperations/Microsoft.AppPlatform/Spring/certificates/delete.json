@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/certificates/delete",
+  "OperationName": "Delete a certificate in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The certificate of Microsoft Azure Spring Apps",
+  "Description": "Delete the certificate for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

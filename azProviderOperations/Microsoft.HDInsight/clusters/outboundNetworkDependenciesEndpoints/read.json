@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "List Outbound Network Dependencies Endpoints ",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "List Outbound Network Dependencies Endpoints for HDInsight Cluster",
+  "IsDataAction": false
+}

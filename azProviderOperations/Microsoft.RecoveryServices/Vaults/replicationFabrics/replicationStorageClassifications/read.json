@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationStorageClassifications/read",
+  "OperationName": "Read Storage Classifications",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Storage Classifications",
+  "Description": "Read any Storage Classifications",
+  "IsDataAction": false
+}

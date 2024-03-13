@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/listKeys/action",
+  "OperationName": "List Namespace keys",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "namespaces",
+  "Description": "List keys for a namespace",
+  "IsDataAction": false
+}

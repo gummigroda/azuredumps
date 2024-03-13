@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPPrefixes/delete",
+  "OperationName": "Delete Public Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Prefix",
+  "Description": "Deletes A Public Ip Prefix",
+  "IsDataAction": false
+}

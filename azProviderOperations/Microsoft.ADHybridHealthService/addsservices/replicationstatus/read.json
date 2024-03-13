@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/replicationstatus/read",
+  "OperationName": "Gets replication error status.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets the number of domain controllers and their replication errors if any.",
+  "IsDataAction": false
+}

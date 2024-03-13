@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-independent/profiles:verify/action",
+  "OperationName": "Verify Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Independent",
+  "Description": "Verifies existing profiles against input audio.",
+  "IsDataAction": true
+}

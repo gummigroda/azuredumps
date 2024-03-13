@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/unregister/action",
+  "OperationName": "Unregister HDInsight resource provider",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "",
+  "Description": "Unregister HDInsight resource provider for the subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/operations/read",
+  "OperationName": "List/Get MariaDB Operations",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Operations",
+  "Description": "Return the list of MariaDB Operations.",
+  "IsDataAction": false
+}

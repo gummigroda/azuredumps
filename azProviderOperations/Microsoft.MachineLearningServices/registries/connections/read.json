@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/registries/connections/read",
+  "OperationName": "Gets the Machine Learning Services registry(ies) connection(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Registry",
+  "Description": "Gets the Machine Learning Services registry(ies) connection(s)",
+  "IsDataAction": false
+}

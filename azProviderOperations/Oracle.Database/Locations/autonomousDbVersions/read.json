@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/locations/autonomousDbVersions/read",
+  "OperationName": "AutonomousDatabaseVersions_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "locations/autonomousDbVersions",
+  "Description": "Get a AutonomousDbVersion",
+  "IsDataAction": false
+}

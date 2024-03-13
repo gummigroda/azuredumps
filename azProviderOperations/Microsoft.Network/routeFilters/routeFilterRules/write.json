@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeFilters/routeFilterRules/write",
+  "OperationName": "Create or Update Route Filter Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Filter Rule",
+  "Description": "Creates a route filter rule or Updates an existing route filter rule",
+  "IsDataAction": false
+}

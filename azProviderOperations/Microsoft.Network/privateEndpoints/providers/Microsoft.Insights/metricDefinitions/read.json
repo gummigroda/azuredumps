@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpoints/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Private Endpoint metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint metric definition",
+  "Description": "Gets the available metrics for Private Endpoint",
+  "IsDataAction": false
+}

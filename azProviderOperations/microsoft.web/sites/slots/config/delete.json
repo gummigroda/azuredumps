@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/delete",
+  "OperationName": "Delete Web Apps Slots Config",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Delete Web Apps Slots Config.",
+  "IsDataAction": false
+}

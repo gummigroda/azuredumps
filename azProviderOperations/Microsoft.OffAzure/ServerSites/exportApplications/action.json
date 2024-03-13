@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/exportApplications/action",
+  "OperationName": "Export Applications, Roles and Features of Server Site Inventory",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Export Applications, Roles and Features of Server Site Inventory",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/delete",
+  "OperationName": "Delete Public Ip Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Deletes a public Ip address.",
+  "IsDataAction": false
+}

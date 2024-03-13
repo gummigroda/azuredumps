@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGatewayAvailableWafRuleSets/read",
+  "OperationName": "Get Application Gateway Available Waf Rule Sets",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway available Waf Rule Set",
+  "Description": "Gets Application Gateway Available Waf Rule Sets",
+  "IsDataAction": false
+}

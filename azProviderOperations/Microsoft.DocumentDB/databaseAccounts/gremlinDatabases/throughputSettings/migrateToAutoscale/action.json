@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate Gremlin Database offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Database throughput setting",
+  "Description": "Migrate Gremlin Database offer to autoscale.",
+  "IsDataAction": false
+}

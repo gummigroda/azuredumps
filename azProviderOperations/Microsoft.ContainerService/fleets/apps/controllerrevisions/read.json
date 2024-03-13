@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apps/controllerrevisions/read",
+  "OperationName": "Gets/List controllerrevisions resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Controllerrevisions",
+  "Description": "Reads controllerrevisions",
+  "IsDataAction": true
+}

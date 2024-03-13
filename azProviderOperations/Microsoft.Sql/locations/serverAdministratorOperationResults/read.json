@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverAdministratorOperationResults/read",
+  "OperationName": "Server Azure Active Directory administrator operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The server administrator",
+  "Description": "Server Azure Active Directory administrator operation results",
+  "IsDataAction": false
+}

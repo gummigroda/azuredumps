@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/tags/read",
+  "OperationName": "Get tags associated with the API or Get Tag associated with API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API/Tag associations",
+  "Description": "Lists all Tags associated with the API. or Get tag associated with the API.",
+  "IsDataAction": false
+}

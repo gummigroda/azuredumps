@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/endpoints/listkeys/action",
+  "OperationName": "Lists keys for the Machine Learning Services endpoint",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Endpoint",
+  "Description": "Lists keys for the Machine Learning Services endpoint",
+  "IsDataAction": false
+}

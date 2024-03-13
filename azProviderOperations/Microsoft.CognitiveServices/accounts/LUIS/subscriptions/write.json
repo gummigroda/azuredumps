@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/subscriptions/write",
+  "OperationName": "user - Add subscription key|user - Rename subscription key*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "subscriptions*",
+  "Description": "**THIS API IS DEPRECATED.**\r\n**THIS API IS DEPRECATED.***",
+  "IsDataAction": true
+}

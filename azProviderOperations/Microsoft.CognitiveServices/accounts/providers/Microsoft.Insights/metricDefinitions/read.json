@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Cognitive Services metric definitions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "The metric definition of Cognitive Services",
+  "Description": "Gets the available metrics for Cognitive Services.",
+  "IsDataAction": false
+}

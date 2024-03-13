@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnectionProxies/write",
+  "OperationName": "Create/Update Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection Proxy",
+  "Description": "Creates a private endpoint connection proxy with the specified parameters or updates the properties or tags for the specified private endpoint connection proxy",
+  "IsDataAction": false
+}

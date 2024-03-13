@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Delete Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

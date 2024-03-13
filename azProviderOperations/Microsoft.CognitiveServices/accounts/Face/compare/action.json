@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/compare/action",
+  "OperationName": "Face - Compare",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Compare two faces from source image and target image based on a their similarity.",
+  "IsDataAction": true
+}

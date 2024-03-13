@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/transcriptions/delete",
+  "OperationName": "Delete a transcription",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Transcriptions",
+  "Description": "Delete a transcription",
+  "IsDataAction": true
+}

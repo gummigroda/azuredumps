@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/groups/read",
+  "OperationName": "Get groups list or Get group details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Groups",
+  "Description": "Lists a collection of groups defined within a service instance. or Gets the details of the group specified by its identifier.",
+  "IsDataAction": false
+}

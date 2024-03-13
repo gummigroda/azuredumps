@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/packetDetectionRules/read",
+  "OperationName": "PacketDetectionRules_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/packetDetectionRules",
+  "Description": "Lists all the Packet Detection Rules in a mobile packet core instance.",
+  "IsDataAction": false
+}

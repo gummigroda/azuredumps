@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/register/action",
+  "OperationName": "Register the Microsoft.IoTOperationsOrchestrator",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.IoTOperationsOrchestrator",
+  "IsDataAction": false
+}

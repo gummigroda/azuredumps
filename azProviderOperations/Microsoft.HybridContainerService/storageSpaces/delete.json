@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/storageSpaces/delete",
+  "OperationName": "storageSpaces_Delete",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "storageSpaces",
+  "Description": "Deletes the Hybrid AKS storage object",
+  "IsDataAction": false
+}

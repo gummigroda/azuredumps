@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/attachments/delete",
+  "OperationName": "Delete AgFoodPlatform attachments resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform attachments",
+  "Description": "Deletes an existing AgFoodPlatform attachments resource.",
+  "IsDataAction": true
+}

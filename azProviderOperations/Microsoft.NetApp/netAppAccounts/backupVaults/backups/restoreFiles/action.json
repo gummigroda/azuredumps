@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/backupVaults/backups/restoreFiles/action",
+  "OperationName": "Single File Backup Restore",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Backup resource type",
+  "Description": "Restores files from a backup resource",
+  "IsDataAction": false
+}

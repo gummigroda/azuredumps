@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Cache Metric Definitions",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "StorageCache Metric Definitions",
+  "Description": "Reads Cache Metric Definitions.",
+  "IsDataAction": false
+}

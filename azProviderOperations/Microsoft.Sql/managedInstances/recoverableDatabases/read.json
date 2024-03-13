@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/recoverableDatabases/read",
+  "OperationName": "List/Get Azure SQL Managed Instance recoverable databases",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Recoverable Managed Database",
+  "Description": "Returns a list of recoverable managed databases",
+  "IsDataAction": false
+}

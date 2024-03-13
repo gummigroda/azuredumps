@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/workspaces/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update the diagnostic setting",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "workspaces",
+  "Description": "Creates or updates the diagnostic setting",
+  "IsDataAction": false
+}

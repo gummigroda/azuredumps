@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Change state of Network Security Perimeter Association",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Change the state of an association to a Network Security Perimeter resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

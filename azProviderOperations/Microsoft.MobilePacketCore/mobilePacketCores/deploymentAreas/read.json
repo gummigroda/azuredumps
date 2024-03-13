@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/deploymentAreas/read",
+  "OperationName": "DeploymentAreas_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/deploymentAreas",
+  "Description": "Lists all the Deployment Area resources in a mobile packet core instance.",
+  "IsDataAction": false
+}

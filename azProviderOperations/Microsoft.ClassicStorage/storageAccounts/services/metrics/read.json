@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/services/metrics/read",
+  "OperationName": "Get Metrics",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Metrics",
+  "Description": "Gets the metrics.",
+  "IsDataAction": false
+}

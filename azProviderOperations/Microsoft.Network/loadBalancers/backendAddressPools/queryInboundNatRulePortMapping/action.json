@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/queryInboundNatRulePortMapping/action",
+  "OperationName": "Query inbound Nat rule port mapping.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Query inbound Nat rule port mapping.",
+  "IsDataAction": false
+}

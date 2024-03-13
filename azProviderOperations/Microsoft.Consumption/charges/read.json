@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/charges/read",
+  "OperationName": "List charges",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Charges",
+  "Description": "List charges",
+  "IsDataAction": false
+}

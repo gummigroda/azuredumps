@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/startStopSchedules/read",
+  "OperationName": "Azure SQL Managed Instance Start-Stop schedule Get or List operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Start-Stop schedule.",
+  "Description": "Get properties for specified Start-Stop schedule for the Azure SQL Managed Instance or a List of all Start-Stop schedules.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/externaluserassignments/write",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups/externaluserassignments",
+  "Description": null,
+  "IsDataAction": false
+}

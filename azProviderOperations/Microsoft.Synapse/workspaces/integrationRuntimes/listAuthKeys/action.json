@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/listAuthKeys/action",
+  "OperationName": "List Auth Keys of an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "List Auth Keys of any Integration Runtime",
+  "IsDataAction": false
+}

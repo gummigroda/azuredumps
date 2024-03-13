@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/delete",
+  "OperationName": "Delete pricing settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings",
+  "Description": "Deletes the pricing settings for the scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/operationResults/read",
+  "OperationName": "Get DataLakeAnalytics Account OperationResult",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Operation Result",
+  "Description": "Get result of a DataLakeAnalytics account operation.",
+  "IsDataAction": false
+}

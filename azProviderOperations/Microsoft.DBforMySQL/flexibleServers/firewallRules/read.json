@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/firewallRules/read",
+  "OperationName": "List/Get Firewall Rule(s)",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Firewall Rule",
+  "Description": "Returns the list of firewall rules for a server or gets the properties for the specified firewall rule.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/csistoragecapacities/read",
+  "OperationName": "Gets/List csistoragecapacities resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "csistoragecapacities",
+  "Description": "Reads csistoragecapacities",
+  "IsDataAction": true
+}

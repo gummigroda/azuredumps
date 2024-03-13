@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/suggest/read",
+  "OperationName": "Suggest endpoint queries for intents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Suggest for intents",
+  "Description": "Suggests examples that would improve the accuracy of the intent model.",
+  "IsDataAction": true
+}

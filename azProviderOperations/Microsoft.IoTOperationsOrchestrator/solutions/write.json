@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/solutions/write",
+  "OperationName": "Solutions_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "solutions",
+  "Description": "Update a Solution",
+  "IsDataAction": false
+}

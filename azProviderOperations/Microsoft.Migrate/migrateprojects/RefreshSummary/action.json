@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/RefreshSummary/action",
+  "OperationName": "Refresh the migrate project summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate Projects ",
+  "Description": "Refreshes the migrate project summary",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/PrivateEndpointConnectionProxies/write",
+  "OperationName": "Write private endpoint connection proxy",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private endpoint connection proxies resource type",
+  "Description": "Writes a private endpoint connection proxy",
+  "IsDataAction": false
+}

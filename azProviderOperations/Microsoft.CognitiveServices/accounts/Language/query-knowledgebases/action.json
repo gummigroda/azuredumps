@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/action",
+  "OperationName": "Query Knowledgebases",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Answer Knowledgebase.",
+  "IsDataAction": true
+}

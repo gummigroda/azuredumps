@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/join/action",
+  "OperationName": "Join Express Route Cross Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection",
+  "Description": "Joins an Express Route Cross Connection. Not alertable.",
+  "IsDataAction": false
+}

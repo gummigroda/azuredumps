@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models/action",
+  "OperationName": "Creates a new model.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "Creates a new model.",
+  "IsDataAction": true
+}

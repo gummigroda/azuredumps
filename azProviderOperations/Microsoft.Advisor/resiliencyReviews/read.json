@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/resiliencyReviews/read",
+  "OperationName": "Reads resiliencyReviews",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "resiliencyReviews",
+  "Description": "Read resiliencyReviews",
+  "IsDataAction": false
+}

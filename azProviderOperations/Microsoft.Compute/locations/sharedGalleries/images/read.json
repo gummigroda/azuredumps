@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/sharedGalleries/images/read",
+  "OperationName": "Get Shared Gallery Image",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Shared Gallery Image",
+  "Description": "Get the properties of a Shared Gallery Image",
+  "IsDataAction": false
+}

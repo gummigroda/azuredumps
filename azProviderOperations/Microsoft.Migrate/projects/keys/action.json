@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/projects/keys/action",
+  "OperationName": "Get Project keys",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Projects",
+  "Description": "Gets shared keys for the project",
+  "IsDataAction": false
+}

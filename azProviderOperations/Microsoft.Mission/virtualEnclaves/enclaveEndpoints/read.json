@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/read",
+  "OperationName": "EnclaveEndpoints_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "virtualEnclaves/enclaveEndpoints",
+  "Description": "Get a EnclaveEndpointResource",
+  "IsDataAction": false
+}

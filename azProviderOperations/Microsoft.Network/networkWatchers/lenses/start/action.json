@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/start/action",
+  "OperationName": "Start Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Start monitoring network traffic on a specified endpoint",
+  "IsDataAction": false
+}

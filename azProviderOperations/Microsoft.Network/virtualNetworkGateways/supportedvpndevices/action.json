@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualnetworkgateways/supportedvpndevices/action",
+  "OperationName": "Lists Supported Vpn Devices",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Lists Supported Vpn Devices",
+  "IsDataAction": false
+}

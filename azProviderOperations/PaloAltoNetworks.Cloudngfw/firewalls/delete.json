@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/firewalls/delete",
+  "OperationName": "Firewalls_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "firewalls",
+  "Description": "Delete a FirewallResource",
+  "IsDataAction": false
+}

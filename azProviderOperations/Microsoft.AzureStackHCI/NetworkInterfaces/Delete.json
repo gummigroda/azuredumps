@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/NetworkInterfaces/Delete",
+  "OperationName": "Deletes network interfaces resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "NetworkInterfaces",
+  "Description": "Deletes network interfaces resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/write",
+  "OperationName": "Creates or updates triggers",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "triggers",
+  "Description": "Creates or updates the triggers",
+  "IsDataAction": false
+}

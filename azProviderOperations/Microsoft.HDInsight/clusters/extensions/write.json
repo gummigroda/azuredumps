@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/extensions/write",
+  "OperationName": "Create Cluster Extension",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Create Cluster Extension for HDInsight Cluster",
+  "IsDataAction": false
+}

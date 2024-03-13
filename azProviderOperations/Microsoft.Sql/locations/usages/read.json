@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/usages/read",
+  "OperationName": "Get usage metrics in a location",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Location Usages",
+  "Description": "Gets a collection of usage metrics for this subscription in a location",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/move/action",
+  "OperationName": "Move Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Moves Workflow from its existing subscription id, resource group, and/or name to a different subscription id, resource group, and/or name.",
+  "IsDataAction": false
+}

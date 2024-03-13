@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/upgrade/action",
+  "OperationName": "NetworkDevices_Upgrade",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Upgrades the version of the Network Device.",
+  "IsDataAction": false
+}

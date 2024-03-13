@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnectionProxies/write",
+  "OperationName": "Put Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Private Endpoint Connection Proxies",
+  "Description": "Put Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

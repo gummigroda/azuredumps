@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/connections/revokeConnectionKeys/action",
+  "OperationName": "Revokes API Connections Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Revokes API Connections Keys.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/oucontainer/write",
+  "OperationName": "Write Ou Container",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Ou Container Type",
+  "Description": "Write Ou Container",
+  "IsDataAction": false
+}

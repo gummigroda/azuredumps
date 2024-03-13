@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/write",
+  "OperationName": "Create or Patch or Update closed list entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlists",
+  "Description": "Adds a list entity to the LUIS app.\r\nAdds a batch of sublists to an existing closedlist.*\r\nUpdates the closed list model.",
+  "IsDataAction": true
+}

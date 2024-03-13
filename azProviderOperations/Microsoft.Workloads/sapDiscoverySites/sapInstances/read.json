@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/sapInstances/read",
+  "OperationName": "SAPInstances_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites/sapInstances",
+  "Description": "Lists the SAP Instance resources for the given SAP Migration discovery site resource.",
+  "IsDataAction": false
+}

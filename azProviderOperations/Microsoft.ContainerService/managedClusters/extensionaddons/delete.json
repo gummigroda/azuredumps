@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensionaddons/delete",
+  "OperationName": "Delete an extension addon",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "ExtensionAddons",
+  "Description": "Deletes an extension addon",
+  "IsDataAction": false
+}

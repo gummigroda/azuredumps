@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/versions/activate/action",
+  "OperationName": "Activate Application Package",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Application Packages",
+  "Description": "Activates an application package",
+  "IsDataAction": false
+}

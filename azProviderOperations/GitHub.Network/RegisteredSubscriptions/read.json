@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/RegisteredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/refreshSetPasswordLink/action",
+  "OperationName": "Refresh set password link",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Monitors",
+  "Description": "Refresh the set password link for the datadog account of the given monitor resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/privateLinkResources/read",
+  "OperationName": "Gets the resource types that support private endpoint connections",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "PrivateLinks",
+  "Description": "Gets the resource types that support private endpoint connections",
+  "IsDataAction": false
+}

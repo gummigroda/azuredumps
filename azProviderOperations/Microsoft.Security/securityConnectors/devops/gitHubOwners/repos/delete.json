@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitHubOwners/repos/delete",
+  "OperationName": "GitHubRepos_Delete",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitHubOwners Repos",
+  "Description": "Deletes a monitored GitHub repository.",
+  "IsDataAction": false
+}

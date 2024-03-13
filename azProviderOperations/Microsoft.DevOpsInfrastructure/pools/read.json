@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/pools/read",
+  "OperationName": "Pools_Get",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "pools",
+  "Description": "Get a Pool",
+  "IsDataAction": false
+}

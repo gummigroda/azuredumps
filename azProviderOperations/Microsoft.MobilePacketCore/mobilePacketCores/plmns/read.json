@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/plmns/read",
+  "OperationName": "Plmns_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/plmns",
+  "Description": "Lists all the Public Land Mobile Network instances in a mobile packet core instance.",
+  "IsDataAction": false
+}

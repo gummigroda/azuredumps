@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalBillingAccounts/query/action",
+  "OperationName": "Query usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "ExternalBillingAccounts",
+  "Description": "Query usage data for external BillingAccounts.",
+  "IsDataAction": false
+}

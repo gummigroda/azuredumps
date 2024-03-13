@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/credentialSets/delete",
+  "OperationName": "Delete credential set",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CredentialSets",
+  "Description": "Deletes a credential set from a container registry",
+  "IsDataAction": false
+}

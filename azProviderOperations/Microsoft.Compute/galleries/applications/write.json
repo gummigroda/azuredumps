@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/applications/write",
+  "OperationName": "Create or Update Gallery Application",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryApplications",
+  "Description": "Creates a new Gallery Application or updates an existing one",
+  "IsDataAction": false
+}

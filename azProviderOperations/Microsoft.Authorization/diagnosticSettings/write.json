@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/diagnosticSettings/write",
+  "OperationName": "Write to diagnostics settings",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Diagnostics settings",
+  "Description": "Create or update the information of diagnostics settings",
+  "IsDataAction": false
+}

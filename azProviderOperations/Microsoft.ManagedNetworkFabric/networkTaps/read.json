@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTaps/read",
+  "OperationName": "NetworkTaps_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTaps",
+  "Description": "Displays Network Taps list by subscription GET method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/write",
+  "OperationName": "Create or Update Fabrics",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Create or Update any Fabrics",
+  "IsDataAction": false
+}

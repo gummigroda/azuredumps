@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GuestConfiguration/operations/read",
+  "OperationName": "Microsoft.GuestConfiguration/operations/read",
+  "ProviderNamespace": "Microsoft Guest Configuration",
+  "ResourceName": "Operations",
+  "Description": "Gets the operations for the Microsoft.GuestConfiguration resource provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/register/action",
+  "OperationName": "Register MariaDB Resource Provider",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "",
+  "Description": "Register MariaDB Resource Provider",
+  "IsDataAction": false
+}

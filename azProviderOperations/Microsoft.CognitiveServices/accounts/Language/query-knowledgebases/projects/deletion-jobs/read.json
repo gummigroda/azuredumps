@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/deletion-jobs/read",
+  "OperationName": "Delete Project Job Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deletion-jobs*",
+  "Description": "Get Import Job Status.",
+  "IsDataAction": true
+}

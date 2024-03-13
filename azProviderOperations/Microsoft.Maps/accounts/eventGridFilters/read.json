@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/eventGridFilters/read",
+  "OperationName": "Get an Event Grid filter",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Get an Event Grid filter",
+  "IsDataAction": false
+}

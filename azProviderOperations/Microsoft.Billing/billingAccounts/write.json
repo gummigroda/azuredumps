@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/write",
+  "OperationName": "BillingAccounts_Update",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": "Updates the properties of a billing account.",
+  "IsDataAction": false
+}

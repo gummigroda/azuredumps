@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/privateLinkResources/Read",
+  "OperationName": "Get Private Link Resources",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/PrivateLinkResources",
+  "Description": "Gets private link resources for IotHub",
+  "IsDataAction": false
+}

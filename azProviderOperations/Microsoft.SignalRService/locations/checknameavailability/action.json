@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/locations/checknameavailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Locations/CheckNameAvailability",
+  "Description": "Checks if a name is available for use with a new Microsoft.SignalRService resource",
+  "IsDataAction": false
+}

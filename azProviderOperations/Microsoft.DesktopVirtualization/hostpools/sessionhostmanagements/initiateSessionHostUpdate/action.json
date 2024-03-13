@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements/initiateSessionHostUpdate/action",
+  "OperationName": "initiateSessionHostUpdate",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhostmanagements",
+  "Description": "Action on initiateSessionHostUpdate.",
+  "IsDataAction": false
+}

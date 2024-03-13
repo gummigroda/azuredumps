@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/asyncOperationResults/read",
+  "OperationName": "Get Async Operation Result",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Async Operation Results",
+  "Description": "Gets the async operation result.",
+  "IsDataAction": false
+}

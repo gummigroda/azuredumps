@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Get Private Endpoint Connection",
+  "IsDataAction": false
+}

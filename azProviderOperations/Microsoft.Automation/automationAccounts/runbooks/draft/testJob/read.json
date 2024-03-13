@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/draft/testJob/read",
+  "OperationName": "Read an Azure Automation runbook draft test job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook Draft Test Job",
+  "Description": "Gets an Azure Automation runbook draft test job",
+  "IsDataAction": false
+}

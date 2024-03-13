@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/extensions/delete",
+  "OperationName": "Delete Virtual Machine Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Extensions",
+  "Description": "Deletes the virtual machine extension",
+  "IsDataAction": false
+}

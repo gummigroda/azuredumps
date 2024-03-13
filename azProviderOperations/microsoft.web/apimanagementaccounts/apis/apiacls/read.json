@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/apiacls/read",
+  "OperationName": "Get Api Management Accounts APIs Apiacls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Apiacls",
+  "Description": "Get Api Management Accounts APIs Apiacls.",
+  "IsDataAction": false
+}

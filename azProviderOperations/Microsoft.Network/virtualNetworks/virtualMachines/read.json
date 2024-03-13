@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/virtualMachines/read",
+  "OperationName": "Get Virtual Network Virtual Machines",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Virtual Machines",
+  "Description": "Gets references to all the virtual machines in a virtual network",
+  "IsDataAction": false
+}

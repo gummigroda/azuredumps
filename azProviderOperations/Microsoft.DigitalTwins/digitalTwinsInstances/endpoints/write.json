@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/write",
+  "OperationName": "Write Endpoint",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Endpoint",
+  "Description": "Create or Update any Endpoint of a Digital Twins resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting.",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "environments",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAWindowsSysReqInstanceReadiness/Read",
+  "OperationName": "Read MAWindowsSysReqInstanceReadiness data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAWindowsSysReqInstanceReadiness",
+  "Description": "Read data from the MAWindowsSysReqInstanceReadiness table",
+  "IsDataAction": false
+}

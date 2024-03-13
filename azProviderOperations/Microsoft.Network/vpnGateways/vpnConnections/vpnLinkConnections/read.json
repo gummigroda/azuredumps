@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/vpnLinkConnections/read",
+  "OperationName": "Gets a Vpn Link Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Link Connection resource",
+  "Description": "Gets a Vpn Link Connection",
+  "IsDataAction": false
+}

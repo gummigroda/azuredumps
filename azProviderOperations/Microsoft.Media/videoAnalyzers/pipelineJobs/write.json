@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineJobs/write",
+  "OperationName": "Create or Update Pipeline Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Job Resource",
+  "Description": "Create or Update any Pipeline Job",
+  "IsDataAction": false
+}

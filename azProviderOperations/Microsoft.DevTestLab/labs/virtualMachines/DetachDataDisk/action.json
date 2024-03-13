@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/DetachDataDisk/action",
+  "OperationName": "Detach the specified disk from the virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Detach the specified disk from the virtual machine.",
+  "IsDataAction": false
+}

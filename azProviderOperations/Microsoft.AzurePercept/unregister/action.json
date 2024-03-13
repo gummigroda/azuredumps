@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/unregister/action",
+  "OperationName": "Unregister the Microsoft.AzurePercept",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AzurePercept",
+  "IsDataAction": false
+}

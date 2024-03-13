@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/protectedItems/action",
+  "OperationName": "Performs reprotect on protected item",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": "Performs reprotect on any protected item",
+  "IsDataAction": false
+}

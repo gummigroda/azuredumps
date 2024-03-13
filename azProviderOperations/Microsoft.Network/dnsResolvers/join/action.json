@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/join/action",
+  "OperationName": "Join DNS Resolver",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver",
+  "Description": "Join DNS Resolver",
+  "IsDataAction": false
+}

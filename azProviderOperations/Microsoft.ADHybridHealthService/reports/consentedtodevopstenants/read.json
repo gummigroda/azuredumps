@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/consentedtodevopstenants/read",
+  "OperationName": "Gets the list of DevOps consented tenants.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets the list of DevOps consented tenants. Typically used for customer support.",
+  "IsDataAction": false
+}

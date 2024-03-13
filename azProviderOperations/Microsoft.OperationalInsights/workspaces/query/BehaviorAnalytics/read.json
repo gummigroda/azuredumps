@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/BehaviorAnalytics/read",
+  "OperationName": "Read BehaviorAnalytics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "BehaviorAnalytics",
+  "Description": "Read data from the BehaviorAnalytics table",
+  "IsDataAction": false
+}

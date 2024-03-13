@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkExperimentProfiles/experiments/timeseries/action",
+  "OperationName": "Get an Internet Analyzer test's time series",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Internet Analyzer Test",
+  "Description": "Get an Internet Analyzer test's time series",
+  "IsDataAction": false
+}

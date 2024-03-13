@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/pathMappings/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "PathMappings",
+  "Description": "Deletes a given LiveDataPathMapping.",
+  "IsDataAction": false
+}

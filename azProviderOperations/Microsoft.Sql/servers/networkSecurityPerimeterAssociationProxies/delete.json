@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Drop network security perimeter association",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Drop network security perimeter association",
+  "IsDataAction": false
+}

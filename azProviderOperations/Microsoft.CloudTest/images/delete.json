@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/images/delete",
+  "OperationName": "Delete 1ES Image",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "images",
+  "Description": "Deletes 1ES images",
+  "IsDataAction": false
+}

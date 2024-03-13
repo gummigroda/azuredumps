@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/write",
+  "OperationName": "Update Managed HSM",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "Create a new Managed HSM or update the properties of an existing Managed HSM",
+  "IsDataAction": false
+}

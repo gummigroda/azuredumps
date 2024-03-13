@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/write",
+  "OperationName": "Add Virtual Machines",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Add or modify virtual machines.",
+  "IsDataAction": false
+}

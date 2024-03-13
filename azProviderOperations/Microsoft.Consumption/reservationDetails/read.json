@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/reservationDetails/read",
+  "OperationName": "List Reservation Utilization Details",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "ReservationDetails",
+  "Description": "List the utilization details for reserved instances by reservation order or managment groups. The details data is per instance per day level.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityGroups/write",
+  "OperationName": "Create or Update Network Security Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Group",
+  "Description": "Creates a network security group or updates an existing network security group",
+  "IsDataAction": false
+}

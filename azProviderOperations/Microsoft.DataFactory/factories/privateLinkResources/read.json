@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/privateLinkResources/read",
+  "OperationName": "Read Private Link Resource",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Microsoft Data Factory Provider",
+  "Description": "Read Private Link Resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/operations/action",
+  "OperationName": "Get Azure-AsyncOperation Status",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Linked Subscription",
+  "Description": "Get or list statuses of async operations on projected linked resources",
+  "IsDataAction": false
+}

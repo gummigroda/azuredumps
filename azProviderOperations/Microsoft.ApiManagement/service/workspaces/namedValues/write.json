@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/namedValues/write",
+  "OperationName": "Create named value or Update named value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace NamedValues",
+  "Description": "Creates or updates named value. or Updates the specific named value.",
+  "IsDataAction": false
+}

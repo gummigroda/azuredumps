@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/schedules/delete",
+  "OperationName": "Deletes schedule in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Schedules",
+  "Description": "Deletes schedule in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/azureResourceName/privateLinkResources/read",
+  "OperationName": "Gets private link resources by name",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Gets private link resources in an Azure resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/sources/jobs/read",
+  "OperationName": "Update Sources Job Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get Update Sources Job Status.",
+  "IsDataAction": true
+}

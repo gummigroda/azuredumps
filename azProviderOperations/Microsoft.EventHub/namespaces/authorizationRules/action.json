@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/authorizationRules/action",
+  "OperationName": "Updates Namespace Authorization Rule (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace",
+  "Description": "Updates Namespace Authorization Rule. This API is depricated. Please use a PUT call to update the Namespace Authorization Rule instead.. This operation is not supported on API version 2017-04-01.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/batch/cronjobs/write",
+  "OperationName": "Creates/Updates cronjobs resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Cronjobs",
+  "Description": "Writes cronjobs",
+  "IsDataAction": true
+}

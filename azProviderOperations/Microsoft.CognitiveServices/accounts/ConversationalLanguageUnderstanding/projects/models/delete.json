@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/models/delete",
+  "OperationName": "Projects_DeleteProjectModel",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Deletes a trained model.",
+  "IsDataAction": true
+}

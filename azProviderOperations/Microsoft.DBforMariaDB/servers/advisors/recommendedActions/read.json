@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/advisors/recommendedActions/read",
+  "OperationName": "Return a recommended action",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Recommended Actions",
+  "Description": "Return a recommended action",
+  "IsDataAction": false
+}

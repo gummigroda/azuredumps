@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/communicationsGateways/write",
+  "OperationName": "CommunicationsGateways_Update",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "communicationsGateways",
+  "Description": "Update a CommunicationsGateway",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskEncryptionSets/read",
+  "OperationName": "Get disk encryption set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskEncryptionSets",
+  "Description": "Get the properties of a disk encryption set",
+  "IsDataAction": false
+}

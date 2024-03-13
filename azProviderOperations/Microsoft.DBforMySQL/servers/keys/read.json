@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/keys/read",
+  "OperationName": "List/Get Azure Database for MySQL Server Key(s)",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Server Keys",
+  "Description": "Return the list of server keys or gets the properties for the specified server key.",
+  "IsDataAction": false
+}

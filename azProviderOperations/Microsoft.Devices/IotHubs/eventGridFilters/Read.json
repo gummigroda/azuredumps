@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventGridFilters/Read",
+  "OperationName": "Get Event Grid filter",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/EventGridFilters",
+  "Description": "Gets the Event Grid filter",
+  "IsDataAction": false
+}

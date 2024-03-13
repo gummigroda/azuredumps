@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/delete",
+  "OperationName": "Delete ResourceGuard",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Guards",
+  "Description": "The Delete ResourceGuard operation deletes the specified Azure resource of type 'ResourceGuard'",
+  "IsDataAction": false
+}

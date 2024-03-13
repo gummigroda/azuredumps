@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/managedApis/write",
+  "OperationName": "Set Integration Service Environment managed API",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment Managed API",
+  "Description": "Creates or updates the integration service environment managed API.",
+  "IsDataAction": false
+}

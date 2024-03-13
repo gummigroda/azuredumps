@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Managed Cluster metric definitions",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "The metric definition of Managed Cluster",
+  "Description": "Gets the available metrics for Managed Cluster",
+  "IsDataAction": false
+}

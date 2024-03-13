@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/listMigrations/action",
+  "OperationName": "List/Get MySQL Scheduled Migrations",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Auto Migration Operations",
+  "Description": "Return the List of MySQL scheduled auto migrations",
+  "IsDataAction": false
+}

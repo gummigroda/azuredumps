@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/dataControllers/read",
+  "OperationName": "DataControllers_GetDataController",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "dataControllers",
+  "Description": "Retrieves a dataController resource",
+  "IsDataAction": false
+}

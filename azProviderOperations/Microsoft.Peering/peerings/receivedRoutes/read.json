@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peerings/receivedRoutes/read",
+  "OperationName": "Read PeeringReceivedRoutes",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "receivedRoutes",
+  "Description": "Read any receivedRoutes",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/share/action",
+  "OperationName": "Share Gallery",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Galleries",
+  "Description": "Shares a Gallery to different scopes",
+  "IsDataAction": false
+}

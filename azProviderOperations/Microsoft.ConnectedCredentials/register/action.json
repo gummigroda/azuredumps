@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCredentials/register/action",
+  "OperationName": "Register the Microsoft.ConnectedCredentials",
+  "ProviderNamespace": "Microsoft.ConnectedCredentials",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ConnectedCredentials",
+  "IsDataAction": false
+}

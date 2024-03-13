@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/freeTrialStaticWebApps/write",
+  "OperationName": "Create or update free trial static web app",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Creates or updates a free trial static web app.",
+  "IsDataAction": false
+}

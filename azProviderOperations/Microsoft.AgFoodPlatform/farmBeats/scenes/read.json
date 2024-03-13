@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/scenes/read",
+  "OperationName": "Get or List AgFoodPlatform scenes resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform scenes",
+  "Description": "Gets or Lists existing AgFoodPlatform scenes resource(s).",
+  "IsDataAction": true
+}

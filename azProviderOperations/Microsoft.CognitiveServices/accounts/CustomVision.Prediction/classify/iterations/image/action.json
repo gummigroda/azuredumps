@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/classify/iterations/image/action",
+  "OperationName": "ClassifyImage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Classify an image and saves the result.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/validationJobs/delete",
+  "OperationName": "Delete Certify validationJob resource.",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "validationJobs",
+  "Description": "Deletes an existing Certify validationJob resource.",
+  "IsDataAction": false
+}

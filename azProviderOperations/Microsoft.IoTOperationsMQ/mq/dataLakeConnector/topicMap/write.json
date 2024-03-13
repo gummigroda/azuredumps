@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/dataLakeConnector/topicMap/write",
+  "OperationName": "DataLakeConnectorTopicMap_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/dataLakeConnector/topicMap",
+  "Description": "Update a DataLakeTopicMapResource",
+  "IsDataAction": false
+}

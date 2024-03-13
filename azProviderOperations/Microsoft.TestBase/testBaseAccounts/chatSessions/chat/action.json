@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/chatSessions/chat/action",
+  "OperationName": "ChatSession_Chat",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/chatSessions",
+  "Description": "Start a new chat turn. Ask a question and see the answer in response.",
+  "IsDataAction": false
+}

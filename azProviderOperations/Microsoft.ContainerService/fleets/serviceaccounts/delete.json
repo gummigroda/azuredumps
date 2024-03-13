@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/serviceaccounts/delete",
+  "OperationName": "Deletes/DeletesCollection serviceaccounts resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Serviceaccounts",
+  "Description": "Deletes serviceaccounts",
+  "IsDataAction": true
+}

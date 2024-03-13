@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/actionRules/read",
+  "OperationName": "Read action rules",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "actionRules",
+  "Description": "Get all the alert processing rules for the input filters.",
+  "IsDataAction": false
+}

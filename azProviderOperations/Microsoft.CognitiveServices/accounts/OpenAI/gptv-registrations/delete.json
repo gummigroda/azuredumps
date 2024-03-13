@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/gptv-registrations/delete",
+  "OperationName": "Gptv_registrations_delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Registers, unregisters or updates an existing Azure Resource for a deployment for enhancements.",
+  "Description": "Unregisters a registered Azure Resource corresponding to a deployment.",
+  "IsDataAction": true
+}

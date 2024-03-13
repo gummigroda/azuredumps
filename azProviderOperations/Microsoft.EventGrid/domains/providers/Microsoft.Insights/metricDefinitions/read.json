@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read domains metric definitions",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Domains Metrics",
+  "Description": "Gets the available metrics for domains",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/delete",
+  "OperationName": "Delete Managed Private Endpoint",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Managed Private Endpoint",
+  "Description": "Delete Managed Private Endpoint.",
+  "IsDataAction": false
+}

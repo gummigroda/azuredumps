@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupEngines/read",
+  "OperationName": "List of backup management servers.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Engines",
+  "Description": "Returns all the backup management servers registered with vault.",
+  "IsDataAction": false
+}

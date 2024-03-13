@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/indicators/appendTags/action",
+  "OperationName": "Append tags to Threat Intelligence Indicator",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Append tags to Threat Intelligence Indicator",
+  "IsDataAction": false
+}

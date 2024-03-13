@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/write",
+  "OperationName": "Create or Update Environment",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Environment",
+  "Description": "Creates a new environment, or updates an existing environment.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/expressRouteConnections/write",
+  "OperationName": "Create or Update Express Route Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Connection",
+  "Description": "Creates an Express Route Connection or Updates an existing Express Route Connection",
+  "IsDataAction": false
+}

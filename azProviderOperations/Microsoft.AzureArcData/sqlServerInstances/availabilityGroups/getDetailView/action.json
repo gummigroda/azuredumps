@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/getDetailView/action",
+  "OperationName": "SqlServerAvailabilityGroups_DetailView",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "Retrieves detailed properties of the Availability Group.",
+  "IsDataAction": false
+}

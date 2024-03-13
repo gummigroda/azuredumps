@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/read",
+  "OperationName": "SAPDiscoverySites_ListBySubscription",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites",
+  "Description": "Gets all SAP Migration discovery site resources in a Subscription.",
+  "IsDataAction": false
+}

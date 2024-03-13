@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/read",
+  "OperationName": "Get Cluster Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Cluster",
+  "Description": "Gets the Cluster Resource Description",
+  "IsDataAction": false
+}

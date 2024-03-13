@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/listkeys/action",
+  "OperationName": "List keys of a Spatial Anchors account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "List keys of a Spatial Anchors account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/accessProfiles/read",
+  "OperationName": "Get Managed Cluster AccessProfile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Get a managed cluster access profile by role name",
+  "IsDataAction": false
+}

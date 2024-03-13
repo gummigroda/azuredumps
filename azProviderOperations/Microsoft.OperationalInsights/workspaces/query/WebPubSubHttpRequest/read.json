@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WebPubSubHttpRequest/read",
+  "OperationName": "Read WebPubSubHttpRequest data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WebPubSubHttpRequest",
+  "Description": "Read data from the WebPubSubHttpRequest table",
+  "IsDataAction": false
+}

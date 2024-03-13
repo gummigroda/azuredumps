@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read managed instances log definitions",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The log definition of managed instances",
+  "Description": "Gets the available logs for managed instances",
+  "IsDataAction": false
+}

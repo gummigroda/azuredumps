@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/operationStatuses/read",
+  "OperationName": "Get the Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Operation Status",
+  "Description": "Reads the operation status for the resource.",
+  "IsDataAction": false
+}

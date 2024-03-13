@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/accessConnectors/delete",
+  "OperationName": "Remove Azure Databricks Access Connector",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "AccessConnector",
+  "Description": "Removes Azure Databricks Access Connector",
+  "IsDataAction": false
+}

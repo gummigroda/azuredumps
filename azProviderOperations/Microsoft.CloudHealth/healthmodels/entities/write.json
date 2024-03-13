@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/entities/write",
+  "OperationName": "Entities_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/entities",
+  "Description": "Create a Entity",
+  "IsDataAction": false
+}

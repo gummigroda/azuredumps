@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/action",
+  "OperationName": "Create Invoice Section [deprecated]",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Profiles",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/migratePrivateLinkWorkspaces/action",
+  "OperationName": "Migrate Private Link Workspaces",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Applies new Network Intent Policy templates based on 'requiredNsgRules' and 'enablePublicAccess'",
+  "IsDataAction": false
+}

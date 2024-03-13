@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/image:batchanalyze/action",
+  "OperationName": "Analyze Image In Batch",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Moderator",
+  "Description": "An API to trigger harmful content analysis for image batch",
+  "IsDataAction": true
+}

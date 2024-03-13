@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "",
+  "Description": "Checks if grafana resource name is available",
+  "IsDataAction": false
+}

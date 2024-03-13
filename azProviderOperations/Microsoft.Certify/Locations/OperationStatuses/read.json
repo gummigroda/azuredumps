@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/Locations/OperationStatuses/read",
+  "OperationName": "Get or List OperationStatuses",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "Gets or Lists OperationStatuses",
+  "IsDataAction": false
+}

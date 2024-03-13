@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/AzureLargeInstances/restart/action",
+  "OperationName": "Restart AzureLargeInstance",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "AzureLargeInstance",
+  "Description": "Restart any AzureLargeInstance",
+  "IsDataAction": false
+}

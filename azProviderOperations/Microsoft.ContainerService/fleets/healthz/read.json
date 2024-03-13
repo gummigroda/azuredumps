@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/read",
+  "OperationName": "Gets/List healthz resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz",
+  "Description": "Reads healthz",
+  "IsDataAction": true
+}

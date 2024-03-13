@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/write",
+  "OperationName": "Create Azure Stack Registration",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Registration",
+  "Description": "Creates or updates an Azure Stack registration",
+  "IsDataAction": false
+}

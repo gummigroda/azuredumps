@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppTraces/read",
+  "OperationName": "Read AppTraces data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppTraces",
+  "Description": "Read data from the AppTraces table",
+  "IsDataAction": false
+}

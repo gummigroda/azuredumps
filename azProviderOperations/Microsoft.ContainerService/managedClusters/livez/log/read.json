@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/livez/log/read",
+  "OperationName": "Gets/List log resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Log",
+  "Description": "Reads log",
+  "IsDataAction": true
+}

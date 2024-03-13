@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/issuetoken/action",
+  "OperationName": "issueToken",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "Issue Cognitive Services jwt token for authentication.",
+  "IsDataAction": true
+}

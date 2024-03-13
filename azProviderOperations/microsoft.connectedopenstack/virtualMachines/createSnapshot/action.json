@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/createSnapshot/action",
+  "OperationName": "VirtualMachines_Snapshot",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Snapshots a virtual machine, creating a new Image resource.",
+  "IsDataAction": false
+}

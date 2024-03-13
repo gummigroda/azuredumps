@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/write",
+  "OperationName": "Create Linked Subscription",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Linked Subscription",
+  "Description": "Create or updates an linked subscription",
+  "IsDataAction": false
+}

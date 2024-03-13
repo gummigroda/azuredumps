@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/getPacketTagging/read",
+  "OperationName": "Gets Packet Tagging",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Packet Tagging Data",
+  "Description": "Gets Packet Tagging",
+  "IsDataAction": false
+}

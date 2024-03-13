@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/origingroups/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "OriginGroup",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/infrastructureResources/read",
+  "OperationName": "InfrastructureResources_Get",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/infrastructureResources",
+  "Description": "Get a InfrastructureResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Virtual Machine Scalet Set Metric Definitions",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scalet Set Metric Definitions",
+  "Description": "Reads Virtual Machine Scalet Set Metric Definitions",
+  "IsDataAction": false
+}

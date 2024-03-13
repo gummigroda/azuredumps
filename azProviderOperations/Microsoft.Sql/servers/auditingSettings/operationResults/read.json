@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/auditingSettings/operationResults/read",
+  "OperationName": "Get server blob auditing operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Blob Auditing Operation Results",
+  "Description": "Retrieve result of the server blob auditing policy Set operation",
+  "IsDataAction": false
+}

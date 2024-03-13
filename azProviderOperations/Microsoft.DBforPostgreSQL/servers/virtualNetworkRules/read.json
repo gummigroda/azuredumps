@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/read",
+  "OperationName": "List/Get Virtual Network Rule(s)",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Virtual Network Rules",
+  "Description": "Return the list of virtual network rules or gets the properties for the specified virtual network rule.",
+  "IsDataAction": false
+}

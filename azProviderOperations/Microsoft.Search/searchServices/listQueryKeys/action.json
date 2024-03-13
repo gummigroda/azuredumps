@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/listQueryKeys/action",
+  "OperationName": "Get Query Keys",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Returns the list of query API keys for the given Azure Search service.",
+  "IsDataAction": false
+}

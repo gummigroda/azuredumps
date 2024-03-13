@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/onPremiseSensors/downloadActivation/action",
+  "OperationName": "Get on-premise IoT Sensor Activation File",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "On-premise IoT Sensors",
+  "Description": "Gets on-premise IoT Sensor Activation File",
+  "IsDataAction": false
+}

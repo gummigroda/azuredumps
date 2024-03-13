@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/externalNetworks/updateAdministrativeState/action",
+  "OperationName": "ExternalNetworks_UpdateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/externalNetworks",
+  "Description": "Executes update operation to enable or disable administrative State for externalNetwork.",
+  "IsDataAction": false
+}

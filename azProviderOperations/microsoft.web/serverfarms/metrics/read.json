@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/metrics/read",
+  "OperationName": "Get App Service Plans Metrics",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Metrics",
+  "Description": "Get App Service Plans Metrics.",
+  "IsDataAction": false
+}

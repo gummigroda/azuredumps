@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/refreshHubSchema/action",
+  "OperationName": "Refresh Azure SQL Sync Hub Database schema",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Refresh sync hub database schema",
+  "IsDataAction": false
+}

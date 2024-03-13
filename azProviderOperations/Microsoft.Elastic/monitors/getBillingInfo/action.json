@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/getBillingInfo/action",
+  "OperationName": "Get marketplace and organization info mapped to the given monitor",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Get marketplace and organization info mapped to the given monitor",
+  "IsDataAction": false
+}

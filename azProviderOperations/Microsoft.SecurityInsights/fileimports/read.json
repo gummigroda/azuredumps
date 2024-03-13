@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/fileimports/read",
+  "OperationName": "Get File Imports",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "FileImports",
+  "Description": "Reads File Import objects",
+  "IsDataAction": false
+}

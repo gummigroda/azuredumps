@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/accounts/read",
+  "OperationName": "Get account definition",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Account",
+  "Description": "Gets account",
+  "IsDataAction": false
+}

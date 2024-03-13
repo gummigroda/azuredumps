@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/write",
+  "OperationName": "Update CloudHsm",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "CloudHsm",
+  "Description": "Create a new CloudHsm or update the properties of an existing CloudHsm",
+  "IsDataAction": false
+}

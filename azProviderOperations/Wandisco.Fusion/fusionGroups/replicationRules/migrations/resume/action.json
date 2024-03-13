@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/replicationRules/migrations/resume/action",
+  "OperationName": "Resume",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrations",
+  "Description": "Resume a migration",
+  "IsDataAction": false
+}

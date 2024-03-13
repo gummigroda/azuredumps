@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Notification from Microsoft.Network of NetworkSecurityPerimeter updates.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Notification from Microsoft.Network of NetworkSecurityPerimeter updates.",
+  "IsDataAction": false
+}

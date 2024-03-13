@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/jobAgentOperationResults/read",
+  "OperationName": "Get job agent operation result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job agent",
+  "Description": "Gets the result of an job agent operation.",
+  "IsDataAction": false
+}

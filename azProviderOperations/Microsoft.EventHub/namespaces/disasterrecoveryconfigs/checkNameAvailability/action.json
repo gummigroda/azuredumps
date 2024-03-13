@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/disasterrecoveryconfigs/checkNameAvailability/action",
+  "OperationName": "Get alias availability.",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Checks availability of namespace alias under given subscription.",
+  "IsDataAction": false
+}

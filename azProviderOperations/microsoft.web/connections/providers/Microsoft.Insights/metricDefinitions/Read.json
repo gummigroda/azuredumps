@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connections/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read API Connections metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of API Connections",
+  "Description": "Gets the available metrics for API Connections",
+  "IsDataAction": false
+}

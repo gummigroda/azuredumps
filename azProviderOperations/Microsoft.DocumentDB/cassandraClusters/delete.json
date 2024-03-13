@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/cassandraClusters/delete",
+  "OperationName": "Microsoft.DocumentDB/cassandraClusters/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Managed Cassandra cluster",
+  "Description": "Delete a managed Cassandra cluster",
+  "IsDataAction": false
+}

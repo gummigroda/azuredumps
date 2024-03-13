@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/desktops/read",
+  "OperationName": "Read applicationgroups/desktops",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups/desktops",
+  "Description": "Read applicationgroups/desktops",
+  "IsDataAction": false
+}

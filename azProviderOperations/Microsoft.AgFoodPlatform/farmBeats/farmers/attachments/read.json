@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/attachments/read",
+  "OperationName": "Get or List AgFoodPlatform attachments resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform attachments",
+  "Description": "Gets or Lists existing AgFoodPlatform attachments resource(s).",
+  "IsDataAction": true
+}

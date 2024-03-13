@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/batch/jobs/write",
+  "OperationName": "Creates/Updates jobs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "jobs",
+  "Description": "Writes jobs",
+  "IsDataAction": true
+}

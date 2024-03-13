@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topictypes/read",
+  "OperationName": "Read TopicType",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topictypes",
+  "Description": "Read a topictype",
+  "IsDataAction": false
+}

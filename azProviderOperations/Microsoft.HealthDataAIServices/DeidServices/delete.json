@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/DeidServices/delete",
+  "OperationName": "DeidServices_Delete",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "DeidServices",
+  "Description": "Delete a DeidService",
+  "IsDataAction": false
+}

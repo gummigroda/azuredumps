@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/networkpolicies/write",
+  "OperationName": "Creates/Updates networkpolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Networkpolicies",
+  "Description": "Writes networkpolicies",
+  "IsDataAction": true
+}

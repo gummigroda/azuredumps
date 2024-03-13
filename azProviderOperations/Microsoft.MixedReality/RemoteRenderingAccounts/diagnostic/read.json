@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/diagnostic/read",
+  "OperationName": "Connect to the Remote Rendering inspector",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Connect to the Remote Rendering inspector",
+  "IsDataAction": true
+}

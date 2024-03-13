@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/settings/read",
+  "OperationName": "Apps - Get Settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Settings",
+  "Description": "Get the application settings",
+  "IsDataAction": true
+}

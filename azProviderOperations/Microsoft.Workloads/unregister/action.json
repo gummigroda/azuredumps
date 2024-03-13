@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/unregister/action",
+  "OperationName": "Unregister the Microsoft.Workloads",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Workloads",
+  "IsDataAction": false
+}

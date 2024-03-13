@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Blob service",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

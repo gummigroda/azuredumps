@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/scanningAccounts/write",
+  "OperationName": "AzureScanningAccount_Update",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "scanningAccounts",
+  "Description": "Update a Scan Account",
+  "IsDataAction": false
+}

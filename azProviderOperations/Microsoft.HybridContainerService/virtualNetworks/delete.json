@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/virtualNetworks/delete",
+  "OperationName": "virtualNetworks_Delete",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "virtualNetworks",
+  "Description": "Deletes the Hybrid AKS virtual network",
+  "IsDataAction": false
+}

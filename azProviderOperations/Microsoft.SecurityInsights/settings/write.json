@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/settings/write",
+  "OperationName": "Update Settings",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Settings",
+  "Description": "Updates settings",
+  "IsDataAction": false
+}

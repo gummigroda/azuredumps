@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemas/delete",
+  "OperationName": "Delete schemas",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Schemas",
+  "Description": "Delete schemas",
+  "IsDataAction": true
+}

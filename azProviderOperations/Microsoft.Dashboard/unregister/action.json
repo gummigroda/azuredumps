@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/unregister/action",
+  "OperationName": "Unregisters the Microsoft.Dashboard Resource Provider",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Microsoft.Dashboard resource provider",
+  "IsDataAction": false
+}

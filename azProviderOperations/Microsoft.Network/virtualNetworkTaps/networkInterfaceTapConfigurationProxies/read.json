@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/networkInterfaceTapConfigurationProxies/read",
+  "OperationName": "Get Network Interface Tap Configuration Proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration Proxy.",
+  "Description": "Gets a Network Interface Tap Configuration Proxy.",
+  "IsDataAction": false
+}

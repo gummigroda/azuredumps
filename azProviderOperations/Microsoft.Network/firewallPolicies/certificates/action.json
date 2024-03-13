@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/certificates/action",
+  "OperationName": "Generate Firewall Policy Certificates",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy",
+  "Description": "Generate Firewall Policy Certificates",
+  "IsDataAction": false
+}

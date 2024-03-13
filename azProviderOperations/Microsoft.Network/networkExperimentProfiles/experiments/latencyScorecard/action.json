@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkExperimentProfiles/experiments/latencyScorecard/action",
+  "OperationName": "Get an Internet Analyzer test's latency scorecard",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Internet Analyzer Test",
+  "Description": "Get an Internet Analyzer test's latency scorecard",
+  "IsDataAction": false
+}

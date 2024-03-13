@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/instanceView/read",
+  "OperationName": "Get Virtual Machine Scale Set Instance View",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Set Instance View",
+  "Description": "Gets the instance view of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

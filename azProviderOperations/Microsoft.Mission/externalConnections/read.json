@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/externalConnections/read",
+  "OperationName": "ExternalConnections_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "externalConnections",
+  "Description": "Get a ExternalConnection",
+  "IsDataAction": false
+}

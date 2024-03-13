@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/abortMigration/action",
+  "OperationName": "Abort Migration of a Storage Account",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Aborts migration of a storage account.",
+  "IsDataAction": false
+}

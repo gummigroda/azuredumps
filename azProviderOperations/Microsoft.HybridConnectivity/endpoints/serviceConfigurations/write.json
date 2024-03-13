@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/write",
+  "OperationName": "ServiceConfigurations_Update",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints/serviceConfigurations",
+  "Description": "Update the service details in the service configurations of the target resource.",
+  "IsDataAction": false
+}

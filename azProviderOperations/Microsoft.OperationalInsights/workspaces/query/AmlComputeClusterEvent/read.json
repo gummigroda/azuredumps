@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AmlComputeClusterEvent/read",
+  "OperationName": "Read AmlComputeClusterEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AmlComputeClusterEvent",
+  "Description": "Read data from the AmlComputeClusterEvent table",
+  "IsDataAction": false
+}

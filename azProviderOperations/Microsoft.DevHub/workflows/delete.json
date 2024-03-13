@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/workflows/delete",
+  "OperationName": "Delete Workflow",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Workflows",
+  "Description": "Delete any workflow",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/operations/read",
+  "OperationName": "List available NGINX.NGINXPLUS operations",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "operations",
+  "Description": "List operations available on NGINX.NGINXPLUS resource provider",
+  "IsDataAction": false
+}

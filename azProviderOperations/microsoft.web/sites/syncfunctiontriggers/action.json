@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/syncfunctiontriggers/action",
+  "OperationName": "Sync Web Apps Function Triggers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Sync Function Triggers.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/onboardingStates/delete",
+  "OperationName": "Delete Onboarding States",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Onboarding States",
+  "Description": "Deletes an onboarding state",
+  "IsDataAction": false
+}

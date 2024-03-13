@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/write",
+  "OperationName": "Create or update a private link service proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service Proxy",
+  "Description": "Creates a new private link service proxy, or updates an existing private link service proxy.",
+  "IsDataAction": false
+}

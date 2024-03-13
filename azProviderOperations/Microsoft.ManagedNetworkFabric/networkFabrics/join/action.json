@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/join/action",
+  "OperationName": "NetworkFabrics_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Join action for Network Fabric resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/skus/delete",
+  "OperationName": "DeleteVMSkus",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "skus",
+  "Description": "Deletes the Vm Sku resource type",
+  "IsDataAction": false
+}

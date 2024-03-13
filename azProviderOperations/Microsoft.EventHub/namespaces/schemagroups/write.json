@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemagroups/write",
+  "OperationName": "Create or Update SchemaGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "SchemaGroup",
+  "Description": "Create or Update SchemaGroup properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/group/send/action",
+  "OperationName": "Send messages to group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Group",
+  "Description": "Broadcast message to group",
+  "IsDataAction": true
+}

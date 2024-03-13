@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ActionGroups/Write",
+  "OperationName": "Create or update action group",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action Groups",
+  "Description": "Create or update an action group",
+  "IsDataAction": false
+}

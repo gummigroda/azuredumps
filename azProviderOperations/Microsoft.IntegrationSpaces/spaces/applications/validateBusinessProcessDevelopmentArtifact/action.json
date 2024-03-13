@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/validateBusinessProcessDevelopmentArtifact/action",
+  "OperationName": "Applications_ValidateBusinessProcessDevelopmentArtifact",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications",
+  "Description": "The validate business process development artifact action.",
+  "IsDataAction": false
+}

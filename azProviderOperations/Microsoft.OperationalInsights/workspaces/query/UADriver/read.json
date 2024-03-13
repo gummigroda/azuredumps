@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UADriver/read",
+  "OperationName": "Read UADriver data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UADriver",
+  "Description": "Read data from the UADriver table",
+  "IsDataAction": false
+}

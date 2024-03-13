@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/operationResults/read",
+  "OperationName": "Import API definition status check",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "API",
+  "Description": "Checks status of individual import operation",
+  "IsDataAction": false
+}

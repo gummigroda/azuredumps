@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/delete",
+  "OperationName": "Delete P2SVpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Deletes a P2SVpnGateway.",
+  "IsDataAction": false
+}

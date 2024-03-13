@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/listClusterUserCredential/action",
+  "OperationName": "EdgeClusters_ListClusterUserCredential",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters",
+  "Description": "Generates and returns the kubernetes configuration credentials for the edge cluster.",
+  "IsDataAction": false
+}

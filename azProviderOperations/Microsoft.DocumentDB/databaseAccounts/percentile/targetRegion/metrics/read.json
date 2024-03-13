@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/percentile/targetRegion/metrics/read",
+  "OperationName": "Read latency metricsfor a specific target region",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account metrics for a specific target region",
+  "Description": "Read latency metrics for a specific target region",
+  "IsDataAction": false
+}

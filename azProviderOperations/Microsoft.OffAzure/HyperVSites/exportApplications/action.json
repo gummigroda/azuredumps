@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/exportApplications/action",
+  "OperationName": "Export the Applications, roles and features",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Export the Applications, roles and features of HyperV site machine inventory",
+  "IsDataAction": false
+}

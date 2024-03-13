@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models/files/read",
+  "OperationName": "Get Model File|Get Model Files*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "files*",
+  "Description": "Gets one specific file (identified with fileId) from a model (identified with id).\r\nGets the files of the model identified by the given ID.*",
+  "IsDataAction": true
+}

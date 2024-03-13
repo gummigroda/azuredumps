@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/collectDiagnosticsPackage/action",
+  "OperationName": "PacketCoreControlPlanes_CollectDiagnosticsPackage",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes",
+  "Description": "Collect a diagnostics package for the specified packet core control plane. This action will upload the diagnostics to a storage account.",
+  "IsDataAction": false
+}

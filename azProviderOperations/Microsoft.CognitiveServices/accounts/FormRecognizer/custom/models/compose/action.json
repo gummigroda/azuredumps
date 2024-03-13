@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/compose/action",
+  "OperationName": "Custom Form - Compose Custom Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Model - Results",
+  "Description": "Compose request would include list of models ids. It would validate what all models either trained with labels model or composed model. It would validate limit of models put together.",
+  "IsDataAction": true
+}

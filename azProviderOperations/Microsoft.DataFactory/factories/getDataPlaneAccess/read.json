@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/getDataPlaneAccess/read",
+  "OperationName": "Read DataPlane access",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads access to ADF DataPlane service.",
+  "IsDataAction": false
+}

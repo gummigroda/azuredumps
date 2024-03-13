@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WVDManagement/Read",
+  "OperationName": "Read WVDManagement data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WVDManagement",
+  "Description": "Read data from the WVDManagement table",
+  "IsDataAction": false
+}

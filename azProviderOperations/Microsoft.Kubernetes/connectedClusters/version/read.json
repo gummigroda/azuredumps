@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/version/read",
+  "OperationName": "Gets/List version resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "version",
+  "Description": "Reads version",
+  "IsDataAction": true
+}

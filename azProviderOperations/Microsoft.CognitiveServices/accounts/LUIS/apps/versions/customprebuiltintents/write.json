@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltintents/write",
+  "OperationName": "Add custom prebuilt domain intent",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain intents",
+  "Description": "Adds a custom prebuilt domain intent model to the application. Use [delete intent](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c1c) with the intent id to remove this intent.",
+  "IsDataAction": true
+}

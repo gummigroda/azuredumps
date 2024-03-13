@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/resourceSyncRules/write",
+  "OperationName": "Create or Update Resource Sync Rule",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Resource Sync Rules",
+  "Description": "Creates or Updates a Resource Sync Rule resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrationConfigurations/delete",
+  "OperationName": "Deletes the Migration configuration.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "MigrationConfigurations",
+  "Description": "Deletes the Migration configuration.",
+  "IsDataAction": false
+}

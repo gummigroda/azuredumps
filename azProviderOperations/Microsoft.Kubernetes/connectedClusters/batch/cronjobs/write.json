@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/batch/cronjobs/write",
+  "OperationName": "Creates/Updates cronjobs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "cronjobs",
+  "Description": "Writes cronjobs",
+  "IsDataAction": true
+}

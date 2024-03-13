@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstancePrivateEndpointConnectionProxyAzureAsyncOperation/read",
+  "OperationName": "Get private endpoint connection proxy operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection Proxy",
+  "Description": "Gets the result for a private endpoint connection proxy operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/chatSessions/read",
+  "OperationName": "ChatSessions_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/chatSessions",
+  "Description": "Get a chat session",
+  "IsDataAction": false
+}

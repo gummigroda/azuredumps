@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/copy/jobs/read",
+  "OperationName": "Get copy project status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status of an existing copy project job.",
+  "IsDataAction": true
+}

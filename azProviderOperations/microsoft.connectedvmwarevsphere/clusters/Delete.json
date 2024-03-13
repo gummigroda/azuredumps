@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/clusters/Delete",
+  "OperationName": "Deletes clusters resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "clusters",
+  "Description": "Deletes clusters",
+  "IsDataAction": false
+}

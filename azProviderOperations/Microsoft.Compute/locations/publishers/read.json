@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/publishers/read",
+  "OperationName": "Get Publisher",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Publishers",
+  "Description": "Get the properties of a Publisher",
+  "IsDataAction": false
+}

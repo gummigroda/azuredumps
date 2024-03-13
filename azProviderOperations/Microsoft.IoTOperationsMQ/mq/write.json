@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/write",
+  "OperationName": "Mq_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq",
+  "Description": "Update a MqResource",
+  "IsDataAction": false
+}

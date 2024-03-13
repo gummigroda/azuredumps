@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/authorizations/write",
+  "OperationName": "Create Authorization",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Authorization",
+  "Description": "Creates a Authorization",
+  "IsDataAction": false
+}

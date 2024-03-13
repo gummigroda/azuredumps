@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/processes/read",
+  "OperationName": "Get Web Apps Processes",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Processes",
+  "Description": "Get Web Apps Processes.",
+  "IsDataAction": false
+}

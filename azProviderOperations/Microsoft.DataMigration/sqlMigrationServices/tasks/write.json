@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/tasks/write",
+  "OperationName": "Create or Update Migration Service task",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Migration Service Task",
+  "Description": "Create or Update Migration Service task",
+  "IsDataAction": false
+}

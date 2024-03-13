@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/operations/read",
+  "OperationName": "List/Get MySQL Operations",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Operations",
+  "Description": "Return the list of MySQL Operations.",
+  "IsDataAction": false
+}

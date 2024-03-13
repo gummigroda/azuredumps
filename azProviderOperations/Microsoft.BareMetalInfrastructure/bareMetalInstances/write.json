@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetalInfrastructure/bareMetalInstances/write",
+  "OperationName": "Create or Update BareMetal Instance",
+  "ProviderNamespace": "Microsoft BareMetal Infrastructure",
+  "ResourceName": "BareMetal Instance",
+  "Description": "Create or update any BareMetal Instance",
+  "IsDataAction": false
+}

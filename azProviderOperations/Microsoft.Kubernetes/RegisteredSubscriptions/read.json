@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/RegisteredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

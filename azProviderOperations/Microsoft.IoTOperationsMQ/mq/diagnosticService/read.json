@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/diagnosticService/read",
+  "OperationName": "DiagnosticService_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/diagnosticService",
+  "Description": "Get a DiagnosticServiceResource",
+  "IsDataAction": false
+}

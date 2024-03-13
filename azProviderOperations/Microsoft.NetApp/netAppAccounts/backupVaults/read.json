@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/backupVaults/read",
+  "OperationName": "Read Backup Vault resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Backup Vault resource type",
+  "Description": "Reads a Backup Vault resource.",
+  "IsDataAction": false
+}

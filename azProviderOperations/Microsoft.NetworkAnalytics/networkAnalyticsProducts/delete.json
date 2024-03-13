@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/networkAnalyticsProducts/delete",
+  "OperationName": "NetworkAnalyticsProduct_Delete",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "networkAnalyticsProducts",
+  "Description": "Delete a NetworkAnalyticsProducts",
+  "IsDataAction": false
+}

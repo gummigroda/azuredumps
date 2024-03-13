@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/firewallRules/read",
+  "OperationName": "Get Firewall Rule",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Firewall Rule",
+  "Description": "Get information about a firewall rule.",
+  "IsDataAction": false
+}

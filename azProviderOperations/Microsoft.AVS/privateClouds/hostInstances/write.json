@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/hostInstances/write",
+  "OperationName": "Create or update a hostInstances",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/hostInstances",
+  "Description": "Create or update a hostInstances.",
+  "IsDataAction": false
+}

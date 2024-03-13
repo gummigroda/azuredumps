@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVirtualAppliances/inboundSecurityRules/write",
+  "OperationName": "Create or update a InboundSecurityRule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "InboundSecurityRule",
+  "Description": "Create or update a InboundSecurityRule",
+  "IsDataAction": false
+}

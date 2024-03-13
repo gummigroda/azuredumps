@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/delete",
+  "OperationName": "Connectors_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors",
+  "Description": "Deletes a connector resource and its child resources, which are the associated connection resources. All the child resources have to be deleted before deleting the connector resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dscpConfiguration/join/action",
+  "OperationName": "Joins DSCP Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Puts the DSCP Configuration resource",
+  "Description": "Joins DSCP Configuration",
+  "IsDataAction": false
+}

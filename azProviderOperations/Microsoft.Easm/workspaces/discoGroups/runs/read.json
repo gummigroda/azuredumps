@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/runs/read",
+  "OperationName": "DiscoGroups_ListRuns",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve a collection of disco run results for a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

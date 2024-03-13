@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UADriver/Read",
+  "OperationName": "Read UADriver data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UADriver",
+  "Description": "Read data from the UADriver table",
+  "IsDataAction": false
+}

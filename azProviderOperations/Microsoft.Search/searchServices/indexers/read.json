@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexers/read",
+  "OperationName": "Read Indexer",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Indexers",
+  "Description": "Return an indexer or its status, or return a list of indexers or their statuses.",
+  "IsDataAction": false
+}

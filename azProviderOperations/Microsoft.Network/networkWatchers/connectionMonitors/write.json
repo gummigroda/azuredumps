@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/connectionMonitors/write",
+  "OperationName": "Create Connection Monitor",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Connection Monitor",
+  "Description": "Creates a Connection Monitor",
+  "IsDataAction": false
+}

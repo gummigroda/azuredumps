@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Migrate/action",
+  "OperationName": "Cluster migrate action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Migrates the cluster data to another cluster.",
+  "IsDataAction": false
+}

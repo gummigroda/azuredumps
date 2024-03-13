@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/unregister/action",
+  "OperationName": "Unregister Subscription for Azure Arc for Servers",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for Microsoft.HybridCompute Resource Provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/generateUploadUrl/action",
+  "OperationName": "FirmwareGroup_GenerateUploadUrl",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups",
+  "Description": "The operation to get a url for file upload.",
+  "IsDataAction": false
+}

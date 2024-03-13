@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostruntime/webhooks/api/workflows/triggers/listCallbackUrl/action",
+  "OperationName": "Get Web Apps Hostruntime Workflow Trigger Uri",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostruntime Workflows",
+  "Description": "Get Web Apps Hostruntime Workflow Trigger Uri.",
+  "IsDataAction": false
+}

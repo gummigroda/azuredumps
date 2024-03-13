@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/listConfigurations/read",
+  "OperationName": "List Product Configurations",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "ArmApiRes_Microsoft.EdgeOrder",
+  "Description": "This method returns list of product configurations.",
+  "IsDataAction": false
+}

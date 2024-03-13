@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/read",
+  "OperationName": "Read labs.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Read labs.",
+  "IsDataAction": false
+}

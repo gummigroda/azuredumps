@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "Approve Private Endpoint Connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrationConfigurations/upgrade/action",
+  "OperationName": "Upgrade",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "MigrationConfigurations",
+  "Description": "Assigns the DNS associated with the standard namespace to the premium namespace which completes the migration and stops the syncing resources from standard to premium namespace",
+  "IsDataAction": false
+}

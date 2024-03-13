@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/hnsonmigration/action",
+  "OperationName": "Account HnsOn Migration",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Customer is able to migrate to hns account type",
+  "IsDataAction": false
+}

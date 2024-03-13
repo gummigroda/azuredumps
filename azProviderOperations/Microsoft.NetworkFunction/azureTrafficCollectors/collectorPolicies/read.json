@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkFunction/azureTrafficCollectors/collectorPolicies/read",
+  "OperationName": "GetCollectorPolicy",
+  "ProviderNamespace": "MicrosoftNetworkFunction",
+  "ResourceName": "CollectorPolicy",
+  "Description": "GetCollectorPolicy",
+  "IsDataAction": false
+}

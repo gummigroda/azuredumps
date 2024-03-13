@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/departments/read",
+  "OperationName": "[deprecated] List/Get Department(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Departments",
+  "Description": null,
+  "IsDataAction": false
+}

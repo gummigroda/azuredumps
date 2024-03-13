@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/hosts/Read",
+  "OperationName": "Gets/List hosts resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "hosts",
+  "Description": "Read hosts",
+  "IsDataAction": false
+}

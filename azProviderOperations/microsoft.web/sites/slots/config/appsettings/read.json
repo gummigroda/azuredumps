@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/appsettings/read",
+  "OperationName": "Get Web App Slot's single App setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot App Setting",
+  "Description": "Get Web App Slot's single App setting.",
+  "IsDataAction": false
+}

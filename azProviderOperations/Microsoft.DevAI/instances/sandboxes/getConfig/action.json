@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/sandboxes/getConfig/action",
+  "OperationName": "Sandboxes_GetConfiguration",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/sandboxes",
+  "Description": "action getConfig",
+  "IsDataAction": false
+}

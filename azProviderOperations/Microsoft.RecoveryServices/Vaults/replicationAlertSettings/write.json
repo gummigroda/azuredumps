@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationAlertSettings/write",
+  "OperationName": "Create or Update Alerts Settings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Alerts Settings",
+  "Description": "Create or Update any Alerts Settings",
+  "IsDataAction": false
+}

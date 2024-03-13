@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read HDInsight Cluster metric definitions",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "The metric definition of HDInsight Cluster",
+  "Description": "Gets the available metrics for HDInsight Cluster",
+  "IsDataAction": false
+}

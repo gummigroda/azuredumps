@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/authorizationRules/listkeys/action",
+  "OperationName": "List Topic keys",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Topic AuthorizationRules",
+  "Description": "Get the Connection String to Topic",
+  "IsDataAction": false
+}

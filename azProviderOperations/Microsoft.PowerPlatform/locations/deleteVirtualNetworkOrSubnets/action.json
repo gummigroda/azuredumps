@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Vnet or subnet deletion notification for Locations",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Locations",
+  "Description": "Vnet or subnet deletion notification for Locations",
+  "IsDataAction": false
+}

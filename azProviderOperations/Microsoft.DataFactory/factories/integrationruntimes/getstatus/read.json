@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/getstatus/read",
+  "OperationName": "Read Integration Runtime Status",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Reads Integration Runtime Status.",
+  "IsDataAction": false
+}

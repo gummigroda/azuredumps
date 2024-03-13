@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/updateDependencyMapStatus/action",
+  "OperationName": "Toggle dependency map data of a list of machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Toggle dependency map data of a list of machines",
+  "IsDataAction": false
+}

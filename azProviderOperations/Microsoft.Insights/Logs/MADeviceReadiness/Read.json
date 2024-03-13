@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADeviceReadiness/Read",
+  "OperationName": "Read MADeviceReadiness data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADeviceReadiness",
+  "Description": "Read data from the MADeviceReadiness table",
+  "IsDataAction": false
+}

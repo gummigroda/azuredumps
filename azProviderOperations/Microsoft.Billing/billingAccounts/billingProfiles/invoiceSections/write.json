@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/write",
+  "OperationName": "InvoiceSections_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Invoice Sections",
+  "Description": "Creates or updates an invoice section. The operation is supported only for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

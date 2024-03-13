@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/premiumcheck/read",
+  "OperationName": "Gets onboarded services for premium tenants.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "This API gets the list of all onboarded services for a premium tenant.",
+  "IsDataAction": false
+}

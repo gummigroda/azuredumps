@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Creates an Azure Automation Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection Proxy",
+  "Description": "Creates an Azure Automation Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/peerConnections/read",
+  "OperationName": "GetPeerExpressRouteCircuitConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Peer Express Route Circuit Connection",
+  "Description": "Gets Peer Express Route Circuit Connection",
+  "IsDataAction": false
+}

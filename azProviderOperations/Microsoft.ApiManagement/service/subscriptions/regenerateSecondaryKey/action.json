@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/subscriptions/regenerateSecondaryKey/action",
+  "OperationName": "Regenerate subscription SK",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Regenerates secondary key of existing subscription of the API Management service instance.",
+  "IsDataAction": false
+}

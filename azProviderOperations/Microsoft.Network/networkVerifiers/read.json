@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/read",
+  "OperationName": "Gets a Network Verifier",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Verifier",
+  "Description": "Gets a Network Verifier",
+  "IsDataAction": false
+}

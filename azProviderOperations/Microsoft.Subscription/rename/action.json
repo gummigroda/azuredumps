@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/rename/action",
+  "OperationName": "Rename Subscription",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "",
+  "Description": "Renames the Subscription",
+  "IsDataAction": false
+}

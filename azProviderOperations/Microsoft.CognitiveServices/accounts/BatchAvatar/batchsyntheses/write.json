@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/BatchAvatar/batchsyntheses/write",
+  "OperationName": "Create Avatar Batch Synthesis",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch Syntheses",
+  "Description": "Submits a new avatar batch synthesis.",
+  "IsDataAction": true
+}

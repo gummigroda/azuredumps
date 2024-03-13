@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/WorkItemConfigs/Read",
+  "OperationName": "Application Insights ALM integration configuration read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights ALM integration configuration",
+  "Description": "Reading an Application Insights ALM integration configuration",
+  "IsDataAction": false
+}

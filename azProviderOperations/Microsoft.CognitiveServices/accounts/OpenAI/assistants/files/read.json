@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/files/read",
+  "OperationName": "Retrieve assistant file",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Retrieve assistant file.",
+  "IsDataAction": true
+}

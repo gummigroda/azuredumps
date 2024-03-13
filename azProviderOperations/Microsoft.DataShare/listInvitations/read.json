@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/listInvitations/read",
+  "OperationName": "Read Data Share ListInvitation",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ListInvitation",
+  "Description": "Reads Invitations at a tenant level.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/associatedTenants/read",
+  "OperationName": "AssociatedTenants_ListByBillingAccount",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Associated Tenants",
+  "Description": "Lists the tenants that can collaborate with the billing account on commerce activities like viewing and downloading invoices, managing payments, making purchases, and managing licenses.",
+  "IsDataAction": false
+}

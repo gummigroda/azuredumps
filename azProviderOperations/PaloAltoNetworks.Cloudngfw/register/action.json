@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/register/action",
+  "OperationName": "Register the PaloAltoNetworks.Cloudngfw",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "",
+  "Description": "Register the subscription for PaloAltoNetworks.Cloudngfw",
+  "IsDataAction": false
+}

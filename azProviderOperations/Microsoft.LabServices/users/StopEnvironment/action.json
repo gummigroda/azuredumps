@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/StopEnvironment/action",
+  "OperationName": "Stops an environment",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "Stops an environment by stopping all resources inside the environment",
+  "IsDataAction": false
+}

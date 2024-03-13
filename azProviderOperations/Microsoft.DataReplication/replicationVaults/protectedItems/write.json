@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/protectedItems/write",
+  "OperationName": "Updates protected item",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": "Updates any protected item",
+  "IsDataAction": false
+}

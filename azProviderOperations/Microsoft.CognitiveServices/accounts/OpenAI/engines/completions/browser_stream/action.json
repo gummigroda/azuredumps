@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/engines/completions/browser_stream/action",
+  "OperationName": "Stream generated text from the model via GET request",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Stream generated text from the model via GET request",
+  "Description": "(Intended for browsers only.) Stream generated text from the model via GET request. This method is provided because the browser-native EventSource method can only send GET requests. It supports a more limited set of configuration options than the POST variant.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ComputerGroup/read",
+  "OperationName": "Read ComputerGroup data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ComputerGroup",
+  "Description": "Read data from the ComputerGroup table",
+  "IsDataAction": false
+}

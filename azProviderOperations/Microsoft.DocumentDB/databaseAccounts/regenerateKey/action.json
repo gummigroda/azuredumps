@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/regenerateKey/action",
+  "OperationName": "Rotate keys",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Rotate keys of a database account",
+  "IsDataAction": false
+}

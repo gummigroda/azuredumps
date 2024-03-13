@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/assessForMigration/action",
+  "OperationName": "Get Migration Assessment",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Auto Migration Operations",
+  "Description": "Performs a migration assessment with the specified parameters.",
+  "IsDataAction": false
+}

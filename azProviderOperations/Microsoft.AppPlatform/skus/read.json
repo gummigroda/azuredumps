@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/skus/read",
+  "OperationName": "Get available Service Tiers of Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Sku",
+  "Description": "List available skus of Microsoft Azure Spring Apps",
+  "IsDataAction": false
+}

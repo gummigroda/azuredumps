@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesSystemSecurity/Read",
+  "OperationName": "Read AADDomainServicesSystemSecurity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesSystemSecurity",
+  "Description": "Read data from the AADDomainServicesSystemSecurity table",
+  "IsDataAction": false
+}

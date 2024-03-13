@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/VMwareApplications/delete",
+  "OperationName": "Remove Application",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "Application",
+  "Description": "Removes an application.",
+  "IsDataAction": false
+}

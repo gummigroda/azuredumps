@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/columns/read",
+  "OperationName": "Return a list of columns for a SQL Analytics pool",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool column",
+  "Description": "Return a list of columns for a SQL Analytics pool",
+  "IsDataAction": false
+}

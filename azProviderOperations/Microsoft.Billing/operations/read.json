@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/operations/read",
+  "OperationName": "Operations_List",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Operations",
+  "Description": "List of operations supported by provider.",
+  "IsDataAction": false
+}

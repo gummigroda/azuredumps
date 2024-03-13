@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/services/diagnosticSettings/write",
+  "OperationName": "Add Diagnostics Settings",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Diagnostics Settings",
+  "Description": "Add or modify diagnostics settings.",
+  "IsDataAction": false
+}

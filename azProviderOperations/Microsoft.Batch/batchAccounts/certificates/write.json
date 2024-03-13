@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/certificates/write",
+  "OperationName": "Create or Update Certificate",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Certificates",
+  "Description": "Creates a new certificate on a Batch account or updates an existing certificate",
+  "IsDataAction": false
+}

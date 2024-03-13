@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/discoveries/write",
+  "OperationName": "Write Discoveries",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Discoveries",
+  "Description": "Create a new discovery before uploading a measurement. Perform any operation within the scope of this discovery such as abort.",
+  "IsDataAction": true
+}

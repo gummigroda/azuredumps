@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/replicationcontrollers/write",
+  "OperationName": "Creates/Updates replicationcontrollers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Replicationcontrollers",
+  "Description": "Writes replicationcontrollers",
+  "IsDataAction": true
+}

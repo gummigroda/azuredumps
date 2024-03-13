@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/catalogs/delete",
+  "OperationName": "Catalogs_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/catalogs",
+  "Description": "Deletes a catalog resource.",
+  "IsDataAction": false
+}

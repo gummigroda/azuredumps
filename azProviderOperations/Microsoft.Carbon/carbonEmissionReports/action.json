@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Carbon/carbonEmissionReports/action",
+  "OperationName": "CarbonService_ListCarbonEmissionReports",
+  "ProviderNamespace": "Microsoft.Carbon",
+  "ResourceName": "",
+  "Description": "API for Carbon Emissions Reports",
+  "IsDataAction": false
+}

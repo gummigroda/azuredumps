@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/reservedIps/write",
+  "OperationName": "Add Reserved Ip",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Reserved Ip",
+  "Description": "Add a new reserved Ip",
+  "IsDataAction": false
+}

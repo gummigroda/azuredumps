@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/write",
+  "OperationName": "Put blob container",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers",
+  "Description": "Returns the result of put blob container",
+  "IsDataAction": false
+}

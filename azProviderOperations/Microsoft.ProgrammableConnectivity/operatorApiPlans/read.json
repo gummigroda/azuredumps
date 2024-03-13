@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorApiPlans/read",
+  "OperationName": "OperatorApiPlans_Get",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorApiPlans",
+  "Description": "Get an OperatorApiPlan resource by name.",
+  "IsDataAction": false
+}

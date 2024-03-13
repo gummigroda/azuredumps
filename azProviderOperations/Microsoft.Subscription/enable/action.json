@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/enable/action",
+  "OperationName": "Reactivate subscription",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "",
+  "Description": "Reactivates the Subscription",
+  "IsDataAction": false
+}

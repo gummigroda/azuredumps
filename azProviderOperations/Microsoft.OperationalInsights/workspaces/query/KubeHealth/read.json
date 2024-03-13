@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/KubeHealth/read",
+  "OperationName": "Read KubeHealth data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "KubeHealth",
+  "Description": "Read data from the KubeHealth table",
+  "IsDataAction": false
+}

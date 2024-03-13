@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/batchNotifyPrivateEndpointsForResourceMove/action",
+  "OperationName": "Notifies to private endpoint in batches for resource move.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Notifies to private endpoint in batches for resource move.",
+  "IsDataAction": false
+}

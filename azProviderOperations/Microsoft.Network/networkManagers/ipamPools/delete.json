@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/delete",
+  "OperationName": "Deletes a Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Deletes a Ipam Pool",
+  "IsDataAction": false
+}

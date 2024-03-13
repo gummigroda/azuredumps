@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrators",
+  "Description": "Creates a Migrator.",
+  "IsDataAction": false
+}

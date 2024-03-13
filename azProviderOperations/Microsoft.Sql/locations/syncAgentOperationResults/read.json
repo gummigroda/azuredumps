@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/syncAgentOperationResults/read",
+  "OperationName": "Get sync agent resource operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Retrieve result of the sync agent resource operation",
+  "IsDataAction": false
+}

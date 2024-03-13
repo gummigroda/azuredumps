@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/sqlcollectors/write",
+  "OperationName": "Create or Update SQL collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Collector",
+  "Description": "Creates a new SQL collector or updates an existing SQL collector",
+  "IsDataAction": false
+}

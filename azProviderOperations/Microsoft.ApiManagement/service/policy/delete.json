@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policy/delete",
+  "OperationName": "Delete Tenant policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Delete the policy configuration at Tenant level",
+  "IsDataAction": false
+}

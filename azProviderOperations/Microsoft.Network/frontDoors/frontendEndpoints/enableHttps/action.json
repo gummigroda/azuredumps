@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/frontendEndpoints/enableHttps/action",
+  "OperationName": "Enables HTTPS on a Frontend Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Frontend Endpoint",
+  "Description": "Enables HTTPS on a Frontend Endpoint",
+  "IsDataAction": false
+}

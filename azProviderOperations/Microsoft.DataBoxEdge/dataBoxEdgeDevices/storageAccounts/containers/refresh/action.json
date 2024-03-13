@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/containers/refresh/action",
+  "OperationName": "Refreshes the container metadata with the data from the cloud",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Containers",
+  "Description": "Refresh the container metadata with the data from the cloud",
+  "IsDataAction": false
+}

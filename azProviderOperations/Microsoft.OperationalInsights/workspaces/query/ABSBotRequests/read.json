@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ABSBotRequests/read",
+  "OperationName": "Read ABSBotRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ABSBotRequests",
+  "Description": "Read data from the ABSBotRequests table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/locations/usages/read",
+  "OperationName": "Get Subscription Usages",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Usage Metrics",
+  "Description": "Returns the limit and the current usage count for resources in the specified subscription",
+  "IsDataAction": false
+}

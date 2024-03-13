@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/previewSubscriptions/write",
+  "OperationName": "PreviewSubscriptions_Update",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups/previewSubscriptions",
+  "Description": "Update a preview subscription resource.",
+  "IsDataAction": false
+}

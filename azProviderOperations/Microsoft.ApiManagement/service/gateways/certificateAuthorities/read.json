@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/certificateAuthorities/read",
+  "OperationName": "Get Gateway Certificate Authority list or Get assigned Certificate Authority details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates assigned to Gateway as Certificate Authorities",
+  "Description": "Get Gateway CAs list. or Get assigned Certificate Authority details.",
+  "IsDataAction": false
+}

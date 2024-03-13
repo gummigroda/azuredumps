@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2sConnectionConfigurationProxies/delete",
+  "OperationName": "Delete P2S Connection Configuration Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Connection Configuration Proxy",
+  "Description": "Deletes A P2S Connection Configuration Proxy",
+  "IsDataAction": false
+}

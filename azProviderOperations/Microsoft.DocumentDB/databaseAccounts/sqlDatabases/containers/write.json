@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/write",
+  "OperationName": "Write SQL container",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Container",
+  "Description": "Create or update a SQL container.",
+  "IsDataAction": false
+}

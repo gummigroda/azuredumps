@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationJobs/restart/action",
+  "OperationName": "Restart job",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Jobs",
+  "Description": "Restart job",
+  "IsDataAction": false
+}

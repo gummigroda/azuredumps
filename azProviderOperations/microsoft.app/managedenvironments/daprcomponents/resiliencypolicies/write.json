@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/resiliencypolicies/write",
+  "OperationName": "Create or Update Managed Environment Dapr Component Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component Resiliency Policy",
+  "Description": "Create or Update Managed Environment Dapr Component Resiliency Policy",
+  "IsDataAction": false
+}

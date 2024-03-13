@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile Network Security Perimeter",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL Server Network Security Perimeter Effective Configuration",
+  "Description": "Reconcile Network Security Perimeter",
+  "IsDataAction": false
+}

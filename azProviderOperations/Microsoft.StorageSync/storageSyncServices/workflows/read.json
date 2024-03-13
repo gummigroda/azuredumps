@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/workflows/read",
+  "OperationName": "Read Workflows",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Workflow",
+  "Description": "Read Workflows",
+  "IsDataAction": false
+}

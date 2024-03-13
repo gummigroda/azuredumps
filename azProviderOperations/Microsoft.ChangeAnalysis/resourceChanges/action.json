@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/resourceChanges/action",
+  "OperationName": "List changes of a single resource",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "",
+  "Description": "Return the list of resource changes. Customer data will be masked if user doesn't have permission.",
+  "IsDataAction": false
+}

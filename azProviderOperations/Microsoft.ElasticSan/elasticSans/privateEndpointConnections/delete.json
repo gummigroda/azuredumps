@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/privateEndpointConnections/delete",
+  "OperationName": null,
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

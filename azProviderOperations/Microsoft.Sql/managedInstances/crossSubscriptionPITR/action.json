@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/crossSubscriptionPITR/action",
+  "OperationName": "Cross Subscription PITR",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Determine if user is allowed to do cross subscription PITR operations",
+  "IsDataAction": false
+}

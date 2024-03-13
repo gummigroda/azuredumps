@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/virtualNetworkRules/delete",
+  "OperationName": "Delete Virtual Network Rule",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Virtual Network Rules",
+  "Description": "Deletes an existing Virtual Network Rule",
+  "IsDataAction": false
+}

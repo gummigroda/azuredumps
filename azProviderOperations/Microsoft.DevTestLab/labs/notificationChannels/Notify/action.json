@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/notificationChannels/Notify/action",
+  "OperationName": "Notify",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Notification Channels",
+  "Description": "Send notification to provided channel.",
+  "IsDataAction": false
+}

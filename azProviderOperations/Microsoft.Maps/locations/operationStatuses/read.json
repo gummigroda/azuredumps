@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/locations/operationStatuses/read",
+  "OperationName": "Read an Asyncronous Operation",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Asyncronous Operation",
+  "Description": "Read an Asyncronous Operation.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/jitRequests/delete",
+  "OperationName": "jitRequests_Delete",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "jitRequests",
+  "Description": "Deletes the JIT request.",
+  "IsDataAction": false
+}

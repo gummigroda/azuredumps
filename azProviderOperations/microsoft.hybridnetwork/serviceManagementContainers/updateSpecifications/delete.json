@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/delete",
+  "OperationName": "UpdateSpecifications_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications",
+  "Description": "delete updateSpecifications",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/roles/suggest/read",
+  "OperationName": "models - Suggest endpoint queries for entity roles",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "suggest*",
+  "Description": "Suggests examples that would improve the accuracy of the entity model.",
+  "IsDataAction": true
+}

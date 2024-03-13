@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels:build/action",
+  "OperationName": "Creation  - Build Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Trains a custom document analysis model.",
+  "IsDataAction": true
+}

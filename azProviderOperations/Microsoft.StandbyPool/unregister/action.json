@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/unregister/action",
+  "OperationName": "Unregister the Microsoft.StandbyPool",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.StandbyPool",
+  "IsDataAction": false
+}

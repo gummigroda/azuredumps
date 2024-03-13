@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/sqlDatabases/read",
+  "OperationName": "Gets Sql Database for a given site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Databases",
+  "Description": "Gets Sql Database for a given site",
+  "IsDataAction": false
+}

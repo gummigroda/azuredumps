@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validate a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

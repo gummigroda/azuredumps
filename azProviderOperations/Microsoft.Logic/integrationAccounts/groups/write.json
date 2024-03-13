@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/groups/write",
+  "OperationName": "Set Integration Account Group",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Group",
+  "Description": "Creates or updates the group in integration account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/read",
+  "OperationName": "Get Backup Instances",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Returns all Backup Instances",
+  "IsDataAction": false
+}

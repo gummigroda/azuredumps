@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/SourceControls/write",
+  "OperationName": "Write SourceControls",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "SourceControls",
+  "Description": "write SourceControls",
+  "IsDataAction": false
+}

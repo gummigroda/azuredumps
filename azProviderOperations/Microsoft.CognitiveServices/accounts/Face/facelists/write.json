@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/facelists/write",
+  "OperationName": "FaceList - Create|FaceList - Update*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Lists",
+  "Description": "Create an empty face list with user-specified faceListId, name, an optional userData and recognitionModel. Up to 64 face lists are allowed\r\nUpdate information of a face list, including name and userData.*",
+  "IsDataAction": true
+}

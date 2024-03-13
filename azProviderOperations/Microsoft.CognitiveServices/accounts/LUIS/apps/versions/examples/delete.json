@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/examples/delete",
+  "OperationName": "Deletes labeled example utterances",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Examples",
+  "Description": "Deletes the label with the specified ID.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/authentication.k8s.io/tokenreviews/write",
+  "OperationName": "Creates/Updates tokenreviews resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "tokenreviews",
+  "Description": "Writes tokenreviews",
+  "IsDataAction": true
+}

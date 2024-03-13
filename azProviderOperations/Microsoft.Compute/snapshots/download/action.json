@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/snapshots/download/action",
+  "OperationName": "Snapshot export data operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Snapshots",
+  "Description": "Perform read data operations on Snapshot SAS Uri",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/unregister/action",
+  "OperationName": "Unregister Microsoft.ApiCenter resource provider",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "",
+  "Description": "Unregister Microsoft.ApiCenter resource provider for the subscription.",
+  "IsDataAction": false
+}

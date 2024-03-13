@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/Read",
+  "OperationName": "Get App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Get the properties of an App Service Environment",
+  "IsDataAction": false
+}

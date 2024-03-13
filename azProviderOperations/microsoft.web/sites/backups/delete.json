@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/backups/delete",
+  "OperationName": "Delete Web Apps Backups",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Backups",
+  "Description": "Delete Web Apps Backups.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyVirtualMachinePools/delete",
+  "OperationName": "StandbyVirtualMachinePools_Delete",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyVirtualMachinePools",
+  "Description": "Delete a StandbyVirtualMachinePoolResource",
+  "IsDataAction": false
+}

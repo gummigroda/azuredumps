@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userCustomize/action",
+  "OperationName": "Projects_Users_DevBoxes_UserCustomize",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to customize their own Dev Box resources.",
+  "IsDataAction": true
+}

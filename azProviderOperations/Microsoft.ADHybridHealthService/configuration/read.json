@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/configuration/read",
+  "OperationName": "Reads Tenant Configuration.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Tenant Configuration",
+  "Description": "Reads the Tenant Configuration.",
+  "IsDataAction": false
+}

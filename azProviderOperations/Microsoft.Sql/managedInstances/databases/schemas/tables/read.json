@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/schemas/tables/read",
+  "OperationName": "Get a managed database table",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database Table",
+  "Description": "Get a managed database table",
+  "IsDataAction": false
+}

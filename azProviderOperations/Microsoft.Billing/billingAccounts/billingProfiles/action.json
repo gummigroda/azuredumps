@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/action",
+  "OperationName": "Create Billing Profile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

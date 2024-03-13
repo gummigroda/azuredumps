@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/capabilities/read",
+  "OperationName": "Get capabilities",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Capability",
+  "Description": "Shows the capabilities",
+  "IsDataAction": false
+}

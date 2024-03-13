@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/read",
+  "OperationName": "KafkaConnector_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector",
+  "Description": "Get a KafkaConnectorResource",
+  "IsDataAction": false
+}

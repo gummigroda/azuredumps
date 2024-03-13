@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/ledgerDigestUploadsOperationResults/read",
+  "OperationName": "Gets in-progress operations of ledger digest upload settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database ledger digest upload settings",
+  "Description": "Gets in-progress operations of ledger digest upload settings",
+  "IsDataAction": false
+}

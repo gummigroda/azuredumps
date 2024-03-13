@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DelegatedNetwork/delegatedSubnets/write",
+  "OperationName": "Create or update a Delegated subnet instance.",
+  "ProviderNamespace": "Microsoft Delegated Network Service",
+  "ResourceName": "Microsoft Delegated subnet instance",
+  "Description": "Create or update a Delegated subnet instance.",
+  "IsDataAction": false
+}

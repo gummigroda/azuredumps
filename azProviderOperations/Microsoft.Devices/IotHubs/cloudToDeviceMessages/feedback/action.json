@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/cloudToDeviceMessages/feedback/action",
+  "OperationName": "Receive cloud-to-device messages",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Receive, complete, or abandon cloud-to-device message feedback notification",
+  "IsDataAction": true
+}

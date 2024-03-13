@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SecurityBaselineSummary/Read",
+  "OperationName": "Read SecurityBaselineSummary data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SecurityBaselineSummary",
+  "Description": "Read data from the SecurityBaselineSummary table",
+  "IsDataAction": false
+}

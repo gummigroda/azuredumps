@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/token/action",
+  "OperationName": "Get token",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User accounts",
+  "Description": "Gets the Shared Access Authorization Token for the User.",
+  "IsDataAction": false
+}

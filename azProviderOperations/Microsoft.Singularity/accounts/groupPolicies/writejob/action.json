@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/writejob/action",
+  "OperationName": "Check permissions for writing job linked to Singularity group policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Action to check for user access to write a job linked to Singularity group policy",
+  "IsDataAction": false
+}

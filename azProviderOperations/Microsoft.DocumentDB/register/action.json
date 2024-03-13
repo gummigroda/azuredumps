@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/register/action",
+  "OperationName": "Register Microsoft DocumentDB resource provider",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "",
+  "Description": " Register the Microsoft DocumentDB resource provider for the subscription",
+  "IsDataAction": false
+}

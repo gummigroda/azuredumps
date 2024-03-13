@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/databases/read",
+  "OperationName": "List/Get MySQL Database",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Databases",
+  "Description": "Return the list of MySQL Databases or gets the properties for the specified Database.",
+  "IsDataAction": false
+}

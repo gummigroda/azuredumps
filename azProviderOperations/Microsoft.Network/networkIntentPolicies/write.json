@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkIntentPolicies/write",
+  "OperationName": "Create or Update Network Intent Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Intent Policy",
+  "Description": "Creates an Network Intent Policy or updates an existing Network Intent Policy",
+  "IsDataAction": false
+}

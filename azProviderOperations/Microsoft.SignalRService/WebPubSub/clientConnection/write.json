@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/clientConnection/write",
+  "OperationName": "Write Client Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/ClientConnection",
+  "Description": "Close client connection",
+  "IsDataAction": true
+}

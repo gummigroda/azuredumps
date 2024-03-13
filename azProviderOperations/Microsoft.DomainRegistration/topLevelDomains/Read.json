@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/topLevelDomains/Read",
+  "OperationName": "Get toplevel domain",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "TopLevelDomain",
+  "Description": "Get toplevel domain",
+  "IsDataAction": false
+}

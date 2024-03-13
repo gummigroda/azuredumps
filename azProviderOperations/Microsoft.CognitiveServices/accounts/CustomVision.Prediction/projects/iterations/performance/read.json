@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/iterations/performance/read",
+  "OperationName": "GetIterationPerformance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "performance*",
+  "Description": "Get detailed performance information about an iteration.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/operations/read",
+  "OperationName": "Get the Operations supported by Microsoft.Quota",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "Read Operation",
+  "Description": "Get the Operations supported by Microsoft.Quota",
+  "IsDataAction": false
+}

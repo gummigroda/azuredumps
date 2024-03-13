@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/ExportResourceUsage/action",
+  "OperationName": "Exports the lab resource usage into a storage account",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Exports the lab resource usage into a storage account",
+  "IsDataAction": false
+}

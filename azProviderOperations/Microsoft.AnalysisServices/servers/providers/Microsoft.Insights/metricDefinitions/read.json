@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Microsoft Analysis Service metrics",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Gets the available metrics for Analysis Server",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/read",
+  "OperationName": "Read Microsoft Azure Spring Apps Build Services",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Build Service of Microsoft Azure Spring Apps",
+  "Description": "Get the Build Services for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

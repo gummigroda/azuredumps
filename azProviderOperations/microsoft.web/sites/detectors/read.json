@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/detectors/read",
+  "OperationName": "Get Web Apps Detectors",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Detectors",
+  "Description": "Get Web Apps Detectors.",
+  "IsDataAction": false
+}

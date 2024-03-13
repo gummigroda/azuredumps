@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/registeredSubscriptions/read",
+  "OperationName": "Get registered subscriptions",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Get registered subscription details",
+  "IsDataAction": false
+}

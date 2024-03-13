@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/comments/delete",
+  "OperationName": "Removes comment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Comments",
+  "Description": "Deletes the specified comment from an Issue.",
+  "IsDataAction": false
+}

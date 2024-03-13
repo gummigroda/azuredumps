@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/coordination.k8s.io/leases/delete",
+  "OperationName": "Deletes/DeletesCollection leases resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Leases",
+  "Description": "Deletes leases",
+  "IsDataAction": true
+}

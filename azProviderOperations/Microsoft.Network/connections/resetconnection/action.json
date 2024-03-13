@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/resetconnection/action",
+  "OperationName": "Resets connection for VNG",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection",
+  "Description": "Resets connection for VNG",
+  "IsDataAction": false
+}

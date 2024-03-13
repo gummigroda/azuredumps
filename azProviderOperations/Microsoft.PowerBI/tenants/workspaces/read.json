@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/workspaces/read",
+  "OperationName": "Read Workspaces",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspaces",
+  "Description": "Reads the specified Power BI Workspace.",
+  "IsDataAction": false
+}

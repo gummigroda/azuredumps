@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/defenderSettings/delete",
+  "OperationName": "DefenderSettings_Delete",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "defenderSettings",
+  "Description": "Deletes a defender setting.",
+  "IsDataAction": false
+}

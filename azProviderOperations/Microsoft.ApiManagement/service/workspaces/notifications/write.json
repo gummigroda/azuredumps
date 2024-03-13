@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/write",
+  "OperationName": "Create publisher notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Publisher Notifications",
+  "Description": "Create or Update API Management publisher notification.",
+  "IsDataAction": false
+}

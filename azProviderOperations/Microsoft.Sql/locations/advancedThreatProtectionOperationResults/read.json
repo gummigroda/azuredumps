@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/advancedThreatProtectionOperationResults/read",
+  "OperationName": "Get the server Advanced Threat Protection operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Advanced Threat Protection settings",
+  "Description": "Retrieve results of the server Advanced Threat Protection settings write operation",
+  "IsDataAction": false
+}

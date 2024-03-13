@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/functionConfigurations/delete",
+  "OperationName": "FunctionConfigurations_Delete",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "functionConfigurations",
+  "Description": "Create a functionConfigurations. Please note that end user resource creation is currently restricted, but it will be enabled in the future.",
+  "IsDataAction": false
+}

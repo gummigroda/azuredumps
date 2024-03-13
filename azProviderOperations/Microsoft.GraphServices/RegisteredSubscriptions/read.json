@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/RegisteredSubscriptions/read",
+  "OperationName": "read_RegisteredSubscriptions",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "read RegisteredSubscriptions",
+  "IsDataAction": false
+}

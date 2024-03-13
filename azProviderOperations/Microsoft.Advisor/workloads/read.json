@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/workloads/read",
+  "OperationName": "Reads workloads",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "workloads",
+  "Description": "Read workloads",
+  "IsDataAction": false
+}

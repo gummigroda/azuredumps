@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/new/write",
+  "OperationName": "Create or Write New Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "New Measurements",
+  "Description": "Create or Write New Measurements",
+  "IsDataAction": true
+}

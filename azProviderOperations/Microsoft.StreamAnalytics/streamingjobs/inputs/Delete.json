@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/inputs/Delete",
+  "OperationName": "Delete Stream Analytics Job Input",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job Input",
+  "Description": "Delete Stream Analytics Job Input",
+  "IsDataAction": false
+}

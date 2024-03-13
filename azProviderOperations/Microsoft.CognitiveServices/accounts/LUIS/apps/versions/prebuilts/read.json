@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/prebuilts/read",
+  "OperationName": "Get prebuilt entity or Get version prebuilt entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt entities",
+  "Description": "Gets info about the prebuilt entity model.\r\nGets info about the prebuilt entity models in the application version.",
+  "IsDataAction": true
+}

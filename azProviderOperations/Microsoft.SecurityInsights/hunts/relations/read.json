@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/relations/read",
+  "OperationName": "Get Hunt Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Relations",
+  "Description": "Get Hunt Relations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/delete",
+  "OperationName": "Delete Namespace",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "namespaces",
+  "Description": "Delete a namespace",
+  "IsDataAction": false
+}

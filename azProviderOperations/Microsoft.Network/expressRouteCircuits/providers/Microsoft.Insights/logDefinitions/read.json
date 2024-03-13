@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get the logs for ExpressRoute Circuits",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoute Circuit log definitions",
+  "Description": "Get the events for ExpressRoute Circuits",
+  "IsDataAction": false
+}

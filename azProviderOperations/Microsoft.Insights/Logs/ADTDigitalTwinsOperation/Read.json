@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADTDigitalTwinsOperation/Read",
+  "OperationName": "Read ADTDigitalTwinsOperation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADTDigitalTwinsOperation",
+  "Description": "Read data from the ADTDigitalTwinsOperation table",
+  "IsDataAction": false
+}

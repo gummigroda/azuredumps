@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ImageSearch/search/action",
+  "OperationName": "Image Search",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Search - v7",
+  "Description": "Get relevant images for a given query.",
+  "IsDataAction": true
+}

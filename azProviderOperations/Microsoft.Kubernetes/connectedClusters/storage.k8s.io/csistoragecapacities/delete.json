@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/csistoragecapacities/delete",
+  "OperationName": "Deletes/DeletesCollection csistoragecapacities resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "csistoragecapacities",
+  "Description": "Deletes csistoragecapacities",
+  "IsDataAction": true
+}

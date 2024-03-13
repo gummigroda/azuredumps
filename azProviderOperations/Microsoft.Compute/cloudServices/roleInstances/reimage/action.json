@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roleInstances/reimage/action",
+  "OperationName": "Reimage a role instance of a CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Role Instance",
+  "Description": "Reimage a role instance of a CloudService.",
+  "IsDataAction": false
+}

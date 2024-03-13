@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightAmbariSystemMetrics/read",
+  "OperationName": "Read HDInsightAmbariSystemMetrics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightAmbariSystemMetrics",
+  "Description": "Read data from the HDInsightAmbariSystemMetrics table",
+  "IsDataAction": false
+}

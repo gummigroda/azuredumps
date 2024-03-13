@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/register/action",
+  "OperationName": "Subscription Registration Action",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "",
+  "Description": "Subscription Registration Action",
+  "IsDataAction": false
+}

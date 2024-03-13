@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations/read",
+  "OperationName": "Read hostpools/sessionhostconfigurations",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhostconfigurations",
+  "Description": "Read hostpools/sessionhostconfigurations",
+  "IsDataAction": false
+}

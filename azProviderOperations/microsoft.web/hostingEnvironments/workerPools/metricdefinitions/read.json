@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/workerpools/metricdefinitions/read",
+  "OperationName": "Get Hosting Environments Workerpools Metric Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Workerpools Metric Definitions",
+  "Description": "Get Hosting Environments Workerpools Metric Definitions.",
+  "IsDataAction": false
+}

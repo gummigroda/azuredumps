@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/joinPerimeter/action",
+  "OperationName": "Display name for action of Join Perimeter",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Description for action of Join Perimeter",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tags/productLinks/read",
+  "OperationName": "Get links or Get Tag-product details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tag-product links resource",
+  "Description": "Lists a collection of Tag-product links in the specified service instance. or Get Tag-product details.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachineInstances/WACloginAsAdmin/Action",
+  "OperationName": "Manage ARC enabled VM resources on HCI via Windows Admin Center as an administrator",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachineInstances",
+  "Description": "Manage ARC enabled VM resources on HCI via Windows Admin Center as an administrator",
+  "IsDataAction": true
+}

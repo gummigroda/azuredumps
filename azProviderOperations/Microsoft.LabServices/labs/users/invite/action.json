@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/users/invite/action",
+  "OperationName": "Invite User",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/users",
+  "Description": "Send email invitation to a user to join the lab.",
+  "IsDataAction": false
+}

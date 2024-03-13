@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assignments/delete",
+  "OperationName": "Delete security assignments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secrity assignments",
+  "Description": "Deletes the security assignment",
+  "IsDataAction": false
+}

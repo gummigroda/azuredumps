@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/migrateToManualThroughput/action",
+  "OperationName": "Migrate Cassandra table offer to to manual throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Table throughput setting",
+  "Description": "Migrate Cassandra table offer to to manual throughput.",
+  "IsDataAction": false
+}

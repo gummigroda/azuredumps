@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/actionGroups/NetworkSecurityPerimeterConfigurations/Read",
+  "OperationName": "Read action group endpoint effective NSP configuration",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action group endpoint effective NSP configuration",
+  "Description": "Read action group endpoint effective NSP configuration",
+  "IsDataAction": false
+}

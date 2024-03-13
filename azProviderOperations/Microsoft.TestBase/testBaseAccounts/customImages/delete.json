@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/customImages/delete",
+  "OperationName": "CustomImages_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/customImages",
+  "Description": "Deletes a test base custom image.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/listSchemas/action",
+  "OperationName": "ListSchemas_List",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Lists the schemas for the specified connection in a pipeline.",
+  "IsDataAction": false
+}

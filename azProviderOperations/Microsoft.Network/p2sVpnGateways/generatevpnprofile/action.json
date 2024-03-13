@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/generatevpnprofile/action",
+  "OperationName": "Generate Vpn Profile for P2SVpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Generate Vpn Profile for P2SVpnGateway",
+  "IsDataAction": false
+}

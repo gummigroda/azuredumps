@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

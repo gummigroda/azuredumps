@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/discovery.k8s.io/endpointslices/write",
+  "OperationName": "Creates/Updates endpointslices resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpointslices",
+  "Description": "Writes endpointslices",
+  "IsDataAction": true
+}

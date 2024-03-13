@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/delete",
+  "OperationName": "Delete closed list entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlists",
+  "Description": "Deletes a closed list entity from the application.",
+  "IsDataAction": true
+}

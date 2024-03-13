@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/locations/operationstatuses/read",
+  "OperationName": "Get the Operation Status",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Operation Status",
+  "Description": "Reads the operation status for the resource.",
+  "IsDataAction": false
+}

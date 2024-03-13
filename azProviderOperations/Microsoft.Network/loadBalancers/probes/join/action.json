@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/probes/join/action",
+  "OperationName": "Join Load Balancer Probe",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Probe",
+  "Description": "Allows using probes of a load balancer. For example, with this permission healthProbe property of VM scale set can reference the probe. Not alertable.",
+  "IsDataAction": false
+}

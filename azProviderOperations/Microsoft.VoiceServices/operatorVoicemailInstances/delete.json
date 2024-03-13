@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/operatorVoicemailInstances/delete",
+  "OperationName": "OperatorVoicemailInstances_Delete",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "operatorVoicemailInstances",
+  "Description": "Delete a OperatorVoicemailInstance",
+  "IsDataAction": false
+}

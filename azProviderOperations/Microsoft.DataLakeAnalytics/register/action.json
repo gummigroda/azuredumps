@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/register/action",
+  "OperationName": "Register to DataLakeAnalytics",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "",
+  "Description": "Register subscription to DataLakeAnalytics.",
+  "IsDataAction": false
+}

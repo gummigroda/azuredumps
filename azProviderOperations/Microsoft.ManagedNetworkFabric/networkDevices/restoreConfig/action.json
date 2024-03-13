@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/restoreConfig/action",
+  "OperationName": "NetworkDevices_restoreConfig",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Restore the configuration of the Network Device resource to last known good configuration.",
+  "IsDataAction": false
+}

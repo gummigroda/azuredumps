@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/resourceValidate/action",
+  "OperationName": "Validate",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Validate operation ($validate).",
+  "IsDataAction": true
+}

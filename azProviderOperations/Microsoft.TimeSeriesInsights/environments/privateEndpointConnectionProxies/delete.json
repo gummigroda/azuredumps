@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete the private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Deletes the private endpoint connection proxy.",
+  "IsDataAction": false
+}

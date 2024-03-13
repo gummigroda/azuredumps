@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/segments/delete",
+  "OperationName": "Delete segments",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/segments",
+  "Description": "Delete segments.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/encryptionScopes/read",
+  "OperationName": "Read Encryption Scope",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Encryption Scope",
+  "Description": "Reads an Encryption Scope.",
+  "IsDataAction": false
+}

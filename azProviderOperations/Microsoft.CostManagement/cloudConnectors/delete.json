@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/cloudConnectors/delete",
+  "OperationName": "Delete cloudConnector",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "CloudConnectors",
+  "Description": "Delete the specified cloudConnector.",
+  "IsDataAction": false
+}

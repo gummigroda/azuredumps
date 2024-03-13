@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/registeredIdentities/delete",
+  "OperationName": "Unregister Service Container",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The UnRegister Container operation can be used to unregister a container.",
+  "IsDataAction": false
+}

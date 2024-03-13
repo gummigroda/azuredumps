@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/accounts/write",
+  "OperationName": "Create/Update sub account resources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Accounts",
+  "Description": "Write sub account",
+  "IsDataAction": false
+}

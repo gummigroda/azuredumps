@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/externalkeys/write",
+  "OperationName": "user - Add external api key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "externalkeys*",
+  "Description": "**THIS API IS DEPRECATED.**",
+  "IsDataAction": true
+}

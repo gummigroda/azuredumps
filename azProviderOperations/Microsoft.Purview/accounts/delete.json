@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/delete",
+  "OperationName": "Delete account resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "Delete account resource for Microsoft Purview provider.",
+  "IsDataAction": false
+}

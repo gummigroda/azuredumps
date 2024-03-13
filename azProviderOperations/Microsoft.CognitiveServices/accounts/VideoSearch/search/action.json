@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoSearch/search/action",
+  "OperationName": "Video search",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video Search - v7",
+  "Description": "Get videos relevant for a given query.",
+  "IsDataAction": true
+}

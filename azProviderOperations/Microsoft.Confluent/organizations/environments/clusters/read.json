@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/environments/clusters/read",
+  "OperationName": "Gets cluster details in an environment for the organization",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Gets cluster details in an environment for the organization",
+  "IsDataAction": false
+}

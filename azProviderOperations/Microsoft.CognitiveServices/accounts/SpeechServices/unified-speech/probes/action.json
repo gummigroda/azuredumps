@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/unified-speech/probes/action",
+  "OperationName": "Monitors the Speech Frontend Health.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Unified Speech APIs",
+  "Description": "This endpoint monitors the Speech Frontend health",
+  "IsDataAction": true
+}

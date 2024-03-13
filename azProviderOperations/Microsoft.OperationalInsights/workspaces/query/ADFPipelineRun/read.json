@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADFPipelineRun/read",
+  "OperationName": "Read ADFPipelineRun data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADFPipelineRun",
+  "Description": "Read data from the ADFPipelineRun table",
+  "IsDataAction": false
+}

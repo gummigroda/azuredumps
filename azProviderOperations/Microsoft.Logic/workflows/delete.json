@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/delete",
+  "OperationName": "Delete Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Deletes the workflow.",
+  "IsDataAction": false
+}

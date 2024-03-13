@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/diagnosticSettings/read",
+  "OperationName": "Get information about diagnostics settings",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Diagnostics settings",
+  "Description": "Read the information about diagnostics settings",
+  "IsDataAction": false
+}

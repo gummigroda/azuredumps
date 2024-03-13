@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/frontends/read",
+  "OperationName": "Get Traffic Controller Frontend",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller Frontend",
+  "Description": "Get the Traffic Controller Frontend resource",
+  "IsDataAction": false
+}

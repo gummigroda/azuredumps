@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperatorVoicemail/unregister/action",
+  "OperationName": "Unregister the Microsoft.OperatorVoicemail",
+  "ProviderNamespace": "Microsoft.OperatorVoicemail",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.OperatorVoicemail",
+  "IsDataAction": false
+}

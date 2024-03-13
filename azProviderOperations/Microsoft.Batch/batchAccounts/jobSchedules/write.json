@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/jobSchedules/write",
+  "OperationName": "Create or Update Job Schedule",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Job Schedules",
+  "Description": "Creates a new job schedule on a Batch account or updates an existing job schedule",
+  "IsDataAction": true
+}

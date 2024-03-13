@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/healthmodels/read",
+  "OperationName": "HealthModels_Get",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "healthmodels",
+  "Description": "Get a HealthModel",
+  "IsDataAction": false
+}

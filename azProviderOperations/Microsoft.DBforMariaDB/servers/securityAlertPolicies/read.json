@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/securityAlertPolicies/read",
+  "OperationName": "List server threat detection policies",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Server Threat Detection Policy",
+  "Description": "Retrieve a list of server threat detection policies configured for a given server",
+  "IsDataAction": false
+}

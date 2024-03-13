@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/ipFilterRules/read",
+  "OperationName": "Get IP Filter Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "IPFilter",
+  "Description": "Get IP Filter Resource",
+  "IsDataAction": false
+}

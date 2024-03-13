@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write graph",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Graph",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Create or update a graph. Only applicable to API types: 'gremlin'.",
+  "IsDataAction": false
+}

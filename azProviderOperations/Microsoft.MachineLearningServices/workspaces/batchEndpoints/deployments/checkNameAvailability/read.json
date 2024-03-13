@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/checkNameAvailability/read",
+  "OperationName": "Checks name for deployment in batch inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Batch Endpoint Deployments",
+  "Description": "Checks name for deployment in batch inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

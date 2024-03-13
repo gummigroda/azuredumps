@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/monitoredResources/read",
+  "OperationName": "MonitoredResources_ListByManagedInstance",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/monitoredResources",
+  "Description": "A comprehensive list of all monitored resources within a SCOM managed instance.",
+  "IsDataAction": false
+}

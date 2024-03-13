@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/encryptionProtector/revert/action",
+  "OperationName": "Revert the database encryption protector",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Revalidate key for azure sql database",
+  "Description": "Revertthe database encryption protector",
+  "IsDataAction": false
+}

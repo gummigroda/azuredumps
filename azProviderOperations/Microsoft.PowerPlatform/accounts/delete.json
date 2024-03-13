@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/accounts/delete",
+  "OperationName": "Delete Account",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Account",
+  "Description": "Deletes an account",
+  "IsDataAction": false
+}

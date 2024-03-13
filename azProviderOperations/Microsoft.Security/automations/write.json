@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/automations/write",
+  "OperationName": "Update automation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Automations",
+  "Description": "Creates or updates the automation for the scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/pccRuleBases/delete",
+  "OperationName": "PccRuleBases_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/pccRuleBases",
+  "Description": "Deletes the specified Mobile Packet Core Policy and Charging Control Rule Base resource",
+  "IsDataAction": false
+}

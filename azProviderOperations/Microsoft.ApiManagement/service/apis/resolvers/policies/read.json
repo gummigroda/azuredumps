@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/resolvers/policies/read",
+  "OperationName": "Get list of policy configurations or Get GraphQL API policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy configuration at the GraphQL API resolver level.",
+  "Description": "Get the list of policy configurations at the GraphQL API resolver level. or Get the policy configuration at the GraphQL API resolver level.",
+  "IsDataAction": false
+}

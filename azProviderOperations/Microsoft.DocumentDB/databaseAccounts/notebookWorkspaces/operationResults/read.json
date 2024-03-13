@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/operationResults/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/operationResults/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Operation Result",
+  "Description": "Read the status of an asynchronous operation on notebook workspaces",
+  "IsDataAction": false
+}

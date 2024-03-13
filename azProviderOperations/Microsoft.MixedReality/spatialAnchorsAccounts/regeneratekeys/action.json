@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/regeneratekeys/action",
+  "OperationName": "Regenerate the keys of a Spatial Anchors account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Regenerate the keys of a Spatial Anchors account",
+  "IsDataAction": false
+}

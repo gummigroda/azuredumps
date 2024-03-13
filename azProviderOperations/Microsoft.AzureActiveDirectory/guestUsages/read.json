@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/guestUsages/read",
+  "OperationName": "View Guest Usages resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "Guest Usages",
+  "Description": "View Guest Usages resource",
+  "IsDataAction": false
+}

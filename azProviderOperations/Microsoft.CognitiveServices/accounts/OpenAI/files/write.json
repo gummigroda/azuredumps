@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/files/write",
+  "OperationName": "Upload or import files",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Files",
+  "Description": "Upload or import files.",
+  "IsDataAction": true
+}

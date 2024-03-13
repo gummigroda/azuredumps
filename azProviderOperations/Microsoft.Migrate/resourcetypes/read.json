@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/resourcetypes/read",
+  "OperationName": "Get resource type",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Resource type",
+  "Description": "Gets the resource types",
+  "IsDataAction": false
+}

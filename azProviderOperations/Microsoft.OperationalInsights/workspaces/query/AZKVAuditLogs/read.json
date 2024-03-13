@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZKVAuditLogs/read",
+  "OperationName": "Read AZKVAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZKVAuditLogs",
+  "Description": "Read data from the AZKVAuditLogs table",
+  "IsDataAction": false
+}

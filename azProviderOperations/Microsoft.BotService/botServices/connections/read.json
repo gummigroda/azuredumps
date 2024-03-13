@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/connections/read",
+  "OperationName": "Read a Bot Service Connection",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service Connection",
+  "Description": "Read a Bot Service Connection",
+  "IsDataAction": false
+}

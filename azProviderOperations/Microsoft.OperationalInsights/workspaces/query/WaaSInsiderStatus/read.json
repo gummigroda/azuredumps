@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WaaSInsiderStatus/read",
+  "OperationName": "Read WaaSInsiderStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WaaSInsiderStatus",
+  "Description": "Read data from the WaaSInsiderStatus table",
+  "IsDataAction": false
+}

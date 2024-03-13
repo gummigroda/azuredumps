@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/sharedPrivateLinkResources/write",
+  "OperationName": "SharedPrivateLinkResources_Create",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers/sharedPrivateLinkResources",
+  "Description": "Create a SharedPrivateLinkResource",
+  "IsDataAction": false
+}

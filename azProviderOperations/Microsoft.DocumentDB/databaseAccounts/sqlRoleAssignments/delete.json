@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Role Assignment",
+  "Description": "Delete a SQL Role Assignment",
+  "IsDataAction": false
+}

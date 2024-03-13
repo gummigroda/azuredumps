@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/eventGridFilters/read",
+  "OperationName": "Get Redis Cache Event Grid Filter",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache Event Grid Filter",
+  "Description": "Get Redis Cache Event Grid Filter",
+  "IsDataAction": false
+}

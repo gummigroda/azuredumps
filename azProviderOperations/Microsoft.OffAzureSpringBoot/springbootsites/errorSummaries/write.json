@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/errorSummaries/write",
+  "OperationName": "ErrorSummaries_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/errorSummaries",
+  "Description": "CreateerrorSummariesresource.",
+  "IsDataAction": false
+}

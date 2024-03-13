@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/usages/read",
+  "OperationName": "Get Web Apps Slots Usages",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Usages",
+  "Description": "Get Web Apps Slots Usages.",
+  "IsDataAction": false
+}

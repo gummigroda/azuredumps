@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/subscriptions/delete",
+  "OperationName": "Delete Management Group Subscription",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "De-associates subscription from the management group.",
+  "IsDataAction": false
+}

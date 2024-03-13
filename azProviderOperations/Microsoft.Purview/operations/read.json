@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/operations/read",
+  "OperationName": "Read all operations",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Operations",
+  "Description": "Reads all available operations for Microsoft Purview provider.",
+  "IsDataAction": false
+}

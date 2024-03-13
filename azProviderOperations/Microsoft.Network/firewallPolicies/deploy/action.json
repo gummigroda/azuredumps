@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/deploy/action",
+  "OperationName": "Deploy Firewall Policy Draft",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy",
+  "Description": "Deploy Firewall Policy Draft",
+  "IsDataAction": false
+}

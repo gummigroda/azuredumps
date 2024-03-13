@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/register/action",
+  "OperationName": "Register the PureStorage.Block",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "",
+  "Description": "Register the subscription for PureStorage.Block",
+  "IsDataAction": false
+}

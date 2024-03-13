@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/postRules/write",
+  "OperationName": "PostRules_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/postRules",
+  "Description": "Create a PostRulesResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/EventHubConnectionValidation/action",
+  "OperationName": "Event Hub connection validation action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Databases resource type",
+  "Description": "Validates database Event Hub connection.",
+  "IsDataAction": false
+}

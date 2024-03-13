@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/subscriptions/regeneratePrimaryKey/action",
+  "OperationName": "Regenerate subscription PK",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Regenerates primary key of existing subscription of the API Management service instance.",
+  "IsDataAction": false
+}

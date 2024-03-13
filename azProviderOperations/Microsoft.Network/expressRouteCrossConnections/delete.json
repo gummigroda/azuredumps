@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/delete",
+  "OperationName": "Delete Express Route Cross Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection",
+  "Description": "Delete Express Route Cross Connection",
+  "IsDataAction": false
+}

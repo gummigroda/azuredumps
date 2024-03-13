@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/clientRootCertificates/listPackage/action",
+  "OperationName": "Virtual Network Gateway Certificate Package List",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Geteway Client Certificate",
+  "Description": "Lists the virtual network gateway certificate package.",
+  "IsDataAction": false
+}

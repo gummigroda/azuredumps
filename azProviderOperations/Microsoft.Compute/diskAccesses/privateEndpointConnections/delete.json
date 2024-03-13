@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnections/delete",
+  "OperationName": "Delete PrivateEndpointConnection",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnections",
+  "Description": "Delete a Private Endpoint Connection",
+  "IsDataAction": false
+}

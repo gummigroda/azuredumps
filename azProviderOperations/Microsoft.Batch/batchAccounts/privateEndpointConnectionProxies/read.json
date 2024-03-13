@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "PrivateEndpointConnectionProxies",
+  "Description": "Gets Private endpoint connection proxy on a Batch account",
+  "IsDataAction": false
+}

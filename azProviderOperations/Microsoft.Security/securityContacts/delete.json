@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityContacts/delete",
+  "OperationName": "Delete security contact",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Contact",
+  "Description": "Deletes the security contact",
+  "IsDataAction": false
+}

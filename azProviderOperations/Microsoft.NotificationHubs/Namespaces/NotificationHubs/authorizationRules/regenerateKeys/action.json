@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/authorizationRules/regenerateKeys/action",
+  "OperationName": "Notification Hub Authorization Rule Regenerate Keys",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub Authorization Rule",
+  "Description": "Notification Hub Authorization Rule Regenerate Primary/SecondaryKey, Specify the Key that needs to be regenerated",
+  "IsDataAction": false
+}

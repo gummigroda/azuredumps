@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/evaluations/write",
+  "OperationName": "Update Evaluation|Create Evaluation*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Updates the mutable details of the evaluation identified by its id.\r\nCreates a new evaluation.*",
+  "IsDataAction": true
+}

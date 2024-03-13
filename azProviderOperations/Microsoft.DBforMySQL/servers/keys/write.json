@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/keys/write",
+  "OperationName": "Create/Update Azure Database for MySQL Server Keys",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Server Keys",
+  "Description": "Creates a key with the specified parameters or update the properties or tags for the specified server key.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/fluidRelayServers/fluidRelayContainers/read",
+  "OperationName": "FluidRelayContainers_ListByFluidRelayServers",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "fluidRelayServers/fluidRelayContainers",
+  "Description": "read fluidRelayContainers",
+  "IsDataAction": false
+}

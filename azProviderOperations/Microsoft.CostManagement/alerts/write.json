@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/alerts/write",
+  "OperationName": "Update Alerts",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Alerts",
+  "Description": "Update alerts.",
+  "IsDataAction": false
+}

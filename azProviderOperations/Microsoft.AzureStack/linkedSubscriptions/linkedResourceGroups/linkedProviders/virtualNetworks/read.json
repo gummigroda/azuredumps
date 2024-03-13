@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/linkedResourceGroups/linkedProviders/virtualNetworks/read",
+  "OperationName": "Get Virtual Network",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Virtual Network",
+  "Description": "Get or list virtual network",
+  "IsDataAction": false
+}

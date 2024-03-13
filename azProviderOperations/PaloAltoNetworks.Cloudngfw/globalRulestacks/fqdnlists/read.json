@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/fqdnlists/read",
+  "OperationName": "FqdnListGlobalRulestack_Get",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/fqdnlists",
+  "Description": "Get a FqdnListGlobalRulestackResource",
+  "IsDataAction": false
+}

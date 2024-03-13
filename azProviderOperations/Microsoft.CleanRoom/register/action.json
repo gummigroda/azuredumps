@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/register/action",
+  "OperationName": "Register the Microsoft.CleanRoom",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.CleanRoom",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/blocks:commit/action",
+  "OperationName": "Commit Block List",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "datasets*",
+  "Description": "Commit block list to complete the upload of the dataset.",
+  "IsDataAction": true
+}

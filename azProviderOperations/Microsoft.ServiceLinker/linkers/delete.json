@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/linkers/delete",
+  "OperationName": "Linker_Delete",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "linkers",
+  "Description": "Delete a link.",
+  "IsDataAction": false
+}

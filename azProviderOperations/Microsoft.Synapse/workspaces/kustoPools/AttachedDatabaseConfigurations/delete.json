@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/AttachedDatabaseConfigurations/delete",
+  "OperationName": "Delete an attached database configugration resource",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Attached database configuration resource type",
+  "Description": "Deletes an attached database configuration resource.",
+  "IsDataAction": false
+}

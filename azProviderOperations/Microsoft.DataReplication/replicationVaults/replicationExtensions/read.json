@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationExtensions/read",
+  "OperationName": "Lists the replication extensions",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Extensions",
+  "Description": "Lists replication extensions",
+  "IsDataAction": false
+}

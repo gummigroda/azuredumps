@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Account/Write",
+  "OperationName": "Creates or updates the Account",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Account",
+  "Description": "Set Account",
+  "IsDataAction": false
+}

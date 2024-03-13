@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/eventGridFilters/write",
+  "OperationName": "Create or update Event Grid filter",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Event Grid filter",
+  "Description": "Creates or updates specified Event Grid filter.",
+  "IsDataAction": false
+}

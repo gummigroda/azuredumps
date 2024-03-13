@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MarketplaceOrdering/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Microsoft Marketplace Ordering",
+  "ResourceName": "Agreement",
+  "Description": "List all possible operations in the API",
+  "IsDataAction": false
+}

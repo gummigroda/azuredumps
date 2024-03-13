@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/configurations/read",
+  "OperationName": "List/Get MySQL Server Configuration(s)",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Configuration",
+  "Description": "Returns the list of  MySQL server configurations or gets the configurations for the specified server.",
+  "IsDataAction": false
+}

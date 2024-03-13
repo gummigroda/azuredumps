@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodes/write",
+  "OperationName": "Create or update Azure Automation DSC nodes",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Nodes",
+  "Description": "Creates or updates Azure Automation DSC nodes",
+  "IsDataAction": false
+}

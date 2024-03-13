@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalConfigs/read",
+  "OperationName": "Get developer portal config list or Get developer portal config details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "portalConfigs",
+  "Description": "Lists a collection of developer portal config entities. or Gets developer portal config specified by its identifier.",
+  "IsDataAction": false
+}

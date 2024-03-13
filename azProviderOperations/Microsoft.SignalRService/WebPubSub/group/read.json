@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/group/read",
+  "OperationName": "Read Group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/Group",
+  "Description": "Check group existence or user existence in group",
+  "IsDataAction": true
+}

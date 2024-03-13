@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/listSynchronizationDetails/action",
+  "OperationName": "Data Share ListSynchronizationDetails Action",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ShareSubscription",
+  "Description": "List Data Share Synchronization Details.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Namespace metrics",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace metrics",
+  "Description": "Get list of Namespace metrics Resource Descriptions",
+  "IsDataAction": false
+}

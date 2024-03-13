@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CDBMongoRequests/read",
+  "OperationName": "Read CDBMongoRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CDBMongoRequests",
+  "Description": "Read data from the CDBMongoRequests table",
+  "IsDataAction": false
+}

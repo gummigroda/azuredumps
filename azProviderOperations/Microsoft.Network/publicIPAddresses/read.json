@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/read",
+  "OperationName": "Get Public Ip Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Address",
+  "Description": "Gets a public ip address definition.",
+  "IsDataAction": false
+}

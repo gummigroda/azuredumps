@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/events/listSecurityAdvisoryImpactedResources/action",
+  "OperationName": "Get Impacted Resources",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Events",
+  "Description": "Get Impacted Resources for a given event of type SecurityAdvisory",
+  "IsDataAction": false
+}

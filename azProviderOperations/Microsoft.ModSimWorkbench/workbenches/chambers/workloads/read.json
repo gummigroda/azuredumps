@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/workloads/read",
+  "OperationName": "workloads_List",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/workloads",
+  "Description": "Lists all workloads.",
+  "IsDataAction": false
+}

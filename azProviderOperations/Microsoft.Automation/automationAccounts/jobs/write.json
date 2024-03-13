@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/write",
+  "OperationName": "Create an Azure Automation job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job",
+  "Description": "Creates an Azure Automation job",
+  "IsDataAction": false
+}

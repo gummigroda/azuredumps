@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyDefinitions/read",
+  "OperationName": "Get policy definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy definition",
+  "Description": "Get information about a policy definition.",
+  "IsDataAction": false
+}

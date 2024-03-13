@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/dnsAliases/write",
+  "OperationName": "Create/Update Azure SQL Server Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Server Dns Alias",
+  "Description": "Creates a Server Dns Alias with the specified parameters or update the properties or tags for the specified Server Dns Alias.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/listauthkeys/action",
+  "OperationName": "List Integration Runtime Authentication Keys",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Lists the Authentication Keys for any Integration Runtime.",
+  "IsDataAction": false
+}

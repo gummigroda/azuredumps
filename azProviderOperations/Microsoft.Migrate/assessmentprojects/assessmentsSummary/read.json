@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/assessmentsSummary/read",
+  "OperationName": "List Assessments summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessments Summary",
+  "Description": "Gets the assessments summary which are available in the given location",
+  "IsDataAction": false
+}

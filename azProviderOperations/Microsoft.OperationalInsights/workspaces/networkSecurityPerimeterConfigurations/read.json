@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Read Network Security Perimeter Configurations",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NetworkSecurityPerimeterConfigurations",
+  "Description": "Read Network Security Perimeter Configurations",
+  "IsDataAction": false
+}

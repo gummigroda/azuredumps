@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/analyzeresults/read",
+  "OperationName": "Get Text Batch Analyze Results",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyzeresults*",
+  "Description": "An API to get harmful content analysis results for text batch",
+  "IsDataAction": true
+}

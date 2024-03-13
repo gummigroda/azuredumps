@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/datasets/delete",
+  "OperationName": "Delete Datasets",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Datasets",
+  "Description": "Delete Datasets",
+  "IsDataAction": true
+}

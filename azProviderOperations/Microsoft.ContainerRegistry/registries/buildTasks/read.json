@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/read",
+  "OperationName": "Get build task or List build tasks.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the properties of the specified build task or lists all the build tasks for the specified container registry.",
+  "IsDataAction": false
+}

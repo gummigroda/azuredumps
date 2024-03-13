@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/webappstacks/read",
+  "OperationName": "Get Web App Stacks for location",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Stacks",
+  "Description": "Get Web App Stacks for location.",
+  "IsDataAction": false
+}

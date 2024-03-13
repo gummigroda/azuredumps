@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnGateways/write",
+  "OperationName": "Put VpnGateway.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Puts a VpnGateway.",
+  "IsDataAction": false
+}

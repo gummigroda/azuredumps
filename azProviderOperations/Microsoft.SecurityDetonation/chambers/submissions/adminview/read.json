@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/adminview/read",
+  "OperationName": "Submissions Admin View Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions Admin View",
+  "Description": "Allows retrieving (including in bulk) and deleting submissions using a submission ID",
+  "IsDataAction": true
+}

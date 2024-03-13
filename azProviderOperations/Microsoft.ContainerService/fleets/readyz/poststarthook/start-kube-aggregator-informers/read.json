@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/readyz/poststarthook/start-kube-aggregator-informers/read",
+  "OperationName": "Gets/List start-kube-aggregator-informers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Poststarthook/Start-Kube-Aggregator-Informers",
+  "Description": "Reads start-kube-aggregator-informers",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskEncryptionSets/delete",
+  "OperationName": "Delete disk encryption set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskEncryptionSets",
+  "Description": "Delete a disk encryption set",
+  "IsDataAction": false
+}

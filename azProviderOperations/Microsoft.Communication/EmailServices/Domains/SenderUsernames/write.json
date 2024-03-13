@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SenderUsernames/write",
+  "OperationName": "SenderUsernames_CreateOrUpdate",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SenderUsernames",
+  "Description": "Add a new SenderUsername under the parent Domain resource or update an existing SenderUsername resource.",
+  "IsDataAction": false
+}

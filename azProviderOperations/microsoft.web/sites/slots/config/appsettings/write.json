@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/appsettings/write",
+  "OperationName": "Create or Update Web App Slot's Single App setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot App Setting",
+  "Description": "Create or Update Web App Slot's Single App setting",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPoolEstimates/write",
+  "OperationName": "Create an elastic pool estimate",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Pool Estimate",
+  "Description": "Creates new elastic pool estimate for list of databases provided",
+  "IsDataAction": false
+}

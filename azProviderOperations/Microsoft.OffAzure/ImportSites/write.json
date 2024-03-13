@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ImportSites/write",
+  "OperationName": "Create or update Import site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ImportSites",
+  "Description": "Creates or updates the Import site",
+  "IsDataAction": false
+}

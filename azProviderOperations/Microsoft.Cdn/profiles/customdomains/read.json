@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/customdomains/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "AfdCustomDomain",
+  "Description": null,
+  "IsDataAction": false
+}

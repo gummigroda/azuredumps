@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/read",
+  "OperationName": "Accounts_Get",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts",
+  "Description": "Gets the properties of an Azure Video Indexer account.",
+  "IsDataAction": false
+}

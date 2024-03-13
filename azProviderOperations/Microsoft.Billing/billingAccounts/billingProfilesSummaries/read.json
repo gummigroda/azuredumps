@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfilesSummaries/read",
+  "OperationName": "BillingProfilesSummaries_Get",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Profiles Summaries",
+  "Description": "Gets the summary of billing profiles under a billing account. The operation is supported for billing accounts with agreement type Enterprise Agreement.",
+  "IsDataAction": false
+}

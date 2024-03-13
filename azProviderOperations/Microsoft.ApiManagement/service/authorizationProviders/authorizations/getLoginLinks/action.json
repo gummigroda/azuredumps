@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/authorizations/getLoginLinks/action",
+  "OperationName": "Post Authorization Login Links",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Authorization",
+  "Description": "Posts Authorization Login Links",
+  "IsDataAction": false
+}

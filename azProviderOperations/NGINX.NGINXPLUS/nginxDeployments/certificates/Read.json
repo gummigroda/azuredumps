@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/certificates/Read",
+  "OperationName": "Get certificates resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "certificates",
+  "Description": "Read certificates",
+  "IsDataAction": false
+}

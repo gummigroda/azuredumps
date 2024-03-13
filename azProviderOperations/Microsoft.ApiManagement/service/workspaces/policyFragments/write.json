@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policyFragments/write",
+  "OperationName": "Set policy fragment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy fragments",
+  "Description": "Creates or updates a policy fragment.",
+  "IsDataAction": false
+}

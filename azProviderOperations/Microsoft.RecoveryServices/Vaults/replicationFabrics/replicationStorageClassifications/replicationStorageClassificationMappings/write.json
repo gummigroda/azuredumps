@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationStorageClassifications/replicationStorageClassificationMappings/write",
+  "OperationName": "Create or Update Storage Classification Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Storage Classification Mappings",
+  "Description": "Create or Update any Storage Classification Mappings",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternrules/read",
+  "OperationName": "Get patterns",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern rules",
+  "Description": "Gets the patterns in the application version.",
+  "IsDataAction": true
+}

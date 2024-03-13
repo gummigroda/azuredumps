@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlUsages/read",
+  "OperationName": "Gets usage limits available for SQL Analytics Pools",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Usages",
+  "Description": "Gets usage limits available for SQL Analytics Pools",
+  "IsDataAction": false
+}

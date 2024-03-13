@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/LogProfiles/Write",
+  "OperationName": "Create or update Activity Log log profile",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Log Profiles",
+  "Description": "Create or update an Activity Log log profile",
+  "IsDataAction": false
+}

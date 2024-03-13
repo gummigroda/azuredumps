@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/devices/delete",
+  "OperationName": "Devices_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "devices",
+  "Description": "Deletes the specified device.",
+  "IsDataAction": false
+}

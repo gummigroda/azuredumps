@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/webApplicationFirewalls/read",
+  "OperationName": "Get Web Application Firewalls",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Web Application Firewalls",
+  "Description": "Gets the web application firewalls",
+  "IsDataAction": false
+}

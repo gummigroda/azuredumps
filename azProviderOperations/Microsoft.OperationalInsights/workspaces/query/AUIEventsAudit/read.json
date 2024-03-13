@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AUIEventsAudit/read",
+  "OperationName": "Read AUIEventsAudit data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AUIEventsAudit",
+  "Description": "Read data from the AUIEventsAudit table",
+  "IsDataAction": false
+}

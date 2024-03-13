@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get diagnostic settings of Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network diagnostic settings",
+  "Description": "Get the diagnostic settings of Virtual Network",
+  "IsDataAction": false
+}

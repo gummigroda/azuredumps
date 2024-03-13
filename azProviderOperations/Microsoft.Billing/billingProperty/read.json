@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingProperty/read",
+  "OperationName": "List/Get Billing Properties",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Property",
+  "Description": null,
+  "IsDataAction": false
+}

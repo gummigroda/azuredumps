@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/Delete",
+  "OperationName": "Delete AppServiceCertificate",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "AppServiceCertificate",
+  "Description": "Delete an existing AppServiceCertificate",
+  "IsDataAction": false
+}

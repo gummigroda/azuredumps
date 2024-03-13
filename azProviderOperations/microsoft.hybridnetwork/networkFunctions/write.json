@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctions/write",
+  "OperationName": "NetworkFunctions_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctions",
+  "Description": "Updates the tags for the network function resource.",
+  "IsDataAction": false
+}

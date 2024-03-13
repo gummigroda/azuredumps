@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/versions/read",
+  "OperationName": "Get Workflow Version",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Version",
+  "Description": "Reads the workflow version.",
+  "IsDataAction": false
+}

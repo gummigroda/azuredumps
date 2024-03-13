@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternrules/delete",
+  "OperationName": "Batch delete patterns or Delete pattern",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern rules",
+  "Description": "Deletes a list of patterns from the application version.\r\nDeletes a pattern from the application version.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/assessments/machinesToAssess/Delete",
+  "OperationName": "Deletes a machinesToAssess resource from an assessment in a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/assessments/machinesToAssess",
+  "Description": "Deletes machineToAssess in a migrate project site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/locations/operationstatuses/write",
+  "OperationName": "Write Operation Status.",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Operation Statuses",
+  "Description": "Write the status of an asynchronous operation.",
+  "IsDataAction": false
+}

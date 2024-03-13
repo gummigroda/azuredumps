@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/read",
+  "OperationName": "Get tenant access settings or Get tenant policy configuration or Get tenant access information",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Lists a collection of tenant access settings. or Get the Global policy definition of the Api Management service. or Get tenant access information details",
+  "IsDataAction": false
+}

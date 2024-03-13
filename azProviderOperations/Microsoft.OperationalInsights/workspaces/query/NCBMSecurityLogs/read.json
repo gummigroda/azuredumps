@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NCBMSecurityLogs/read",
+  "OperationName": "Read NCBMSecurityLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NCBMSecurityLogs",
+  "Description": "Read data from the NCBMSecurityLogs table",
+  "IsDataAction": false
+}

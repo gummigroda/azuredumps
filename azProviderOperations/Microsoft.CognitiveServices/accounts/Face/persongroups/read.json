@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/read",
+  "OperationName": "PersonGroup - Get|PersonGroup - List*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persongroups*",
+  "Description": "Retrieve person group name, userData and recognitionModel. To get person information under this personGroup, use\r\nList person groups��s personGroupId, name, userData and recognitionModel.*",
+  "IsDataAction": true
+}

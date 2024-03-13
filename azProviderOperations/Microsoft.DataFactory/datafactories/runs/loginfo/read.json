@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/runs/loginfo/read",
+  "OperationName": "Read Run Log Info",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Run Log",
+  "Description": "Reads a SAS URI to a blob container containing the logs.",
+  "IsDataAction": false
+}

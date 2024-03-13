@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/geoCatalogs/read",
+  "OperationName": "Read Geo Catalog",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Geo Catalogs",
+  "Description": "Read any Geo Catalog",
+  "IsDataAction": false
+}

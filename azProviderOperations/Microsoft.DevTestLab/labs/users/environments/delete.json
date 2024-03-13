@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/environments/delete",
+  "OperationName": "Delete environments.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "environments",
+  "Description": "Delete environments.",
+  "IsDataAction": false
+}

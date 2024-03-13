@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/sessionpools/interpreters/execute/action",
+  "OperationName": "Execute Code",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Interpreters",
+  "Description": "Execute Code",
+  "IsDataAction": true
+}

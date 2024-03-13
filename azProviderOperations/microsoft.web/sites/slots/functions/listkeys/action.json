@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/functions/listkeys/action",
+  "OperationName": "List Web Apps Functions Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Functions",
+  "Description": "List Function keys.",
+  "IsDataAction": false
+}

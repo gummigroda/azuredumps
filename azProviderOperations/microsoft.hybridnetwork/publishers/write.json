@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/write",
+  "OperationName": "Publishers_Update",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers",
+  "Description": "Update a publisher resource.",
+  "IsDataAction": false
+}

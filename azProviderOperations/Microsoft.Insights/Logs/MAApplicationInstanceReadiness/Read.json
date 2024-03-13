@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAApplicationInstanceReadiness/Read",
+  "OperationName": "Read MAApplicationInstanceReadiness data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAApplicationInstanceReadiness",
+  "Description": "Read data from the MAApplicationInstanceReadiness table",
+  "IsDataAction": false
+}

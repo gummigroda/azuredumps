@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/databases/metrics/read",
+  "OperationName": "Read database metrics",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database metrics",
+  "Description": "Reads the database metrics.",
+  "IsDataAction": false
+}

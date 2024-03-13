@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADevicePnPHealthAlternativeVersions/Read",
+  "OperationName": "Read MADevicePnPHealthAlternativeVersions data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADevicePnPHealthAlternativeVersions",
+  "Description": "Read data from the MADevicePnPHealthAlternativeVersions table",
+  "IsDataAction": false
+}

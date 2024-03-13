@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/webApplicationFirewalls/delete",
+  "OperationName": "Delete Security Web Application Firewalls",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Web Application Firewalls",
+  "Description": "Deletes a web application firewall",
+  "IsDataAction": false
+}

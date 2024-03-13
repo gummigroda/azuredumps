@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/write",
+  "OperationName": "Create or replace operation template.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Categories",
+  "Description": "Create or replace operation template.",
+  "IsDataAction": true
+}

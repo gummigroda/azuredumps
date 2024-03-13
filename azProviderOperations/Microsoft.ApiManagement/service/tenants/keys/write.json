@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/keys/write",
+  "OperationName": "Create a Key or Update Key",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Keys",
+  "Description": "Create a Key to an existing Existing Entity or Update existing key details. This operation can be used to renew key.",
+  "IsDataAction": false
+}

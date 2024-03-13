@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Role Definition",
+  "Description": "Delete a MongoDB Role Definition",
+  "IsDataAction": false
+}

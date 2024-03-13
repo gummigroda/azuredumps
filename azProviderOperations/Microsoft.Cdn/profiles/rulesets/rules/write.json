@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/rulesets/rules/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Rule",
+  "Description": null,
+  "IsDataAction": false
+}

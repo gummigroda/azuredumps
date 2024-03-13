@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/shares/write",
+  "OperationName": "Put File Share",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "File Share",
+  "Description": "Create or update file share",
+  "IsDataAction": false
+}

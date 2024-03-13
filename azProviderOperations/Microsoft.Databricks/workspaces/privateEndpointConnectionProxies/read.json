@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Private Endpoint Connection Proxies",
+  "Description": "Get Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

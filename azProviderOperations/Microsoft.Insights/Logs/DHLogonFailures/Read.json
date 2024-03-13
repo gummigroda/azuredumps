@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHLogonFailures/Read",
+  "OperationName": "Read DHLogonFailures data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHLogonFailures",
+  "Description": "Read data from the DHLogonFailures table",
+  "IsDataAction": false
+}

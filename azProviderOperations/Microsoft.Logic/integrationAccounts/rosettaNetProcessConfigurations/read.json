@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/read",
+  "OperationName": "Get Integration Account RosettaNet Process Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account RosettaNet Process Configuration",
+  "Description": "Reads the RosettaNet process configuration in integration account.",
+  "IsDataAction": false
+}

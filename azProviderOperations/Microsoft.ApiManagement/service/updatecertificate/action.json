@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/updatecertificate/action",
+  "OperationName": "Upload SSL certificate",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Upload SSL certificate for an API Management Service",
+  "IsDataAction": false
+}

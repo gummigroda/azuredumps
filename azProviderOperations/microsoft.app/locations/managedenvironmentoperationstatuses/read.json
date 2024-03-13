@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/managedenvironmentoperationstatuses/read",
+  "OperationName": "Read Managed Environment Operation Status",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Get a Managed Environment Long Running Operation Status",
+  "IsDataAction": false
+}

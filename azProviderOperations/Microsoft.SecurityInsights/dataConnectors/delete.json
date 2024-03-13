@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/dataConnectors/delete",
+  "OperationName": "Delete a Data Connector",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "DataConnectors",
+  "Description": "Deletes a data connector",
+  "IsDataAction": false
+}

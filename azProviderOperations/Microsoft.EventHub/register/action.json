@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/register/action",
+  "OperationName": "Registers the EventHub Resource Provider",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the EventHub resource provider and enables the creation of EventHub resources",
+  "IsDataAction": false
+}

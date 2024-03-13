@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/delete",
+  "OperationName": "Delete an Azure Automation Software Update Configuration",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Software Update Configuration",
+  "Description": "Deletes an Azure Automation Software Update Configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/Refresh/action",
+  "OperationName": "Refresh Web App For A Given Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Site",
+  "Description": "Refresh Web App For A Given Site",
+  "IsDataAction": false
+}

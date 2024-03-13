@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/listAuthKeys/action",
+  "OperationName": "Get List of Authentication Keys",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "SQL Migration Service",
+  "Description": "Retrieve the List of Authentication Keys",
+  "IsDataAction": false
+}

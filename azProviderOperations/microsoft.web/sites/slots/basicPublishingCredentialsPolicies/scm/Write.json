@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/basicPublishingCredentialsPolicies/scm/Write",
+  "OperationName": "Update Web App Slot SCM Publishing Credentials Policy",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Update whether SCM publishing credentials are allowed for a Web App Slot",
+  "IsDataAction": false
+}

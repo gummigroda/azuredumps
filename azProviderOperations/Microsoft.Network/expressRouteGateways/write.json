@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/write",
+  "OperationName": "Create or Update Express Route Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Gateway",
+  "Description": "Create or Update Express Route Gateway",
+  "IsDataAction": false
+}

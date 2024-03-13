@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/delete",
+  "OperationName": "Delete API Management Service instance",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Delete API Management Service instance",
+  "IsDataAction": false
+}

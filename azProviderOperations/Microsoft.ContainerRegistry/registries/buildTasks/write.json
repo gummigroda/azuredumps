@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/write",
+  "OperationName": "Create or Update build task.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Creates or updates a build task for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

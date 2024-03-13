@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/startAssessment/action",
+  "OperationName": "Starts SQL best practices Assessment on SQL virtual machine",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Starts SQL best practices Assessment on SQL virtual machine",
+  "IsDataAction": false
+}

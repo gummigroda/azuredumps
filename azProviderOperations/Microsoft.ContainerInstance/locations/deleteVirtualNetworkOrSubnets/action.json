@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Delete virtual network or subnet notification",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Validate delete virtual network or subnet notification",
+  "Description": "Notifies Microsoft.ContainerInstance that virtual network or subnet is being deleted.",
+  "IsDataAction": false
+}

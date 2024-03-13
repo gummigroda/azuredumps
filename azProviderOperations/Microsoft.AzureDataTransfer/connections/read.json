@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/read",
+  "OperationName": "Connections_ListBySubscription",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections",
+  "Description": "Gets connections in a subscription.",
+  "IsDataAction": false
+}

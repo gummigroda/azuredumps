@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/freeTrialStaticWebApps/read",
+  "OperationName": "List free trial static web apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Lists free trial static web apps.",
+  "IsDataAction": false
+}

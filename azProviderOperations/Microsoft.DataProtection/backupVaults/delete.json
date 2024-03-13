@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/delete",
+  "OperationName": "Delete Backup Vault",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Vaults",
+  "Description": "The Delete Vault operation deletes the specified Azure resource of type 'Backup Vault'",
+  "IsDataAction": false
+}

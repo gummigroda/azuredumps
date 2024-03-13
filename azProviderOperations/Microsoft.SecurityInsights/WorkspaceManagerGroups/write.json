@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerGroups/write",
+  "OperationName": "Create WorkspaceManager Groups",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerGroups",
+  "Description": "Creates WorkspaceManager Groups",
+  "IsDataAction": false
+}

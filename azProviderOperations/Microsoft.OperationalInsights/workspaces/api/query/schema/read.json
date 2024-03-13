@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/api/query/schema/read",
+  "OperationName": "Get Search Schema V2",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Analytics",
+  "Description": "Get search schema V2.",
+  "IsDataAction": false
+}

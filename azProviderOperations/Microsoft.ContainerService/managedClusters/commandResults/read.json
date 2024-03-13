@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/commandResults/read",
+  "OperationName": "CommandResult",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Retrieve result from previous issued command.",
+  "IsDataAction": false
+}

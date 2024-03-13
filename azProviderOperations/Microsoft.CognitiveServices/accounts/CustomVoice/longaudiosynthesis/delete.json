@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/longaudiosynthesis/delete",
+  "OperationName": "Deletes the specified long audio synthesis task.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Long audio synthesis",
+  "Description": "Deletes the specified long audio synthesis task.",
+  "IsDataAction": true
+}

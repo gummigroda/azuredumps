@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/read",
+  "OperationName": "Get Master site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Master Site",
+  "Description": "Gets the properties of a Master site",
+  "IsDataAction": false
+}

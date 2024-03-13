@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/watchers/delete",
+  "OperationName": "Delete an Azure Automation watcher job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation watcher job",
+  "Description": "Delete an Azure Automation watcher job",
+  "IsDataAction": false
+}

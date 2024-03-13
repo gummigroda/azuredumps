@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/write",
+  "OperationName": "LocalRulestacks_Update",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "Update a LocalRulestackResource",
+  "IsDataAction": false
+}

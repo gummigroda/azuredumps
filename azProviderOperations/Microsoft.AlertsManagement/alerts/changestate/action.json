@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alerts/changestate/action",
+  "OperationName": "Resolve alerts",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "alerts",
+  "Description": "Change the state of the alert.",
+  "IsDataAction": false
+}

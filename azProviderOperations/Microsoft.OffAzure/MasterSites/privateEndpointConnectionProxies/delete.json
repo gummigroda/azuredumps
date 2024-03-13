@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Delete a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

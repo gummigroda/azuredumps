@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action",
+  "OperationName": "Validate cross region restore",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "Performs validations for cross region restore operation.",
+  "IsDataAction": false
+}

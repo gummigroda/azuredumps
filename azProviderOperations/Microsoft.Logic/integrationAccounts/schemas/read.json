@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/schemas/read",
+  "OperationName": "Get Integration Account Schema",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Schema",
+  "Description": "Reads the schema in integration account.",
+  "IsDataAction": false
+}

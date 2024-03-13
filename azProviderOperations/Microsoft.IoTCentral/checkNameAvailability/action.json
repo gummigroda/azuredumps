@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/checkNameAvailability/action",
+  "OperationName": "Check IoTApp resource name availability",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "",
+  "Description": "Checks if a IoTApp resource name is available",
+  "IsDataAction": false
+}

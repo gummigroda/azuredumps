@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/alerts/write",
+  "OperationName": "Update IoT Alert properties",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Alerts",
+  "Description": "Updates IoT Alert properties",
+  "IsDataAction": false
+}

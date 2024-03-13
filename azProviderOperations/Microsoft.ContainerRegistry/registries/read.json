@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/read",
+  "OperationName": "Get Container Registry or List Container Registries",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the properties of the specified container registry or lists all the container registries under the specified resource group or subscription.",
+  "IsDataAction": false
+}

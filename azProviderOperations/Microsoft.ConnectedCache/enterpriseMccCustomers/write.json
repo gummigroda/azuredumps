@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseMccCustomers/write",
+  "OperationName": "EnterpriseMccCustomers_Update",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseMccCustomers",
+  "Description": "This api updates an existing enterprise mcc customer resource",
+  "IsDataAction": false
+}

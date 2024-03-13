@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Creates a new private endpoint connection proxy for an environment, or updates an existing connection proxy.",
+  "IsDataAction": false
+}

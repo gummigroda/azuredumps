@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/solutionTypes/read",
+  "OperationName": "SolutionTypes_Get",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "solutionTypes",
+  "Description": "Retrieve the solution type by provided solution type.",
+  "IsDataAction": false
+}

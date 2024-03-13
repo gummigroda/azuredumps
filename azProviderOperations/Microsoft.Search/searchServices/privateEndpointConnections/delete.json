@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Deletes an existing private endpoint connections",
+  "IsDataAction": false
+}

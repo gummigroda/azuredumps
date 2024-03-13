@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADUserRiskEvents/read",
+  "OperationName": "Read AADUserRiskEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADUserRiskEvents",
+  "Description": "Read data from the AADUserRiskEvents table",
+  "IsDataAction": false
+}

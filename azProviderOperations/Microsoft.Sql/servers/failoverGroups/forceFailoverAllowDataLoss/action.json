@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/failoverGroups/forceFailoverAllowDataLoss/action",
+  "OperationName": "Force Failover Azure SQL Database Failover Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Failover Group",
+  "Description": "Executes forced failover in an existing failover group.",
+  "IsDataAction": false
+}

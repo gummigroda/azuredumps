@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/listAppServices/action",
+  "OperationName": "List App services",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "List all the app services that have dynatrace agent installed",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/delete",
+  "OperationName": "Delete workspace",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Workspace",
+  "Description": "Delete workspace",
+  "IsDataAction": false
+}

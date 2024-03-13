@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/data/delete",
+  "OperationName": "Data Service Delete",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Data",
+  "Description": "Allows deleting of data for data upload services and Creator resource.",
+  "IsDataAction": true
+}

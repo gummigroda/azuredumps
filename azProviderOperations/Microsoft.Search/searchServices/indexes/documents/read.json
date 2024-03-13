@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexes/documents/read",
+  "OperationName": "Read Documents",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Documents",
+  "Description": "Read documents or suggested query terms from an index.",
+  "IsDataAction": true
+}

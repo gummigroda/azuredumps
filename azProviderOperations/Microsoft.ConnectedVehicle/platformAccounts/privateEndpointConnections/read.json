@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/privateEndpointConnections/read",
+  "OperationName": "Get/List Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "Connected Vehicle Platform Private Endpoint Connection",
+  "Description": "Returns the list of Connected Vehicle Platform Private Endpoint Connections",
+  "IsDataAction": false
+}

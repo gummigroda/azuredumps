@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Monitoring Account Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Delete any Monitoring Account Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

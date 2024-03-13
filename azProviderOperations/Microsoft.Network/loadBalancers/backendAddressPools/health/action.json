@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/health/action",
+  "OperationName": "Get Health Details of Backend Instance",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Get Health Details of Backend Instance",
+  "IsDataAction": false
+}

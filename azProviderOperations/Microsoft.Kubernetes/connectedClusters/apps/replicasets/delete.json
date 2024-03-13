@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/replicasets/delete",
+  "OperationName": "Deletes/DeletesCollection replicasets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicasets",
+  "Description": "Deletes replicasets",
+  "IsDataAction": true
+}

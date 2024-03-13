@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Get Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

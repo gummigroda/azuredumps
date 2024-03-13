@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/livePipelines/deactivate/action",
+  "OperationName": "Deactivate Live Pipeline",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Pipeline Resource",
+  "Description": "Deactivate any Live Pipeline",
+  "IsDataAction": false
+}

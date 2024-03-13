@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/Read",
+  "OperationName": "Get IotDps resource",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices",
+  "Description": "Get IotDps resource",
+  "IsDataAction": false
+}

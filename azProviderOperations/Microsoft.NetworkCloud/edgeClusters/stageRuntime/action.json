@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/stageRuntime/action",
+  "OperationName": "EdgeClusters_StageRuntime",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters",
+  "Description": "Prepares and stages the images to the edge cluster nodes for the specified runtime version.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/eventGridFilters/read",
+  "OperationName": "GetEvent Grid filter configuration",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "EventGridFilters",
+  "Description": "Gets the Event Grid filter associated with the namespace.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/initiateTransfer/action",
+  "OperationName": "Initiate transfer of resource",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Customers",
+  "Description": null,
+  "IsDataAction": false
+}

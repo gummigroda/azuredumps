@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/publicCloudConnectors/read",
+  "OperationName": "publicCloudConnectors_Get",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "publicCloudConnectors",
+  "Description": "Gets the public cloud connectors.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/configurations/action",
+  "OperationName": "Get Cluster Configurations",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get HDInsight Cluster Configurations",
+  "IsDataAction": false
+}

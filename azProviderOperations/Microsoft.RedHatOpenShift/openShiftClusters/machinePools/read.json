@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/machinePools/read",
+  "OperationName": "Read OpenShift cluster machine pool",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "machinePools",
+  "Description": null,
+  "IsDataAction": false
+}

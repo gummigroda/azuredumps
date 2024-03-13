@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/eventGridFilters/read",
+  "OperationName": "Get Event Grid filter",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Event Grid filter",
+  "Description": "Returns the details of the specified Event Grid filter.",
+  "IsDataAction": false
+}

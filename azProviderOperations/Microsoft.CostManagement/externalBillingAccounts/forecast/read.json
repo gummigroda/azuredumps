@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalBillingAccounts/forecast/read",
+  "OperationName": "Forecast usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "externalBillingAccounts/forecast",
+  "Description": "Forecast usage data for external BillingAccounts.",
+  "IsDataAction": false
+}

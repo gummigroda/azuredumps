@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/unregister/action",
+  "OperationName": "Unregister the Microsoft.DevAI",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.DevAI",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/write",
+  "OperationName": "LargeFaceList - Create|LargeFaceList - Update*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largefacelists*",
+  "Description": "Create an empty large face list with user-specified largeFaceListId, name, an optional userData and recognitionModel.\r\nUpdate information of a large face list, including name and userData.*",
+  "IsDataAction": true
+}

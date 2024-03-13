@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/featureimportances/delete",
+  "OperationName": "Feature Importance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "featureimportances*",
+  "Description": "Delete the Feature Importance associated with the Id.",
+  "IsDataAction": true
+}

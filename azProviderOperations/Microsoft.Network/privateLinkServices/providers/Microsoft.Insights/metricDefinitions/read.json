@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Private Link Service metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service metric definition",
+  "Description": "Gets the available metrics for Private Link Service",
+  "IsDataAction": false
+}

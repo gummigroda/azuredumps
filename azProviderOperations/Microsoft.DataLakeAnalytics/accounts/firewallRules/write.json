@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/firewallRules/write",
+  "OperationName": "Create or Update Firewall Rule",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Firewall Rule",
+  "Description": "Create or update a firewall rule.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/devices/read",
+  "OperationName": "Read Device/Module",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Read any device or module identity",
+  "IsDataAction": true
+}

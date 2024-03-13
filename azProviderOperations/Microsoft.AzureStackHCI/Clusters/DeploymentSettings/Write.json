@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/DeploymentSettings/Write",
+  "OperationName": "Create/update DeploymentSettings resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "DeploymentSettings",
+  "Description": "Creates or updates DeploymentSettings resource",
+  "IsDataAction": false
+}

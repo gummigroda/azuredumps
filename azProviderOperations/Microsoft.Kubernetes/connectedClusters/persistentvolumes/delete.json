@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/persistentvolumes/delete",
+  "OperationName": "Deletes/DeletesCollection persistentvolumes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "persistentvolumes",
+  "Description": "Deletes persistentvolumes",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securitySolutions/delete",
+  "OperationName": "Delete Security Solutions",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Solutions",
+  "Description": "Deletes a security solution",
+  "IsDataAction": false
+}

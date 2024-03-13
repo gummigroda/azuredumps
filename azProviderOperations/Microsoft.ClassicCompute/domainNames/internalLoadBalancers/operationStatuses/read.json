@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/internalLoadBalancers/operationStatuses/read",
+  "OperationName": "Get the Domain Names Internal Load Balancers Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Names Internal Load Balancers Operation Status",
+  "Description": "Reads the operation status for the domain names internal load balancers.",
+  "IsDataAction": false
+}

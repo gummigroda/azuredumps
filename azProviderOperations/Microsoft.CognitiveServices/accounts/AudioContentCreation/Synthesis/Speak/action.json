@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Synthesis/Speak/action",
+  "OperationName": "TTS synthesis API for all ACC voices.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "SSML synthesis",
+  "Description": "TTS synthesis API for all ACC voices.",
+  "IsDataAction": true
+}

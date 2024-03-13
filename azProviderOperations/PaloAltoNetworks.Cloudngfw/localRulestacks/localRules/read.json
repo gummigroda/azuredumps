@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/localRules/read",
+  "OperationName": "LocalRules_Get",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/localRules",
+  "Description": "Get a LocalRulesResource",
+  "IsDataAction": false
+}

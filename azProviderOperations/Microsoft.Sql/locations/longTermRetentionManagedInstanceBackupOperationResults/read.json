@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionManagedInstanceBackupOperationResults/read",
+  "OperationName": "Get manged instance long term retention backup operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Database Long Term Retention Backup",
+  "Description": "Get the status of managed instance long term retention backup operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightSparkStageTaskAccumulables/read",
+  "OperationName": "Read HDInsightSparkStageTaskAccumulables data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightSparkStageTaskAccumulables",
+  "Description": "Read data from the HDInsightSparkStageTaskAccumulables table",
+  "IsDataAction": false
+}

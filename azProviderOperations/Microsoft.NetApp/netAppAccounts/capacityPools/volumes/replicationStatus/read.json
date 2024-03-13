@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/replicationStatus/read",
+  "OperationName": "Read Volume Replication Status.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Reads the statuses of the Volume Replication.",
+  "IsDataAction": false
+}

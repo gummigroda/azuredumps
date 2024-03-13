@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/ipFilterRules/read",
+  "OperationName": "Get IP Filter Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "IPFilter",
+  "Description": "Get IP Filter Resource",
+  "IsDataAction": false
+}

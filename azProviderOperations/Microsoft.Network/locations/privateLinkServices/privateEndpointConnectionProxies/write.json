@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/privateLinkServices/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or update an private endpoint connection proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Creates a new private endpoint connection proxy, or updates an existing private endpoint connection proxy.",
+  "IsDataAction": false
+}

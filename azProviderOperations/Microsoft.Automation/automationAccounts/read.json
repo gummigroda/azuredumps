@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/read",
+  "OperationName": "Read an Azure Automation account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Gets an Azure Automation account",
+  "IsDataAction": false
+}

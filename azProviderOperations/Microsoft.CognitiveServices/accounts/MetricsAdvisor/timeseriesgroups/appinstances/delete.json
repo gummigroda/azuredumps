@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/delete",
+  "OperationName": "Delete an application instance from a time series group",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App instances of a time series group",
+  "Description": "Delete an application instance from a time series group",
+  "IsDataAction": true
+}

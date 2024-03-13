@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/operations/read",
+  "OperationName": "List Singularity Operations",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity operations",
+  "Description": "Lists Singularity available operations",
+  "IsDataAction": false
+}

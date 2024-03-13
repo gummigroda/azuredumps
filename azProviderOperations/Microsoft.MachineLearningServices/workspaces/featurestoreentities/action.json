@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/featurestoreentities/action",
+  "OperationName": "Allows action on the Machine Learning Services FeatureEntity(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "Allows action on the Machine Learning Services FeatureEntity(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apps/controllerrevisions/delete",
+  "OperationName": "Deletes/DeletesCollection controllerrevisions resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Controllerrevisions",
+  "Description": "Deletes controllerrevisions",
+  "IsDataAction": true
+}

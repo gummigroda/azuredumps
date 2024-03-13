@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/configurationSnapshots/write",
+  "OperationName": "Creates or Updates a Configuration Snapshot",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Configuration Snapshot",
+  "Description": "Creates or Updates a Configuration Snapshot",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/delete",
+  "OperationName": "DeleteImages",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Delete images from the set of training images.",
+  "IsDataAction": true
+}

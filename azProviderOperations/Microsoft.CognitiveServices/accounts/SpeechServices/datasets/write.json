@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/write",
+  "OperationName": "Update Dataset|Create Dataset*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "datasets*",
+  "Description": "Updates the mutable details of the dataset identified by its ID.\r\nUploads and creates a new dataset by getting the data from a specified URL or starts waiting for data blocks to be uploaded.*",
+  "IsDataAction": true
+}

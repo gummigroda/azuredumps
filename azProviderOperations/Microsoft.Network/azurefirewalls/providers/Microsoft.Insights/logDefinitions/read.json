@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azurefirewalls/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets the logs for Azure Firewall",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Log Definitions",
+  "Description": "Gets the events for Azure Firewall",
+  "IsDataAction": false
+}

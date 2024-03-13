@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/domainownershipidentifiers/read",
+  "OperationName": "Get Web Apps Slots Domain Ownership Identifiers",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slots Domain Ownership Identifiers",
+  "Description": "Get Web Apps Slots Domain Ownership Identifiers.",
+  "IsDataAction": false
+}

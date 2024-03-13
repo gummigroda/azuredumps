@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeFilters/join/action",
+  "OperationName": "Join Route Filter.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Filter",
+  "Description": "Joins a route filter. Not Alertable.",
+  "IsDataAction": false
+}

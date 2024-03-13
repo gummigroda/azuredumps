@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/cacheNodes/read",
+  "OperationName": "cacheNodes_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "cacheNodes",
+  "Description": "Retrieves the properties of all ConnectedCaches.",
+  "IsDataAction": false
+}

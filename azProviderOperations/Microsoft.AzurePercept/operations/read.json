@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

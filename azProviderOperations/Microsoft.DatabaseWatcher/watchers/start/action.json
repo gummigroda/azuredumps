@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/start/action",
+  "OperationName": "Watchers_Start",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers",
+  "Description": "The action to start monitoring all targets configured for a database watcher.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/skus/write",
+  "OperationName": "PutVMSkus",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "skus",
+  "Description": "Puts the VM SKUs resource type",
+  "IsDataAction": false
+}

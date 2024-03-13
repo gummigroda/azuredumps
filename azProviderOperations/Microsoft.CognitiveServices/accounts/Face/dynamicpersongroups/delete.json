@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/dynamicpersongroups/delete",
+  "OperationName": "PersonDirectory DynamicPersonGroup - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dynamicpersongroups*",
+  "Description": "Deletes an existing dynamic person group with specified dynamicPersonGroupId. Deleting this dynamic person group only delete the references to persons data. To delete actual person see <a href=\"/docs/services/face-v1-0-preview/operations/5f0665dada63d10033991e45\">PersonDirectory Person - Delete</a>.",
+  "IsDataAction": true
+}

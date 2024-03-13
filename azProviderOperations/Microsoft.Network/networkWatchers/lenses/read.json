@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/read",
+  "OperationName": "Get Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Get Lens details",
+  "IsDataAction": false
+}

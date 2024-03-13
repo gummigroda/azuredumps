@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "services",
+  "Description": "Deletes resources.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/extensions/api/action",
+  "OperationName": "Invoke App Service Extensions APIs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Site Extensions",
+  "Description": "Invoke App Service Extensions APIs.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Metrics/Write",
+  "OperationName": "Write metrics",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metrics",
+  "Description": "Write metrics",
+  "IsDataAction": true
+}

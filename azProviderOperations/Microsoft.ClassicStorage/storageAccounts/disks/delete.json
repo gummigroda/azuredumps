@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/disks/delete",
+  "OperationName": "Delete Storage Account Disk",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Disk",
+  "Description": "Deletes a given storage account  disk.",
+  "IsDataAction": false
+}

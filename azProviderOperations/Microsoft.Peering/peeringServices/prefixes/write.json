@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/prefixes/write",
+  "OperationName": "Write PeeringServicePrefixes",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "prefixes",
+  "Description": "Write any prefixes",
+  "IsDataAction": false
+}

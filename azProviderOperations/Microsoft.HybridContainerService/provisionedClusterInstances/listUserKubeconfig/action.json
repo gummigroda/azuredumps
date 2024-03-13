@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusterInstances/listUserKubeconfig/action",
+  "OperationName": "provisionedClusterInstances_ListUserKubeconfig",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusterInstances",
+  "Description": "Lists the AAD user credentials of a provisioned cluster instance used only in direct mode.",
+  "IsDataAction": false
+}

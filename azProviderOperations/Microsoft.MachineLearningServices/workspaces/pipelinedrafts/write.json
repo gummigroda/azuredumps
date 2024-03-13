@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/pipelinedrafts/write",
+  "OperationName": "Creates or updates pipeline drafts in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Pipeline Drafts",
+  "Description": "Creates or updates pipeline drafts in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

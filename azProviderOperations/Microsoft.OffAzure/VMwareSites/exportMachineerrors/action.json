@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/exportMachineerrors/action",
+  "OperationName": "Export machine errors",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Export machine errors for the entire VMware site machine inventory",
+  "IsDataAction": false
+}

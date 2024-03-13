@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/iterations/publish/delete",
+  "OperationName": "UnpublishIteration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "publish*",
+  "Description": "Unpublish a specific iteration.",
+  "IsDataAction": true
+}

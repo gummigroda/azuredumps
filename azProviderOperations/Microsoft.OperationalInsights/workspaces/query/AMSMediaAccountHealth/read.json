@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AMSMediaAccountHealth/read",
+  "OperationName": "Read AMSMediaAccountHealth data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AMSMediaAccountHealth",
+  "Description": "Read data from the AMSMediaAccountHealth table",
+  "IsDataAction": false
+}

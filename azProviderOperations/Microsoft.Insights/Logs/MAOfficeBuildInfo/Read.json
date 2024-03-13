@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeBuildInfo/Read",
+  "OperationName": "Read MAOfficeBuildInfo data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeBuildInfo",
+  "Description": "Read data from the MAOfficeBuildInfo table",
+  "IsDataAction": false
+}

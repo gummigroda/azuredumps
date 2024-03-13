@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/zones/delete",
+  "OperationName": "Delete AgFoodPlatform zones resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform zones",
+  "Description": "Deletes an existing AgFoodPlatform zones resource.",
+  "IsDataAction": true
+}

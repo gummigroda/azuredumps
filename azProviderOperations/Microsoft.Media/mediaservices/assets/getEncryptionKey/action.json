@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/getEncryptionKey/action",
+  "OperationName": "Get Asset Encryption Key",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset",
+  "Description": "Get Asset Encryption Key",
+  "IsDataAction": false
+}

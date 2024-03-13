@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/deployProcessServerImage/action",
+  "OperationName": "Deploy Process Server Image",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Deploy Process Server Image",
+  "IsDataAction": false
+}

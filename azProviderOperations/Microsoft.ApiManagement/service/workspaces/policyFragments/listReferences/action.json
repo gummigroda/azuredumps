@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policyFragments/listReferences/action",
+  "OperationName": "List policy fragment references",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy fragments",
+  "Description": "Lists policy resources that reference the policy fragment.",
+  "IsDataAction": false
+}

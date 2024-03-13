@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightHBaseMetrics/read",
+  "OperationName": "Read HDInsightHBaseMetrics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightHBaseMetrics",
+  "Description": "Read data from the HDInsightHBaseMetrics table",
+  "IsDataAction": false
+}

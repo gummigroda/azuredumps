@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/Notifications/read",
+  "OperationName": "Receive notification",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Notification",
+  "Description": "Receives ARM notifications",
+  "IsDataAction": false
+}

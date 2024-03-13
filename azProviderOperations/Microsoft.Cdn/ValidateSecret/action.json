@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/ValidateSecret/action",
+  "OperationName": "ValidateSecret",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/generateDetailedMap/action",
+  "OperationName": "Generate detailed coarse map for the list of machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Generate detailed coarse map for the list of machines",
+  "IsDataAction": false
+}

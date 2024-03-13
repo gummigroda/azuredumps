@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text:adaptiveannotate/action",
+  "OperationName": "Annotate Text by Prompt",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Safety",
+  "Description": "A remote procedure call (RPC) operation.",
+  "IsDataAction": true
+}

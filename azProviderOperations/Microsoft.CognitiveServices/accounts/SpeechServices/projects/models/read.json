@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/models/read",
+  "OperationName": "Get Models for Project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Gets the list of models for specified project.",
+  "IsDataAction": true
+}

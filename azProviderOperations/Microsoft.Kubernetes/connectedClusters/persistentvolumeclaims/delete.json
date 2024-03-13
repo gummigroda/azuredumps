@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/persistentvolumeclaims/delete",
+  "OperationName": "Deletes/DeletesCollection persistentvolumeclaims resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "persistentvolumeclaims",
+  "Description": "Deletes persistentvolumeclaims",
+  "IsDataAction": true
+}

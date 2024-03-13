@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/singleSignOnConfigurations/read",
+  "OperationName": "Get the single sign-on configurations resource",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "SingleSignOnConfigurations",
+  "Description": "Reads the single-sign-on configurations",
+  "IsDataAction": false
+}

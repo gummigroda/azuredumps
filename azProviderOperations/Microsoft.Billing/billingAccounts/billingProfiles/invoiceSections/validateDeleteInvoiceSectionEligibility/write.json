@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/validateDeleteInvoiceSectionEligibility/write",
+  "OperationName": "Validate Delete Eligibility",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Validate Delete Invoice Section Eligibility",
+  "Description": null,
+  "IsDataAction": false
+}

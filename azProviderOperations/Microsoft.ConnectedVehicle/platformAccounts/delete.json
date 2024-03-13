@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/delete",
+  "OperationName": "Deletes Connected Vehicle Platform account",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "platformAccount",
+  "Description": "Deletes Connected Vehicle Platform account",
+  "IsDataAction": false
+}

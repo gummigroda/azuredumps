@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/runs/cancel/action",
+  "OperationName": "Cancel Workflow Run",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Run",
+  "Description": "Cancels the run of a workflow.",
+  "IsDataAction": false
+}

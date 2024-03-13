@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate a connection proxy resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Connection Proxy Resource",
+  "Description": "Validate a connection proxy resource",
+  "IsDataAction": false
+}

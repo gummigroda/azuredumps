@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/properties/write",
+  "OperationName": "Create property or Update property value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of properties. Properties are used to manage constant string values across all API configurations or policies.",
+  "Description": "Creates or updates a property. or Updates the specific property.",
+  "IsDataAction": false
+}

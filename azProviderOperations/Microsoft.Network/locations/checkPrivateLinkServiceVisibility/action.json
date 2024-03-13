@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/checkPrivateLinkServiceVisibility/action",
+  "OperationName": "Check Private Link Service Visibility",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Checks Private Link Service Visibility",
+  "IsDataAction": false
+}

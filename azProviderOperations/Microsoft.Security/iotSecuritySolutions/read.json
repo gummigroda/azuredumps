@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/read",
+  "OperationName": "Get IoT security solutions",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Security Solutions",
+  "Description": "Gets IoT security solutions",
+  "IsDataAction": false
+}

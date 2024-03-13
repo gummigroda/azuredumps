@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/PrivateEndpointConnections/Write",
+  "OperationName": "Create or update a private endpoint connection",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private endpoint connection",
+  "Description": "Create or update a private endpoint connection",
+  "IsDataAction": false
+}

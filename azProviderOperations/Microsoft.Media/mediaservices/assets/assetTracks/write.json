@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/assetTracks/write",
+  "OperationName": "Create or Update Asset Track",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset Track",
+  "Description": "Create or Update any Asset Track",
+  "IsDataAction": false
+}

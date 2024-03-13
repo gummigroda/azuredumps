@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Operations",
+  "Description": "List the operations for Microsoft.SignalRService resource provider",
+  "IsDataAction": false
+}

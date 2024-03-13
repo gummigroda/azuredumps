@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/write",
+  "OperationName": "Create a Macc",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "MACC",
+  "Description": "Create a MACC",
+  "IsDataAction": false
+}

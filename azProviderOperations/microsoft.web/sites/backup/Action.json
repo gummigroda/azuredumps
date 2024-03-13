@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/backup/Action",
+  "OperationName": "Create Web App Backup",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Create a new web app backup",
+  "IsDataAction": false
+}

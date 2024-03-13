@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/runCommand/action",
+  "OperationName": "Run Command on Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Executes a predefined script on the virtual machine",
+  "IsDataAction": false
+}

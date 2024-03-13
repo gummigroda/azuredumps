@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/PrivateEndpointConnectionProxies",
+  "Description": "Validate Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

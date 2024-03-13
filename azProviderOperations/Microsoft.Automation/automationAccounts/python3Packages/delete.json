@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/python3Packages/delete",
+  "OperationName": "Delete an Azure Automation Python 3 package",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Python 3 package",
+  "Description": "Deletes an Azure Automation Python 3 package",
+  "IsDataAction": false
+}

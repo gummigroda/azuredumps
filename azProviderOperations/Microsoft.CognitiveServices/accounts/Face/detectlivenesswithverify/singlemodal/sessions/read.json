@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectLivenessWithVerify/singleModal/sessions/read",
+  "OperationName": "Face - DetectLivenessWithVerify SingleModal - Session Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Session - Delete",
+  "Description": "<p>Reads the state of detectLivenessWithVerify/singleModal session.</p>",
+  "IsDataAction": true
+}

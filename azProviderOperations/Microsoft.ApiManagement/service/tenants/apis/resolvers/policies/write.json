@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/resolvers/policies/write",
+  "OperationName": "Set GraphQL API policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy configuration at the GraphQL API resolver level.",
+  "Description": "Creates or updates policy configuration for the GraphQL API.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/cloudServicesNetworks/join/action",
+  "OperationName": "CloudServicesNetworks_Join",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "cloudServicesNetworks",
+  "Description": "Join a cloud services network.",
+  "IsDataAction": false
+}

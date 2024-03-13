@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/nodetypes/read",
+  "OperationName": "Read Node Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Node Types",
+  "Description": "Read any Node Type",
+  "IsDataAction": false
+}

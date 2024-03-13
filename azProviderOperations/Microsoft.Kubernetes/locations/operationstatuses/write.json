@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/locations/operationstatuses/write",
+  "OperationName": "Write operation statuses of connected clusters",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "connectedClusters",
+  "Description": "Write Operation Statuses",
+  "IsDataAction": false
+}

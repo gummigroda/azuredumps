@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read hosting environments log definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments",
+  "Description": "Read hosting environments log definitions",
+  "IsDataAction": false
+}

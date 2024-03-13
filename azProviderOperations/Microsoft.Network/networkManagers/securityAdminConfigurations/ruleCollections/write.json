@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/write",
+  "OperationName": "Create Or Update Security Admin Rule Collection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Rule Collection",
+  "Description": "Create Or Update Security Admin Rule Collection",
+  "IsDataAction": false
+}

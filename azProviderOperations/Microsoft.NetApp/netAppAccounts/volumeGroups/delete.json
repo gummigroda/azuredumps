@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/volumeGroups/delete",
+  "OperationName": "Delete volume group resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volume Group resource type",
+  "Description": "Deletes a volume group resource.",
+  "IsDataAction": false
+}

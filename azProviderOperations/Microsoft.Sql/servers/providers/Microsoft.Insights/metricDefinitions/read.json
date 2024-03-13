@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get server metric definitions",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Metric Definition",
+  "Description": "Return types of metrics that are available for servers",
+  "IsDataAction": false
+}

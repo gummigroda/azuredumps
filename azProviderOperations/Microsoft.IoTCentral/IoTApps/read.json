@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/read",
+  "OperationName": "Get/List IoTApp resource(s)",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Read IoTApp resources",
+  "IsDataAction": false
+}

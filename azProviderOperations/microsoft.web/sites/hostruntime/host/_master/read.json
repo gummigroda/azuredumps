@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/hostruntime/host/_master/read",
+  "OperationName": "Get Function App master key",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Function App",
+  "Description": "Get Function App's master key for admin operations",
+  "IsDataAction": false
+}

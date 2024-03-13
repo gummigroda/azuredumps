@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/locations/checkTrialAvailability/read",
+  "OperationName": "Check Trial Availability",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "locations/checkTrialAvailability",
+  "Description": "Checks if trial is available for the subscription",
+  "IsDataAction": false
+}

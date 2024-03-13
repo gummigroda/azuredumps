@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/inboundNatRules/delete",
+  "OperationName": "Delete Load Balancer Inbound Nat Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Inbound Nat Rule",
+  "Description": "Deletes a load balancer inbound nat rule",
+  "IsDataAction": false
+}

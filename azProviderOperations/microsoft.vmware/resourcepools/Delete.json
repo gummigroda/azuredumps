@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/resourcepools/Delete",
+  "OperationName": "Deletes resourcepools resource",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "resourcepools",
+  "Description": "Deletes resourcepools",
+  "IsDataAction": false
+}

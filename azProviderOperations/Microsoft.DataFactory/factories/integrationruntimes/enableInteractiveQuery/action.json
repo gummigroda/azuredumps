@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/enableInteractiveQuery/action",
+  "OperationName": "Enable interactive authoring session",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Enable interactive authoring session.",
+  "IsDataAction": false
+}

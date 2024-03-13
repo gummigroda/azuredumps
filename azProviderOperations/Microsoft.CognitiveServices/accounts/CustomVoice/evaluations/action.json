@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/evaluations/action",
+  "OperationName": "Creates a new evaluation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Creates a new evaluation.",
+  "IsDataAction": true
+}

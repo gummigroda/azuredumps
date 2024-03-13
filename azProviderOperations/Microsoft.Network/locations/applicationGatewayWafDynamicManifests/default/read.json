@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/applicationGatewayWafDynamicManifests/default/read",
+  "OperationName": "Get Application Gateway Waf Dynamic Manifest Default entry",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Get the sanitized application gateway dynamic manifest",
+  "Description": "Get Application Gateway Waf Dynamic Manifest Default entry",
+  "IsDataAction": false
+}

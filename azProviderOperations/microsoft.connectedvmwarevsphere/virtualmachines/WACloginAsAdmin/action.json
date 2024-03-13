@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/WACloginAsAdmin/action",
+  "OperationName": "Lets you manage the OS of your resource via Windows Admin Center as an administrator.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines",
+  "Description": "Lets you manage the OS of your resource via Windows Admin Center as an administrator.",
+  "IsDataAction": true
+}

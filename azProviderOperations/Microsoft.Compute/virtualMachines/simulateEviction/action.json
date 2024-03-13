@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/simulateEviction/action",
+  "OperationName": "Simulate Eviction of spot Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Simulates the eviction of spot Virtual Machine",
+  "IsDataAction": false
+}

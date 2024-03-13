@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/managementZonesCascadeDeleteJobs/read",
+  "OperationName": "Get or List AgFoodPlatform managementZonesCascadeDeleteJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform managementZonesCascadeDeleteJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform managementZonesCascadeDeleteJobs resource(s).",
+  "IsDataAction": true
+}

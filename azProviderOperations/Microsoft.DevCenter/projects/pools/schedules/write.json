@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/schedules/write",
+  "OperationName": "Schedules_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools/schedules",
+  "Description": "Partially updates a Scheduled.",
+  "IsDataAction": false
+}

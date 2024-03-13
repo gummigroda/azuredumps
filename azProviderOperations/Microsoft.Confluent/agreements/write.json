@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/agreements/write",
+  "OperationName": "Accept terms",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "agreements",
+  "Description": "Accept the marketplace agreements",
+  "IsDataAction": false
+}

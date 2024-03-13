@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/certificates/delete",
+  "OperationName": "Delete Managed Environment's Certificate",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Delete a Managed Environment's Certificate",
+  "IsDataAction": false
+}

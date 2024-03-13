@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/availableClusterRegions/read",
+  "OperationName": "List available clusters read operation",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Non Resource Operation",
+  "Description": "Read operation to list available pre-provisioned clusters by Azure region.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/sqlAssessments/read",
+  "OperationName": "Get SQL Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Assessments",
+  "Description": "Gets the properties of an SQL assessment",
+  "IsDataAction": false
+}

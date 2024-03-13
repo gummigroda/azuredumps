@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifacts/read",
+  "OperationName": "ProxyArtifact_List",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifacts",
+  "Description": "Lists all the available artifacts in the parent Artifact Store.",
+  "IsDataAction": false
+}

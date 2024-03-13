@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/mqttBridgeConnector/topicMap/read",
+  "OperationName": "MqttBridgeTopicMap_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/mqttBridgeConnector/topicMap",
+  "Description": "Get a MqttBridgeTopicMapResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/diagnostics/diskInspection/read",
+  "OperationName": "Get DiskInspection Diagnostics",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Diagnostics",
+  "Description": "Gets the properties of DiskInspection Diagnostic",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/draftPackages/read",
+  "OperationName": "DraftPackages_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/draftPackages",
+  "Description": "Gets a Test Base Draft Package.",
+  "IsDataAction": false
+}

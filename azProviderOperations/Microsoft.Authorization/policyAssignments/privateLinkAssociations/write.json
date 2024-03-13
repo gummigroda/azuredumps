@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/privateLinkAssociations/write",
+  "OperationName": "Write a Private Link Association",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Link Association",
+  "Description": "Creates or updates a private link association.",
+  "IsDataAction": false
+}

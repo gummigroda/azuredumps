@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/delete",
+  "OperationName": "AccessControlLists_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "Implements Access Control List DELETE method.",
+  "IsDataAction": false
+}

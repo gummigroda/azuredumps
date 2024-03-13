@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/maintenanceConfigurations/delete",
+  "OperationName": "Delete Maintenance Configuration",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Maintenance Configurations",
+  "Description": "Deletes a maintenance configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/Delete",
+  "OperationName": "Deletes Code Signing Accounts",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CodeSigningAccounts",
+  "Description": "Deletes code signing accounts.",
+  "IsDataAction": false
+}

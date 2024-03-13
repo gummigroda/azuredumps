@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/metricdefinitions/Read",
+  "OperationName": "Read Metric Definitions",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Metric Definitions",
+  "Description": "Read Metric Definitions",
+  "IsDataAction": false
+}

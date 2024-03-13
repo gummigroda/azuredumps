@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/keys/read",
+  "OperationName": "Get Keys",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Key Management",
+  "Description": "Retrieve the keys for the model.",
+  "IsDataAction": true
+}

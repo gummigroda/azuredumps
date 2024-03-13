@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/user/send/action",
+  "OperationName": "Send messages to user",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/User",
+  "Description": "Send messages to user, who may consist of multiple client connections",
+  "IsDataAction": true
+}

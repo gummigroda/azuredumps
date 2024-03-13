@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHCPActivity/Read",
+  "OperationName": "Read DHCPActivity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHCPActivity",
+  "Description": "Read data from the DHCPActivity table",
+  "IsDataAction": false
+}

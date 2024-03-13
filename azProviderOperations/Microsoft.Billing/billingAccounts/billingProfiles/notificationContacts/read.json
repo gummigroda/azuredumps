@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/notificationContacts/read",
+  "OperationName": "NotificationContactsByBillingProfile_ListByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Notification Contacts",
+  "Description": "Lists the NotificationContacts for the given billing profile. The operation is supported only for billing profiles with agreement type Enterprise Agreement.",
+  "IsDataAction": false
+}

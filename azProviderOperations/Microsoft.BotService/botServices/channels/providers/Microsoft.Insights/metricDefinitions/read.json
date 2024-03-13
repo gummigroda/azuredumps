@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/channels/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

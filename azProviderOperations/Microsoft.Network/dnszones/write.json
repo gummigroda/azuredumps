@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/write",
+  "OperationName": "Create or Update DNS Zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Zone",
+  "Description": "Create or update a DNS zone within a resource group.  Used to update the tags on a DNS zone resource. Note that this command can not be used to create or update record sets within the zone.",
+  "IsDataAction": false
+}

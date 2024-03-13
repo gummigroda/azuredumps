@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/nestedEndpoints/write",
+  "OperationName": "Create or Update a Traffic Manager Nested Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Nested Endpoint",
+  "Description": "Add a new Nested Endpoint in an existing Traffic Manager Profile or update the properties of an existing Nested Endpoint in that Traffic Manager Profile.",
+  "IsDataAction": false
+}

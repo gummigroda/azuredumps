@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/healthProbeSettings/write",
+  "OperationName": "Creates or updates health probe settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Health Probe Settings",
+  "Description": "Creates or updates health probe settings",
+  "IsDataAction": false
+}

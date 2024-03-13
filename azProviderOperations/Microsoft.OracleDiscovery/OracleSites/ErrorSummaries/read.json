@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/ErrorSummaries/read",
+  "OperationName": "ErrorSummaries_ListBySite",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/ErrorSummaries",
+  "Description": "Lists the ErrorSummaries resource in OracleSites.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/mqttBridgeConnector/write",
+  "OperationName": "MqttBridgeConnector_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/mqttBridgeConnector",
+  "Description": "Update a MqttBridgeConnectorResource",
+  "IsDataAction": false
+}

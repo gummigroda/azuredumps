@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/register/action",
+  "OperationName": "Register the Microsoft.AzurePercept",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzurePercept",
+  "IsDataAction": false
+}

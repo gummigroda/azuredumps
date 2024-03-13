@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/entities/action",
+  "OperationName": "Recognize Entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Analytics Service",
+  "Description": "The API returns a list of known entities and general named entities (\\\"Person\\\", \\\"Location\\\", \\\"Organization\\\" etc) in a given document.",
+  "IsDataAction": true
+}

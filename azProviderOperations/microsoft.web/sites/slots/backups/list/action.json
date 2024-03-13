@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/backups/list/action",
+  "OperationName": "List Web Apps Slots Backups",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Backups",
+  "Description": "List Web Apps Slots Backups.",
+  "IsDataAction": false
+}

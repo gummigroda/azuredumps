@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/bigDataPools/delete",
+  "OperationName": "Delete Spark pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Spark pools",
+  "Description": "Delete any Spark pools.",
+  "IsDataAction": false
+}

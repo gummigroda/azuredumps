@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/delete",
+  "OperationName": "Delete Load Balancer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Deletes a load balancer",
+  "IsDataAction": false
+}

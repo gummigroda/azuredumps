@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/privateaccess/read",
+  "OperationName": "Get Web Apps Private Access",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Private Access",
+  "Description": "Get data around private site access enablement and authorized Virtual Networks that can access the site.",
+  "IsDataAction": false
+}

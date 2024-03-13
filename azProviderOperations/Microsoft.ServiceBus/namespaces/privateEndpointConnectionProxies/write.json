@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/privateEndpointConnectionProxies/write",
+  "OperationName": "Create Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Create Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

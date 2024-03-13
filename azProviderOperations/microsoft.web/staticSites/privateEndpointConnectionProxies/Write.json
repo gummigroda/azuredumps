@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/privateEndpointConnectionProxies/Write",
+  "OperationName": "Create or Update Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Private Endpoint Connection Proxies",
+  "Description": "Create or Update Private Endpoint Connection Proxies for a Static Site",
+  "IsDataAction": false
+}

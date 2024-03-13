@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apis/policy/read",
+  "OperationName": "Gets/List policy resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Policy",
+  "Description": "Reads policy",
+  "IsDataAction": true
+}

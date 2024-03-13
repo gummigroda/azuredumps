@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/batch/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "",
+  "Description": "Batch deletes Azure Arc machines",
+  "IsDataAction": false
+}

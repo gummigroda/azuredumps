@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders/remove/action",
+  "OperationName": "Remove Recovery Services Provider",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Services Providers",
+  "Description": "Remove Recovery Services Provider",
+  "IsDataAction": false
+}

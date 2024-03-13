@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/listActiveConnectivityConfigurations/action",
+  "OperationName": "List Active Connectivity Configurations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Lists Active Connectivity Configurations",
+  "IsDataAction": false
+}

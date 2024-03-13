@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Mongo Cluster Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster",
+  "Description": "Manage a private endpoint connection of Mongo Cluster",
+  "IsDataAction": false
+}

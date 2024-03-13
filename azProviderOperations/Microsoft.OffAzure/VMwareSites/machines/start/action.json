@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/machines/start/action",
+  "OperationName": "Start VMware machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Start VMware machines",
+  "IsDataAction": false
+}

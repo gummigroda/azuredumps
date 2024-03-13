@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/firewallRulesAzureAsyncOperation/read",
+  "OperationName": "Gets the status of a firewall rule operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Firewall Rule",
+  "Description": "Gets the status of a firewall rule operation.",
+  "IsDataAction": false
+}

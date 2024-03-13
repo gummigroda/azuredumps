@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/powerOff/action",
+  "OperationName": "Power Off Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Powers off the instances of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

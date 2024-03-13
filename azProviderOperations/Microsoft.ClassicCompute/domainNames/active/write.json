@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/active/write",
+  "OperationName": "Set Active Domain Name",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Active Domain Name",
+  "Description": "Sets the active domain name.",
+  "IsDataAction": false
+}

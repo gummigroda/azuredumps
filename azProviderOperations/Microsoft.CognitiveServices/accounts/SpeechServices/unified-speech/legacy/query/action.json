@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/unified-speech/legacy/query/action",
+  "OperationName": "The Speech Service legacy REST api.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Unified Speech APIs",
+  "Description": "The Speech Service legacy REST api.",
+  "IsDataAction": true
+}

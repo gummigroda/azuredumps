@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/azureaccounts/read",
+  "OperationName": "Get LUIS Azure accounts of th user",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Azure accounts",
+  "Description": "Gets the LUIS Azure accounts for the user using his ARM token.",
+  "IsDataAction": true
+}

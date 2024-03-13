@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/connectionPolicies/read",
+  "OperationName": "Read connectionPolicies",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "connectionPolicies",
+  "Description": "Read the connectionPolicies to see packages present.",
+  "IsDataAction": false
+}

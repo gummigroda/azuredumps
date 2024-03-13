@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/inventoryPolicies/delete",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

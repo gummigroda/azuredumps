@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/sensors/write",
+  "OperationName": "Sensors_Update",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/sensors",
+  "Description": "write sensors",
+  "IsDataAction": false
+}

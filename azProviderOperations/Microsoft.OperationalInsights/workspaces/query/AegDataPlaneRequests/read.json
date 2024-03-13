@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AegDataPlaneRequests/read",
+  "OperationName": "Read AegDataPlaneRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AegDataPlaneRequests",
+  "Description": "Read data from the AegDataPlaneRequests table",
+  "IsDataAction": false
+}

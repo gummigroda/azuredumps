@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/localusers/regeneratePassword/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Local User",
+  "Description": null,
+  "IsDataAction": false
+}

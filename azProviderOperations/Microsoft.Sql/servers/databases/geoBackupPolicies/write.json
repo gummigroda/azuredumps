@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/geoBackupPolicies/write",
+  "OperationName": "Set a geobackup policy on a database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "A Database GeoBackup policy",
+  "Description": "Create or update a database geobackup policy",
+  "IsDataAction": false
+}

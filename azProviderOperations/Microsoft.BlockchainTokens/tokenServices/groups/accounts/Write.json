@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/groups/accounts/Write",
+  "OperationName": "Create/update accounts resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "accounts",
+  "Description": "Writes accounts",
+  "IsDataAction": false
+}

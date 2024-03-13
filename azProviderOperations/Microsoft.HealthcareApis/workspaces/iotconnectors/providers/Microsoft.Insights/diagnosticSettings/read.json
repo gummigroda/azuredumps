@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/iotconnectors/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Azure service diagnostic settings.",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure service diagnostic settings.",
+  "Description": "Gets the diagnostic settings for the Azure service.",
+  "IsDataAction": false
+}

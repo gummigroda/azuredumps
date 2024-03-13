@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesPolicyChange/read",
+  "OperationName": "Read AADDomainServicesPolicyChange data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesPolicyChange",
+  "Description": "Read data from the AADDomainServicesPolicyChange table",
+  "IsDataAction": false
+}

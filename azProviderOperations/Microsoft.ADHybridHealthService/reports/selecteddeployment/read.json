@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/selecteddeployment/read",
+  "OperationName": "Gets selected deployment.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets selected deployment for the given tenant.",
+  "IsDataAction": false
+}

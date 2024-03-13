@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/write",
+  "OperationName": "Create Or Update Security User Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Configuration",
+  "Description": "Create Or Update Security User Configuration",
+  "IsDataAction": false
+}

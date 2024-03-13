@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/batchConfigurations/delete",
+  "OperationName": "Delete Integration Account Batch Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Batch Configuration",
+  "Description": "Deletes the batch configuration in integration account.",
+  "IsDataAction": false
+}

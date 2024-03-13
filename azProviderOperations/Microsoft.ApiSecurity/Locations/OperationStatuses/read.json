@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

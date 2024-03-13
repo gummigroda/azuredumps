@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/forceReboot/action",
+  "OperationName": "Force reboot a cache instance, potentially with data loss.",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Force reboot a cache instance, potentially with data loss.",
+  "IsDataAction": false
+}

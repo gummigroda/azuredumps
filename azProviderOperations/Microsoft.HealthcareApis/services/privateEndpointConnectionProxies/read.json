@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateEndpointConnectionProxies/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Endpoint Connection Proxies.",
+  "Description": "Reads Private Endpoint Connection Proxy resources.",
+  "IsDataAction": false
+}

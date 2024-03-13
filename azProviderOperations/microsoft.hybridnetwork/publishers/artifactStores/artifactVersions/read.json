@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifactVersions/read",
+  "OperationName": "ProxyArtifact_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifactVersions",
+  "Description": "Get a Artifact overview information.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts/read",
+  "OperationName": "List Storage Accounts",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Storage Accounts",
+  "Description": "Lists or gets the Storage Accounts",
+  "IsDataAction": false
+}

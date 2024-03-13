@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l2Networks/delete",
+  "OperationName": "L2Networks_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l2Networks",
+  "Description": "Delete the provided layer 2 (L2) network.",
+  "IsDataAction": false
+}

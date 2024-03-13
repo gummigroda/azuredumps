@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/deployments/chat/completions/action",
+  "OperationName": "Creates a completion for the chat message",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Creates a completion for the chat message",
+  "IsDataAction": true
+}

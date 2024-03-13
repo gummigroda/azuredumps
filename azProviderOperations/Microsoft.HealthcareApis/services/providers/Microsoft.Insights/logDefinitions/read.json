@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Azure API for FHIR log definitions",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure API for FHIR log definition",
+  "Description": "Gets the available logs for Azure API for FHIR",
+  "IsDataAction": false
+}

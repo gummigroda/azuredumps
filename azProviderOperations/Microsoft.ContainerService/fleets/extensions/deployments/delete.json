@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/deployments/delete",
+  "OperationName": "Deletes/DeletesCollection deployments resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Deployments",
+  "Description": "Deletes deployments",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roles/write",
+  "OperationName": "Scale instances in a Role",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CloudService Roles",
+  "Description": "Scale instances in a Role",
+  "IsDataAction": false
+}

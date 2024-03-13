@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/cdnwebapplicationfirewallmanagedrulesets/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "WebApplicationFirewallManagedRuleSetDefinition",
+  "Description": null,
+  "IsDataAction": false
+}

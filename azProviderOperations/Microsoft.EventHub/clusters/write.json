@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/write",
+  "OperationName": "Write on Cluster Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Cluster",
+  "Description": "Creates or modifies an existing Cluster resource.",
+  "IsDataAction": false
+}

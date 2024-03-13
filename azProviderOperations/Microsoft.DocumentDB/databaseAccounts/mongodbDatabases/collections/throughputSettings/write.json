@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/write",
+  "OperationName": "Write MongoDB collection throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB collection throughput setting",
+  "Description": "Update a MongoDB collection throughput.",
+  "IsDataAction": false
+}

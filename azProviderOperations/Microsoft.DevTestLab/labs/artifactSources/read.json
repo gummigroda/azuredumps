@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/artifactSources/read",
+  "OperationName": "Read artifact sources.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Artifact sources",
+  "Description": "Read artifact sources.",
+  "IsDataAction": false
+}

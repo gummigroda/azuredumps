@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/read",
+  "OperationName": "GetProject|GetProjects*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Get a specific project.\r\nGet your projects.*",
+  "IsDataAction": true
+}

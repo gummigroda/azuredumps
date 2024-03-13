@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/privateEndpointConnectionProxies/write",
+  "OperationName": "Change state of Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Change the state of a connection proxy to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

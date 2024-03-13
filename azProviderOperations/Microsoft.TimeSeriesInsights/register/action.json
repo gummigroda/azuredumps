@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/register/action",
+  "OperationName": "Registers the Time Series Insights Resource Provider",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Time Series Insights resource provider and enables the creation of Time Series Insights environments.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkFunctionDefinitionGroups/previewSubscriptions/delete",
+  "OperationName": "PreviewSubscriptions_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkFunctionDefinitionGroups/previewSubscriptions",
+  "Description": "Deletes a preview subscription resource.",
+  "IsDataAction": false
+}

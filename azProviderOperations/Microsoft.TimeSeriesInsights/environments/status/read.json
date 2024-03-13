@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/status/read",
+  "OperationName": "Read Environment status",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Environment",
+  "Description": "Get the status of the environment, state of its associated operations like ingress.",
+  "IsDataAction": false
+}

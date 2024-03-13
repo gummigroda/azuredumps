@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/modeling/Delete",
+  "OperationName": "Delete account's modeling resource",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts/modeling",
+  "Description": "Deletes account's modeling resource",
+  "IsDataAction": false
+}

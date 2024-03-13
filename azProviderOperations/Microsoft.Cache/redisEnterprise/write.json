@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/write",
+  "OperationName": "Manage Redis Enterprise cache (write)",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache",
+  "Description": "Modify the Redis Enterprise cache's settings and configuration in the management portal",
+  "IsDataAction": false
+}

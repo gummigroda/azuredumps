@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/tenants/workspaces/write",
+  "OperationName": "Create/Update a Workspace",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspaces",
+  "Description": "Creates or updates the specified Power BI Workspace.",
+  "IsDataAction": false
+}

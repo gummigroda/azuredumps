@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/requiredFor/read",
+  "OperationName": "Gets the resources which will use the resource passed in query parameter",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Gets the resources which will use the resource passed in query parameter",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/solutions/read",
+  "OperationName": "Get existing OMS solution",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Solution",
+  "Description": "Get exiting OMS solution",
+  "IsDataAction": false
+}

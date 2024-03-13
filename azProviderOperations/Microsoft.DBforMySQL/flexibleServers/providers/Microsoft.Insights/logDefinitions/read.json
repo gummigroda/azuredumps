@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read the log definitions",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "The log definition of servers",
+  "Description": "Gets the available logs for MySQL servers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/settings/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write keyspace throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Keyspace throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Update a keyspace throughput. Only applicable to API types: 'cassandra'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/delete",
+  "OperationName": "BareMetalMachineKeySets_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/bareMetalMachineKeySets",
+  "Description": "Delete the bare metal machine key set of the provided cluster.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/customImages/write",
+  "OperationName": "Add or modify custom images.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "custom images",
+  "Description": "Add or modify custom images.",
+  "IsDataAction": false
+}

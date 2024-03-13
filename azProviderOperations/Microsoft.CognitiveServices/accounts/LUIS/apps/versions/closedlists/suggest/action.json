@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/suggest/action",
+  "OperationName": "models - Suggest new entries for closed list ",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlists",
+  "Description": "suggest new entries for existing or newly created closed lists",
+  "IsDataAction": true
+}

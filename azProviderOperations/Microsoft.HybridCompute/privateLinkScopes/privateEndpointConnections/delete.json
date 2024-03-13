@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/delete",
+  "OperationName": "Delete Azure Arc privateEndpointConnections",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnections",
+  "Description": "Deletes an Azure Arc privateEndpointConnections",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/resourcehealthmetadata/read",
+  "OperationName": "Get Web Apps Slots Resource Health Metadata",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Resource Health Metadata",
+  "Description": "Get Web Apps Slots Resource Health Metadata.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/privateLinkResources/read",
+  "OperationName": "Get Private Link Resource",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Private Link",
+  "Description": "Get Private Link Resource",
+  "IsDataAction": false
+}

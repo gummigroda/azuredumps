@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartDetectorAlertRules/delete",
+  "OperationName": "Delete Smart Detector alert rule",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartDetectorAlertRules",
+  "Description": "Delete Smart Detector alert rule in a given subscription",
+  "IsDataAction": false
+}

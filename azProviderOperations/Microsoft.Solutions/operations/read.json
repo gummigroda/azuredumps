@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

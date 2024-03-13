@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/webhooks/delete",
+  "OperationName": "Webhooks_Delete",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/webhooks",
+  "Description": "Delete an AppComplianceAutomation webhook.",
+  "IsDataAction": false
+}

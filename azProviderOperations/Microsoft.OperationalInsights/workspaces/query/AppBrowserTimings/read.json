@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppBrowserTimings/read",
+  "OperationName": "Read AppBrowserTimings data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppBrowserTimings",
+  "Description": "Read data from the AppBrowserTimings table",
+  "IsDataAction": false
+}

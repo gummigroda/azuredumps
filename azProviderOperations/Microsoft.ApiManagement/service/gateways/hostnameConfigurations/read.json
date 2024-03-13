@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/hostnameConfigurations/read",
+  "OperationName": "Get hostname configuration list or Get hostname configuration details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway hostname configurations",
+  "Description": "Lists the collection of hostname configurations for the specified gateway. or Get details of a hostname configuration",
+  "IsDataAction": false
+}

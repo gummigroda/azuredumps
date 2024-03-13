@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADPDiagnostics/read",
+  "OperationName": "Read ADPDiagnostics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADPDiagnostics",
+  "Description": "Read data from the ADPDiagnostics table",
+  "IsDataAction": false
+}

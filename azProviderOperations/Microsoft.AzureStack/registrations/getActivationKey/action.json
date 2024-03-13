@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/getActivationKey/action",
+  "OperationName": "Get Azure Stack Activation Key",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Registration",
+  "Description": "Gets the latest Azure Stack activation key",
+  "IsDataAction": false
+}

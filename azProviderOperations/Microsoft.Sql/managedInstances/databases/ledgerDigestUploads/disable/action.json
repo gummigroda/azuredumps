@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/ledgerDigestUploads/disable/action",
+  "OperationName": "Disable uploading ledger digests",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Database ledger digest upload settings",
+  "Description": "Disable uploading ledger digests",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/operations/read",
+  "OperationName": "List available cache operations",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Available cache operations",
+  "Description": "Lists operations available for the Azure HPC Cache",
+  "IsDataAction": false
+}

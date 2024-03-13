@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/tasks/read",
+  "OperationName": "Get security recommendations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Recommendations",
+  "Description": "Gets all available security recommendations",
+  "IsDataAction": false
+}

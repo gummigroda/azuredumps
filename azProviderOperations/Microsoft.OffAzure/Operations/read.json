@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/Operations/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Microsoft.OffAzure/VMwareSites",
+  "Description": "Reads the exposed operations",
+  "IsDataAction": false
+}

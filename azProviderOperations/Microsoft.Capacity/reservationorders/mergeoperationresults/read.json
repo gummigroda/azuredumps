@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/mergeoperationresults/read",
+  "OperationName": "Poll Reservation merge operation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Poll any merge operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/delete",
+  "OperationName": "TestBaseAccounts_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts",
+  "Description": "Deletes a Test Base Account.",
+  "IsDataAction": false
+}

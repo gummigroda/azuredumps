@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabricMesh/applications/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft ServiceFabricMesh",
+  "ResourceName": "Applications",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

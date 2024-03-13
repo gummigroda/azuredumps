@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/WorkItemConfigs/Delete",
+  "OperationName": "Application Insights ALM integration configuration delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights ALM integration configuration",
+  "Description": "Deleting an Application Insights ALM integration configuration",
+  "IsDataAction": false
+}

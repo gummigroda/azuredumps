@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/accounts/listUserRoles/action",
+  "OperationName": "List user roles configured on Logz.io side",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Accounts",
+  "Description": "List user roles configured on Logz.io side",
+  "IsDataAction": false
+}

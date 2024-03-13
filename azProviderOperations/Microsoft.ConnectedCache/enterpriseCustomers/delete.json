@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseCustomers/delete",
+  "OperationName": "enterpriseCustomers_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseCustomers",
+  "Description": "Deletes an existing customer Enterprise resource.",
+  "IsDataAction": false
+}

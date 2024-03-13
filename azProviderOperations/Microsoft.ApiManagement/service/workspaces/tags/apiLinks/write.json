@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/tags/apiLinks/write",
+  "OperationName": "Create Tag-API link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tag-API links resource",
+  "Description": "Creates or Updates a Tag-API link.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/slotcopy/action",
+  "OperationName": "Copy content from one deployment slot to another",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Copy content from one deployment slot to another.",
+  "IsDataAction": false
+}

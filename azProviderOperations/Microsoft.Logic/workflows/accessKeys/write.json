@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/accessKeys/write",
+  "OperationName": "Set Access Key",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Access Key",
+  "Description": "Creates or updates the access key.",
+  "IsDataAction": false
+}

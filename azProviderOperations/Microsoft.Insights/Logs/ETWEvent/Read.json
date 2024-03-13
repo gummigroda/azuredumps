@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ETWEvent/Read",
+  "OperationName": "Read ETWEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ETWEvent",
+  "Description": "Read data from the ETWEvent table",
+  "IsDataAction": false
+}

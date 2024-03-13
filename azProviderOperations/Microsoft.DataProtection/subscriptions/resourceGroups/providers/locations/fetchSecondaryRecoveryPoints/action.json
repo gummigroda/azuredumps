@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action",
+  "OperationName": "Fetch secondary recovery points.",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Jobs",
+  "Description": "Returns recovery points from secondary region for cross region restore enabled Backup Vaults.",
+  "IsDataAction": false
+}

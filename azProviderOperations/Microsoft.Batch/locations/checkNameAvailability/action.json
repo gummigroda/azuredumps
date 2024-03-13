@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/locations/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Name Availability",
+  "Description": "Checks that the account name is valid and not in use.",
+  "IsDataAction": false
+}

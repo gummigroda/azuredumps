@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datasets/registered/preview/read",
+  "OperationName": "Gets dataset preview for registered datasets in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Datasets",
+  "Description": "Gets dataset preview for registered datasets in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

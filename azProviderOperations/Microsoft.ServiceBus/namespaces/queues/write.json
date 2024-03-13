@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/write",
+  "OperationName": "Create or Update Queue",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue",
+  "Description": "Create or Update Queue properties.",
+  "IsDataAction": false
+}

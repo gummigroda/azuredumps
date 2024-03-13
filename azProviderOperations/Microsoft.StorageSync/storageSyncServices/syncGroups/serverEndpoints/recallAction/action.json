@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/recallAction/action",
+  "OperationName": "recallAction",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Server Endpoints",
+  "Description": "Call this action to recall files to a server",
+  "IsDataAction": false
+}

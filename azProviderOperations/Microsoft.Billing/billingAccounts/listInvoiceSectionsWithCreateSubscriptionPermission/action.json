@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/listInvoiceSectionsWithCreateSubscriptionPermission/action",
+  "OperationName": "Lists Invoice Sections with create subscription permission.",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

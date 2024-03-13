@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Reads Kusto metric definitions",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "The metric definition of Kusto",
+  "Description": "Gets the metric definitions of the resource",
+  "IsDataAction": false
+}

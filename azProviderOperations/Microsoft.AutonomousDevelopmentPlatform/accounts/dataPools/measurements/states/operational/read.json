@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/operational/read",
+  "OperationName": "Read Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operational Measurements",
+  "Description": "Read and list measurement metadata in state Operational & list data streams within measurement in Operational state",
+  "IsDataAction": true
+}

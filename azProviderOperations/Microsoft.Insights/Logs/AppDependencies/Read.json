@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppDependencies/Read",
+  "OperationName": "Read AppDependencies data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppDependencies",
+  "Description": "Read data from the AppDependencies table",
+  "IsDataAction": false
+}

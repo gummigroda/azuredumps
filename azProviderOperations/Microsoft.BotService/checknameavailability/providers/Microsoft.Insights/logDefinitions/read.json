@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/checknameavailability/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read checknameavailability log definitions",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Gets the available logs for <Name of the resource>",
+  "IsDataAction": false
+}

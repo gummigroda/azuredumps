@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/train/action",
+  "OperationName": "LargePersonGroup - Train",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largepersongroups*",
+  "Description": "Submit a large person group training task. Training is a crucial step that only a trained large person group can be used",
+  "IsDataAction": true
+}

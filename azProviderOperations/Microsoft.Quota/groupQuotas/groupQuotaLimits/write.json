@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/groupQuotaLimits/write",
+  "OperationName": "Creates GroupQuota resource Quota limit request",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "GroupQuota Resource Quota limit",
+  "Description": "Creates the GroupQuota request for the specified resource",
+  "IsDataAction": false
+}

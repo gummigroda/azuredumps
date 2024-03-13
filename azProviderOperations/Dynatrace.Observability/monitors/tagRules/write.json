@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/tagRules/write",
+  "OperationName": "Create/Update tag rules resource",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "TagRules",
+  "Description": "Write tag rules",
+  "IsDataAction": false
+}

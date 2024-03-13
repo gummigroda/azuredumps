@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/builds/getLogLink/action",
+  "OperationName": "Get log link for a build.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets a link to download the build logs.",
+  "IsDataAction": false
+}

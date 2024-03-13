@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/migrate/action",
+  "OperationName": "Migrate namespace operation",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace",
+  "Description": "Migrate namespace operation",
+  "IsDataAction": false
+}

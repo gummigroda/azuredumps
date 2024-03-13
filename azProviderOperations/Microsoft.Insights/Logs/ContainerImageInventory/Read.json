@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ContainerImageInventory/Read",
+  "OperationName": "Read ContainerImageInventory data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ContainerImageInventory",
+  "Description": "Read data from the ContainerImageInventory table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/unregister/action",
+  "OperationName": "Unregister the Qumulo.Storage",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Qumulo.Storage",
+  "IsDataAction": false
+}

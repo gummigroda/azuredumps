@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/delete",
+  "OperationName": "Delete DataLakeStore Account",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Account",
+  "Description": "Delete a DataLakeStore account.",
+  "IsDataAction": false
+}

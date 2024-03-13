@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/delete",
+  "OperationName": "Delete IoTApp resource",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Delete IoTApp resource",
+  "IsDataAction": false
+}

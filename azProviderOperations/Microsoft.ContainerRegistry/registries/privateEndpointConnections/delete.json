@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Azure Container Registry Private Endpoint Connection",
+  "Description": "Deletes the private endpoint connection",
+  "IsDataAction": false
+}

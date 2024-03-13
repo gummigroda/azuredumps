@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/read",
+  "OperationName": "Products_Get",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products",
+  "Description": "Get a Product. '.default' and '.unassigned' are system defined values and cannot be used for product name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/privateEndpointConnectionProxies/operationstatus/read",
+  "OperationName": "Private endpoint operation status",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Get the status of an asynchronous private endpoint operation",
+  "IsDataAction": false
+}

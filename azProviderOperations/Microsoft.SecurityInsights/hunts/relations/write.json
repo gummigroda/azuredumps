@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/relations/write",
+  "OperationName": "Create Hunt Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Relations",
+  "Description": "Create Hunt Relations",
+  "IsDataAction": false
+}

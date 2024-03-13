@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/write",
+  "OperationName": "Accounts_Update",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts",
+  "Description": "Updates the properties of an existing Azure Video Indexer account.",
+  "IsDataAction": false
+}

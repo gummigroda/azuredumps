@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/unregister/action",
+  "OperationName": "Unregister Resource Provider",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "",
+  "Description": "Unregisters subscription for given Resource Provider",
+  "IsDataAction": false
+}

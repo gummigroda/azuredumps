@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resourcehealth/healthevent/InProgress/action",
+  "OperationName": "Health Event InProgress",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Health Event",
+  "Description": "Denotes the change in health state for the specified resource",
+  "IsDataAction": false
+}

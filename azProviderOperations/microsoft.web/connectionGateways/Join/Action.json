@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connectionGateways/Join/Action",
+  "OperationName": "Join Connection Gateway",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connection Gateways",
+  "Description": "Joins a Connection Gateway.",
+  "IsDataAction": false
+}

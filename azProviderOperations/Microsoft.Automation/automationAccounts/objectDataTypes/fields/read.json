@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/objectDataTypes/fields/read",
+  "OperationName": "Read Azure Automation TypeFields",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation TypeFields",
+  "Description": "Gets Azure Automation TypeFields",
+  "IsDataAction": false
+}

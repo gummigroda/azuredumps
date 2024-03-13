@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/sourcecontrols/Read",
+  "OperationName": "Get Web App Source Control Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Get Web App's source control configuration settings",
+  "IsDataAction": false
+}

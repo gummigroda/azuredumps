@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apms/delete",
+  "OperationName": "Delete Microsoft Azure Spring Apps APM",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The APM of Microsoft Azure Spring Apps",
+  "Description": "Delete the APM for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

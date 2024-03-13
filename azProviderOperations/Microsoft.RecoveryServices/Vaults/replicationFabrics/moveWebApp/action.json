@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/moveWebApp/action",
+  "OperationName": "Move WebApp",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fabrics",
+  "Description": "Move WebApp",
+  "IsDataAction": false
+}

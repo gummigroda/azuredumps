@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/amfProfiles/read",
+  "OperationName": "AmfProfiles_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/amfProfiles",
+  "Description": "Lists all the Access and Mobility Management Function profiles in a mobile packet core instance.",
+  "IsDataAction": false
+}

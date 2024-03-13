@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/failover/action",
+  "OperationName": "Issue failover on the elastic pool.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Customer initiated elastic pool failover.",
+  "IsDataAction": false
+}

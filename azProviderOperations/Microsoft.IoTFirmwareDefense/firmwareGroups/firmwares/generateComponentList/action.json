@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/generateComponentList/action",
+  "OperationName": "Firmware_GenerateComponentList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to list all components result for a firmware.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/capabilities/read",
+  "OperationName": "Get Capabilities",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Capabilities",
+  "Description": "Get the capabilities for a region.",
+  "IsDataAction": false
+}

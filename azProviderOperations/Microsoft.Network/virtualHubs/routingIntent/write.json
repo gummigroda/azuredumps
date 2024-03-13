@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routingIntent/write",
+  "OperationName": "Creates or Updates Routing Intent child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Routing Intent",
+  "Description": "Creates or Updates a Routing Intent child resource of Virtual Hub",
+  "IsDataAction": false
+}

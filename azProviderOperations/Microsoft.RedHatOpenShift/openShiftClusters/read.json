@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/read",
+  "OperationName": "Read OpenShift cluster",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "openShiftClusters",
+  "Description": null,
+  "IsDataAction": false
+}

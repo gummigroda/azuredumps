@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalSubscriptions/read",
+  "OperationName": "List externalSubscriptions",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "ExternalSubscriptions",
+  "Description": "List the externalSubscriptions for the authenticated user.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/expressroutecrossconnections/peerings/delete",
+  "OperationName": "Delete Express Route Cross Connection Peering",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Express Route Cross Connection Peering",
+  "Description": "Delete express route cross connection peering.",
+  "IsDataAction": false
+}

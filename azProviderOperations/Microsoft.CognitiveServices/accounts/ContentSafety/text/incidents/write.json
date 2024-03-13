@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/write",
+  "OperationName": "Create Or Update Text Incident",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Incidents",
+  "Description": "Updates a text incident. If the text incident does not exist, a new text incident will be created.",
+  "IsDataAction": true
+}

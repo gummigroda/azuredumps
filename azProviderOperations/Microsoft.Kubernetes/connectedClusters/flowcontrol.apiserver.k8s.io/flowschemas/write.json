@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/flowcontrol.apiserver.k8s.io/flowschemas/write",
+  "OperationName": "Creates/Updates flowschemas resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "flowschemas",
+  "Description": "Writes flowschemas",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/trunkedNetworks/read",
+  "OperationName": "TrunkedNetworks_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "trunkedNetworks",
+  "Description": "Get properties of the provided trunked network.",
+  "IsDataAction": false
+}

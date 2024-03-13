@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/communicationLinks/delete",
+  "OperationName": "Delete communication link of a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Communication Link",
+  "Description": "Deletes an existing server communication link.",
+  "IsDataAction": false
+}

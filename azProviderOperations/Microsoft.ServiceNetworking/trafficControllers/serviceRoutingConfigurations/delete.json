@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/serviceRoutingConfigurations/delete",
+  "OperationName": "Delete Traffic Controller Service Routing Configuration",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller Service Routing Configuration",
+  "Description": "Delete the Traffic Controller Service Routing Configuration",
+  "IsDataAction": true
+}

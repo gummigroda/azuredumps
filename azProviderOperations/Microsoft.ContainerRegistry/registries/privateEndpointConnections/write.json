@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnections/write",
+  "OperationName": "Approve/Reject Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Azure Container Registry Private Endpoint Connection",
+  "Description": "Approves/Rejects the private endpoint connection",
+  "IsDataAction": false
+}

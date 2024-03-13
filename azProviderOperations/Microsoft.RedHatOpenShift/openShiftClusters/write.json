@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/write",
+  "OperationName": "Write OpenShift cluster",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "openShiftClusters",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/checkConsent/read",
+  "OperationName": "Check the Consent",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Consent",
+  "Description": "Resolve the scope the Consent is granted.",
+  "IsDataAction": false
+}

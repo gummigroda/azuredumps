@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/vendorSkus/write",
+  "OperationName": "VendorSkus_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors/vendorSkus",
+  "Description": "Creates or updates a sku",
+  "IsDataAction": false
+}

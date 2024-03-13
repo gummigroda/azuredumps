@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/purviewAccountBindings/delete",
+  "OperationName": "Delete Account Binding",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account binding",
+  "Description": "Delete Account Binding.",
+  "IsDataAction": true
+}

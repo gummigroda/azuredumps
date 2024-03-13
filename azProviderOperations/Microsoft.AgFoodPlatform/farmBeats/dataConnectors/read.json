@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/dataConnectors/read",
+  "OperationName": "Get or List AgFoodPlatform DataConnectors resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform DataConnectors",
+  "Description": "Gets or Lists existing AgFoodPlatform DataConnectors resource(s).",
+  "IsDataAction": false
+}

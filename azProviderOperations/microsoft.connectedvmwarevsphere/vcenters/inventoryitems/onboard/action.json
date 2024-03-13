@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems/onboard/action",
+  "OperationName": "Project vcenters inventoryitems resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters/inventoryitems",
+  "Description": "Project vcenters inventoryitems",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/write",
+  "OperationName": "Pipelines_Update",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Updates the pipeline resource.",
+  "IsDataAction": false
+}

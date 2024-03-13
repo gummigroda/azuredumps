@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/freeHourBalances/read",
+  "OperationName": "FreeHourBalances_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/freeHourBalances",
+  "Description": "Return the Test Base free hour balance.",
+  "IsDataAction": false
+}

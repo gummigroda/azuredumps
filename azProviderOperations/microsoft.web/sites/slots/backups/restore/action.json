@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/backups/restore/action",
+  "OperationName": "Restore Web Apps Slots Backups",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Backups",
+  "Description": "Restore Web Apps Slots Backups.",
+  "IsDataAction": false
+}

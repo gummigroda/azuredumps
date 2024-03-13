@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/evaluations/write",
+  "OperationName": "Create Offline Evaluation.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Submit a new Offline Evaluation job.",
+  "IsDataAction": true
+}

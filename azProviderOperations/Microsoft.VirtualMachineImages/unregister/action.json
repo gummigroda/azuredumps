@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/unregister/action",
+  "OperationName": "Unregister Virtual Machine Image Builder RP",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "",
+  "Description": "Unregister Virtual Machine Image Builder RP",
+  "IsDataAction": false
+}

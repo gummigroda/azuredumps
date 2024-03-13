@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/maintenanceConfigurations/eventGridFilters/read",
+  "OperationName": "View EventGrid Subscription for Maintenance Configuration notification.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "EventGrid Subscription for Maintenance Configuration",
+  "Description": "Notifies Microsoft.Maintenance that an EventGrid Subscription for Maintenance Configuration is being viewed.",
+  "IsDataAction": false
+}

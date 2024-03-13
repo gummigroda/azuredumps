@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/write",
+  "OperationName": "Create or Update Managed Environment Dapr Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component",
+  "Description": "Create or Update Managed Environment Dapr Component",
+  "IsDataAction": false
+}

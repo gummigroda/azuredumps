@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/locations/operationResults/read",
+  "OperationName": "Get Operation",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/locations/operationResults",
+  "Description": "Get the properties and status of an asynchronous operation.",
+  "IsDataAction": false
+}

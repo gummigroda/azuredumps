@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privatelinkresources/read",
+  "OperationName": "Read Link Resources",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Link Resources",
+  "Description": "Read Account Link Resources.",
+  "IsDataAction": false
+}

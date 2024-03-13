@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeMarketplace/publishers/read",
+  "OperationName": "Publishers_Get",
+  "ProviderNamespace": "Microsoft.EdgeMarketplace",
+  "ResourceName": "publishers",
+  "Description": "Get a Publisher",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3isolationdomains/networkclouds2s/delete",
+  "OperationName": "NetworkCloudS2S_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3isolationdomains/networkclouds2s",
+  "Description": "Delete the NetworkCloudS2S resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/communicationsGateways/testLines/read",
+  "OperationName": "TestLines_Get",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "communicationsGateways/testLines",
+  "Description": "Get a TestLine",
+  "IsDataAction": false
+}

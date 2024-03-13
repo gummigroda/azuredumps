@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/vpnLinkConnections/getikesas/action",
+  "OperationName": "Lists Vpn Link Connection IKE Security Associations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Link Connection resource",
+  "Description": "Lists Vpn Link Connection IKE Security Associations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/setOrchestrationServiceState/action",
+  "OperationName": "Sets the state of an orchestration service in a Virtual Machine Scale Set.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Sets the state of an orchestration service based on the action provided in operation input.",
+  "IsDataAction": false
+}

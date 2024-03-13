@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/read",
+  "OperationName": "DiscoGroups_Get",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

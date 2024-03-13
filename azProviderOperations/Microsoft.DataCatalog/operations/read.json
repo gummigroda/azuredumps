@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataCatalog/operations/read",
+  "OperationName": "List Available Catalog Operations",
+  "ProviderNamespace": "Microsoft Data Catalog",
+  "ResourceName": "Available Catalog Operations",
+  "Description": "Lists operations available on Microsoft.DataCatalog resource provider.",
+  "IsDataAction": false
+}

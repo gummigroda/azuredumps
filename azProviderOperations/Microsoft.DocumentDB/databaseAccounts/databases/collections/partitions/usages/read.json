@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/databases/collections/partitions/usages/read",
+  "OperationName": "Read database account partition level usages",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account partition usages",
+  "Description": "Read database account partition level usages",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/scheduleRun/action",
+  "OperationName": "Schedule a run against a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Schedule a run against a container registry.",
+  "IsDataAction": false
+}

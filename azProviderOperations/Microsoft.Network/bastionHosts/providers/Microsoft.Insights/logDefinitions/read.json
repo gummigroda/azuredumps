@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Bastion Host audit log definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "The log definition of Bastion Host",
+  "Description": "Gets the available audit logs for Bastion Host",
+  "IsDataAction": false
+}

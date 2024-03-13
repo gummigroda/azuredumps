@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/scriptExecutionHistory/promote/action",
+  "OperationName": "Promote Script Action for HDInsight Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Promote Script Action for HDInsight Cluster",
+  "IsDataAction": false
+}

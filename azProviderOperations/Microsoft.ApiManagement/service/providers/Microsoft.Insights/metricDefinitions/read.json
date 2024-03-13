@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read API Management service metric definitions",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "The metric definition of API Management service",
+  "Description": "Gets the available metrics for API Management service",
+  "IsDataAction": false
+}

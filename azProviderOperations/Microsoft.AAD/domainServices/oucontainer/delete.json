@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/oucontainer/delete",
+  "OperationName": "Delete Ou Container",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Ou Container Type",
+  "Description": "Delete Ou Container",
+  "IsDataAction": false
+}

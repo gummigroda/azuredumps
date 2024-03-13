@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/roles/read",
+  "OperationName": "Get Pattern.any entity role or Get version Pattern.any entity roles",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern.any entity roles",
+  "Description": "Gets the role for a Pattern.any entity model.\r\nGets the roles for a Pattern.any entity model.",
+  "IsDataAction": true
+}

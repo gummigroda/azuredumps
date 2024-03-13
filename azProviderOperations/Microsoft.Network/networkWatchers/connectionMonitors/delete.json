@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/connectionMonitors/delete",
+  "OperationName": "Delete Connection Monitor",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Connection Monitor",
+  "Description": "Deletes a Connection Monitor",
+  "IsDataAction": false
+}

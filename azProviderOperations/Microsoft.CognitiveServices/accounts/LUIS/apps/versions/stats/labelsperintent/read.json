@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/stats/labelsperintent/read",
+  "OperationName": "labelsperintent - GetNumOfLabelsPerIntent",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "labelsperintent*",
+  "Description": "Gets the number of labels per intent for a given application",
+  "IsDataAction": true
+}

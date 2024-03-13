@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deletion/jobs/read",
+  "OperationName": "AnalyzeText_Projects_GetProjectDeletionJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get project deletion job status and result details.",
+  "IsDataAction": true
+}

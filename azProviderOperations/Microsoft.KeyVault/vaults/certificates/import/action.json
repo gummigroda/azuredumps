@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/import/action",
+  "OperationName": "Import Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Imports an existing valid certificate containing a private key. The certificate to be imported can be in either PFX or PEM format. If the certificate does not exist in Key Vault, the first version is created with specified content. Otherwise, a new version is created with specified content.",
+  "IsDataAction": true
+}

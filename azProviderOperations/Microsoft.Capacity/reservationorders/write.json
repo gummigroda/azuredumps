@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/write",
+  "OperationName": "Create Reservations",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Create any Reservation",
+  "IsDataAction": false
+}

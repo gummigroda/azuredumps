@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/read",
+  "OperationName": "Get Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Gets an existing workspace",
+  "IsDataAction": false
+}

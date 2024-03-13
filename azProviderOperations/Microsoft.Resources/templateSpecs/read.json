@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/templateSpecs/read",
+  "OperationName": "读取模板规格",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "模板规格",
+  "Description": "获取或列出模板规格",
+  "IsDataAction": false
+}

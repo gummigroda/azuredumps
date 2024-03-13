@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/LanguageMetadatas/read",
+  "OperationName": "Query language metadata.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Query language metadata.",
+  "IsDataAction": true
+}

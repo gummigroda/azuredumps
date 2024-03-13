@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/getOrganizationApiKey/action",
+  "OperationName": "Fetch Organization API Key",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "",
+  "Description": "Fetch Organization API Key",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/sync/action",
+  "OperationName": "Sync Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Sync operation retries last failed operation on backup instance to bring it to a valid state.",
+  "IsDataAction": false
+}

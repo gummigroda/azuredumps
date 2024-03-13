@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustGroups/write",
+  "OperationName": "Creates a Azure SQL Server Trust Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Trust Group",
+  "Description": "Creates a Server Trust Group with the specified parameters",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/p2sVpnGatewayProxies/delete",
+  "OperationName": "Delete P2SVpnGateway Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2SVpnGateway Proxy",
+  "Description": "Deletes a P2SVpnGateway Proxy",
+  "IsDataAction": false
+}

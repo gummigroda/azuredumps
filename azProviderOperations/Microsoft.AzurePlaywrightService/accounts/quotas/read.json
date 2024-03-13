@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/accounts/quotas/read",
+  "OperationName": "AccountQuotas_Get",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "accounts/quotas",
+  "Description": "Get quota by name for an account.",
+  "IsDataAction": false
+}

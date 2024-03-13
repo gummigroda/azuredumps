@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels/analyzeresults/read",
+  "OperationName": "Analysis - Get Analyze Results",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyzeresults*",
+  "Description": "Get document analyze result from specified {modelId} and {resultId}",
+  "IsDataAction": true
+}

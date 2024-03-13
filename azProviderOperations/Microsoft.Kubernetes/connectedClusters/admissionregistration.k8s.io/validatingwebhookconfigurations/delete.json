@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/validatingwebhookconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection validatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "validatingwebhookconfigurations",
+  "Description": "Deletes validatingwebhookconfigurations",
+  "IsDataAction": true
+}

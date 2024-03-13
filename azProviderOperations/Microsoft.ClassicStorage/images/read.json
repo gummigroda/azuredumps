@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/images/read",
+  "OperationName": "Get Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Image",
+  "Description": "Returns the image.",
+  "IsDataAction": false
+}

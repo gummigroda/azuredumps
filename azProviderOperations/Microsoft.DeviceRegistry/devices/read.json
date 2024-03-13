@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/devices/read",
+  "OperationName": "Devices_Get",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "devices",
+  "Description": "Get a Device",
+  "IsDataAction": false
+}

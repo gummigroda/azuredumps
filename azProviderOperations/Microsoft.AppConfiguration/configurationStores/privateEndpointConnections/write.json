@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Approve or reject a private endpoint connection under the specified configuration store.",
+  "IsDataAction": false
+}

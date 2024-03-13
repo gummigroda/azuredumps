@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePlaywrightService/accounts/write",
+  "OperationName": "Accounts_Update",
+  "ProviderNamespace": "Microsoft.AzurePlaywrightService",
+  "ResourceName": "accounts",
+  "Description": "Update an Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/clouds/Read",
+  "OperationName": "Gets/List clouds resources",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "clouds",
+  "Description": "Read clouds",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/Delete",
+  "OperationName": "Delete Namespace",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Namespace",
+  "Description": "Delete Namespace Resource",
+  "IsDataAction": false
+}

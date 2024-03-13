@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/Operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Availability Status",
+  "Description": "Get the operations available for the Microsoft ResourceHealth",
+  "IsDataAction": false
+}

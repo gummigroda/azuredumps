@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/delete",
+  "OperationName": "Deletes AuthorizationProvider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "AuthorizationProvider",
+  "Description": "Deletes a AuthorizationProvider",
+  "IsDataAction": false
+}

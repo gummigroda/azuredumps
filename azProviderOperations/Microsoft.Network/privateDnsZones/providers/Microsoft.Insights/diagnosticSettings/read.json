@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get Private DNS zone diagnostic settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS zone diagnostic settings",
+  "Description": "Gets the Private DNS zone diagnostic settings",
+  "IsDataAction": false
+}

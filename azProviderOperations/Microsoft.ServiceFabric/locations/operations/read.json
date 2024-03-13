@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/locations/operations/read",
+  "OperationName": "Read Operations By Location",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Operations By Location",
+  "Description": "Read any Operations by location",
+  "IsDataAction": false
+}

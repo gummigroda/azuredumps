@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/write",
+  "OperationName": "Create or update a PrivateCloud cluster.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters",
+  "Description": "Create or update a PrivateCloud cluster resource.",
+  "IsDataAction": false
+}

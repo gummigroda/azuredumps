@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/advisors/recommendedActions/read",
+  "OperationName": "Return a recommended action",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Recommended Actions",
+  "Description": "Return a recommended action",
+  "IsDataAction": false
+}

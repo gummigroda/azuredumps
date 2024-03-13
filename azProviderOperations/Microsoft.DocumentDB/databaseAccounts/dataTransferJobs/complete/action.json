@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/complete/action",
+  "OperationName": "Complete Container Copy Job",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container Copy Jobs",
+  "Description": "Complete an online container copy job in a database account",
+  "IsDataAction": false
+}

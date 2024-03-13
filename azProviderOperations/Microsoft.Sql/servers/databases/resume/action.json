@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/resume/action",
+  "OperationName": "Resume a Datawarehouse database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Resume Azure SQL Datawarehouse Database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/distributedAvailabilityGroups/delete",
+  "OperationName": "Delete a distributed availability group.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Deletes a distributed availability group.",
+  "IsDataAction": false
+}

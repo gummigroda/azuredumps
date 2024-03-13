@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitLabConnectors/groups/write",
+  "OperationName": "GitLabGroups_Update",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitLabConnectors/groups",
+  "Description": "write groups",
+  "IsDataAction": false
+}

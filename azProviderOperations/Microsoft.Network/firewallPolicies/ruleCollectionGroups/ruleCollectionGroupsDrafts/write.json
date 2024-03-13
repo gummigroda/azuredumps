@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollectionGroupsDrafts/write",
+  "OperationName": "Create or Update Firewall Policy Rule Collection Group Draft",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Rule Collection Group Draft",
+  "Description": "Creates a Firewall Policy Rule Collection Group Draft or Updates an existing Firewall Policy Rule Collection Group Draft",
+  "IsDataAction": false
+}

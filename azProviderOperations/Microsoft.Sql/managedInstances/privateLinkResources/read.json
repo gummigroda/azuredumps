@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/privateLinkResources/read",
+  "OperationName": "Get the private link resources for the corresponding sql server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Link Resource",
+  "Description": "Get the private link resources for the corresponding sql server",
+  "IsDataAction": false
+}

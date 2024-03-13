@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/unregister/action",
+  "OperationName": "UnRegisters the Microsoft.Cdn Resource Provider",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": "UnRegisters the subscription for the CDN resource provider.",
+  "IsDataAction": false
+}

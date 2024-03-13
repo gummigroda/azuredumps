@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/offerTypes/publishers/offers/plans/configs/write",
+  "OperationName": "Put config.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Saves a config.",
+  "IsDataAction": false
+}

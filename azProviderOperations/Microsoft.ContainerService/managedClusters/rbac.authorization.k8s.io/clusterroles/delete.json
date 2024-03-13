@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/rbac.authorization.k8s.io/clusterroles/delete",
+  "OperationName": "Deletes/DeletesCollection clusterroles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Clusterroles",
+  "Description": "Deletes clusterroles",
+  "IsDataAction": true
+}

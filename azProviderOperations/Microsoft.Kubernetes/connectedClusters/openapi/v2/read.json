@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/openapi/v2/read",
+  "OperationName": "Gets/List v2 resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "openapi/v2",
+  "Description": "Reads v2",
+  "IsDataAction": true
+}

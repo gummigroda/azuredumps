@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/migrationRecoveryPoints/read",
+  "OperationName": "Read Migration Recovery Points",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Migration Recovery Points",
+  "Description": "Read any Migration Recovery Points",
+  "IsDataAction": false
+}

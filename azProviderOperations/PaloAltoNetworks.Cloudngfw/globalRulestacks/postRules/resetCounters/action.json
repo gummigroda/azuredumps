@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/postRules/resetCounters/action",
+  "OperationName": "PostRules_resetCounters",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/postRules",
+  "Description": "Reset counters",
+  "IsDataAction": false
+}

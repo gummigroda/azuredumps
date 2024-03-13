@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/ruleGroups/write",
+  "OperationName": "Create or Update Firewall Policy Rule Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Rule Group",
+  "Description": "Creates a Firewall Policy Rule Group or Updates an existing Firewall Policy Rule Group",
+  "IsDataAction": false
+}

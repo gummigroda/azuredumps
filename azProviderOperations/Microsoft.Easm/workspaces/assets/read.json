@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/assets/read",
+  "OperationName": "Assets_Get",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve an asset by assetId.",
+  "IsDataAction": true
+}

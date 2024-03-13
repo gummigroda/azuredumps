@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/queryStore/queryTexts/read",
+  "OperationName": "List Query Store query texts.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Query Store query texts.",
+  "Description": "Returns the collection of query texts that correspond to the specified parameters.",
+  "IsDataAction": false
+}

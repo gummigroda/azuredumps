@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/summary/read",
+  "OperationName": "Get Server site summary",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Gets the summary of a Server site",
+  "IsDataAction": false
+}

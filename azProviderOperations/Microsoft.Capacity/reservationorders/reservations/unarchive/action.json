@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/reservations/unarchive/action",
+  "OperationName": "Unarchive a previously archived Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Unarchive a Reservation which was previously archived",
+  "IsDataAction": false
+}

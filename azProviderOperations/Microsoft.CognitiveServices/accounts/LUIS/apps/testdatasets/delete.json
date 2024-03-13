@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/testdatasets/delete",
+  "OperationName": "testdatasets - DeleteBatchTestDataSet",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "testdatasets*",
+  "Description": "Deletes a given dataset from a given application.",
+  "IsDataAction": true
+}

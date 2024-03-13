@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/testdatasets/read",
+  "OperationName": "testdatasets - GetBatchTestDataSetMetaData|testdatasets - GetBatchTestDataSetsMetaData*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "testdatasets*",
+  "Description": "Gets the given batch test meta data.\r\nReturns a list of all the batch test datasets of a given application.*",
+  "IsDataAction": true
+}

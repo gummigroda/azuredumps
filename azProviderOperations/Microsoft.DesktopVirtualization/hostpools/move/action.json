@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/move/action",
+  "OperationName": "Move hostpools",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools",
+  "Description": "Move a hostpools to another resource group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/Workspaces/write",
+  "OperationName": "Write Machine Learning Workspace",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Workspace",
+  "Description": "Create or Update any Machine Learning Workspace",
+  "IsDataAction": false
+}

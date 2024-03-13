@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/bgpPeers/read",
+  "OperationName": "BgpPeers_Get",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "bgpPeers",
+  "Description": "Get a BgpPeer",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/powerOff/action",
+  "OperationName": "BareMetalMachines_PowerOff",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Power off the provided bare metal machine.",
+  "IsDataAction": false
+}

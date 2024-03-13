@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/loadBalancingSettings/read",
+  "OperationName": "Gets load balancing settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Load Balancing Settings",
+  "Description": "Gets load balancing settings",
+  "IsDataAction": false
+}

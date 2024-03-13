@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/plans/read",
+  "OperationName": "List plandata",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "ListPlandata",
+  "Description": "List plan data for a account or organization",
+  "IsDataAction": false
+}

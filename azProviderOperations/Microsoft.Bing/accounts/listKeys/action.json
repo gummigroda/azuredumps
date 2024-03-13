@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/listKeys/action",
+  "OperationName": "List Account Keys",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "List keys for an account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/containerGroups/start/action",
+  "OperationName": "Start Container Groups in a Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Start specific container groups in a container scale set.",
+  "IsDataAction": false
+}

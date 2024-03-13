@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sshPublicKeys/delete",
+  "OperationName": "Delete SSH Public Key",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SSH Public Keys",
+  "Description": "Deletes the SSH public key",
+  "IsDataAction": false
+}

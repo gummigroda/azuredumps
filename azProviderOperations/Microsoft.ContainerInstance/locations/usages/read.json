@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/usages/read",
+  "OperationName": "Get Regional Usage",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Usages",
+  "Description": "Get the usage for a specific region.",
+  "IsDataAction": false
+}

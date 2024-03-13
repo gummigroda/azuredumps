@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/networkAnalyticsProducts/read",
+  "OperationName": "NetworkAnalyticsProduct_Get",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "networkAnalyticsProducts",
+  "Description": "Get a NetworkAnalyticsProducts",
+  "IsDataAction": false
+}

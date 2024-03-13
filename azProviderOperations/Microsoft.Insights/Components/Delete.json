@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Delete",
+  "OperationName": "Application insights component delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Deleting an application insights component configuration",
+  "IsDataAction": false
+}

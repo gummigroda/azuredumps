@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltmodels/read",
+  "OperationName": "Get version prebuilt domain models list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domain models",
+  "Description": "Gets all custom prebuilt domain models info for this application version.",
+  "IsDataAction": true
+}

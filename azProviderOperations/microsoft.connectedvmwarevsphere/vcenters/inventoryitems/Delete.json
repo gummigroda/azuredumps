@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems/Delete",
+  "OperationName": "Deletes vcenters inventoryitems resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters/inventoryitems",
+  "Description": "Deletes vcenter inventoryitems",
+  "IsDataAction": false
+}

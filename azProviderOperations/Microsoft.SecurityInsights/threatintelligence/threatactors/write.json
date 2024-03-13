@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/threatactors/write",
+  "OperationName": "Create or update a TI Threat Actor",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIThreatActors",
+  "Description": "Creates or updates a TI Threat Actor",
+  "IsDataAction": false
+}

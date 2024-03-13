@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/sqlAssessments/write",
+  "OperationName": "Create or Update SQL Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Assessments",
+  "Description": "Creates a new SQL assessment or updates an existing SQL assessment",
+  "IsDataAction": false
+}

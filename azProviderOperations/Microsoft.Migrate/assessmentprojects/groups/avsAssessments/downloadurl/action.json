@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/avsAssessments/downloadurl/action",
+  "OperationName": "Download an AVS assessment URL",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS Assessments",
+  "Description": "Downloads an AVS assessment report's URL",
+  "IsDataAction": false
+}

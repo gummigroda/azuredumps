@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/Write",
+  "OperationName": "Create or update data collection endpoint",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint",
+  "Description": "Create or update a data collection endpoint",
+  "IsDataAction": false
+}

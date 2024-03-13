@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/patchSchedules/write",
+  "OperationName": "Change Redis Patching Schedule",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Patching schedule of a Redis Cache",
+  "Description": "Modify the patching schedule of a Redis Cache",
+  "IsDataAction": false
+}

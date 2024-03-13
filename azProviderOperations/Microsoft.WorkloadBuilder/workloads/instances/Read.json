@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/instances/Read",
+  "OperationName": "Reads the instances",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "instances",
+  "Description": "Read instances",
+  "IsDataAction": false
+}

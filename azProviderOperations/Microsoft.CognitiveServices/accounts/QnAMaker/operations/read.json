@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/operations/read",
+  "OperationName": "Operations - Get Details",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Gets details of a specific long running operation.",
+  "IsDataAction": true
+}

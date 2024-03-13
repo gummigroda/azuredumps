@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppServiceAuditLogs/Read",
+  "OperationName": "Read AppServiceAuditLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppServiceAuditLogs",
+  "Description": "Read data from the AppServiceAuditLogs table",
+  "IsDataAction": false
+}

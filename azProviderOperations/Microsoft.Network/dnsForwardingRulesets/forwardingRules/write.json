@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsForwardingRulesets/forwardingRules/write",
+  "OperationName": "Create Or Update a DNS Forwarding Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Forwarding Rule",
+  "Description": "Creates Or Updates a DNS Forwarding Rule, in JSON format",
+  "IsDataAction": false
+}

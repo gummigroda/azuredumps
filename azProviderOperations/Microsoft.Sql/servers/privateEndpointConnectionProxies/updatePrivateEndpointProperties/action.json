@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "Update Private Endpoint Properties",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection Proxy",
+  "Description": "Used by NRP to backfill properties to a private endpoint connection",
+  "IsDataAction": false
+}

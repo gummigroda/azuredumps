@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/attestationmechanism/details/action",
+  "OperationName": "Fetch Attestation Mechanism Details",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Fetch Attestation Mechanism Details",
+  "IsDataAction": true
+}

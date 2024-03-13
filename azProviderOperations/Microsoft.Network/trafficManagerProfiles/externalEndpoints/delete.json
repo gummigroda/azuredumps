@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/externalEndpoints/delete",
+  "OperationName": "Delete a Traffic Manager External Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager External Endpoint",
+  "Description": "Deletes an External Endpoint from an existing Traffic Manager Profile. Traffic Manager will stop routing traffic to the deleted External Endpoint.",
+  "IsDataAction": false
+}

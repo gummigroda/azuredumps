@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BaiJobEvent/Read",
+  "OperationName": "Read BaiJobEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BaiJobEvent",
+  "Description": "Read data from the BaiJobEvent table",
+  "IsDataAction": false
+}

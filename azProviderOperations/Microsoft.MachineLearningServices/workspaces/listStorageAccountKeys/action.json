@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/listStorageAccountKeys/action",
+  "OperationName": "List Storage Account keys for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "List Storage Account keys for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

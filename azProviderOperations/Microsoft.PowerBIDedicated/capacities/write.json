@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/write",
+  "OperationName": "Create/Update Power BI Dedicated Capacity",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Creates or updates the specified Power BI Dedicated Capacity.",
+  "IsDataAction": false
+}

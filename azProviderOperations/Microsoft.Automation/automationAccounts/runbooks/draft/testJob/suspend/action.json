@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/draft/testJob/suspend/action",
+  "OperationName": "Suspend an Azure Automation runbook draft test job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook Draft Test Job",
+  "Description": "Suspends an Azure Automation runbook draft test job",
+  "IsDataAction": false
+}

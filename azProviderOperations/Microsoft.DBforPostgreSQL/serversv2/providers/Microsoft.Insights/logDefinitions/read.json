@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serversv2/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read server log definitions",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "The log definition of servers",
+  "Description": "Gets the available logs for PostgreSQL servers",
+  "IsDataAction": false
+}

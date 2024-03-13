@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read metric definition",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM Metric Definition",
+  "Description": "Gets the available metrics for a key vault",
+  "IsDataAction": false
+}

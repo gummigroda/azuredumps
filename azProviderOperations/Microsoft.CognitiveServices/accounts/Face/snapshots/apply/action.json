@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/snapshots/apply/action",
+  "OperationName": "Snapshot - Apply",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "snapshots*",
+  "Description": "Apply a snapshot, providing a user-specified object id.",
+  "IsDataAction": true
+}

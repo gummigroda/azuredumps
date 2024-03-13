@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/usages/read",
+  "OperationName": "Get quota for Cache or Amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache, Amlfilesystem",
+  "Description": "Lists the usage quota for cache or Amlfilesystem",
+  "IsDataAction": false
+}

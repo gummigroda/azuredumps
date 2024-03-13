@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/hosts/write",
+  "OperationName": "Create or update Hyper-V host",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Hosts",
+  "Description": "Creates or updates the Hyper-V host",
+  "IsDataAction": false
+}

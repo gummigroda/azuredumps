@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/contentTranslators/action",
+  "OperationName": "Gets a translation of a content",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "",
+  "Description": "Check a translation of content",
+  "IsDataAction": false
+}

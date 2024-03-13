@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/updatePowerCycle/action",
+  "OperationName": "NetworkDevices_updatePowerCycle",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Update PDU power cycle of the Network Device.",
+  "IsDataAction": false
+}

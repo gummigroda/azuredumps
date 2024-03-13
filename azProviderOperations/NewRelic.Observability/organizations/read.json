@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/organizations/read",
+  "OperationName": "List organizations",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Listorganizations",
+  "Description": "List all organizations for a user",
+  "IsDataAction": false
+}

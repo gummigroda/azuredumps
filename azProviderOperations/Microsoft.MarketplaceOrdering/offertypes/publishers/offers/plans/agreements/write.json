@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MarketplaceOrdering/offertypes/publishers/offers/plans/agreements/write",
+  "OperationName": "Save Agreement for virtual machine",
+  "ProviderNamespace": "Microsoft Marketplace Ordering",
+  "ResourceName": "Agreement",
+  "Description": "Sign or Cancel an agreement for a given marketplace virtual machine item",
+  "IsDataAction": false
+}

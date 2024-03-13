@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/delete",
+  "OperationName": "Delete Azure Stack Registration",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Registration",
+  "Description": "Deletes an Azure Stack registration",
+  "IsDataAction": false
+}

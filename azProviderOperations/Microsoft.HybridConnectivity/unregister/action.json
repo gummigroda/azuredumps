@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/unregister/action",
+  "OperationName": "Unregister the Microsoft.HybridConnectivity",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.HybridConnectivity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/users/write",
+  "OperationName": "Creates or updates share users",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "share users",
+  "Description": "Creates or updates the share users",
+  "IsDataAction": false
+}

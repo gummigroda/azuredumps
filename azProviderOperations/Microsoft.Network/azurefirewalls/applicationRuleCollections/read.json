@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureFirewalls/applicationRuleCollections/read",
+  "OperationName": "Get Azure Firewall FQDN Tags",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Applicatiion Rule Collection",
+  "Description": "Gets Azure Firewall ApplicationRuleCollection",
+  "IsDataAction": false
+}

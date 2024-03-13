@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/delete",
+  "OperationName": "Delete Security User Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Configuration",
+  "Description": "Delete Security User Configuration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/checkDataPolicyCompliance/action",
+  "OperationName": "Check Data Policy Compliance",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "",
+  "Description": "Check the compliance status of a given component against data policies.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/unregister/action",
+  "OperationName": "Unregister the Microsoft.DeviceRegistry",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.DeviceRegistry",
+  "IsDataAction": false
+}

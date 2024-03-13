@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/operationStatuses/read",
+  "OperationName": "Get The Domain Names Slots Roles Role Instances Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Operation Status For The Role Instance On Domain Names Slot Role",
+  "Description": "Gets the operation status for the role instance on domain names slot role.",
+  "IsDataAction": false
+}

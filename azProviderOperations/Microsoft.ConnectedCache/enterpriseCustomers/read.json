@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseCustomers/read",
+  "OperationName": "enterpriseCustomers_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseCustomers",
+  "Description": "Retrieves the properties of all ConnectedCaches.",
+  "IsDataAction": false
+}

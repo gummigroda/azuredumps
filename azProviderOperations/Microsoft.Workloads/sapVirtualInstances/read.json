@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/read",
+  "OperationName": "SAPVirtualInstances_ListBySubscription",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances",
+  "Description": "Gets all SAP Virtual Instances in the subscription.",
+  "IsDataAction": false
+}

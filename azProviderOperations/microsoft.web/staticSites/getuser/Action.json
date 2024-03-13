@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/getuser/Action",
+  "OperationName": "Get Static Site User",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Get a user's information for a Static Site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectAnchorsAccounts/regeneratekeys/action",
+  "OperationName": "Regenerate the keys of an Object Anchors account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectAnchorsAccounts",
+  "Description": "Regenerate the keys of an Object Anchors account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachineInstances/HybridIdentityMetadata/Read",
+  "OperationName": "Gets/Lists virtual machine instance hybrid identity metadata proxy resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachineInstances/HybridIdentityMetadata",
+  "Description": "Gets/Lists virtual machine instance hybrid identity metadata proxy resource",
+  "IsDataAction": false
+}

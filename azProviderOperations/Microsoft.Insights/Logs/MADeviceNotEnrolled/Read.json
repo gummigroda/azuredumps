@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADeviceNotEnrolled/Read",
+  "OperationName": "Read MADeviceNotEnrolled data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADeviceNotEnrolled",
+  "Description": "Read data from the MADeviceNotEnrolled table",
+  "IsDataAction": false
+}

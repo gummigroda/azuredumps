@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualRouters/delete",
+  "OperationName": "Delete VirtualRouter",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualRouter",
+  "Description": "Deletes A VirtualRouter",
+  "IsDataAction": false
+}

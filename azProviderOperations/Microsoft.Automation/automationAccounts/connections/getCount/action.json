@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/connections/getCount/action",
+  "OperationName": "Gets the count of connections",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Connection Asset",
+  "Description": "Reads the count of connections",
+  "IsDataAction": false
+}

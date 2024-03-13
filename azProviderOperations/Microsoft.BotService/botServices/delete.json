@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/delete",
+  "OperationName": "Delete a Bot Service",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Delete a Bot Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections/delete",
+  "OperationName": "Delete PrivateEndpointConnections for partner namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnections",
+  "Description": "Delete PrivateEndpointConnections for partner namespaces",
+  "IsDataAction": false
+}

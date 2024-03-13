@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read metric definition",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault Metric Definition",
+  "Description": "Gets the available metrics for a key vault",
+  "IsDataAction": false
+}

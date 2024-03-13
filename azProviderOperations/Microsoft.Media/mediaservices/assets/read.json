@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/read",
+  "OperationName": "Read Asset",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset",
+  "Description": "Read any Asset",
+  "IsDataAction": false
+}

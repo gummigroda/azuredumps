@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/containerServices/write",
+  "OperationName": "Create or Update Container Service",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Container Services",
+  "Description": "Creates a new container service or updates an existing one",
+  "IsDataAction": false
+}

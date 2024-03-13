@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/servercollectors/read",
+  "OperationName": "Get Server collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Server Collector",
+  "Description": "Gets the properties of Server collector",
+  "IsDataAction": false
+}

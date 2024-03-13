@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/run-gpt/jobs/read",
+  "OperationName": "AnalyzeText_Internal_GPT_GetGptJobsList|AnalyzeText_Internal_GPT_GetGptJobStatus*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get GPT prediction jobs.\r\nGet GPT predictions status and result details.*",
+  "IsDataAction": true
+}

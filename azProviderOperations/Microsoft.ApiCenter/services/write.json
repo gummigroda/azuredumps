@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/write",
+  "OperationName": "Partially updates service",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Service",
+  "Description": "Patches specified service.",
+  "IsDataAction": false
+}

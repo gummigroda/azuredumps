@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/Register/action",
+  "OperationName": "Register subscription with Stream Analytics Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "",
+  "Description": "Register subscription with Stream Analytics Resource Provider",
+  "IsDataAction": false
+}

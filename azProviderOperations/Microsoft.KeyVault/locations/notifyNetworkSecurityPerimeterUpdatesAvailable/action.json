@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Check the Network Security Perimeter for configuration updates.",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Location",
+  "Description": "Check if the configuration of the Network Security Perimeter needs updating.",
+  "IsDataAction": false
+}

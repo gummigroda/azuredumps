@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/ui/read",
+  "OperationName": "Gets/List ui resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Ui",
+  "Description": "Reads ui",
+  "IsDataAction": true
+}

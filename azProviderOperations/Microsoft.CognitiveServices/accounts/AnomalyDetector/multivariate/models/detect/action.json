@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models/detect/action",
+  "OperationName": "Multivariate Anomaly Detection - Detect Multivariate Anomaly|Multivariate Anomaly Detection - Detect anomalies in the last a few points of the request body",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models",
+  "Description": "Submit detection multivariate anomaly task with the trained model of modelId, the input schema should be the same with the training request. Thus request will be complete asynchronously and will return a resultId for querying the detection result.The request should be a source link to indicate an externally accessible Azure storage Uri (preferably a Shared Access Signature Uri). All time-series used in generate the model must be zipped into one single file. Each time-series will be as follows: the first column is timestamp and the second column is value.\r\nSynchronized API for anomaly detection.",
+  "IsDataAction": true
+}

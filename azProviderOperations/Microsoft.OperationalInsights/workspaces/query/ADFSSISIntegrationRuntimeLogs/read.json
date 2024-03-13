@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADFSSISIntegrationRuntimeLogs/read",
+  "OperationName": "Read ADFSSISIntegrationRuntimeLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADFSSISIntegrationRuntimeLogs",
+  "Description": "Read data from the ADFSSISIntegrationRuntimeLogs table",
+  "IsDataAction": false
+}

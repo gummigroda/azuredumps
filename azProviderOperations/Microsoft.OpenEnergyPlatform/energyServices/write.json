@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/write",
+  "OperationName": "EnergyServices_Update",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Updates the oep resource.",
+  "IsDataAction": false
+}

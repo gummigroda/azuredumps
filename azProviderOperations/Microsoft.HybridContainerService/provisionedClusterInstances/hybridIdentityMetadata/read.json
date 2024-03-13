@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata/read",
+  "OperationName": "HybridIdentityMetadata_ListByCluster",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusterInstances/hybridIdentityMetadata",
+  "Description": "Lists the hybrid identity metadata proxy resource in a provisioned cluster instance.",
+  "IsDataAction": false
+}

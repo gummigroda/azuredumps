@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/effectiveNetworkSecurityGroups/action",
+  "OperationName": "Get Effective Security Groups of an Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Get Route Table configured On Application Gateway",
+  "IsDataAction": false
+}

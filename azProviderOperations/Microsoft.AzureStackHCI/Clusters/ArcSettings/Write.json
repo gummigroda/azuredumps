@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/Write",
+  "OperationName": "Create/Update arc resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings",
+  "Description": "Create or updates arc resource of HCI cluster",
+  "IsDataAction": false
+}

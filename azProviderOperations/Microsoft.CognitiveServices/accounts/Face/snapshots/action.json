@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/snapshots/action",
+  "OperationName": "Snapshot - Take",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Take a snapshot for an object.",
+  "IsDataAction": true
+}

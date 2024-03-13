@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/bgpConnections/advertisedRoutes/action",
+  "OperationName": "Gets virtualrouter advertised routes",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub BgpConnection resource",
+  "Description": "Gets virtualrouter advertised routes",
+  "IsDataAction": false
+}

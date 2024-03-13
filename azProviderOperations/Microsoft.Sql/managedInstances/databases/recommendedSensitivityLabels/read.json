@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/recommendedSensitivityLabels/read",
+  "OperationName": "List the recommended sensitivity labels for a given database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "List the recommended sensitivity labels for a given database",
+  "IsDataAction": false
+}

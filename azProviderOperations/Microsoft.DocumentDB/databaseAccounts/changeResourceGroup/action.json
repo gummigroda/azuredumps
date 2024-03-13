@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/changeResourceGroup/action",
+  "OperationName": "Change resource group",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Change resource group of a database account",
+  "IsDataAction": false
+}

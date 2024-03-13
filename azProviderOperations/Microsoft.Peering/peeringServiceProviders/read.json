@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServiceProviders/read",
+  "OperationName": "Read PeeringServiceProviders",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "peeringServiceProviders",
+  "Description": "Read any peeringServiceProviders",
+  "IsDataAction": false
+}

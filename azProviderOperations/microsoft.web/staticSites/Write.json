@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/Write",
+  "OperationName": "Create or Update Static Site",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Create a new Static Site or update an existing one",
+  "IsDataAction": false
+}

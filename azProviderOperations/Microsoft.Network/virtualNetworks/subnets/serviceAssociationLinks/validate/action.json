@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/validate/action",
+  "OperationName": "Validate Service Association Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Association Link",
+  "Description": "Validates a Service Association Link",
+  "IsDataAction": false
+}

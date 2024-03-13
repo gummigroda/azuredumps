@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventHubs/consumergroups/write",
+  "OperationName": "Create or Update ConsumerGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "ConsumerGroup",
+  "Description": "Create or Update ConsumerGroup properties.",
+  "IsDataAction": false
+}

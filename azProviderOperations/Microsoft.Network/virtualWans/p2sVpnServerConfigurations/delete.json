@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.network/virtualWans/p2sVpnServerConfigurations/delete",
+  "OperationName": "Delete Virtual Wan P2SVpnServerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Wan P2SVpnServerConfiguration",
+  "Description": "Deletes a virtual Wan P2SVpnServerConfiguration",
+  "IsDataAction": false
+}

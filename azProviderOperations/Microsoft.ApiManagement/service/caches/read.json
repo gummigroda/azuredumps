@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/caches/read",
+  "OperationName": "Lists a collection of all external Caches in the specified service instance. or Get cache details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "External caches",
+  "Description": "Lists a collection of all external Caches in the specified service instance. or Gets the details of the Cache specified by its identifier.",
+  "IsDataAction": false
+}

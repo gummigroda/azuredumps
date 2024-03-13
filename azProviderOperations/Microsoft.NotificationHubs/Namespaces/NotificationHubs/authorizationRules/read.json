@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/authorizationRules/read",
+  "OperationName": "Get Notification Hub Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub Authorization Rule",
+  "Description": "Get the list of Notification Hub Authorization Rules",
+  "IsDataAction": false
+}

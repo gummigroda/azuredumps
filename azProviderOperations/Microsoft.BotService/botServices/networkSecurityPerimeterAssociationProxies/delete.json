@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete a Network Security Perimeter Association Proxies resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Network Security Perimeter Association Proxies resource",
+  "Description": "Delete a Network Security Perimeter Association Proxies resource",
+  "IsDataAction": false
+}

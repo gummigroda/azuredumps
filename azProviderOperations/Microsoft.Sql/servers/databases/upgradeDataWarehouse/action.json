@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/upgradeDataWarehouse/action",
+  "OperationName": "Upgrade a data warehouse.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Upgrade Azure SQL Datawarehouse Database",
+  "IsDataAction": false
+}

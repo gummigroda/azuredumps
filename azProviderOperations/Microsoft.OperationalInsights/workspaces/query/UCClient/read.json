@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UCClient/read",
+  "OperationName": "Read UCClient data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UCClient",
+  "Description": "Read data from the UCClient table",
+  "IsDataAction": false
+}

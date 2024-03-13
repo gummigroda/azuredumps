@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/delete",
+  "OperationName": "Delete build task.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Deletes a build task from a container registry.",
+  "IsDataAction": false
+}

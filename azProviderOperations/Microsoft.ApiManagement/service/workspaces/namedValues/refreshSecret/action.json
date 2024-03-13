@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/namedValues/refreshSecret/action",
+  "OperationName": "Refresh certificate from KeyVault",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace NamedValues",
+  "Description": "Refreshes named value by fetching it from Key Vault.",
+  "IsDataAction": false
+}

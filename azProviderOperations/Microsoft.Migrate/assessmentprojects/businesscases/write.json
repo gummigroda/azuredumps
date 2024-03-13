@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/write",
+  "OperationName": "Create or Update business case",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Business case",
+  "Description": "Creates a new business case or updates an existing business case",
+  "IsDataAction": false
+}

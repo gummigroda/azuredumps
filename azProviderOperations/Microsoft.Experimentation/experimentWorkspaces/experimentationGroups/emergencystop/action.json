@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/emergencystop/action",
+  "OperationName": "Experiment Group Emergency Stop",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experimentation Group Type",
+  "Description": "Experiment Group Emergency Stop",
+  "IsDataAction": true
+}

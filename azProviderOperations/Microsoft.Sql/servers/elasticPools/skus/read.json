@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/skus/read",
+  "OperationName": "Get skus available for an elastic pool",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Gets a collection of skus available for an elastic pool",
+  "IsDataAction": false
+}

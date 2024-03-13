@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels/write",
+  "OperationName": "Create or update SQL Analytics pool Sensitivity Labels.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Sensitivity Labels",
+  "Description": "Create or Update any SQL Analytics pool Sensitivity Labels.",
+  "IsDataAction": false
+}

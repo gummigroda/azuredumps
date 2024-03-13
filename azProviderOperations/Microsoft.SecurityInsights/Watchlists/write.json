@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Watchlists/write",
+  "OperationName": "Create Watchlists",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Watchlists",
+  "Description": "Create Watchlists",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/delete",
+  "OperationName": "Delete a Sql Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Site",
+  "Description": "Delete a Sql Site",
+  "IsDataAction": false
+}

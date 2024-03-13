@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deployments/delete-from-resources/jobs/read",
+  "OperationName": "Get deployment deletion from resources status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status of an existing delete deployment from specific resources job.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/healthz/poststarthook/apiservice-registration-controller/read",
+  "OperationName": "Gets/List apiservice-registration-controller resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Poststarthook/Apiservice-Registration-Controller",
+  "Description": "Reads apiservice-registration-controller",
+  "IsDataAction": true
+}

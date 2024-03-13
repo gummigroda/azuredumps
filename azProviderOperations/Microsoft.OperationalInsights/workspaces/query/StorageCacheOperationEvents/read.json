@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/StorageCacheOperationEvents/read",
+  "OperationName": "Read StorageCacheOperationEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "StorageCacheOperationEvents",
+  "Description": "Read data from the StorageCacheOperationEvents table",
+  "IsDataAction": false
+}

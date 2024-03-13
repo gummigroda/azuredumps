@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connection Proxy",
+  "Description": "Validate the private endpoint connection proxy",
+  "IsDataAction": false
+}

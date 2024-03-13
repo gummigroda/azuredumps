@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/savingsPlanOrders/savingsPlans/read",
+  "OperationName": "Get SavingsPlans",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "SavingsPlans",
+  "Description": "Read All SavingsPlans",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/policies/read",
+  "OperationName": "Get security policy",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Policy",
+  "Description": "Gets the security policy",
+  "IsDataAction": false
+}

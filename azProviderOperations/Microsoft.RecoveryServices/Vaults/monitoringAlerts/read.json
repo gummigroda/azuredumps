@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/monitoringAlerts/read",
+  "OperationName": "Get alerts",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Gets the alerts for the Recovery services vault.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/user/write",
+  "OperationName": "Write User",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/User",
+  "Description": "Modify a user",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/delete",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/delete",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes",
+  "Description": "Deletes private link scope.",
+  "IsDataAction": false
+}

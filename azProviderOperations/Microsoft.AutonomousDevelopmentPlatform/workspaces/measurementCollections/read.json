@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurementCollections/read",
+  "OperationName": "Read Measurement Collections",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Measurement Collections",
+  "Description": "Read and list the details of the available Measurement Collections in the workspace",
+  "IsDataAction": true
+}

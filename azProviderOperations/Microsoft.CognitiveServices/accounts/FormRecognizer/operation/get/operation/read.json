@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/operation/get/operation/read",
+  "OperationName": "Get operation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Gets operation.",
+  "IsDataAction": true
+}

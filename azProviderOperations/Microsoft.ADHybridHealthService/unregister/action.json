@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/unregister/action",
+  "OperationName": "Unregisters the ADHybrid Health Service Resource Provider.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for ADHybrid Health Service Resource Provider.",
+  "IsDataAction": false
+}

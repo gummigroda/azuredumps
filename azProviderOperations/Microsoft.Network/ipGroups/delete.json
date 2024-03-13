@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/delete",
+  "OperationName": "Delete IpGroups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Deletes an IpGroup",
+  "IsDataAction": false
+}

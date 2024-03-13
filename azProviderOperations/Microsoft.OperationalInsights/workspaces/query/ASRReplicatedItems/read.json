@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ASRReplicatedItems/read",
+  "OperationName": "Read ASRReplicatedItems data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ASRReplicatedItems",
+  "Description": "Read data from the ASRReplicatedItems table",
+  "IsDataAction": false
+}

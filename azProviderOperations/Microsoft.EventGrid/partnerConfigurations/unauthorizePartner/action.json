@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerConfigurations/unauthorizePartner/action",
+  "OperationName": "Unauthorize Partner",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerConfigurations",
+  "Description": "Unauthorize a partner in the partner configuration",
+  "IsDataAction": false
+}

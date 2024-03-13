@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/apiKeys/delete",
+  "OperationName": "Gets or deletes an API key in a confluent cluster",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Gets or deletes an API key in a  confluent cluster",
+  "IsDataAction": false
+}

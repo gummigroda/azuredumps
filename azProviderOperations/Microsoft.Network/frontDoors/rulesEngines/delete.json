@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/rulesEngines/delete",
+  "OperationName": "Deletes a Rules Engine",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Rules Engine",
+  "Description": "Deletes a Rules Engine",
+  "IsDataAction": false
+}

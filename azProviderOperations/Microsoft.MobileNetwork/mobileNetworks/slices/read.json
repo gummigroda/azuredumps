@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/slices/read",
+  "OperationName": "Slices_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/slices",
+  "Description": "Lists all slices in the mobile network.",
+  "IsDataAction": false
+}

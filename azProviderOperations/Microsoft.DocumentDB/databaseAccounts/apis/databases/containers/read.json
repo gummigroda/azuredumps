@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read container(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read a container or list all the containers. Only applicable to API types: 'sql'.",
+  "IsDataAction": false
+}

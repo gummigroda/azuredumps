@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/read",
+  "OperationName": "Read Data Factory",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads the Data Factory.",
+  "IsDataAction": false
+}

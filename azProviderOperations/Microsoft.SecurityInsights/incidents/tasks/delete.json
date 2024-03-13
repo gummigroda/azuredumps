@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/tasks/delete",
+  "OperationName": "Delete Incident Tasks",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Tasks",
+  "Description": "Deletes a task on the incident",
+  "IsDataAction": false
+}

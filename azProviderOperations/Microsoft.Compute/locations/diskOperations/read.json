@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/diskOperations/read",
+  "OperationName": "Get Disk Operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskOperation",
+  "Description": "Gets the status of an asynchronous Disk operation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/latestBackupStatus/current/read",
+  "OperationName": "Get volume's backup status",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Get the status of the backup for a volume",
+  "IsDataAction": false
+}

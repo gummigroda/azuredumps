@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/virtualClusters/delete",
+  "OperationName": "Delete Azure SQL Virtual Cluster",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure Sql Virtual Cluster",
+  "Description": "Deletes an existing virtual cluster.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAApp/Read",
+  "OperationName": "Read UAApp data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAApp",
+  "Description": "Read data from the UAApp table",
+  "IsDataAction": false
+}

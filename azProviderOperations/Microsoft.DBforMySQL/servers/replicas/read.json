@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/replicas/read",
+  "OperationName": "Get MySQL read replicas",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Get read replicas of a MySQL server",
+  "IsDataAction": false
+}

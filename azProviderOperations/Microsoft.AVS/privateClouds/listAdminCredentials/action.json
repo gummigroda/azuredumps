@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/listAdminCredentials/action",
+  "OperationName": "List privateClouds AdminCredentials",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds",
+  "Description": "Lists the AdminCredentials for privateClouds.",
+  "IsDataAction": true
+}

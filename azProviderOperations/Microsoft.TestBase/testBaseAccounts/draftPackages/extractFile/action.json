@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/draftPackages/extractFile/action",
+  "OperationName": "DraftPackages_ExtractFile",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/draftPackages",
+  "Description": "Performs extracting file operation for a Test Base Draft Package",
+  "IsDataAction": false
+}

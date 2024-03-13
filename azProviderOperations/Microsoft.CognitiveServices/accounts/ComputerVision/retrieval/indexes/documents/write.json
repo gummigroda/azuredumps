@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/documents/write",
+  "OperationName": "CreateIngestionDocument|UpdateIngestionDocument*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Operations",
+  "Description": "Create a document in an index. If the index doesn't exist, then it will be created automatically.\r\nUpdate a document.*",
+  "IsDataAction": true
+}

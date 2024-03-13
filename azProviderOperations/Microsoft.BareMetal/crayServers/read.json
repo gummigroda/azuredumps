@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/crayServers/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Cray Server",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

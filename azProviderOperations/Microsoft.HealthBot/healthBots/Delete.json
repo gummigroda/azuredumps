@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Delete",
+  "OperationName": "Deletes healthBot resource",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Deletes healthBots",
+  "IsDataAction": false
+}

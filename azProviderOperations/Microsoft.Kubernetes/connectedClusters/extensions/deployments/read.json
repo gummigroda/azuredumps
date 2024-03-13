@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/deployments/read",
+  "OperationName": "Gets/List deployments resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "deployments",
+  "Description": "Reads deployments",
+  "IsDataAction": true
+}

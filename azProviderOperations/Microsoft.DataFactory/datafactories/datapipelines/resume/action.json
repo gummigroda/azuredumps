@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/resume/action",
+  "OperationName": "Resume Pipeline",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Resumes any Pipeline.",
+  "IsDataAction": false
+}

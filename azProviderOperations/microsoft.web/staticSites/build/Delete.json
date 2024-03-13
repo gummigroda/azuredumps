@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/build/Delete",
+  "OperationName": "Delete Static Site",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build",
+  "Description": "Delete a build for a Static Site",
+  "IsDataAction": false
+}

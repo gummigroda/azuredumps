@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/licenseProfiles/write",
+  "OperationName": "Install or Update an Azure Arc licenseProfiles",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "licenseProfiles",
+  "Description": "Installs or Updates an Azure Arc licenseProfiles",
+  "IsDataAction": false
+}

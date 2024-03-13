@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/kubernetesVersions/write",
+  "OperationName": "PutKubernetesVersions",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "kubernetesVersions",
+  "Description": "Puts the kubernetes version resource type",
+  "IsDataAction": false
+}

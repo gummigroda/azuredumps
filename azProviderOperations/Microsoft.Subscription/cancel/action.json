@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/cancel/action",
+  "OperationName": "Cancel subscription",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "",
+  "Description": "Cancels the Subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CDBPartitionKeyRUConsumption/read",
+  "OperationName": "Read CDBPartitionKeyRUConsumption data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CDBPartitionKeyRUConsumption",
+  "Description": "Read data from the CDBPartitionKeyRUConsumption table",
+  "IsDataAction": false
+}

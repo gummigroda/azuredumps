@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/privateEndpointConnections/write",
+  "OperationName": "Create or Update Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Create or Update Private Endpoint Connection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/maintenanceConfigurations/read",
+  "OperationName": "Get a maintenance configuration",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Maintenance Configurations",
+  "Description": "Gets a maintenance configuration",
+  "IsDataAction": false
+}

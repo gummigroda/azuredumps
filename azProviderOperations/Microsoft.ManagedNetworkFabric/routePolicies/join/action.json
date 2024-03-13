@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/join/action",
+  "OperationName": "RoutePolicies_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "Join action for Route Policy resource.",
+  "IsDataAction": false
+}

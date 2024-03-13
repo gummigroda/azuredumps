@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/diagnosticSettings/read",
+  "OperationName": "Get Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Diagnostic Settings",
+  "Description": "Gets the diganostic setting read for the resource",
+  "IsDataAction": false
+}

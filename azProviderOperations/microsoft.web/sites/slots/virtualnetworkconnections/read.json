@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/virtualnetworkconnections/read",
+  "OperationName": "Get Web Apps Slots Virtual Network Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Virtual Network Connections",
+  "Description": "Get Web Apps Slots Virtual Network Connections.",
+  "IsDataAction": false
+}

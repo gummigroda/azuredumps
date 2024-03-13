@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/backendPoolAddresses/read",
+  "OperationName": "Lists the backend addresses of the Load Balancer backend address pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Lists the backend addresses of the Load Balancer backend address pool",
+  "IsDataAction": false
+}

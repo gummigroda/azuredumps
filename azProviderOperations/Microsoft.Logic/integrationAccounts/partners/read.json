@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/partners/read",
+  "OperationName": "Get Integration Account Partner",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Partner",
+  "Description": "Reads the parter in integration account.",
+  "IsDataAction": false
+}

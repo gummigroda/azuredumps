@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/stopProtection/action",
+  "OperationName": "Stop Protection of Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Stop Protection operation stops both backup and retention schedules of backup instance. Existing data will be retained forever.",
+  "IsDataAction": false
+}

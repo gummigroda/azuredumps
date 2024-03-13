@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/write",
+  "OperationName": "SqlServerAvailabilityGroups_Update",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances/availabilityGroups",
+  "Description": "Updates an existing Availability Group.",
+  "IsDataAction": false
+}

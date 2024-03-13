@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/deletedataflowdebugsession/action",
+  "OperationName": "Delete Data Flow debug session.",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Deletes a Data Flow debug session.",
+  "IsDataAction": false
+}

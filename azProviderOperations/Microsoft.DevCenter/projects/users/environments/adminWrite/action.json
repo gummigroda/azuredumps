@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/adminWrite/action",
+  "OperationName": "Projects_Environments_AdminWrite",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows a project administrator to write all of the environments in a project.",
+  "IsDataAction": true
+}

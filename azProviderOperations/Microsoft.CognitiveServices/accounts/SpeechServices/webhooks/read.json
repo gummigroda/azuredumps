@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/webhooks/read",
+  "OperationName": "Get Web Hooks|Get Web Hook*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "webhooks*",
+  "Description": "Gets the list of web hooks for the authenticated subscription.\r\nGets the web hook identified by the given ID.*",
+  "IsDataAction": true
+}

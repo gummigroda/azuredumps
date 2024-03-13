@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/proxyPublishers/networkFunctionDefinitionGroups/read",
+  "OperationName": "ProxyNetworkFunctionDefinitionGroups_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "proxyPublishers/networkFunctionDefinitionGroups",
+  "Description": "Get information about network function definition overview.",
+  "IsDataAction": false
+}

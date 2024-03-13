@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/certificates.k8s.io/certificatesigningrequests/write",
+  "OperationName": "Creates/Updates certificatesigningrequests resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Certificatesigningrequests",
+  "Description": "Writes certificatesigningrequests",
+  "IsDataAction": true
+}

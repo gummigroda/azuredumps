@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/operations/imageanalysis:analyze/action",
+  "OperationName": "Analyze",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Analyze the input image of incoming request without deployment. The request either contains image stream",
+  "IsDataAction": true
+}

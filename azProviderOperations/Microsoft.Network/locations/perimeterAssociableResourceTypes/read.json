@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/perimeterAssociableResourceTypes/read",
+  "OperationName": "Gets Network Security Perimeter Associable Resources",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Associable Resources",
+  "Description": "Gets Network Security Perimeter Associable Resources",
+  "IsDataAction": false
+}

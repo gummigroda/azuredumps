@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/nodes/read",
+  "OperationName": "Get Integration Runtime Node.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Get any Integration Runtime Node.",
+  "IsDataAction": false
+}

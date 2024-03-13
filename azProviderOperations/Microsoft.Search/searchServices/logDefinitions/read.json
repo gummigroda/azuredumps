@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/logDefinitions/read",
+  "OperationName": "Read search service log definitions",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "The log definition for the search service",
+  "Description": "Gets the available logs for the search service",
+  "IsDataAction": false
+}

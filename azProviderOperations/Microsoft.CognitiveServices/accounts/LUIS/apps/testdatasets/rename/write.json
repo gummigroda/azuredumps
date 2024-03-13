@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/testdatasets/rename/write",
+  "OperationName": "rename - RenameBatchTestDataSet",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "rename*",
+  "Description": "Updates the name of an exisiting batch test data set for a given application.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/vcenters/Write",
+  "OperationName": "Create/update vcenters resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "vcenters",
+  "Description": "Writes vcenters",
+  "IsDataAction": false
+}

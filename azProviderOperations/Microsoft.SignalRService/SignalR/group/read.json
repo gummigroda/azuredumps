@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/group/read",
+  "OperationName": "Read Group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Group",
+  "Description": "Check group existence or user existence in group",
+  "IsDataAction": true
+}

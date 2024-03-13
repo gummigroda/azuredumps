@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/administratorOperationResults/read",
+  "OperationName": "Get server administrator operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The server administrator",
+  "Description": "Gets in-progress operations on server administrators",
+  "IsDataAction": false
+}

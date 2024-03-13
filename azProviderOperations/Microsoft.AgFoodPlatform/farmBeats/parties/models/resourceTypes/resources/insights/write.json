@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insights/write",
+  "OperationName": "Create or Update AgFoodPlatform insights.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform insights",
+  "Description": "Creates or Updates AgFoodPlatform insights.",
+  "IsDataAction": true
+}

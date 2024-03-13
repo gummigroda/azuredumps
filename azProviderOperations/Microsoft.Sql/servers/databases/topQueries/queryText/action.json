@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/topQueries/queryText/action",
+  "OperationName": "Get Database Top Queries query text",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Top Queries query text",
+  "Description": "Returns the Transact-SQL text for selected query ID",
+  "IsDataAction": false
+}

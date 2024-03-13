@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read Static Site metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of Static Site",
+  "Description": "Gets the available metrics for Static Site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/transcript/action",
+  "OperationName": "Review - Add video transcript",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage reviews.",
+  "Description": "This API adds a transcript file (text version of all the words spoken in a video) to a video review. The file should be a valid WebVTT format.",
+  "IsDataAction": true
+}

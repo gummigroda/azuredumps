@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/managementassociations/read",
+  "OperationName": "Get Management Association",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Management Association",
+  "Description": "Get Management Association.",
+  "IsDataAction": false
+}

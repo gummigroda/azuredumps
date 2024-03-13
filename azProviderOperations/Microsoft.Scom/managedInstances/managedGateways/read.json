@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/managedGateways/read",
+  "OperationName": "ManagedGateways_ListByManagedInstance",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/managedGateways",
+  "Description": "A comprehensive list of all gateway resources within a SCOM managed instance.",
+  "IsDataAction": false
+}

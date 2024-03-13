@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/authentication.k8s.io/read",
+  "OperationName": "Gets/List authentication.k8s.io resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Authentication.K8s.Io",
+  "Description": "Reads authentication.k8s.io",
+  "IsDataAction": true
+}

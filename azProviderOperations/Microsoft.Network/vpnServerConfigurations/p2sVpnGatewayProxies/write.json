@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/p2sVpnGatewayProxies/write",
+  "OperationName": "Create or update P2SVpnGateway Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2SVpnGateway Proxy",
+  "Description": "Creates a P2SVpnGateway Proxy or updates a P2SVpnGateway Proxy",
+  "IsDataAction": false
+}

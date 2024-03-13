@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/start/action",
+  "OperationName": "Start an application gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Starts an application gateway",
+  "IsDataAction": false
+}

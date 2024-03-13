@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/upgrade/action",
+  "OperationName": "NetworkFabrics_upgrade",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Upgrades the version of the underlying resources in the given Network Fabric instance.",
+  "IsDataAction": false
+}

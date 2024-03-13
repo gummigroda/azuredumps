@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/LogicalNetworks/Read",
+  "OperationName": "Gets/Lists logical networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "LogicalNetworks",
+  "Description": "Gets/Lists logical networks resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/versions/read",
+  "OperationName": "Gets a job version",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job versions",
+  "Description": "Get a job version",
+  "IsDataAction": false
+}

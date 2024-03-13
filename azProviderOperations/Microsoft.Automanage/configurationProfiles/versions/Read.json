@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfiles/versions/Read",
+  "OperationName": "Read Automanage ConfigurationProfiles Versions",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage ConfigurationProfiles Versions",
+  "Description": "Read any Automanage ConfigurationProfiles Versions",
+  "IsDataAction": false
+}

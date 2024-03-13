@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials/read",
+  "OperationName": "List storage account credentials",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "storage account credentials",
+  "Description": "Lists or gets the storage account credentials",
+  "IsDataAction": false
+}

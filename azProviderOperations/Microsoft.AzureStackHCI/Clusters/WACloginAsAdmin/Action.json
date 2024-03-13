@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/WACloginAsAdmin/Action",
+  "OperationName": "Manage OS of HCI resource via Windows Admin Center as an administrator",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Manage OS of HCI resource via Windows Admin Center as an administrator",
+  "IsDataAction": true
+}

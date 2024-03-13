@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/write",
+  "OperationName": "NetworkToNetworkInterconnects_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Configuration used to setup CE-PE connectivity PUT Method.",
+  "IsDataAction": false
+}

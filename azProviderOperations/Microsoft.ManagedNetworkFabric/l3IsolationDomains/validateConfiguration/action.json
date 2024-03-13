@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/validateConfiguration/action",
+  "OperationName": "L3IsolationDomains_ValidateConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Validates the configuration of the resources.",
+  "IsDataAction": false
+}

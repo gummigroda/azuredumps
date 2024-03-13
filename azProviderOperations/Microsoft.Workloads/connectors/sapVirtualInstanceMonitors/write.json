@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/sapVirtualInstanceMonitors/write",
+  "OperationName": "SapVirtualInstanceMonitorConnections_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/sapVirtualInstanceMonitors",
+  "Description": "Updates the monitor connection resource of virtual instance for SAP. <br><br>This can be used to update tags on the resource.",
+  "IsDataAction": false
+}

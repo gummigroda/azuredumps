@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/keys/read",
+  "OperationName": "Get user keys",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User Keys",
+  "Description": "Get keys associated with user",
+  "IsDataAction": false
+}

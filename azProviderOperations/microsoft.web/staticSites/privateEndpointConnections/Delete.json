@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/privateEndpointConnections/Delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Private Endpoint Connection",
+  "Description": "Delete a Private Endpoint Connection for a Static Site",
+  "IsDataAction": false
+}

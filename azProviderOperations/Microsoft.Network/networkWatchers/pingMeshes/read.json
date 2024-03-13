@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/pingMeshes/read",
+  "OperationName": "Get PingMesh",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh",
+  "Description": "Get PingMesh details",
+  "IsDataAction": false
+}

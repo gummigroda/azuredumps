@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/userAssignedIdentities/notify/action",
+  "OperationName": "Notify user assigned identity deletion",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Notify user assigned identity deletion",
+  "Description": "Notify user assigned identity deletion",
+  "IsDataAction": false
+}

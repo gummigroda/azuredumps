@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/registeredIdentities/write",
+  "OperationName": "Register Service Container",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Register Service Container operation can be used to register a container with Recovery Service.",
+  "IsDataAction": false
+}

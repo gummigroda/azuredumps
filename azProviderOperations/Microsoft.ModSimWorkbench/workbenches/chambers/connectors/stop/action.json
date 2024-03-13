@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/connectors/stop/action",
+  "OperationName": "connectors_Stop",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/connectors",
+  "Description": "stop connectors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/virtualNetworkRules/write",
+  "OperationName": "Create or Update Virtual Network Rule",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Create or update a virtual network rule.",
+  "IsDataAction": false
+}

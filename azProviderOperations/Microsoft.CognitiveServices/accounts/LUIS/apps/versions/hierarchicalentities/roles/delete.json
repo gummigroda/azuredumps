@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/hierarchicalentities/roles/delete",
+  "OperationName": "Delete hierarchical entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hierarchical entity roles",
+  "Description": "Deletes the role for a hierarchical entity model.",
+  "IsDataAction": true
+}

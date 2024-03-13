@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/recommendations/read",
+  "OperationName": "Get IoT Recommendations",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Recommendations",
+  "Description": "Gets IoT Recommendations",
+  "IsDataAction": false
+}

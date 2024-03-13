@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve PrivateEndpointConnection",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Approve PrivateEndpointConnection resource",
+  "IsDataAction": false
+}

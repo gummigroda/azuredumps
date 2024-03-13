@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/firewallRules/delete",
+  "OperationName": "Delete Redis Cache Firewall Rule",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "IP firewall rule of a Redis Cache",
+  "Description": "Delete IP firewall rules of a Redis Cache",
+  "IsDataAction": false
+}

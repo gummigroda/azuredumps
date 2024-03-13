@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Diagnostic setting for App Service Environment",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

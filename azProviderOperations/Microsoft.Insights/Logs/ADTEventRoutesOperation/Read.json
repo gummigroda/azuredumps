@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADTEventRoutesOperation/Read",
+  "OperationName": "Read ADTEventRoutesOperation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADTEventRoutesOperation",
+  "Description": "Read data from the ADTEventRoutesOperation table",
+  "IsDataAction": false
+}

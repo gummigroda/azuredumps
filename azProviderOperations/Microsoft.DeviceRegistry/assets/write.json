@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/assets/write",
+  "OperationName": "Assets_Update",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "assets",
+  "Description": "Update specific asset properties.",
+  "IsDataAction": false
+}

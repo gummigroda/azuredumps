@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrincipalAssignments/delete",
+  "OperationName": "Delete a Cluster principal assignments resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Cluster principal assignments resource type",
+  "Description": "Deletes a Cluster principal assignments resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/flowLogs/delete",
+  "OperationName": "Delete Flow Log",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Flow Log",
+  "Description": "Deletes a Flow Log",
+  "IsDataAction": false
+}

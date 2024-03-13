@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/operatingSystemFamilies/read",
+  "OperationName": "List available operating system families",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Lists the guest operating system families available in Microsoft Azure, and also lists the operating system versions available for each family.",
+  "IsDataAction": false
+}

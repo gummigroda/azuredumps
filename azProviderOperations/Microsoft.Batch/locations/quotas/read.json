@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/locations/quotas/read",
+  "OperationName": "Get Batch Quotas",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Quotas",
+  "Description": "Gets Batch quotas of the specified subscription at the specified Azure region",
+  "IsDataAction": false
+}

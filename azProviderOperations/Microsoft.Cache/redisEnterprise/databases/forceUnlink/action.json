@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/databases/forceUnlink/action",
+  "OperationName": "Force unlink Redis Enterprise database georeplica",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache database",
+  "Description": "Forcibly unlink a georeplica Redis Enterprise database from its peers",
+  "IsDataAction": false
+}

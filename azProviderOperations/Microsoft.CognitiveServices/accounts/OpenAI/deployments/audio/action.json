@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/deployments/audio/action",
+  "OperationName": "Create audio transcriptions or translations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Return the transcript or translation for a given audio file.",
+  "IsDataAction": true
+}

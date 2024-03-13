@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/delete",
+  "OperationName": "DevCenters_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters",
+  "Description": "Deletes a devcenter",
+  "IsDataAction": false
+}

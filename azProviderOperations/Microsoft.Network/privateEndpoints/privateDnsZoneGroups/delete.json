@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpoints/privateDnsZoneGroups/delete",
+  "OperationName": "Delete Private DNS Zone Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone Group",
+  "Description": "Deletes a Private DNS Zone Group",
+  "IsDataAction": false
+}

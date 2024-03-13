@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/listAdminCredentials/action",
+  "OperationName": "List Admin Kubeconfig of an OpenShift cluster",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "openShiftClusters",
+  "Description": null,
+  "IsDataAction": false
+}

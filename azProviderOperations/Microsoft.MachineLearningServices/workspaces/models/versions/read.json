@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/models/versions/read",
+  "OperationName": "Reads Model Versions in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Model Version",
+  "Description": "Reads Model Versions in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/consoleServices/disableConsole/action",
+  "OperationName": "Disable Console",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Disable Serial Console for a subscription",
+  "IsDataAction": false
+}

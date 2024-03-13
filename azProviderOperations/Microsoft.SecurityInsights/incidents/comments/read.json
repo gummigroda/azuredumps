@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/comments/read",
+  "OperationName": "Get Incident Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Comments",
+  "Description": "Gets the incident comments",
+  "IsDataAction": false
+}

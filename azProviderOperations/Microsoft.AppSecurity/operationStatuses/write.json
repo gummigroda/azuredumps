@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppSecurity/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.AppSecurity",
+  "ResourceName": "operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

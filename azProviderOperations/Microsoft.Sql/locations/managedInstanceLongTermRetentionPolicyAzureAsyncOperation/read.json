@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedInstanceLongTermRetentionPolicyAzureAsyncOperation/read",
+  "OperationName": "Get long term retention policy operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Long Term Retention Policy",
+  "Description": "Gets the status of a long term retention policy operation for a managed database",
+  "IsDataAction": false
+}

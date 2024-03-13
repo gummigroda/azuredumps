@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPPrefixes/join/action",
+  "OperationName": "Join PublicIPPrefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Prefix",
+  "Description": "Joins a PublicIPPrefix. Not alertable.",
+  "IsDataAction": false
+}

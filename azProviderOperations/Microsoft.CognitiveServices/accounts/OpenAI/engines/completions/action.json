@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/engines/completions/action",
+  "OperationName": "Create a completion from a chosen model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Engines",
+  "Description": "Create a completion from a chosen model",
+  "IsDataAction": true
+}

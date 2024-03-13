@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/delete",
+  "OperationName": "Nfvis_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis",
+  "Description": "Deletes the specified Mobile Packet Core Network Function Virtualization Infrastructure resource",
+  "IsDataAction": false
+}

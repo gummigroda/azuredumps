@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/rotateClusterCertificates/action",
+  "OperationName": "Rotate certificates of the cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Rotate certificates of a managed cluster",
+  "IsDataAction": false
+}

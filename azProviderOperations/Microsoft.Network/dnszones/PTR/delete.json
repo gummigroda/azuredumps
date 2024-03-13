@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/PTR/delete",
+  "OperationName": "Delete record set of type PTR",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS PTR record set",
+  "Description": "Remove the record set of a given name and type ‘PTR’ from a DNS zone.",
+  "IsDataAction": false
+}

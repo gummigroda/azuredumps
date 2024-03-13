@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/codes/versions/write",
+  "OperationName": "Create or Update Code Versions in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Code Version",
+  "Description": "Create or Update Code Versions in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

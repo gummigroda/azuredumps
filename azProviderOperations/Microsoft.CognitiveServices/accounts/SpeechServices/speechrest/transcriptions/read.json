@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/transcriptions/read",
+  "OperationName": "Get one or more transcriptions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Transcriptions",
+  "Description": "Get one or more transcriptions",
+  "IsDataAction": true
+}

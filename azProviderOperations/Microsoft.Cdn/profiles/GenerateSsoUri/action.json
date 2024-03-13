@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/GenerateSsoUri/action",
+  "OperationName": "GenerateSsoUri",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

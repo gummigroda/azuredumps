@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/aksAssessments/delete",
+  "OperationName": "Delete aks Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "aks Assessments",
+  "Description": "Deletes the aks Assessment which are available in the given location",
+  "IsDataAction": false
+}

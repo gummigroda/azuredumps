@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlDatabases/read",
+  "OperationName": "Create or Update SQL Analytics Databases.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Databases",
+  "Description": "Read any SQL Analytics Databases.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AOIDigestion/read",
+  "OperationName": "Read AOIDigestion data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AOIDigestion",
+  "Description": "Read data from the AOIDigestion table",
+  "IsDataAction": false
+}

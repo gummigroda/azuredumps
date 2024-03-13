@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate PrivateEndpointConnectionProxy",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccess PrivateEndpointConnection proxies",
+  "Description": "Validate a Private Endpoint Connection Proxy object",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/restoresnapshot/action",
+  "OperationName": "Restore Web Apps Slots Snapshots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Restore Web Apps Slots Snapshots.",
+  "IsDataAction": false
+}

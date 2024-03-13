@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/Write",
+  "OperationName": "Create/update cluster resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Creates or updates a cluster",
+  "IsDataAction": false
+}

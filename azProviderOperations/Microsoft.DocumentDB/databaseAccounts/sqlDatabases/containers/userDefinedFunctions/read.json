@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/read",
+  "OperationName": "Read SQL user defined function(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL User Defined Function",
+  "Description": "Read a SQL user defined function or list all the SQL user defined functions.",
+  "IsDataAction": false
+}

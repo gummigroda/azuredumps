@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/delete",
+  "OperationName": "Delete the sensitivity label of a given column",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Delete the sensitivity label of a given column",
+  "IsDataAction": false
+}

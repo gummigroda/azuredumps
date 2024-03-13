@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/updateReferences/action",
+  "OperationName": "Update reference in an IpGroup",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Update references in an IpGroup",
+  "IsDataAction": false
+}

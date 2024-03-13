@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/write",
+  "OperationName": "Creates or Updates a Sql Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Site",
+  "Description": "Creates or Updates a Sql Site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/enrollmentAccounts/read",
+  "OperationName": "BillingProfileEnrollmentAccounts_ListByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enrollment Accounts",
+  "Description": "Lists the enrollment accounts for a specific billing account and a billing profile belonging to it.",
+  "IsDataAction": false
+}

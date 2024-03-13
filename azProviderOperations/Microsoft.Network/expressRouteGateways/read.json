@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/read",
+  "OperationName": "Get Express Route Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Gateway",
+  "Description": "Get Express Route Gateway",
+  "IsDataAction": false
+}

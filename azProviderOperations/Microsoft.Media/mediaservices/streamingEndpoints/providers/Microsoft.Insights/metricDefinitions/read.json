@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingEndpoints/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get list of Media Services Streaming Endpoint Metrics definitions.",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Endpoints",
+  "Description": "Get list of Media Services Streaming Endpoint Metrics definitions.",
+  "IsDataAction": false
+}

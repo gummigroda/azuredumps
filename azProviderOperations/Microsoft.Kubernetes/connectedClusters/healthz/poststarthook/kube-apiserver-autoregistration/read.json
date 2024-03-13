@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/kube-apiserver-autoregistration/read",
+  "OperationName": "Gets/List kube-apiserver-autoregistration resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/kube-apiserver-autoregistration",
+  "Description": "Reads kube-apiserver-autoregistration",
+  "IsDataAction": true
+}

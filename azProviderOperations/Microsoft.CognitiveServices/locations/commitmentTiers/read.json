@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/commitmentTiers/read",
+  "OperationName": "Read Available Commitment Tiers",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Commitment Tier",
+  "Description": "Reads available commitment tiers.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/threads/runs/steps/read",
+  "OperationName": "Retrieve assistant thread run step",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Retrieve assistant thread run step.",
+  "IsDataAction": true
+}

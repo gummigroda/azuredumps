@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/debugSend/action",
+  "OperationName": "Send a test push notification.",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub",
+  "Description": "Send a test push notification to 10 matched devices.",
+  "IsDataAction": false
+}

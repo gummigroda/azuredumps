@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/afssharemetadatacertificatepublickeys/read",
+  "OperationName": "Read cloudEndpoints/afssharemetadatacertificatepublickeys",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Cloud Endpoints",
+  "Description": "Gets the public keys info for AfsShareMetadata certificate",
+  "IsDataAction": false
+}

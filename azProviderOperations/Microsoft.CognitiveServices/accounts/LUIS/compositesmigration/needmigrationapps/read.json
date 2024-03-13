@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/compositesmigration/needmigrationapps/read",
+  "OperationName": "app - GetNeedsCompositeMigrationApps",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "needmigrationapps*",
+  "Description": "Get applications needing composite migrations",
+  "IsDataAction": true
+}

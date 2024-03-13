@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/hostnameConfigurations/write",
+  "OperationName": "Request product subscription",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway hostname configurations",
+  "Description": "Request subscription for a new product",
+  "IsDataAction": false
+}

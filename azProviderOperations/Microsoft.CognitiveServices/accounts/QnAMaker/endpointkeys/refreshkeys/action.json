@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/endpointkeys/refreshkeys/action",
+  "OperationName": "Endpoint Keys - Refresh Keys",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoint Keys",
+  "Description": "Re-generates an endpoint key.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/networkstatus/read",
+  "OperationName": "Gets the network status of the service",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Network Status",
+  "Description": "Gets the network access status of resources on which the service depends on.",
+  "IsDataAction": false
+}

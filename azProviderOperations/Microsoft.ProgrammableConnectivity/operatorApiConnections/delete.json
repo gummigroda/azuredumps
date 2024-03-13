@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorApiConnections/delete",
+  "OperationName": "OperatorApiConnections_Delete",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorApiConnections",
+  "Description": "Delete an Operator API Connection.",
+  "IsDataAction": false
+}

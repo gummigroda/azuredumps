@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/recoveryPoints/read",
+  "OperationName": "Get Recovery Points",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Recovery Points",
+  "Description": "Returns all Recovery Points",
+  "IsDataAction": false
+}

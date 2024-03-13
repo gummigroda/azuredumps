@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/projects/jobDefinitions/jobRuns/read",
+  "OperationName": "JobRuns_Get",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/projects/jobDefinitions/jobRuns",
+  "Description": "Gets a Job Run resource.",
+  "IsDataAction": false
+}

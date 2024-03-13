@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/queueBuild/action",
+  "OperationName": "Queue a new build.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Creates a new build based on the request parameters and add it to the build queue.",
+  "IsDataAction": false
+}

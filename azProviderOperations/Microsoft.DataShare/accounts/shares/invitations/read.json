@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/invitations/read",
+  "OperationName": "Read Data Share Invitations",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Invitations",
+  "Description": "Reads a Data Share Invitation.",
+  "IsDataAction": false
+}

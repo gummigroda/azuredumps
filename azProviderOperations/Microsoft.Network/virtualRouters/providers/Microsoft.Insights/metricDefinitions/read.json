@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualRouters/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get VirtualRouter Metric Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualRouter Metric Definitions",
+  "Description": "Gets The Metric Definitions For VirtualRouter",
+  "IsDataAction": false
+}

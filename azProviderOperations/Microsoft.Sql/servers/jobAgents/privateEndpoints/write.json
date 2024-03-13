@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/privateEndpoints/write",
+  "OperationName": "Creates or updates a private endpoint",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB private endpoints",
+  "Description": "Create or update a private endpoint",
+  "IsDataAction": false
+}

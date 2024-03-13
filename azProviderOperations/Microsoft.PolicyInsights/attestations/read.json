@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/attestations/read",
+  "OperationName": "Get Attestations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Attestations",
+  "Description": "Get compliance state attestations.",
+  "IsDataAction": false
+}

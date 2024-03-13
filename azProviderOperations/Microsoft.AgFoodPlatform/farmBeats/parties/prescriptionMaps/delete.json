@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/prescriptionMaps/delete",
+  "OperationName": "Delete AgFoodPlatform prescription maps resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform prescription maps",
+  "Description": "Deletes an existing AgFoodPlatform prescription maps resource.",
+  "IsDataAction": true
+}

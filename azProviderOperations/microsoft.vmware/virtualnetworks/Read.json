@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualnetworks/Read",
+  "OperationName": "Gets/List virtualnetworks resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualnetworks",
+  "Description": "Read virtualnetworks",
+  "IsDataAction": false
+}

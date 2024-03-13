@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/write",
+  "OperationName": "Write a Resource Management Private Link",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Resource Management Private Link",
+  "Description": "Creates or updates a resource management private link.",
+  "IsDataAction": false
+}

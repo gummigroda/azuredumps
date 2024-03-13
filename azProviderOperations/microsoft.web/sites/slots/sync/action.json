@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/sync/action",
+  "OperationName": "Sync Web Apps Slots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Sync Web Apps Slots.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/dnssecConfigs/default/write",
+  "OperationName": "Creates or updates the DNSSEC configuration for a DNS zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNSSEC configuration for a DNS zone",
+  "Description": "Creates or updates the DNSSEC configuration for a DNS zone",
+  "IsDataAction": false
+}

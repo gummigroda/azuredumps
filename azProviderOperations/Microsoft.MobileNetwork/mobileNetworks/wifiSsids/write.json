@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/wifiSsids/write",
+  "OperationName": "WifiSsids_Update",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/wifiSsids",
+  "Description": "Updates Wi-Fi SSID.",
+  "IsDataAction": false
+}

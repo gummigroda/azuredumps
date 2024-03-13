@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/locations/operationsstatus/read",
+  "OperationName": "Read operations status",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "locations/operationsstatus",
+  "Description": null,
+  "IsDataAction": false
+}

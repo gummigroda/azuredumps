@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

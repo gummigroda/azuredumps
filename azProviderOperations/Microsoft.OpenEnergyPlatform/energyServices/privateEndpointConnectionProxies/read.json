@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnectionProxies/read",
+  "OperationName": "PrivateEndpointConnectionProxies_Get",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnectionProxies",
+  "Description": "(INTERNAL - DO NOT USE) Get the specified private endpoint connection proxy associated with the OAK Instance.",
+  "IsDataAction": false
+}

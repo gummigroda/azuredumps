@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/write",
+  "OperationName": "Write cluster resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Writes a cluster resource.",
+  "IsDataAction": false
+}

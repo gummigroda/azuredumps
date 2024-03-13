@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/operations/read",
+  "OperationName": "List Managed Services Operations.",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Operations",
+  "Description": "Retrieves a list of Managed Services operations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policies/delete",
+  "OperationName": "Remove Workspace policy configuration from policies",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace policies configuration",
+  "Description": "Deletes the policy configuration at the Workspace.",
+  "IsDataAction": false
+}

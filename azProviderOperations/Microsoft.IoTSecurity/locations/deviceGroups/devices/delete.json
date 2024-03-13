@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/devices/delete",
+  "OperationName": "Delete device",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Devices",
+  "Description": "Deletes device",
+  "IsDataAction": false
+}

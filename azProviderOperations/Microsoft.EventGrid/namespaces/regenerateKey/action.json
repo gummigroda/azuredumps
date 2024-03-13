@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/regenerateKey/action",
+  "OperationName": "Regenerate Namespace key",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "namespaces",
+  "Description": "Regenerate key for a namespace",
+  "IsDataAction": false
+}

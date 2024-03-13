@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/disable/action",
+  "OperationName": "Disable Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Disables the workflow.",
+  "IsDataAction": false
+}

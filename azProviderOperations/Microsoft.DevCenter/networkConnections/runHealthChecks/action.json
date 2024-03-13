@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/runHealthChecks/action",
+  "OperationName": "NetworkConnections_RunHealthChecks",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections",
+  "Description": "Triggers a new health check run. The execution and health check result can be tracked via the network Connection health check details",
+  "IsDataAction": false
+}

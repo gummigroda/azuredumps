@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/requestcounts/read",
+  "OperationName": "List API request counts at different timestamps given a time range.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Request Count at timestamps for the API",
+  "Description": "List API request counts at different timestamps given a time range. Default maxpagesize is 1000.",
+  "IsDataAction": true
+}

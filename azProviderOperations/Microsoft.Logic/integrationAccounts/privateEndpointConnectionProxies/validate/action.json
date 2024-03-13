@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Private Endpoints Connection Proxies",
+  "Description": "Validates the Private Endpoint Connection Proxies.",
+  "IsDataAction": false
+}

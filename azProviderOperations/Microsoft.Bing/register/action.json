@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/register/action",
+  "OperationName": "Subscription Registration",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "",
+  "Description": "Register a subscription with the Microsoft.Bing resource provider",
+  "IsDataAction": false
+}

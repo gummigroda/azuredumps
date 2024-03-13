@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/createjobsastoken/action",
+  "OperationName": "Check permissions for getting SAS token for job linked to Singularity group policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Action to check for user access to get SAS token for a job linked to Singularity group policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/register/action",
+  "OperationName": "Register the Microsoft.Pki",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Pki",
+  "IsDataAction": false
+}

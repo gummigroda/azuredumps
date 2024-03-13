@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/upgradetranslationfailures/read",
+  "OperationName": "Get Translation Failure Log",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Get Search Upgrade Translation Failure log for the workspace",
+  "IsDataAction": false
+}

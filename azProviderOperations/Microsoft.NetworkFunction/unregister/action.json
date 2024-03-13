@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkFunction/unregister/action",
+  "OperationName": "UnregisterSubscription",
+  "ProviderNamespace": "MicrosoftNetworkFunction",
+  "ResourceName": "",
+  "Description": "UnregistersTheSubscription",
+  "IsDataAction": false
+}

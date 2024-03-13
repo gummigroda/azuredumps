@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/restart/action",
+  "OperationName": "Restart PostgreSQL Server",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Restarts a specific server.",
+  "IsDataAction": false
+}

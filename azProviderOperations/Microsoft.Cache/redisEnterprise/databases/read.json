@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/databases/read",
+  "OperationName": "Manage Redis Enterprise cache database (read)",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache database",
+  "Description": "View the Redis Enterprise cache database's settings and configuration in the management portal",
+  "IsDataAction": false
+}

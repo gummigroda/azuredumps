@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/cloudManifestFiles/read",
+  "OperationName": "Get Cloud Manifest File",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Cloud Manifest File",
+  "Description": "Gets the Cloud Manifest File",
+  "IsDataAction": false
+}

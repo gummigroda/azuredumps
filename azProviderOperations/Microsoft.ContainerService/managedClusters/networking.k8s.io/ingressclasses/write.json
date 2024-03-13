@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/networking.k8s.io/ingressclasses/write",
+  "OperationName": "Creates/Updates ingressclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Ingressclasses",
+  "Description": "Writes ingressclasses",
+  "IsDataAction": true
+}

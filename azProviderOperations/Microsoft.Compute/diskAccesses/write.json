@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/write",
+  "OperationName": "Create or Update DiskAccess",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccesses",
+  "Description": "Create a new DiskAccess resource or update an existing one",
+  "IsDataAction": false
+}

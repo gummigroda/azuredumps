@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/InboundConnection/Read",
+  "OperationName": "Read InboundConnection data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "InboundConnection",
+  "Description": "Read data from the InboundConnection table",
+  "IsDataAction": false
+}

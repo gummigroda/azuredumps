@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/bulkactions/write",
+  "OperationName": "Create or update a TI Bulk Action",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIBulkActions",
+  "Description": "Creates or updates a TI Bulk Action",
+  "IsDataAction": false
+}

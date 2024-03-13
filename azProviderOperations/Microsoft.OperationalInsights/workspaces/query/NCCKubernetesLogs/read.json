@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NCCKubernetesLogs/read",
+  "OperationName": "Read NCCKubernetesLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NCCKubernetesLogs",
+  "Description": "Read data from the NCCKubernetesLogs table",
+  "IsDataAction": false
+}

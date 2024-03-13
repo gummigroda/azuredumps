@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/savedsearches/schedules/write",
+  "OperationName": "Create or update scheduled searches",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Schedules",
+  "Description": "Create or update scheduled searches.",
+  "IsDataAction": false
+}

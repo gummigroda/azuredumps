@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/discovery/read",
+  "OperationName": "Discover nearby Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Discover nearby spatial anchors",
+  "IsDataAction": true
+}

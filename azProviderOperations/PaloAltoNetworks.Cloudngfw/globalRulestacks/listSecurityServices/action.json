@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/listSecurityServices/action",
+  "OperationName": "GlobalRulestack_listSecurityServices",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "List the security services for rulestack",
+  "IsDataAction": false
+}

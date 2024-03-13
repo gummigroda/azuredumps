@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/delete",
+  "OperationName": "Drops a specific workload classifier.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The allowed operations for a data warehouse workload management workload classifier.",
+  "Description": "Drops a specific workload classifier.",
+  "IsDataAction": false
+}

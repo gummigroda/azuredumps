@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/runCommands/write",
+  "OperationName": "Create or Update Virtual Machine run command",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine RunCommands",
+  "Description": "Creates a new virtual machine run command or updates an existing one",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/privateEndpointConnectionProxies/write",
+  "OperationName": "Write a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Creates or updates a private endpoint connection proxy.",
+  "IsDataAction": false
+}

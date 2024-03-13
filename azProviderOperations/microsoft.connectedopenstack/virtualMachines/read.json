@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/read",
+  "OperationName": "VirtualMachines_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Implements VirtualMachines list by subscription GET method.",
+  "IsDataAction": false
+}

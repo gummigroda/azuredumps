@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/register/action",
+  "OperationName": "Registers the Microsoft Azure Large Instance Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft Azure Large Instance Resource Provider, and enables managing AzureLargeInstance resources",
+  "IsDataAction": false
+}

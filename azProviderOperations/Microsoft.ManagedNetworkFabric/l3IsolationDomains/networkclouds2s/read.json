@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3isolationdomains/networkclouds2s/read",
+  "OperationName": "NetworkCloudS2S_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3isolationdomains/networkclouds2s",
+  "Description": "Get the NetworkCloudS2S resource details.",
+  "IsDataAction": false
+}

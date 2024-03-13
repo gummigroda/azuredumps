@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ResourceFolders/ResourceFiles/write",
+  "OperationName": "Edit file's metadata like name, description, tags etc.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC resource files",
+  "Description": "Edit file's metadata like name, description, tags etc.",
+  "IsDataAction": true
+}

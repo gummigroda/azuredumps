@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerConfigurations/delete",
+  "OperationName": "Delete WorkspaceManager Configurations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerConfigurations",
+  "Description": "Deletes WorkspaceManager Configurations",
+  "IsDataAction": false
+}

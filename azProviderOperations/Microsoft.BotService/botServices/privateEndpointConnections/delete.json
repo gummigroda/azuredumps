@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnections/delete",
+  "OperationName": "Delete a Private Endpoint Connections Resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Private Endpoints Connection Resource",
+  "Description": "Delete a Private Endpoint Connections Resource",
+  "IsDataAction": false
+}

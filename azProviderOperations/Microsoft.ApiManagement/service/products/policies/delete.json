@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/policies/delete",
+  "OperationName": "Remove Product policy configuration from policies",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product policies configuration",
+  "Description": "Deletes the policy configuration at the Product.",
+  "IsDataAction": false
+}

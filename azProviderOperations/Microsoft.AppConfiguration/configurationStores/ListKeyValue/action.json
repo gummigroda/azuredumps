@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/ListKeyValue/action",
+  "OperationName": "List Configuration Store Key-Value",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Lists a key-value for the specified configuration store.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/applicationData/read",
+  "OperationName": "Get or List AgFoodPlatform application operations data resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform application operations data",
+  "Description": "Gets or Lists existing AgFoodPlatform application operations data resource(s).",
+  "IsDataAction": true
+}

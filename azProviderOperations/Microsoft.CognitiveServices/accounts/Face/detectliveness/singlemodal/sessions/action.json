@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectLiveness/singleModal/sessions/action",
+  "OperationName": "Face - DetectLiveness SingleModal - Session Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Session - Create",
+  "Description": "<p>Creates a session for a client to perform liveness detection.</p>",
+  "IsDataAction": true
+}

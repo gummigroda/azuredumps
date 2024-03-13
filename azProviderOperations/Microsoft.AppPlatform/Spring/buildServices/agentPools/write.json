@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/agentPools/write",
+  "OperationName": "Write Microsoft Azure Spring Apps Agent Pools",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Agent Pool of Microsoft Azure Spring Apps",
+  "Description": "Create or update the Agent Pools for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

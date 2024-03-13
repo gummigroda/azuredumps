@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/read",
+  "OperationName": "PacketCoreDataPlanes_ListByPacketCoreControlPlane",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes",
+  "Description": "Lists all the packet core data planes associated with a packet core control plane.",
+  "IsDataAction": false
+}

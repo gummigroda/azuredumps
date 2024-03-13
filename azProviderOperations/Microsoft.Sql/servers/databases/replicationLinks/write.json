@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/write",
+  "OperationName": "Updates the replication link type",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Updates the replication link type",
+  "IsDataAction": false
+}

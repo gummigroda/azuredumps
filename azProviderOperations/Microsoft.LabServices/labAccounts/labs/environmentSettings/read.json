@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/read",
+  "OperationName": "Read environment setting.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Read environment setting.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnections/delete",
+  "OperationName": "Delete AgFoodPlatform Private endpoint connections resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connections",
+  "Description": "Deletes an existing AgFoodPlatform Private endpoint connections resource.",
+  "IsDataAction": false
+}

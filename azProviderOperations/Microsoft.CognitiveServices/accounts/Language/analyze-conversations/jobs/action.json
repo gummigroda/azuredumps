@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/jobs/action",
+  "OperationName": "Submit analysis job for conversations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyze-conversations*",
+  "Description": "Submit a long conversation for analysis. Specify one or more unique tasks to be executed as a long-running operation.",
+  "IsDataAction": true
+}

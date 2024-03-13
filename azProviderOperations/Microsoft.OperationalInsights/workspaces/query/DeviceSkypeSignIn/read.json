@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceSkypeSignIn/read",
+  "OperationName": "Read DeviceSkypeSignIn data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceSkypeSignIn",
+  "Description": "Read data from the DeviceSkypeSignIn table",
+  "IsDataAction": false
+}

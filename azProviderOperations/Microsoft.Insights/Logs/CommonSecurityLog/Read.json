@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/CommonSecurityLog/Read",
+  "OperationName": "Read CommonSecurityLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "CommonSecurityLog",
+  "Description": "Read data from the CommonSecurityLog table",
+  "IsDataAction": false
+}

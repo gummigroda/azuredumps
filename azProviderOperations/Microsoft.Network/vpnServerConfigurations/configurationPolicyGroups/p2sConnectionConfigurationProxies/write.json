@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2sConnectionConfigurationProxies/write",
+  "OperationName": "Create Or Update P2S Connection Configuration Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Connection Configuration Proxy",
+  "Description": "Creates A P2S Connection Configuration Proxy Or Updates An Existing P2S Connection Configuration Proxy",
+  "IsDataAction": false
+}

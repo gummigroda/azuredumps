@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/serviceProviders/action",
+  "OperationName": "Backfill Express Route Cross Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection",
+  "Description": "Backfill Express Route Cross Connection",
+  "IsDataAction": false
+}

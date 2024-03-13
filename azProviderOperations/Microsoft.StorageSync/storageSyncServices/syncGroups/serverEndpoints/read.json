@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/read",
+  "OperationName": "Read Server Endpoints",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Server Endpoints",
+  "Description": "Read any Server Endpoints",
+  "IsDataAction": false
+}

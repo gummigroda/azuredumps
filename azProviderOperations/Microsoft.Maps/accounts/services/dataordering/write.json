@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/dataordering/write",
+  "OperationName": "DataOrdering Service Write",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "DataOrdering",
+  "Description": "Allows writing of data for Data Ordering services.",
+  "IsDataAction": true
+}

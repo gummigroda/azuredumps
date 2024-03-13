@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/neighborGroups/delete",
+  "OperationName": "NeighborGroups_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "neighborGroups",
+  "Description": "Implements Neighbor Group DELETE method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/watchers/write",
+  "OperationName": "Creates an Azure Automation watcher job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation watcher job",
+  "Description": "Creates an Azure Automation watcher job",
+  "IsDataAction": false
+}

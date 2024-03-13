@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/write",
+  "OperationName": "Create Or Update Namespace ",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Namespace",
+  "Description": "Create a Namespace Resource and Update its properties. Tags and Capacity of the Namespace are the properties which can be updated.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/unregister/action",
+  "OperationName": "Unregister the Microsoft.IoTFirmwareDefense",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.IoTFirmwareDefense",
+  "IsDataAction": false
+}

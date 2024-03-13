@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/prepare/action",
+  "OperationName": "Initiates prepare for the set of resources included in the request body",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Initiates prepare for the set of resources included in the request body",
+  "IsDataAction": false
+}

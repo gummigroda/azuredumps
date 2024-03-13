@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection or List Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Azure Container Registry Private Endpoint Connection",
+  "Description": "Gets the properties of private endpoint connection or list all the private endpoint connections for the specified container registry",
+  "IsDataAction": false
+}

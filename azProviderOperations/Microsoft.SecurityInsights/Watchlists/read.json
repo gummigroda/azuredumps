@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Watchlists/read",
+  "OperationName": "Get Watchlists",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Watchlists",
+  "Description": "Gets Watchlists",
+  "IsDataAction": false
+}

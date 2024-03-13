@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/webhooks/write",
+  "OperationName": "Create or update a web hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Webhooks",
+  "Description": "Create or update a web hook",
+  "IsDataAction": true
+}

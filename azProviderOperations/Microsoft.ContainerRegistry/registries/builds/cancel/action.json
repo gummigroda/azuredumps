@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/builds/cancel/action",
+  "OperationName": "Cancel an existing build.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Cancels an existing build.",
+  "IsDataAction": false
+}

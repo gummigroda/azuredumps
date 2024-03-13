@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/read",
+  "OperationName": "AzureDevOpsConnectors_ListBySubscription",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors",
+  "Description": "read azureDevOpsConnectors",
+  "IsDataAction": false
+}

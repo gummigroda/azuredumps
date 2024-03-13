@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/probes/read",
+  "OperationName": "Get Load Balancer Probe",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Probe",
+  "Description": "Gets a load balancer probe",
+  "IsDataAction": false
+}

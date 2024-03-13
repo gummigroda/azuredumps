@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppSecurity/register/action",
+  "OperationName": "Register the Microsoft.AppSecurity",
+  "ProviderNamespace": "Microsoft.AppSecurity",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AppSecurity",
+  "IsDataAction": false
+}

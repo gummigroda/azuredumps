@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/write",
+  "OperationName": "Add Singularity Group Policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Adds or updates Singularity group policy resource limit policy",
+  "IsDataAction": false
+}

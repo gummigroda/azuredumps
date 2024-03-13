@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/apiLinks/delete",
+  "OperationName": "Remove product-API link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-API links resource",
+  "Description": "Delete product-API link.",
+  "IsDataAction": false
+}

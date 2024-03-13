@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/osPlatformImages/read",
+  "OperationName": "Get Operating System Platform Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Operating Sytem Platform Image",
+  "Description": "Gets the operating system platform image.",
+  "IsDataAction": false
+}

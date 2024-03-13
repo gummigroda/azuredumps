@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/global/prebuilt-entities/read",
+  "OperationName": "List supported prebuilt entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "prebuilt-entities*",
+  "Description": "Lists the supported prebuilt entities that can be used while creating composed entities.",
+  "IsDataAction": true
+}

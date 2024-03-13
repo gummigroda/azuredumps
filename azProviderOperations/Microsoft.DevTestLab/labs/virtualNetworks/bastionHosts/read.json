@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualNetworks/bastionHosts/read",
+  "OperationName": "Read bastionhosts.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "bastionHosts",
+  "Description": "Read bastionhosts.",
+  "IsDataAction": false
+}

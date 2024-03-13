@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/orderItems/read",
+  "OperationName": "List or Get OrderItem",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "OrderItem",
+  "Description": "List or get the OrderItem",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/Locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "Locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

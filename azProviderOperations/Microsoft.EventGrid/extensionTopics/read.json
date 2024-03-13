@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/extensionTopics/read",
+  "OperationName": "Read ExtensionTopic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "extensionTopics",
+  "Description": "Read an extensionTopic.",
+  "IsDataAction": false
+}

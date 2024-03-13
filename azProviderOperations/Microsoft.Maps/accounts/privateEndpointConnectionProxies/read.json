@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/privateEndpointConnectionProxies/read",
+  "OperationName": "Read a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Read a Private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

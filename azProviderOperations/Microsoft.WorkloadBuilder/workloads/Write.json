@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/Write",
+  "OperationName": "Creates or updates the workloads",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "workloads",
+  "Description": "Set workloads",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/metadataSchemas/read",
+  "OperationName": "Checks metadataSchema exists",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "MetadataSchema",
+  "Description": "Checks if specified metadataSchema exists",
+  "IsDataAction": false
+}

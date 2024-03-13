@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/SOA/read",
+  "OperationName": "Get record set of type SOA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS SOA record set",
+  "Description": "Get the record set of type ‘SOA’ within a Private DNS zone, in JSON format.",
+  "IsDataAction": false
+}

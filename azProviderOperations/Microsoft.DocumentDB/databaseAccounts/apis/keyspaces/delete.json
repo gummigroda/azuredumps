@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/delete",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Delete keyspace",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Keyspace",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Delete a keyspace. Only applicable to API types: 'cassandra'.",
+  "IsDataAction": false
+}

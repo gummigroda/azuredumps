@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/enrollments/delete",
+  "OperationName": "Delete Enrollments",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Delete Enrollments",
+  "IsDataAction": true
+}

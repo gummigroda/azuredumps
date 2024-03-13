@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections/read",
+  "OperationName": "PrivateEndpointConnections read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Read PrivateEndpointConnections",
+  "IsDataAction": false
+}

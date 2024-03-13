@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeDeploymentStatusNRT/Read",
+  "OperationName": "Read MAOfficeDeploymentStatusNRT data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeDeploymentStatusNRT",
+  "Description": "Read data from the MAOfficeDeploymentStatusNRT table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/failover/action",
+  "OperationName": "Issue failover on the database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Customer initiated database failover.",
+  "IsDataAction": false
+}

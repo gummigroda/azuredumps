@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/refreshPermissions/action",
+  "OperationName": "Applications_RefreshPermissions",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "Refresh Permissions for application.",
+  "IsDataAction": false
+}

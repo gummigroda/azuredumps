@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/write",
+  "OperationName": "Add Virtual Network",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Add a new virtual network.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/links/read",
+  "OperationName": "Gets ExpressRouteLink",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteLink",
+  "Description": "Gets ExpressRouteLink",
+  "IsDataAction": false
+}

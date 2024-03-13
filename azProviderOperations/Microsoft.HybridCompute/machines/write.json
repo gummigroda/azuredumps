@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/write",
+  "OperationName": "Write Azure Arc machines",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Writes an Azure Arc machines",
+  "IsDataAction": false
+}

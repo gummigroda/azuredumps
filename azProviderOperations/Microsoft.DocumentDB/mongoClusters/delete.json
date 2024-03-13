@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/delete",
+  "OperationName": "Deletes a Mongo Cluster",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster",
+  "Description": "Deletes the specified Mongo Cluster.",
+  "IsDataAction": false
+}

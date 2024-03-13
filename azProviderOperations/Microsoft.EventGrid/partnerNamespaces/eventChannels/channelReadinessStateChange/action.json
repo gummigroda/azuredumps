@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/eventChannels/channelReadinessStateChange/action",
+  "OperationName": "Change EventChannel state",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventChannels",
+  "Description": "Change event channel readiness state",
+  "IsDataAction": false
+}

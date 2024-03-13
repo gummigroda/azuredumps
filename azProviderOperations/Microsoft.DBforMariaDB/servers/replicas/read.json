@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/replicas/read",
+  "OperationName": "Get MariaDB read replicas",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Get read replicas of a MariaDB server",
+  "IsDataAction": false
+}

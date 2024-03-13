@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/azureAsyncOperation/read",
+  "OperationName": "Gets the status of a database operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Gets the status of a database operation.",
+  "IsDataAction": false
+}

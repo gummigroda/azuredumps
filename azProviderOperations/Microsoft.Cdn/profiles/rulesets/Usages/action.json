@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/rulesets/Usages/action",
+  "OperationName": "Usages",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "RuleSet",
+  "Description": null,
+  "IsDataAction": false
+}

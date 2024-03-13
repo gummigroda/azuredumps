@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/groupQuotas/subscriptions/read",
+  "OperationName": "Get GroupQuota subscriptions",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "Subscriptions added to GroupQuota resource",
+  "Description": "Get the GroupQuota subscriptions",
+  "IsDataAction": false
+}

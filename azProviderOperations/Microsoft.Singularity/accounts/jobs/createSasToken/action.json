@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/jobs/createSasToken/action",
+  "OperationName": "Create SAS token for Singularity Job",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Job",
+  "Description": "Create SAS token for Singularity Job",
+  "IsDataAction": false
+}

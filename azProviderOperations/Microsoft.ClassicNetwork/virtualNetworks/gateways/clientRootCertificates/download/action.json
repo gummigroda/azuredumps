@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/clientRootCertificates/download/action",
+  "OperationName": "Downloads Certificate",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Geteway Client Certificate",
+  "Description": "Downloads certificate by thumbprint.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routingIntent/delete",
+  "OperationName": "Deletes Routing Intent child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Routing Intent",
+  "Description": "Deletes a Routing Intent child resource of Virtual Hub",
+  "IsDataAction": false
+}

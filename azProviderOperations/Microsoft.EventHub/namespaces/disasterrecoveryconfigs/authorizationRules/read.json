@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/disasterRecoveryConfigs/authorizationRules/read",
+  "OperationName": "Get Disaster Recovery Primary Namespace's Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "AuthorizationRules",
+  "Description": "Get Disaster Recovery Primary Namespace's Authorization Rules",
+  "IsDataAction": false
+}

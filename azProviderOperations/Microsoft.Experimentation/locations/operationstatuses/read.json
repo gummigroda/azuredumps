@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/locations/operationstatuses/read",
+  "OperationName": "Read Operation Status.",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Operation Statuses",
+  "Description": "Read the status of an asynchronous operation.",
+  "IsDataAction": false
+}

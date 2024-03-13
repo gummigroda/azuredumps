@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read",
+  "OperationName": "Get ResourceGuard default operation request info",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Guards",
+  "Description": "Gets ResourceGuard default operation request info",
+  "IsDataAction": false
+}

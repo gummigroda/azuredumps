@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/read",
+  "OperationName": "Get Volume",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volumes",
+  "Description": "Get Volume",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/deletedServers/read",
+  "OperationName": "List/Get Deleted Server(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Deleted server",
+  "Description": "Return the list of deleted servers or gets the properties for the specified deleted server.",
+  "IsDataAction": false
+}

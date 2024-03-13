@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/metrics/resource/write",
+  "OperationName": "Creates resource metrics in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Metrics",
+  "Description": "Creates resource metrics in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

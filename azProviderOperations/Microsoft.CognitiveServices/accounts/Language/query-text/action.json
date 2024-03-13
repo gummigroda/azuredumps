@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-text/action",
+  "OperationName": "Query Text",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Answer Text.",
+  "IsDataAction": true
+}

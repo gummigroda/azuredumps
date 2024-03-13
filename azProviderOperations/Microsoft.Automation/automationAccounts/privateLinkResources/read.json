@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateLinkResources/read",
+  "OperationName": "Reads Group Information for private endpoints",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Group Information",
+  "Description": "Reads Group Information for private endpoints",
+  "IsDataAction": false
+}

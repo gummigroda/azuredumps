@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/certificates.k8s.io/certificatesigningrequests/delete",
+  "OperationName": "Deletes/DeletesCollection certificatesigningrequests resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Certificatesigningrequests",
+  "Description": "Deletes certificatesigningrequests",
+  "IsDataAction": true
+}

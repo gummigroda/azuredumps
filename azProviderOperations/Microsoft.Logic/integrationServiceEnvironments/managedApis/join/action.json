@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/managedApis/join/action",
+  "OperationName": "Join Integration Service Environment Managed API",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment Managed API",
+  "Description": "Joins the Integration Service Environment Managed API.",
+  "IsDataAction": false
+}

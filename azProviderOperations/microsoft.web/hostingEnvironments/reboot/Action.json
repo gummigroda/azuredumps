@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/reboot/Action",
+  "OperationName": "Reboot an App Service Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment",
+  "Description": "Reboot all machines in an App Service Environment",
+  "IsDataAction": false
+}

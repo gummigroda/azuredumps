@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topicSpaces/publish/action",
+  "OperationName": "Topic spaces publish",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topicSpaces",
+  "Description": "Publish to a topic space",
+  "IsDataAction": true
+}

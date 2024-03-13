@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/clusters/applicationTypes/write",
+  "OperationName": "Create or Update Application Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Application Types",
+  "Description": "Create or Update any Application Type",
+  "IsDataAction": false
+}

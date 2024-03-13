@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/privateEndpointConnections/delete",
+  "OperationName": "Delete a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Delete a Private Endpoint Connection",
+  "IsDataAction": false
+}

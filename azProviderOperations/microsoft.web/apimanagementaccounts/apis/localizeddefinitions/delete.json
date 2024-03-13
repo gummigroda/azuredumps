@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/localizeddefinitions/delete",
+  "OperationName": "Delete Api Management Accounts APIs Localized Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Localized Definitions",
+  "Description": "Delete Api Management Accounts APIs Localized Definitions.",
+  "IsDataAction": false
+}

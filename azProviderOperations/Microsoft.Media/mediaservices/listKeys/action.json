@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/listKeys/action",
+  "OperationName": "List Keys",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "List the ACS keys for the Media Services account",
+  "IsDataAction": false
+}

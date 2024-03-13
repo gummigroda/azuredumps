@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/validateDeleteEligibility/write",
+  "OperationName": "InvoiceSections_ValidateDeleteEligibility",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Validate Delete Eligibility",
+  "Description": "Validates if the invoice section can be deleted. The operation is supported for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

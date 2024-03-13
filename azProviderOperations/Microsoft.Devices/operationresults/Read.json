@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/operationresults/Read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get Operation Result",
+  "IsDataAction": false
+}

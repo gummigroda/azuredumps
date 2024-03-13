@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/longaudiosynthesis/read",
+  "OperationName": "Gets one or more long audio syntheses.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Long audio synthesis",
+  "Description": "Gets one or more long audio syntheses.",
+  "IsDataAction": true
+}

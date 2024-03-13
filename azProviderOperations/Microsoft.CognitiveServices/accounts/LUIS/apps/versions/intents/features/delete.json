@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/features/delete",
+  "OperationName": "models - Delete intent feature relation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "features*",
+  "Description": "Deletes the feature relation for an intent model.",
+  "IsDataAction": true
+}

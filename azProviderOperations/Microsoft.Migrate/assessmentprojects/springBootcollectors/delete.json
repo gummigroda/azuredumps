@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootcollectors/delete",
+  "OperationName": "Delete springBoot Collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "springBoot Collectors",
+  "Description": "Deletes the springBoot Collector which are available in the given location",
+  "IsDataAction": false
+}

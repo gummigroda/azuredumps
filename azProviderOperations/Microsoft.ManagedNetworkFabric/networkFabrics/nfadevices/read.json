@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/nfadevices/read",
+  "OperationName": "NfaDevices_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/nfadevices",
+  "Description": "Get the NfaDevices resource details.",
+  "IsDataAction": false
+}

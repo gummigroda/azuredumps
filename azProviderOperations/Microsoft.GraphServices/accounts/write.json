@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/accounts/write",
+  "OperationName": "Accounts_Update",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "accounts",
+  "Description": "Update account details.",
+  "IsDataAction": false
+}

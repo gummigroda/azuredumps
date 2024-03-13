@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/capabilities/read",
+  "OperationName": "Get capabilities",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Capability",
+  "Description": "Shows the capabilities",
+  "IsDataAction": false
+}

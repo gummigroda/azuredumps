@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/querylogs/read",
+  "OperationName": "Apps - Download query logs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Query logs",
+  "Description": "Gets the query logs of the past month for the application.",
+  "IsDataAction": true
+}

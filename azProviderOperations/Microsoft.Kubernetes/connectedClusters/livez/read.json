@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/read",
+  "OperationName": "Gets/List livez resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez",
+  "Description": "Reads livez",
+  "IsDataAction": true
+}

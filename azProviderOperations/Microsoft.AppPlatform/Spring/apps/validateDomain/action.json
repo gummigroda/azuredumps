@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/validateDomain/action",
+  "OperationName": "Validate a custom domain in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application of Microsoft Azure Spring Apps",
+  "Description": "Validate the custom domain for a specific application",
+  "IsDataAction": false
+}

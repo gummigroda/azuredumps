@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/routing/$testnew/Action",
+  "OperationName": "Routing Rule Test Route",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Test a message against a provided test Route",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/deviceGroups/devices/delete",
+  "OperationName": "Devices_Delete",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products/deviceGroups/devices",
+  "Description": "Delete a Device",
+  "IsDataAction": false
+}

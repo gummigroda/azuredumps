@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/startPacketTagging/action",
+  "OperationName": "Starts Packet Tagging",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Starts Packet Tagging",
+  "IsDataAction": false
+}

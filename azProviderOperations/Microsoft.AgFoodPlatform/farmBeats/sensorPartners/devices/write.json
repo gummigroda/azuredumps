@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/devices/write",
+  "OperationName": "Create or Update AgFoodPlatform devices.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform devices",
+  "Description": "Creates or Updates AgFoodPlatform devices.",
+  "IsDataAction": true
+}

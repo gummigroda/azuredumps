@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/read",
+  "OperationName": "Read Container App",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App",
+  "Description": "Get a Container App",
+  "IsDataAction": false
+}

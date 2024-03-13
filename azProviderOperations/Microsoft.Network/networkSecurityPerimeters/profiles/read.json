@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/read",
+  "OperationName": "Gets a Network Security Perimeter Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Profile",
+  "Description": "Gets a Network Security Perimeter Profile",
+  "IsDataAction": false
+}

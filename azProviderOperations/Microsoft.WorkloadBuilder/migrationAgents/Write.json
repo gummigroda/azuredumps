@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/migrationAgents/Write",
+  "OperationName": "Creates or updates the migrationAgents",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "migrationAgents",
+  "Description": "Set migrationAgents",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/versions/operationStatuses/read",
+  "OperationName": "Get ArchiveVersionReadAsyncOperationStatus",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive version",
+  "Description": "Get Archive version async Operation Status",
+  "IsDataAction": false
+}

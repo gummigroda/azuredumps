@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/delete",
+  "OperationName": "NetworkFabrics_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Delete Network Fabric resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

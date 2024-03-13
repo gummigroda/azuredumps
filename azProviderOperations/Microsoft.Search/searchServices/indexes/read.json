@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexes/read",
+  "OperationName": "Read Index",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Indexes",
+  "Description": "Return an index or its statistics, return a list of indexes or their statistics, or test the lexical analysis components of an index.",
+  "IsDataAction": false
+}

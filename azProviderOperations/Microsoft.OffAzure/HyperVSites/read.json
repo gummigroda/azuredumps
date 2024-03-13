@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/read",
+  "OperationName": "Get Hyper-V site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Gets the properties of a Hyper-V site",
+  "IsDataAction": false
+}

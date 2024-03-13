@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/invalidateDebugCredentials/action",
+  "OperationName": "Reset debug credentials",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "Forces gateway to reset all issued debug credentials",
+  "IsDataAction": false
+}

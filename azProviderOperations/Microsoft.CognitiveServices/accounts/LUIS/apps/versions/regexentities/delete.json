@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/regexentities/delete",
+  "OperationName": "Delete regular expression entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Regex entities",
+  "Description": "Deletes a regular expression entity model from the application version.",
+  "IsDataAction": true
+}

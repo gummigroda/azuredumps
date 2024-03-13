@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dtc/write",
+  "OperationName": "Azure SQL Managed Instance DTC update operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance DTC",
+  "Description": "Updates Azure SQL Managed Instance's DTC properties for the specified instance.",
+  "IsDataAction": false
+}

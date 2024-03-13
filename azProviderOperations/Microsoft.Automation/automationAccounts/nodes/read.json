@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodes/read",
+  "OperationName": "Gets Azure Automation DSC nodes",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Nodes",
+  "Description": "Reads Azure Automation DSC nodes",
+  "IsDataAction": false
+}

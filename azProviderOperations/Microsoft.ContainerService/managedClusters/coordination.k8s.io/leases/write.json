@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/coordination.k8s.io/leases/write",
+  "OperationName": "Creates/Updates leases resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Leases",
+  "Description": "Writes leases",
+  "IsDataAction": true
+}

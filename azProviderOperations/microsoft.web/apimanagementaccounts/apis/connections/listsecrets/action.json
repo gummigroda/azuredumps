@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/connections/listsecrets/action",
+  "OperationName": "List Secrets Api Management Accounts APIs Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Connections",
+  "Description": "List Secrets Api Management Accounts APIs Connections.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WVDFeeds/Read",
+  "OperationName": "Read WVDFeeds data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WVDFeeds",
+  "Description": "Read data from the WVDFeeds table",
+  "IsDataAction": false
+}

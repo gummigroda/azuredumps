@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/ddosProtectionStatus/action",
+  "OperationName": "Get Ddos protection status for standard public IP addresses associated to a Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Gets the effective Ddos protection status for a Virtual Network resource.",
+  "IsDataAction": false
+}

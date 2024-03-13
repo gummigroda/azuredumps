@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apiregistration.k8s.io/apiservices/write",
+  "OperationName": "Creates/Updates apiservices resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "apiservices",
+  "Description": "Writes apiservices",
+  "IsDataAction": true
+}

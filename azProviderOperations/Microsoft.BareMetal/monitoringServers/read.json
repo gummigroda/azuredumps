@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/monitoringServers/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Monitoring Server",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

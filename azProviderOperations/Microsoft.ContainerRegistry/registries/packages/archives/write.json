@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/write",
+  "OperationName": "Create or Update Archive",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive",
+  "Description": "Creates or updates a Archive for a container registry with the specified parameters",
+  "IsDataAction": false
+}

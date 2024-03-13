@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-dependent/profiles/enrollments/write",
+  "OperationName": "Enroll Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "profiles",
+  "Description": "Adds an enrollment to existing profile.",
+  "IsDataAction": true
+}

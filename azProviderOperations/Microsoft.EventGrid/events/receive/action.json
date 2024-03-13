@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/events/receive/action",
+  "OperationName": "Receive events",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "events",
+  "Description": "Receive events from namespace topics",
+  "IsDataAction": true
+}

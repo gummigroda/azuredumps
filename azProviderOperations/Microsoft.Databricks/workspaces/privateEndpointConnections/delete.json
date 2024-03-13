@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnections/delete",
+  "OperationName": "Remove Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Storage Account Private Endpoint Connections",
+  "Description": "Remove Private Endpoint Connection",
+  "IsDataAction": false
+}

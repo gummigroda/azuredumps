@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/components/versions/delete",
+  "OperationName": "Deletes component version in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Components",
+  "Description": "Deletes component version in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Workspace diagnostic settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces",
+  "Description": "Creates or updates the diagnostic settings for a Workspace",
+  "IsDataAction": false
+}

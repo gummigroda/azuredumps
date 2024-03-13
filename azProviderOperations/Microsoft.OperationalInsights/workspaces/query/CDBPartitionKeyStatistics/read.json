@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CDBPartitionKeyStatistics/read",
+  "OperationName": "Read CDBPartitionKeyStatistics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CDBPartitionKeyStatistics",
+  "Description": "Read data from the CDBPartitionKeyStatistics table",
+  "IsDataAction": false
+}

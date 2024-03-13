@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/write",
+  "OperationName": "Create or update a VM image template instance resource",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template",
+  "Description": "Create or update a VM image template instance resource",
+  "IsDataAction": false
+}

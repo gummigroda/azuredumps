@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/analyticsModels/aggregatedAlerts/read",
+  "OperationName": "Get IoT aggregated alerts",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Aggregated Alerts",
+  "Description": "Gets IoT aggregated alerts",
+  "IsDataAction": false
+}

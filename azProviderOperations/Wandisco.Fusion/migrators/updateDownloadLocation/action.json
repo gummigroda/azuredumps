@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/updateDownloadLocation/action",
+  "OperationName": "UpdateDownloadLocation",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrators",
+  "Description": "Update the downloadLocation of the Migrator.",
+  "IsDataAction": false
+}

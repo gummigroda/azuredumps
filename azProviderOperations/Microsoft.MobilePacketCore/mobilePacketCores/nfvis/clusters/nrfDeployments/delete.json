@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/nrfDeployments/delete",
+  "OperationName": "NrfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/nrfDeployments",
+  "Description": "Deletes the specified Mobile Packet Core Network Repository Function Deployment resource.",
+  "IsDataAction": false
+}

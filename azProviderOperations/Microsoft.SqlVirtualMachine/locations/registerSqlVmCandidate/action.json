@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/locations/registerSqlVmCandidate/action",
+  "OperationName": "Register SQL Vm Candidate",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Register SQL Vm Candidate",
+  "IsDataAction": false
+}

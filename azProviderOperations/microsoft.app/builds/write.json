@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builds/write",
+  "OperationName": "Create or Update a Builder's build",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Build",
+  "Description": "Create or update a Build's build",
+  "IsDataAction": false
+}

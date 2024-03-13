@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/enrollments/write",
+  "OperationName": "Write Enrollments",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Write Enrollments",
+  "IsDataAction": true
+}

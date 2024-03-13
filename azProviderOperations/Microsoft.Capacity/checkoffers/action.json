@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/checkoffers/action",
+  "OperationName": "Check Subscription Offers",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Check any Subscription Offers",
+  "IsDataAction": false
+}

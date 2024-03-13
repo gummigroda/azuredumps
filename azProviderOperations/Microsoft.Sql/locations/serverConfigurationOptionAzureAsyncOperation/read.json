@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverConfigurationOptionAzureAsyncOperation/read",
+  "OperationName": "Get Azure SQL Managed Instance Server Configuration Option Azure async operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Configuration Option",
+  "Description": "Gets the status of Azure SQL Managed Instance Server Configuration Option Azure async operation.",
+  "IsDataAction": false
+}

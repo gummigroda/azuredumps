@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/admissionregistration.k8s.io/initializerconfigurations/write",
+  "OperationName": "Creates/Updates initializerconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Initializerconfigurations",
+  "Description": "Writes initializerconfigurations",
+  "IsDataAction": true
+}

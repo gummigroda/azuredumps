@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/internalNotify/action",
+  "OperationName": "Post DNS notification for alias target",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "DNS alias resource notification",
+  "IsDataAction": false
+}

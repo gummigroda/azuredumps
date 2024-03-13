@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/configurations/write",
+  "OperationName": "Update Configuration",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Configurations",
+  "Description": "Update the value for the specified configuration",
+  "IsDataAction": false
+}

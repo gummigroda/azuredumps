@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

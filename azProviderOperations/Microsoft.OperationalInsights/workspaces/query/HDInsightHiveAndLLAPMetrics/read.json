@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightHiveAndLLAPMetrics/read",
+  "OperationName": "Read HDInsightHiveAndLLAPMetrics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightHiveAndLLAPMetrics",
+  "Description": "Read data from the HDInsightHiveAndLLAPMetrics table",
+  "IsDataAction": false
+}

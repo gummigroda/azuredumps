@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroupProfiles/revisions/deregister/action",
+  "OperationName": "Deregister container group profile revision.",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group Profile",
+  "Description": "Deregister container group profile revision.",
+  "IsDataAction": false
+}

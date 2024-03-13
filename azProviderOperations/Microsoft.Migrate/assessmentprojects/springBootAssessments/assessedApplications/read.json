@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/springBootAssessments/assessedApplications/read",
+  "OperationName": "Get assessedApplications",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "assessedApplications",
+  "Description": "Gets the properties of the assessedApplications ",
+  "IsDataAction": false
+}

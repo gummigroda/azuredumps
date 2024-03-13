@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/storagecontainers/write",
+  "OperationName": "Add Singularity storage container",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity storage container",
+  "Description": "Adds or updates Singularity storage container",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/proximityPlacementGroups/read",
+  "OperationName": "Get Proximity Placement Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Proximity Placement Groups",
+  "Description": "Get the Properties of a Proximity Placement Group",
+  "IsDataAction": false
+}

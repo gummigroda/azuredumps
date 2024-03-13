@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/applicationTypes/read",
+  "OperationName": "Read Application Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Application Types",
+  "Description": "Read any Application Type",
+  "IsDataAction": false
+}

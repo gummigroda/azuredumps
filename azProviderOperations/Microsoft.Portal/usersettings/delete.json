@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/usersettings/delete",
+  "OperationName": "Delete User Settings",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "UserSettings",
+  "Description": "Removes the Cloud Shell user settings.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/pipelines/write",
+  "OperationName": "Pipelines_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances/pipelines",
+  "Description": "Update a Pipeline",
+  "IsDataAction": false
+}

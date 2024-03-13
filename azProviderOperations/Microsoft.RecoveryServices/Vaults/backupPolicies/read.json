@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupPolicies/read",
+  "OperationName": "Get Protection Policy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Policies",
+  "Description": "Returns all Protection Policies",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/removelinks/action",
+  "OperationName": "Remove Linked Integration Runtime References",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Removes Linked Integration Runtime References from the specified Integration Runtime.",
+  "IsDataAction": false
+}

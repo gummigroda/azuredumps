@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/locations/checknameavailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Check Name Availability",
+  "Description": "Checks availability of the resouce name for the given subscription in the given location",
+  "IsDataAction": false
+}

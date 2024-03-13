@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/hybridRunbookWorkers/delete",
+  "OperationName": "Delete a Hybrid Runbook Worker",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Hybrid Runbook Worker Resource Type",
+  "Description": "Deletes a Hybrid Runbook Worker",
+  "IsDataAction": false
+}

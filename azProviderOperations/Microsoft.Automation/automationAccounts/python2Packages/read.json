@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/python2Packages/read",
+  "OperationName": "Read an Azure Automation Python 2 package",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Python 2 package",
+  "Description": "Gets an Azure Automation Python 2 package",
+  "IsDataAction": false
+}

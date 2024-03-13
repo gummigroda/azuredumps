@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/trustedIdProviders/read",
+  "OperationName": "Get Trusted Identity Provider",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Trusted IdProvider",
+  "Description": "Get information about a trusted identity provider.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/locations/GetNetworkPolicies/action",
+  "OperationName": "Read Network Intent Policies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations",
+  "Description": "Read Network Intent Policies",
+  "IsDataAction": false
+}

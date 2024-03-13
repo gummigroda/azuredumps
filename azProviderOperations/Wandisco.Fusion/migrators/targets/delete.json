@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/targets/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Targets",
+  "Description": "Deletes a given Migrator Target.",
+  "IsDataAction": false
+}

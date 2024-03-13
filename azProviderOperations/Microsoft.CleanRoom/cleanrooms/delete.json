@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/cleanrooms/delete",
+  "OperationName": "CleanRooms_Delete",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "cleanrooms",
+  "Description": "Deletes a clean room.",
+  "IsDataAction": false
+}

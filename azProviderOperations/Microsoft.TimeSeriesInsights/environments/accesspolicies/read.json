@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/accesspolicies/read",
+  "OperationName": "Read Access Policy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Access Policy",
+  "Description": "Get the properties of an access policy.",
+  "IsDataAction": false
+}

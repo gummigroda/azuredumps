@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

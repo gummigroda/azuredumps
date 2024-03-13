@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/groups/write",
+  "OperationName": "Create group or Update group",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Groups",
+  "Description": "Creates or Updates a group. or Updates the details of the group specified by its identifier.",
+  "IsDataAction": false
+}

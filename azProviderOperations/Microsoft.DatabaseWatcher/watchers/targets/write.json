@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/targets/write",
+  "OperationName": "Targets_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers/targets",
+  "Description": "Create a Target",
+  "IsDataAction": false
+}

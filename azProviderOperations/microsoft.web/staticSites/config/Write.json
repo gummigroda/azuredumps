@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/config/Write",
+  "OperationName": "Create or Update Static Site App Setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site App Setting",
+  "Description": "Create or update app settings for a Static Site",
+  "IsDataAction": false
+}

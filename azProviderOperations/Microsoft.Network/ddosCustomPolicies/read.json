@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosCustomPolicies/read",
+  "OperationName": "Get DDoS customized policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS customized Policy",
+  "Description": "Gets a DDoS customized policy definition Definition",
+  "IsDataAction": false
+}

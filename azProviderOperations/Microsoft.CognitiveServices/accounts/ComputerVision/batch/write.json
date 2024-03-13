@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/batch/write",
+  "OperationName": "Batch (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch Analyze Image",
+  "Description": "This internal operation creates a new batch with the specified name.",
+  "IsDataAction": true
+}

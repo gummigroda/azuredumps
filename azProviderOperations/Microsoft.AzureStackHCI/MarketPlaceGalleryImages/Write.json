@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/MarketPlaceGalleryImages/Write",
+  "OperationName": "Creates/Updates market place gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "MarketPlaceGalleryImages",
+  "Description": "Creates/Updates market place gallery images resource",
+  "IsDataAction": false
+}

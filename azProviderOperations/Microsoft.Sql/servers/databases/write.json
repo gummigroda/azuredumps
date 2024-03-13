@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/write",
+  "OperationName": "Create/Update Azure SQL Database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Creates a database with the specified parameters or update the properties or tags for the specified database.",
+  "IsDataAction": false
+}

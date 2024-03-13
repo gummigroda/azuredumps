@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/PrivateEndpointConnectionProxies/Validate/action",
+  "OperationName": "Validate private endpoint connection proxy",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private endpoint connection proxies resource type",
+  "Description": "Validates a private endpoint connection proxy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/privateLinkResources/read",
+  "OperationName": "Read PrivateLinkResources",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "PrivateLinkResources",
+  "Description": "Reads PrivateLinkResources for Digital Twins",
+  "IsDataAction": false
+}

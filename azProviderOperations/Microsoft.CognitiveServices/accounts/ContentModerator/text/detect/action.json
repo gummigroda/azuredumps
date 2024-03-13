@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/detect/action",
+  "OperationName": "Text Detect - Detect",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Detect",
+  "Description": "A sync API for harmful content detection",
+  "IsDataAction": true
+}

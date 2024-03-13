@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/percentile/read",
+  "OperationName": "Read latency percentiles",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account latencies",
+  "Description": "Read percentiles of replication latencies",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/dbNodes/action/action",
+  "OperationName": "DbNodes_Action",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters/dbNodes",
+  "Description": "VM actions on DbNode of VM Cluster by the provided filter",
+  "IsDataAction": false
+}

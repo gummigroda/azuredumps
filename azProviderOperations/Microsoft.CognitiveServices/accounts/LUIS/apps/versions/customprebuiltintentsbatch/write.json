@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltintentsbatch/write",
+  "OperationName": "models - Add custom prebuilt domain intents in batch",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "customprebuiltintentsbatch*",
+  "Description": "Adds custom prebuilt domain intents to application in batch",
+  "IsDataAction": true
+}

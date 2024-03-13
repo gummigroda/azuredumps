@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceNetworkInfo/read",
+  "OperationName": "Read DeviceNetworkInfo data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceNetworkInfo",
+  "Description": "Read data from the DeviceNetworkInfo table",
+  "IsDataAction": false
+}

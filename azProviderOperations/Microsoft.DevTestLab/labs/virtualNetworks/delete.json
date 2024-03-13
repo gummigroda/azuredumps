@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualNetworks/delete",
+  "OperationName": "Delete virtual networks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "virtual networks",
+  "Description": "Delete virtual networks.",
+  "IsDataAction": false
+}

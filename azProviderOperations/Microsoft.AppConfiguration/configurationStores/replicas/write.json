@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/replicas/write",
+  "OperationName": "Create Replica",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Replica",
+  "Description": "Creates a replica with the specified parameters.",
+  "IsDataAction": false
+}

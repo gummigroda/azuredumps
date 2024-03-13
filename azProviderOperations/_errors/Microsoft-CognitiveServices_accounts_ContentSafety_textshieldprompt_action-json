@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text:shieldprompt/action",
+  "OperationName": "Analyze text prompt injection attacks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Safety",
+  "Description": "A synchronous API for the analysis of text prompt injection attacks.",
+  "IsDataAction": true
+}

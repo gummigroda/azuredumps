@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/models/evaluation/result/read",
+  "OperationName": "Models_GetTrainedModelEvaluationResult",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "result*",
+  "Description": "Get trained model evaluation result.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/locations/managedHsmOperationResults/read",
+  "OperationName": "Check Operation Result",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Hsm long running operation result",
+  "Description": "Check the result of a long run operation",
+  "IsDataAction": false
+}

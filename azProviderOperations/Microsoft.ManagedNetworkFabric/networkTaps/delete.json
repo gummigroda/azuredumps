@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTaps/delete",
+  "OperationName": "NetworkTaps_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTaps",
+  "Description": "Deletes Network Tap.",
+  "IsDataAction": false
+}

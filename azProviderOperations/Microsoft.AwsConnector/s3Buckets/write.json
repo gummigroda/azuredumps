@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/s3Buckets/write",
+  "OperationName": "S3Buckets_Update",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "s3Buckets",
+  "Description": "Update a S3Bucket",
+  "IsDataAction": false
+}

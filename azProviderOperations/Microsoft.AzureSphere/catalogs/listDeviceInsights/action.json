@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/listDeviceInsights/action",
+  "OperationName": "Catalogs_ListDeviceInsights",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Lists device insights for catalog.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/unregister/action",
+  "OperationName": "Unregister the Microsoft.Solutions",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Solutions",
+  "IsDataAction": false
+}

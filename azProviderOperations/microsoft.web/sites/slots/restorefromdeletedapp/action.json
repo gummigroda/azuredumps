@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/restorefromdeletedapp/action",
+  "OperationName": "Restore Web App Slots From Deleted App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Restore Web App Slots From Deleted App.",
+  "IsDataAction": false
+}

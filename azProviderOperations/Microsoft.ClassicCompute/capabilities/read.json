@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/capabilities/read",
+  "OperationName": "Get capabilities",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Capability",
+  "Description": "Shows the capabilities",
+  "IsDataAction": false
+}

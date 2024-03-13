@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/privateLinkResources/read",
+  "OperationName": "Get Private Link Resource",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Link Resource",
+  "Description": "Get Private Link Resource",
+  "IsDataAction": false
+}

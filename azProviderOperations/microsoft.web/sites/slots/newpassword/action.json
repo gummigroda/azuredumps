@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/newpassword/action",
+  "OperationName": "Newpassword Web Apps Slots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Newpassword Web Apps Slots.",
+  "IsDataAction": false
+}

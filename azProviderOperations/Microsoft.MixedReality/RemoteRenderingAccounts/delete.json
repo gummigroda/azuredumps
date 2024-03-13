@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/delete",
+  "OperationName": "Delete a remote rendering account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Delete a remote rendering account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/networking.k8s.io/ingresses/delete",
+  "OperationName": "Deletes/DeletesCollection ingresses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Ingresses",
+  "Description": "Deletes ingresses",
+  "IsDataAction": true
+}

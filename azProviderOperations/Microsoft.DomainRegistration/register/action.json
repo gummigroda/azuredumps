@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/register/action",
+  "OperationName": "Register Microsoft Domains resource provider",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "",
+  "Description": "Register the Microsoft Domains resource provider for the subscription",
+  "IsDataAction": false
+}

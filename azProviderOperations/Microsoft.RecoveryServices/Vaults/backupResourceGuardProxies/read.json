@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies/read",
+  "OperationName": "Get ResourceGuard proxy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Resource Guard Proxy",
+  "Description": "Get ResourceGuard proxy operation gets an object representing the Azure resource of type 'ResourceGuard proxy'",
+  "IsDataAction": false
+}

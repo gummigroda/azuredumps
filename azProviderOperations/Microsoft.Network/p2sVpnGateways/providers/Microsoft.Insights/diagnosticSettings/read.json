@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get P2S Vpn Gateway Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Vpn Gateway diagnostic settings",
+  "Description": "Gets the P2S Vpn Gateway Diagnostic Settings",
+  "IsDataAction": false
+}

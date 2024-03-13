@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/dataSources/delete",
+  "OperationName": "Delete Data Source",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Data Sources",
+  "Description": "Delete a data source.",
+  "IsDataAction": false
+}

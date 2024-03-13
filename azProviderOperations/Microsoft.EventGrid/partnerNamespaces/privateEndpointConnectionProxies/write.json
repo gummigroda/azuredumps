@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/privateEndpointConnectionProxies/write",
+  "OperationName": "Write PrivateEndpointConnectionProxies for partner namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Write PrivateEndpointConnectionProxies for partner namespaces",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/domains/delete",
+  "OperationName": "Delete a custom domain in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application custom domain of Microsoft Azure Spring Apps",
+  "Description": "Delete the custom domain for a specific application",
+  "IsDataAction": false
+}

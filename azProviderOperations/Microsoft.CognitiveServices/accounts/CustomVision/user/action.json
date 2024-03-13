@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/user/action",
+  "OperationName": "GetApiKeyForUser",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Vision",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

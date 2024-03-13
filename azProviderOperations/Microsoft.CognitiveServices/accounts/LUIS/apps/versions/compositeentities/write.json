@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/compositeentities/write",
+  "OperationName": "Create or update composite entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Composite entities",
+  "Description": "Adds a composite entity extractor to the application.\r\nUpdates the composite entity extractor.",
+  "IsDataAction": true
+}

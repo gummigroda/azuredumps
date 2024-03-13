@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/cdnwebapplicationfirewallpolicyresults/delete",
+  "OperationName": "delete",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "WebApplicationFirewallPolicy",
+  "Description": null,
+  "IsDataAction": false
+}

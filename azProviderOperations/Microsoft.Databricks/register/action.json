@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/register/action",
+  "OperationName": "Register Databricks",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "",
+  "Description": "Register to Databricks.",
+  "IsDataAction": false
+}

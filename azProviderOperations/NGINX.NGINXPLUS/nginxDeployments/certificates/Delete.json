@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/certificates/Delete",
+  "OperationName": "Delete certificates resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "certificates",
+  "Description": "Delete certificates",
+  "IsDataAction": false
+}

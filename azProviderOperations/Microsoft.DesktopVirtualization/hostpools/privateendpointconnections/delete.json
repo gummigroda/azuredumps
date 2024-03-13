@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/privateendpointconnections/delete",
+  "OperationName": "Delete hostpools/privateendpointconnections",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/privateendpointconnections",
+  "Description": "Delete hostpools/privateendpointconnections",
+  "IsDataAction": false
+}

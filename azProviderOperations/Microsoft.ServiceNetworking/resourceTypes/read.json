@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/resourceTypes/read",
+  "OperationName": "List resource types",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Resource Types",
+  "Description": "List all resource types provided by Microsoft.ServiceNetworking",
+  "IsDataAction": false
+}

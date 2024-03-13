@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/azureDevOpsConnectors/orgs/projects/read",
+  "OperationName": "AzureDevOpsProjects_List",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "azureDevOpsConnectors/orgs/projects",
+  "Description": "read projects",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

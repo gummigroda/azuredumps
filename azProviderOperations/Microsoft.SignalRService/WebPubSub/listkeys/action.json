@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/listkeys/action",
+  "OperationName": "View WebPubSub Access Keys",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "View the value of WebPubSub access keys in the management portal or through API",
+  "IsDataAction": false
+}

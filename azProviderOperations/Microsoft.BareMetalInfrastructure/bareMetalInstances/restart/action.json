@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetalInfrastructure/bareMetalInstances/restart/action",
+  "OperationName": "Restart BareMetal Instance",
+  "ProviderNamespace": "Microsoft BareMetal Infrastructure",
+  "ResourceName": "BareMetal Instance",
+  "Description": "Restart any BareMetal Instance",
+  "IsDataAction": false
+}

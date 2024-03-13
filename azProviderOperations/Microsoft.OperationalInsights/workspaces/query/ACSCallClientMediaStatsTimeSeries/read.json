@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSCallClientMediaStatsTimeSeries/read",
+  "OperationName": "Read ACSCallClientMediaStatsTimeSeries data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSCallClientMediaStatsTimeSeries",
+  "Description": "Read data from the ACSCallClientMediaStatsTimeSeries table",
+  "IsDataAction": false
+}

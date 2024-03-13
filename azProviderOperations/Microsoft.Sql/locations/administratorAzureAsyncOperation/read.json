@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/administratorAzureAsyncOperation/read",
+  "OperationName": "Gets the Managed instance azure async administrator operations result.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Administrator of Azure SQL Managed Instance.",
+  "Description": "Gets the Managed instance azure async administrator operations result.",
+  "IsDataAction": false
+}

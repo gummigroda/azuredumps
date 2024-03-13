@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

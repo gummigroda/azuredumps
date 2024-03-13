@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateLinkResources/read",
+  "OperationName": "List Private Link Resources",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace Private Link Resources",
+  "Description": "List Private Link Resources",
+  "IsDataAction": false
+}

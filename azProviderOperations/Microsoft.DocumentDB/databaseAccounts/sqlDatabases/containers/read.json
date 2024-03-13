@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/read",
+  "OperationName": "Read SQL container(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Container",
+  "Description": "Read a SQL container or list all the SQL containers.",
+  "IsDataAction": false
+}

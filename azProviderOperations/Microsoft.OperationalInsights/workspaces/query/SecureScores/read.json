@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SecureScores/read",
+  "OperationName": "Read SecureScores data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SecureScores",
+  "Description": "Read data from the SecureScores table",
+  "IsDataAction": false
+}

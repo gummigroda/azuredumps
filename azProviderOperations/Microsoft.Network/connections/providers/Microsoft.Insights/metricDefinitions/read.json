@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Gets the metric definitions for Connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Connections metric definitions",
+  "Description": "Gets the metric definitions for Connections",
+  "IsDataAction": false
+}

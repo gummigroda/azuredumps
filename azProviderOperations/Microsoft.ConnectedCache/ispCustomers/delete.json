@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/ispCustomers/delete",
+  "OperationName": "IspCustomers_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "ispCustomers",
+  "Description": "This api deletes an existing ispCustomer resource",
+  "IsDataAction": false
+}

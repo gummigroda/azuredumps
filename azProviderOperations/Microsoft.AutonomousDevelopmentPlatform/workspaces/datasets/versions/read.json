@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/datasets/versions/read",
+  "OperationName": "Read Datasets Versions",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Datasets Versions",
+  "Description": "Read Datasets Versions",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/administrators/write",
+  "OperationName": "Create/Update Administrator of Azure SQL Managed Instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Administrator of Azure SQL Managed Instance.",
+  "Description": "Creates or updates managed instance administrator with the specified parameters.",
+  "IsDataAction": false
+}

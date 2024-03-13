@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/listCallbackUrl/action",
+  "OperationName": "List workflow callback URL",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Gets the callback URL for workflow.",
+  "IsDataAction": false
+}

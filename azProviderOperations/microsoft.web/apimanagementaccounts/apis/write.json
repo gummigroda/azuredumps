@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/write",
+  "OperationName": "Update Api Management Accounts APIs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs",
+  "Description": "Update Api Management Accounts APIs.",
+  "IsDataAction": false
+}

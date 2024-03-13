@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/tagRules/write",
+  "OperationName": "TagRules_Update",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/tagRules",
+  "Description": "Update a TagRule",
+  "IsDataAction": false
+}

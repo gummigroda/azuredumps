@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apiregistration.k8s.io/apiservices/write",
+  "OperationName": "Creates/Updates apiservices resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Apiservices",
+  "Description": "Writes apiservices",
+  "IsDataAction": true
+}

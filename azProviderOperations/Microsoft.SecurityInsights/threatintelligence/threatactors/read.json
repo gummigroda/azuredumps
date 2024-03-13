@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/threatactors/read",
+  "OperationName": "Get TI Threat Actors",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIThreatActors",
+  "Description": "Reads TI Threat Actor objects",
+  "IsDataAction": false
+}

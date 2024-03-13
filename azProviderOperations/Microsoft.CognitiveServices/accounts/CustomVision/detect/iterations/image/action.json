@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/detect/iterations/image/action",
+  "OperationName": "DetectImage",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Detect objects in an image and saves the result.",
+  "IsDataAction": true
+}

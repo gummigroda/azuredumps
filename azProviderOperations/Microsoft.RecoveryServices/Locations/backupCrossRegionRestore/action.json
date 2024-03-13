@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupCrossRegionRestore/action",
+  "OperationName": "Cross Region Restore",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Trigger Cross region restore.",
+  "IsDataAction": false
+}

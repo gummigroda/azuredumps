@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/agreements/Read",
+  "OperationName": "Gets/List agreement resources",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "agreements",
+  "Description": "List all the marketplace agreements",
+  "IsDataAction": false
+}

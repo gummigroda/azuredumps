@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read",
+  "OperationName": "Get Policy Operation Status",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Policy Operation Status",
+  "Description": "Get Status of Policy Operation.",
+  "IsDataAction": false
+}

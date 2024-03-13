@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker.v2/QnaMaker/generateanswer/action",
+  "OperationName": "Generate Answer",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "GenerateAnswer call to query over the given passage or documents",
+  "IsDataAction": true
+}

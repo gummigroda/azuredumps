@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/workloadGroups/delete",
+  "OperationName": "Drops a specific workload group.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The allowed operations for a data warehouse workload management workload group.",
+  "Description": "Drops a specific workload group.",
+  "IsDataAction": false
+}

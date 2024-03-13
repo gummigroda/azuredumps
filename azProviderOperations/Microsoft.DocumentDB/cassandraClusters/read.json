@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/cassandraClusters/read",
+  "OperationName": "Microsoft.DocumentDB/cassandraClusters/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Managed Cassandra cluster",
+  "Description": "Read a managed Cassandra cluster or list all managed Cassandra clusters",
+  "IsDataAction": false
+}

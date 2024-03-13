@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/start/Action",
+  "OperationName": "Start Web App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Start a Web App",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/executeTestRun/action",
+  "OperationName": "Instances_ExecuteTestRun",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances",
+  "Description": "Execute a pipeline test run.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/populateAvailabilityZone/action",
+  "OperationName": "Populates availability zone for a volume",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Populates logical availability zone for a volume in a zone aware region and storage.",
+  "IsDataAction": false
+}

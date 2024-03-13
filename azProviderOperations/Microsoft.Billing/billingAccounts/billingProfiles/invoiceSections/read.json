@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/read",
+  "OperationName": "InvoiceSections_ListByBillingProfile",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Invoice Sections",
+  "Description": "Lists the invoice sections that a user has access to. The operation is supported only for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

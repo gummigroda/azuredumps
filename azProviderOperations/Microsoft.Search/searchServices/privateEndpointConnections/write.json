@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnections/write",
+  "OperationName": "Create Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Creates a private endpoint connections with the specified parameters or updates the properties or tags for the specified private endpoint connections",
+  "IsDataAction": false
+}

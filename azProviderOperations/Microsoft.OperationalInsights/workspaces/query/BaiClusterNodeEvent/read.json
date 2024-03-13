@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/BaiClusterNodeEvent/read",
+  "OperationName": "Read BaiClusterNodeEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "BaiClusterNodeEvent",
+  "Description": "Read data from the BaiClusterNodeEvent table",
+  "IsDataAction": false
+}

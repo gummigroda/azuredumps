@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/delete",
+  "OperationName": "Flows_Delete",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Deletes the flow resource.",
+  "IsDataAction": false
+}

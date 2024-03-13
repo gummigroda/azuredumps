@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseMccCustomers/enterpriseMccCacheNodes/read",
+  "OperationName": "EnterpriseMccCacheNodesOperations_Get",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseMccCustomers/enterpriseMccCacheNodes",
+  "Description": "This api gets ispCacheNode resource information",
+  "IsDataAction": false
+}

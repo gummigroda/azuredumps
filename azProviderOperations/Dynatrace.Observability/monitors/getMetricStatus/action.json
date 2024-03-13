@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/getMetricStatus/action",
+  "OperationName": "Gets Metric Status",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Gets Metric Status from the dyntrace partner",
+  "IsDataAction": false
+}

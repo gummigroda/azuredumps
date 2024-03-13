@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/tenantActivityLogAlerts/delete",
+  "OperationName": "Deletes the tenantLevelActivityLogAlerts",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "tenantActivityLogAlerts",
+  "Description": "Delete tenantLevelActivityLogAlerts",
+  "IsDataAction": false
+}

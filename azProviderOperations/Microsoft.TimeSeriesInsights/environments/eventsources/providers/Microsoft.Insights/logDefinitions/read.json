@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/eventsources/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read event source log definitions",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Event Source",
+  "Description": "Gets the available logs for the event source",
+  "IsDataAction": false
+}

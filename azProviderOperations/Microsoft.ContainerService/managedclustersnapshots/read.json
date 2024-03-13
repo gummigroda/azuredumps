@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedclustersnapshots/read",
+  "OperationName": "Get ManagedClusterSnapshot",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "ManagedClusterSnapshots",
+  "Description": "Get a managed cluster snapshot",
+  "IsDataAction": false
+}

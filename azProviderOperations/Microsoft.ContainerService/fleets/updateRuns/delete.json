@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/updateRuns/delete",
+  "OperationName": "Delete a fleet update run",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "UpdateRuns",
+  "Description": "Delete a fleet update run",
+  "IsDataAction": false
+}

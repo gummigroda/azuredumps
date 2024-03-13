@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/write",
+  "OperationName": "CreateIndex|UpdateIndex*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Index Operations",
+  "Description": "This method creates an index, which can then be used to ingest documents.\r\nUpdates an index with the specified name.*",
+  "IsDataAction": true
+}

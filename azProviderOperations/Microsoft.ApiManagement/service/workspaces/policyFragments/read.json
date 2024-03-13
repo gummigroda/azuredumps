@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policyFragments/read",
+  "OperationName": "Get policy fragments or Get policy fragment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy fragments",
+  "Description": "Gets all policy fragments. or Gets a policy fragment.",
+  "IsDataAction": false
+}

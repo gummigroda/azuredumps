@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/operationresults/read",
+  "OperationName": "Get Namespace Resource",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Namespace",
+  "Description": "Get the status of Namespace operation",
+  "IsDataAction": false
+}

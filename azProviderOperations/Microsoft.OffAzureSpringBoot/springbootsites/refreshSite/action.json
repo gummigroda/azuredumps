@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/refreshSite/action",
+  "OperationName": "springbootsites_TriggerRefreshSite",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites",
+  "Description": "Triggerrefreshspringbootsitesaction",
+  "IsDataAction": false
+}

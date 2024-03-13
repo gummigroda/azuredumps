@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/register/action",
+  "OperationName": "Register the Microsoft.AzureDataTransfer",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzureDataTransfer",
+  "IsDataAction": false
+}

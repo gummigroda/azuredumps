@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/invoiceSections/products/validateMoveEligibility/action",
+  "OperationName": "Validate Product Move Parameters",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Products",
+  "Description": null,
+  "IsDataAction": false
+}

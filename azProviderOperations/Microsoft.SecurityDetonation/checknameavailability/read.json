@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/checknameavailability/read",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Name Availability",
+  "Description": "Checks that resource name is valid and is not in use",
+  "IsDataAction": false
+}

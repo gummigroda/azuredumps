@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/documentProcessors/delete",
+  "OperationName": "DocumentProcessor_Delete",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "documentProcessors",
+  "Description": "Deletes document processor resource for a given name.",
+  "IsDataAction": false
+}

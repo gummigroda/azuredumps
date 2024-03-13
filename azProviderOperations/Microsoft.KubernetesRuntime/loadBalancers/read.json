@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/loadBalancers/read",
+  "OperationName": "LoadBalancers_Get",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "loadBalancers",
+  "Description": "Get a LoadBalancer",
+  "IsDataAction": false
+}

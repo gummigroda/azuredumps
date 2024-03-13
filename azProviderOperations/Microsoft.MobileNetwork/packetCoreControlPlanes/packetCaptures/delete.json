@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCaptures/delete",
+  "OperationName": "PacketCaptures_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCaptures",
+  "Description": "Deletes the specified packet capture.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/write",
+  "OperationName": "Update data pools",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "DataPool",
+  "Description": "Update data pools",
+  "IsDataAction": false
+}

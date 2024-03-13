@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEvents/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get a list of Media Services Live Event Metrics definitions.",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Event",
+  "Description": "Get a list of Media Services Live Event Metrics definitions.",
+  "IsDataAction": false
+}

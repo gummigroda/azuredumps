@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/alertPreferences/read",
+  "OperationName": "AlertPreferences_Get",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Alert Preferences",
+  "Description": "Gets the AlertPreference with the given Id.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/catalogs/write",
+  "OperationName": "Catalogs_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/catalogs",
+  "Description": "Partially updates a catalog.",
+  "IsDataAction": false
+}

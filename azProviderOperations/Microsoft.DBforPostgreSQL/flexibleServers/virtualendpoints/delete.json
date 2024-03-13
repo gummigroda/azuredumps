@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/delete",
+  "OperationName": "VirtualEndpoint Delete operation",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL - Flexible Server Virtual Endpoint",
+  "Description": "Deletes the VirtualEndpoint",
+  "IsDataAction": false
+}

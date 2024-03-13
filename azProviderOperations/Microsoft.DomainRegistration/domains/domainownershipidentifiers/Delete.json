@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/domains/domainownershipidentifiers/Delete",
+  "OperationName": "Delete ownership Identifier",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "Domain operation",
+  "Description": "Delete ownership identifier",
+  "IsDataAction": false
+}

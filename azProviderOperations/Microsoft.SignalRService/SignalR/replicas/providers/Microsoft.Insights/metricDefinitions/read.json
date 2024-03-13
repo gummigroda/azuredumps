@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/replicas/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read SignalR replica Metrics Definitions",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/replicas",
+  "Description": "Get the available metrics of a SignalR replica resource",
+  "IsDataAction": false
+}

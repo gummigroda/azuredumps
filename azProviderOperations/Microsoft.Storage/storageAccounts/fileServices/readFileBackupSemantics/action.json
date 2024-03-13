@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action",
+  "OperationName": "Read File Backup Sematics Privilege",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Read File Backup Sematics Privilege",
+  "IsDataAction": true
+}

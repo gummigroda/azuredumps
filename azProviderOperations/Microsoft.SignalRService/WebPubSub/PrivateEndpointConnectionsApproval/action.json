@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "Approve Private Endpoint Connection",
+  "IsDataAction": false
+}

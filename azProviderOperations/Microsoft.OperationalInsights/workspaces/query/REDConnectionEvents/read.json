@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/REDConnectionEvents/read",
+  "OperationName": "Read REDConnectionEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "REDConnectionEvents",
+  "Description": "Read data from the REDConnectionEvents table",
+  "IsDataAction": false
+}

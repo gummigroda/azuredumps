@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/executions/steps/targets/read",
+  "OperationName": "Gets a target execution",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job step target execution",
+  "Description": "Get a target executoin",
+  "IsDataAction": false
+}

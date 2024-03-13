@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/templates/write",
+  "OperationName": "Create or update email template or Update email template",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of all email templates",
+  "Description": "Create or update API Management email template or Updates API Management email template",
+  "IsDataAction": false
+}

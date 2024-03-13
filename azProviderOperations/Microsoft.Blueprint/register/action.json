@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Blueprint/register/action",
+  "OperationName": "Registers the Azure Blueprints Resource Provider",
+  "ProviderNamespace": "Microsoft Blueprint",
+  "ResourceName": "",
+  "Description": "Registers the Azure Blueprints Resource Provider",
+  "IsDataAction": false
+}

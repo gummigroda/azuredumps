@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceRegistry/assets/delete",
+  "OperationName": "Assets_Delete",
+  "ProviderNamespace": "Microsoft.DeviceRegistry",
+  "ResourceName": "assets",
+  "Description": "Delete an asset.",
+  "IsDataAction": false
+}

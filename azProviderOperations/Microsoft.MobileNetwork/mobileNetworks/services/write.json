@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/services/write",
+  "OperationName": "Services_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/services",
+  "Description": "Updates service tags.",
+  "IsDataAction": false
+}

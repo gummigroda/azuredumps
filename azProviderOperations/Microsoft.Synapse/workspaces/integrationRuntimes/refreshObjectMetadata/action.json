@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/refreshObjectMetadata/action",
+  "OperationName": "Refresh Object metadata on an Intergration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Refresh Object metadata on any Intergration Runtime",
+  "IsDataAction": false
+}

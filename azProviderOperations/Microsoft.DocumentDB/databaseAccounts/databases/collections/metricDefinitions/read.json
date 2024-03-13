@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/databases/collections/metricDefinitions/read",
+  "OperationName": "Read collection metric definitions",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Collection metric definitions",
+  "Description": "Reads the collection metric definitions.",
+  "IsDataAction": false
+}

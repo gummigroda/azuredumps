@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/persistentvolumeclaims/delete",
+  "OperationName": "Deletes/DeletesCollection persistentvolumeclaims resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Persistentvolumeclaims",
+  "Description": "Deletes persistentvolumeclaims",
+  "IsDataAction": true
+}

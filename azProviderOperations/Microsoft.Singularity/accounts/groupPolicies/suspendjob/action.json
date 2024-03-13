@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/suspendjob/action",
+  "OperationName": "Check permissions for suspending job linked to Singularity group policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Action to check for user access to suspend a job linked to Singularity group policy",
+  "IsDataAction": false
+}

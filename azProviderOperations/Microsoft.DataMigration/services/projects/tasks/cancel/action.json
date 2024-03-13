@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/projects/tasks/cancel/action",
+  "OperationName": "Cancel running task",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service Task",
+  "Description": "Cancel the task if it's currently running",
+  "IsDataAction": false
+}

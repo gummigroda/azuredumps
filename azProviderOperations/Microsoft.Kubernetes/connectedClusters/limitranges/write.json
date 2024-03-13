@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/limitranges/write",
+  "OperationName": "Creates/Updates limitranges resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "limitranges",
+  "Description": "Writes limitranges",
+  "IsDataAction": true
+}

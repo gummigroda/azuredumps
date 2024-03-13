@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs/checkNameAvailability/action",
+  "OperationName": "Get alias availability.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Checks availability of namespace alias under given subscription.",
+  "IsDataAction": false
+}

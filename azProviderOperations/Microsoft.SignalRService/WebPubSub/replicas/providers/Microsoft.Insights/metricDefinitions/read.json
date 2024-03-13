@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/replicas/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read WebPubSub replica Metrics Definitions",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/replicas",
+  "Description": "Get the available metrics of a WebPubSub replica resource",
+  "IsDataAction": false
+}

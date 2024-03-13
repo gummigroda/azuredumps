@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/BlobEntitiesEndpointWithSas/read",
+  "OperationName": "Query blob url with SAS of artifacts.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Query blob url with SAS of artifacts.",
+  "IsDataAction": true
+}

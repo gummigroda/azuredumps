@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/hostGroups/hosts/hostSizes/read",
+  "OperationName": "Lists Available Host Sizes",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Host Size",
+  "Description": "Lists available sizes the host can be updated to. NOTE: The dedicated host sizes provided can be used to only scale up the existing dedicated host.",
+  "IsDataAction": false
+}

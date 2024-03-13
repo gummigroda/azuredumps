@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/updateReferences/action",
+  "OperationName": "Update reference in a SecurityPartnerProvider",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Update references in a SecurityPartnerProvider",
+  "IsDataAction": false
+}

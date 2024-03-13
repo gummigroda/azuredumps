@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/write",
+  "OperationName": "Pools_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools",
+  "Description": "Partially updates a machine pool",
+  "IsDataAction": false
+}

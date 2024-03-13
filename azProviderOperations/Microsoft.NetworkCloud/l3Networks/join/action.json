@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l3Networks/join/action",
+  "OperationName": "L3Networks_Join",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l3Networks",
+  "Description": "Join a layer 3 (L3) network.",
+  "IsDataAction": false
+}

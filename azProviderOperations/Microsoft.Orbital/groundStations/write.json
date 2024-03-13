@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/groundStations/write",
+  "OperationName": "Create or Update Ground Station",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Ground Stations",
+  "Description": "Create or Update any Ground Station",
+  "IsDataAction": false
+}

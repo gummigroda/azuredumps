@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/analysisIntents/analysisRuns/delete",
+  "OperationName": "Deletes a Analysis Run",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Analysis Run",
+  "Description": "Deletes a Analysis Run",
+  "IsDataAction": false
+}

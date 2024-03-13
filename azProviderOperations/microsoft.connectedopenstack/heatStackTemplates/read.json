@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/heatStackTemplates/read",
+  "OperationName": "HeatStackTemplates_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "heatStackTemplates",
+  "Description": "Implements HeatStackTemplates list by subscription GET method.",
+  "IsDataAction": false
+}

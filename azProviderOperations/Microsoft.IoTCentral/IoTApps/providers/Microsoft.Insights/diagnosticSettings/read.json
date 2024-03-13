@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get/List diagnostic settings",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Get/List all the diagnostic settings for the resource",
+  "IsDataAction": false
+}

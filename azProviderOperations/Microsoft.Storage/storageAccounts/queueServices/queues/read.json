@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/queues/read",
+  "OperationName": "Read a queue or list queues",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Service Queues",
+  "Description": "Returns a queue or a list of queues.",
+  "IsDataAction": false
+}

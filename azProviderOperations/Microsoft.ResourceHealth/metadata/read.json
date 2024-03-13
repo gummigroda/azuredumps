@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/metadata/read",
+  "OperationName": "Read Metadata",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Metadata",
+  "Description": "Gets Metadata",
+  "IsDataAction": false
+}

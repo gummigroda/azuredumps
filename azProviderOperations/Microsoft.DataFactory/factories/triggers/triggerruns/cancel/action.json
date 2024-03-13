@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/triggerruns/cancel/action",
+  "OperationName": "Cancel Trigger Run",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Cancel the Trigger Run with the given trigger run id.",
+  "IsDataAction": false
+}

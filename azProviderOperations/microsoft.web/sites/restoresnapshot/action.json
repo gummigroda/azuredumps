@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/restoresnapshot/action",
+  "OperationName": "Restore Web Apps Snapshots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Restore Web Apps Snapshots.",
+  "IsDataAction": false
+}

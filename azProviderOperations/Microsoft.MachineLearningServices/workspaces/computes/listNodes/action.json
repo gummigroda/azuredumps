@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/computes/listNodes/action",
+  "OperationName": "List nodes for compute resource in Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Computes",
+  "Description": "List nodes for compute resource in Machine Learning Services Workspace",
+  "IsDataAction": false
+}

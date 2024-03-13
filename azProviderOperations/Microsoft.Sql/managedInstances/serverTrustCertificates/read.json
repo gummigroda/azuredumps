@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/serverTrustCertificates/read",
+  "OperationName": "List/Get server trust certificate",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Server Trust Certificate",
+  "Description": "Return the list of server trust certificates.",
+  "IsDataAction": false
+}

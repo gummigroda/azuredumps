@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/Summaries/write",
+  "OperationName": "Summaries_Update",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/Summaries",
+  "Description": "Patch the Summaries resource.",
+  "IsDataAction": false
+}

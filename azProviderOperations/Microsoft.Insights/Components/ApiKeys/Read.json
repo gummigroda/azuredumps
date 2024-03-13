@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ApiKeys/Read",
+  "OperationName": "Application Insights API key read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights API key",
+  "Description": "Reading an Application Insights API key",
+  "IsDataAction": false
+}

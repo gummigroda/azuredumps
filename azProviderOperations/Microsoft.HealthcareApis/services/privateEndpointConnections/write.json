@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateEndpointConnections/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Endpoint Connections.",
+  "Description": "Writes connection status to Private Endpoint Connection.",
+  "IsDataAction": false
+}

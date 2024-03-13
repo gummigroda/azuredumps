@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AACAudit/read",
+  "OperationName": "Read AACAudit data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AACAudit",
+  "Description": "Read data from the AACAudit table",
+  "IsDataAction": false
+}

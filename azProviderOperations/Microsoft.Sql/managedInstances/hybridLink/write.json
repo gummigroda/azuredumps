@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/hybridLink/write",
+  "OperationName": "Create/Update hybrid link with a specified parameters.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Hybrid Link",
+  "Description": "Creates or updates hybrid link with a specified parameters.",
+  "IsDataAction": false
+}

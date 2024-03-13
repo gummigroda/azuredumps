@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AlertRules/Read",
+  "OperationName": "Read classic metric alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Classic Metric Alerts",
+  "Description": "Read a classic metric alert",
+  "IsDataAction": false
+}

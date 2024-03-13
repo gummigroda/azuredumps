@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/accessPolicies/read",
+  "OperationName": "Get Access Policies",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Access Policies for Redis",
+  "Description": "Get Redis Access Policies",
+  "IsDataAction": false
+}

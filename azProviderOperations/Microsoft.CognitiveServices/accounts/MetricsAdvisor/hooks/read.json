@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/hooks/read",
+  "OperationName": "Get a hook by its id or list all hooks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hooks",
+  "Description": "Get a hook by its id or list all hooks",
+  "IsDataAction": true
+}

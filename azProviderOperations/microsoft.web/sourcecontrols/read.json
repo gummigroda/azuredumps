@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sourcecontrols/read",
+  "OperationName": "Get Source Controls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Source Controls",
+  "Description": "Get Source Controls.",
+  "IsDataAction": false
+}

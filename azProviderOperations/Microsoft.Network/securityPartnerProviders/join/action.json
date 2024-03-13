@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/join/action",
+  "OperationName": "Join SecurityPartnerProviders",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Joins a SecurityPartnerProvider. Not alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/ActAsGrafanaAdmin/action",
+  "OperationName": "Act as Grafana Admin role",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Grafana",
+  "Description": "Act as Grafana Admin role",
+  "IsDataAction": true
+}

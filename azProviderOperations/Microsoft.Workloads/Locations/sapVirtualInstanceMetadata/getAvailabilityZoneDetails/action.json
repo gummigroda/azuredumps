@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/locations/sapVirtualInstanceMetadata/getAvailabilityZoneDetails/action",
+  "OperationName": "SAPAvailabilityZoneDetails",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "locations/sapVirtualInstanceMetadata",
+  "Description": "Get SAP Availability Zone Details.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupJobs/operationsStatus/read",
+  "OperationName": "Get Job Operation Status",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Jobs Operation Statuses",
+  "Description": "Returns the status of Job Operation.",
+  "IsDataAction": false
+}

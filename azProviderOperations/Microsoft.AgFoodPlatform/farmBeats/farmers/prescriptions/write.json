@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/prescriptions/write",
+  "OperationName": "Create or Update AgFoodPlatform prescriptions.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform prescriptions",
+  "Description": "Creates or Updates AgFoodPlatform prescriptions.",
+  "IsDataAction": true
+}

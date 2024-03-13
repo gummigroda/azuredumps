@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/connectorProps/delete",
+  "OperationName": "Delete the service connector of a deployment in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The deployment service connector of Microsoft Azure Spring Apps",
+  "Description": "Delete the service connector for a specific deployment",
+  "IsDataAction": false
+}

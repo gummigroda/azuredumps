@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/classicAdministrators/write",
+  "OperationName": "Set administrator",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Classic subscription administrator",
+  "Description": "Add or modify administrator to a subscription.",
+  "IsDataAction": false
+}

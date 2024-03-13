@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/privateEndpointConnections/write",
+  "OperationName": "Write private endpoint connection",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache private endpoint connections",
+  "Description": "Write a private endpoint connection",
+  "IsDataAction": false
+}

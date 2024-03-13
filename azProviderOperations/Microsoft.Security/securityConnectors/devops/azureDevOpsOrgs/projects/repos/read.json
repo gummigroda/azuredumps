@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/repos/read",
+  "OperationName": "AzureDevOpsRepos_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs Projects Repos",
+  "Description": "Returns a list of Azure DevOps repositories onboarded to the connector.",
+  "IsDataAction": false
+}

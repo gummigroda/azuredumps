@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/deployments/write",
+  "OperationName": "AnalyzeText_Deployments_TriggerDeploymentJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "deployments*",
+  "Description": "Trigger a new deployment or replace an existing one.",
+  "IsDataAction": true
+}

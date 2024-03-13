@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/endpoints/files/logs/write",
+  "OperationName": "Create a endpoint data export",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Logs",
+  "Description": "Create a endpoint data export",
+  "IsDataAction": true
+}

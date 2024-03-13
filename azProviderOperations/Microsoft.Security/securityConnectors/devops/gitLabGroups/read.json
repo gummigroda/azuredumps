@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitLabGroups/read",
+  "OperationName": "GitLabGroups_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitLabGroups",
+  "Description": "Returns a list of GitLab groups onboarded to the connector.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/managedCCFs/read",
+  "OperationName": "ManagedCCF_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "managedCCFs",
+  "Description": "Retrieves the properties of all Managed CCF.",
+  "IsDataAction": false
+}

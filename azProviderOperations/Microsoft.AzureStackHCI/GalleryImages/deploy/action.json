@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/GalleryImages/deploy/action",
+  "OperationName": "Deploys gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "GalleryImages",
+  "Description": "Deploys gallery images resource",
+  "IsDataAction": false
+}

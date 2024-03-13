@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/proximityPlacementGroups/delete",
+  "OperationName": "Delete Proximity Placement Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Proximity Placement Groups",
+  "Description": "Deletes the Proximity Placement Group",
+  "IsDataAction": false
+}

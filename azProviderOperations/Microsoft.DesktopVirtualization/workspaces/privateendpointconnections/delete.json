@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/workspaces/privateendpointconnections/delete",
+  "OperationName": "Delete workspaces/privateendpointconnections",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "workspaces/privateendpointconnections",
+  "Description": "Delete workspaces/privateendpointconnections",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/certificateAuthorities/write",
+  "OperationName": "CertificateAuthority_Update",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/certificateAuthorities",
+  "Description": "Updates some properties of a certificate authority, while not touching other properties.",
+  "IsDataAction": false
+}

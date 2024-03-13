@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/register/action",
+  "OperationName": "Register the Microsoft.Syntex",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Syntex",
+  "IsDataAction": false
+}

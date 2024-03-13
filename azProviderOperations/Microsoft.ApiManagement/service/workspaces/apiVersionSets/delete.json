@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apiVersionSets/delete",
+  "OperationName": "Remove VersionSet",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace ApiVersionSets",
+  "Description": "Deletes specific Api Version Set.",
+  "IsDataAction": false
+}

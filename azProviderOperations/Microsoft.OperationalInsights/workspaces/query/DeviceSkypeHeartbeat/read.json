@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceSkypeHeartbeat/read",
+  "OperationName": "Read DeviceSkypeHeartbeat data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceSkypeHeartbeat",
+  "Description": "Read data from the DeviceSkypeHeartbeat table",
+  "IsDataAction": false
+}

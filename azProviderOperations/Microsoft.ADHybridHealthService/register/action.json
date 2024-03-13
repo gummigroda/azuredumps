@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/register/action",
+  "OperationName": "Registers the ADHybrid Health Service Resource Provider.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "",
+  "Description": "Registers the ADHybrid Health Service Resource Provider and enables the creation of ADHybrid Health Service resource.",
+  "IsDataAction": false
+}

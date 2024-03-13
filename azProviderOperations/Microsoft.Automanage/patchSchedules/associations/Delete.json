@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchSchedules/associations/Delete",
+  "OperationName": "Delete Patch Schedule Association",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Schedule Association",
+  "Description": "Delete a patch schedule association.",
+  "IsDataAction": false
+}

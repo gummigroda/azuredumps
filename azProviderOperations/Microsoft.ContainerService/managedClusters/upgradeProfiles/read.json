@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/upgradeProfiles/read",
+  "OperationName": "Get UpgradeProfile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "UpgradeProfile",
+  "Description": "Gets the upgrade profile of the cluster",
+  "IsDataAction": false
+}

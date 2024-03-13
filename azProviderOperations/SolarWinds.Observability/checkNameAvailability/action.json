@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

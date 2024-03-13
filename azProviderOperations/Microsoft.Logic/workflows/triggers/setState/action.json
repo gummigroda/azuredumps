@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/setState/action",
+  "OperationName": "Set Trigger State",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger",
+  "Description": "Sets the trigger state.",
+  "IsDataAction": false
+}

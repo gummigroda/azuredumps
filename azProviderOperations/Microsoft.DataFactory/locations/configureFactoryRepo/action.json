@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/locations/configureFactoryRepo/action",
+  "OperationName": "Configure Factory Repository",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Configures the repository for the factory.",
+  "IsDataAction": false
+}

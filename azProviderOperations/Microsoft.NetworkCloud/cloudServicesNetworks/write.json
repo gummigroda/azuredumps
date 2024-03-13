@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/cloudServicesNetworks/write",
+  "OperationName": "CloudServicesNetworks_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "cloudServicesNetworks",
+  "Description": "Update properties of the provided cloud services network, or update the tags associated with it. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

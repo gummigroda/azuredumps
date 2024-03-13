@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/firewallRules/write",
+  "OperationName": "Create/Update server firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Firewall Rule",
+  "Description": "Creates a server firewall rule with the specified parameters, update the properties for the specified rule or overwrite all existing rules with new server firewall rule(s).",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/register/action",
+  "OperationName": "Register Microsoft.Databox",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "",
+  "Description": "Register Provider Microsoft.Databox",
+  "IsDataAction": false
+}

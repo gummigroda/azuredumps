@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/elevateAccess/action",
+  "OperationName": "Assigns the caller to User Access Administrator role",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "",
+  "Description": "Grants the caller User Access Administrator access at the tenant scope",
+  "IsDataAction": false
+}

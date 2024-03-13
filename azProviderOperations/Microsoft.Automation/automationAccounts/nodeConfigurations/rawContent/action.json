@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/nodeConfigurations/rawContent/action",
+  "OperationName": "Gets an Azure Automation DSC's node configuration content",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Node Configurations",
+  "Description": "Reads an Azure Automation DSC's node configuration content",
+  "IsDataAction": false
+}

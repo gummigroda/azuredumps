@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/import/action",
+  "OperationName": "Submissions Import Action",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions",
+  "Description": "Allows importing submissions",
+  "IsDataAction": true
+}

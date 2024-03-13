@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/delete",
+  "OperationName": "Deletes a Network Verifier",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Verifier",
+  "Description": "Deletes a Network Verifier",
+  "IsDataAction": false
+}

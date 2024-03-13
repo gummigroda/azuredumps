@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualmachines/Read",
+  "OperationName": "Gets/List virtualmachines resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualmachines",
+  "Description": "Read virtualmachines",
+  "IsDataAction": false
+}

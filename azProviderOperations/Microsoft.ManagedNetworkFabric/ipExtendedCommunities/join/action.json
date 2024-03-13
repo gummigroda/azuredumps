@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipExtendedCommunities/join/action",
+  "OperationName": "IpExtendedCommunities_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipExtendedCommunities",
+  "Description": "Join action for IP Extended Community resource.",
+  "IsDataAction": false
+}

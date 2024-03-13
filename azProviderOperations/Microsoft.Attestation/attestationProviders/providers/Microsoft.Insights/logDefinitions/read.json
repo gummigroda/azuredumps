@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read AzureAttestation log definitions",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Gets the available logs for Azure Attestation.",
+  "IsDataAction": false
+}

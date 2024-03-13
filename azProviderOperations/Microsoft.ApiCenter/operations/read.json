@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/operations/read",
+  "OperationName": "Read all API operations available for Microsoft.ApiCenter resource provider",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Microsoft Azure API Center operations",
+  "Description": "Read all API operations available for Microsoft.ApiCenter resource provider.",
+  "IsDataAction": false
+}

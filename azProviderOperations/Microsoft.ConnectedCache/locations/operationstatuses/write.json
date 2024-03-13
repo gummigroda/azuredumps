@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

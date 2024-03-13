@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/queryUserOffers/action",
+  "OperationName": "Query user offers",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Fetch the approved offers from the offers ids and the user subscriptions in the payload",
+  "IsDataAction": false
+}

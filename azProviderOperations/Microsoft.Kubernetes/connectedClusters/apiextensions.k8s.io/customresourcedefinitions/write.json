@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apiextensions.k8s.io/customresourcedefinitions/write",
+  "OperationName": "Creates/Updates customresourcedefinitions resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "customresourcedefinitions",
+  "Description": "Writes customresourcedefinitions",
+  "IsDataAction": true
+}

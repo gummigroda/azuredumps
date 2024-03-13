@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/identitywebhooks/delete",
+  "OperationName": "IdentityWebhooks_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/identitywebhooks",
+  "Description": "Delete the IdentityWebhooks resource.",
+  "IsDataAction": false
+}

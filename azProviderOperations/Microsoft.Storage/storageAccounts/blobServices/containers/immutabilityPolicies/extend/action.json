@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/extend/action",
+  "OperationName": "Extend blob container immutability policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers ImmutabilityPolicy",
+  "Description": "Extend blob container immutability policy",
+  "IsDataAction": false
+}

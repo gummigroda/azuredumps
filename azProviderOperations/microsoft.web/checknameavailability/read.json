@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/checknameavailability/read",
+  "OperationName": "Get Check Name Availability",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Check Name Availability",
+  "Description": "Check if resource name is available.",
+  "IsDataAction": false
+}

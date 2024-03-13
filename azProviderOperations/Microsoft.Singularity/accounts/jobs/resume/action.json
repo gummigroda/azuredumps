@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/jobs/resume/action",
+  "OperationName": "Resume Singularity Job",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Job",
+  "Description": "Resumes Singularity Job",
+  "IsDataAction": false
+}

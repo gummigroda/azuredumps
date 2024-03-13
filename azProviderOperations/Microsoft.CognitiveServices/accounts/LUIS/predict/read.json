@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/predict/read",
+  "OperationName": "Get predictions from endpoint",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language Understanding Service",
+  "Description": "Gets the published endpoint prediction for the given query.",
+  "IsDataAction": true
+}

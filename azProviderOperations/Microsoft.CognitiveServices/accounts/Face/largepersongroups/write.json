@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/write",
+  "OperationName": "LargePersonGroup - Create|LargePersonGroup - Update*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largepersongroups*",
+  "Description": "Create a new large person group with user-specified largePersonGroupId, name, an optional userData and recognitionModel.\r\nUpdate an existing large person group's name and userData. The properties keep unchanged if they are not in request body.*",
+  "IsDataAction": true
+}

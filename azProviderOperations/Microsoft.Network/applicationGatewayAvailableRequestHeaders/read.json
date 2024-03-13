@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGatewayAvailableRequestHeaders/read",
+  "OperationName": "Get Application Gateway available Request Headers",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway available Request Header",
+  "Description": "Get Application Gateway available Request Headers",
+  "IsDataAction": false
+}

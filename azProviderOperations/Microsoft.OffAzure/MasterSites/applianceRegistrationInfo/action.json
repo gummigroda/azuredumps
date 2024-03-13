@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/applianceRegistrationInfo/action",
+  "OperationName": "Register an Appliances Under A Master Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Master Site",
+  "Description": "Register an Appliances Under A Master Site",
+  "IsDataAction": false
+}

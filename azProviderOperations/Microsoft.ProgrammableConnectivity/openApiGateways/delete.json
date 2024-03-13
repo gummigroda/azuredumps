@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/openApiGateways/delete",
+  "OperationName": "OpenApiGateways_Delete",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "openApiGateways",
+  "Description": "Delete an OpenAPI Gateway",
+  "IsDataAction": false
+}

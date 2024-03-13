@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/configurations/delete",
+  "OperationName": "Delete Configuration",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Delete any device management configuration",
+  "IsDataAction": true
+}

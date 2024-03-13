@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Get Private Endpoint Connection",
+  "IsDataAction": false
+}

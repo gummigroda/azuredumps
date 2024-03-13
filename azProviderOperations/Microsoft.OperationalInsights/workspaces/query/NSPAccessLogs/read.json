@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/NSPAccessLogs/read",
+  "OperationName": "Read NSPAccessLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NSPAccessLogs",
+  "Description": "Read data from the NSPAccessLogs table",
+  "IsDataAction": false
+}

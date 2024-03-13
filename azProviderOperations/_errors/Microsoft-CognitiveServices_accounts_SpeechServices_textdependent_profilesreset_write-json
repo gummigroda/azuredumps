@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-dependent/profiles:reset/write",
+  "OperationName": "Reset Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Dependent",
+  "Description": "Resets existing profile to its original creation state. The reset operation does the following:",
+  "IsDataAction": true
+}

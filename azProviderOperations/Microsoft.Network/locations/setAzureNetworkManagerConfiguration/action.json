@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/setAzureNetworkManagerConfiguration/action",
+  "OperationName": "Set Azure Network Manager Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Sets Azure Network Manager Configuration",
+  "IsDataAction": false
+}

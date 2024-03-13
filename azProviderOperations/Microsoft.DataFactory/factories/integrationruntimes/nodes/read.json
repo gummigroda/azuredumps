@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/nodes/read",
+  "OperationName": "Read Integration Runtime Node",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Reads the Node for the specified Integration Runtime.",
+  "IsDataAction": false
+}

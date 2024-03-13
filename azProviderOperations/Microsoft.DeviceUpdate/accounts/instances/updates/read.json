@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/instances/updates/read",
+  "OperationName": "Get Updates",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Performs a read operation related to updates",
+  "IsDataAction": true
+}

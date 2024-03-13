@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DefenderIoTRawEvent/read",
+  "OperationName": "Read DefenderIoTRawEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DefenderIoTRawEvent",
+  "Description": "Read data from the DefenderIoTRawEvent table",
+  "IsDataAction": false
+}

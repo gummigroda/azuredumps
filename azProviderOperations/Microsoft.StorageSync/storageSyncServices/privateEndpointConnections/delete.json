@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Private Endpoint Connections",
+  "Description": "Delete any Private Endpoint Connections",
+  "IsDataAction": false
+}

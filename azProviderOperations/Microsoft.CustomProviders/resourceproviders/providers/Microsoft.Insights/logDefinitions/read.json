@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read resourceproviders log definitions",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "The log definition of resourceproviders",
+  "Description": "Gets the available logs for Custom Resource Providers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AACHttpRequest/read",
+  "OperationName": "Read AACHttpRequest data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AACHttpRequest",
+  "Description": "Read data from the AACHttpRequest table",
+  "IsDataAction": false
+}

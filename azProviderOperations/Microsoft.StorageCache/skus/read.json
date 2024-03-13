@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/skus/read",
+  "OperationName": "List SKUs for Azure HPC Cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "SKU",
+  "Description": "Lists all valid SKUs for the cache",
+  "IsDataAction": false
+}

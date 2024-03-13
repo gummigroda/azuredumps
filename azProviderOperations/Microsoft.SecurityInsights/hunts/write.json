@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/write",
+  "OperationName": "Create Hunts",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunts",
+  "Description": "Create Hunts",
+  "IsDataAction": false
+}

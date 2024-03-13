@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testSummaries/read",
+  "OperationName": "TestSummaries_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testSummaries",
+  "Description": "Gets a Test Summary with specific name from all the Test Summaries of all the packages under a Test Base Account.",
+  "IsDataAction": false
+}

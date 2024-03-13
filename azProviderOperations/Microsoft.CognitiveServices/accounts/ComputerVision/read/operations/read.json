@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/read/operations/read",
+  "OperationName": "Get results of read operation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "OCR Operations",
+  "Description": "This interface is used for getting OCR results of Read operation. The URL to this interface should be retrieved from <b>\"Operation-Location\"</b> field returned from <a href=\"/docs/services/5adf991815e1060e6355ad44/operations/2afb498089f74080d7ef85eb\">Batch Read File</a> interface.",
+  "IsDataAction": true
+}

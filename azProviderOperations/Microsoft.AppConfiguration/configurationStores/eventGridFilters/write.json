@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/eventGridFilters/write",
+  "OperationName": "Create or Update Configuration Store Event Grid Filter",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store Event Grid Filter",
+  "Description": "Create or update a configuration store event grid filter with the specified parameters.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/Stop/action",
+  "OperationName": "Stop the cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Stops the cache",
+  "IsDataAction": false
+}

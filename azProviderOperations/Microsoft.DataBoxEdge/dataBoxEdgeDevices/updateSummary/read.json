@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/updateSummary/read",
+  "OperationName": "List update summary",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "update summary",
+  "Description": "Lists or gets the update summary",
+  "IsDataAction": false
+}

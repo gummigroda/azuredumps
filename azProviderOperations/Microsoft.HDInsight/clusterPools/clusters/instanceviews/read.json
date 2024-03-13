@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/clusters/instanceviews/read",
+  "OperationName": "Read Instance View Details",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster Instance View",
+  "Description": "Get details about HDInsight on AKS Cluster Instance View",
+  "IsDataAction": false
+}

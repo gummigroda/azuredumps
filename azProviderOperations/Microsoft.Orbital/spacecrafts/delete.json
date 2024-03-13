@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/delete",
+  "OperationName": "Delete Spacecraft",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Spacecrafts",
+  "Description": "Delete any Spacecraft",
+  "IsDataAction": false
+}

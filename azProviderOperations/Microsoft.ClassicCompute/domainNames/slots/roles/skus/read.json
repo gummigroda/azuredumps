@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/skus/read",
+  "OperationName": "Get Deployment Slot Role Sku",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot Role Sku",
+  "Description": "Get role sku for the deployment slot.",
+  "IsDataAction": false
+}

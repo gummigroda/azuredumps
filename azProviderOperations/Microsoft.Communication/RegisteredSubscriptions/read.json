@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/RegisteredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "ACS Registered Subscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

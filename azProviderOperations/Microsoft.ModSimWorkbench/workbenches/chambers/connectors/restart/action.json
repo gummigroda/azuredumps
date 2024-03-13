@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/connectors/restart/action",
+  "OperationName": "connectors_Restart",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/connectors",
+  "Description": "restart connectors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WireData/Read",
+  "OperationName": "Read WireData data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WireData",
+  "Description": "Read data from the WireData table",
+  "IsDataAction": false
+}

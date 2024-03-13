@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Syntex/documentProcessors/read",
+  "OperationName": "DocumentProcessor_Get",
+  "ProviderNamespace": "Microsoft.Syntex",
+  "ResourceName": "documentProcessors",
+  "Description": "Returns a document processor for a given name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightRangerAuditLogs/read",
+  "OperationName": "Read HDInsightRangerAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightRangerAuditLogs",
+  "Description": "Read data from the HDInsightRangerAuditLogs table",
+  "IsDataAction": false
+}

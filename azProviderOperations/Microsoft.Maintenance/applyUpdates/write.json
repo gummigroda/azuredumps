@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/applyUpdates/write",
+  "OperationName": "Write apply updates to a resource.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Write apply updates to a resource.",
+  "IsDataAction": false
+}

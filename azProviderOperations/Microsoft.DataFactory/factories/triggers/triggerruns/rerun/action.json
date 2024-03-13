@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/triggerruns/rerun/action",
+  "OperationName": "Rerun Trigger Run",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Rerun the Trigger Run with the given trigger run id.",
+  "IsDataAction": false
+}

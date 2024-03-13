@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/osType/agentVersions/latest/read",
+  "OperationName": "Read the latest Azure Connected Machine Agent version",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "Microsoft.HybridCompute Resource Provider",
+  "Description": "Read the latest Azure Connected Machine Agent version",
+  "IsDataAction": false
+}

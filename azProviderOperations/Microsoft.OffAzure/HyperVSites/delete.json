@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/delete",
+  "OperationName": "Delete Hyper-V site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Deletes the Hyper-V site",
+  "IsDataAction": false
+}

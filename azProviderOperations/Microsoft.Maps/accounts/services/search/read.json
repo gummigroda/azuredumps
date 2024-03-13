@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/search/read",
+  "OperationName": "Search Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Search",
+  "Description": "Allows reading of data for Search services.",
+  "IsDataAction": true
+}

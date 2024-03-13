@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/products/read",
+  "OperationName": "Get Azure Stack Marketplace Product",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Marketplace Product",
+  "Description": "Gets the properties of an Azure Stack Marketplace product",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/builds/linkedBackends/Write",
+  "OperationName": "Register Static Site Build Linked Backend",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Build Linked Backends",
+  "Description": "Register a Linked Backend with a Static Site Build",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/rolebindings/read",
+  "OperationName": "Gets/List rolebindings resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Rolebindings",
+  "Description": "Reads rolebindings",
+  "IsDataAction": true
+}

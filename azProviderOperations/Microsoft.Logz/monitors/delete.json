@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/delete",
+  "OperationName": "Delete monitor resources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Monitors",
+  "Description": "Delete monitors",
+  "IsDataAction": false
+}

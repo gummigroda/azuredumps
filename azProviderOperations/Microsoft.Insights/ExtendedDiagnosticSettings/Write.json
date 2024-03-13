@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ExtendedDiagnosticSettings/Write",
+  "OperationName": "Create or update network flow log diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Network flow log diagnostic setting",
+  "Description": "Create or update a network flow log diagnostic setting",
+  "IsDataAction": false
+}

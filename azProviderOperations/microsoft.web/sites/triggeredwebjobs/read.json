@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/triggeredwebjobs/read",
+  "OperationName": "Get Web Apps Triggered WebJobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Triggered WebJobs",
+  "Description": "Get Web Apps Triggered WebJobs.",
+  "IsDataAction": false
+}

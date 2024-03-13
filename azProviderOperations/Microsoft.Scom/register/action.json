@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/register/action",
+  "OperationName": "Register the Microsoft.Scom",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Scom",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/frames/write",
+  "OperationName": "Review - Add video frames",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage video frames.",
+  "Description": "Use this method to add frames for a video review.",
+  "IsDataAction": true
+}

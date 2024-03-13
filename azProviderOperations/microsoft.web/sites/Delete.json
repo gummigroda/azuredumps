@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/Delete",
+  "OperationName": "Delete Web App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Delete an existing Web App",
+  "IsDataAction": false
+}

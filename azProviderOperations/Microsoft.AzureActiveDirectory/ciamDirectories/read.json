@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/ciamDirectories/read",
+  "OperationName": "View CIAM Directory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "CIAM Directory",
+  "Description": "View CIAM Directory resource",
+  "IsDataAction": false
+}

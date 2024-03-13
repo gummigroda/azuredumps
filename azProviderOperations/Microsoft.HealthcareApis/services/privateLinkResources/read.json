@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateLinkResources/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Link resources",
+  "Description": "Reads Private Link resources.",
+  "IsDataAction": false
+}

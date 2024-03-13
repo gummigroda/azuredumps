@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/write",
+  "OperationName": "Create Vault",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Create Vault operation creates an Azure resource of type 'vault'",
+  "IsDataAction": false
+}

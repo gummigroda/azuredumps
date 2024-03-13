@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/prepareMigration/action",
+  "OperationName": "Prepare Migration of a Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Prepares migration of a deployment slot.",
+  "IsDataAction": false
+}

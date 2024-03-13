@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/operations/read",
+  "OperationName": "Get Available Operations",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Available Operations",
+  "Description": "Get available operations of DataLakeStore.",
+  "IsDataAction": false
+}

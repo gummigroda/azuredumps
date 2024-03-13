@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/providerShareSubscriptions/reinstate/action",
+  "OperationName": "Reinstate Data Share share subscription",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Provider Share Subscriptions",
+  "Description": "Reinstates a Data Share Subscription.",
+  "IsDataAction": false
+}

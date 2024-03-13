@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/bootstrapConfigurations/delete",
+  "OperationName": "Delete BootstrapConfigurations",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "BootstrapConfigurations",
+  "Description": "Delete the BootstrapConfigurations",
+  "IsDataAction": false
+}

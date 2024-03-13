@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/trustedIdProviders/delete",
+  "OperationName": "Delete Trusted Identity Provider",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Trusted IdProvider",
+  "Description": "Delete a trusted identity provider.",
+  "IsDataAction": false
+}

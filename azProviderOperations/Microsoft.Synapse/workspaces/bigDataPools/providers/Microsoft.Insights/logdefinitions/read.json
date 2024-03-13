@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/bigDataPools/providers/Microsoft.Insights/logdefinitions/read",
+  "OperationName": "Read Big Data Pool log definitions",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "workspaces/bigDataPools",
+  "Description": "Gets the log definitions for a Big Data Pool",
+  "IsDataAction": false
+}

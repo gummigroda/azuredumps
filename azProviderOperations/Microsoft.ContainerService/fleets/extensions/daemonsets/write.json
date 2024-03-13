@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/daemonsets/write",
+  "OperationName": "Creates/Updates daemonsets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Daemonsets",
+  "Description": "Writes daemonsets",
+  "IsDataAction": true
+}

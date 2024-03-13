@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/assemblies/read",
+  "OperationName": "Get Integration Account Assembly",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Assembly",
+  "Description": "Reads the assembly in integration account.",
+  "IsDataAction": false
+}

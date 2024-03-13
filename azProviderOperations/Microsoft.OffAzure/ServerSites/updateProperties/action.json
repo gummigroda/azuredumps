@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/updateProperties/action",
+  "OperationName": "Updates properties for machines in a site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Updates the properties for machines in a site",
+  "IsDataAction": false
+}

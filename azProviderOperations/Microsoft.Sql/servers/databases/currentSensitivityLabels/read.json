@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/currentSensitivityLabels/read",
+  "OperationName": "List sensitivity labels of a given database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "List sensitivity labels of a given database",
+  "IsDataAction": false
+}

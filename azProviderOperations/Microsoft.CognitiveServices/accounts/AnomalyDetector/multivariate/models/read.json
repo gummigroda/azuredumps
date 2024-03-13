@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models/read",
+  "OperationName": "Multivariate Anomaly Detection - Get Multivariate Model|Multivariate Anomaly Detection - List Multivariate Models",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models",
+  "Description": "Get detailed information of multivariate model, including the training status and variables used in the model.\r\nList models of a subscription",
+  "IsDataAction": true
+}

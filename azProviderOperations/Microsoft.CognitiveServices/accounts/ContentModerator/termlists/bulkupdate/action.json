@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/bulkupdate/action",
+  "OperationName": "Term Lists - Bulk Update",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "termlists*",
+  "Description": "Term Lists - Bulk Update",
+  "IsDataAction": true
+}

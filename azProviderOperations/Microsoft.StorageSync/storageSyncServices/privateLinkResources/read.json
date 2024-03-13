@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/privateLinkResources/read",
+  "OperationName": "Read Private Link Resources",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Private Link Resources",
+  "Description": "Read any Private Link Resources",
+  "IsDataAction": false
+}

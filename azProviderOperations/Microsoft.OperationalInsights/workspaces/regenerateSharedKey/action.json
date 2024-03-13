@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/regenerateSharedKey/action",
+  "OperationName": "regenerated shared key of the workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Regenerates the specified workspace shared key",
+  "IsDataAction": false
+}

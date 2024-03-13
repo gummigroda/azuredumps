@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnectionProxies/delete",
+  "OperationName": "PrivateEndpointConnectionProxies_Delete",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnectionProxies",
+  "Description": "(INTERNAL - DO NOT USE) Deletes the specified private endpoint connection proxy associated with the OAK Instance.",
+  "IsDataAction": false
+}

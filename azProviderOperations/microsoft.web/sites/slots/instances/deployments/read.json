@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/instances/deployments/read",
+  "OperationName": "Get Web Apps Slots Instances Deployments",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Instances Deployments",
+  "Description": "Get Web Apps Slots Instances Deployments.",
+  "IsDataAction": false
+}

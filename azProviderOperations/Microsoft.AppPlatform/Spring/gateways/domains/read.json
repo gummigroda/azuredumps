@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/gateways/domains/read",
+  "OperationName": "Read Microsoft Azure Spring Apps Spring Cloud Gateway domain",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Spring Cloud Gateway domain of Microsoft Azure Spring Apps",
+  "Description": "Get the Spring Cloud Gateways domain for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

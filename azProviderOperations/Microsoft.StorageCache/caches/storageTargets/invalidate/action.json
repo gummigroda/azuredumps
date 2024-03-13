@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/storageTargets/invalidate/action",
+  "OperationName": "Discard cached files from this storage target",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Storage target in a cache",
+  "Description": "Marks all cached files from the cache's storage target as out of date. The next time a client requests these files, they will be fetched from the back-end storage system.",
+  "IsDataAction": false
+}

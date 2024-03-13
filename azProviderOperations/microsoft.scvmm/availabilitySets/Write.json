@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/availabilitySets/Write",
+  "OperationName": "Create/update availabilitySets resources",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "availabilitySets",
+  "Description": "Writes availabilitySets",
+  "IsDataAction": false
+}

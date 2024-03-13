@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/output/read",
+  "OperationName": "Get the output of a job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job",
+  "Description": "Gets the output of a job",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nssfProfiles/read",
+  "OperationName": "NssfProfiles_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nssfProfiles",
+  "Description": "Lists all the Network Slice Selection Function profiles in a mobile packet core instance.",
+  "IsDataAction": false
+}

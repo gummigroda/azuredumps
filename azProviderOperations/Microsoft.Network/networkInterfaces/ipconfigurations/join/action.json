@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/ipconfigurations/join/action",
+  "OperationName": "Join Network Interface IP Configuration.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface IP Configuration",
+  "Description": "Joins a Network Interface IP Configuration. Not alertable.",
+  "IsDataAction": false
+}

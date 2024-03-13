@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/ispCustomers/write",
+  "OperationName": "IspCustomers_Update",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "ispCustomers",
+  "Description": "This api updates an existing ispCustomer resource",
+  "IsDataAction": false
+}

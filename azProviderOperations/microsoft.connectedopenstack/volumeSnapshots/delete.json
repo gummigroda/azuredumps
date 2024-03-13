@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumeSnapshots/delete",
+  "OperationName": "VolumeSnapshots_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumeSnapshots",
+  "Description": "Implements VolumeSnapshot DELETE method.",
+  "IsDataAction": false
+}

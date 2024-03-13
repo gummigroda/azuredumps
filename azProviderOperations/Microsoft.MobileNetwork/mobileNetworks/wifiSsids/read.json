@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/wifiSsids/read",
+  "OperationName": "WifiSsids_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/wifiSsids",
+  "Description": "Lists all Wi-Fi SSIDs in the mobile network.",
+  "IsDataAction": false
+}

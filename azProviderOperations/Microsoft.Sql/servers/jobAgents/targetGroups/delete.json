@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/targetGroups/delete",
+  "OperationName": "Deletes a target group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB target group",
+  "Description": "Delete a target group",
+  "IsDataAction": false
+}

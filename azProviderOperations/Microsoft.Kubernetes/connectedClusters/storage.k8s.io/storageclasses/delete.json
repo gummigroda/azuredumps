@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/storageclasses/delete",
+  "OperationName": "Deletes/DeletesCollection storageclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "storageclasses",
+  "Description": "Deletes storageclasses",
+  "IsDataAction": true
+}

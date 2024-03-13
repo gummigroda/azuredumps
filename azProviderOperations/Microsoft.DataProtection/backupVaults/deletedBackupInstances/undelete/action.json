@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/deletedBackupInstances/undelete/action",
+  "OperationName": "Perform undelete of soft-deleted Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Deleted Backup Instance",
+  "Description": "Perform undelete of soft-deleted Backup Instance. Backup Instance moves from SoftDeleted to ProtectionStopped state.",
+  "IsDataAction": false
+}

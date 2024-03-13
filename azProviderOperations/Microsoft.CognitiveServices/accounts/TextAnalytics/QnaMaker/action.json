@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/action",
+  "OperationName": "QnA Maker",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Analytics Service",
+  "Description": "QnA Maker",
+  "IsDataAction": true
+}

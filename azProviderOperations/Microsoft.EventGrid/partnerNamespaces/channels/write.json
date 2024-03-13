@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/channels/write",
+  "OperationName": "Write Channel",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "channels",
+  "Description": "Create or update a channel",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/featureimportances/write",
+  "OperationName": "Create Feature Importance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "featureimportances*",
+  "Description": "Submit a new Feature Importance job.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/hostruntime/host/action",
+  "OperationName": "Perform Function App runtime action",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Function App",
+  "Description": "Perform Function App runtime action like sync triggers, add functions, invoke functions, delete functions etc.",
+  "IsDataAction": false
+}

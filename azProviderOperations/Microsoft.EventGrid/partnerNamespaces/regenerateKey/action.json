@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/regenerateKey/action",
+  "OperationName": "Regenerate PartnerNamespace key",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerNamespaces",
+  "Description": "Regenerate key for a partner namespace",
+  "IsDataAction": false
+}

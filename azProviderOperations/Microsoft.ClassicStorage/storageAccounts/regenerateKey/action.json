@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/regenerateKey/action",
+  "OperationName": "Regenerate Access Keys",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Regenerates the existing access keys for the storage account.",
+  "IsDataAction": false
+}

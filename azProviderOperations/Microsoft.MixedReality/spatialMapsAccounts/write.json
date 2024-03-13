@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/spatialMapsAccounts/write",
+  "OperationName": "spatialMapsAccounts_CreateAndUpdateData",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "spatialMapsAccounts",
+  "Description": "Create or update spatialMapsAccounts data.",
+  "IsDataAction": true
+}

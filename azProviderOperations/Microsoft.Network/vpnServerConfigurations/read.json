@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/read",
+  "OperationName": "Get VpnServerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VpnServerConfiguration",
+  "Description": "Get VpnServerConfiguration",
+  "IsDataAction": false
+}

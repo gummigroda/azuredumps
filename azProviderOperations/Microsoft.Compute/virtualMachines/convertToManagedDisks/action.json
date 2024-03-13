@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/convertToManagedDisks/action",
+  "OperationName": "Convert Virtual Machine disks to Managed Disks",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Converts the blob based disks of the virtual machine to managed disks",
+  "IsDataAction": false
+}

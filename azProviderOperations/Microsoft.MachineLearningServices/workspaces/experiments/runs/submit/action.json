@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/experiments/runs/submit/action",
+  "OperationName": "Creates or updates script runs in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Experiment Runs",
+  "Description": "Creates or updates script runs in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

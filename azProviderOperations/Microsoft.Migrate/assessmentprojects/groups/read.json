@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/read",
+  "OperationName": "Get Group",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Groups",
+  "Description": "Get the properties of a group",
+  "IsDataAction": false
+}

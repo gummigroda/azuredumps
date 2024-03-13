@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/operations/read",
+  "OperationName": "List Available Kubernetes Service Operations",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "connectedClusters",
+  "Description": "Lists operations available on Microsoft.Kubernetes resource provider",
+  "IsDataAction": false
+}

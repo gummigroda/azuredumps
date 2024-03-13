@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/operations/read",
+  "OperationName": "Get classic storage Operations",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Microsoft ClassicStorage",
+  "Description": "Gets classic storage operations",
+  "IsDataAction": false
+}

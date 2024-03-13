@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/repos/write",
+  "OperationName": "AzureDevOpsRepos_Update",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs Projects Repos",
+  "Description": "Updates a monitored Azure DevOps repository resource.",
+  "IsDataAction": false
+}

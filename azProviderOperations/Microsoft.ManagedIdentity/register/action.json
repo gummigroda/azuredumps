@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/register/action",
+  "OperationName": "Registers the Managed Identity Resource Provider",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the managed identity resource provider",
+  "IsDataAction": false
+}

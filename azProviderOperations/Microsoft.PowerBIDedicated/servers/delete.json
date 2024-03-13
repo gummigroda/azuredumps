@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/delete",
+  "OperationName": "Delete the Power BI Dedicated Server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Deletes the Power BI Dedicated Server",
+  "IsDataAction": false
+}

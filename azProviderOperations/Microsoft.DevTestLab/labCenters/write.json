@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labCenters/write",
+  "OperationName": "Add or modify lab centers.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Lab centers",
+  "Description": "Add or modify lab centers.",
+  "IsDataAction": false
+}

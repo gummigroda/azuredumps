@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get log definitions of Public IP Address",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public IP Address log definitions",
+  "Description": "Get the log definitions of Public IP Address",
+  "IsDataAction": false
+}

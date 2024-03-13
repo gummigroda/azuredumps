@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/accesspolicies/write",
+  "OperationName": "Create or Update Access Policy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Access Policy",
+  "Description": "Creates a new access policy for an environment, or updates an existing access policy.",
+  "IsDataAction": false
+}

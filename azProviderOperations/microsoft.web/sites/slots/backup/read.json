@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/backup/read",
+  "OperationName": "Get Web Apps Slots Backup",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Backup",
+  "Description": "Get Web Apps Slots Backup.",
+  "IsDataAction": false
+}

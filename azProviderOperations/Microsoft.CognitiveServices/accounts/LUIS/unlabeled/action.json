@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/unlabeled/action",
+  "OperationName": "bot - AppendUnlabeledData",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language Understanding Service",
+  "Description": "Appends unlabeled data to the corresponding applications",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificates/delete",
+  "OperationName": "Delete Certificate",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate",
+  "Description": "Deletes a certificate. All versions are deleted.",
+  "IsDataAction": true
+}

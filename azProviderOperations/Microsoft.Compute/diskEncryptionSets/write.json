@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskEncryptionSets/write",
+  "OperationName": "Create or update disk encryption set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskEncryptionSets",
+  "Description": "Create a new disk encryption set or update an existing one",
+  "IsDataAction": false
+}

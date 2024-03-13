@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/locations/getFeatureValue/action",
+  "OperationName": "Get exposure control feature value",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Get exposure control feature value for the specific location.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Azure Arc privateEndpointConnectionProxies",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Read any Azure Arc privateEndpointConnectionProxies",
+  "IsDataAction": false
+}

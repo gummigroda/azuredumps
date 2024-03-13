@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/OracleDatabases/delete",
+  "OperationName": "OracleDatabases_Delete",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/OracleDatabases",
+  "Description": "Deletes the OracleDatabases resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/jobs/suspend/action",
+  "OperationName": "Suspend Singularity Job",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Job",
+  "Description": "Suspends Singularity Job",
+  "IsDataAction": false
+}

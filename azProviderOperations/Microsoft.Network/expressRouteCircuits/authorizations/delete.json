@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/authorizations/delete",
+  "OperationName": "Delete ExpressRouteCircuit Authorization",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitAuthorization",
+  "Description": "Deletes an ExpressRouteCircuit Authorization",
+  "IsDataAction": false
+}

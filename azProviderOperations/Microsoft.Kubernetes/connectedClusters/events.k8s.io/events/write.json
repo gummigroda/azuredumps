@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/events.k8s.io/events/write",
+  "OperationName": "Creates/Updates events resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "events",
+  "Description": "Writes events",
+  "IsDataAction": true
+}

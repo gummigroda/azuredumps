@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPPrefixes/write",
+  "OperationName": "Creates or Updates a Public Ip Prefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Public Ip Prefix",
+  "Description": "Creates A Public Ip Prefix Or Updates An Existing Public Ip Prefix",
+  "IsDataAction": false
+}

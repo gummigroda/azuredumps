@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/delete",
+  "OperationName": "Delete cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Deletes the cache instance",
+  "IsDataAction": false
+}

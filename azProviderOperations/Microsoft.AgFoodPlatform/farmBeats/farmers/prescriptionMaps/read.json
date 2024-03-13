@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/prescriptionMaps/read",
+  "OperationName": "Get or List AgFoodPlatform prescription maps resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform prescription maps",
+  "Description": "Gets or Lists existing AgFoodPlatform prescription maps resource(s).",
+  "IsDataAction": true
+}

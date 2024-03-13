@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/getbgppeerstatus/action",
+  "OperationName": "Gets bgp peer status of a VpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Gets bgp peer status of a VpnGateway",
+  "IsDataAction": false
+}

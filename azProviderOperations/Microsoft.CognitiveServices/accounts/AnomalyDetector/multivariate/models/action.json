@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/multivariate/models/action",
+  "OperationName": "Multivariate Anomaly Detection - Train a Multivariate Anomaly Detection Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "multivariate",
+  "Description": "Create and train a multivariate anomaly detection model. The request must include a source parameter to indicate an externally accessible Azure blob storage URI.There are two types of data input: An URI pointed to an Azure blob storage folder which contains multiple CSV files, and each CSV file contains two columns, timestamp and variable. Another type of input is an URI pointed to a CSV file in Azure blob storage, which contains all the variables and a timestamp column.",
+  "IsDataAction": true
+}

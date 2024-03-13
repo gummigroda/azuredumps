@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/locations/operationresults/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

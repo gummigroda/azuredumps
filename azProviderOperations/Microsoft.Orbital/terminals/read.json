@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/terminals/read",
+  "OperationName": "Read Terminal",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Terminals",
+  "Description": "Read any Terminal",
+  "IsDataAction": false
+}

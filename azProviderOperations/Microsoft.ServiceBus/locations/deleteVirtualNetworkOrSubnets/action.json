@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Deletes the VNet rules in ServiceBus Resource Provider for the specified VNet",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "ServiceBus Resource Provider",
+  "Description": "Deletes the VNet rules in ServiceBus Resource Provider for the specified VNet",
+  "IsDataAction": false
+}

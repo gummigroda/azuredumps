@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/tags/delete",
+  "OperationName": "DeleteTag",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tags*",
+  "Description": "Delete a tag from the project.",
+  "IsDataAction": true
+}

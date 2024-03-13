@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/alerts/read",
+  "OperationName": "Gets alerts for the forest.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets alerts details for the forest like alertid, alert raised date, alert last detected, alert description, last updated, alert level, alert state, alert troubleshooting links etc. .",
+  "IsDataAction": false
+}

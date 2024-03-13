@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/images/read",
+  "OperationName": "Get Storage Account Image (Deprecated. Use 'Microsoft.ClassicStorage/storageAccounts/vmImages')",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Image (Deprecated. Use 'Microsoft.ClassicStorage/storageAccounts/vmImages')",
+  "Description": "Returns the storage account image. (Deprecated. Use 'Microsoft.ClassicStorage/storageAccounts/vmImages')",
+  "IsDataAction": false
+}

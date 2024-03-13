@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/etcd/read",
+  "OperationName": "Gets/List etcd resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/etcd",
+  "Description": "Reads etcd",
+  "IsDataAction": true
+}

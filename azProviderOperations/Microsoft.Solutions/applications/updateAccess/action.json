@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/updateAccess/action",
+  "OperationName": "Applications_UpdateAccess",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "Update access for application.",
+  "IsDataAction": false
+}

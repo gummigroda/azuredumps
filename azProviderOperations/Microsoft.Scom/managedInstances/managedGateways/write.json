@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/managedGateways/write",
+  "OperationName": "ManagedGateways_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/managedGateways",
+  "Description": "Create or update a gateway resource.",
+  "IsDataAction": false
+}

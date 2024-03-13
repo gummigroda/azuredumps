@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/clusters/applications/services/partitions/replicas/read",
+  "OperationName": "Read Replica",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Replicas",
+  "Description": "Read any Replica",
+  "IsDataAction": false
+}

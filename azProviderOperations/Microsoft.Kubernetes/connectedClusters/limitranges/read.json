@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/limitranges/read",
+  "OperationName": "Gets/List limitranges resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "limitranges",
+  "Description": "Reads limitranges",
+  "IsDataAction": true
+}

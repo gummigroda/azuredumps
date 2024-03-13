@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/eventSubscriptions/write",
+  "OperationName": "Write Topic EventSubscription",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Create or update a Topic eventSubscription",
+  "IsDataAction": false
+}

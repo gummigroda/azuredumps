@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/recoverableServers/read",
+  "OperationName": "Get Recoverable PostgreSQL Server info",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Recoverable PostgreSQL Server",
+  "Description": "Return the recoverable PostgreSQL Server info",
+  "IsDataAction": false
+}

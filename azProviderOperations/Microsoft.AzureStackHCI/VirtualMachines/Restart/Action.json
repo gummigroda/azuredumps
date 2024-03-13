@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachines/Restart/Action",
+  "OperationName": "Restarts virtual machine resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachines",
+  "Description": "Restarts virtual machine resource",
+  "IsDataAction": false
+}

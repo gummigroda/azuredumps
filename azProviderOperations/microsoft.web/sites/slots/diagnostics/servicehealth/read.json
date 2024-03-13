@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/servicehealth/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Service Health",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Service Health",
+  "Description": "Get Web Apps Slots Diagnostics Service Health.",
+  "IsDataAction": false
+}

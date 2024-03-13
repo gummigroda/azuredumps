@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/frontendEndpoints/delete",
+  "OperationName": "Deletes a frontend endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Frontend Endpoint",
+  "Description": "Deletes a frontend endpoint",
+  "IsDataAction": false
+}

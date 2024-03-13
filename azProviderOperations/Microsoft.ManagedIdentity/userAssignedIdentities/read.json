@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/read",
+  "OperationName": "Get User Assigned Identity",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "User Assigned Identities",
+  "Description": "Gets an existing user assigned identity",
+  "IsDataAction": false
+}

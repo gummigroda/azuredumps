@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/certificates/getCount/action",
+  "OperationName": "Gets the count of certificates",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Certificate Asset",
+  "Description": "Reads the count of certificates",
+  "IsDataAction": false
+}

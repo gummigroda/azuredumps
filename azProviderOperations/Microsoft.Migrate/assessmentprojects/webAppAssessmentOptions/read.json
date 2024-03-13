@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/webAppAssessmentOptions/read",
+  "OperationName": "List WebApp Assessment Options",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Assessment Options",
+  "Description": "Gets the WebApp assessment options which are available in the given location",
+  "IsDataAction": false
+}

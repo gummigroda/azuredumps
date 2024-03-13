@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/Refresh/action",
+  "OperationName": "OracleSites_TriggerRefresh",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites",
+  "Description": "Trigger Refresh Refresh action",
+  "IsDataAction": false
+}

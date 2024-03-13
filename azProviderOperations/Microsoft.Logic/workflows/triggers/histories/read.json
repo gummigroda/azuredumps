@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/histories/read",
+  "OperationName": "Get Trigger Histories",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger Histories",
+  "Description": "Reads the trigger histories.",
+  "IsDataAction": false
+}

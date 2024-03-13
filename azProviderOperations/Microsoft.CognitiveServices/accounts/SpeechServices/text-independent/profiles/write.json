@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-independent/profiles/write",
+  "OperationName": "Create Profile",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "profiles",
+  "Description": "Creates a new speaker profile with specified locale.",
+  "IsDataAction": true
+}

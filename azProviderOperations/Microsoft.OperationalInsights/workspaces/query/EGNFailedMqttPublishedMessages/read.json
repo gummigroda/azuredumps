@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/EGNFailedMqttPublishedMessages/read",
+  "OperationName": "Read EGNFailedMqttPublishedMessages data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "EGNFailedMqttPublishedMessages",
+  "Description": "Read data from the EGNFailedMqttPublishedMessages table",
+  "IsDataAction": false
+}

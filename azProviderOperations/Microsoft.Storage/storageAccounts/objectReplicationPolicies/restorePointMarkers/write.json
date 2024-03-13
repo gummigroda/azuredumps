@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/objectReplicationPolicies/restorePointMarkers/write",
+  "OperationName": "Put Object Replication Restore Point Marker",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Restore Point Marker",
+  "Description": "Create object replication restore point marker",
+  "IsDataAction": false
+}

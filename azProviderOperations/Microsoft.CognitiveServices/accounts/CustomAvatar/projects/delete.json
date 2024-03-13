@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/projects/delete",
+  "OperationName": "Delete Project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Projects",
+  "Description": "Deletes custom avatar projects.",
+  "IsDataAction": true
+}

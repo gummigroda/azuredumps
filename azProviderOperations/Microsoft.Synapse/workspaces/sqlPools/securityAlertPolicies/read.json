@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies/read",
+  "OperationName": "Read Sql Analytics pool Threat Detection Policies.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Security Alert Policies",
+  "Description": "Read any Sql Analytics pool Threat Detection Policies.",
+  "IsDataAction": false
+}

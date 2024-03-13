@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/unregister/action",
+  "OperationName": "Unregister the Microsoft.AwsConnector",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AwsConnector",
+  "IsDataAction": false
+}

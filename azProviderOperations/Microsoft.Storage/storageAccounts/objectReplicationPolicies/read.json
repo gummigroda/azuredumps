@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/objectReplicationPolicies/read",
+  "OperationName": "List Object Replication Policies",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Policy",
+  "Description": "List object replication policies",
+  "IsDataAction": false
+}

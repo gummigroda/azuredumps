@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ScVmm/virtualMachineInstances/write",
+  "OperationName": "VirtualMachineInstances_CreateOrUpdate",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "The operation to create or update a virtual machine instance. Please note some properties can be set only during virtual machine instance creation.",
+  "IsDataAction": false
+}

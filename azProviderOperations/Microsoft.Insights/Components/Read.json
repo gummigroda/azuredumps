@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Read",
+  "OperationName": "Application insights component read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Reading an application insights component configuration",
+  "IsDataAction": false
+}

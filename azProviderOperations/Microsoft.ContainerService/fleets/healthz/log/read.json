@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/healthz/log/read",
+  "OperationName": "Gets/List log resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Log",
+  "Description": "Reads log",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/write",
+  "OperationName": "Write SQL database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database",
+  "Description": "Create a SQL database.",
+  "IsDataAction": false
+}

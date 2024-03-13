@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/labels/update/action",
+  "OperationName": "Updates labels of labeling project in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling Labels",
+  "Description": "Updates labels of labeling project in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/profileresults/GetSupportedOptimizationTypes/action",
+  "OperationName": "GetSupportedOptimizationTypes",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

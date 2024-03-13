@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/write",
+  "OperationName": "VirtualMachines_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "API to update certain properties of the virtual machine resource.",
+  "IsDataAction": false
+}

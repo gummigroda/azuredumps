@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/write",
+  "OperationName": "Write Gremlin graph",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Graph",
+  "Description": "Create or update a Gremlin graph.",
+  "IsDataAction": false
+}

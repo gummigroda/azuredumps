@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/snapshots/delete",
+  "OperationName": "Snapshot - Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "snapshots*",
+  "Description": "Delete a snapshot.",
+  "IsDataAction": true
+}

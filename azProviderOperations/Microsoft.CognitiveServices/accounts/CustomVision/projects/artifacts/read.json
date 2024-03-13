@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/artifacts/read",
+  "OperationName": "GetArtifact",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "artifacts*",
+  "Description": "Get artifact content from blob storage, based on artifact relative path in the blob.",
+  "IsDataAction": true
+}

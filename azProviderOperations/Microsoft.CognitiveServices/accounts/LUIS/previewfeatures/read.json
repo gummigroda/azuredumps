@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/previewfeatures/read",
+  "OperationName": "PreviewFeaturesWeb_GetPreviewFeatures",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "previewfeatures*",
+  "Description": "Gets eligibility status of preview features for current owner.",
+  "IsDataAction": true
+}

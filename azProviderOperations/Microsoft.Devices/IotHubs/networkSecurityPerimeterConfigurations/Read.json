@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/networkSecurityPerimeterConfigurations/Read",
+  "OperationName": "List NSP configurations",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/NetworkSecurityPerimeters",
+  "Description": "List all NSP configurations associated with the IotHub",
+  "IsDataAction": false
+}

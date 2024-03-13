@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/endpoints/read",
+  "OperationName": "Gets/List endpoints resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpoints",
+  "Description": "Reads endpoints",
+  "IsDataAction": true
+}

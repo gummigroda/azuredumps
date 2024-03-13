@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/ui/read",
+  "OperationName": "Gets/List ui resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "ui",
+  "Description": "Reads ui",
+  "IsDataAction": true
+}

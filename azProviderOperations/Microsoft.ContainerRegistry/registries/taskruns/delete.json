@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/taskruns/delete",
+  "OperationName": "Delete a taskrun for a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Delete a taskrun for a container registry.",
+  "IsDataAction": false
+}

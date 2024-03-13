@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/addOns/read",
+  "OperationName": "Read addOns",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/addOns",
+  "Description": "Read addOns.",
+  "IsDataAction": false
+}

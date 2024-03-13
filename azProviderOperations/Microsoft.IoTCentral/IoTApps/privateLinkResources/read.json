@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateLinkResources/read",
+  "OperationName": "Get/List private link resources",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateLinkResources",
+  "Description": "Read private link resources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/delete",
+  "OperationName": "Resource delete operation template.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Categories",
+  "Description": "Resource delete operation template.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/syncDatabaseIds/read",
+  "OperationName": "Get the sync database ids",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Retrieve the sync database ids for a particular region and subscription",
+  "IsDataAction": false
+}

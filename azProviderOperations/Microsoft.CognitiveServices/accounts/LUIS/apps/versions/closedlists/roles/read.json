@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/roles/read",
+  "OperationName": "models - Get closed list entity role info or Get closed list entity roles info",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Closedlist entity roles",
+  "Description": "Gets the role for a closed list entity model.\r\nGets the roles for a closed list entity model.",
+  "IsDataAction": true
+}

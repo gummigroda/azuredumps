@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/delete",
+  "OperationName": "Delete Batch Account",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Deletes a Batch account",
+  "IsDataAction": false
+}

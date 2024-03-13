@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/read",
+  "OperationName": "Get SQL virtual machine group details",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL virtual machine group",
+  "Description": "Retrieve details of SQL virtual machine group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityGroups/read",
+  "OperationName": "Get Network Security Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Group",
+  "Description": "Gets a network security group definition",
+  "IsDataAction": false
+}

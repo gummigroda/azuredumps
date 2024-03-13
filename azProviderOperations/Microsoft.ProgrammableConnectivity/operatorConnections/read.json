@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorConnections/read",
+  "OperationName": "OperatorConnections_Get",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorConnections",
+  "Description": "Get an Operator Connection.",
+  "IsDataAction": false
+}

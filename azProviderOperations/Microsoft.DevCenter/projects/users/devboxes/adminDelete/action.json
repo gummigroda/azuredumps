@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/adminDelete/action",
+  "OperationName": "Projects_Users_DevBoxes_AdminDelete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to delete any Dev Box resource.",
+  "IsDataAction": true
+}

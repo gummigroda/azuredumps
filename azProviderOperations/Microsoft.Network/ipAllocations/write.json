@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipAllocations/write",
+  "OperationName": "Create or Update IpAllocation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ip Allocation",
+  "Description": "Creates A IpAllocation Or Updates An Existing IpAllocation",
+  "IsDataAction": false
+}

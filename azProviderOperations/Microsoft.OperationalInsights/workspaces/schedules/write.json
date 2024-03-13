@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/schedules/write",
+  "OperationName": "Upsert Management Configuration",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Schedule",
+  "Description": "Create or update scheduled saved search.",
+  "IsDataAction": false
+}

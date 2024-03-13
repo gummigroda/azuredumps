@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/governanceRules/write",
+  "OperationName": "Create governance rules",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Governance rules",
+  "Description": "Create or update governance rules for managing security posture",
+  "IsDataAction": false
+}

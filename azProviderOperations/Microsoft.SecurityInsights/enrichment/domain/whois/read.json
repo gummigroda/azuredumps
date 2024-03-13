@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/enrichment/domain/whois/read",
+  "OperationName": "Get whois enrichment for a domain",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Get whois enrichment for a domain",
+  "IsDataAction": false
+}

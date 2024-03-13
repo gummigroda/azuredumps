@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/connections/connectionacls/write",
+  "OperationName": "Update Api Management Accounts APIs Connections Connectionacls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Connections Connectionacls",
+  "Description": "Update Api Management Accounts APIs Connections Connectionacls.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/autoscaling/read",
+  "OperationName": "Gets/List autoscaling resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Autoscaling",
+  "Description": "Reads autoscaling",
+  "IsDataAction": true
+}

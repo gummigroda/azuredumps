@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/healthsummary/read",
+  "OperationName": "Get health summary for Hyper-V resource",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Register Subscription ",
+  "Description": "Gets the health summary for Hyper-V resource",
+  "IsDataAction": false
+}

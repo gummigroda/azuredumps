@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Check the NSP for configuration updates.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Notify NSP Updates Available resource name.",
+  "Description": "Check if the configuration of the Network Security Perimeter needs updating.",
+  "IsDataAction": false
+}

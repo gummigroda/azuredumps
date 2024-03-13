@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/connections/deployments/delete",
+  "OperationName": "Deletes the Machine Learning Services AzureOpenAI Connection deployment",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service AzureOpenAI Connection Deployment",
+  "Description": "Deletes the Machine Learning Services AzureOpenAI Connection deployment",
+  "IsDataAction": false
+}

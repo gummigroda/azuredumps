@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/routingInfo/read",
+  "OperationName": "RoutingInfo_Get",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/routingInfo",
+  "Description": "Get the routing information for the packet core.",
+  "IsDataAction": false
+}

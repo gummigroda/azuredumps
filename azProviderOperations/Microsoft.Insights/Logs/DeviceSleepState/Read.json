@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceSleepState/Read",
+  "OperationName": "Read DeviceSleepState data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceSleepState",
+  "Description": "Read data from the DeviceSleepState table",
+  "IsDataAction": false
+}

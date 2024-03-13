@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/validateCustomDomainOwnership/action",
+  "OperationName": "Validate Custom Domain Ownership",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Validate the custom domain ownership for a static site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/read",
+  "OperationName": "Read an Azure Automation Runbook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook",
+  "Description": "Gets an Azure Automation runbook",
+  "IsDataAction": false
+}

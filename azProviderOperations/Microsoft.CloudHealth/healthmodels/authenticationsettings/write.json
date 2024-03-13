@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/authenticationsettings/write",
+  "OperationName": "AuthenticationSettings_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/authenticationsettings",
+  "Description": "Create a AuthenticationSetting",
+  "IsDataAction": false
+}

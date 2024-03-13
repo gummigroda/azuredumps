@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/delete",
+  "OperationName": "PacketCoreControlPlanes_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes",
+  "Description": "Deletes the specified packet core control plane.",
+  "IsDataAction": false
+}

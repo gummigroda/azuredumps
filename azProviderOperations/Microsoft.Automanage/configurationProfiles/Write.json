@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfiles/Write",
+  "OperationName": "Create or Update Automanage ConfigurationProfiles",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage ConfigurationProfiles",
+  "Description": "Create or Update any Automanage ConfigurationProfiles",
+  "IsDataAction": false
+}

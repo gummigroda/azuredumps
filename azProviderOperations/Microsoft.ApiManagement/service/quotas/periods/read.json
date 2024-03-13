@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/quotas/periods/read",
+  "OperationName": "Get quota values",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Quotas",
+  "Description": "Get quota counter value for period",
+  "IsDataAction": false
+}

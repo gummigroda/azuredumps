@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/join/action",
+  "OperationName": "Join Integration Account",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account",
+  "Description": "Joins the Integration Account.",
+  "IsDataAction": false
+}

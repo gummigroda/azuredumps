@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/checkNameAvailability/action",
+  "OperationName": "Checks Workspace name availability.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "",
+  "Description": "Checks Workspace name availability.",
+  "IsDataAction": false
+}

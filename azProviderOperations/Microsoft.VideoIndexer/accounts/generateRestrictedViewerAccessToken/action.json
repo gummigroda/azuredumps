@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/generateRestrictedViewerAccessToken/action",
+  "OperationName": "Generate_RestrictedViewerAccessToken",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts",
+  "Description": "Generate an Azure Video Indexer restricted viewer access token.",
+  "IsDataAction": false
+}

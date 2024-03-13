@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/delete",
+  "OperationName": "Deletes the voice dataset with the given id.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Deletes the voice dataset with the given id.",
+  "IsDataAction": true
+}

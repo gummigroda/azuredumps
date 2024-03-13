@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Namespace logs",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace logs",
+  "Description": "Get list of Namespace logs Resource Descriptions",
+  "IsDataAction": false
+}

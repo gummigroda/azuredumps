@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/getBackupPolicy/action",
+  "OperationName": "Get BackupPolicy",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Get the backup policy of database account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/listKeys/action",
+  "OperationName": "List Workspace Keys",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Retrieves the list keys for the workspace. These keys are used to connect Microsoft Operational Insights agents to the workspace.",
+  "IsDataAction": false
+}

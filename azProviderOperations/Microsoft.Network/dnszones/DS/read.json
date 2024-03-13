@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/DS/read",
+  "OperationName": "Gets DNS record set of type DS",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type DS",
+  "Description": "Gets DNS record set of type DS",
+  "IsDataAction": false
+}

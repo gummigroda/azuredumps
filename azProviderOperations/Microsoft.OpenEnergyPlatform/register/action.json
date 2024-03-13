@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/register/action",
+  "OperationName": "Register the Microsoft.OpenEnergyPlatform",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.OpenEnergyPlatform",
+  "IsDataAction": false
+}

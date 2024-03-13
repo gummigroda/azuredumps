@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/read",
+  "OperationName": "Read MongoDB collection throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB collection throughput setting",
+  "Description": "Read a MongoDB collection throughput.",
+  "IsDataAction": false
+}

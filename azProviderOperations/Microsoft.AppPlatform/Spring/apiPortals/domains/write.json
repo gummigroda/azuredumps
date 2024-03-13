@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apiPortals/domains/write",
+  "OperationName": "Write Microsoft Azure Spring Apps API portal domain",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The API portal domain of Microsoft Azure Spring Apps",
+  "Description": "Create or update the API portal domain for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

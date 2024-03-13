@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/externaluserassignments/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups/externaluserassignments",
+  "Description": null,
+  "IsDataAction": false
+}

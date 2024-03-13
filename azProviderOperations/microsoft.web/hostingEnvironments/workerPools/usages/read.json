@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/workerpools/usages/read",
+  "OperationName": "Get Hosting Environments Workerpools Usages",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Workerpools Usages",
+  "Description": "Get Hosting Environments Workerpools Usages.",
+  "IsDataAction": false
+}

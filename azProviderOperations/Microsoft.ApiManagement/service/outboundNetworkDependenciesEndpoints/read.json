@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Gets the outbound network dependencies endpoints of the service",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Outbound Network Dependencies Endpoints",
+  "Description": "Gets the outbound network dependency status of resources on which the service depends on.",
+  "IsDataAction": false
+}

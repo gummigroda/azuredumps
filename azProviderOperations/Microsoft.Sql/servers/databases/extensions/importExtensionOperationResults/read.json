@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/extensions/importExtensionOperationResults/read",
+  "OperationName": "Get import operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Import extension operation",
+  "Description": "Gets in-progress import operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/unregister/action",
+  "OperationName": "Unregisters the Microsoft.Monitor Resource Provider",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Microsoft.Monitor resource provider",
+  "IsDataAction": false
+}

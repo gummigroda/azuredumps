@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/livetrace/write",
+  "OperationName": "Create live trace connections",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/LiveTrace",
+  "Description": "Create live trace connections",
+  "IsDataAction": true
+}

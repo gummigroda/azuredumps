@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/syncGroupOperationResults/read",
+  "OperationName": "Get sync group resource operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Retrieve result of the sync group resource operation",
+  "IsDataAction": false
+}

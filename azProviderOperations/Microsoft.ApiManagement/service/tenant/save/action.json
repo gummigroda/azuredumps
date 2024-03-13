@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/save/action",
+  "OperationName": "Creates commit with configuration snapshot",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Creates commit with configuration snapshot to the specified branch in the repository",
+  "IsDataAction": false
+}

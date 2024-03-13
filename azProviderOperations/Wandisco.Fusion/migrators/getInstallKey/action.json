@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/getInstallKey/action",
+  "OperationName": "GetInstallKey",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrators",
+  "Description": "Get the install key of a Migrator",
+  "IsDataAction": false
+}

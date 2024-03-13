@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/oracleSubscriptions/listCloudAccountDetails/action",
+  "OperationName": "OracleSubscriptions_ListCloudAccountDetails",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "oracleSubscriptions",
+  "Description": "List Cloud Account Details",
+  "IsDataAction": false
+}

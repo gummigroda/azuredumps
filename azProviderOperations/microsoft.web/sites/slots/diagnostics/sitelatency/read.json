@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/sitelatency/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Site Latency",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Site Latency",
+  "Description": "Get Web Apps Slots Diagnostics Site Latency.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/openapi/v2/read",
+  "OperationName": "Gets/List v2 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Openapi/V2",
+  "Description": "Reads v2",
+  "IsDataAction": true
+}

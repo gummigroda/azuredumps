@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Private Endpoint Connection Proxy",
+  "Description": "Get Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

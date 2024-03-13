@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Diagnostic Setting",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

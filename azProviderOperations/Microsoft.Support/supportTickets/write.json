@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/supportTickets/write",
+  "OperationName": "Writes Support Ticket",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "Support Ticket",
+  "Description": "Allows creating and updating a support ticket",
+  "IsDataAction": false
+}

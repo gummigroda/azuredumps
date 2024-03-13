@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/assetfilters/write",
+  "OperationName": "Create or Update Asset Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset Filter",
+  "Description": "Create or Update any Asset Filter",
+  "IsDataAction": false
+}

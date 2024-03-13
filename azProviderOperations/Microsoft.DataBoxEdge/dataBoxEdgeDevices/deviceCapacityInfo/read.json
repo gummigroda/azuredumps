@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/deviceCapacityInfo/read",
+  "OperationName": "List device capacity information",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "device capacity information",
+  "Description": "Lists or gets the device capacity information",
+  "IsDataAction": false
+}

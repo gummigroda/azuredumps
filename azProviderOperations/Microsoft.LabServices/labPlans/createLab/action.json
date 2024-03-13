@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labPlans/createLab/action",
+  "OperationName": "Create Lab",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labPlans",
+  "Description": "Create a new lab from a lab plan.",
+  "IsDataAction": true
+}

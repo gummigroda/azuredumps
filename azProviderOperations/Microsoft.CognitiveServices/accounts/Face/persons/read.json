@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/read",
+  "OperationName": "PersonDirectory Person - Get|PersonDirectory Person - List",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persons*",
+  "Description": "Retrieve a person's name and userData from person directory.\r\nList all persons�� information in person directory, including personId, name, and userData.*\r\nRetrieve a person's name and userData from person directory.*\r\nList all persons�� information in person directory, including personId, name, and userData.*",
+  "IsDataAction": true
+}

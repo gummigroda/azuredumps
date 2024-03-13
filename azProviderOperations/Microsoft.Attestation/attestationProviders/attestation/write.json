@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/attestation/write",
+  "OperationName": "Adds attestation service.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Adds attestation service.",
+  "IsDataAction": false
+}

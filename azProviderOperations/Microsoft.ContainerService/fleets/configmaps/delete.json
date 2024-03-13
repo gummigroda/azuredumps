@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/configmaps/delete",
+  "OperationName": "Deletes/DeletesCollection configmaps resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Configmaps",
+  "Description": "Deletes configmaps",
+  "IsDataAction": true
+}

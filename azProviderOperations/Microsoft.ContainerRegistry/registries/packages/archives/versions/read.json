@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/versions/read",
+  "OperationName": "Get  Archive version or List Archvie versions",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive version",
+  "Description": "Get all the properties of Archive version",
+  "IsDataAction": false
+}

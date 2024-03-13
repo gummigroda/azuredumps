@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/unregister/action",
+  "OperationName": "Unregister the Microsoft.ManagedNetworkFabric",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ManagedNetworkFabric",
+  "IsDataAction": false
+}

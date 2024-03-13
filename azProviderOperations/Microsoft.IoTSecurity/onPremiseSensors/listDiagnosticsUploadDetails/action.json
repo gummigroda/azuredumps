@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/onPremiseSensors/listDiagnosticsUploadDetails/action",
+  "OperationName": "Get details required to upload sensor diagnostics data",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "On-premise IoT Sensors",
+  "Description": "Get details required to upload sensor diagnostics data",
+  "IsDataAction": false
+}

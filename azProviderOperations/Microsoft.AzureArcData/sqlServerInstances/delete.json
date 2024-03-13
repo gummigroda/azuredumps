@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerInstances/delete",
+  "OperationName": "SqlServerInstances_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerInstances",
+  "Description": "Deletes a SQL Server Instance resource",
+  "IsDataAction": false
+}

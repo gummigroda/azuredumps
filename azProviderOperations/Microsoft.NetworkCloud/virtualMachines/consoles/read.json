@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/consoles/read",
+  "OperationName": "Consoles_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines/consoles",
+  "Description": "Get properties of the provided virtual machine console.",
+  "IsDataAction": false
+}

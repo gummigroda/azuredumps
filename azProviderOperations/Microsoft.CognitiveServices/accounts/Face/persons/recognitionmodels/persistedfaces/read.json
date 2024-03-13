@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/recognitionmodels/persistedfaces/read",
+  "OperationName": "PersonDirectory Person - Get Face|PersonDirectory Person - List Faces",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Retrieve person face information. The persisted person face is specified by its personId. recognitionModel, and persistedFaceId.\r\nRetrieve a person's persistedFaceIds representing the registered person face feature(s). *\r\nRetrieve person face information. The persisted person face is specified by its personId. recognitionModel, and persistedFaceId.*\r\nRetrieve a person's persistedFaceIds representing the registered person face feature(s). *",
+  "IsDataAction": true
+}

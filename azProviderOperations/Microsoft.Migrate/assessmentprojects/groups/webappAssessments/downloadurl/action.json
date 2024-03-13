@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/webappAssessments/downloadurl/action",
+  "OperationName": "Download WebApp assessment URL",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Resource",
+  "Description": "Downloads WebApp assessment report's URL",
+  "IsDataAction": false
+}

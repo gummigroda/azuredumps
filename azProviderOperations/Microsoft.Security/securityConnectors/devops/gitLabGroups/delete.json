@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitLabGroups/delete",
+  "OperationName": "GitLabGroups_Delete",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitLabGroups",
+  "Description": "Deletes a monitored GitLab Group.",
+  "IsDataAction": false
+}

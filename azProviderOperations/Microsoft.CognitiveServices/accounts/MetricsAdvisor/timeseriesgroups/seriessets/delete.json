@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/seriessets/delete",
+  "OperationName": "Delete a time series set from a time series group",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Series sets of a time series group",
+  "Description": "Delete a time series set from a time series group",
+  "IsDataAction": true
+}

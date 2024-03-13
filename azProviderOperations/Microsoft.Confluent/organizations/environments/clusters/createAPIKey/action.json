@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/environments/clusters/createAPIKey/action",
+  "OperationName": "Creates API key for a confluent cluster",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Creates API key for a confluent cluster",
+  "IsDataAction": false
+}

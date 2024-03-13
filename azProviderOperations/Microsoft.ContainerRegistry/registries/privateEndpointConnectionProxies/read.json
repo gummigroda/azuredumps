@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Azure Container Registry Private Endpoint Connection Proxy",
+  "Description": "Get the Private Endpoint Connection Proxy (NRP only)",
+  "IsDataAction": false
+}

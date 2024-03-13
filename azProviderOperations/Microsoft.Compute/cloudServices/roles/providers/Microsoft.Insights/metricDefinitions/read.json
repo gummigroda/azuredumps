@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roles/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Gets the CloudService Roles Metric Definitions",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "CloudService Roles Metric Definitions",
+  "Description": "Gets the CloudService Roles Metric Definitions",
+  "IsDataAction": false
+}

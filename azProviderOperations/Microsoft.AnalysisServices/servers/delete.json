@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/delete",
+  "OperationName": "Delete the Analysis Server",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Deletes the Analysis Server.",
+  "IsDataAction": false
+}

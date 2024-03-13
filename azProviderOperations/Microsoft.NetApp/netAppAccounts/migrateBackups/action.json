@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/migrateBackups/action",
+  "OperationName": "Migrate Account Backups to BackupVault.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Accounts resource type",
+  "Description": "Migrate Account Backups to BackupVault.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peerAsns/read",
+  "OperationName": "Read PeerAsn",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "peerAsns",
+  "Description": "Read any peerAsns",
+  "IsDataAction": false
+}

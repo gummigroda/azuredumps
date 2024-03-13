@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/deployments/rainbow/action",
+  "OperationName": "Deployments_Rainbow",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Creates a completion for the provided prompt, consisting of text and images",
+  "IsDataAction": true
+}

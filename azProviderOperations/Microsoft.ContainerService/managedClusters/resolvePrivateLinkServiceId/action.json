@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/resolvePrivateLinkServiceId/action",
+  "OperationName": "Resolve private link service id",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Resolve the private link service id of a managed cluster",
+  "IsDataAction": false
+}

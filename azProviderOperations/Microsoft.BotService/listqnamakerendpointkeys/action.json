@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/listqnamakerendpointkeys/action",
+  "OperationName": "List QnAMaker Keys",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "",
+  "Description": "List QnAMaker Keys",
+  "IsDataAction": false
+}

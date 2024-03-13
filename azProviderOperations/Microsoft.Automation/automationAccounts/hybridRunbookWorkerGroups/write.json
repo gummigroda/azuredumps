@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/write",
+  "OperationName": "Create a Hybrid Runbook Worker Group",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Hybrid Runbook Worker Group Resource Type",
+  "Description": "Creates a Hybrid Runbook Worker Group",
+  "IsDataAction": false
+}

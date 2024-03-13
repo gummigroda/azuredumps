@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/copyresults/read",
+  "OperationName": "Get Copy Model Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Copy Model Results",
+  "Description": "Obtain current status and the result of the custom form model copy operation.",
+  "IsDataAction": true
+}

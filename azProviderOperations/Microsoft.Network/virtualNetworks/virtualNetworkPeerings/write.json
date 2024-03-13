@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/write",
+  "OperationName": "Create or Update Virtual Network Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Peering",
+  "Description": "Creates a virtual network peering or updates an existing virtual network peering",
+  "IsDataAction": false
+}

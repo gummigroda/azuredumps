@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADevicePnPHealthIssues/Read",
+  "OperationName": "Read MADevicePnPHealthIssues data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADevicePnPHealthIssues",
+  "Description": "Read data from the MADevicePnPHealthIssues table",
+  "IsDataAction": false
+}

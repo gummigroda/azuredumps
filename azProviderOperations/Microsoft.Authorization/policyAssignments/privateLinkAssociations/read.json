@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/privateLinkAssociations/read",
+  "OperationName": "Get Private Link Association",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Link Association",
+  "Description": "Get information about private link association.",
+  "IsDataAction": false
+}

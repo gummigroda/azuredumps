@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/virtualClusters/write",
+  "OperationName": "Creates or updates the virtual clusters.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure Sql Virtual Cluster",
+  "Description": "Creates or updates the virtual clusters.",
+  "IsDataAction": false
+}

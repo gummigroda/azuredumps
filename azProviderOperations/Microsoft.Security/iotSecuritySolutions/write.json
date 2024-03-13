@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/write",
+  "OperationName": "Create IoT security solutions",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Security Solutions",
+  "Description": "Creates or updates IoT security solutions",
+  "IsDataAction": false
+}

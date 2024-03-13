@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/regeneratekeys/action",
+  "OperationName": "Regenerate Batch Account Keys",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Regenerates access keys for a Batch account",
+  "IsDataAction": false
+}

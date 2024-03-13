@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/autoscaling/horizontalpodautoscalers/delete",
+  "OperationName": "Deletes/DeletesCollection horizontalpodautoscalers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "horizontalpodautoscalers",
+  "Description": "Deletes horizontalpodautoscalers",
+  "IsDataAction": true
+}

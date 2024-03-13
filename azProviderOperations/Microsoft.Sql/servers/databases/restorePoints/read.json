@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/restorePoints/read",
+  "OperationName": "Get Database Restore points.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Restore Point",
+  "Description": "Returns restore points for the database.",
+  "IsDataAction": false
+}

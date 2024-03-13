@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/networkFunctions/delete",
+  "OperationName": "NetworkFunctions_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "networkFunctions",
+  "Description": "Delete a NetworkFunctionResource",
+  "IsDataAction": false
+}

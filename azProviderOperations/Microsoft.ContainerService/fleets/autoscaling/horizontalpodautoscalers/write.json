@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/autoscaling/horizontalpodautoscalers/write",
+  "OperationName": "Creates/Updates horizontalpodautoscalers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Horizontalpodautoscalers",
+  "Description": "Writes horizontalpodautoscalers",
+  "IsDataAction": true
+}

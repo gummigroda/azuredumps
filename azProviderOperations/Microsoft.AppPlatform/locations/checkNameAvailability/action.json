@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/locations/checkNameAvailability/action",
+  "OperationName": "Check the availability of a specified resource name in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Location",
+  "Description": "Check resource name availability",
+  "IsDataAction": false
+}

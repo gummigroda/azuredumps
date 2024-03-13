@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/read",
+  "OperationName": "Query metadata of voice general tasks for specific module kind.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Export tasks",
+  "Description": "Query metadata of voice general tasks for specific module kind.",
+  "IsDataAction": true
+}

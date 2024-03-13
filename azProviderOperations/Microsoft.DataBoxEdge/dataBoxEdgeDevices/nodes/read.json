@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/nodes/read",
+  "OperationName": "List nodes",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "nodes",
+  "Description": "Lists or gets the nodes",
+  "IsDataAction": false
+}

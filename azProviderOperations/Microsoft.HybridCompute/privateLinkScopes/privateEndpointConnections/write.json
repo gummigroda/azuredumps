@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/write",
+  "OperationName": "Write Azure Arc privateEndpointConnections",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateEndpointConnections",
+  "Description": "Writes an Azure Arc privateEndpointConnections",
+  "IsDataAction": false
+}

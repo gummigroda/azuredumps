@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/connections/delete",
+  "OperationName": "Delete a Bot Service Connection",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service Connection",
+  "Description": "Delete a Bot Service Connection",
+  "IsDataAction": false
+}

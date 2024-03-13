@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/usages/Read",
+  "OperationName": "Get Subscription Usages",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get subscription usage details for this provider.",
+  "IsDataAction": false
+}

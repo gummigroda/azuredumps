@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/operationResults/read",
+  "OperationName": "Get server operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server",
+  "Description": "Gets in-progress server operations",
+  "IsDataAction": false
+}

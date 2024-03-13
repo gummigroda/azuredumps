@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEvents/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Event",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

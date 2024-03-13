@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/register/action",
+  "OperationName": "Register Singularity",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "",
+  "Description": "Register to Singularity",
+  "IsDataAction": false
+}

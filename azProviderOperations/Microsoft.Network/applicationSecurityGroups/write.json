@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/write",
+  "OperationName": "Creates An Application Security Group Or Updates An Existing Application Security Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Creates an Application Security Group, or updates an existing Application Security Group.",
+  "IsDataAction": false
+}

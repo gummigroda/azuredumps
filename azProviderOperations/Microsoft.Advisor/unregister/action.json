@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/unregister/action",
+  "OperationName": "Unregister with the Provider",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Microsoft Advisor",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/connections/listsecrets/action",
+  "OperationName": "Gets the Machine Learning Services connection with secret values",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Connections",
+  "Description": "Gets the Machine Learning Services connection with secret values",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Account/Delete",
+  "OperationName": "Deletes the Account",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Account",
+  "Description": "Delete Account",
+  "IsDataAction": false
+}

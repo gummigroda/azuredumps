@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/scheduling.k8s.io/priorityclasses/write",
+  "OperationName": "Creates/Updates priorityclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Priorityclasses",
+  "Description": "Writes priorityclasses",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/listConnectionInfo/action",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/listConnectionInfo/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Notebook Workspace",
+  "Description": "List the connection info for a notebook workspace",
+  "IsDataAction": false
+}

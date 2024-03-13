@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/validateBackup/action",
+  "OperationName": "Validate MySQL Server BackupAndExport",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Validate that the server is ready for backup.",
+  "IsDataAction": false
+}

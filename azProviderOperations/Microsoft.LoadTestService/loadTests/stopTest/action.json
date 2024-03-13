@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/loadtests/stopTest/action",
+  "OperationName": "Stop Load Tests",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "loadtests",
+  "Description": "Stop Load Tests",
+  "IsDataAction": true
+}

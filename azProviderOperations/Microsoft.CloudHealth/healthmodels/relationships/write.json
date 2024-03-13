@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/relationships/write",
+  "OperationName": "Relationships_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/relationships",
+  "Description": "Create a Relationship",
+  "IsDataAction": false
+}

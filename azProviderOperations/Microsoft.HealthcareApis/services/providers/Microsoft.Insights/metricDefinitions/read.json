@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Azure API for FHIR metrics definitions",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure API for FHIR metrics settings",
+  "Description": "Gets the metrics settings for Azure API for FHIR",
+  "IsDataAction": false
+}

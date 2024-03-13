@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityStandards/write",
+  "OperationName": "Create security standards",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security standards",
+  "Description": "Create or update the security standard",
+  "IsDataAction": false
+}

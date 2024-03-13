@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupPolicies/read",
+  "OperationName": "Get Backup Policies",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Policies",
+  "Description": "Returns all Backup Policies",
+  "IsDataAction": false
+}

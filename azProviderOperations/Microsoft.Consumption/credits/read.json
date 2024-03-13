@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/credits/read",
+  "OperationName": "List credits",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Credits",
+  "Description": "List credits",
+  "IsDataAction": false
+}

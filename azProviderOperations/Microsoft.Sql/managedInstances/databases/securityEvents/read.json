@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/securityEvents/read",
+  "OperationName": "Get managed database security events",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Database security events",
+  "Description": "Retrieves the managed database security events",
+  "IsDataAction": false
+}

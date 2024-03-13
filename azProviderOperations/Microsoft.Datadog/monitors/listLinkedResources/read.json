@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/listLinkedResources/read",
+  "OperationName": "List linked resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "ListLinkedResources",
+  "Description": "List all the linked resources for the given monitor resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/operations/read",
+  "OperationName": "Lists operations",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Operation",
+  "Description": "Lists all operations available on Microsoft.PowerPlatform resource provider",
+  "IsDataAction": false
+}

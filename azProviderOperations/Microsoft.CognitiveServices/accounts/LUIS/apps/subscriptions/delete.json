@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/subscriptions/delete",
+  "OperationName": "app subscriptions - RemoveSubscriptionFromAppBySubId",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "subscriptions*",
+  "Description": "Removes the subscription with the specified id from the assigned subscriptions for the application",
+  "IsDataAction": true
+}

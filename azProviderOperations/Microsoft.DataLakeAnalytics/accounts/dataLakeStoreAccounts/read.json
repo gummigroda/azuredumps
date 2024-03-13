@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts/read",
+  "OperationName": "Get Linked DataLakeStore Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "DataLakeStore Account",
+  "Description": "Get information about a linked DataLakeStore account of a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

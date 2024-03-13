@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/privateEndpointConnections/write",
+  "OperationName": "Update a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Update a Private Endpoint Connection",
+  "IsDataAction": false
+}

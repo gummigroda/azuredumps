@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/speakerauthorizations/read",
+  "OperationName": "Get the list of speaker authorizations for specified project.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Speaker Authorizations",
+  "Description": "Get the list of speaker authorizations for specified project.",
+  "IsDataAction": true
+}

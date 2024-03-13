@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/disableNniLayer3/action",
+  "OperationName": "NetworkFabrics_disableNniLayer3",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Disables layer 3 configuration for the given Network Fabric.",
+  "IsDataAction": false
+}

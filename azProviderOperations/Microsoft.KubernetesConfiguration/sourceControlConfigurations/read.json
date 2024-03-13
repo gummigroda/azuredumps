@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/sourceControlConfigurations",
+  "Description": "Gets source control configuration.",
+  "IsDataAction": false
+}

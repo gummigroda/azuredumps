@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/connectors/read",
+  "OperationName": "Connector_Get",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/connectors",
+  "Description": "Returns Connector resource for a given name.",
+  "IsDataAction": false
+}

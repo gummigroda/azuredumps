@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/policy/v1beta1/read",
+  "OperationName": "Gets/List policy/v1beta1 resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "policy/v1beta1",
+  "Description": "Reads policy/v1beta1",
+  "IsDataAction": true
+}

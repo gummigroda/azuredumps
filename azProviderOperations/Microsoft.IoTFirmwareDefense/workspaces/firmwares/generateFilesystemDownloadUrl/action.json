@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateFilesystemDownloadUrl/action",
+  "OperationName": "Firmwares_GenerateFilesystemDownloadUrl",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to a url for tar file download.",
+  "IsDataAction": false
+}

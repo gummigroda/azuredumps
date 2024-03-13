@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/write",
+  "OperationName": "Instances_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances",
+  "Description": "Update a Instance",
+  "IsDataAction": false
+}

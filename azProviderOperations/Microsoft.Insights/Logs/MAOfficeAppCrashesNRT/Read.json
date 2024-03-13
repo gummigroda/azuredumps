@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeAppCrashesNRT/Read",
+  "OperationName": "Read MAOfficeAppCrashesNRT data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeAppCrashesNRT",
+  "Description": "Read data from the MAOfficeAppCrashesNRT table",
+  "IsDataAction": false
+}

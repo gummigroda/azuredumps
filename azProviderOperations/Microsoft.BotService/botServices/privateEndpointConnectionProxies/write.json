@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnectionProxies/write",
+  "OperationName": "Write a connection proxy resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Connection Proxy Resource",
+  "Description": "Write a connection proxy resource",
+  "IsDataAction": false
+}

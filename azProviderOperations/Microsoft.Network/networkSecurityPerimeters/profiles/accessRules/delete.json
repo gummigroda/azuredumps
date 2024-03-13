@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/delete",
+  "OperationName": "Deletes a Network Security Perimeter Access Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Access Rule",
+  "Description": "Deletes a Network Security Perimeter Access Rule",
+  "IsDataAction": false
+}

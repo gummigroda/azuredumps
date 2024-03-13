@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/supportedServerVersions/read",
+  "OperationName": "List the supported server versions of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "List the supported server versions for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

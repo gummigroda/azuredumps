@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/privateEndpointConnections/operationResults/Read",
+  "OperationName": "Get Private Endpoint Connection Async Operation Result",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices/PrivateEndpointConnections",
+  "Description": "Get the result of an async operation on a private endpoint connection",
+  "IsDataAction": false
+}

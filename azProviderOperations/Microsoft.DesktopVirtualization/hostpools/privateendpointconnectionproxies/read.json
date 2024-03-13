@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/privateendpointconnectionproxies/read",
+  "OperationName": "Read hostpools/privateendpointconnectionproxies",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/privateendpointconnectionproxies",
+  "Description": "Read hostpools/privateendpointconnectionproxies",
+  "IsDataAction": false
+}

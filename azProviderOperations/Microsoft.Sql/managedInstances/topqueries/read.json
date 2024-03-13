@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/topqueries/read",
+  "OperationName": "Get top resource consuming queries of a managed instance",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Top queries of managed instance",
+  "Description": "Get top resource consuming queries of a managed instance",
+  "IsDataAction": false
+}

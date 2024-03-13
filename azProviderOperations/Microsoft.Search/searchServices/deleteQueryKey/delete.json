@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/deleteQueryKey/delete",
+  "OperationName": "Delete Query Key",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "API Keys",
+  "Description": "Deletes the query key.",
+  "IsDataAction": false
+}

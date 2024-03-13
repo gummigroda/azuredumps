@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/validateMigration/action",
+  "OperationName": "Validate Migration of a Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Validates migration of a deployment slot.",
+  "IsDataAction": false
+}

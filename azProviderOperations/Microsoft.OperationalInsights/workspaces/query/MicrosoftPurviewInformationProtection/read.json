@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MicrosoftPurviewInformationProtection/read",
+  "OperationName": "Read MicrosoftPurviewInformationProtection data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MicrosoftPurviewInformationProtection",
+  "Description": "Read data from the MicrosoftPurviewInformationProtection table",
+  "IsDataAction": false
+}

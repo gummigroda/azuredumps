@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/keys/read",
+  "OperationName": "List/Get Azure SQL Server Key(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Keys",
+  "Description": "Return the list of server keys or gets the properties for the specified server key.",
+  "IsDataAction": false
+}

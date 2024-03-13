@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/dnsAliases/write",
+  "OperationName": "Create or Update a Public Ip Address Dns Alias",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Alias of a Public Ip Address",
+  "Description": "Creates a Public Ip Address Dns Alias resource",
+  "IsDataAction": false
+}

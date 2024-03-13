@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/listPrivateIpAddresses/action",
+  "OperationName": "CloudVmClusters_ListPrivateIpAddresses",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters",
+  "Description": "List Private IP Addresses by the provided filter",
+  "IsDataAction": false
+}

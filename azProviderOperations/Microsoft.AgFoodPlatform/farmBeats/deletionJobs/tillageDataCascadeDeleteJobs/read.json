@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/tillageDataCascadeDeleteJobs/read",
+  "OperationName": "Get or List AgFoodPlatform tillageDataCascadeDeleteJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform tillageDataCascadeDeleteJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform tillageDataCascadeDeleteJobs resource(s).",
+  "IsDataAction": true
+}

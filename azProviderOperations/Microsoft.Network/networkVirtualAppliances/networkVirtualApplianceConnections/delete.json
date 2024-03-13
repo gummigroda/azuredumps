@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/delete",
+  "OperationName": "Delete a Network Virtual Appliance Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Virtual Appliance Connection",
+  "Description": "Delete a Network Virtual Appliance Connection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceGraph/queries/delete",
+  "OperationName": "Delete resource graph queries",
+  "ProviderNamespace": "Microsoft Resource Graph",
+  "ResourceName": "Resource Graph Queries",
+  "Description": "Deletes the specified graph query",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets the logs for Application Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ApplicationGateway Log Definitions",
+  "Description": "Gets the events for Application Gateway",
+  "IsDataAction": false
+}

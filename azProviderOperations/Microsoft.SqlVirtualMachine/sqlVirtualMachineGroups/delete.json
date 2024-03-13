@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/delete",
+  "OperationName": "Delete existing SQL virtual machine group",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL virtual machine group",
+  "Description": "Delete existing SQL virtual machine group",
+  "IsDataAction": false
+}

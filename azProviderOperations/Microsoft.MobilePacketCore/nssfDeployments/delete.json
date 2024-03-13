@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nssfDeployments/delete",
+  "OperationName": "NssfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nssfDeployments",
+  "Description": "Delete a NssfDeploymentResource",
+  "IsDataAction": false
+}

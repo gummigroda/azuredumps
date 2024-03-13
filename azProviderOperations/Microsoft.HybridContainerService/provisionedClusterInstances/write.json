@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusterInstances/write",
+  "OperationName": "provisionedClusterInstances_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusterInstances",
+  "Description": "Creates the Hybrid AKS provisioned cluster instance",
+  "IsDataAction": false
+}

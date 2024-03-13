@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/analysisReports/read",
+  "OperationName": "Read analysis report of an API Center instance",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Analysis Report",
+  "Description": "Get a certain analysis report of an API Center instance",
+  "IsDataAction": false
+}

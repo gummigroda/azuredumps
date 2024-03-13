@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/jitRequests/read",
+  "OperationName": "jitRequests_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "jitRequests",
+  "Description": "Lists all JIT requests within the resource group.",
+  "IsDataAction": false
+}

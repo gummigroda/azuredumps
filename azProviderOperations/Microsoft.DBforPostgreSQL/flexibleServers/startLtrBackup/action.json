@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/startLtrBackup/action",
+  "OperationName": "Start long term backup for a server",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Start long term backup for a server",
+  "IsDataAction": false
+}

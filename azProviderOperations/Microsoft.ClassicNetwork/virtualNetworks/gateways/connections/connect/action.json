@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/connections/connect/action",
+  "OperationName": "Connect Gateway Connection",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Gateway Connection",
+  "Description": "Connects a site to site gateway connection.",
+  "IsDataAction": false
+}

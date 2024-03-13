@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/hostedpools/write",
+  "OperationName": "Create or update 1ES Hosted Pool",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "hostedpools",
+  "Description": "Creates or updates 1ES Hosted pools",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/delete",
+  "OperationName": "Delete Monitoring Accounts",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Delete any Monitoring Account",
+  "IsDataAction": false
+}

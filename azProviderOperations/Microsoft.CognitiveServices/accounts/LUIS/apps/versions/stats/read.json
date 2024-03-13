@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/stats/read",
+  "OperationName": "versions - Get application version stats",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "stats*",
+  "Description": "Get application version training stats",
+  "IsDataAction": true
+}

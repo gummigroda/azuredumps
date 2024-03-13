@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/metricsConfigurations/read",
+  "OperationName": "MetricsConfigurations_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/metricsConfigurations",
+  "Description": "Get metrics configuration of the provided cluster.",
+  "IsDataAction": false
+}

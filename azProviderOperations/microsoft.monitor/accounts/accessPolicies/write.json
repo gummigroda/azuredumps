@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/accessPolicies/write",
+  "OperationName": "Create or Update Monitoring Account Access Policies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Monitoring Account Access Policy",
+  "IsDataAction": false
+}

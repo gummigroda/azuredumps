@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/osOptions/read",
+  "OperationName": "Get OS Options",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "OSOptions",
+  "Description": "Gets OS options",
+  "IsDataAction": false
+}

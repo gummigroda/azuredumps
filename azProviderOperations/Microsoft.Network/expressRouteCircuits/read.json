@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/read",
+  "OperationName": "Gets ExpressRouteCircuit",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuit",
+  "Description": "Get an ExpressRouteCircuit",
+  "IsDataAction": false
+}

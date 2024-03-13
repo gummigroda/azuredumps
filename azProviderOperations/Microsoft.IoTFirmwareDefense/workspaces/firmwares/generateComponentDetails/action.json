@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateComponentDetails/action",
+  "OperationName": "Firmware_GenerateComponentDetails",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to get component details for a firmware.",
+  "IsDataAction": false
+}

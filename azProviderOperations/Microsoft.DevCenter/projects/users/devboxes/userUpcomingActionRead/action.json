@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userUpcomingActionRead/action",
+  "OperationName": "Projects_Users_DevBoxes_UserUpcomingActionRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to read upcoming actions.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/delete",
+  "OperationName": "Delete policy assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy assignment",
+  "Description": "Delete a policy assignment at the specified scope.",
+  "IsDataAction": false
+}

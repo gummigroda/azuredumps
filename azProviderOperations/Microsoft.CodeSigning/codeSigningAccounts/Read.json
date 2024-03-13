@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/Read",
+  "OperationName": "Reads Code Signing Accounts",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CodeSigningAccounts",
+  "Description": "Reads code signing accounts resources.",
+  "IsDataAction": false
+}

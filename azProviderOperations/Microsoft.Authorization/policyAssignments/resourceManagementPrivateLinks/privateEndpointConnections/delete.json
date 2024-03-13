@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/privateEndpointConnections/delete",
+  "OperationName": "Delete a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Deletes a private endpoint connection.",
+  "IsDataAction": false
+}

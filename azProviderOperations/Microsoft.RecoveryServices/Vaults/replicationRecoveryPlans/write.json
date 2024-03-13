@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/write",
+  "OperationName": "Create or Update Recovery Plans",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "Create or Update any Recovery Plans",
+  "IsDataAction": false
+}

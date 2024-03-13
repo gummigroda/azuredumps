@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/reimage/action",
+  "OperationName": "BareMetalMachines_Reimage",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Reimage the provided bare metal machine.",
+  "IsDataAction": false
+}

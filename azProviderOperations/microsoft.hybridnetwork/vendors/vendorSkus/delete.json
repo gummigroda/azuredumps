@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/vendors/vendorSkus/delete",
+  "OperationName": "VendorSkus_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "vendors/vendorSkus",
+  "Description": "Deletes the specified sku.",
+  "IsDataAction": false
+}

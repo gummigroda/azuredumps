@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/metrics/series/query/action",
+  "OperationName": "List series (dimension combinations) from metric",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Series of metrics",
+  "Description": "List series (dimension combinations) from metric",
+  "IsDataAction": true
+}

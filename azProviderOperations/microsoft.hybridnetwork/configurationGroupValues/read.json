@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/configurationGroupValues/read",
+  "OperationName": "configurationGroupValues_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "configurationGroupValues",
+  "Description": "Lists all the hybrid network configurationGroupValues in a resource group.",
+  "IsDataAction": false
+}

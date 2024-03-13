@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/register/action",
+  "OperationName": "register",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "",
+  "Description": "Register subscription",
+  "IsDataAction": false
+}

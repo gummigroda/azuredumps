@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/write",
+  "OperationName": "Create/Update monitor resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Monitors",
+  "Description": "Write monitors",
+  "IsDataAction": false
+}

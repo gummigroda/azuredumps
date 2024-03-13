@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/listSecrets/action",
+  "OperationName": "Get tenant access information",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant metadata",
+  "Description": "Get tenant access information details",
+  "IsDataAction": false
+}

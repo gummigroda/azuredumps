@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/import/action",
+  "OperationName": "Import",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Import FHIR resources in batch.",
+  "IsDataAction": true
+}

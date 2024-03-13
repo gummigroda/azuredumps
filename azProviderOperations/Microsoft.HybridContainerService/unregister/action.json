@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/unregister/action",
+  "OperationName": "Unregister the Microsoft.HybridContainerService",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.HybridContainerService",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

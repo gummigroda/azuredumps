@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/dataWarehouseQueries/Steps/read",
+  "OperationName": "Read SQL Analytics pool Query Steps.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Query Steps",
+  "Description": "Read any SQL Analytics pool Query Steps.",
+  "IsDataAction": false
+}

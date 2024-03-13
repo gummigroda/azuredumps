@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/delete",
+  "OperationName": "Delete existing availability group listener",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL availability group listener",
+  "Description": "Delete existing availability group listener",
+  "IsDataAction": false
+}

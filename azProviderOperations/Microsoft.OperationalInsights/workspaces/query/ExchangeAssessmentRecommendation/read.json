@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ExchangeAssessmentRecommendation/read",
+  "OperationName": "Read ExchangeAssessmentRecommendation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ExchangeAssessmentRecommendation",
+  "Description": "Read data from the ExchangeAssessmentRecommendation table",
+  "IsDataAction": false
+}

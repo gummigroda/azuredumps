@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/metricDefinitions/read",
+  "OperationName": "Metric Definitions read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Metric Definitions",
+  "Description": "Reading Tenant-Level Metric Definitions",
+  "IsDataAction": false
+}

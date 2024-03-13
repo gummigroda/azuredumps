@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/markDevicesShipped/action",
+  "OperationName": null,
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": null,
+  "IsDataAction": false
+}

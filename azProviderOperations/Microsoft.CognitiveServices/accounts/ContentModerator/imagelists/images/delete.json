@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/images/delete",
+  "OperationName": "Image - Delete|Image - Delete all Images*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Delete an Image from your image list. The image list can be used to do fuzzy matching against other images when using Image/Match API.\r\nDelete all images from your list. The image list can be used to do fuzzy matching against other images when using Image/Match API.*",
+  "IsDataAction": true
+}

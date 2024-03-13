@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitLabConnectors/groups/projects/read",
+  "OperationName": "GitLabProjects_Get",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitLabConnectors/groups/projects",
+  "Description": "read projects",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/accounts/write",
+  "OperationName": "Create or Update CloudTest Account",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "accounts",
+  "Description": "Creates or updates CloudTest Account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/read",
+  "OperationName": "Get TokenTrovider list or Get AuthorizationProvider details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "AuthorizationProvider",
+  "Description": "Lists AuthorizationProvider within a service instance or Gets a AuthorizationProvider",
+  "IsDataAction": false
+}

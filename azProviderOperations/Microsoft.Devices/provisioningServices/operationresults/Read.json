@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/operationresults/Read",
+  "OperationName": "Get DPS Operation Result",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get DPS Operation Result",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/knowledgebases/create/write",
+  "OperationName": "Knowledgebase - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Asynchronous operation to create a new knowledgebase.",
+  "IsDataAction": true
+}

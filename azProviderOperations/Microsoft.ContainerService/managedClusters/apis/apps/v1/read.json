@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/apps/v1/read",
+  "OperationName": "Gets/List apps/v1 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Apps/V1",
+  "Description": "Reads apps/v1",
+  "IsDataAction": true
+}

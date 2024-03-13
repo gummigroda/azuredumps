@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/locations/usages/read",
+  "OperationName": "Get DataLakeStore Subscription Quota Usages",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Subscription Quota Usages",
+  "Description": "Get quota usages information of a subscription regarding using DataLakeStore.",
+  "IsDataAction": false
+}

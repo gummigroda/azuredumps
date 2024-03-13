@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/assignRole/action",
+  "OperationName": "NetworkCloudControllers_assignRole",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Assigns role to the network fabric controller managed resource group resources.",
+  "IsDataAction": false
+}

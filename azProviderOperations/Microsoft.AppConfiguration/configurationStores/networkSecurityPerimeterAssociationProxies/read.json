@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Get Network Security Perimeter Association Proxy or List Network Security Perimeter Association Proxies",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Network Security Perimeter Association Proxy",
+  "Description": "Get the properties of the specific network security perimeter association proxy or lists all the network security perimeter association proxies under the specified configuration store.",
+  "IsDataAction": false
+}

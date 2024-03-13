@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/keypairs/read",
+  "OperationName": "Keypairs_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "keypairs",
+  "Description": "Implements Keypairs list by subscription GET method.",
+  "IsDataAction": false
+}

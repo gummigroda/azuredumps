@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/subscriptions/rules/read",
+  "OperationName": "Get Rule",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Rule",
+  "Description": "Get list of Rule Resource Descriptions",
+  "IsDataAction": false
+}

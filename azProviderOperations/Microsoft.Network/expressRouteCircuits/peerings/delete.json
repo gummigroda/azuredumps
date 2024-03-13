@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/delete",
+  "OperationName": "Delete ExpressRouteCircuit Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitPeering",
+  "Description": "Deletes an ExpressRouteCircuit Peering",
+  "IsDataAction": false
+}

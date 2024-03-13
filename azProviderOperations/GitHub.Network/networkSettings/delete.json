@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/networkSettings/delete",
+  "OperationName": "networkSettings_Delete",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "networkSettings",
+  "Description": "Deletes an existing GitHub.Network networkSettings resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/register/action",
+  "OperationName": "Register Resource Provider",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "",
+  "Description": "Registers subscription for given Resource Provider",
+  "IsDataAction": false
+}

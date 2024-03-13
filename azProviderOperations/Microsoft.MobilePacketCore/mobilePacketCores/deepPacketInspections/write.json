@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/deepPacketInspections/write",
+  "OperationName": "DeepPacketInspections_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/deepPacketInspections",
+  "Description": "Creates or updates a Mobile Packet Core Deep Packet Inspection resource",
+  "IsDataAction": false
+}

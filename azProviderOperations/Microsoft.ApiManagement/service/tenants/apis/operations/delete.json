@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/operations/delete",
+  "OperationName": "Remove API operation",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API operations",
+  "Description": "Deletes the specified operation in the API.",
+  "IsDataAction": false
+}

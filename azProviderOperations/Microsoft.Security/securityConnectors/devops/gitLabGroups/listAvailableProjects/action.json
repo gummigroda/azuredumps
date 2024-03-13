@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/gitLabGroups/listAvailableProjects/action",
+  "OperationName": "GitLabProjects_ListAvailable",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps GitLabGroups",
+  "Description": "Gets a list of all GitLab projects that are directly owned by given group and accessible by the user token consumed by the connector.",
+  "IsDataAction": false
+}

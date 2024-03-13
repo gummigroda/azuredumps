@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateEndpoints/notify/action",
+  "OperationName": "Notify Private Endpoint movement",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Notify Private Endpoint movement",
+  "Description": "Notify Private Endpoint movement",
+  "IsDataAction": false
+}

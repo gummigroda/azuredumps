@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/approveConnection/action",
+  "OperationName": "Pipelines_ApproveConnection",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Approves the specified connection in a pipeline.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/Subscription/caches/read",
+  "OperationName": "List caches for a subscription",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Caches in subscription",
+  "Description": "Lists existing caches in the subscription",
+  "IsDataAction": false
+}

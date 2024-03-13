@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UAComputerRank/read",
+  "OperationName": "Read UAComputerRank data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UAComputerRank",
+  "Description": "Read data from the UAComputerRank table",
+  "IsDataAction": false
+}

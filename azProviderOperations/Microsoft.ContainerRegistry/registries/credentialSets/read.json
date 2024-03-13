@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/credentialSets/read",
+  "OperationName": "Get credential set or List credential sets",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CredentialSets",
+  "Description": "Gets the properties of the specified credential set or lists all the credential sets for the specified container registry",
+  "IsDataAction": false
+}

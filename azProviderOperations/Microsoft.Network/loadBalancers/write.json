@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/write",
+  "OperationName": "Create or Update Load Balancer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Creates a load balancer or updates an existing load balancer",
+  "IsDataAction": false
+}

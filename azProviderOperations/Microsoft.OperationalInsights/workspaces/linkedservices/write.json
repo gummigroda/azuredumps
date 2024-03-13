@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/linkedservices/write",
+  "OperationName": "Upsert Linked Service",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Linked Services",
+  "Description": "Create or update linked services under given workspace.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/models/action",
+  "OperationName": "Deploy Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Deploys models.",
+  "IsDataAction": true
+}

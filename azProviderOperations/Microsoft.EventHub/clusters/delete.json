@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/delete",
+  "OperationName": "Delete Cluster Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Cluster",
+  "Description": "Deletes an existing Cluster resource.",
+  "IsDataAction": false
+}

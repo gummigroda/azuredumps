@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/offerTypes/publishers/offers/plans/configs/importImage/action",
+  "OperationName": "Import image.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Imports an image to the end user's ACR.",
+  "IsDataAction": false
+}

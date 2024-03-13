@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneSsml/ConfigureSsmlFileReferenceFiles/action",
+  "OperationName": "Add/update/delete item(s) of SSML reference file plugin.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ssml operation",
+  "Description": "Add/update/delete item(s) of SSML reference file plugin.",
+  "IsDataAction": true
+}

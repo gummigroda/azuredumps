@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/skillsets/write",
+  "OperationName": "Create or Update Skillset",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Skillsets",
+  "Description": "Create a skillset or modify its properties.",
+  "IsDataAction": false
+}

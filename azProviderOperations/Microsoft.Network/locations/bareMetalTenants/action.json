@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/bareMetalTenants/action",
+  "OperationName": "Allocate or validate a Bare Metal Tenant",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Allocates or validates a Bare Metal Tenant",
+  "IsDataAction": false
+}

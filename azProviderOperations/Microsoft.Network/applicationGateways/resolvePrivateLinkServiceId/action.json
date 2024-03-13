@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/resolvePrivateLinkServiceId/action",
+  "OperationName": "Resolve privateLinkServiceId for application gateway private link resource",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Resolves privateLinkServiceId for application gateway private link resource",
+  "IsDataAction": false
+}

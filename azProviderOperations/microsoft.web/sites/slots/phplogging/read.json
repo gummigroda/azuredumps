@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/phplogging/read",
+  "OperationName": "Get Web Apps Slots Phplogging",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Phplogging",
+  "Description": "Get Web Apps Slots Phplogging.",
+  "IsDataAction": false
+}

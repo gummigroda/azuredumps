@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/read",
+  "OperationName": "Read scalingplans",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans",
+  "Description": "Read scalingplans",
+  "IsDataAction": false
+}

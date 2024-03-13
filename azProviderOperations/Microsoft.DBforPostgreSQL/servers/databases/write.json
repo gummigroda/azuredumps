@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/databases/write",
+  "OperationName": "Create/Update PostgreSQL Database",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Databases",
+  "Description": "Creates a PostgreSQL Database with the specified parameters or update the properties for the specified Database.",
+  "IsDataAction": false
+}

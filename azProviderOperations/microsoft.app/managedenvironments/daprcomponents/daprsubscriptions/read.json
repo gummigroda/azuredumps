@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/daprsubscriptions/read",
+  "OperationName": "Read Managed Environment Dapr PubSub Subscription",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr PubSub Subscription",
+  "Description": "Read Managed Environment Dapr PubSub Subscription",
+  "IsDataAction": false
+}

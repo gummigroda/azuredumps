@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/customdomains/EnableCustomHttps/action",
+  "OperationName": "EnableCustomHttps",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "CustomDomain",
+  "Description": null,
+  "IsDataAction": false
+}

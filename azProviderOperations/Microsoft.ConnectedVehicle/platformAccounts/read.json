@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/read",
+  "OperationName": "Gets/lists Connected Vehicle Platform account",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "platformAccount",
+  "Description": "Gets/lists Connected Vehicle Platform account",
+  "IsDataAction": false
+}

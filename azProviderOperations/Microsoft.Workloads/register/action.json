@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/register/action",
+  "OperationName": "Register the Microsoft.Workloads",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Workloads",
+  "IsDataAction": false
+}

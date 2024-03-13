@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectUnderstandingAccounts/listkeys/action",
+  "OperationName": "List the keys of an Object Understanding account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectUnderstandingAccounts",
+  "Description": "List the keys an Object Understanding account",
+  "IsDataAction": false
+}

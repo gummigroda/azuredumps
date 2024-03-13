@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingLocators/listContentKeys/action",
+  "OperationName": "List Content Keys",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Locator",
+  "Description": "List Content Keys",
+  "IsDataAction": false
+}

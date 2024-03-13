@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/contentKeyPolicies/write",
+  "OperationName": "Create or Update Content Key Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Content Key Policy",
+  "Description": "Create or Update any Content Key Policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnectionProxies/delete",
+  "OperationName": "Microsoft Azure Backup encountered an internal error.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Wait for a few minutes and then try the operation again. If the issue persists, please contact Microsoft support.",
+  "IsDataAction": false
+}

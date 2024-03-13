@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/locations/usages/read",
+  "OperationName": "List quota usages",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Locations/Usages",
+  "Description": "Get the quota usages for Microsoft.SignalRService resource provider",
+  "IsDataAction": false
+}

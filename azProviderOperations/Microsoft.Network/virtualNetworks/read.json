@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/read",
+  "OperationName": "Get Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Get the virtual network definition",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/read",
+  "OperationName": "Gets the move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Gets the move collection",
+  "IsDataAction": false
+}

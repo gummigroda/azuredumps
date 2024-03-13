@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/Policies/write",
+  "OperationName": "Create tenant policy",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "Policies",
+  "Description": "Create tenant policy",
+  "IsDataAction": false
+}

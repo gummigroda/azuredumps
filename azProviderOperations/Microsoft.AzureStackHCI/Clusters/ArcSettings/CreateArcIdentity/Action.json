@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/CreateArcIdentity/Action",
+  "OperationName": "Create Arc settings identity",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings",
+  "Description": "Create Arc settings identity",
+  "IsDataAction": false
+}

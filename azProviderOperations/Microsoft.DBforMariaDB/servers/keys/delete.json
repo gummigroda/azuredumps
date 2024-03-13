@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/keys/delete",
+  "OperationName": "Delete Azure Database for MariaDB Server Key",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB Server Keys",
+  "Description": "Deletes an existing server key.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/stop/action",
+  "OperationName": "Stop an Azure Cache for Redis, potentially with data loss.",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Stop an Azure Cache for Redis, potentially with data loss.",
+  "IsDataAction": false
+}

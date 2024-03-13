@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

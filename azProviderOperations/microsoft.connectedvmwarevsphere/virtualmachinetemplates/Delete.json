@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates/Delete",
+  "OperationName": "Deletes virtualmachinetemplates resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Deletes virtualmachinetemplates",
+  "IsDataAction": false
+}

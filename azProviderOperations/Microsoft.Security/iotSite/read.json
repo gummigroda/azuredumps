@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSite/read",
+  "OperationName": "Get IoT site",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "IoT Site",
+  "Description": "Gets IoT site",
+  "IsDataAction": false
+}

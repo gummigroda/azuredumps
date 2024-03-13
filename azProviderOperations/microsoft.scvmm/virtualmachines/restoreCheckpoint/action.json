@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/virtualmachines/restoreCheckpoint/action",
+  "OperationName": "RestoreCheckpoint.",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualmachines",
+  "Description": "RestoreCheckpoint.",
+  "IsDataAction": false
+}

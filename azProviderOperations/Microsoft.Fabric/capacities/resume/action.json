@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/capacities/resume/action",
+  "OperationName": "Resume the specified Fabric capacity",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Resume the specified Fabric capacity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l3Networks/delete",
+  "OperationName": "L3Networks_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l3Networks",
+  "Description": "Delete the provided layer 3 (L3) network.",
+  "IsDataAction": false
+}

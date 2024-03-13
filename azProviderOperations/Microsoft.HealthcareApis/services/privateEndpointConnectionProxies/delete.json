@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Endpoint Connection Proxies.",
+  "Description": "Deletes Private Endpoint Connection Proxy resources.",
+  "IsDataAction": false
+}

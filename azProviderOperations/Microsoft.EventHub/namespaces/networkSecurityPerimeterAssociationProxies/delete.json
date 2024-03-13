@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete NetworkSecurityPerimeterAssociationProxies",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Security Perimeter Association Proxies",
+  "Description": "Delete NetworkSecurityPerimeterAssociationProxies",
+  "IsDataAction": false
+}

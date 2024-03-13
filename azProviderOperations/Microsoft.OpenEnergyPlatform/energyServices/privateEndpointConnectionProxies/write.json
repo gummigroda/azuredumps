@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnectionProxies/write",
+  "OperationName": "PrivateEndpointConnectionProxies_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnectionProxies",
+  "Description": "(INTERNAL - DO NOT USE) Creates or updates the specified private endpoint connection proxy resource associated with the OAK instance.",
+  "IsDataAction": false
+}

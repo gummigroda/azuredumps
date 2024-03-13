@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/assets/write",
+  "OperationName": "Assets_Update",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Update labels on assets matching the provided filter.",
+  "IsDataAction": true
+}

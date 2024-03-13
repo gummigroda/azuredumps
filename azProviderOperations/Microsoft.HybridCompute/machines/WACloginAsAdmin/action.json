@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/WACloginAsAdmin/action",
+  "OperationName": "Lets you manage the OS of your resource via Windows Admin Center as an administrator.",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Lets you manage the OS of your resource via Windows Admin Center as an administrator.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/autoscaling/read",
+  "OperationName": "Gets/List autoscaling resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "autoscaling",
+  "Description": "Reads autoscaling",
+  "IsDataAction": true
+}

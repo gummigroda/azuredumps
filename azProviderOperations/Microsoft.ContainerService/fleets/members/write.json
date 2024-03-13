@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/members/write",
+  "OperationName": "Create or Update a fleet member",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Members",
+  "Description": "Create or Update a fleet member",
+  "IsDataAction": false
+}

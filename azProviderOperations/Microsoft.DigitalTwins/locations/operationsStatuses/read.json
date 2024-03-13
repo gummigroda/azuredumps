@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/locations/operationsStatuses/read",
+  "OperationName": "Read Operation Status",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Operation Status",
+  "Description": "Read any Operation Status",
+  "IsDataAction": false
+}

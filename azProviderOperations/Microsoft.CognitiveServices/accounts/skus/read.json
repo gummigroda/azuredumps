@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/skus/read",
+  "OperationName": "Read available SKUs for an existing resource",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Reads available SKUs for an existing resource.",
+  "IsDataAction": false
+}

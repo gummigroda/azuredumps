@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/relationships/read",
+  "OperationName": "Relationships_Get",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/relationships",
+  "Description": "Get a Relationship",
+  "IsDataAction": false
+}

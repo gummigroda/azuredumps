@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/schemas/delete",
+  "OperationName": "Remove schema",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace schemas",
+  "Description": "Deletes specific Schema.",
+  "IsDataAction": false
+}

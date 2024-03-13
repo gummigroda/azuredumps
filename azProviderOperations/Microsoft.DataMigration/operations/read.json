@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/operations/read",
+  "OperationName": "Get all REST Operations",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Available REST operations",
+  "Description": "Get all REST Operations",
+  "IsDataAction": false
+}

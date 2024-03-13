@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/flowcontrol.apiserver.k8s.io/prioritylevelconfigurations/read",
+  "OperationName": "Gets/List prioritylevelconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Prioritylevelconfigurations",
+  "Description": "Reads prioritylevelconfigurations",
+  "IsDataAction": true
+}

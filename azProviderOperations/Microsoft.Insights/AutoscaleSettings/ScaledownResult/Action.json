@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/ScaledownResult/Action",
+  "OperationName": "Autoscale scale down completed",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Autoscale Setting",
+  "Description": "Autoscale scale down completed",
+  "IsDataAction": false
+}

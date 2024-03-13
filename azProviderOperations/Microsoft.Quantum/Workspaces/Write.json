@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quantum/Workspaces/Write",
+  "OperationName": "Create/update workspace resources",
+  "ProviderNamespace": "Microsoft.Quantum",
+  "ResourceName": "Workspaces",
+  "Description": "Writes Workspace",
+  "IsDataAction": false
+}

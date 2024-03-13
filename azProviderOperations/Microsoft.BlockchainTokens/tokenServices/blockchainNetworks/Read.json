@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/blockchainNetworks/Read",
+  "OperationName": "Gets/List blockchainNetworks resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "blockchainNetworks",
+  "Description": "Read blockchainNetworks",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/providers/read",
+  "OperationName": "获取提供程序",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "提供程序",
+  "Description": "获取提供程序的列表。",
+  "IsDataAction": false
+}

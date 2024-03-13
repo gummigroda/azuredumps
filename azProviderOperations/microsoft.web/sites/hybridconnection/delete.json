@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hybridconnection/delete",
+  "OperationName": "Delete Web Apps Hybrid Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hybrid Connection",
+  "Description": "Delete Web Apps Hybrid Connection.",
+  "IsDataAction": false
+}

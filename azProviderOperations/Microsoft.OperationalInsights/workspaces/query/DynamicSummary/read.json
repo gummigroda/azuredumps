@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DynamicSummary/read",
+  "OperationName": "Read DynamicSummary data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DynamicSummary",
+  "Description": "Read data from the DynamicSummary table",
+  "IsDataAction": false
+}

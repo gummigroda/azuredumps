@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MarketplaceOrdering/agreements/offers/plans/cancel/action",
+  "OperationName": "Cancel Agreement",
+  "ProviderNamespace": "Microsoft Marketplace Ordering",
+  "ResourceName": "Agreement",
+  "Description": "Cancel an agreement for a given marketplace item",
+  "IsDataAction": false
+}

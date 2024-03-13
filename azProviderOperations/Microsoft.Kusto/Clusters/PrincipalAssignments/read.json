@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrincipalAssignments/read",
+  "OperationName": "Read a Cluster principal assignments resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Cluster principal assignments resource type",
+  "Description": "Reads a Cluster principal assignments resource.",
+  "IsDataAction": false
+}

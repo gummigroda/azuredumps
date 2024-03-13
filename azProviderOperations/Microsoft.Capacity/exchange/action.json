@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/exchange/action",
+  "OperationName": "Exchange Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Exchange any Reservation",
+  "IsDataAction": false
+}

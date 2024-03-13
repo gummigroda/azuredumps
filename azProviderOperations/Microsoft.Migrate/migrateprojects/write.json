@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/write",
+  "OperationName": "Create or Update Migrate Project",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate Projects ",
+  "Description": "Creates a new migrate project or updates an existing migrate project",
+  "IsDataAction": false
+}

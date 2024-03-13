@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/releases/write",
+  "OperationName": "Create API release or Update API release",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API releases",
+  "Description": "Creates a new Release for the API. or Updates the details of the release of the API specified by its identifier.",
+  "IsDataAction": false
+}

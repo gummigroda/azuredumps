@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeAppInstanceHealth/Read",
+  "OperationName": "Read MAOfficeAppInstanceHealth data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeAppInstanceHealth",
+  "Description": "Read data from the MAOfficeAppInstanceHealth table",
+  "IsDataAction": false
+}

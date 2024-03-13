@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/generateUpgrade/action",
+  "OperationName": "GenerateUpgrade",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrators",
+  "Description": "Generate the updated version of a Migrator.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/operationResults/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/operationResults/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Operation Result",
+  "Description": "Read Status of privateEndpointConnenctions asynchronous operation",
+  "IsDataAction": false
+}

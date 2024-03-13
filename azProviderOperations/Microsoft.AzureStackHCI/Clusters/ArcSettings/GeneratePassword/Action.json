@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/GeneratePassword/Action",
+  "OperationName": "Generate password for Arc settings identity",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings",
+  "Description": "Generate password for Arc settings identity",
+  "IsDataAction": false
+}

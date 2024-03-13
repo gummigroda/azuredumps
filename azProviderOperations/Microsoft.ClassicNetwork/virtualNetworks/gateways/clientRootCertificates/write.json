@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/clientRootCertificates/write",
+  "OperationName": "Upload Client Root Certificate",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Geteway Client Certificate",
+  "Description": "Uploads a new client root certificate.",
+  "IsDataAction": false
+}

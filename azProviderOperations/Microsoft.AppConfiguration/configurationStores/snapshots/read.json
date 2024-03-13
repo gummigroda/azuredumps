@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/snapshots/read",
+  "OperationName": "Read Snapshot",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Snapshot",
+  "Description": "Reads a snapshot from the configuration store.",
+  "IsDataAction": true
+}

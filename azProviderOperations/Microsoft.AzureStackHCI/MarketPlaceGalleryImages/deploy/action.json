@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/MarketPlaceGalleryImages/deploy/action",
+  "OperationName": "Deploys market place gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "MarketPlaceGalleryImages",
+  "Description": "Deploys market place gallery images resource",
+  "IsDataAction": false
+}

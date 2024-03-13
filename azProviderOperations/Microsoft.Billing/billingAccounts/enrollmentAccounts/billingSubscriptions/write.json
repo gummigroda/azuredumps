@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/billingSubscriptions/write",
+  "OperationName": "Update Billing Subscriptions Cost Center",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/tags/write",
+  "OperationName": "Add Tag or Update Tag",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags",
+  "Description": "Creates a tag. or Updates the details of the tag specified by its identifier.",
+  "IsDataAction": false
+}

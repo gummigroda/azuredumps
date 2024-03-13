@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZMSAutoscaleLogs/read",
+  "OperationName": "Read AZMSAutoscaleLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZMSAutoscaleLogs",
+  "Description": "Read data from the AZMSAutoscaleLogs table",
+  "IsDataAction": false
+}

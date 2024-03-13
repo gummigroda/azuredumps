@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/write",
+  "OperationName": "Connectors_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors",
+  "Description": "Updates a connector resource",
+  "IsDataAction": false
+}

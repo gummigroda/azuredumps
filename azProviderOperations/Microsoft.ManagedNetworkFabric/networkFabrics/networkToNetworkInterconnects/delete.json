@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/delete",
+  "OperationName": "NetworkToNetworkInterconnects_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Implements NetworkToNetworkInterconnects DELETE method.",
+  "IsDataAction": false
+}

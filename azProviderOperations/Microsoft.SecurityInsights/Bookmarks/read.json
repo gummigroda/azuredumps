@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Bookmarks/read",
+  "OperationName": "Get Bookmarks",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Bookmarks",
+  "Description": "Gets bookmarks",
+  "IsDataAction": false
+}

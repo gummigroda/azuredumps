@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksClamAVScan/read",
+  "OperationName": "Read DatabricksClamAVScan data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksClamAVScan",
+  "Description": "Read data from the DatabricksClamAVScan table",
+  "IsDataAction": false
+}

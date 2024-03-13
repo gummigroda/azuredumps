@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MAApplication/read",
+  "OperationName": "Read MAApplication data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MAApplication",
+  "Description": "Read data from the MAApplication table",
+  "IsDataAction": false
+}

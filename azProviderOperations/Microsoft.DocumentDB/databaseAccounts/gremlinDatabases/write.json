@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/write",
+  "OperationName": "Write Gremlin database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Database",
+  "Description": "Create a Gremlin database.",
+  "IsDataAction": false
+}

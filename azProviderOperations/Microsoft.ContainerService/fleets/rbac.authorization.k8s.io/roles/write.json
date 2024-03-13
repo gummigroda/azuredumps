@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/roles/write",
+  "OperationName": "Creates/Updates roles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Roles",
+  "Description": "Writes roles",
+  "IsDataAction": true
+}

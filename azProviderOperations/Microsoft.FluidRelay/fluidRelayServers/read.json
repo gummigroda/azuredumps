@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/fluidRelayServers/read",
+  "OperationName": "FluidRelayServers_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "fluidRelayServers",
+  "Description": "read fluidRelayServers",
+  "IsDataAction": false
+}

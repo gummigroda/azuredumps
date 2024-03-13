@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2sConnectionConfigurationProxies/read",
+  "OperationName": "Get P2S Connection Configuration Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "P2S Connection Configuration Proxy",
+  "Description": "Gets A P2S Connection Configuration Proxy Definition",
+  "IsDataAction": false
+}

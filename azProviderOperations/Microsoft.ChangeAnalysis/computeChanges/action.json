@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/computeChanges/action",
+  "OperationName": "List changes of a single resource from ARG",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "",
+  "Description": "Return the list of changes.",
+  "IsDataAction": false
+}

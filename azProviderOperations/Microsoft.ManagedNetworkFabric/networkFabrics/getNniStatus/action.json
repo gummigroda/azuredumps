@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/getNniStatus/action",
+  "OperationName": "NetworkFabrics_getNniStatus",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Provides the Nni status of layer2 and layer3 networks for the given Network Fabric",
+  "IsDataAction": false
+}

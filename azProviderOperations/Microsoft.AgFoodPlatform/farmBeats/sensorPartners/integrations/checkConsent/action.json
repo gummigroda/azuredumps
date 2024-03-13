@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/integrations/checkConsent/action",
+  "OperationName": "Check consent",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensor partner integrations",
+  "Description": "Check consent",
+  "IsDataAction": true
+}

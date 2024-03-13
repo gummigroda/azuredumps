@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Workflow Log Definition",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Log Definition",
+  "Description": "Reads the workflow log definitions.",
+  "IsDataAction": false
+}

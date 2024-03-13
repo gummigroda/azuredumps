@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/avssummaries/read",
+  "OperationName": "Get AVS summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS summary",
+  "Description": "Gets the AVS summary of the business case",
+  "IsDataAction": false
+}

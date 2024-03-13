@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/categories/severities/requestcounts/read",
+  "OperationName": "ListAPI request count number of a specific category and a specific severity given a time range.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Request count for the specified category and severity",
+  "Description": "List API request count number of a specific category and a specific severity given a time range. Default maxpagesize is 1000.",
+  "IsDataAction": true
+}

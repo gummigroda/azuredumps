@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateLinkResources/read",
+  "OperationName": "Get Enterprise Policy Private Link Resource",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Link Resource",
+  "Description": "Gets an enterprise policy private link resource",
+  "IsDataAction": false
+}

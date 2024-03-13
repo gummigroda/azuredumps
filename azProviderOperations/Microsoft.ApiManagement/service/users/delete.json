@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/delete",
+  "OperationName": "Remove user",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User accounts",
+  "Description": "Deletes specific user.",
+  "IsDataAction": false
+}

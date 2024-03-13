@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/register/action",
+  "OperationName": "Register the DevHub Resource Provider",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "",
+  "Description": "Register DevHub Resource Provider",
+  "IsDataAction": false
+}

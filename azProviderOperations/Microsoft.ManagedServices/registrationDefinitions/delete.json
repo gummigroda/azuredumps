@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationDefinitions/delete",
+  "OperationName": "Remove Managed Services Registration Definition",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Definition",
+  "Description": "Removes Managed Services registration definition.",
+  "IsDataAction": false
+}

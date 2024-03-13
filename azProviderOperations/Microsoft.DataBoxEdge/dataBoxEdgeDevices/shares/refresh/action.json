@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/shares/refresh/action",
+  "OperationName": "Refreshes the share metadata with the data from the cloud",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "shares",
+  "Description": "Refresh the share metadata with the data from the cloud",
+  "IsDataAction": false
+}

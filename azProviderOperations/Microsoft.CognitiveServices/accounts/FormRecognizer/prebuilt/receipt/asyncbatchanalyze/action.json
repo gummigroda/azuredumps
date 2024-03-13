@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/receipt/asyncbatchanalyze/action",
+  "OperationName": "Analyze Receipt",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Receipt recognizer.",
+  "Description": "Extract field text and semantic values from a given receipt document. The input document must be of one of the supported",
+  "IsDataAction": true
+}

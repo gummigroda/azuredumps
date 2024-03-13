@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/scenes/delete",
+  "OperationName": "Delete AgFoodPlatform scenes resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform scenes",
+  "Description": "Deletes an existing AgFoodPlatform scenes resource.",
+  "IsDataAction": true
+}

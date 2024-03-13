@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/operationResults/read",
+  "OperationName": "Read Global OperationResult",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "operationResults",
+  "Description": "Read the result of an operation",
+  "IsDataAction": false
+}

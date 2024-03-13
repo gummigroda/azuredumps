@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/Delete",
+  "OperationName": "Delete account resource",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts",
+  "Description": "Deletes account",
+  "IsDataAction": false
+}

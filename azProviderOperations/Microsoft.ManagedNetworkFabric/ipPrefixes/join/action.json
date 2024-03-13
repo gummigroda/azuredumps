@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipPrefixes/join/action",
+  "OperationName": "IpPrefixes_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipPrefixes",
+  "Description": "Join action for IP Prefix resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/certificates/read",
+  "OperationName": "Read an Azure Automation certificate",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Certificate Asset",
+  "Description": "Gets an Azure Automation certificate asset",
+  "IsDataAction": false
+}

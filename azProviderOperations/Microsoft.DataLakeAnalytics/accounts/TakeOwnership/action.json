@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/TakeOwnership/action",
+  "OperationName": "Take Ownership of DataLakeAnalytics Job",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Account",
+  "Description": "Grant permissions to cancel jobs submitted by other users.",
+  "IsDataAction": false
+}

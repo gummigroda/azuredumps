@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/internalNetworks/updateAdminState/action",
+  "OperationName": "InternalNetworks_updateAdminState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/internalNetworks",
+  "Description": "Update Administrative state of  InternalNetworks on resources referred by their resource ids.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/assessments/read",
+  "OperationName": "Lists Assessments",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessments",
+  "Description": "Lists assessments within a project",
+  "IsDataAction": false
+}

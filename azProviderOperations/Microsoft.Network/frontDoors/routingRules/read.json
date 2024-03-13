@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/routingRules/read",
+  "OperationName": "Gets a routing rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Gets a routing rule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/read",
+  "OperationName": "Applications_Get",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications",
+  "Description": "Get a Application",
+  "IsDataAction": false
+}

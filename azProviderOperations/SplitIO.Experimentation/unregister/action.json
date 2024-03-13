@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/unregister/action",
+  "OperationName": "Unregister the SplitIO.Experimentation",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for SplitIO.Experimentation",
+  "IsDataAction": false
+}

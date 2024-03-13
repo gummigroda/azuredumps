@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkFunction/azureTrafficCollectors/write",
+  "OperationName": "CreateOrUpdateAzureTrafficCollector",
+  "ProviderNamespace": "MicrosoftNetworkFunction",
+  "ResourceName": "AzureTrafficCollector",
+  "Description": "CreateOrUpdateAzureTrafficCollector",
+  "IsDataAction": false
+}

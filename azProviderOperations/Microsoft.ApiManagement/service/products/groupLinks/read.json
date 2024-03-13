@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/groupLinks/read",
+  "OperationName": "Get links or Get product-group details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-Group links resource",
+  "Description": "Lists a collection of product-group links in the specified service instance. or Get product-group details.",
+  "IsDataAction": false
+}

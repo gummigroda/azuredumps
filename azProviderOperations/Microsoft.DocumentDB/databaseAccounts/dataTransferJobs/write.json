@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/write",
+  "OperationName": "Create Container Copy Job",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container Copy Jobs",
+  "Description": "Create container copy job in a database account",
+  "IsDataAction": false
+}

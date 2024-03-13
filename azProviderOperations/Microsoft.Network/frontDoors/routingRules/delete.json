@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/routingRules/delete",
+  "OperationName": "Deletes a routing rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Deletes a routing rule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/CheckNameAvailability/action",
+  "OperationName": "Cluster check name availability action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Clusters resource type",
+  "Description": "Checks the cluster name availability.",
+  "IsDataAction": false
+}

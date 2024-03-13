@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/categories/read",
+  "OperationName": "Get or List Text Categories",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Categories",
+  "Description": "Get or List Text Categories",
+  "IsDataAction": true
+}

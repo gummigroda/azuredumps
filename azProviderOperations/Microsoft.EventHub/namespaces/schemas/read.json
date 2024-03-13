@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemas/read",
+  "OperationName": "Retrieve schemas",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Schemas",
+  "Description": "Retrieve schemas",
+  "IsDataAction": true
+}

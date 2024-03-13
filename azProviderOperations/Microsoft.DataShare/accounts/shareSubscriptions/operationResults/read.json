@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/operationResults/read",
+  "OperationName": "Read Data Share ShareSubscription Long Running Operation Status",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Long Running Operation Result",
+  "Description": "Reads a Data Share ShareSubscription long running operation status.",
+  "IsDataAction": false
+}

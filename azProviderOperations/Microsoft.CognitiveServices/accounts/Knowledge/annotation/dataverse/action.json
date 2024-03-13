@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/annotation/dataverse/action",
+  "OperationName": "Dataverse Annotation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "annotation",
+  "Description": "Dataverse search annotation",
+  "IsDataAction": true
+}

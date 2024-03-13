@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/storageinsightconfigs/write",
+  "OperationName": "Create Storage Configuration",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Storage Insight Configuration",
+  "Description": "Creates a new storage configuration. These configurations are used to pull data from a location in an existing storage account.",
+  "IsDataAction": false
+}

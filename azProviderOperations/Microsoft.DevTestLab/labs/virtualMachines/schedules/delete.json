@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/schedules/delete",
+  "OperationName": "Delete schedules.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "schedules",
+  "Description": "Delete schedules.",
+  "IsDataAction": false
+}

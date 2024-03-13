@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/submitdiag/read",
+  "OperationName": "Submit Diagnostics for Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Submit diagnostics data to help improve the quality of the Azure Spatial Anchors service",
+  "IsDataAction": true
+}

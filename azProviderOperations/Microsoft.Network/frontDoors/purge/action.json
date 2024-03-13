@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/purge/action",
+  "OperationName": "Purge cached content from a Front Door",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Purge cached content from a Front Door",
+  "IsDataAction": false
+}

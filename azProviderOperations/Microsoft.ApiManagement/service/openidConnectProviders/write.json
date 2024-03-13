@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/openidConnectProviders/write",
+  "OperationName": "Create new OpenID Connect Provider or Update existing OpenID Connect Provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OpenID Connect Providers",
+  "Description": "Creates or updates the OpenID Connect Provider. or Updates the specific OpenID Connect Provider.",
+  "IsDataAction": false
+}

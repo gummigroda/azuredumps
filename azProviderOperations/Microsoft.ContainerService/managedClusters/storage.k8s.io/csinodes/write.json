@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/storage.k8s.io/csinodes/write",
+  "OperationName": "Creates/Updates csinodes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Csinodes",
+  "Description": "Writes csinodes",
+  "IsDataAction": true
+}

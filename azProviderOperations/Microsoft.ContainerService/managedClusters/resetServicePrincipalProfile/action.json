@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/resetServicePrincipalProfile/action",
+  "OperationName": "Reset service principal profile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Reset the service principal profile of a managed cluster",
+  "IsDataAction": false
+}

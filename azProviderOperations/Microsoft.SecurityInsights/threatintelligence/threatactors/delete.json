@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/threatactors/delete",
+  "OperationName": "Delete a TI Threat Actor",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIThreatActors",
+  "Description": "Deletes a TI Threat Actor",
+  "IsDataAction": false
+}

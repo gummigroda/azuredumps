@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosCustomPolicies/delete",
+  "OperationName": "Delete DDoS customized policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS customized Policy",
+  "Description": "Deletes a DDoS customized policy",
+  "IsDataAction": false
+}

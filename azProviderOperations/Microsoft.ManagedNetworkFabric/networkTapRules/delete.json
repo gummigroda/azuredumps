@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/delete",
+  "OperationName": "NetworkTapRules_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "Delete Network Tap Rule resource.",
+  "IsDataAction": false
+}

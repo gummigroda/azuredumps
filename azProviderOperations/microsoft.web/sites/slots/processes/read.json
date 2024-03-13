@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/processes/read",
+  "OperationName": "Get Web Apps Slots Processes",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Processes",
+  "Description": "Get Web Apps Slots Processes.",
+  "IsDataAction": false
+}

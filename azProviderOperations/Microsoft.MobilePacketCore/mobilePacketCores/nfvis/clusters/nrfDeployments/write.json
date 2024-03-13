@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/nrfDeployments/write",
+  "OperationName": "NrfDeployments_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/nrfDeployments",
+  "Description": "Creates or updates a Mobile Packet Core Network Repository Function deployment resource",
+  "IsDataAction": false
+}

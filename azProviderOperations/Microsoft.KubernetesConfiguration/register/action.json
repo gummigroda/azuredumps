@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/register/action",
+  "OperationName": "Microsoft.KubernetesConfiguration/register/action",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "",
+  "Description": "Registers subscription to Microsoft.KubernetesConfiguration resource provider.",
+  "IsDataAction": false
+}

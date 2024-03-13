@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/serviceRegistries/read",
+  "OperationName": "Get Microsoft Azure Spring Apps Service Registry",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Service Registry of Microsoft Azure Spring Apps",
+  "Description": "Get the Service Registrys for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

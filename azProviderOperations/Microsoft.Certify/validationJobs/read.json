@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/validationJobs/read",
+  "OperationName": "Get or List Certify validationJob resource(s).",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "validationJobs",
+  "Description": "Gets or Lists existing Certify validationJob resource(s).",
+  "IsDataAction": false
+}

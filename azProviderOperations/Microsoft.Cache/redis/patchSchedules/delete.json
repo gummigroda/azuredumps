@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/patchSchedules/delete",
+  "OperationName": "Delete Redis Cache Patch Schedule",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Patching schedule of a Redis Cache",
+  "Description": "Delete the patch schedule of a Redis Cache",
+  "IsDataAction": false
+}

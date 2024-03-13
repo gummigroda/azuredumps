@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/write",
+  "OperationName": "Create or Update Restore Point Collection",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Restore Point Collections",
+  "Description": "Creates a new restore point collection or updates an existing one",
+  "IsDataAction": false
+}

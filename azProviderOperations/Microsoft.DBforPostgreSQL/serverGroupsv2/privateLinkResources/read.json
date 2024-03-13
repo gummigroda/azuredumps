@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serverGroupsv2/privateLinkResources/read",
+  "OperationName": "Get the private link resources for the corresponding PostgreSQL SGv2",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL SGv2 Private Link Resource",
+  "Description": "Get the private link resources for the corresponding PostgreSQL SGv2",
+  "IsDataAction": false
+}

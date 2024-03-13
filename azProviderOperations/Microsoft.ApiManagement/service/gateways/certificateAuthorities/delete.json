@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/certificateAuthorities/delete",
+  "OperationName": "Unassign Certificate Authority from Gateway",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates assigned to Gateway as Certificate Authorities",
+  "Description": "Unassign Certificate Authority from Gateway.",
+  "IsDataAction": false
+}

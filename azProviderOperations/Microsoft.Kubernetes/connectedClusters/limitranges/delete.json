@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/limitranges/delete",
+  "OperationName": "Deletes/DeletesCollection limitranges resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "limitranges",
+  "Description": "Deletes limitranges",
+  "IsDataAction": true
+}

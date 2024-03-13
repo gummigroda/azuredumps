@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/checkStatus/action",
+  "OperationName": "Check service status",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Check whether the service is deployed and running",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/skus/read",
+  "OperationName": "skus",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "skus",
+  "Description": "Read skus.",
+  "IsDataAction": false
+}

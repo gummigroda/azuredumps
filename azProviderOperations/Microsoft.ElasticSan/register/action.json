@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/register/action",
+  "OperationName": "Registers the ElasticSan Resource Provider",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the ElasticSan resource provider and enables the creation of san accounts.",
+  "IsDataAction": false
+}

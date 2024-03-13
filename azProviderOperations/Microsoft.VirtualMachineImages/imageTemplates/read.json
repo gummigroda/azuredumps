@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/read",
+  "OperationName": "Get a VM image template instance resource",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template",
+  "Description": "Get a VM image template instance resource",
+  "IsDataAction": false
+}

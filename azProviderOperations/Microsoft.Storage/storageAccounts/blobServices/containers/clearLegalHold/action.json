@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/clearLegalHold/action",
+  "OperationName": "Clear blob container legal hold",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers",
+  "Description": "Clear blob container legal hold",
+  "IsDataAction": false
+}

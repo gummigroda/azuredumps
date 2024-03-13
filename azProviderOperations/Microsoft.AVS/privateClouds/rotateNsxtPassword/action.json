@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/rotateNsxtPassword/action",
+  "OperationName": "Private Cloud Nsxt Cloud Admin password rotation",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds",
+  "Description": "Rotate Nsxt CloudAdmin password for the PrivateCloud.",
+  "IsDataAction": true
+}

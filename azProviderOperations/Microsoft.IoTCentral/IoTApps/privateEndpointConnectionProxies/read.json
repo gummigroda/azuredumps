@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/privateEndpointConnectionProxies/read",
+  "OperationName": "Get/List private endpoint connection proxies",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps/privateEndpointConnectionProxies",
+  "Description": "Read private endpoint connection proxies",
+  "IsDataAction": false
+}

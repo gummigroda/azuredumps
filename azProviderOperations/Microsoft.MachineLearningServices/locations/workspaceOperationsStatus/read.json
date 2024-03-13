@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/locations/workspaceOperationsStatus/read",
+  "OperationName": "Gets the status of a particular workspace operation",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Gets the status of a particular workspace operation",
+  "IsDataAction": false
+}

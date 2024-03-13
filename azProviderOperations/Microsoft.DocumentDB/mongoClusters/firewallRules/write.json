@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/firewallRules/write",
+  "OperationName": "Create/Update Mongo Cluster Firewall Rule",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Firewall Rule",
+  "Description": "Create or Update a firewall rule on a specified Mongo Cluster.",
+  "IsDataAction": false
+}

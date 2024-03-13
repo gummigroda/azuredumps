@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/updateNpbStaticRouteBfdAdministrativeState/action",
+  "OperationName": "NetworkToNetworkInterconnects_updateNpbStaticRouteBfdAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Updates the NPB Static Route BFD Administrative State.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Get information about private endpoint connection proxy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/BareMetalConnections/read",
+  "OperationName": "Read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "BareMetalConnections",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

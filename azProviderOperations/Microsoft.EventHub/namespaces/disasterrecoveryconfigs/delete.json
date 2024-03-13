@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/disasterRecoveryConfigs/delete",
+  "OperationName": "Delete Disaster Recovery configuration",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Deletes the Disaster Recovery configuration associated with the namespace. This operation can only be invoked via the primary namespace.",
+  "IsDataAction": false
+}

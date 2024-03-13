@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/accountfilters/write",
+  "OperationName": "Create or Update Account Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Account Filter",
+  "Description": "Create or Update any Account Filter",
+  "IsDataAction": false
+}

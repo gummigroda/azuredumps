@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/assessments/read",
+  "OperationName": "Get Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessments",
+  "Description": "Gets the properties of an assessment",
+  "IsDataAction": false
+}

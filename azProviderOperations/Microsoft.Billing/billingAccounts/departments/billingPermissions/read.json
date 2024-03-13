@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/departments/billingPermissions/read",
+  "OperationName": "List/Get Billing Permissions by Department",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Permissions",
+  "Description": null,
+  "IsDataAction": false
+}

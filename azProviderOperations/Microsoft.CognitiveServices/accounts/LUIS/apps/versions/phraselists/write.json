@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/phraselists/write",
+  "OperationName": "Phraselists - Create or update phraselist feature",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Phraselists",
+  "Description": "Creates a new phraselist feature.\r\nUpdates the phrases, the state and the name of the phraselist feature.",
+  "IsDataAction": true
+}

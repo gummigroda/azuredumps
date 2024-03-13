@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/all/read",
+  "OperationName": "Gets DNS record sets across types",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set",
+  "Description": "Gets DNS record sets across types",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/authorizations/read",
+  "OperationName": "Read Authorization settings.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/authorizations",
+  "Description": "Gets the authorization settings for a PrivateCloud cluster.",
+  "IsDataAction": false
+}

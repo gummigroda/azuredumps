@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/Tables.Custom/read",
+  "OperationName": "Read Custom Logs",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Tables.Custom",
+  "Description": "Reading data from any custom log",
+  "IsDataAction": false
+}

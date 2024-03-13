@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/listAdvancedSecurityObjects/action",
+  "OperationName": "GlobalRulestack_listAdvancedSecurityObjects",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "Get the list of advanced security objects",
+  "IsDataAction": false
+}

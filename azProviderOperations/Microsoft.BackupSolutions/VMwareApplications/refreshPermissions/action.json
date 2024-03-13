@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/VMwareApplications/refreshPermissions/action",
+  "OperationName": "Refresh application permission(s)",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "Application",
+  "Description": "Refreshes application permission(s).",
+  "IsDataAction": false
+}

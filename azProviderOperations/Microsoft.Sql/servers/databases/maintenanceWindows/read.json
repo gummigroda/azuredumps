@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/maintenanceWindows/read",
+  "OperationName": "Get Data Warehouse maintenance windows.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Data Warehouse maintenance windows.",
+  "Description": "Gets maintenance windows settings for a selected database.",
+  "IsDataAction": false
+}

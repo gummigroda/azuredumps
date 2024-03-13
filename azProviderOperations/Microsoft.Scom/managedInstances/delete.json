@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/delete",
+  "OperationName": "Instances_Delete",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Delete a SCOM monitoring instance",
+  "IsDataAction": false
+}

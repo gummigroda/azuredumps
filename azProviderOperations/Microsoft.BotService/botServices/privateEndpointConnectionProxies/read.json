@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnectionProxies/read",
+  "OperationName": "Read a connection proxy resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Connection Proxy Resource",
+  "Description": "Read a connection proxy resource",
+  "IsDataAction": false
+}

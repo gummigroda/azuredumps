@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/write",
+  "OperationName": "Create or Update Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Creates a virtual network or updates an existing virtual network",
+  "IsDataAction": false
+}

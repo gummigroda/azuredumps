@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/release/action",
+  "OperationName": "Release a Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Release a key using public part of KEK from attestation token.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/controllerrevisions/write",
+  "OperationName": "Creates/Updates controllerrevisions resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "controllerrevisions",
+  "Description": "Writes controllerrevisions",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/serviceTierAdvisors/read",
+  "OperationName": "Get recommended database performance level",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Service Tier Adviso",
+  "Description": "Return suggestion about scaling database up or down based on query execution statistics to improve performance or reduce cost",
+  "IsDataAction": false
+}

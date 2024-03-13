@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/networkPorts/write",
+  "OperationName": "NetworkPorts_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "networkPorts",
+  "Description": "API to update certain properties of the NetworkPort resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SharePointOnlineAssessmentRecommendation/Read",
+  "OperationName": "Read SharePointOnlineAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SharePointOnlineAssessmentRecommendation",
+  "Description": "Read data from the SharePointOnlineAssessmentRecommendation table",
+  "IsDataAction": false
+}

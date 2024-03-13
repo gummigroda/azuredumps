@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/productrecognition/runs/write",
+  "OperationName": "ProductRecognition_Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "runs*",
+  "Description": "Run the product recognition against a model with an image.",
+  "IsDataAction": true
+}

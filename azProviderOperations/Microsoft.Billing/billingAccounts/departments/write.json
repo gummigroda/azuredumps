@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/departments/write",
+  "OperationName": "Update Department by Department Id",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Departments",
+  "Description": null,
+  "IsDataAction": false
+}

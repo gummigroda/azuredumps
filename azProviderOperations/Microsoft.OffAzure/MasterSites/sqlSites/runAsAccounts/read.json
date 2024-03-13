@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/runAsAccounts/read",
+  "OperationName": "Gets Sql Run as Accounts for a given site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Run As Account Resource",
+  "Description": "Gets Sql Run as Accounts for a given site",
+  "IsDataAction": false
+}

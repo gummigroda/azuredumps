@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/systemTopics/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read diagnostic logs",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "systemTopics",
+  "Description": "Allows access to diagnostic logs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/write",
+  "OperationName": "Create or Update ExpressRouteCircuit",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuit",
+  "Description": "Creates or updates an existing ExpressRouteCircuit",
+  "IsDataAction": false
+}

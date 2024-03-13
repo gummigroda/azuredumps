@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchJobConfigurations/patchJobs/Write",
+  "OperationName": "Create Patch Job",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Job",
+  "Description": "Create Patch Job",
+  "IsDataAction": false
+}

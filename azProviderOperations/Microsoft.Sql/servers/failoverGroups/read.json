@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/failoverGroups/read",
+  "OperationName": "List/Get Azure SQL Database Failover Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Failover Group",
+  "Description": "Returns the list of failover groups or gets the properties for the specified failover group.",
+  "IsDataAction": false
+}

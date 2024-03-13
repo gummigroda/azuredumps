@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/connectionPoliciesOperationResults/read",
+  "OperationName": "Gets the in progress operation of server connection policy update.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQLServer connection policy operation results resource.",
+  "Description": "Gets the in progress operation of server connection policy update.",
+  "IsDataAction": false
+}

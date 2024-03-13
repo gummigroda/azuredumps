@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/openApiGateways/read",
+  "OperationName": "OpenApiGateways_Get",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "openApiGateways",
+  "Description": "Get an OpenAPI Gateway.",
+  "IsDataAction": false
+}

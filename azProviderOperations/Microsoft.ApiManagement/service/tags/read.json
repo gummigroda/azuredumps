@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tags/read",
+  "OperationName": "Get Tags list or Tag details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags",
+  "Description": "Lists a collection of tags defined within a service instance. or Gets the details of the tag specified by its identifier.",
+  "IsDataAction": false
+}

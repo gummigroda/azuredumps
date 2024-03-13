@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/packages/archives/read",
+  "OperationName": "Get  Archive or List Archvies",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Archive",
+  "Description": "Get all the properties of Archive",
+  "IsDataAction": false
+}

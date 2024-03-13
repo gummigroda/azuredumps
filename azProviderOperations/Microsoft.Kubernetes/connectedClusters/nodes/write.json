@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/nodes/write",
+  "OperationName": "Creates/Updates nodes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "nodes",
+  "Description": "Writes nodes",
+  "IsDataAction": true
+}

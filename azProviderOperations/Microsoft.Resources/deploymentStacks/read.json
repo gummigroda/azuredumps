@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/deploymentStacks/read",
+  "OperationName": "读取部署堆栈",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "部署堆栈",
+  "Description": "获取或列出部署堆栈",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/locations/checkNameAvailability/action",
+  "OperationName": "Check availability of the Power BI Dedicated resource name",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Checks that given Power BI Dedicated resource name is valid and not in use.",
+  "IsDataAction": false
+}

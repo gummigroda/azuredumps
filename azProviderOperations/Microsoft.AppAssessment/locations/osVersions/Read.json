@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/locations/osVersions/Read",
+  "OperationName": "List os versions that a user can target for an assessment",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "locations/osVersions",
+  "Description": "List os versions that can be used as assessment target",
+  "IsDataAction": false
+}

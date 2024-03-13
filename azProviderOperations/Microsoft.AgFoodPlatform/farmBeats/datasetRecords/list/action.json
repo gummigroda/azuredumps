@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/datasetRecords/list/action",
+  "OperationName": "List AgFoodPlatform dataset record resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Dataset Records",
+  "Description": "List(s) existing AgFoodPlatform dataset record resource(s).",
+  "IsDataAction": true
+}

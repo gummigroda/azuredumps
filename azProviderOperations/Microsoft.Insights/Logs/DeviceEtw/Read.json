@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceEtw/Read",
+  "OperationName": "Read DeviceEtw data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceEtw",
+  "Description": "Read data from the DeviceEtw table",
+  "IsDataAction": false
+}

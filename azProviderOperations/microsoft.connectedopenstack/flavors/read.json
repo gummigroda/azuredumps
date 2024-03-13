@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/flavors/read",
+  "OperationName": "Flavors_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "flavors",
+  "Description": "Implements Flavors list by subscription GET method.",
+  "IsDataAction": false
+}

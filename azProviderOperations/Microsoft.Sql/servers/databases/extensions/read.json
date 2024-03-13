@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/extensions/read",
+  "OperationName": "Get database extensions operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Get database extensions operation.",
+  "IsDataAction": false
+}

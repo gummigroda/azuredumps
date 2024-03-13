@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/versions/Write",
+  "OperationName": "Creates or updates the versions",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "versions",
+  "Description": "Set versions",
+  "IsDataAction": false
+}

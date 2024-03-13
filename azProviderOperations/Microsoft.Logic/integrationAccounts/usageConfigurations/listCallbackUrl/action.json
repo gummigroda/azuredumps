@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/usageConfigurations/listCallbackUrl/action",
+  "OperationName": "List Integration Account Usage Configuration Callback URL",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Usage Configuration",
+  "Description": "Gets the callback URL for the usage configuration in integration account.",
+  "IsDataAction": false
+}

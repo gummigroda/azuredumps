@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/operations/read",
+  "OperationName": "Get operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Available REST operations",
+  "Description": "Gets available REST operations",
+  "IsDataAction": false
+}

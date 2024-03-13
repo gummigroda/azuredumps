@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/resumePrimingJob/action",
+  "OperationName": "Resume priming job",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Resumes a paused priming job in the cache",
+  "IsDataAction": false
+}

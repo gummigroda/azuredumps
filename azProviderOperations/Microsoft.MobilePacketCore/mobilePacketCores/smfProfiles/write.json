@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/smfProfiles/write",
+  "OperationName": "SmfProfiles_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/smfProfiles",
+  "Description": "Creates or updates a Mobile Packet Core Session Management Function profile resource",
+  "IsDataAction": false
+}

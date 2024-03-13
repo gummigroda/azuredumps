@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/connectors/delete",
+  "OperationName": "connectors_Delete",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/connectors",
+  "Description": "Deletes the specified connector.",
+  "IsDataAction": false
+}

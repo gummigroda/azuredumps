@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/register/action",
+  "OperationName": "Register Data Share Resource Provider",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "",
+  "Description": "Register the subscription for the Data Share Resource Provider.",
+  "IsDataAction": false
+}

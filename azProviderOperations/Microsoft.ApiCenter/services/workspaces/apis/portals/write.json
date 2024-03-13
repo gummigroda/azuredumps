@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/portals/write",
+  "OperationName": "Get portal configuration.",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Portal",
+  "Description": "Returns the configuration of the specified portal.",
+  "IsDataAction": false
+}

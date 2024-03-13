@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachineinstances/Write",
+  "OperationName": "Create/update virtualmachineinstances resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachineinstances",
+  "Description": "Writes virtualmachineinstances",
+  "IsDataAction": false
+}

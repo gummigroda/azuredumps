@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policyDescriptions/read",
+  "OperationName": "Get policy descriptions",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of policy descriptions",
+  "Description": "Lists all policy descriptions.",
+  "IsDataAction": false
+}

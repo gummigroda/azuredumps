@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccountCredentials/write",
+  "OperationName": "Creates or updates storage account credentials",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "storage account credentials",
+  "Description": "Creates or updates the storage account credentials",
+  "IsDataAction": false
+}

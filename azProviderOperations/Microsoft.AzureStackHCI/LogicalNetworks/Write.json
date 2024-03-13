@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/LogicalNetworks/Write",
+  "OperationName": "Creates/Updates logical networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "LogicalNetworks",
+  "Description": "Creates/Updates logical networks resource",
+  "IsDataAction": false
+}

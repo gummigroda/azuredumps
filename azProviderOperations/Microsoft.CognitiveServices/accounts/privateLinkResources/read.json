@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/privateLinkResources/read",
+  "OperationName": "Read private link resources for an account",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services API Account",
+  "Description": "Reads private link resources for an account.",
+  "IsDataAction": false
+}

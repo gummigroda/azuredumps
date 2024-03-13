@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/resources/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "DICOM resources",
+  "Description": "Delete DICOM resources.",
+  "IsDataAction": true
+}

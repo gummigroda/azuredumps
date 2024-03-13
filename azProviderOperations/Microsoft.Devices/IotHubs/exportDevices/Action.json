@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/exportDevices/Action",
+  "OperationName": "Export Devices",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs",
+  "Description": "Export Devices",
+  "IsDataAction": false
+}

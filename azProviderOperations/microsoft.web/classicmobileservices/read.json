@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/classicmobileservices/read",
+  "OperationName": "Get Classic Mobile Services",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Classic Mobile Services",
+  "Description": "Get Classic Mobile Services.",
+  "IsDataAction": false
+}

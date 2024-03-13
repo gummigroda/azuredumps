@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/scheduling.k8s.io/priorityclasses/delete",
+  "OperationName": "Deletes/DeletesCollection priorityclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Priorityclasses",
+  "Description": "Deletes priorityclasses",
+  "IsDataAction": true
+}

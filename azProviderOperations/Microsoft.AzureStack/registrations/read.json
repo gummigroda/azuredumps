@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/read",
+  "OperationName": "Get Azure Stack Registration",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Registration",
+  "Description": "Gets the properties of an Azure Stack registration",
+  "IsDataAction": false
+}

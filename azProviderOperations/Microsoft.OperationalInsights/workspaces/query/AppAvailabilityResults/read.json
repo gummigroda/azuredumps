@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppAvailabilityResults/read",
+  "OperationName": "Read AppAvailabilityResults data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppAvailabilityResults",
+  "Description": "Read data from the AppAvailabilityResults table",
+  "IsDataAction": false
+}

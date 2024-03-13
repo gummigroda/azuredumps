@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnectionProxies/operationResults/read",
+  "OperationName": "Gets the result for a private endpoint connection proxy resource long running operation.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connection proxies",
+  "Description": "Gets the result for a private endpoint connection proxy resource long running operation.",
+  "IsDataAction": false
+}

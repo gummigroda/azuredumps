@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/attestations/read",
+  "OperationName": "Read Attestations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Attestations",
+  "Description": "Reads Attestations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/comparesummary/action",
+  "OperationName": "Get Compare summary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Business case",
+  "Description": "Gets the compare summary of the business case",
+  "IsDataAction": false
+}

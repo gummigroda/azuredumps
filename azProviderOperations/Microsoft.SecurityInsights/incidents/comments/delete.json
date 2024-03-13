@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/comments/delete",
+  "OperationName": "Delete Incident Comment",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Comments",
+  "Description": "Deletes a comment on the incident",
+  "IsDataAction": false
+}

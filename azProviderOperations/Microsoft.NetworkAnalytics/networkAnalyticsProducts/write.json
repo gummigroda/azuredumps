@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/networkAnalyticsProducts/write",
+  "OperationName": "NetworkAnalyticsProduct_Update",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "networkAnalyticsProducts",
+  "Description": "Update a NetworkAnalyticsProducts",
+  "IsDataAction": false
+}

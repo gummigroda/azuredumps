@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/workflowsconfiguration/read",
+  "OperationName": "Get logic app's configuration information by its ID in a deployment slot in a Logic App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Workflows",
+  "Description": "Get logic app's configuration information by its ID in a deployment slot in a Logic App.",
+  "IsDataAction": false
+}

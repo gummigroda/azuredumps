@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ContentPackages/write",
+  "OperationName": "Write Content Packages",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ContentPackages",
+  "Description": "Install or uninstall Content Packages.",
+  "IsDataAction": false
+}

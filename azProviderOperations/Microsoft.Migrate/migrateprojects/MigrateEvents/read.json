@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/MigrateEvents/read",
+  "OperationName": "Get migrate events",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate Events",
+  "Description": "Gets the properties of a migrate events.",
+  "IsDataAction": false
+}

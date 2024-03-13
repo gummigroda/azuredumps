@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/dataBoundaries/write",
+  "OperationName": "选择加入数据边界",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "数据边界",
+  "Description": "租户级别选择加入数据边界",
+  "IsDataAction": false
+}

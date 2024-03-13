@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/attachments/delete",
+  "OperationName": "Remove attachments",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Attachments",
+  "Description": "Deletes the specified comment from an Issue.",
+  "IsDataAction": false
+}

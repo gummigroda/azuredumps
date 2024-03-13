@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/publish/Action",
+  "OperationName": "Publish Web App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Publish a Web App",
+  "IsDataAction": false
+}

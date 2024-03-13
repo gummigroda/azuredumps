@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/TriggerFailover/Action",
+  "OperationName": "Trigger failover on a data collection endpoint",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint",
+  "Description": "Trigger failover on a data collection endpoint",
+  "IsDataAction": false
+}

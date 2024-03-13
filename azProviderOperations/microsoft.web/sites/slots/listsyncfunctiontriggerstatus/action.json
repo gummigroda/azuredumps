@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/listsyncfunctiontriggerstatus/action",
+  "OperationName": "List Web Apps Sync Function Trigger Status for deployment slot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "List Sync Function Trigger Status for deployment slot.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/write",
+  "OperationName": "Create or Update Transform",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Transform",
+  "Description": "Create or Update any Transform",
+  "IsDataAction": false
+}

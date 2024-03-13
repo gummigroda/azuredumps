@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/join/action",
+  "OperationName": "Join Express Route Cross Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Gateway",
+  "Description": "Joins an Express Route Gateway. Not alertable.",
+  "IsDataAction": false
+}

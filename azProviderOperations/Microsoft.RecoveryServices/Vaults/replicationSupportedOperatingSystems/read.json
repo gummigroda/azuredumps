@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationSupportedOperatingSystems/read",
+  "OperationName": "Read ",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "",
+  "Description": "Read any ",
+  "IsDataAction": false
+}

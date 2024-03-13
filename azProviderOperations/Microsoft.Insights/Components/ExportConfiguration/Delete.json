@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ExportConfiguration/Delete",
+  "OperationName": "Application Insights export settings delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights export settings",
+  "Description": "Deleting Application Insights export settings",
+  "IsDataAction": false
+}

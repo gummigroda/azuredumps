@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.D365CustomerInsights/instances/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read instance log definitions",
+  "ProviderNamespace": "D365CustomerInsights",
+  "ResourceName": "Instances",
+  "Description": "Gets the available logs for instances",
+  "IsDataAction": false
+}

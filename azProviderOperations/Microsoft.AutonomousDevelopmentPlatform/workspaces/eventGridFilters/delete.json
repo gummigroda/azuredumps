@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid filters",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Event Grid filter for Workspace",
+  "Description": "Delete Event Grid filters",
+  "IsDataAction": false
+}

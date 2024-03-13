@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/unregister/action",
+  "OperationName": "Unregisters the Microsoft.Confluent Resource Provider",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Microsoft.Confluent resource provider",
+  "IsDataAction": false
+}

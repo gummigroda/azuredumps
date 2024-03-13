@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/jobs/imports/read",
+  "OperationName": "Read Bulk Import Job",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Bulk Import Job",
+  "Description": "Read any Bulk Import Job",
+  "IsDataAction": true
+}

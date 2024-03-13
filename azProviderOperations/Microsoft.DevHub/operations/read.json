@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevHub/operations/read",
+  "OperationName": "Read Operations",
+  "ProviderNamespace": "Microsoft Developer Hub",
+  "ResourceName": "Available DevHub Service Operations",
+  "Description": "Lists operations available on Microsoft.DevHub resource provider",
+  "IsDataAction": false
+}

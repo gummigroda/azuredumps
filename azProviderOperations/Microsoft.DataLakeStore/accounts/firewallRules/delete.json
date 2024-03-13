@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/firewallRules/delete",
+  "OperationName": "Delete Firewall Rule",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Firewall Rule",
+  "Description": "Delete a firewall rule.",
+  "IsDataAction": false
+}

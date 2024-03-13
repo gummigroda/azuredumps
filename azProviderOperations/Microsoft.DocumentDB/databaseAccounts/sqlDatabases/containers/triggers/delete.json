@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/delete",
+  "OperationName": "Delete SQL trigger",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Tirgger",
+  "Description": "Delete a SQL trigger.",
+  "IsDataAction": false
+}

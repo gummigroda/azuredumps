@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/queryExpressRoutePortsBandwidth/action",
+  "OperationName": "Query ExpressRoute Ports Bandwidth",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "Queries ExpressRoute Ports Bandwidth",
+  "IsDataAction": false
+}

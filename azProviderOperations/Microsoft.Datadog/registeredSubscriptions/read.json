@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/registeredSubscriptions/read",
+  "OperationName": "Get registered subscriptions",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Get registered subscription details",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/unregister/action",
+  "OperationName": "Unregister the Microsoft.Easm",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Easm",
+  "IsDataAction": false
+}

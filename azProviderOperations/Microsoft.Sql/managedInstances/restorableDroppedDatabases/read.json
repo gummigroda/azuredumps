@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/restorableDroppedDatabases/read",
+  "OperationName": "List/Get Azure SQL Managed Instance restorable dropped databases.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Restorable Dropped Managed Database",
+  "Description": "Returns a list of restorable dropped managed databases.",
+  "IsDataAction": false
+}

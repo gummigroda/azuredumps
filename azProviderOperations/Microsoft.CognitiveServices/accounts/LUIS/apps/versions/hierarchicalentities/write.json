@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/hierarchicalentities/write",
+  "OperationName": "Create or Update hierarchical entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hierarchical entities",
+  "Description": "Adds a hierarchical entity extractor to the application version.\r\nUpdates the name and children of a hierarchical entity extractor model.",
+  "IsDataAction": true
+}

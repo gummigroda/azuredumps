@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteServiceProviders/read",
+  "OperationName": "Get Express Route Service Provider",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Service Provider",
+  "Description": "Gets Express Route Service Providers",
+  "IsDataAction": false
+}

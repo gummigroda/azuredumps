@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/token/read",
+  "OperationName": "Get Web Apps Functions Token",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Functions Token",
+  "Description": "Get Web Apps Functions Token.",
+  "IsDataAction": false
+}

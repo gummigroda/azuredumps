@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/autoscaling/horizontalpodautoscalers/read",
+  "OperationName": "Gets/List horizontalpodautoscalers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "horizontalpodautoscalers",
+  "Description": "Reads horizontalpodautoscalers",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/addNetworkFabricControllerEndPoints/action",
+  "OperationName": "ArtifactStores_AddNetworkFabricControllerEndPoints",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Add network fabric controllers to artifact stores.",
+  "IsDataAction": false
+}

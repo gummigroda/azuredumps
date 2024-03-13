@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/SecurityIncident/Read",
+  "OperationName": "Read SecurityIncident data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "SecurityIncident",
+  "Description": "Read data from the SecurityIncident table",
+  "IsDataAction": false
+}

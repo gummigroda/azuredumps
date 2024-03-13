@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppPlatformContainerEventLogs/read",
+  "OperationName": "Read AppPlatformContainerEventLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppPlatformContainerEventLogs",
+  "Description": "Read data from the AppPlatformContainerEventLogs table",
+  "IsDataAction": false
+}

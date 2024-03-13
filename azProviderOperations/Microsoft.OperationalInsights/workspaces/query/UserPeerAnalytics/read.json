@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UserPeerAnalytics/read",
+  "OperationName": "Read UserPeerAnalytics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UserPeerAnalytics",
+  "Description": "Read data from the UserPeerAnalytics table",
+  "IsDataAction": false
+}

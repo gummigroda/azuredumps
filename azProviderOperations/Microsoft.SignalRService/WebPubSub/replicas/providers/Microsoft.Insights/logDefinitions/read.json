@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/replicas/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read WebPubSub replica Logs Definitions",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/replicas",
+  "Description": "Get the available logs of a WebPubSub replica resource",
+  "IsDataAction": false
+}

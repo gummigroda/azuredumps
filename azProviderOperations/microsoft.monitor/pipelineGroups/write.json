@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/pipelineGroups/write",
+  "OperationName": "Create or Update Pipeline Groups",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Pipeline Group",
+  "IsDataAction": false
+}

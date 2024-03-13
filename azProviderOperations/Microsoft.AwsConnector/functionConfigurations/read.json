@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/functionConfigurations/read",
+  "OperationName": "FunctionConfigurations_Get",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "functionConfigurations",
+  "Description": "Get a FunctionConfigurations",
+  "IsDataAction": false
+}

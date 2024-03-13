@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/datascanners/delete",
+  "OperationName": "Delete datascanners",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Datascanners",
+  "Description": "Deletes the datascanners for the scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/restorableDroppedDatabases/read",
+  "OperationName": "Get a list of restorable dropped databases",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Restorable Dropped Database",
+  "Description": "Get a list of databases that were dropped on a given server that are still within retention policy.",
+  "IsDataAction": false
+}

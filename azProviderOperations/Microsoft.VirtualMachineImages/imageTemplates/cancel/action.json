@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/cancel/action",
+  "OperationName": "Cancel a running image build",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template",
+  "Description": "Cancel a running image build",
+  "IsDataAction": false
+}

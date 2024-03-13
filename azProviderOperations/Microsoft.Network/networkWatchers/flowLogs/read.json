@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/flowLogs/read",
+  "OperationName": "Get Flow Log",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Flow Log",
+  "Description": "Get Flow Log details",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/register/action",
+  "OperationName": "Registers the Media Services Resource Provider",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Media Services resource provider and enables the creation of Media Services accounts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/diagnosticsettings/read",
+  "OperationName": "Get Virtual Machine Diagnostics Settings",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Diagnostics Settings",
+  "Description": "Get virtual machine diagnostics settings.",
+  "IsDataAction": false
+}

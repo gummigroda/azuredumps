@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipPrefixLists/read",
+  "OperationName": "IpPrefixLists_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipPrefixLists",
+  "Description": "Implements IpPrefixLists list by subscription GET method.",
+  "IsDataAction": false
+}

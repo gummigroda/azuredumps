@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/advisors/read",
+  "OperationName": "Return an advisor",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Advisors",
+  "Description": "Return an advisor",
+  "IsDataAction": false
+}

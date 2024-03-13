@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/linkedServers/delete",
+  "OperationName": "Delete Redis Cache Linked Server",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Linked Servers of a Redis Cache",
+  "Description": "Delete Linked Server from a Redis Cache",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DatabricksAccounts/Read",
+  "OperationName": "Read DatabricksAccounts data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DatabricksAccounts",
+  "Description": "Read data from the DatabricksAccounts table",
+  "IsDataAction": false
+}

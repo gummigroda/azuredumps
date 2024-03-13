@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusterManagers/delete",
+  "OperationName": "ClusterManagers_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusterManagers",
+  "Description": "Delete the provided cluster manager.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/mqttBridgeConnector/topicMap/write",
+  "OperationName": "MqttBridgeTopicMap_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/mqttBridgeConnector/topicMap",
+  "Description": "Update a MqttBridgeTopicMapResource",
+  "IsDataAction": false
+}

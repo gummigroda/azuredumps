@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/batch/cronjobs/delete",
+  "OperationName": "Deletes/DeletesCollection cronjobs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "cronjobs",
+  "Description": "Deletes cronjobs",
+  "IsDataAction": true
+}

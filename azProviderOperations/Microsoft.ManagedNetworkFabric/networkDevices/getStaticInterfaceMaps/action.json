@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/getStaticInterfaceMaps/action",
+  "OperationName": "NetworkDevices_getStaticInterfaceMaps",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices",
+  "Description": "Get the static interface maps for the given Network Device.",
+  "IsDataAction": false
+}

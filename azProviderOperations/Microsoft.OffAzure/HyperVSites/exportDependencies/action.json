@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/exportDependencies/action",
+  "OperationName": "Export Machine Dependency Map",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Export the machine Dependency map information of entire HyperV site machine inventory",
+  "IsDataAction": false
+}

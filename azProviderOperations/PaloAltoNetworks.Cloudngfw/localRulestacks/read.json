@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/read",
+  "OperationName": "LocalRulestacks_Get",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "Get a LocalRulestackResource",
+  "IsDataAction": false
+}

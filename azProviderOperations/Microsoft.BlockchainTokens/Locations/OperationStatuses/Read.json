@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/Locations/OperationStatuses/Read",
+  "OperationName": "Gets/List OperationStatuses resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "OperationStatuses",
+  "Description": "Read OperationStatuses",
+  "IsDataAction": false
+}

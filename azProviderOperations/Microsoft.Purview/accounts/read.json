@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/read",
+  "OperationName": "Read account resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "Read account resource for Microsoft Purview provider.",
+  "IsDataAction": false
+}

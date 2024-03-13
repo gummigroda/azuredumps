@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ProactiveDetectionConfigs/Write",
+  "OperationName": "Application Insights proactive detection configuration read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights proactive detection configuration",
+  "Description": "Writing Application Insights proactive detection configuration",
+  "IsDataAction": false
+}

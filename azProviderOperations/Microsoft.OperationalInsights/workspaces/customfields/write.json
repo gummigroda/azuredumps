@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/customfields/write",
+  "OperationName": "Create or update a custom field",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Custom Fields",
+  "Description": "Create or update a custom field.",
+  "IsDataAction": false
+}

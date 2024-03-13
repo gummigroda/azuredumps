@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnyBuild/clusters/build/write",
+  "OperationName": "Build on agents",
+  "ProviderNamespace": "Microsoft AnyBuild",
+  "ResourceName": "Clusters",
+  "Description": "Build commands on agents in a specific cluster.",
+  "IsDataAction": true
+}

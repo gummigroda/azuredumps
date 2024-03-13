@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/importPipelines/read",
+  "OperationName": "Get import pipeline or List import pipelines",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ImportPipelines",
+  "Description": "Gets the properties of the specified import pipeline or lists all the import pipelines for the specified container registry.",
+  "IsDataAction": false
+}

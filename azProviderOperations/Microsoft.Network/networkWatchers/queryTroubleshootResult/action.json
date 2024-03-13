@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/queryTroubleshootResult/action",
+  "OperationName": "Query Results Of Troubleshoot",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Gets the troubleshooting result from the previously run or currently running troubleshooting operation.",
+  "IsDataAction": false
+}

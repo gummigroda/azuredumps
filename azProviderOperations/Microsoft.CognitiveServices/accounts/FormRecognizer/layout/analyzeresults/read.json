@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/layout/analyzeresults/read",
+  "OperationName": "Get Analyze Layout Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Analysis Results",
+  "Description": "Track the progress and obtain the result of the analyze layout operation",
+  "IsDataAction": true
+}

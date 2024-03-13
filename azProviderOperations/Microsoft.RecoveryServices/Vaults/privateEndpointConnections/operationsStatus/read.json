@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnections/operationsStatus/read",
+  "OperationName": "Returns the operation status for a private endpoint connection.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Returns the operation status for a private endpoint connection.",
+  "IsDataAction": false
+}

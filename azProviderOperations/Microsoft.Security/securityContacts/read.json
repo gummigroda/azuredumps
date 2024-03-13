@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityContacts/read",
+  "OperationName": "Get security contact",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Contact",
+  "Description": "Gets the security contact",
+  "IsDataAction": false
+}

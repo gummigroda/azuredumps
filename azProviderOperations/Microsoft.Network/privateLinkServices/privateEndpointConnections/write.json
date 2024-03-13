@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/privateEndpointConnections/write",
+  "OperationName": "Create or update an private endpoint connection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Creates a new private endpoint connection, or updates an existing private endpoint connection.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/skus/read",
+  "OperationName": "Get Machine Learning Commitment Plan SKUs",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Commitment Plan Associations",
+  "Description": "Get Machine Learning Commitment Plan SKUs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/slots/evaluations/result/read",
+  "OperationName": "Get evaluations results for slot",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "result*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

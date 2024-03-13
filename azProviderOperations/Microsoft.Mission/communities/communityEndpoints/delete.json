@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/communityEndpoints/delete",
+  "OperationName": "CommunityEndpoints_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/communityEndpoints",
+  "Description": "Delete a CommunityEndpointResource",
+  "IsDataAction": false
+}

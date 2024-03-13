@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/TSIIngress/Read",
+  "OperationName": "Read TSIIngress data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "TSIIngress",
+  "Description": "Read data from the TSIIngress table",
+  "IsDataAction": false
+}

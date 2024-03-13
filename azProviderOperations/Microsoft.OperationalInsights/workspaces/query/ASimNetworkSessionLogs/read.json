@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ASimNetworkSessionLogs/read",
+  "OperationName": "Read ASimNetworkSessionLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ASimNetworkSessionLogs",
+  "Description": "Read data from the ASimNetworkSessionLogs table",
+  "IsDataAction": false
+}

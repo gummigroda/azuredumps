@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/waitStatistics/read",
+  "OperationName": "List Wait Statistics for an instance",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Wait Statistics",
+  "Description": "Return wait statistics for an instance",
+  "IsDataAction": false
+}

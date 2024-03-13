@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SuppressionLists/write",
+  "OperationName": "SuppressionLists_CreateOrUpdate",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SuppressionLists",
+  "Description": "Add a new suppression list under the parent Domain resource or update an existing suppression list.",
+  "IsDataAction": false
+}

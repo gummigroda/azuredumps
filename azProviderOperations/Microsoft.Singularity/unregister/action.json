@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/unregister/action",
+  "OperationName": "Unregister Singularity",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "",
+  "Description": "Unregister from Singularity",
+  "IsDataAction": false
+}

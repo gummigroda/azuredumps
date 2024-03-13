@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureLargeInstance/AzureLargeInstances/delete",
+  "OperationName": "Delete AzureLargeInstance",
+  "ProviderNamespace": "Microsoft Azure Large Instance",
+  "ResourceName": "AzureLargeInstance",
+  "Description": "Delete any AzureLargeInstance",
+  "IsDataAction": false
+}

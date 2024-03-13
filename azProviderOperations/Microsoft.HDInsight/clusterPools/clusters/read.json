@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/clusters/read",
+  "OperationName": "Read HDInsight on AKS Cluster Details",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster",
+  "Description": "Get details about HDInsight on AKS Cluster",
+  "IsDataAction": false
+}

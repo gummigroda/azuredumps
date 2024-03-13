@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/locations/administratorOperationResults/read",
+  "OperationName": "Get PostgreSQL server operation results",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL server operation results",
+  "Description": "Return PostgreSQL Server administrator operation results",
+  "IsDataAction": false
+}

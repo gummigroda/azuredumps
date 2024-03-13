@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/kafkaConfigurations/write",
+  "OperationName": "Create or update Kafka Configurations",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Kafka Configurations",
+  "Description": "Create or update Kafka Configurations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/read",
+  "OperationName": "PacketCoreControlPlanes_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes",
+  "Description": "Lists all the packet core control planes in a resource group.",
+  "IsDataAction": false
+}

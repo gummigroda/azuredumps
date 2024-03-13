@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Databases/DataConnections/read",
+  "OperationName": "Read a data connections resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Data connections resource type",
+  "Description": "Reads a data connections resource.",
+  "IsDataAction": false
+}

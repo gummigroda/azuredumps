@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/unregister/action",
+  "OperationName": "Unregister Managed Services.",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "",
+  "Description": "Unregister from Managed Services.",
+  "IsDataAction": false
+}

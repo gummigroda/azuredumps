@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/certificates/read",
+  "OperationName": "Read Managed Environment Certificate",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Get a Managed Environment's Certificate",
+  "IsDataAction": false
+}

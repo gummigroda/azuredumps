@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumeTypes/delete",
+  "OperationName": "VolumeTypes_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumeTypes",
+  "Description": "Implements VolumeType DELETE method.",
+  "IsDataAction": false
+}

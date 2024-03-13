@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/configurations/write",
+  "OperationName": "Update Configuration",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Configurations",
+  "Description": "Update the value for the specified configuration",
+  "IsDataAction": false
+}

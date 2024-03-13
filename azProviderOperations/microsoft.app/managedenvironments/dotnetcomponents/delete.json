@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/dotnetcomponents/delete",
+  "OperationName": "Delete Managed Environment .NET Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment .NET Component",
+  "Description": "Delete Managed Environment .NET Component",
+  "IsDataAction": false
+}

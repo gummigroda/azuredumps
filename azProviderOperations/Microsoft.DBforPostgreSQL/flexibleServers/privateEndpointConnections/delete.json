@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections/delete",
+  "OperationName": "Delete Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL - Flexible Server Private Endpoint Connection",
+  "Description": "Deletes an existing private endpoint connection",
+  "IsDataAction": false
+}

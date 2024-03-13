@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/upgradeExtensions/action",
+  "OperationName": "Upgrade extensions on Azure Arc VMware machines",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines",
+  "Description": "Upgrade extensions on Azure Arc VMware machines",
+  "IsDataAction": false
+}

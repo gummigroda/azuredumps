@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/write",
+  "OperationName": "Create/Update Volume",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volumes",
+  "Description": "Create/Update Volume",
+  "IsDataAction": false
+}

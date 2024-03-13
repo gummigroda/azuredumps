@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/package/versions/gzip/read",
+  "OperationName": "apps - PackageTrainedApplicationAsGZip",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Get GZip package for trained application version",
+  "Description": "Packages trained LUIS application as GZip",
+  "IsDataAction": true
+}

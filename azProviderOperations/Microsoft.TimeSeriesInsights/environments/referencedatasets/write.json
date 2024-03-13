@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/referencedatasets/write",
+  "OperationName": "Create or Update Reference Data Set",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Reference Data Set",
+  "Description": "Creates a new reference data set for an environment, or updates an existing reference data set.",
+  "IsDataAction": false
+}

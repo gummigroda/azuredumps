@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/containerRegistries/write",
+  "OperationName": "Write Microsoft Azure Spring Apps container registry",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The container registry of Microsoft Azure Spring Apps",
+  "Description": "Create or update the container registry for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

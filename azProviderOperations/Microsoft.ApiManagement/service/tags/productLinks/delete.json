@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tags/productLinks/delete",
+  "OperationName": "Remove Tag-product link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tag-product links resource",
+  "Description": "Delete Tag-product link.",
+  "IsDataAction": false
+}

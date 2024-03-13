@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/register/action",
+  "OperationName": "Register Microsoft.Web resource provider",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "",
+  "Description": "Register Microsoft.Web resource provider for the subscription.",
+  "IsDataAction": false
+}

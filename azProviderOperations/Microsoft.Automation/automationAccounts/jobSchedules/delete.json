@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobSchedules/delete",
+  "OperationName": "Delete an Azure Automation job schedule",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job Schedule",
+  "Description": "Deletes an Azure Automation job schedule",
+  "IsDataAction": false
+}

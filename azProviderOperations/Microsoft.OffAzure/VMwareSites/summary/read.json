@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/summary/read",
+  "OperationName": "Get VMware site summary",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Gets the summary of a VMware site",
+  "IsDataAction": false
+}

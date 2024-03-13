@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/throughputSettings/migrateToAutoscale/action",
+  "OperationName": "Migrate Cassandra keyspace offer to autoscale",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Keyspace throughput setting",
+  "Description": "Migrate Cassandra keyspace offer to autoscale.",
+  "IsDataAction": false
+}

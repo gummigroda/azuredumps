@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/subscriptions/resourceGroups/delete",
+  "OperationName": "删除资源组",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "资源组",
+  "Description": "删除资源组及其所有资源。",
+  "IsDataAction": false
+}

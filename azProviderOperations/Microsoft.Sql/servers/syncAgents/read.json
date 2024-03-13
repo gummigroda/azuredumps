@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/syncAgents/read",
+  "OperationName": "List/Get Azure SQL Sync Agent(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Return the list of sync agents or gets the properties for the specified sync agent.",
+  "IsDataAction": false
+}

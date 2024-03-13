@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CheckNameAvailability/action",
+  "OperationName": "Check if a name is available",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "",
+  "Description": "Checks if a name is available",
+  "IsDataAction": false
+}

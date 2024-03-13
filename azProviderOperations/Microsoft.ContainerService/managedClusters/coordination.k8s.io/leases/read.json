@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/coordination.k8s.io/leases/read",
+  "OperationName": "Gets/List leases resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Leases",
+  "Description": "Reads leases",
+  "IsDataAction": true
+}

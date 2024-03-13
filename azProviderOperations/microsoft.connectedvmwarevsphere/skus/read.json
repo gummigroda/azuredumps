@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedvmwarevsphere/skus/read",
+  "OperationName": "Get skus.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "skus",
+  "Description": "Get skus.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/read",
+  "OperationName": "List/Get Azure SQL Server(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server",
+  "Description": "Return the list of servers or gets the properties for the specified server.",
+  "IsDataAction": false
+}

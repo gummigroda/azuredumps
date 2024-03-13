@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/privateEndpointConnections/write",
+  "OperationName": "Approve or Reject Azure SQL Database Private Endpoint Coonnection",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection",
+  "Description": "Approves or rejects an existing private endpoint connection",
+  "IsDataAction": false
+}

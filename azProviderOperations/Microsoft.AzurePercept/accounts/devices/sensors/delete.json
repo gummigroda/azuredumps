@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/devices/sensors/delete",
+  "OperationName": "Sensors_Delete",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/devices/sensors",
+  "Description": "delete sensors",
+  "IsDataAction": false
+}

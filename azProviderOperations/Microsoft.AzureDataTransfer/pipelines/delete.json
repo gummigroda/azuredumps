@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/delete",
+  "OperationName": "Pipelines_Delete",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Deletes the pipeline resource.",
+  "IsDataAction": false
+}

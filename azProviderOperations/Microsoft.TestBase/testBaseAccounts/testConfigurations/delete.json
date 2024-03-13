@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testConfigurations/delete",
+  "OperationName": "TestConfiguration_Delete",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testConfigurations",
+  "Description": "Delete a test configuration.",
+  "IsDataAction": false
+}

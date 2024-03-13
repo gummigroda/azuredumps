@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemagroups/delete",
+  "OperationName": "Delete SchemaGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "SchemaGroup",
+  "Description": "Operation to delete SchemaGroup Resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/delete",
+  "OperationName": "Delete Gremlin graph",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Graph",
+  "Description": "Delete a Gremlin graph.",
+  "IsDataAction": false
+}

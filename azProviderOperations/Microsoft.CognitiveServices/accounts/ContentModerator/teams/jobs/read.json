@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/jobs/read",
+  "OperationName": "Job - Get",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage jobs.",
+  "Description": "Get the Job Details for a Job Id.",
+  "IsDataAction": true
+}

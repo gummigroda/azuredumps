@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/CheckResourceUsage/action",
+  "OperationName": "CheckResourceUsage",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

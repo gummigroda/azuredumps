@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/privateEndpointConnectionProxies/delete",
+  "OperationName": "Deletes private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Deletes private endpoint connection proxy for the tenant.",
+  "IsDataAction": false
+}

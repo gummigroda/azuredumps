@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/models/files/read",
+  "OperationName": "Get Model Files",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Model Files",
+  "Description": "Returns files for this model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/managedGateways/delete",
+  "OperationName": "ManagedGateways_Delete",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/managedGateways",
+  "Description": "Remove a gateway resource.",
+  "IsDataAction": false
+}

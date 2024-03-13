@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/items/read",
+  "OperationName": "Get All Items By listId|Get Item By itemId and listId*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "items*",
+  "Description": "Get All Items By listId\r\nGet Item By itemId and listId*",
+  "IsDataAction": true
+}

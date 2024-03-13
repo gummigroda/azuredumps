@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/privateEndpointConnections/read",
+  "OperationName": "Get Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Get Private Endpoint Connection",
+  "IsDataAction": false
+}

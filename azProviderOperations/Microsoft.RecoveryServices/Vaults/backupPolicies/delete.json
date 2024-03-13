@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupPolicies/delete",
+  "OperationName": "Delete Protection Policy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Policies",
+  "Description": "Delete a Protection Policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/read",
+  "OperationName": "List/Get Storage Account(s)",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Returns the list of storage accounts or gets the properties for the specified storage account.",
+  "IsDataAction": false
+}

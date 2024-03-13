@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/models/resourceTypes/resources/insightAttachments/list/action",
+  "OperationName": "List AgFoodPlatform insight attachment resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform insight attachments",
+  "Description": "List(s) existing AgFoodPlatform insight attachment resource(s).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/Locations/Delete",
+  "OperationName": "Deletes Locations resource",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "Locations",
+  "Description": "Deletes Locations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/services/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/services/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "CosmosDB Service Reosurce",
+  "Description": "Writes a CosmosDB Service Resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/agentPools/delete",
+  "OperationName": "AgentPools_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters/agentPools",
+  "Description": "Delete the provided Kubernetes cluster agent pool.",
+  "IsDataAction": false
+}

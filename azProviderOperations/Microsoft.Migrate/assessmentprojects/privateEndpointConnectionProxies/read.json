@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/privateEndpointConnectionProxies/read",
+  "OperationName": "Get Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Get Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

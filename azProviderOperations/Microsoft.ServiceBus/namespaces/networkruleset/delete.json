@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/networkruleset/delete",
+  "OperationName": "Delete VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Network Rule Set",
+  "Description": "Delete VNET Rule Resource",
+  "IsDataAction": false
+}

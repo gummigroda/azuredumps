@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/customprebuiltdomains/write",
+  "OperationName": "Add custom prebuilt domain",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt domains",
+  "Description": "Adds a customizable prebuilt domain along with all of its models to this application version.",
+  "IsDataAction": true
+}

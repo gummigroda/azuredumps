@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/listIpConfigurations/action",
+  "OperationName": "List IP Configurations with ApplicationSecurityGroup",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Lists IP Configurations in the ApplicationSecurityGroup",
+  "IsDataAction": false
+}

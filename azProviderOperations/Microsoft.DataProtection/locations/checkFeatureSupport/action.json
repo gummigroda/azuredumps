@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/locations/checkFeatureSupport/action",
+  "OperationName": "Validate if a feature is supported",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Vaults",
+  "Description": "Validates if a feature is supported",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/locations/usages/read",
+  "OperationName": "Usage report for aml compute resources in a subscription",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Locations",
+  "Description": "Usage report for aml compute resources in a subscription",
+  "IsDataAction": false
+}

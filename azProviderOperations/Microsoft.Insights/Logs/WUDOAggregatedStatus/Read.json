@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WUDOAggregatedStatus/Read",
+  "OperationName": "Read WUDOAggregatedStatus data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WUDOAggregatedStatus",
+  "Description": "Read data from the WUDOAggregatedStatus table",
+  "IsDataAction": false
+}

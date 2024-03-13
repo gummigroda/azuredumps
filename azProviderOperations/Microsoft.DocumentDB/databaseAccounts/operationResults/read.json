@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/operationResults/read",
+  "OperationName": "Read operation status",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Read status of the asynchronous operation",
+  "IsDataAction": false
+}

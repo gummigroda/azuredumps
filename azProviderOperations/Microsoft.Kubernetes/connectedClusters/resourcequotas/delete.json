@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/resourcequotas/delete",
+  "OperationName": "Deletes/DeletesCollection resourcequotas resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "resourcequotas",
+  "Description": "Deletes resourcequotas",
+  "IsDataAction": true
+}

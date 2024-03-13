@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/jobs/delete/read",
+  "OperationName": "Read Bulk Delete Job",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Bulk Delete Job",
+  "Description": "Read any Bulk Delete Job",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/replicas/read",
+  "OperationName": "Manage SignalR replica(read-only)",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/replicas",
+  "Description": "View the SignalR replica's settings and configurations in the management portal or through API",
+  "IsDataAction": false
+}

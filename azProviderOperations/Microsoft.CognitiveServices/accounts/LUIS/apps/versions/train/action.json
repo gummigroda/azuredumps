@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/train/action",
+  "OperationName": "Train version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Sends a training request for a version of a specified LUIS application.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/softwareUpdateConfigurationMachineRuns/read",
+  "OperationName": "Read an Azure Automation Software Update Configuration Machine Run",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Software Update Configuration Machine Run",
+  "Description": "Gets an Azure Automation Software Update Configuration Machine Run",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppTraces/Read",
+  "OperationName": "Read AppTraces data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppTraces",
+  "Description": "Read data from the AppTraces table",
+  "IsDataAction": false
+}

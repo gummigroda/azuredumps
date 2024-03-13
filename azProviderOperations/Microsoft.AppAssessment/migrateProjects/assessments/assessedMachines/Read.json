@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/assessments/assessedMachines/Read",
+  "OperationName": "Read assessedMachines resources in an assessment",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/assessments/assessedMachines",
+  "Description": "Read assessedMachines resources in an assessment",
+  "IsDataAction": false
+}

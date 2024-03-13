@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/write",
+  "OperationName": "Write PartnerNamespace",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerNamespaces",
+  "Description": "Create or update a partner namespace",
+  "IsDataAction": false
+}

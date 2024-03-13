@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/schedules/read",
+  "OperationName": "Gets schedule in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Schedules",
+  "Description": "Gets schedule in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

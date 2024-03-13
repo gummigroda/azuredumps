@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/hardDelete/action",
+  "OperationName": "Hard Delete",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Hard Delete (including version history).",
+  "IsDataAction": true
+}

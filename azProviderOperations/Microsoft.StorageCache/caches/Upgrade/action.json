@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/Upgrade/action",
+  "OperationName": "Upgrade cache software",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Upgrades OS software for the cache",
+  "IsDataAction": false
+}

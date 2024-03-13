@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/webappAssessments/delete",
+  "OperationName": "Delete WebApp Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Resource",
+  "Description": "Deletes an WebApp assessment",
+  "IsDataAction": false
+}

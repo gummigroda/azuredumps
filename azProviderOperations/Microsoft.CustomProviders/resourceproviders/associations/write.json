@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/associations/write",
+  "OperationName": "Write association",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Associations",
+  "Description": "This is used for internal purposes.",
+  "IsDataAction": false
+}

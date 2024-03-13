@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/tagDescriptions/write",
+  "OperationName": "Create/Change Tag metadata",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tags descriptions",
+  "Description": "Create/Update tag description in scope of the Api.",
+  "IsDataAction": false
+}

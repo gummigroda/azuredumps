@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/administrators/write",
+  "OperationName": "Create/Update Administrator of PostgreSQL server.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Administrator of PostgreSQL server.",
+  "Description": "Creates or updates PostgreSQL server administrator with the specified parameters.",
+  "IsDataAction": false
+}

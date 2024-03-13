@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/devices/join/action",
+  "OperationName": "Join Hybrid Network device",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "devices",
+  "Description": "Joins a HybridNetwork device",
+  "IsDataAction": false
+}

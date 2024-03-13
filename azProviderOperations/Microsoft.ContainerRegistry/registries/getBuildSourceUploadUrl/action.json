@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/getBuildSourceUploadUrl/action",
+  "OperationName": "Get build source upload url location.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets the upload location for the user to be able to upload the source.",
+  "IsDataAction": false
+}

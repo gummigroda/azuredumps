@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/throughputSettings/migrateToManualThroughput/action",
+  "OperationName": "Migrate MongoDB collection offer to to manual throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB collection throughput setting",
+  "Description": "Migrate MongoDB collection offer to to manual throughput.",
+  "IsDataAction": false
+}

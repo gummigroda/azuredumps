@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/bgpPeers/write",
+  "OperationName": "BgpPeers_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "bgpPeers",
+  "Description": "Create a BgpPeer",
+  "IsDataAction": false
+}

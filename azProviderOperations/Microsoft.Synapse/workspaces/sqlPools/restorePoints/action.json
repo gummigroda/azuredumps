@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/restorePoints/action",
+  "OperationName": "Create SQL Analytics pool Restore Point.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pools",
+  "Description": "Create a SQL Analytics pool Restore Point.",
+  "IsDataAction": false
+}

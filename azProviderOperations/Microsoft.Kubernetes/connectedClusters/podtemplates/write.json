@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/podtemplates/write",
+  "OperationName": "Creates/Updates podtemplates resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "podtemplates",
+  "Description": "Writes podtemplates",
+  "IsDataAction": true
+}

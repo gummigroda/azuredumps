@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/capabilities/read",
+  "OperationName": "Get App Service Plans Capabilities",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Capabilities",
+  "Description": "Get App Service Plans Capabilities.",
+  "IsDataAction": false
+}

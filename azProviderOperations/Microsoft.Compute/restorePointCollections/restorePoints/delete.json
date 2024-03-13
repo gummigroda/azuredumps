@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/delete",
+  "OperationName": "Delete Restore Point",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Restore Points",
+  "Description": "Deletes the restore point",
+  "IsDataAction": false
+}

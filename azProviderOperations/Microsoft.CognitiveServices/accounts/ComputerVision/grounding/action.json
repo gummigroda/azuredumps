@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/grounding/action",
+  "OperationName": "Infer",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Perform grounding on the input image with the generated text.",
+  "IsDataAction": true
+}

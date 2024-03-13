@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/privateEndpointConnectionOperations/read",
+  "OperationName": "Read Private Endpoint Connection Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Private Endpoint Connection Operation",
+  "Description": "Read any Private Endpoint Connection Operation",
+  "IsDataAction": false
+}

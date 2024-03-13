@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/Unregister/Action",
+  "OperationName": "Unregisters Microsoft.Communication resource provider",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "",
+  "Description": "Unregisters Microsoft.Communication resource provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/privateEndpointConnections/write",
+  "OperationName": "Write PrivateEndpointConnections for topics",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnections",
+  "Description": "Write PrivateEndpointConnections for topics",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.D365CustomerInsights/instances/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic settings",
+  "ProviderNamespace": "D365CustomerInsights",
+  "ResourceName": "Instances",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

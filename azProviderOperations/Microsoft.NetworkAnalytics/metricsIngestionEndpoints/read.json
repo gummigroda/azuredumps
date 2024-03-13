@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/metricsIngestionEndpoints/read",
+  "OperationName": "MetricsIngestionEndpoints_Get",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "metricsIngestionEndpoints",
+  "Description": "Get a MetricsIngestionEndpointResources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/failoverCommit/action",
+  "OperationName": "Failover Commit Recovery Plan",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Plans",
+  "Description": "Failover Commit Recovery Plan",
+  "IsDataAction": false
+}

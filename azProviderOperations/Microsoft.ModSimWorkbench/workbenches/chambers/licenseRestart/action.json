@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/licenseRestart/action",
+  "OperationName": "chambers_LicenseRestart",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers",
+  "Description": "licenseRestart chambers",
+  "IsDataAction": false
+}

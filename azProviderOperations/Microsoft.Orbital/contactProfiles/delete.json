@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/contactProfiles/delete",
+  "OperationName": "Delete Contact Profile",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contact Profiles",
+  "Description": "Delete any Contact Profile",
+  "IsDataAction": false
+}

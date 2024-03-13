@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkRacks/write",
+  "OperationName": "NetworkRacks_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkRacks",
+  "Description": "Update certain properties of the Network Rack resource.",
+  "IsDataAction": false
+}

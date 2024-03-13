@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/rolloutTiers/read",
+  "OperationName": "RolloutTiers_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/rolloutTiers",
+  "Description": "read rolloutTiers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/NewsSearch/search/action",
+  "OperationName": "News search",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "News Search - v7",
+  "Description": "Get news articles relevant for a given query.",
+  "IsDataAction": true
+}

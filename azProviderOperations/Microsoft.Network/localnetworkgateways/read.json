@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/localnetworkgateways/read",
+  "OperationName": "Get LocalNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "LocalNetworkGateway",
+  "Description": "Gets LocalNetworkGateway",
+  "IsDataAction": false
+}

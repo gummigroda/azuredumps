@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedTransparentDataEncryptionAzureAsyncOperation/read",
+  "OperationName": "Managed database transparent data encryption operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed database transparent data encryption operation",
+  "Description": "Gets in-progress operations on managed database transparent data encryption",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/availableVMConfigurationTypes/read",
+  "OperationName": "AvailableVMConfigurationTypes_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/availableVMConfigurationTypes",
+  "Description": "List available VM configuration types",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+  "OperationName": "List of blob containers",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers",
+  "Description": "Returns list of containers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/read",
+  "OperationName": "Apps - Get application info or Get applications list|Apps_GetApplicationsList*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Gets the application info.\r\nLists all of the user applications.\r\nReturns the list of applications*",
+  "IsDataAction": true
+}

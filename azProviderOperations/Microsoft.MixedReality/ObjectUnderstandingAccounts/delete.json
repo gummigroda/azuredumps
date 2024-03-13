@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectUnderstandingAccounts/delete",
+  "OperationName": "Delete an Object Understanding account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectUnderstandingAccounts",
+  "Description": "Delete an Object Understanding account",
+  "IsDataAction": false
+}

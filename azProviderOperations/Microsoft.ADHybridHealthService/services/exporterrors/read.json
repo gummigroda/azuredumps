@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/exporterrors/read",
+  "OperationName": "Gets the export errors for a given sync service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Gets the export errors for a given sync service.",
+  "IsDataAction": false
+}

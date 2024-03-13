@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/NetworkInterfaces/Write",
+  "OperationName": "Creates/Updates network interfaces resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "NetworkInterfaces",
+  "Description": "Creates/Updates network interfaces resource",
+  "IsDataAction": false
+}

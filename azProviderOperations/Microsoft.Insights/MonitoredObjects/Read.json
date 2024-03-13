@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MonitoredObjects/Read",
+  "OperationName": "Read monitored object",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Monitored Object",
+  "Description": "Read a monitored object",
+  "IsDataAction": false
+}

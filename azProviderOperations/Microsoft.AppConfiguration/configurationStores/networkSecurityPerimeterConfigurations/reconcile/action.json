@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile Network Security Perimeter Configuration",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Network Security Perimeter Configuration",
+  "Description": "Reconcile a network security perimeter configuration under the specified configuration store.",
+  "IsDataAction": false
+}

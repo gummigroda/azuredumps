@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/caCertificates/write",
+  "OperationName": "Write CA Certificate",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "caCertificates",
+  "Description": "Create or update a CA Certificate",
+  "IsDataAction": false
+}

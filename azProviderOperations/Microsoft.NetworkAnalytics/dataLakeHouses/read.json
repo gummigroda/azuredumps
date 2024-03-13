@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataLakeHouses/read",
+  "OperationName": "Storage_Get",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataLakeHouses",
+  "Description": "Get a DataLakeHouseResources",
+  "IsDataAction": false
+}

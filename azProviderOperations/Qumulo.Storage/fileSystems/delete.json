@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/fileSystems/delete",
+  "OperationName": "FileSystems_Delete",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "fileSystems",
+  "Description": "Delete a FileSystemResource",
+  "IsDataAction": false
+}

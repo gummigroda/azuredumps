@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/tasks/download/action",
+  "OperationName": "Tasks_Download",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Download task data for the provided taskId.",
+  "IsDataAction": true
+}

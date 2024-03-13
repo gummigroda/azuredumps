@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostnamebindings/write",
+  "OperationName": "Update Web Apps Hostname Bindings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostname Bindings",
+  "Description": "Update Web Apps Hostname Bindings.",
+  "IsDataAction": false
+}

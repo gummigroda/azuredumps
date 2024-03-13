@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/skus/Read",
+  "OperationName": "Get valid IotDps Skus",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get valid IotDps Skus",
+  "IsDataAction": false
+}

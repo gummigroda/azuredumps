@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/register/action",
+  "OperationName": "Register Subscription for Compute",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.Compute resource provider",
+  "IsDataAction": false
+}

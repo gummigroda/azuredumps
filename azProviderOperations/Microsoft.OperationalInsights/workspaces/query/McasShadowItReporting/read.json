@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/McasShadowItReporting/read",
+  "OperationName": "Read McasShadowItReporting data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "McasShadowItReporting",
+  "Description": "Read data from the McasShadowItReporting table",
+  "IsDataAction": false
+}

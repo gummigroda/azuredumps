@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/targets/read",
+  "OperationName": "Gets all Targets.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Target",
+  "Description": "Gets all Targets that extend a tracked resource.",
+  "IsDataAction": false
+}

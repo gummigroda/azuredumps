@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlManagedInstances/failoverGroups/delete",
+  "OperationName": "FailoverGroups_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlManagedInstances/failoverGroups",
+  "Description": "Deletes a failover group resource",
+  "IsDataAction": false
+}

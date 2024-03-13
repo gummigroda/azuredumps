@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationNetworks/replicationNetworkMappings/delete",
+  "OperationName": "Delete Network Mappings",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Network Mappings",
+  "Description": "Delete any Network Mappings",
+  "IsDataAction": false
+}

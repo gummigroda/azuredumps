@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/machines/delete",
+  "OperationName": "Delete Server machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Delete the properties of a Server machines",
+  "IsDataAction": false
+}

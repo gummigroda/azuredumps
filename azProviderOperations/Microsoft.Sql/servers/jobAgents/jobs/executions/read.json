@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/executions/read",
+  "OperationName": "Gets a job execution",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job execution",
+  "Description": "Get a job execution",
+  "IsDataAction": false
+}

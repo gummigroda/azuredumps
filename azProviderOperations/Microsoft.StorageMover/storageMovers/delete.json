@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/delete",
+  "OperationName": "StorageMovers_Delete",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers",
+  "Description": "Deletes a Storage Mover resource.",
+  "IsDataAction": false
+}

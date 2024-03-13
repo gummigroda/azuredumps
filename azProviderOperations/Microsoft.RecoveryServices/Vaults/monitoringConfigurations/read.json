@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/monitoringConfigurations/read",
+  "OperationName": "Get configuration",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Gets the Recovery services vault notification configuration.",
+  "IsDataAction": false
+}

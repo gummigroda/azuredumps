@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/jobs/read",
+  "OperationName": "Gets the workflow",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Gets the details of the job",
+  "IsDataAction": false
+}

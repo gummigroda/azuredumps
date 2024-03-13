@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/podtemplates/read",
+  "OperationName": "Gets/List podtemplates resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Podtemplates",
+  "Description": "Reads podtemplates",
+  "IsDataAction": true
+}

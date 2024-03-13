@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/register/action",
+  "OperationName": "Register the Container Registry Resource Provider",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the container registry resource provider and enables the creation of container registries.",
+  "IsDataAction": false
+}

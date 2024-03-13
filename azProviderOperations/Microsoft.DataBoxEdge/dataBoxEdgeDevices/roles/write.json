@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/write",
+  "OperationName": "Creates or updates roles",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "roles",
+  "Description": "Creates or updates the roles",
+  "IsDataAction": false
+}

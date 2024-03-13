@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/vpnLinkConnections/sharedKey/action",
+  "OperationName": "Puts Vpn Link Connection Shared Key",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Link Connection resource",
+  "Description": "Puts Vpn Link Connection Shared Key",
+  "IsDataAction": false
+}

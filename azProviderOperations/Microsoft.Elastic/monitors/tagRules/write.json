@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/tagRules/write",
+  "OperationName": "Create/Update tag rules resource",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "TagRules",
+  "Description": "Write tag rules",
+  "IsDataAction": false
+}

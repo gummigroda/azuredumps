@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/delete",
+  "OperationName": "Delete Managed Environment Dapr Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component",
+  "Description": "Delete Managed Environment Dapr Component",
+  "IsDataAction": false
+}

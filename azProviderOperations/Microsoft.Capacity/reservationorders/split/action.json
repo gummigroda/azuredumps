@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/split/action",
+  "OperationName": "Split Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Split any Reservation",
+  "IsDataAction": false
+}

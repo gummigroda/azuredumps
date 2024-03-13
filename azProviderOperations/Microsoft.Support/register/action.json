@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/register/action",
+  "OperationName": "Registers Support Resource Provider",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "",
+  "Description": "Registers Support Resource Provider",
+  "IsDataAction": false
+}

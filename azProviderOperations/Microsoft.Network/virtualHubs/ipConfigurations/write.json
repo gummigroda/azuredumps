@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/ipConfigurations/write",
+  "OperationName": "Creates or Updates Hub IpConfiguration child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub IpConfiguration resource",
+  "Description": "Creates or Updates a Hub IpConfiguration child resource of Virtual Hub",
+  "IsDataAction": false
+}

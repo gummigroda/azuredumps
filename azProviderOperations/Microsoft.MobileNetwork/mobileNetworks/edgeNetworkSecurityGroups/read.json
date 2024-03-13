@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/edgeNetworkSecurityGroups/read",
+  "OperationName": "EdgeNetworkSecurityGroups_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/edgeNetworkSecurityGroups",
+  "Description": "Lists all Edge Network Security Groups in the mobile network.",
+  "IsDataAction": false
+}

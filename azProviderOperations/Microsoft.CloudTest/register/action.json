@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudTest/register/action",
+  "OperationName": "Registers the CloudTest Resource Provider",
+  "ProviderNamespace": "Microsoft CloudTest",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the CloudTest resource provider and enables the creation of 1ES resources.",
+  "IsDataAction": false
+}

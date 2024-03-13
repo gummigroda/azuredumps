@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resourcehealth/healthevent/Pending/action",
+  "OperationName": "Health Event Pending",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Health Event",
+  "Description": "Denotes the change in health state for the specified resource",
+  "IsDataAction": false
+}

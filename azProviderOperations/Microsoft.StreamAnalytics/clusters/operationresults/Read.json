@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/clusters/operationresults/Read",
+  "OperationName": "Read operation results for Stream Analytics Cluster",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Cluster",
+  "Description": "Read operation results for Stream Analytics Cluster",
+  "IsDataAction": false
+}

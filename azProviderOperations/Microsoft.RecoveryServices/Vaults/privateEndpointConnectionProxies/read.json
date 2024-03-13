@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnectionProxies/read",
+  "OperationName": "Get all protectable containers",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Get all protectable containers",
+  "IsDataAction": false
+}

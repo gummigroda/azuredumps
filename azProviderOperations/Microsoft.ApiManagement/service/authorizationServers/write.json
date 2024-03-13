@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationServers/write",
+  "OperationName": "Create new authorization server or Update existing authorization server",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OAuth Authorization servers",
+  "Description": "Creates new authorization server or updates an existing authorization server. or Updates the details of the authorization server specified by its identifier.",
+  "IsDataAction": false
+}

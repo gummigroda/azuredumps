@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/checkNameAvailability/read",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "checkNameAvailability",
+  "Description": "Checks if the privateCloud Name is available",
+  "IsDataAction": false
+}

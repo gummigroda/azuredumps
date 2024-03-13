@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlManagedInstances/read",
+  "OperationName": "SqlManagedInstances_Get",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlManagedInstances",
+  "Description": "Retrieves a SQL Managed Instance resource",
+  "IsDataAction": false
+}

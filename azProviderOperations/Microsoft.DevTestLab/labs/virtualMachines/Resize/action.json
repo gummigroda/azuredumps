@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/Resize/action",
+  "OperationName": "Resize Virtual Machine.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Resize Virtual Machine.",
+  "IsDataAction": false
+}

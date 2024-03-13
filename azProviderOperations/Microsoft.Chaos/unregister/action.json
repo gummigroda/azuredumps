@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/unregister/action",
+  "OperationName": "Unregisters the Chaos Resource Provider.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Chaos Resource Provider and enables the creation of Chaos resources.",
+  "IsDataAction": false
+}

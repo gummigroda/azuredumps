@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/register/action",
+  "OperationName": "Register Microsoft Policy Insights Resource Provider",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "",
+  "Description": "Registers the Microsoft Policy Insights resource provider and enables actions on it.",
+  "IsDataAction": false
+}

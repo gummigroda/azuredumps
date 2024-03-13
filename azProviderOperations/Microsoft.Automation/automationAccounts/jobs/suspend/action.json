@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobs/suspend/action",
+  "OperationName": "Suspend an Azure Automation job",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job",
+  "Description": "Suspends an Azure Automation job",
+  "IsDataAction": false
+}

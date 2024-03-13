@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/oauthProviders/delete",
+  "OperationName": "Delete AgFoodPlatform oauth providers resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform oauth providers",
+  "Description": "Deletes an existing AgFoodPlatform oauth providers resource.",
+  "IsDataAction": true
+}

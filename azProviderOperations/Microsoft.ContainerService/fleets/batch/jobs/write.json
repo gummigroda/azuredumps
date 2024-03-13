@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/batch/jobs/write",
+  "OperationName": "Creates/Updates jobs resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Jobs",
+  "Description": "Writes jobs",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/data/metrics/write",
+  "OperationName": "Write Metrics Data",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Write metrics data to any Monitoring Account",
+  "IsDataAction": true
+}

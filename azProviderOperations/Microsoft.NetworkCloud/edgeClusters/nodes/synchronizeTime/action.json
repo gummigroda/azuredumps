@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/nodes/synchronizeTime/action",
+  "OperationName": "EdgeClusterNodes_SynchronizeTime",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters/nodes",
+  "Description": "Synchronizes the time for the edge cluster node.",
+  "IsDataAction": false
+}

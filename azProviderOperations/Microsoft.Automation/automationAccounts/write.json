@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/write",
+  "OperationName": "Create or Update an Azure Automation account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Creates or updates an Azure Automation account",
+  "IsDataAction": false
+}

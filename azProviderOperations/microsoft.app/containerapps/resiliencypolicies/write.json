@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/resiliencypolicies/write",
+  "OperationName": "Create or Update App Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "App Resiliency",
+  "Description": "Create or Update App Resiliency Policy",
+  "IsDataAction": false
+}

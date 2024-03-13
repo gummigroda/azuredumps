@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/write",
+  "OperationName": "Update Project|Create Project*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Updates the project identified by the given ID.\r\nCreates a new project.*",
+  "IsDataAction": true
+}

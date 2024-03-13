@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Operations",
+  "Description": "Get Operations",
+  "IsDataAction": false
+}

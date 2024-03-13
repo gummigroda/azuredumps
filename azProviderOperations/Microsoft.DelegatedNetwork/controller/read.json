@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DelegatedNetwork/controller/read",
+  "OperationName": "Get a Controller Service instance.",
+  "ProviderNamespace": "Microsoft Delegated Network Service",
+  "ResourceName": "Microsoft Delegated Network Controller Service instance",
+  "Description": "Get a Controller Service instance.",
+  "IsDataAction": false
+}

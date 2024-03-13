@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MAOfficeAppInstance/read",
+  "OperationName": "Read MAOfficeAppInstance data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MAOfficeAppInstance",
+  "Description": "Read data from the MAOfficeAppInstance table",
+  "IsDataAction": false
+}

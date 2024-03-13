@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB User Definition",
+  "Description": "Delete a MongoDB User Definition",
+  "IsDataAction": false
+}

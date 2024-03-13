@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/openAIIntegrations/read",
+  "OperationName": "Get open AI Integration resource",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "OpenAIIntegrations",
+  "Description": "Read Open AI Integration",
+  "IsDataAction": false
+}

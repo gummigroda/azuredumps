@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/delete",
+  "OperationName": "Delete Experimentation Group",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experimentation Group Type",
+  "Description": "Deletes Experimentation Group",
+  "IsDataAction": true
+}

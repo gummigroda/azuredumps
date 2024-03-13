@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/delete",
+  "OperationName": "ServiceManagementContainers_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers",
+  "Description": "delete serviceManagementContainers",
+  "IsDataAction": false
+}

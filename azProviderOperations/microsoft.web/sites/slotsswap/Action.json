@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slotsswap/Action",
+  "OperationName": "Swap Web App Slots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Swap Web App deployment slots",
+  "IsDataAction": false
+}

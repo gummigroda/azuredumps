@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/bmcKeySets/write",
+  "OperationName": "BmcKeySets_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/bmcKeySets",
+  "Description": "Patch properties of baseboard management controller key set for the provided cluster, or update the tags associated with it. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

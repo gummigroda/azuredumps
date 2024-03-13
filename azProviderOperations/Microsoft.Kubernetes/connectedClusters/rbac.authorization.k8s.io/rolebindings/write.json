@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/rolebindings/write",
+  "OperationName": "Creates/Updates rolebindings resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "rolebindings",
+  "Description": "Writes rolebindings",
+  "IsDataAction": true
+}

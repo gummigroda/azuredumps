@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/savedsearches/schedules/actions/delete",
+  "OperationName": "Delete scheduled search actions",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Schedules",
+  "Description": "Delete scheduled search actions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/deployments/cancel/action",
+  "OperationName": "取消部署",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "部署",
+  "Description": "取消部署。",
+  "IsDataAction": false
+}

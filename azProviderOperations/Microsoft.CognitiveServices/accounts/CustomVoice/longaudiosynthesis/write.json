@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/longaudiosynthesis/write",
+  "OperationName": "Create or update a long audio synthesis.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Long audio synthesis",
+  "Description": "Create or update a long audio synthesis.",
+  "IsDataAction": true
+}

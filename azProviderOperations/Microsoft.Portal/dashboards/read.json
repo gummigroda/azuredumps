@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/dashboards/read",
+  "OperationName": "Get Dashboard",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Dashboards",
+  "Description": "Reads the dashboards for the subscription.",
+  "IsDataAction": false
+}

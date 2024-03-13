@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/topLevelDomains/listAgreements/Action",
+  "OperationName": "List Agreement action",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "TopLevelDomain",
+  "Description": "List Agreement action",
+  "IsDataAction": false
+}

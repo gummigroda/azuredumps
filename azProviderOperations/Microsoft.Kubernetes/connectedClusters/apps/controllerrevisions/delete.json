@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/controllerrevisions/delete",
+  "OperationName": "Deletes/DeletesCollection controllerrevisions resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "controllerrevisions",
+  "Description": "Deletes controllerrevisions",
+  "IsDataAction": true
+}

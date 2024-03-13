@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/updateAgentConfig/action",
+  "OperationName": "Update Azure Database Migration Service agent configuration.",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Updates Azure Database Migration Service agent configuration with provided values.",
+  "IsDataAction": false
+}

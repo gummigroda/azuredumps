@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/turnbyturn/read",
+  "OperationName": "TurnByTurn Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "TurnByTurn",
+  "Description": "Allows reading of data for TurnByTurn services.",
+  "IsDataAction": true
+}

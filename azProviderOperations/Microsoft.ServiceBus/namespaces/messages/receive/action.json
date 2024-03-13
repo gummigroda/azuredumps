@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/messages/receive/action",
+  "OperationName": "Receive messages",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Messages",
+  "Description": "Receive messages",
+  "IsDataAction": true
+}

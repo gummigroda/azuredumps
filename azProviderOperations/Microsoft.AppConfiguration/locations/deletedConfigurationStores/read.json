@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/locations/deletedConfigurationStores/read",
+  "OperationName": "Get Deleted Configuration Store or List Deleted Configuration Stores",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Deleted Configuration Store",
+  "Description": "Gets the properties of the specified deleted configuration store or lists all the deleted configuration stores under the specified subscription.",
+  "IsDataAction": false
+}

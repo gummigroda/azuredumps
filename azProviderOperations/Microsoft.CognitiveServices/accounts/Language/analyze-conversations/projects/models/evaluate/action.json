@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/models/evaluate/action",
+  "OperationName": "Evaluate model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Triggers evaluation operation on a trained model.",
+  "IsDataAction": true
+}

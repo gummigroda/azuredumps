@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/skus/read",
+  "OperationName": "Read SKU information",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Retrieves the information of Skus",
+  "IsDataAction": false
+}

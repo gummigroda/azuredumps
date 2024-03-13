@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/errorSummary/read",
+  "OperationName": "Get Error Summary for VMware site inventory",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Get Error Summary for VMware site inventory",
+  "IsDataAction": false
+}

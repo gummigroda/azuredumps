@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/login/action",
+  "OperationName": "Log in to Azure Arc Machine",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Log in to a Azure Arc machine as a regular user",
+  "IsDataAction": true
+}

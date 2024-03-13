@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/flowcontrol.apiserver.k8s.io/flowschemas/read",
+  "OperationName": "Gets/List flowschemas resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Flowschemas",
+  "Description": "Reads flowschemas",
+  "IsDataAction": true
+}

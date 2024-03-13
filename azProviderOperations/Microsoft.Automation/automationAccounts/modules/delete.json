@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/modules/delete",
+  "OperationName": "Delete an Azure Automation Powershell module",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Powershell Module",
+  "Description": "Deletes an Azure Automation Powershell module",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/unregister/action",
+  "OperationName": "Unregister the Digital Twins Resource Provider",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for the Digital Twins Resource Provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/read",
+  "OperationName": "Read Gateway",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Reads any Gateway.",
+  "IsDataAction": false
+}

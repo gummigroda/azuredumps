@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/verify/action",
+  "OperationName": "Report_Verify",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Verify the AppComplianceAutomation report health status.",
+  "IsDataAction": false
+}

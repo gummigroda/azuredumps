@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/usages/read",
+  "OperationName": "Get Virtual Network Usages",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Usage Metric",
+  "Description": "Get the IP usages for each subnet of the virtual network",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/remoteVirtualNetworkPeeringProxies/write",
+  "OperationName": "Add Or Update Remote Virtual Network Peering Proxy",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "VirtualNetworkPeeringProxy",
+  "Description": "Adds or updates the remote virtual network peering proxy.",
+  "IsDataAction": false
+}

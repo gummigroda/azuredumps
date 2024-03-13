@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/detect/action",
+  "OperationName": "Detect",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Translator Text API",
+  "Description": "Identifies the language of a piece of text.",
+  "IsDataAction": true
+}

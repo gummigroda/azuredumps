@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/updateDenyAssignment/action",
+  "OperationName": "Update deny assignment",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Update deny assignment not actions for a managed resource group of a workspace",
+  "IsDataAction": false
+}

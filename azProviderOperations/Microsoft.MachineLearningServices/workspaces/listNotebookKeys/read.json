@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/listNotebookKeys/read",
+  "OperationName": "List Azure Notebook keys for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "List Azure Notebook keys for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

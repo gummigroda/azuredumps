@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RedHatOpenShift/openShiftClusters/syncIdentityProviders/write",
+  "OperationName": "Write OpenShift cluster sync identity provider",
+  "ProviderNamespace": "Azure Red Hat OpenShift",
+  "ResourceName": "syncIdentityProviders",
+  "Description": null,
+  "IsDataAction": false
+}

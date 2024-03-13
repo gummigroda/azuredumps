@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/refresh/action",
+  "OperationName": "MySQLSites_TriggerRefresh",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites",
+  "Description": "Trigger Refresh Refresh action",
+  "IsDataAction": false
+}

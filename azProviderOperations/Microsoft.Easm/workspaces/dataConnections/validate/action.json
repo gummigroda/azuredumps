@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/dataConnections/validate/action",
+  "OperationName": "DataConnections_Validate",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Validate a data connection with a given dataConnectionName.",
+  "IsDataAction": true
+}

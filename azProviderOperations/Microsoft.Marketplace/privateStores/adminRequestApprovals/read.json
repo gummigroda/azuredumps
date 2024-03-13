@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/adminRequestApprovals/read",
+  "OperationName": "Read all request approvals details, only admins",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Request approvals",
+  "Description": "Read all request approvals details, only admins",
+  "IsDataAction": false
+}

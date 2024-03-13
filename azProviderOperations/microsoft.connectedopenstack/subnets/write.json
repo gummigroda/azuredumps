@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/subnets/write",
+  "OperationName": "Subnets_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "subnets",
+  "Description": "API to update certain properties of the Subnet resource.",
+  "IsDataAction": false
+}

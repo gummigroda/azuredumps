@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/certificates/cancelDelete/action",
+  "OperationName": "Cancel Delete Certificate",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Certificates",
+  "Description": "Cancels the failed deletion of a certificate on a Batch account",
+  "IsDataAction": false
+}

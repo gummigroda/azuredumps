@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/read",
+  "OperationName": "Read cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Gets the properties of a cache",
+  "IsDataAction": false
+}

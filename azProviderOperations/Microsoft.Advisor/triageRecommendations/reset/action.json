@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/triageRecommendations/reset/action",
+  "OperationName": "Resets triageRecommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "triageRecommendations",
+  "Description": "Reset triageRecommendations",
+  "IsDataAction": false
+}

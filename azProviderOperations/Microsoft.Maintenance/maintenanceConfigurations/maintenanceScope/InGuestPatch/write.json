@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/write",
+  "OperationName": "Create or update a maintenance configuration for InGuestPatch maintenance scope.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Create or update a maintenance configuration for InGuestPatch maintenance scope.",
+  "IsDataAction": false
+}

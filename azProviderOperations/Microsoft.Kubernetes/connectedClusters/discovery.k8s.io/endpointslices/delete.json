@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/discovery.k8s.io/endpointslices/delete",
+  "OperationName": "Deletes/DeletesCollection endpointslices resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "endpointslices",
+  "Description": "Deletes endpointslices",
+  "IsDataAction": true
+}

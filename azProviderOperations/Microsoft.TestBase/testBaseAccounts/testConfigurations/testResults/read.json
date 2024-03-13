@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/testConfigurations/testResults/read",
+  "OperationName": "TestConfigurationTestResults_List",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/testConfigurations/testResults",
+  "Description": "Lists all the Test Results of packages associated with a test configuration. Can be filtered by testPassId (specific test configuration run).",
+  "IsDataAction": false
+}

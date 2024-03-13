@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/runPlaybook/action",
+  "OperationName": "Run playbook",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entities",
+  "Description": "Run playbook on entity",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/subscriptions/action",
+  "OperationName": "app subscriptions - AssignSubscriptionIdToApp",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Assigns the subscription information to the specified application.",
+  "IsDataAction": true
+}

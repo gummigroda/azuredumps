@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartGroups/history/read",
+  "OperationName": "Read smart group history",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartGroups",
+  "Description": "Get history of the smart group",
+  "IsDataAction": false
+}

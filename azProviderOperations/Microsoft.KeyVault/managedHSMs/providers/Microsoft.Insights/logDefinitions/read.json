@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definition",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Hsm Log Definition",
+  "Description": "Gets the available logs for a Managed HSM",
+  "IsDataAction": false
+}

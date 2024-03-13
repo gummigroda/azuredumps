@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/workflows/delete",
+  "OperationName": "Workflows Delete",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Workflows",
+  "Description": "Allows deleting available workflows",
+  "IsDataAction": true
+}

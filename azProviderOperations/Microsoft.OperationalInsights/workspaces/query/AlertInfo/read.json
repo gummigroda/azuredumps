@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AlertInfo/read",
+  "OperationName": "Read AlertInfo data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AlertInfo",
+  "Description": "Read data from the AlertInfo table",
+  "IsDataAction": false
+}

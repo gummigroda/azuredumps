@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/listCredentials/action",
+  "OperationName": "List Container Registry Login Credentials",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Lists the login credentials for the specified container registry.",
+  "IsDataAction": false
+}

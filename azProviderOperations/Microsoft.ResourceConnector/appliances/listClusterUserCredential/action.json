@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/appliances/listClusterUserCredential/action",
+  "OperationName": "List User Cluster Credential",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Get an appliance cluster user credential",
+  "IsDataAction": false
+}

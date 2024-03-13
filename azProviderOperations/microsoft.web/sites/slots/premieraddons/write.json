@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/premieraddons/write",
+  "OperationName": "Update Web Apps Slots Premier Addons",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Premier Addons",
+  "Description": "Update Web Apps Slots Premier Addons.",
+  "IsDataAction": false
+}

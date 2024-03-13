@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/appliances/listKeys/action",
+  "OperationName": "List Customer User Cluster Keys",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Get an appliance cluster customer user keys",
+  "IsDataAction": false
+}

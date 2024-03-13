@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeMarketPlace/unregister/action",
+  "OperationName": "Unregister the Microsoft.EdgeMarketPlace",
+  "ProviderNamespace": "Microsoft.EdgeMarketplace",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.EdgeMarketPlace",
+  "IsDataAction": false
+}

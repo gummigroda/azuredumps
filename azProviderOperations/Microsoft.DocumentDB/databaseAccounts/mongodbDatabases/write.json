@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/write",
+  "OperationName": "Write MongoDB database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Database",
+  "Description": "Create a MongoDB database.",
+  "IsDataAction": false
+}

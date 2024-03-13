@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/hanaInstances/start/action",
+  "OperationName": "Start SAP HANA Instance",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "SAP HANA Instance",
+  "Description": "Start any SAP HANA Instance",
+  "IsDataAction": false
+}

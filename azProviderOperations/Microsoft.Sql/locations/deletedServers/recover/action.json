@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/deletedServers/recover/action",
+  "OperationName": "Recover Deleted Server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Deleted server",
+  "Description": "Recover a deleted server",
+  "IsDataAction": false
+}

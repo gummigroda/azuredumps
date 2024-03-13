@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/apiCollections/read",
+  "OperationName": "V3APICollectionOnboardingState_Get",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "apiCollections",
+  "Description": "Determine whether an APIM API Collection is onboarded to Defender for APIs. If the APIM API Collection is onboarded to Defender for APIs, the system will monitor the APIs within the APIM API Collection for intrusive behaviors and provide alerts for attacks that have been detected.",
+  "IsDataAction": false
+}

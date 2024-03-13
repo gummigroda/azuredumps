@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/connectionPolicies/write",
+  "OperationName": "Create/Update Server Connection Policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Connection Policy",
+  "Description": "Create or update a server connection policy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read keyspace(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Keyspace",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read a keyspace or list all the keyspaces. Only applicable to API types: 'cassandra'.",
+  "IsDataAction": false
+}

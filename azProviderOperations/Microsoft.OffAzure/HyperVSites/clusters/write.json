@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/clusters/write",
+  "OperationName": "Create or update Hyper-V cluster",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Clusters",
+  "Description": "Creates or updates the Hyper-V cluster",
+  "IsDataAction": false
+}

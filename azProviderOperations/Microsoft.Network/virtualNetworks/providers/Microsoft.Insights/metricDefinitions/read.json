@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read PingMesh metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh metric definition",
+  "Description": "Gets available metrics for the PingMesh",
+  "IsDataAction": false
+}

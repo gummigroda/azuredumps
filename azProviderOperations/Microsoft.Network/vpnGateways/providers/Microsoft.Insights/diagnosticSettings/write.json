@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnGateways/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update Vpn Gateway diagnostic settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Gateway diagnostic settings",
+  "Description": "Creates or updates the Vpn Gateway diagnostic settings, this operation is supplimented by insights resource provider.",
+  "IsDataAction": false
+}

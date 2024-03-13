@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/cdnwebapplicationfirewallpolicies/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic settings",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "cdnwebapplicationfirewallpolicies",
+  "Description": "Creates or updates the diagnostic settings for the resource",
+  "IsDataAction": false
+}

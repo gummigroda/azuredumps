@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/privateEndpointConnectionOperationResults/read",
+  "OperationName": "Get private endpoint connection operation status",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB private endpoint connection",
+  "Description": "Gets the result for a private endpoint connection operation",
+  "IsDataAction": false
+}

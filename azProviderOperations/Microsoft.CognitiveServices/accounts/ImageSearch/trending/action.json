@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ImageSearch/trending/action",
+  "OperationName": "Trending",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Search - v7",
+  "Description": "Get currently trending images.",
+  "IsDataAction": true
+}

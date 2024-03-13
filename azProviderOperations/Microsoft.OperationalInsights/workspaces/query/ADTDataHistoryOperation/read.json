@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADTDataHistoryOperation/read",
+  "OperationName": "Read ADTDataHistoryOperation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADTDataHistoryOperation",
+  "Description": "Read data from the ADTDataHistoryOperation table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/readyz/shutdown/read",
+  "OperationName": "Gets/List shutdown resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Readyz/Shutdown",
+  "Description": "Reads shutdown",
+  "IsDataAction": true
+}

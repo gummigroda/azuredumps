@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/assessments/machinesToAssess/Write",
+  "OperationName": "Create/update machineToAssess in an assessment within a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/assessments/machinesToAssess",
+  "Description": "Write machinesToAssess in a migrate project assessments",
+  "IsDataAction": false
+}

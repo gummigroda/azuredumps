@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/cves/read",
+  "OperationName": "Cves_ListByFirmware",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/cves",
+  "Description": "Lists CVE analysis results of a firmware.",
+  "IsDataAction": false
+}

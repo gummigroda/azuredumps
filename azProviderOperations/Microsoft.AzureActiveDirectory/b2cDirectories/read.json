@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/b2cDirectories/read",
+  "OperationName": "View B2C Directory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "B2C Directory",
+  "Description": "View B2C Directory resource",
+  "IsDataAction": false
+}

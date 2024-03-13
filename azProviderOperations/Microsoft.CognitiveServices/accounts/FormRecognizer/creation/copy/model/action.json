@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/creation/copy/model/action",
+  "OperationName": "Copy Custom Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Copy a custom Form Recognizer model from one subscription to another. Start the process by obtaining a `modelId` token from the target endpoint by using this API with `source=false` query string. Then pass the `modelId` reference in the request body along with other target resource information.",
+  "IsDataAction": true
+}

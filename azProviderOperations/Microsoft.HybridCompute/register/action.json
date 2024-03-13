@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/register/action",
+  "OperationName": "Register Subscription for Azure Arc for Servers",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft.HybridCompute Resource Provider",
+  "IsDataAction": false
+}

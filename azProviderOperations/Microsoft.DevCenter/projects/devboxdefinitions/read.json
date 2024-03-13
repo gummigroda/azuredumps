@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/devboxdefinitions/read",
+  "OperationName": "DevBoxDefinitions_GetByProject",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/devboxdefinitions",
+  "Description": "Gets a Dev Box definition configured for a project",
+  "IsDataAction": false
+}

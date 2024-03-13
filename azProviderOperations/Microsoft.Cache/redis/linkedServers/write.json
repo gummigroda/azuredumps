@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/linkedServers/write",
+  "OperationName": "Add Redis Cache Linked Server",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Linked Servers of a Redis Cache",
+  "Description": "Add Linked Server to a Redis Cache",
+  "IsDataAction": false
+}

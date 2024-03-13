@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/timeSeriesDatabaseConnections/read",
+  "OperationName": "Read Time Series Database Connection",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Time Series Database Connection",
+  "Description": "Read any time series database connection of a Digital Twins resource",
+  "IsDataAction": false
+}

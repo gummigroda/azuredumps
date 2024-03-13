@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UCClientReadinessStatus/read",
+  "OperationName": "Read UCClientReadinessStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UCClientReadinessStatus",
+  "Description": "Read data from the UCClientReadinessStatus table",
+  "IsDataAction": false
+}

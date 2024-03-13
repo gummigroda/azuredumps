@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Auto-Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Auto-Approve a private endpoint connection under the specified configuration store.",
+  "IsDataAction": false
+}

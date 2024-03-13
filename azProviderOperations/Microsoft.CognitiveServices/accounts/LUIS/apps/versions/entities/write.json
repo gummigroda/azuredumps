@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/write",
+  "OperationName": "Create or Rename simple entity|models - Update entity extractor*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entities",
+  "Description": "Adds a simple entity extractor to the application version.\r\nUpdates the name of an entity extractor.\r\nUpdates the entity extractor.*",
+  "IsDataAction": true
+}

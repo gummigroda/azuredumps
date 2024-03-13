@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/deletedManagedHsms/read",
+  "OperationName": "View Soft Deleted Managed Hsms",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "View the properties of a deleted managed hsm",
+  "IsDataAction": false
+}

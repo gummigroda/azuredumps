@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/createAndAssociatePLFilter/action",
+  "OperationName": "Create and associate private link traffic filters with Elastic Deployment",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Create and associate private link traffic filters with Elastic Deployment",
+  "IsDataAction": false
+}

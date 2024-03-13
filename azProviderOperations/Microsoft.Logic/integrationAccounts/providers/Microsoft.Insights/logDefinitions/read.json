@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Integration Account Log Definition",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Log Definition",
+  "Description": "Reads the Integration Account log definitions.",
+  "IsDataAction": false
+}

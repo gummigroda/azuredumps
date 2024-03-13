@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/joinPerimeter/action",
+  "OperationName": "Join Network Security Perimeter",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Determines if a user is allowed to associate an Azure App Configuration with a Network Security Perimeter.",
+  "IsDataAction": false
+}

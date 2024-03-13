@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/connectionPolicies/write",
+  "OperationName": "Update the connectionPolicies",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "connectionPolicies",
+  "Description": "Update the connectionPolicies to save changes.",
+  "IsDataAction": false
+}

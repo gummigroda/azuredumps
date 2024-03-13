@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/delete",
+  "OperationName": "Delete Cassandra table",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Table",
+  "Description": "Delete a Cassandra table.",
+  "IsDataAction": false
+}

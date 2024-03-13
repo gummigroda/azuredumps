@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shares/synchronizationSettings/delete",
+  "OperationName": "Delete Data Share Synchronization Setting",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Synchronization Setting",
+  "Description": "Delete a Data Share Synchronization Setting.",
+  "IsDataAction": false
+}

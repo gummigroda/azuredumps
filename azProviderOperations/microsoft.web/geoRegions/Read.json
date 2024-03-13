@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/geoRegions/Read",
+  "OperationName": "Get Geo Regions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Geo Region",
+  "Description": "Get the list of Geo regions.",
+  "IsDataAction": false
+}

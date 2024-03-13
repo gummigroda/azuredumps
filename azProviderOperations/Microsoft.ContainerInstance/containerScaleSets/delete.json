@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/delete",
+  "OperationName": "Delete Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Delete Container Scale Set",
+  "IsDataAction": false
+}

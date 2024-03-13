@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/certificates/Write",
+  "OperationName": "Create/Update certificates resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "certificates",
+  "Description": "Write certificates",
+  "IsDataAction": false
+}

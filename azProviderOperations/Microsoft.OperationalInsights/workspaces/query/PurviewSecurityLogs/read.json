@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PurviewSecurityLogs/read",
+  "OperationName": "Read PurviewSecurityLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PurviewSecurityLogs",
+  "Description": "Read data from the PurviewSecurityLogs table",
+  "IsDataAction": false
+}

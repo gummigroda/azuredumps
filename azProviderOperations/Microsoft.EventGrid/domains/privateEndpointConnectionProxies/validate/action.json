@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate PrivateEndpointConnectionProxies for domains",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Validate PrivateEndpointConnectionProxies for domains",
+  "IsDataAction": false
+}

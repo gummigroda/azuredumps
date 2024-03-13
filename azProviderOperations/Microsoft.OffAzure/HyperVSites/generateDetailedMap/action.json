@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/generateDetailedMap/action",
+  "OperationName": "Generate details HyperV coarse map",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Generate details HyperV coarse map",
+  "IsDataAction": false
+}

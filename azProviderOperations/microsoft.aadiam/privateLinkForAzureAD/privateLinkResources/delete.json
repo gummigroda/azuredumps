@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateLinkResources/delete",
+  "OperationName": "PrivateLinkResources read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "PrivateLinkResources",
+  "Description": "Delete PrivateLinkResources",
+  "IsDataAction": false
+}

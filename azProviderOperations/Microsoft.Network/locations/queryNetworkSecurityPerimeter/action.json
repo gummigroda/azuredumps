@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/queryNetworkSecurityPerimeter/action",
+  "OperationName": "Queries Network Security Perimeter by the perimeter GUID",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Queries Network Security Perimeter by the perimeter GUID",
+  "IsDataAction": false
+}

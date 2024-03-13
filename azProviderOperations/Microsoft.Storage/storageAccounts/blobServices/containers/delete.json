@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/delete",
+  "OperationName": "Delete blob container",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers",
+  "Description": "Returns the result of deleting a container",
+  "IsDataAction": false
+}

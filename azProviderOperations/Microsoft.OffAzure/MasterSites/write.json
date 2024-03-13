@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/write",
+  "OperationName": "Create or update Master site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Master Site",
+  "Description": "Creates or updates the Master site",
+  "IsDataAction": false
+}

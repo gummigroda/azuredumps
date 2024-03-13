@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/variables/delete",
+  "OperationName": "Delete an Azure Automation variable asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Variable Asset",
+  "Description": "Deletes an Azure Automation variable asset",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/verify/action",
+  "OperationName": "Face - Verify",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Verify whether two faces belong to a same person or whether one face belongs to a person.",
+  "IsDataAction": true
+}

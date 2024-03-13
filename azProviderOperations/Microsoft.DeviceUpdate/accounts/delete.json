@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/delete",
+  "OperationName": "Delete Account",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Deletes a Device Update Account",
+  "IsDataAction": false
+}

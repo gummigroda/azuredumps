@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/write",
+  "OperationName": "Creates a service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Creates a service instance in the tenant.",
+  "IsDataAction": false
+}

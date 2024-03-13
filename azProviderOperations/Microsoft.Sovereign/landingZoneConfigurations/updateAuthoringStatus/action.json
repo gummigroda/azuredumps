@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/landingZoneConfigurations/updateAuthoringStatus/action",
+  "OperationName": "LandingZonesConfigurations_UpdateAuthoringStatus",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "landingZoneConfigurations",
+  "Description": "Provides a mechanism to update the authoring status.",
+  "IsDataAction": false
+}

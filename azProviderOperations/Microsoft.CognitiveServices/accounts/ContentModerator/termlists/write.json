@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/write",
+  "OperationName": "Term Lists - Update Details",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "termlists*",
+  "Description": "Term Lists - Update Details",
+  "IsDataAction": true
+}

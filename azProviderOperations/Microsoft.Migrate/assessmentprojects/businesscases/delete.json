@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/delete",
+  "OperationName": "Delete a Business Case",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Business case",
+  "Description": "Delete a Business Case",
+  "IsDataAction": false
+}

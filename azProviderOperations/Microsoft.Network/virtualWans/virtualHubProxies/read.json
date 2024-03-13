@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/virtualHubProxies/read",
+  "OperationName": "Get Virtual Hub proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Hub Proxy",
+  "Description": "Gets a Virtual Hub proxy definition",
+  "IsDataAction": false
+}

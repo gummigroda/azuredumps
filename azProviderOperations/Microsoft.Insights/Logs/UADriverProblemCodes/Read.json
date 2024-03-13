@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UADriverProblemCodes/Read",
+  "OperationName": "Read UADriverProblemCodes data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UADriverProblemCodes",
+  "Description": "Read data from the UADriverProblemCodes table",
+  "IsDataAction": false
+}

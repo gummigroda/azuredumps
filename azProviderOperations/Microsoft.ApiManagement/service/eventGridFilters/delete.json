@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filters",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Event Grid Filters",
+  "Description": "Delete Event Grid Filters",
+  "IsDataAction": false
+}

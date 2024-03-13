@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "read registeredSubscriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/stop/action",
+  "OperationName": "Stop Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Stops a managed cluster",
+  "IsDataAction": false
+}

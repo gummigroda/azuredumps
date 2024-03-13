@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurementCollections/write",
+  "OperationName": "Write Measurement Collections",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Measurement Collections",
+  "Description": "Create or update a Measurement Collection, e.g. add measurements to the collection",
+  "IsDataAction": true
+}

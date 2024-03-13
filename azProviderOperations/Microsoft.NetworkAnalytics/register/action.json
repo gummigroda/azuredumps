@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/register/action",
+  "OperationName": "Register the Microsoft.NetworkAnalytics",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.NetworkAnalytics",
+  "IsDataAction": false
+}

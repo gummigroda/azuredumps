@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/replicasets/write",
+  "OperationName": "Creates/Updates replicasets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicasets",
+  "Description": "Writes replicasets",
+  "IsDataAction": true
+}

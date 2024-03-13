@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/pipelineRuns/delete",
+  "OperationName": "Delete pipeline run",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/PipelineRuns",
+  "Description": "Deletes a pipeline run from a container registry.",
+  "IsDataAction": false
+}

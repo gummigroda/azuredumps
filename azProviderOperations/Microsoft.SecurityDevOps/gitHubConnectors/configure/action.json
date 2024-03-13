@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/configure/action",
+  "OperationName": "GitHubConnectors_Configure",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors",
+  "Description": "action configure",
+  "IsDataAction": false
+}

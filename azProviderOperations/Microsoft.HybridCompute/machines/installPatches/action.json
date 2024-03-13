@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/installPatches/action",
+  "OperationName": "Install patches on Azure Arc machines",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Installs patches on any Azure Arc machines",
+  "IsDataAction": false
+}

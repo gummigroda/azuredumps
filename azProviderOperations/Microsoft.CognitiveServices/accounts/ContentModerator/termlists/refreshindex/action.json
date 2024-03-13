@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/refreshindex/action",
+  "OperationName": "Term Lists - Refresh Search Index",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "termlists*",
+  "Description": "Term Lists - Refresh Search Index",
+  "IsDataAction": true
+}

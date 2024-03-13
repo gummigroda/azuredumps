@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/LAQueryLogs/read",
+  "OperationName": "Read LAQueryLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "LAQueryLogs",
+  "Description": "Read data from the LAQueryLogs table",
+  "IsDataAction": false
+}

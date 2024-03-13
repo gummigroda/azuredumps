@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/linkWorkspaces/read",
+  "OperationName": "List/Get Synapselink workspaces of database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SynapseLinkWorkspace",
+  "Description": "Return the list of synapselink workspaces for the specified database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alertsMetaData/read",
+  "OperationName": "Read alerts meta data",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "Microsoft.AlertsManagement/alertsMetaData",
+  "Description": "Get alerts meta data for the input parameter.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/register/action",
+  "OperationName": "Register the Microsoft.KubernetesRuntime",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.KubernetesRuntime",
+  "IsDataAction": false
+}

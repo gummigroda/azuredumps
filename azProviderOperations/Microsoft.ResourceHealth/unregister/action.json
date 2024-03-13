@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/unregister/action",
+  "OperationName": "Unregister with the Provider",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Microsoft ResourceHealth",
+  "IsDataAction": false
+}

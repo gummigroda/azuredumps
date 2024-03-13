@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpoints/delete",
+  "OperationName": "Delete an private endpoint.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint",
+  "Description": "Deletes an private endpoint resource.",
+  "IsDataAction": false
+}

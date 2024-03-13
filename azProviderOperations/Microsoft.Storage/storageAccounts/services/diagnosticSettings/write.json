@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/services/diagnosticSettings/write",
+  "OperationName": "Create/Update Diagnostic Settings",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Create/Update storage account diagnostic settings.",
+  "IsDataAction": false
+}

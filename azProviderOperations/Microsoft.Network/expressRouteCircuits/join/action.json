@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/join/action",
+  "OperationName": "Join Express Route Circuit",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuit",
+  "Description": "Joins an Express Route Circuit. Not alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Write a Network Security Perimeter Association Proxies resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Network Security Perimeter Association Proxies resource",
+  "Description": "Write a Network Security Perimeter Association Proxies resource",
+  "IsDataAction": false
+}

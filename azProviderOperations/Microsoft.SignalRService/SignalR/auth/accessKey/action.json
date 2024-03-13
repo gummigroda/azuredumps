@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/auth/accessKey/action",
+  "OperationName": "Generate an Access Key",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Auth",
+  "Description": "Generate an AccessKey for signing AccessTokens, the key will expire in 90 minutes by default",
+  "IsDataAction": true
+}

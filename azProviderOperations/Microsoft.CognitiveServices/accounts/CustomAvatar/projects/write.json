@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/projects/write",
+  "OperationName": "Create Project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Projects",
+  "Description": "Creates custom avatar projects.",
+  "IsDataAction": true
+}

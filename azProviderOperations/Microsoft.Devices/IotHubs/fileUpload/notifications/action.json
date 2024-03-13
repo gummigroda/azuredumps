@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/fileUpload/notifications/action",
+  "OperationName": "File Upload Notifications",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Receive, complete, or abandon file upload notifications",
+  "IsDataAction": true
+}

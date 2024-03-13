@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/read",
+  "OperationName": "Get Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Network Security Group",
+  "Description": "Gets the network security group.",
+  "IsDataAction": false
+}

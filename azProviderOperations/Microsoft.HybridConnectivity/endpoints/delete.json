@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/delete",
+  "OperationName": "Endpoints_Delete",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Deletes the endpoint access to the target resource.",
+  "IsDataAction": false
+}

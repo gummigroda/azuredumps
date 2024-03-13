@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/register/action",
+  "OperationName": "Register the Microsoft.DevAI",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.DevAI",
+  "IsDataAction": false
+}

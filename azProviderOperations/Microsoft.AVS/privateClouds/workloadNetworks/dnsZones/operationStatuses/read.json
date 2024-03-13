@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/operationStatuses/read",
+  "OperationName": "Read dnsZones operationStatuses",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dnsZones/operationStatuses",
+  "Description": "Read dnsZones operationStatuses.",
+  "IsDataAction": false
+}

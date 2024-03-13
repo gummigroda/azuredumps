@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/users/delete",
+  "OperationName": "Delete share users",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "share users",
+  "Description": "Deletes the share users",
+  "IsDataAction": false
+}

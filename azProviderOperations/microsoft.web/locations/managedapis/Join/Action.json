@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/locations/managedapis/Join/Action",
+  "OperationName": "Join Managed API",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations Managed APIs",
+  "Description": "Joins a Managed API.",
+  "IsDataAction": false
+}

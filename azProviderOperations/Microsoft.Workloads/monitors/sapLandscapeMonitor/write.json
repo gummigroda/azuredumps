@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/monitors/sapLandscapeMonitor/write",
+  "OperationName": "SapLandscapeMonitor_Create",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "monitors/sapLandscapeMonitor",
+  "Description": "Creates a SAP Landscape monitor configuration for the specified subscription, resource group, and resource name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/TopologyImpacts/Write",
+  "OperationName": "CreateTopologyImpactsresources",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "TopologyImpacts",
+  "Description": "WritesTopologyImpacts",
+  "IsDataAction": false
+}

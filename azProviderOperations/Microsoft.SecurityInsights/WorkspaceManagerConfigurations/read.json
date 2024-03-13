@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerConfigurations/read",
+  "OperationName": "Get WorkspaceManager Configurations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerConfigurations",
+  "Description": "Gets WorkspaceManager Configurations",
+  "IsDataAction": false
+}

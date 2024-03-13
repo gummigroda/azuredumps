@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/openapi/read",
+  "OperationName": "OpenAPI_Get",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Get OpenAPI (swagger) Info",
+  "Description": "Get OpenAI Info",
+  "IsDataAction": true
+}

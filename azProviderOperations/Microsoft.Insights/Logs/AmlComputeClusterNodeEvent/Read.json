@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AmlComputeClusterNodeEvent/Read",
+  "OperationName": "Read AmlComputeClusterNodeEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AmlComputeClusterNodeEvent",
+  "Description": "Read data from the AmlComputeClusterNodeEvent table",
+  "IsDataAction": false
+}

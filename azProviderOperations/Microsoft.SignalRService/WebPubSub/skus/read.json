@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/skus/read",
+  "OperationName": "List SKUs",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub",
+  "Description": "List the valid SKUs for an existing resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/reservations/delete",
+  "OperationName": "Delete Reservations",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Delete any Reservation",
+  "IsDataAction": false
+}

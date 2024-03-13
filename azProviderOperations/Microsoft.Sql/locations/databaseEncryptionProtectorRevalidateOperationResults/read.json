@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/databaseEncryptionProtectorRevalidateOperationResults/read",
+  "OperationName": "Revalidate key for azure sql database operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Revalidate key for azure sql database operation results",
+  "Description": "Revalidate key for azure sql database operation results",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Gets the diagnostic settings for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/listNetworkFabricControllerPrivateEndPoints/action",
+  "OperationName": "ArtifactStores_ListNetworkFabricControllerEndPoints",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "List network fabric controllers connected to artifact store.",
+  "IsDataAction": false
+}

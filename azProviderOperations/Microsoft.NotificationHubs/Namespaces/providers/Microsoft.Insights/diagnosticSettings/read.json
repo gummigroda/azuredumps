@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostics setting",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Namespace",
+  "Description": "Get Namespace diagnostic settings",
+  "IsDataAction": false
+}

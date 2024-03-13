@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/eventGridFilters/delete",
+  "OperationName": "Delete AgFoodPlatform Event Grid filters resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Event Grid filters",
+  "Description": "Deletes an existing AgFoodPlatform Event Grid filters resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

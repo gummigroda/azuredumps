@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate PrivateEndpointConnectionProxies for topics",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Validate PrivateEndpointConnectionProxies for topics",
+  "IsDataAction": false
+}

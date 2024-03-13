@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/monitors/sapLandscapeMonitor/read",
+  "OperationName": "SapLandscapeMonitor_Get",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "monitors/sapLandscapeMonitor",
+  "Description": "Gets properties of a SAP Landscape monitor configuration for the specified subscription, resource group, and resource name.",
+  "IsDataAction": false
+}

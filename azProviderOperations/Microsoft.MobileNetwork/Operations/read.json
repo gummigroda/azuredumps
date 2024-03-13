@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

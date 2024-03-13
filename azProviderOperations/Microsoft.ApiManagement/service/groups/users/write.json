@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/groups/users/write",
+  "OperationName": "Add user to group",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Group users",
+  "Description": "Add existing user to existing group",
+  "IsDataAction": false
+}

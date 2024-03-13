@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/privateEndpointConnections/write",
+  "OperationName": "Update a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Update a Private Endpoint Connection",
+  "IsDataAction": false
+}

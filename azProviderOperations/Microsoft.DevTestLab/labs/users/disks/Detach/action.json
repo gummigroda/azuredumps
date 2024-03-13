@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/disks/Detach/action",
+  "OperationName": "Detach and break the lease of the disk attached to the virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "disks",
+  "Description": "Detach and break the lease of the disk attached to the virtual machine.",
+  "IsDataAction": false
+}

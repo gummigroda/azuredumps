@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/connectionPoliciesAzureAsyncOperation/read",
+  "OperationName": "Gets the in progress operation of server connection policy update.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQLServer connection policy azure async operation resource.",
+  "Description": "Gets the in progress operation of server connection policy update.",
+  "IsDataAction": false
+}

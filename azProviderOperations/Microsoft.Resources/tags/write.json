@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/tags/write",
+  "OperationName": "写入标记",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "标记",
+  "Description": "更新资源上的标记，方式是将现有标记替换成或合并到一组新的标记，或者删除现有标记。",
+  "IsDataAction": false
+}

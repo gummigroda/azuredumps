@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/containers/buildlogs/read",
+  "OperationName": "Get Container Build Logs",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Get build logs for a specific container.",
+  "IsDataAction": false
+}

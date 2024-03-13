@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/read",
+  "OperationName": "Read pool resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Pools resource type",
+  "Description": "Reads a pool resource.",
+  "IsDataAction": false
+}

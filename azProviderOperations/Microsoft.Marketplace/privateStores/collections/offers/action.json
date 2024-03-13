@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/collections/offers/action",
+  "OperationName": "Get Collection Offers By Public and Subscriptions Context",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Approve all items for collection",
+  "Description": "Get Collection Offers By Public and Subscriptions Context",
+  "IsDataAction": false
+}

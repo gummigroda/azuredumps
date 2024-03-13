@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Get Network Security Perimeter Configuration or List Network Security Perimeter Configurations",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Network Security Perimeter Configuration",
+  "Description": "Get the properties of the specific network security perimeter configuration or lists all the network security perimeter configurations under the specified configuration store.",
+  "IsDataAction": false
+}

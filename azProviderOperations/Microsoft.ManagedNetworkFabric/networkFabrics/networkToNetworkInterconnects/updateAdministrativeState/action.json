@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/networkToNetworkInterconnects/updateAdministrativeState/action",
+  "OperationName": "NetworkToNetworkInterconnects_updateAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics/networkToNetworkInterconnects",
+  "Description": "Updates the Admin State.",
+  "IsDataAction": false
+}

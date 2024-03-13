@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/privateEndpointConnectionsApproval/action",
+  "OperationName": "Auto Approve PrivateEndpointConnections",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccesses",
+  "Description": "Auto Approve a Private Endpoint Connection",
+  "IsDataAction": false
+}

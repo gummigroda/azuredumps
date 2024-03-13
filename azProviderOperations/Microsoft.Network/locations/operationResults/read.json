@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/operationResults/read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Operation Result",
+  "Description": "Gets operation result of an async POST or DELETE operation",
+  "IsDataAction": false
+}

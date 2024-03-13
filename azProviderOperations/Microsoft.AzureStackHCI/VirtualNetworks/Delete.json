@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualNetworks/Delete",
+  "OperationName": "Deletes virtual networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualNetworks",
+  "Description": "Deletes virtual networks resource",
+  "IsDataAction": false
+}

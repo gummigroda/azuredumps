@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/DeidServices/Realtime/action",
+  "OperationName": "Allows acces to the realtime endpoint",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "DeidServices",
+  "Description": "Allows access to realtime the endpoint",
+  "IsDataAction": true
+}

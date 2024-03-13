@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/firewallPolicyDrafts/read",
+  "OperationName": "Get Firewall Policy Draft",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Draft",
+  "Description": "Gets a Firewall Policy Draft",
+  "IsDataAction": false
+}

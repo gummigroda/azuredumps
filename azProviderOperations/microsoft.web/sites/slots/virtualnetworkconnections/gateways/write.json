@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/virtualnetworkconnections/gateways/write",
+  "OperationName": "Update Web Apps Slots Virtual Network Connections Gateways",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Virtual Network Connections Gateways",
+  "Description": "Update Web Apps Slots Virtual Network Connections Gateways.",
+  "IsDataAction": false
+}

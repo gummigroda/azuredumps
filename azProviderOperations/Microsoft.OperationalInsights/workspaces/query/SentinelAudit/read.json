@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SentinelAudit/read",
+  "OperationName": "Read SentinelAudit data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SentinelAudit",
+  "Description": "Read data from the SentinelAudit table",
+  "IsDataAction": false
+}

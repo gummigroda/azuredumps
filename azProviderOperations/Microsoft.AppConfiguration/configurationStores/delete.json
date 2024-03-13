@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/delete",
+  "OperationName": "Delete Configuration Store",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Deletes a configuration store.",
+  "IsDataAction": false
+}

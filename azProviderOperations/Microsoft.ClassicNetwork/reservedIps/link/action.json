@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/reservedIps/link/action",
+  "OperationName": "Link Reserved Ips",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Reserved Ip",
+  "Description": "Link a reserved Ip",
+  "IsDataAction": false
+}

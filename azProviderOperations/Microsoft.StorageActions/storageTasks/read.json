@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageActions/storageTasks/read",
+  "OperationName": "Get Storage Task",
+  "ProviderNamespace": "Microsoft Storage Actions",
+  "ResourceName": "Storage Task",
+  "Description": "Gets the properties for the specified storage task",
+  "IsDataAction": false
+}

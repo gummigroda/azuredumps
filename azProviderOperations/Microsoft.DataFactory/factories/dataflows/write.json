@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/dataflows/write",
+  "OperationName": "Create or update any Data Flow.",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Flow",
+  "Description": "Create or update Data Flow",
+  "IsDataAction": false
+}

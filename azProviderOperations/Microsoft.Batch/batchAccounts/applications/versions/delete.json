@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/applications/versions/delete",
+  "OperationName": "Delete Application Package",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Application Packages",
+  "Description": "Deletes an application package",
+  "IsDataAction": false
+}

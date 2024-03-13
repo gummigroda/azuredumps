@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/alert/anomaly/configurations/write",
+  "OperationName": "Create or update anomaly alerting configuration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Anomaly alert configurations",
+  "Description": "Create or update anomaly alerting configuration",
+  "IsDataAction": true
+}

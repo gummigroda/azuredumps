@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/RunAsAccounts/read",
+  "OperationName": "Get Web App Run As Accounts For A Given Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web app run as accounts resource",
+  "Description": "Get Web App Run As Accounts For A Given Site",
+  "IsDataAction": false
+}

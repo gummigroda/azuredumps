@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/ipFilterRules/delete",
+  "OperationName": "Delete IP Filter Resource",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "IPFilter",
+  "Description": "Delete IP Filter Resource",
+  "IsDataAction": false
+}

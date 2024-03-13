@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/timeSeriesDatabaseConnections/delete",
+  "OperationName": "Delete Time Series Database Connection",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Time Series Database Connection",
+  "Description": "Delete any time series database connection of a Digital Twins resource",
+  "IsDataAction": false
+}

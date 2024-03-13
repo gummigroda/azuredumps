@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/read",
+  "OperationName": "BareMetalMachineKeySets_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/bareMetalMachineKeySets",
+  "Description": "Get bare metal machine key set of the provided cluster.",
+  "IsDataAction": false
+}

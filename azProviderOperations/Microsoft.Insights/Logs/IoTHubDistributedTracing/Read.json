@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/IoTHubDistributedTracing/Read",
+  "OperationName": "Read IoTHubDistributedTracing data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "IoTHubDistributedTracing",
+  "Description": "Read data from the IoTHubDistributedTracing table",
+  "IsDataAction": false
+}

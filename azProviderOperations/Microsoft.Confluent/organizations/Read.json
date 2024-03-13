@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/Read",
+  "OperationName": "Get/List organization resources",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Read organization",
+  "IsDataAction": false
+}

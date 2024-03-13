@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/CheckHostNameAvailability/action",
+  "OperationName": "CheckHostNameAvailability",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

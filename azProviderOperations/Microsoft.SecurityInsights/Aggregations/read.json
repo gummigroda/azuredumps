@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Aggregations/read",
+  "OperationName": "Get Aggregated Information",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Aggregations",
+  "Description": "Gets aggregated information",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/jobs/write",
+  "OperationName": "Create or Update Jobs in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Jobs",
+  "Description": "Create or Update Jobs in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/metrics/requestLatencies/read",
+  "OperationName": "List API Request Latencies At Different Timestamps Given A Time Range.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "request latencies",
+  "Description": "List API request latencies at different timestamps given a time range. Default maxpagesize is 1000.",
+  "IsDataAction": true
+}

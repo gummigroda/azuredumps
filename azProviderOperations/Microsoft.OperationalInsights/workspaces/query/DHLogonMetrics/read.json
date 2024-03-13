@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DHLogonMetrics/read",
+  "OperationName": "Read DHLogonMetrics data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DHLogonMetrics",
+  "Description": "Read data from the DHLogonMetrics table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/deletedServerAsyncOperation/read",
+  "OperationName": "Get deleted server operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Deleted server operation",
+  "Description": "Gets in-progress operations on deleted server",
+  "IsDataAction": false
+}

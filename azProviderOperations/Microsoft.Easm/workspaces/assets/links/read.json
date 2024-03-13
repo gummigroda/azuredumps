@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/assets/links/read",
+  "OperationName": "Assets_Links",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve linked asset details for the provided assetId.",
+  "IsDataAction": true
+}

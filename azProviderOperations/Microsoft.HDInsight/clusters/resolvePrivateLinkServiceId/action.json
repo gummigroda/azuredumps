@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/resolvePrivateLinkServiceId/action",
+  "OperationName": "Resolve Private Link Service ID",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Resolve Private Link Service ID for HDInsight Cluster",
+  "IsDataAction": false
+}

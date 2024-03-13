@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/linkers/listConfigurations/action",
+  "OperationName": "Linker_ListConfigurations",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "linkers",
+  "Description": "list source configurations for a linker.",
+  "IsDataAction": false
+}

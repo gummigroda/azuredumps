@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-dataverse/action",
+  "OperationName": "Query Dataverse",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Query Dataverse.",
+  "IsDataAction": true
+}

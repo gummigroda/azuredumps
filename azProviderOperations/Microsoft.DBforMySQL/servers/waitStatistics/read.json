@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/waitStatistics/read",
+  "OperationName": "Return a wait statistic",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Wait Statistics",
+  "Description": "Return a wait statistic",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/configSnapshots/delete",
+  "OperationName": "ConfigSnapshots_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/configSnapshots",
+  "Description": "Deletes the specified Mobile Packet Core Configuration Snapshot resource",
+  "IsDataAction": false
+}

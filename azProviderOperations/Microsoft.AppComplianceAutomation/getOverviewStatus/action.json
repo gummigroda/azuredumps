@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/getOverviewStatus/action",
+  "OperationName": "Reports_GetOverviewStatus",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Get the resource overview status.",
+  "IsDataAction": false
+}

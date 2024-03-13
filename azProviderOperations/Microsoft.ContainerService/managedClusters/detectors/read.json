@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/detectors/read",
+  "OperationName": "Get Managed Cluster Detector",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Cluster Detector",
+  "Description": "Get Managed Cluster Detector",
+  "IsDataAction": false
+}

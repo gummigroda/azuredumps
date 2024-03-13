@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/authorizationRules/read",
+  "OperationName": " Get Queue Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue AuthorizationRules",
+  "Description": " Get the list of Queue Authorization Rules",
+  "IsDataAction": false
+}

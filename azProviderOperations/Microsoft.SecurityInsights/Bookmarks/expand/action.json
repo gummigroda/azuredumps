@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/Bookmarks/expand/action",
+  "OperationName": "Expand on entity",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Bookmarks",
+  "Description": "Gets related entities of an entity by a specific expansion",
+  "IsDataAction": false
+}

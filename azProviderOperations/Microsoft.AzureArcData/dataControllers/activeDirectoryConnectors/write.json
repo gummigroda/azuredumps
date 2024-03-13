@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/dataControllers/activeDirectoryConnectors/write",
+  "OperationName": "ActiveDirectoryConnectors_Create",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "dataControllers/activeDirectoryConnectors",
+  "Description": "Creates or replaces an Active Directory connector resource.",
+  "IsDataAction": false
+}

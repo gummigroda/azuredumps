@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensions/replicasets/read",
+  "OperationName": "Gets/List replicasets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Replicasets",
+  "Description": "Reads replicasets",
+  "IsDataAction": true
+}

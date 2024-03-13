@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/updateStrategies/read",
+  "OperationName": "Get a fleet update strategy",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "UpdateStrategies",
+  "Description": "Get a fleet update strategy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/encryptionProtector/write",
+  "OperationName": "Update Azure SQL Server Encryption Protector",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Encryption Protector",
+  "Description": "Update the properties for the specified Server Encryption Protector.",
+  "IsDataAction": false
+}

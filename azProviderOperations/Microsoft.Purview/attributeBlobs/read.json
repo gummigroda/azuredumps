@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/attributeBlobs/read",
+  "OperationName": "Read Attribute Blob",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Attribute Blob",
+  "Description": "Read Attribute Blob.",
+  "IsDataAction": true
+}

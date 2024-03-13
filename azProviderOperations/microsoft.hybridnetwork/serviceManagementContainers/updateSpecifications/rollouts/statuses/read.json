@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/rollouts/statuses/read",
+  "OperationName": "RolloutStatuses_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications/rollouts/statuses",
+  "Description": "read statuses",
+  "IsDataAction": false
+}

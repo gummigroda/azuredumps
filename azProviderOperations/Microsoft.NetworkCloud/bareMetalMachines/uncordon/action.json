@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/uncordon/action",
+  "OperationName": "BareMetalMachines_Uncordon",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Uncordon the provided bare metal machine's Kubernetes node.",
+  "IsDataAction": false
+}

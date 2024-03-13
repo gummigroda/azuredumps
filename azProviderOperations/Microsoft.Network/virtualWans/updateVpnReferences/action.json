@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/updateVpnReferences/action",
+  "OperationName": "Update VPN reference in VirtualWan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Update VPN reference in VirtualWan",
+  "IsDataAction": false
+}

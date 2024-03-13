@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/Delete",
+  "OperationName": "Delete Namespace",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace",
+  "Description": "Delete Namespace Resource",
+  "IsDataAction": false
+}

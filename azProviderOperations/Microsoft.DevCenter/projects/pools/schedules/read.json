@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/schedules/read",
+  "OperationName": "Schedules_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools/schedules",
+  "Description": "Gets a schedule resource.",
+  "IsDataAction": false
+}

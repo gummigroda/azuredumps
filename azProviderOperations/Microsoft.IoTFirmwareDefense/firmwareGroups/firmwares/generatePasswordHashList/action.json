@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/generatePasswordHashList/action",
+  "OperationName": "Firmware_GeneratePasswordHashList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to list all password hashes for a firmware.",
+  "IsDataAction": false
+}

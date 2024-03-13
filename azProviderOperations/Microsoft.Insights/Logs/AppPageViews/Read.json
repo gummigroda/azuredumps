@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppPageViews/Read",
+  "OperationName": "Read AppPageViews data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppPageViews",
+  "Description": "Read data from the AppPageViews table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UCDOAggregatedStatus/read",
+  "OperationName": "Read UCDOAggregatedStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UCDOAggregatedStatus",
+  "Description": "Read data from the UCDOAggregatedStatus table",
+  "IsDataAction": false
+}

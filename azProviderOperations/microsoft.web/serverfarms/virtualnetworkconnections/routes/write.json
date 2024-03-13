@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/virtualnetworkconnections/routes/write",
+  "OperationName": "Update App Service Plans Virtual Network Connections Routes",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Virtual Network Connections Routes",
+  "Description": "Update App Service Plans Virtual Network Connections Routes.",
+  "IsDataAction": false
+}

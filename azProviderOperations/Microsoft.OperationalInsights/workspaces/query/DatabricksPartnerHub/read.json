@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksPartnerHub/read",
+  "OperationName": "Read DatabricksPartnerHub data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksPartnerHub",
+  "Description": "Read data from the DatabricksPartnerHub table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/metadataSchemas/write",
+  "OperationName": "Create or update metadataSchema",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "MetadataSchema",
+  "Description": "Creates or updates specified metadataSchema.",
+  "IsDataAction": false
+}

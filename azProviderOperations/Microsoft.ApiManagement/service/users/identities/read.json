@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/identities/read",
+  "OperationName": "List of user Identities.",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Get user identities list",
+  "Description": "List of all user identities.",
+  "IsDataAction": false
+}

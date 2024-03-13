@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ScheduledQueryRules/NetworkSecurityPerimeterAssociationProxies/Write",
+  "OperationName": "network security perimeter association proxy for scheduled query rules write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Network Security Perimeter Association Proxies",
+  "Description": "Writing a network security perimeter association proxy for scheduled query rules",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/delete",
+  "OperationName": "Delete Storage Sync Services",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Storage Sync Services",
+  "Description": "Delete any Storage Sync Services",
+  "IsDataAction": false
+}

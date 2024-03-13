@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/read",
+  "OperationName": "Get Azure Stack Linked Subscription",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Linked Subscription",
+  "Description": "Get the properties of an Azure Stack Linked Subscription",
+  "IsDataAction": false
+}

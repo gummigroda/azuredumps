@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipAllocations/read",
+  "OperationName": "Get IpAllocation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ip Allocation",
+  "Description": "Get The IpAllocation",
+  "IsDataAction": false
+}

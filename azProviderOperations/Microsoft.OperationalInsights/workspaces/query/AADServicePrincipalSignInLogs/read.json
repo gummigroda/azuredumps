@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADServicePrincipalSignInLogs/read",
+  "OperationName": "Read AADServicePrincipalSignInLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADServicePrincipalSignInLogs",
+  "Description": "Read data from the AADServicePrincipalSignInLogs table",
+  "IsDataAction": false
+}

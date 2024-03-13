@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/agentPools/upgradeProfiles/read",
+  "OperationName": "Get Agent Pool UpgradeProfile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Agent Pools",
+  "Description": "Gets the upgrade profile of the Agent Pool",
+  "IsDataAction": false
+}

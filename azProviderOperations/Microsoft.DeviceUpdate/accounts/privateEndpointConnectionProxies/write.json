@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Create/Update Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Endpoint Connection Proxy",
+  "Description": "Creates or updates a Device Update Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

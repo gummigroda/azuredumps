@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/registrationStates/read",
+  "OperationName": "Read Registration States",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Read Registration States",
+  "IsDataAction": true
+}

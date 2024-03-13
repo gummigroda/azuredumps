@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/clusters/Write",
+  "OperationName": "Create/update clusters resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "clusters",
+  "Description": "Writes clusters",
+  "IsDataAction": false
+}

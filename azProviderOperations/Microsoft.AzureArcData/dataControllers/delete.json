@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/dataControllers/delete",
+  "OperationName": "DataControllers_DeleteDataController",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "dataControllers",
+  "Description": "Deletes a dataController resource",
+  "IsDataAction": false
+}

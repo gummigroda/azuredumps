@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/failover/action",
+  "OperationName": "Failover Azure SQL Database Replication link.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Execute planned failover of an existing replication link.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/operations/contentgeneration-backgrounds:generate/action",
+  "OperationName": "GenerateBackground",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Generates a background from a specified query, style, and size.",
+  "IsDataAction": true
+}

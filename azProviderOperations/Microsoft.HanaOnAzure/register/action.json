@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/register/action",
+  "OperationName": "Registers the Microsoft SAP HANA on Azure Resource Provider",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft SAP HANA on Azure Resource Provider, and enables managing SAP HANA Instance and Azure Monitor for SAP Solutions resources",
+  "IsDataAction": false
+}

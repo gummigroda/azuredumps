@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/prepareMigration/action",
+  "OperationName": "Prepare Migration of a Storage Account",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Prepares migration of a storage account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/delete",
+  "OperationName": "Delete Security Admin Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Rule",
+  "Description": "Delete Security Admin Rule",
+  "IsDataAction": false
+}

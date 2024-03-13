@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/vm/delete",
+  "OperationName": "Deletes a Notebook VM",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Notebook VM",
+  "Description": "Deletes a Notebook VM",
+  "IsDataAction": false
+}

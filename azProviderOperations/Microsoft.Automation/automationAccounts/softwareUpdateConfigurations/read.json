@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/read",
+  "OperationName": "Read an Azure Automation Software Update Configuration",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Software Update Configuration",
+  "Description": "Gets an Azure Automation Software Update Configuration",
+  "IsDataAction": false
+}

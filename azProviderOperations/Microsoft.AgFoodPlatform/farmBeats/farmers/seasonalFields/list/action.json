@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/seasonalFields/list/action",
+  "OperationName": "List AgFoodPlatform seasonal field resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform seasonal fields",
+  "Description": "List(s) existing AgFoodPlatform seasonal field resource(s).",
+  "IsDataAction": true
+}

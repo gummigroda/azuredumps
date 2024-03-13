@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/SpatialAnchorsAccounts/maps/read",
+  "OperationName": "Read Map data for Spatial Anchors",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "SpatialAnchorsAccounts",
+  "Description": "Get list of existing maps and allow localizing into a map.",
+  "IsDataAction": true
+}

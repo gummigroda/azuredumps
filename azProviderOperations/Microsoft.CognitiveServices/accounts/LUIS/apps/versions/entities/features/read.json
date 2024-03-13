@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/features/read",
+  "OperationName": "models - Get entity feature relations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "features*",
+  "Description": "Gets the feature relations for an entity model.",
+  "IsDataAction": true
+}

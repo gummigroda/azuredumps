@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/prebuilts/write",
+  "OperationName": "Add prebuilt entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt entities",
+  "Description": "Adds a list of prebuilt entity extractors to the application version.",
+  "IsDataAction": true
+}

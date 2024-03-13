@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/dataExports/write",
+  "OperationName": "Upsert data export",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Data Export",
+  "Description": "Create or update data export.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Carbon/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.Carbon",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

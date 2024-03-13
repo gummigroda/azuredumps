@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorOfferings/read",
+  "OperationName": "OperatorOfferings_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorOfferings",
+  "Description": "List OperatorOffering resources by subscription ID",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/tables/migrate/action",
+  "OperationName": "Migrating a log analytics table.",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Tables",
+  "Description": "Migrating a log analytics V1 table to V2 variation.",
+  "IsDataAction": false
+}

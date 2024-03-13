@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnectionProxies",
+  "Description": "Creates or updates private endpoint connection proxy.",
+  "IsDataAction": false
+}

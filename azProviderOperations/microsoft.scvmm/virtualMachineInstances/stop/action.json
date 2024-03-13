@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ScVmm/virtualMachineInstances/stop/action",
+  "OperationName": "VirtualMachineInstances_Stop",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "The operation to power off (stop) a virtual machine instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/views/write",
+  "OperationName": "Update views",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Views",
+  "Description": "Update view.",
+  "IsDataAction": false
+}

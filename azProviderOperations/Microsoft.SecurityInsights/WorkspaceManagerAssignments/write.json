@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/WorkspaceManagerAssignments/write",
+  "OperationName": "Create WorkspaceManager Assignments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "WorkspaceManagerAssignments",
+  "Description": "Creates WorkspaceManager Assignments",
+  "IsDataAction": false
+}

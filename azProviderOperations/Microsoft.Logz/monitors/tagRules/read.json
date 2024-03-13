@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/tagRules/read",
+  "OperationName": "Get tag rules resource",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "TagRules",
+  "Description": "Read tag rules",
+  "IsDataAction": false
+}

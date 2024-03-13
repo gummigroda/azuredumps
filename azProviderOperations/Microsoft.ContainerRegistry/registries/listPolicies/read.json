@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/listPolicies/read",
+  "OperationName": "List registry policies",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Lists the policies for the specified container registry",
+  "IsDataAction": false
+}

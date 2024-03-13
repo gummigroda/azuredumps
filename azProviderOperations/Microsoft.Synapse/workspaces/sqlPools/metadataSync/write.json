@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/metadataSync/write",
+  "OperationName": "Create or Update SQL Analytics pool Metadata Sync Config",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Metadata Sync Config",
+  "Description": "Create or Update SQL Analytics pool Metadata Sync Config",
+  "IsDataAction": false
+}

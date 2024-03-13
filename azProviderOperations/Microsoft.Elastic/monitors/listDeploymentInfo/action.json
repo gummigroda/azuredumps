@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/listDeploymentInfo/action",
+  "OperationName": "List deployment info",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Lists deployment info",
+  "IsDataAction": false
+}

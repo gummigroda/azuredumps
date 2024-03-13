@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/regenerateauthkey/action",
+  "OperationName": "Regenerate Integration Runtime Authentication Keys",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Regenerates the Authentication Keys for the specified Integration Runtime.",
+  "IsDataAction": false
+}

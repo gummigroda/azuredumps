@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GuestConfiguration/guestConfigurationAssignments/write",
+  "OperationName": "Microsoft.GuestConfiguration/guestConfigurationAssignments/write",
+  "ProviderNamespace": "Microsoft Guest Configuration",
+  "ResourceName": "Microsoft.GuestConfiguration/guestConfigurationAssignments",
+  "Description": "Create new guest configuration assignment.",
+  "IsDataAction": false
+}

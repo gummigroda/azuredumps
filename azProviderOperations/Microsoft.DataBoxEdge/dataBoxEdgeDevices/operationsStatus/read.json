@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/operationsStatus/read",
+  "OperationName": "List operation status",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "operation status",
+  "Description": "Lists or gets the operation status",
+  "IsDataAction": false
+}

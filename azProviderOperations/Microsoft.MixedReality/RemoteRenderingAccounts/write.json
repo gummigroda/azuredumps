@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/write",
+  "OperationName": "Update the properties of a remote rendering account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Update the properties of a remote rendering account",
+  "IsDataAction": false
+}

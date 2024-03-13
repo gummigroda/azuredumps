@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/dictionary/lookup/action",
+  "OperationName": "Dictionary Lookup",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dictionary",
+  "Description": "Provides alternative translations for a word and a small number of idiomatic phrases. Each translation has a part-of-speech and a list of back-translations. The back-translations enable a user to understand the translation in context. The Dictionary Example operation allows further drill down to see example uses of each translation pair.",
+  "IsDataAction": true
+}

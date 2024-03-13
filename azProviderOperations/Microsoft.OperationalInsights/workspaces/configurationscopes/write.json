@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/configurationscopes/write",
+  "OperationName": "Create Configuration Scope",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Configuration Scope",
+  "Description": "Create configuration scope in a workspace.",
+  "IsDataAction": false
+}

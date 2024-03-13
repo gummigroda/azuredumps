@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/adfcdcs/read",
+  "OperationName": "Read ADF Change data capturen",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "ADF Change data capture",
+  "Description": "Reads ADF Change data capture.",
+  "IsDataAction": false
+}

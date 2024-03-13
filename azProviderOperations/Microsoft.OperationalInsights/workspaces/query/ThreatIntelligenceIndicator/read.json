@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ThreatIntelligenceIndicator/read",
+  "OperationName": "Read ThreatIntelligenceIndicator data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ThreatIntelligenceIndicator",
+  "Description": "Read data from the ThreatIntelligenceIndicator table",
+  "IsDataAction": false
+}

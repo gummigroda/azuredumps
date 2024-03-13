@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/deletedBackupInstances/read",
+  "OperationName": "List soft-deleted Backup Instances in a Backup Vault",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Deleted Backup Instance",
+  "Description": "List soft-deleted Backup Instances in a Backup Vault.",
+  "IsDataAction": false
+}

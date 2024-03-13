@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/schedules/write",
+  "OperationName": "Set Integration Account Schedule",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Schedule",
+  "Description": "Creates or updates the schedule in integration account.",
+  "IsDataAction": false
+}

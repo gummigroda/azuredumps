@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/deepPacketInspections/delete",
+  "OperationName": "DeepPacketInspections_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/deepPacketInspections",
+  "Description": "Deletes the specified Mobile Packet Core Deep Packet Inspection resource",
+  "IsDataAction": false
+}

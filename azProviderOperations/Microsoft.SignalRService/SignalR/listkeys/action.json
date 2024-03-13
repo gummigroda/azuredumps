@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/listkeys/action",
+  "OperationName": "View SignalR Access Keys",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "View the value of SignalR access keys in the management portal or through API",
+  "IsDataAction": false
+}

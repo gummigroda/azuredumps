@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/unregister/action",
+  "OperationName": "Unregister Subscription for Microsoft.AVS",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "",
+  "Description": "Unregister Subscription for Microsoft.AVS resource provider.",
+  "IsDataAction": false
+}

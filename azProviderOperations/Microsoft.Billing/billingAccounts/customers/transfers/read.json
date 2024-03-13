@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/customers/transfers/read",
+  "OperationName": "Get customer transfers",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Transfers",
+  "Description": null,
+  "IsDataAction": false
+}

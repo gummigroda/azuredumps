@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/start/action",
+  "OperationName": "Start Container App",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App",
+  "Description": "Start a Container App",
+  "IsDataAction": false
+}

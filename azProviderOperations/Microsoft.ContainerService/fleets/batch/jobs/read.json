@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/batch/jobs/read",
+  "OperationName": "Gets/List jobs resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Jobs",
+  "Description": "Reads jobs",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/collections/write",
+  "OperationName": "Write MongoDB collection",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Collection",
+  "Description": "Create or update a MongoDB collection.",
+  "IsDataAction": false
+}

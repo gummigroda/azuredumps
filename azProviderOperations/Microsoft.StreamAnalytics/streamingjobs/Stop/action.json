@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/Stop/action",
+  "OperationName": "Stop Stream Analytics Job",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job",
+  "Description": "Stop Stream Analytics Job",
+  "IsDataAction": false
+}

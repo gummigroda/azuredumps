@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/extensions/write",
+  "OperationName": "Create or Update Virtual Machine Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Extensions",
+  "Description": "Creates a new virtual machine extension or updates an existing one",
+  "IsDataAction": false
+}

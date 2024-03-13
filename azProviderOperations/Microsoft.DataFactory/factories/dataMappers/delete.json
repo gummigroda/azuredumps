@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/dataMappers/delete",
+  "OperationName": "Delete Data Mapping",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Mapping",
+  "Description": "Deletes Data Mapping.",
+  "IsDataAction": false
+}

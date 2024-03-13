@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/register/action",
+  "OperationName": "Register the Microsoft.AppPlatform resource provider",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "",
+  "Description": "Register the subscription to the Microsoft.AppPlatform resource provider",
+  "IsDataAction": false
+}

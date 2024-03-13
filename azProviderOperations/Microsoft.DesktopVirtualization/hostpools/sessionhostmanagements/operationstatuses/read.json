@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements/operationstatuses/read",
+  "OperationName": "Read operationstatuses",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhostmanagements/operationstatuses",
+  "Description": "Read operationstatuses to get statuses.",
+  "IsDataAction": false
+}

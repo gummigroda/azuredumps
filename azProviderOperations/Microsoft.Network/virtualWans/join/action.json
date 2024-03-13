@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/join/action",
+  "OperationName": "Join Virtual WAN",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Joins a Virtual WAN. Not alertable.",
+  "IsDataAction": false
+}

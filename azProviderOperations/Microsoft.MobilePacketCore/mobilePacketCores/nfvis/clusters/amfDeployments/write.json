@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/amfDeployments/write",
+  "OperationName": "AmfDeployments_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/amfDeployments",
+  "Description": "Creates or updates a Mobile Packet Core Access and Mobility Management Function deployment resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/backupPolicies/read",
+  "OperationName": "Read backup policy resource.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Backup Policy resource type",
+  "Description": "Reads a backup policy resource.",
+  "IsDataAction": false
+}

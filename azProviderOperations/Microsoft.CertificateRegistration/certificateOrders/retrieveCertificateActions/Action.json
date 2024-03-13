@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/retrieveCertificateActions/Action",
+  "OperationName": "Certificateorder actions",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "AppServiceCertificate",
+  "Description": "Retrieve the list of certificate actions",
+  "IsDataAction": false
+}

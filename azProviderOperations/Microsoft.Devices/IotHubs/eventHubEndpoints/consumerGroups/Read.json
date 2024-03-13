@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventHubEndpoints/consumerGroups/Read",
+  "OperationName": "Get EventHub Consumer Group(s)",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get EventHub Consumer Group(s)",
+  "IsDataAction": false
+}

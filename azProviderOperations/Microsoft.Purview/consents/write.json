@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/consents/write",
+  "OperationName": "Create or Update Consent Resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Consent",
+  "Description": "Create or Update a Consent Resource.",
+  "IsDataAction": false
+}

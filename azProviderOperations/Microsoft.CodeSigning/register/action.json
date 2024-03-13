@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/register/action",
+  "OperationName": "Registers Resource Provider",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "",
+  "Description": "Registers the subscription for Microsoft CodeSigning resource provider.",
+  "IsDataAction": false
+}

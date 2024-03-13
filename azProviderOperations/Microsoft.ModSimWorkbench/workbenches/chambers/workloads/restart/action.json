@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/workloads/restart/action",
+  "OperationName": "workloads_Restart",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/workloads",
+  "Description": "restart workloads",
+  "IsDataAction": false
+}

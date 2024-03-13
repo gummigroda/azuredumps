@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/delete",
+  "OperationName": "Delete a Video Analyzer Account",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Analyzer Account",
+  "Description": "Delete a Video Analyzer Account",
+  "IsDataAction": false
+}

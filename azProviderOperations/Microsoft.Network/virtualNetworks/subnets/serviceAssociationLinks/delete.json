@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/delete",
+  "OperationName": "Delete Service Association Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Association Link",
+  "Description": "Deletes a Service Association Link",
+  "IsDataAction": false
+}

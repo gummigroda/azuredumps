@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SecurityIoTRawEvent/read",
+  "OperationName": "Read SecurityIoTRawEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SecurityIoTRawEvent",
+  "Description": "Read data from the SecurityIoTRawEvent table",
+  "IsDataAction": false
+}

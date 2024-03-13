@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/write",
+  "OperationName": "Register new user or Update user",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User accounts",
+  "Description": "Creates or Updates a user. or Updates the details of the user specified by its identifier.",
+  "IsDataAction": false
+}

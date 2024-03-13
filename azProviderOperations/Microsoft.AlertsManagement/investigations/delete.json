@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/investigations/delete",
+  "OperationName": "Delete the Investigation",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "investigations",
+  "Description": "Delete Investigation ",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/diagnosticSettings/read",
+  "OperationName": "Get Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

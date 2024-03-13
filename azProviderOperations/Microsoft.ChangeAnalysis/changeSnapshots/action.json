@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/changeSnapshots/action",
+  "OperationName": "Gets change snapshots for the given resource Id and change Id",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "",
+  "Description": "Return the change snapshot. Customer data will be masked if user doesn't have permission.",
+  "IsDataAction": false
+}

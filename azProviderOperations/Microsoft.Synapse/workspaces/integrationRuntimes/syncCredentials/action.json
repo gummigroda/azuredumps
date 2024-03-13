@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/syncCredentials/action",
+  "OperationName": "Sync credential on an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Sync credential on any Integration Runtime",
+  "IsDataAction": false
+}

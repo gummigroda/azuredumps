@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WVDErrors/Read",
+  "OperationName": "Read WVDErrors data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WVDErrors",
+  "Description": "Read data from the WVDErrors table",
+  "IsDataAction": false
+}

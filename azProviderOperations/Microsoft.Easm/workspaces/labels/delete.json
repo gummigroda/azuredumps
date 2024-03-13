@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/labels/delete",
+  "OperationName": "Labels_Delete",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces/labels",
+  "Description": "Delete a Label.",
+  "IsDataAction": false
+}

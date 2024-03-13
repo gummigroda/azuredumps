@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/delete",
+  "OperationName": "Delete SQL database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database",
+  "Description": "Delete a SQL database.",
+  "IsDataAction": false
+}

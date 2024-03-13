@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/checkVirtualNetworkSubnetUsage/action",
+  "OperationName": "Check Virtual Network Subnet Usage",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Auto Migration Operations",
+  "Description": "Checks the subnet usage for speicifed delegated virtual network.",
+  "IsDataAction": false
+}

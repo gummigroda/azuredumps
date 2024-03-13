@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupDeletedProtectionContainers/read",
+  "OperationName": "Get Containers In Subscription",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Deleted Protection Containers",
+  "Description": "Returns all containers belonging to the subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/hybridconnectionnamespaces/relays/delete",
+  "OperationName": "Delete Web Apps Slots Hybrid Connection Namespaces Relays",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Hybrid Connection Namespaces Relays",
+  "Description": "Delete Web Apps Slots Hybrid Connection Namespaces Relays.",
+  "IsDataAction": false
+}

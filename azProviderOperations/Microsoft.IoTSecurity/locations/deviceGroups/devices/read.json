@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/deviceGroups/devices/read",
+  "OperationName": "Get devices",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Devices",
+  "Description": "Get devices",
+  "IsDataAction": false
+}

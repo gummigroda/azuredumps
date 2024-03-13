@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/recommendedIndexes/read",
+  "OperationName": "Get list of index recommendations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Recommended Index",
+  "Description": "Retrieve list of index recommendations on a database",
+  "IsDataAction": false
+}

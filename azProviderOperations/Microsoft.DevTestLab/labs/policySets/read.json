@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/policySets/read",
+  "OperationName": "Read policy sets.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "policy sets",
+  "Description": "Read policy sets.",
+  "IsDataAction": false
+}

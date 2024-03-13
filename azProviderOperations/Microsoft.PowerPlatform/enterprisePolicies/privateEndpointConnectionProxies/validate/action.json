@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validates a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validates a Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

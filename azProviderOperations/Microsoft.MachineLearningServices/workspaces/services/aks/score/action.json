@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/services/aks/score/action",
+  "OperationName": "Retrieve auth token or keys to score AKS services in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace AKS Services",
+  "Description": "Retrieve auth token or keys to score AKS services in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

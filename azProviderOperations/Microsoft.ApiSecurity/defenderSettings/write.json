@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/defenderSettings/write",
+  "OperationName": "DefenderSettings_Update",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "defenderSettings",
+  "Description": "Updates a defender setting.",
+  "IsDataAction": false
+}

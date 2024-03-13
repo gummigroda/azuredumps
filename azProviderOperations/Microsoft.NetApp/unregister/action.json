@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/unregister/action",
+  "OperationName": "Unregister Subscription for Azure NetApp Files",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.NetApp resource provider",
+  "IsDataAction": false
+}

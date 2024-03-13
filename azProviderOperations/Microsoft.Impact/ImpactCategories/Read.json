@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/ImpactCategories/Read",
+  "OperationName": "GetsorListImpactCategoriesresources",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "ImpactCategories",
+  "Description": "ReadsImpactCategories",
+  "IsDataAction": false
+}

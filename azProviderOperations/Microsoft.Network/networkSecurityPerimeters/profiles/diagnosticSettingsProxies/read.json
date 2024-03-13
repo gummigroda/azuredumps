@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/diagnosticSettingsProxies/read",
+  "OperationName": "Gets a Network Security Perimeter Diagnostic Settings Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Diagnostic Settings Proxy",
+  "Description": "Gets a Network Security Perimeter Diagnostic Settings Proxy",
+  "IsDataAction": false
+}

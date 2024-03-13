@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/discoverySiteDataSources/write",
+  "OperationName": "Creates or Updates the Sql Discovery Site Data Source",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Discover Site Resource",
+  "Description": "Creates or Updates the Sql Discovery Site Data Source",
+  "IsDataAction": false
+}

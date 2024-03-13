@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.scvmm/virtualmachinetemplates/clone/action",
+  "OperationName": "Clones virtualmachinetemplates resource",
+  "ProviderNamespace": "microsoft.scvmm",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Clones virtualmachinetemplates",
+  "IsDataAction": false
+}

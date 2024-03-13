@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "Update Private Endpoint Connection Proxy Operation",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Updates the Private Endpoint Connection Proxy properties.",
+  "IsDataAction": false
+}

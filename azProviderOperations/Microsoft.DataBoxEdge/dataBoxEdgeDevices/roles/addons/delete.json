@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/addons/delete",
+  "OperationName": "Delete addons",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "addons",
+  "Description": "Deletes the addons",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/webhooks/read",
+  "OperationName": "Read an Azure Automation webhook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Webhook",
+  "Description": "Reads an Azure Automation webhook",
+  "IsDataAction": false
+}

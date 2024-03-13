@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/Interfaces/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "Interfaces",
+  "Description": "Delete operation",
+  "IsDataAction": false
+}

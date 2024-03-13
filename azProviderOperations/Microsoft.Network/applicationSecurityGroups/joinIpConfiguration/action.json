@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/joinIpConfiguration/action",
+  "OperationName": "Join IpConfiguration To Application Security Groups.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Joins an IP Configuration to Application Security Groups. Not alertable.",
+  "IsDataAction": false
+}

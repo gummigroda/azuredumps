@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/operations/read",
+  "OperationName": "Read Available Operations.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Available Operations",
+  "Description": "Read Available Operations from the Azure Synapse Analytics Resource Provider.",
+  "IsDataAction": false
+}

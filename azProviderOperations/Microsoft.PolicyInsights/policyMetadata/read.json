@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyMetadata/read",
+  "OperationName": "Get Policy Metadata",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Metadata",
+  "Description": "Get Policy Metadata resources.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/locations/quotas/Read",
+  "OperationName": "Read Stream Analytics Subscription Quota",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Subscription Quota",
+  "Description": "Read Stream Analytics Subscription Quota",
+  "IsDataAction": false
+}

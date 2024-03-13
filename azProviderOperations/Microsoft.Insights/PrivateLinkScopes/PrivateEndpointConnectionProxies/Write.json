@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/PrivateLinkScopes/PrivateEndpointConnectionProxies/Write",
+  "OperationName": "Create or update a private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Private endpoint connection proxy",
+  "Description": "Create or update a private endpoint connection proxy",
+  "IsDataAction": false
+}

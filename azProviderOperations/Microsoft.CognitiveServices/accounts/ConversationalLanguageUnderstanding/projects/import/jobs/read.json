@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/import/jobs/read",
+  "OperationName": "Projects_GetImportProjectJobStatus",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get import or replace project job status and result details.",
+  "IsDataAction": true
+}

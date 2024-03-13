@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WindowsClientAssessmentRecommendation/Read",
+  "OperationName": "Read WindowsClientAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WindowsClientAssessmentRecommendation",
+  "Description": "Read data from the WindowsClientAssessmentRecommendation table",
+  "IsDataAction": false
+}

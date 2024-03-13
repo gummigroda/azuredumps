@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/evidences/delete",
+  "OperationName": "Evidences_Delete",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/evidences",
+  "Description": "Delete an existent evidence from a specified report",
+  "IsDataAction": false
+}

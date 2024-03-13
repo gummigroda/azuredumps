@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/operationResults/read",
+  "OperationName": "Get Operation Result",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Operation Results",
+  "Description": "Gets the result of the asynchronous operation",
+  "IsDataAction": false
+}

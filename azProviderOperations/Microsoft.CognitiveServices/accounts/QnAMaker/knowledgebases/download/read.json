@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/download/read",
+  "OperationName": "Knowledgebase - Download",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledgebase",
+  "Description": "Download the knowledgebase.",
+  "IsDataAction": true
+}

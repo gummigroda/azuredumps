@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/enrichment/anomalydetection/configurations/incidents/query/action",
+  "OperationName": "Query incidents under anomaly detection configuration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Incidents under anomaly detection configuration",
+  "Description": "Query incidents under anomaly detection configuration",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/monitoredSubscriptions/read",
+  "OperationName": "Get monitored subscriptions for the resource",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "MonitoredSubscriptions",
+  "Description": "Read monitored subscriptions",
+  "IsDataAction": false
+}

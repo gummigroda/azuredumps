@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/metrics/dimension/query/action",
+  "OperationName": "List dimension from certain metric",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Dimension of metrics",
+  "Description": "List dimension from certain metric",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/virtualNetworks/read",
+  "OperationName": "virtualNetworks_ListBySubscription",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "virtualNetworks",
+  "Description": "Lists the Hybrid AKS virtual networks by subscription",
+  "IsDataAction": false
+}

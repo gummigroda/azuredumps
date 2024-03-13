@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGateways/write",
+  "OperationName": "InternetGateways_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways",
+  "Description": "Execute patch on Network Fabric Service Internet Gateway.",
+  "IsDataAction": false
+}

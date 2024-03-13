@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpoints/pushPropertiesToResource/action",
+  "OperationName": "Operation to push private endpoint property updates from NRP client",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint",
+  "Description": "Operation to push private endpoint property updates from NRP client",
+  "IsDataAction": false
+}

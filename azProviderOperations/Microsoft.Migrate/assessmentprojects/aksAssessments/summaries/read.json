@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/aksAssessments/summaries/read",
+  "OperationName": "Get aks AssessmentSummary",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "aks AssessmentSummaries",
+  "Description": "Gets the properties of the aks AssessmentSummary",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/encryptionScopes/write",
+  "OperationName": "Write Encryption Scope",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Encryption Scope",
+  "Description": "Writes an Encryption Scope.",
+  "IsDataAction": false
+}

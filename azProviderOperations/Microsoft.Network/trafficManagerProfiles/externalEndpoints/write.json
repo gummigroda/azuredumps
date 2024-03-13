@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/externalEndpoints/write",
+  "OperationName": "Create or Update a Traffic Manager External Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager External Endpoint",
+  "Description": "Add a new External Endpoint in an existing Traffic Manager Profile or update the properties of an existing External Endpoint in that Traffic Manager Profile.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/authproviders/users/Write",
+  "OperationName": "Update Static Site User",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site User",
+  "Description": "Update a user for a Static Site",
+  "IsDataAction": false
+}

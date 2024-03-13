@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/instanceView/read",
+  "OperationName": "Gets the status of a CloudService.",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Instance View.",
+  "Description": "Gets the status of a CloudService.",
+  "IsDataAction": false
+}

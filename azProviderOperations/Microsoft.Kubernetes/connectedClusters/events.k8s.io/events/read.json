@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/events.k8s.io/events/read",
+  "OperationName": "Gets/List events resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "events",
+  "Description": "Reads events",
+  "IsDataAction": true
+}

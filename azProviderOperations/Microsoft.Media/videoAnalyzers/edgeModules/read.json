@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/edgeModules/read",
+  "OperationName": "Read Edge Module",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Edge Module Resource",
+  "Description": "Read any Edge Module",
+  "IsDataAction": false
+}

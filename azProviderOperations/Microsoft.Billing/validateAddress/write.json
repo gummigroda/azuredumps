@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/validateAddress/write",
+  "OperationName": "Validates address.",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Validate Address",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/configmaps/delete",
+  "OperationName": "Deletes/DeletesCollection configmaps resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "configmaps",
+  "Description": "Deletes configmaps",
+  "IsDataAction": true
+}

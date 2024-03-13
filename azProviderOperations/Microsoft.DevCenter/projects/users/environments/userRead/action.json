@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/userRead/action",
+  "OperationName": "Projects_Environments_UserRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows a user to read the environments they have access to in a project.",
+  "IsDataAction": true
+}

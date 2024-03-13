@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Commerce/UsageAggregates/read",
+  "OperationName": "Read Usage Aggregates",
+  "ProviderNamespace": "Microsoft Commerce",
+  "ResourceName": "Usage Aggregates",
+  "Description": "Retrieves Microsoft Azure’s consumption  by a subscription. The result contains aggregates usage data, subscription and resource related information, on a particular time range.",
+  "IsDataAction": false
+}

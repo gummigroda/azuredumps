@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read profiles/endpoints log definitions",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "The log definition of profiles/endpoints",
+  "Description": "Gets the available logs for Microsoft.Cdn/profiles/endpoints",
+  "IsDataAction": false
+}

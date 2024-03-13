@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/start/action",
+  "OperationName": "Azure SQL Managed Instance Start operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Starts a given Azure SQL Managed Instance.",
+  "IsDataAction": false
+}

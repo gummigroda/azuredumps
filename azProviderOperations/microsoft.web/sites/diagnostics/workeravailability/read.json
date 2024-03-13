@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/workeravailability/read",
+  "OperationName": "Get Web Apps Diagnostics Workeravailability",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Workeravailability",
+  "Description": "Get Web Apps Diagnostics Workeravailability.",
+  "IsDataAction": false
+}

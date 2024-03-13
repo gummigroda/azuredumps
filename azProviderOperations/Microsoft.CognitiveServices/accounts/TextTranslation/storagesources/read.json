@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/storagesources/read",
+  "OperationName": "Read Supported Storage Sources",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Supported Storage Sources Information",
+  "Description": "List storage sources/options supported by the Document Translation service.",
+  "IsDataAction": true
+}

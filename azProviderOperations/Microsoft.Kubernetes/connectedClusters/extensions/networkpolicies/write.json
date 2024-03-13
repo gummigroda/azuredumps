@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/networkpolicies/write",
+  "OperationName": "Creates/Updates networkpolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "networkpolicies",
+  "Description": "Writes networkpolicies",
+  "IsDataAction": true
+}

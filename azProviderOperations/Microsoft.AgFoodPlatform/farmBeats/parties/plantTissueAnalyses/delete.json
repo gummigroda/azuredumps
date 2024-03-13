@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/plantTissueAnalyses/delete",
+  "OperationName": "Delete AgFoodPlatform plant tissue analyses resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform plant tissue analyses",
+  "Description": "Deletes an existing AgFoodPlatform plant tissue analyses resource.",
+  "IsDataAction": true
+}

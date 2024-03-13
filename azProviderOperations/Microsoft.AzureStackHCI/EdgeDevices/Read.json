@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/EdgeDevices/Read",
+  "OperationName": "Gets/List EdgeDevice resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "EdgeDevices",
+  "Description": "Gets EdgeDevices resources",
+  "IsDataAction": false
+}

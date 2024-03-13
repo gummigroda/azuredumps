@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/generateReservationDetailsReport/action",
+  "OperationName": "Writes Microsoft Reserved Instances utilization details to storage",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "List Microsoft Reserved Instances utilization details in storage.",
+  "IsDataAction": false
+}

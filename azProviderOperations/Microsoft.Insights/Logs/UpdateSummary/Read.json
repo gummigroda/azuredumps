@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UpdateSummary/Read",
+  "OperationName": "Read UpdateSummary data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UpdateSummary",
+  "Description": "Read data from the UpdateSummary table",
+  "IsDataAction": false
+}

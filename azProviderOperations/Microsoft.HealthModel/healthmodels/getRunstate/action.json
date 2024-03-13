@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/healthmodels/getRunstate/action",
+  "OperationName": "HealthModels_GetRunstate",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "healthmodels",
+  "Description": "Gets the execution and scheduling state of the health model",
+  "IsDataAction": false
+}

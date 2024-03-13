@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/syncStorageKeys/action",
+  "OperationName": "Synchronize Storage Keys",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "Synchronize the Storage Keys for an attached Azure Storage account",
+  "IsDataAction": false
+}

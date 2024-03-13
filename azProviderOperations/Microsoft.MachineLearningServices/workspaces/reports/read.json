@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/reports/read",
+  "OperationName": "Gets custom reports in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Reports",
+  "Description": "Gets custom reports in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

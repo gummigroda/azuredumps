@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/ledgers/delete",
+  "OperationName": "Ledger_Delete",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "ledgers",
+  "Description": "Deletes an existing Confidential Ledger.",
+  "IsDataAction": false
+}

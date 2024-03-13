@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/validation/read",
+  "OperationName": "Training_GetValidationResult",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "validation*",
+  "Description": "Get the validation result of a certain training model name.",
+  "IsDataAction": true
+}

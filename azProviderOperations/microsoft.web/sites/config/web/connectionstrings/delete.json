@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/web/connectionstrings/delete",
+  "OperationName": "Delete Web App single connection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Connectionstring",
+  "Description": "Delete Web App single connection string",
+  "IsDataAction": false
+}

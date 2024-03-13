@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/locations/operationstatuses/write",
+  "OperationName": "write_operationstatuses",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "write operationstatuses",
+  "IsDataAction": false
+}

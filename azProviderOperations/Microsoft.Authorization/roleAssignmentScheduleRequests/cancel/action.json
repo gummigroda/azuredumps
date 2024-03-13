@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleAssignmentScheduleRequests/cancel/action",
+  "OperationName": "Cancel Role assignment schedule request",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role assignment schedule request",
+  "Description": "Cancels a pending role assignment schedule request.",
+  "IsDataAction": false
+}

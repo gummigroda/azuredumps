@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/repositories/content/read",
+  "OperationName": "Pull images from container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Pull or Get images from a container registry.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/IoTApps/write",
+  "OperationName": "Create/Update/Patch IoTApp resources",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "IoTApps",
+  "Description": "Create or update a IoTApp resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

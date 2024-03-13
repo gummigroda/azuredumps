@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/pccRules/read",
+  "OperationName": "PccRules_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/pccRules",
+  "Description": "Lists all the Core Policy and Charging Control Rules in a mobile packet core instance.",
+  "IsDataAction": false
+}

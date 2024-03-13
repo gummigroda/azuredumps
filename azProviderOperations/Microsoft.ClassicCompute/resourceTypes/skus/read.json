@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/resourceTypes/skus/read",
+  "OperationName": "Get Supported Skus",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Sku",
+  "Description": "Gets the Sku list for supported resource types.",
+  "IsDataAction": false
+}

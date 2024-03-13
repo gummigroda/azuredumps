@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/networkConfigurations/read",
+  "OperationName": "Read Azure Arc networkConfigurations",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkConfigurations",
+  "Description": "Reads any Azure Arc networkConfigurations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/clients/read",
+  "OperationName": "Read Client",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "clients",
+  "Description": "Read a client",
+  "IsDataAction": false
+}

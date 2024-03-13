@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/serviceaccounts/impersonate/action",
+  "OperationName": "Impersonate serviceaccounts resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Serviceaccounts",
+  "Description": "Impersonate serviceaccounts",
+  "IsDataAction": true
+}

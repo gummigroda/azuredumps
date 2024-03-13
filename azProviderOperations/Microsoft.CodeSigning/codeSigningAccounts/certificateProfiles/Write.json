@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/certificateProfiles/Write",
+  "OperationName": "Creates/Updates Certificate Profiles",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CertificateProfiles",
+  "Description": "Writes or updates certificate profiles.",
+  "IsDataAction": false
+}

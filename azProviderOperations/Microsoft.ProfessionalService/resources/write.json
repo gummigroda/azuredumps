@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProfessionalService/resources/write",
+  "OperationName": "Create or Update a Professional Service resource",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "Professional Service Resources",
+  "Description": "Create or Update a Professional Service resource",
+  "IsDataAction": false
+}

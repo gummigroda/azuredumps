@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/images/delete",
+  "OperationName": "RegistrationHubImages_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/images",
+  "Description": "Delete the provided registration hub image.",
+  "IsDataAction": false
+}

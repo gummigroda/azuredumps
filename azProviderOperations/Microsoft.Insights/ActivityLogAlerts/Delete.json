@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ActivityLogAlerts/Delete",
+  "OperationName": "Delete activity log alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Activity Log Alert",
+  "Description": "Delete an activity log alert",
+  "IsDataAction": false
+}

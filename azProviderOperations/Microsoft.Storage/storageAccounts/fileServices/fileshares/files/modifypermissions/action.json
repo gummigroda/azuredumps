@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/modifypermissions/action",
+  "OperationName": "Modify File Acl",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage File Service Files",
+  "Description": "Returns the result of modifying permission on a file/folder",
+  "IsDataAction": true
+}

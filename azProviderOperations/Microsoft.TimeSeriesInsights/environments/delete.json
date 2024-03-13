@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/delete",
+  "OperationName": "Delete Environment",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Environment",
+  "Description": "Deletes the environment.",
+  "IsDataAction": false
+}

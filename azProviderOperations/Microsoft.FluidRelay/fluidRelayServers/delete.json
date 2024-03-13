@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/fluidRelayServers/delete",
+  "OperationName": "FluidRelayServers_Delete",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "fluidRelayServers",
+  "Description": "delete fluidRelayServers",
+  "IsDataAction": false
+}

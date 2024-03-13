@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/topicSpaces/read",
+  "OperationName": "Read Topic Space",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topicSpaces",
+  "Description": "Read a Topic Space",
+  "IsDataAction": false
+}

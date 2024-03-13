@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/registrationDetails/action",
+  "OperationName": "Provides the tool registration details",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate Projects ",
+  "Description": "Provides the tool registration details",
+  "IsDataAction": false
+}

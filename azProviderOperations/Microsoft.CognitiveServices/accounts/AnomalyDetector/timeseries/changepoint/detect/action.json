@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/timeseries/changepoint/detect/action",
+  "OperationName": "Univariate Anomaly Detection - Find trend change point for the entire series in batch.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "changepoint",
+  "Description": "This operation generates a model using an entire series, each point is detected with the same model. With this method, points before and after a certain point are used to determine whether it is a trend change point. The entire detection can detect all trend change points of the time series.",
+  "IsDataAction": true
+}

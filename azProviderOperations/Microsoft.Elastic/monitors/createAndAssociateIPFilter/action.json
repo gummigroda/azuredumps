@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/createAndAssociateIPFilter/action",
+  "OperationName": "Create and associate IP traffic filters in Elastic Deployment",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Create and associate IP traffic filters in Elastic Deployment",
+  "IsDataAction": false
+}

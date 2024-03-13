@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2IsolationDomains/clearNeighborTable/action",
+  "OperationName": "L2IsolationDomains_clearNeighborTable",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2IsolationDomains",
+  "Description": "Clears IPv6 neighbors for this Isolation Domain.",
+  "IsDataAction": false
+}

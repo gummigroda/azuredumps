@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksDatabricksSQL/read",
+  "OperationName": "Read DatabricksDatabricksSQL data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksDatabricksSQL",
+  "Description": "Read data from the DatabricksDatabricksSQL table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/compositeentities/children/delete",
+  "OperationName": "Remove composite entity child",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Composite entity children",
+  "Description": "Deletes a composite entity extractor child from the application version.",
+  "IsDataAction": true
+}

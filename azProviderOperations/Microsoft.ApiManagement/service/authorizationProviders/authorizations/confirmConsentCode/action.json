@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationProviders/authorizations/confirmConsentCode/action",
+  "OperationName": "Post Authorization Confirm Consent Code",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Authorization",
+  "Description": "Posts Authorization Confirm Consent Code",
+  "IsDataAction": false
+}

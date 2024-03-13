@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/services/start/action",
+  "OperationName": "Start Azure Database Migration Service",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Start the Azure Database Migration Service to allow it to process migrations again",
+  "IsDataAction": false
+}

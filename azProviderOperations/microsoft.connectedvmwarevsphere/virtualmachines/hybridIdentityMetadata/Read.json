@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/hybridIdentityMetadata/Read",
+  "OperationName": "Gets hybridIdentityMetadata resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/hybridIdentityMetadata",
+  "Description": "Gets hybridIdentityMetadata",
+  "IsDataAction": false
+}

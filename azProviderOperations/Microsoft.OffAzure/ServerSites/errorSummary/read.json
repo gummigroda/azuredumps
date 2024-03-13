@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/errorSummary/read",
+  "OperationName": "Get Error Summary for Server site inventory",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Get Error Summary for Server site inventory",
+  "IsDataAction": false
+}

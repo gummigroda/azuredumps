@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/metrics.k8s.io/read",
+  "OperationName": "Gets/List metrics.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "metrics.k8s.io",
+  "Description": "Reads metrics.k8s.io",
+  "IsDataAction": true
+}

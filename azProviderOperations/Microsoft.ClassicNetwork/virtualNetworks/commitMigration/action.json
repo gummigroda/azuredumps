@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/commitMigration/action",
+  "OperationName": "Commit Migration of a Virtual Network",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Commits the migration of a Virtual Network",
+  "IsDataAction": false
+}

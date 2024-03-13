@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/CharacterPredictionTasks/SubmitPredictSsmlTagsTask/action",
+  "OperationName": "Create predict ssml tag task.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Character prediction tasks",
+  "Description": "Create predict ssml tag task.",
+  "IsDataAction": true
+}

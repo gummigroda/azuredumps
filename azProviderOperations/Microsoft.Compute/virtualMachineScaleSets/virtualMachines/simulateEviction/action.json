@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/simulateEviction/action",
+  "OperationName": "Simulate Eviction of spot Virtual Machine in Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine in Scale Set",
+  "Description": "Simulates the eviction of spot Virtual Machine in Virtual Machine Scale Set",
+  "IsDataAction": false
+}

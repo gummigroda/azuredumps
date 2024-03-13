@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/inaccessibleDatabases/read",
+  "OperationName": "List Azure database(s) with inaccessible status in a logical server.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Return a list of inaccessible database(s) in a logical server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/delete",
+  "OperationName": "workbenches_Delete",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches",
+  "Description": "delete workbenches",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AegPublishFailureLogs/Read",
+  "OperationName": "Read AegPublishFailureLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AegPublishFailureLogs",
+  "Description": "Read data from the AegPublishFailureLogs table",
+  "IsDataAction": false
+}

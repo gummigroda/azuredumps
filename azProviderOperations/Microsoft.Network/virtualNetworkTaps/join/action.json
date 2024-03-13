@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/join/action",
+  "OperationName": "Join Virtual Network Tap.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkTap",
+  "Description": "Joins a virtual network tap. Not Alertable.",
+  "IsDataAction": false
+}

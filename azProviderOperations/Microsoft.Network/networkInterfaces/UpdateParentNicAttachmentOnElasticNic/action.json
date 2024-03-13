@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/UpdateParentNicAttachmentOnElasticNic/action",
+  "OperationName": "Update parent NIC on the elastic NIC",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Updates the parent NIC associated to the elastic NIC",
+  "IsDataAction": false
+}

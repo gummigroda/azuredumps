@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/agentpools/write",
+  "OperationName": "Create or Update an agentpool for a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Create or Update an agentpool for a container registry.",
+  "IsDataAction": false
+}

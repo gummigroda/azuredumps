@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AutoscaleSettings/Read",
+  "OperationName": "Read autoscale setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Autoscale Setting",
+  "Description": "Read an autoscale setting",
+  "IsDataAction": false
+}

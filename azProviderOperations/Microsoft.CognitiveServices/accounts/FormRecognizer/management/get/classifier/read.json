@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/management/get/classifier/read",
+  "OperationName": "List document classifiers",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "List all document classifiers.",
+  "IsDataAction": true
+}

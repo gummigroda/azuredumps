@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustGroupOperationResults/read",
+  "OperationName": "Get Server Trust Group Operation Result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Trust Group Operation Result",
+  "Description": "Get the result of Server Trust Group operation",
+  "IsDataAction": false
+}

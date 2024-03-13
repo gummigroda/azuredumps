@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/authorizationRules/delete",
+  "OperationName": "Delete EventHub Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub AuthorizationRules",
+  "Description": "Operation to delete EventHub Authorization Rules",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/storagecontainers/read",
+  "OperationName": "List Singularity storage containers",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity storage container",
+  "Description": "Lists Singularity storage containers",
+  "IsDataAction": false
+}

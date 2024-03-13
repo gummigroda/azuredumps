@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/hostInstances/read",
+  "OperationName": "Read hostInstances",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/hostInstances",
+  "Description": "Gets the hostInstances for a PrivateCloud.",
+  "IsDataAction": false
+}

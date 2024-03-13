@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/glossaries/formats/read",
+  "OperationName": "Read Supported Glossaries Formats",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Supported Glossaries Formats",
+  "Description": "List glossary formats supported by the Document Translation service.",
+  "IsDataAction": true
+}

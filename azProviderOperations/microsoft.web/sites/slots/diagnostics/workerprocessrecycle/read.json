@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/workerprocessrecycle/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Worker Process Recycle",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Worker Process Recycle",
+  "Description": "Get Web Apps Slots Diagnostics Worker Process Recycle.",
+  "IsDataAction": false
+}

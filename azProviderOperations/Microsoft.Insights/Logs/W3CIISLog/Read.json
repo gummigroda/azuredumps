@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/W3CIISLog/Read",
+  "OperationName": "Read W3CIISLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "W3CIISLog",
+  "Description": "Read data from the W3CIISLog table",
+  "IsDataAction": false
+}

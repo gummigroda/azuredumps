@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/files/read",
+  "OperationName": "Gets the files of the dataset identified by the given ID.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Files",
+  "Description": "Gets the files of the dataset identified by the given ID.",
+  "IsDataAction": true
+}

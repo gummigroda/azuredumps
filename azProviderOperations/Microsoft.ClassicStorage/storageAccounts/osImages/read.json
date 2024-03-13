@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/osImages/read",
+  "OperationName": "Get Storage Account Operating System Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Operating System Image",
+  "Description": "Returns the storage account operating system image.",
+  "IsDataAction": false
+}

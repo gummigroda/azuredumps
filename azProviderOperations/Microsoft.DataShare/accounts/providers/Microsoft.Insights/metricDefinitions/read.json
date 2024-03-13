@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Account metric definitions",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "The metric definition of account",
+  "Description": "Gets the available metrics for account.",
+  "IsDataAction": false
+}

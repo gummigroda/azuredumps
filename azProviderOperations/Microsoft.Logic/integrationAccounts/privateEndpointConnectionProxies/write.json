@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Set Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Private Endpoints Connection Proxies",
+  "Description": "Creates or Updates the Private Endpoint Connection Proxies.",
+  "IsDataAction": false
+}

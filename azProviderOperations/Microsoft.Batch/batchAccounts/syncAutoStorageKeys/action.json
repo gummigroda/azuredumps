@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/syncAutoStorageKeys/action",
+  "OperationName": "Synchronize Auto Storage Account Keys",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Synchronizes access keys for the auto storage account configured for a Batch account",
+  "IsDataAction": false
+}

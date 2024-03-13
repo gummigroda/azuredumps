@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read namespace metric definitions",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Namespace Metrics",
+  "Description": "Gets the available metrics for namespaces",
+  "IsDataAction": false
+}

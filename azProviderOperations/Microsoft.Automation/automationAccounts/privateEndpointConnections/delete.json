@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnections/delete",
+  "OperationName": "Delete an Azure Automation Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection",
+  "Description": "Delete an Azure Automation Private Endpoint Connection",
+  "IsDataAction": false
+}

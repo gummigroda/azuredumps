@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/write",
+  "OperationName": "Flows_Update",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Updates the flow resource.",
+  "IsDataAction": false
+}

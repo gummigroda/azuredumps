@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/delete",
+  "OperationName": "Delete Text List By listId",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "lists*",
+  "Description": "Deletes Text List with the list Id equal to list Id passed.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/usage/read",
+  "OperationName": "Get VMware site usages",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Gets the usages of a VMware site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/machines/write",
+  "OperationName": "Write Server machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Write the properties of a Server machines",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/distributedAvailabilityGroupsAzureAsyncOperation/read",
+  "OperationName": "Gets the status of a long term distributed availability groups async operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Gets the status of a long term distributed availability groups async operation on Azure Sql Managed Instance.",
+  "IsDataAction": false
+}

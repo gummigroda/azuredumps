@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/isusernameavailable/read",
+  "OperationName": "Check if Username is available",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Username",
+  "Description": "Check if Username is available.",
+  "IsDataAction": false
+}

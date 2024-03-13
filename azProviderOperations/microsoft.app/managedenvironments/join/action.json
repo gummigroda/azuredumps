@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/join/action",
+  "OperationName": "Join Managed Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment",
+  "Description": "Allows to create a Container App in a Managed Environment",
+  "IsDataAction": false
+}

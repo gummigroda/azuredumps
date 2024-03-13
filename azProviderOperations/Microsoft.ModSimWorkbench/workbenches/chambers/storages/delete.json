@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/storages/delete",
+  "OperationName": "storages_Delete",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/storages",
+  "Description": "Deletes the specified storage.",
+  "IsDataAction": false
+}

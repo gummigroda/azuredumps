@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/keys/read",
+  "OperationName": "Read Workspace Key Definition.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Keys",
+  "Description": "Read any Workspace Key Definition.",
+  "IsDataAction": false
+}

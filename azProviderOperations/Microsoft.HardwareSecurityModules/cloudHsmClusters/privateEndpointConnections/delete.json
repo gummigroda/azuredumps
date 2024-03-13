@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/cloudHsmClusters/privateEndpointConnections/delete",
+  "OperationName": "Delete a Private Endpoint connection",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "CloudHsm",
+  "Description": "Delete a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

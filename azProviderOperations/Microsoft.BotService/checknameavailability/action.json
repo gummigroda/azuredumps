@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/checknameavailability/action",
+  "OperationName": "Check Name Availability of a Bot",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "",
+  "Description": "Check Name Availability of a Bot",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/unregister/action",
+  "OperationName": "Unregister the Microsoft.VoiceServices",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.VoiceServices",
+  "IsDataAction": false
+}

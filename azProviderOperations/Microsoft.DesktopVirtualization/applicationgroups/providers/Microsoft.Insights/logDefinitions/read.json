@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definitions",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Gets the available logs",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/checkNamespaceAvailability/action",
+  "OperationName": "Get namespace availability.",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "",
+  "Description": "Checks availability of namespace under given subscription. This API is deprecated please use CheckNameAvailabiltiy instead.",
+  "IsDataAction": false
+}

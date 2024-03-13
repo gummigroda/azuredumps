@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/locations/operationStatuses/read",
+  "OperationName": "Gets an Operation Status.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "OperationsStatus",
+  "Description": "Gets an Operation Status.",
+  "IsDataAction": false
+}

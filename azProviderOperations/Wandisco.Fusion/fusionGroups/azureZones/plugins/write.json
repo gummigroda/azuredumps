@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/azureZones/plugins/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Plugins",
+  "Description": "Creates or updates a Plugin",
+  "IsDataAction": false
+}

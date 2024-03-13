@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionRules/Write",
+  "OperationName": "Create or update data collection rule",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection rule",
+  "Description": "Create or update a data collection rule",
+  "IsDataAction": false
+}

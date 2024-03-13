@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/entitymatch/action",
+  "OperationName": "Entity Match",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Knowledge API",
+  "Description": "Entity Match*",
+  "IsDataAction": true
+}

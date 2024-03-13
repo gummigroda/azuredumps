@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Profile",
+  "Description": null,
+  "IsDataAction": false
+}

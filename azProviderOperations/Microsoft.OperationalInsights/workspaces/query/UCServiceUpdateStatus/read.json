@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UCServiceUpdateStatus/read",
+  "OperationName": "Read UCServiceUpdateStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UCServiceUpdateStatus",
+  "Description": "Read data from the UCServiceUpdateStatus table",
+  "IsDataAction": false
+}

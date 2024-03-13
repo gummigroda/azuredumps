@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/databases/write",
+  "OperationName": "Create/Update MySQL Database",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Databases",
+  "Description": "Creates a MySQL Database with the specified parameters or update the properties for the specified Database.",
+  "IsDataAction": false
+}

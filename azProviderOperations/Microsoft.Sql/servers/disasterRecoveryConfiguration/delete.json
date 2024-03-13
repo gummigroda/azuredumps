@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/disasterRecoveryConfiguration/delete",
+  "OperationName": "Delete server disaster recovery configuration",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Disaster Recovery Configuration",
+  "Description": "Deletes an existing disaster recovery configurations for a given server",
+  "IsDataAction": false
+}

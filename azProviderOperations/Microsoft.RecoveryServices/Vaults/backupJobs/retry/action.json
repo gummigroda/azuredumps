@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupJobs/retry/action",
+  "OperationName": "Retry Jobs",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Jobs",
+  "Description": "Retry the Job",
+  "IsDataAction": false
+}

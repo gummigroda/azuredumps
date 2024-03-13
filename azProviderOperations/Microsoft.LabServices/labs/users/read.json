@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/users/read",
+  "OperationName": "Get User",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/users",
+  "Description": "Get the properties of a user.",
+  "IsDataAction": false
+}

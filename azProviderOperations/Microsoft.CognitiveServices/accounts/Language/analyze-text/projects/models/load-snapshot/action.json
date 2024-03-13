@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/models/load-snapshot/action",
+  "OperationName": "Load trained model snapshot to the working directory.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "models*",
+  "Description": "Restores the snapshot of this trained model to be the current working directory of the project.",
+  "IsDataAction": true
+}

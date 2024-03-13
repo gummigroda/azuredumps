@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServicesHub/connectors/read",
+  "OperationName": "Get_ServicesHubConnector",
+  "ProviderNamespace": "Microsoft.ServicesHub",
+  "ResourceName": "Connectors",
+  "Description": "View or List Services Hub Connectors",
+  "IsDataAction": false
+}

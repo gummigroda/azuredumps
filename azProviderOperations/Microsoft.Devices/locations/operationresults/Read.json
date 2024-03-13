@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/locations/operationresults/Read",
+  "OperationName": "Get Location based Operation Result",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get Location based Operation Result",
+  "IsDataAction": false
+}

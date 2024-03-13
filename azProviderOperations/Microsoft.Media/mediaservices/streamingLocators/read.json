@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingLocators/read",
+  "OperationName": "Read Streaming Locator",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Locator",
+  "Description": "Read any Streaming Locator",
+  "IsDataAction": false
+}

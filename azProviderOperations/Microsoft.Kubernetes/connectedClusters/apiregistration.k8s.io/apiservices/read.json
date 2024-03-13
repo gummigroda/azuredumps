@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apiregistration.k8s.io/apiservices/read",
+  "OperationName": "Gets/List apiservices resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "apiservices",
+  "Description": "Reads apiservices",
+  "IsDataAction": true
+}

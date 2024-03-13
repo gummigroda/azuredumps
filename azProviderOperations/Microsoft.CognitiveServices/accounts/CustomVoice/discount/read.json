@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/discount/read",
+  "OperationName": "GetDiscount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Discount",
+  "Description": "Get the discount for neural model training.",
+  "IsDataAction": true
+}

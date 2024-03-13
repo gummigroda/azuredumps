@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/databaseMigrations/delete",
+  "OperationName": "Delete Database Migration resource",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Database Migration Resource",
+  "Description": "Delete Database Migration resource",
+  "IsDataAction": false
+}

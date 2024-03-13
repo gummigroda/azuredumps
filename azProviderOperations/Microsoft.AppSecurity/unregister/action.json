@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppSecurity/unregister/action",
+  "OperationName": "Unregister the Microsoft.AppSecurity",
+  "ProviderNamespace": "Microsoft.AppSecurity",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AppSecurity",
+  "IsDataAction": false
+}

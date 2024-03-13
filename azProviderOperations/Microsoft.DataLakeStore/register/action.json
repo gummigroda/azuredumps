@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/register/action",
+  "OperationName": "Register to DataLakeStore",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "",
+  "Description": "Register subscription to DataLakeStore.",
+  "IsDataAction": false
+}

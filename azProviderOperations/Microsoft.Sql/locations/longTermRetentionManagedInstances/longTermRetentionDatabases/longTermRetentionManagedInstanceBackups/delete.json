@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/longTermRetentionManagedInstances/longTermRetentionDatabases/longTermRetentionManagedInstanceBackups/delete",
+  "OperationName": "Delete LTR backup for a managed instance database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Instance Database Long Term Retention Backup",
+  "Description": "Deletes an LTR backup for a managed instance database",
+  "IsDataAction": false
+}

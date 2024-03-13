@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Azure SQL Database Private Endpoint Connection Creation by NRP",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection Proxy",
+  "Description": "Validates a private endpoint connection create call from NRP side",
+  "IsDataAction": false
+}

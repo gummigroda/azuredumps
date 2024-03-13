@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/BatchAvatar/batchsyntheses/delete",
+  "OperationName": "Delete Avatar Batch Syntheses",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch Syntheses",
+  "Description": "Deletes the batch synthesis identified by the given ID.",
+  "IsDataAction": true
+}

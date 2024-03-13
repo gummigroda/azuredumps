@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/enable/action",
+  "OperationName": "Enable Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Enables the workflow.",
+  "IsDataAction": false
+}

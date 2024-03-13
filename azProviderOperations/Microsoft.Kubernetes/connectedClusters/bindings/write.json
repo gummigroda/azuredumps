@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/bindings/write",
+  "OperationName": "Creates/Updates bindings resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "bindings",
+  "Description": "Writes bindings",
+  "IsDataAction": true
+}

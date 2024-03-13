@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/cosmosCertMappings/delete",
+  "OperationName": "Delete Cosmos Cert Mapping",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Cosmos Cert Mapping",
+  "Description": "Delete a Cosmos Cert Mapping.",
+  "IsDataAction": false
+}

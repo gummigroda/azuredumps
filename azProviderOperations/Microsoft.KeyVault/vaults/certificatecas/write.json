@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificatecas/write",
+  "OperationName": "Write Certificate Issuer",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate Issuer",
+  "Description": "Write Certificate Issuer",
+  "IsDataAction": true
+}

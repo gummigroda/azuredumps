@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

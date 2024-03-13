@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/locations/operationstatuses/read",
+  "OperationName": "read_operationstatuses",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "read operationstatuses",
+  "IsDataAction": false
+}

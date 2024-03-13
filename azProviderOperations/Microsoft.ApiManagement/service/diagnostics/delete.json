@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/diagnostics/delete",
+  "OperationName": "Remove diagnostic",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Diagnostics",
+  "Description": "Deletes the specified Diagnostic.",
+  "IsDataAction": false
+}

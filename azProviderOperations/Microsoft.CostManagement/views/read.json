@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/views/read",
+  "OperationName": "List saved views",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Views",
+  "Description": "List all saved views.",
+  "IsDataAction": false
+}

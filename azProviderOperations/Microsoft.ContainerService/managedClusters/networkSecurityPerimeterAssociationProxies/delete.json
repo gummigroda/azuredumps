@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "NetworkSecurityPerimeterAssociationProxy.Delete",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Delete ManagedCluster NetworkSecurityPerimeter Association",
+  "IsDataAction": false
+}

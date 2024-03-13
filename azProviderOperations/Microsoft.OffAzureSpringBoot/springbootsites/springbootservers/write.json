@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/springbootservers/write",
+  "OperationName": "springbootservers_Update",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/springbootservers",
+  "Description": "Updatespringbootserversresource.",
+  "IsDataAction": false
+}

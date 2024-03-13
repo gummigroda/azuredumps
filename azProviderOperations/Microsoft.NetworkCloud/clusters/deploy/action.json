@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/deploy/action",
+  "OperationName": "Clusters_Deploy",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters",
+  "Description": "Deploy the cluster to the provided rack.",
+  "IsDataAction": false
+}

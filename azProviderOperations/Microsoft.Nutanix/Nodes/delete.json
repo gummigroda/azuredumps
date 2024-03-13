@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/Nodes/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "Nodes",
+  "Description": "Delete operation",
+  "IsDataAction": false
+}

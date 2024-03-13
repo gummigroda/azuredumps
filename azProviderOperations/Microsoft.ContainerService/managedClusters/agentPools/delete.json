@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/agentPools/delete",
+  "OperationName": "Delete Agent Pool",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Agent Pools",
+  "Description": "Deletes an agent pool",
+  "IsDataAction": false
+}

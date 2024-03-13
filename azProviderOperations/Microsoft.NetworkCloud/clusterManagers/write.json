@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusterManagers/write",
+  "OperationName": "ClusterManagers_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusterManagers",
+  "Description": "Patch properties of the provided cluster manager, or update the tags assigned to the cluster manager. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

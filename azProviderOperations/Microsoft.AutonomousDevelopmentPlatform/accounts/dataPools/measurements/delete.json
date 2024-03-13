@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/delete",
+  "OperationName": "Delete Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Measurements",
+  "Description": "Delete an existing measurement object (this is GDPR delete) ",
+  "IsDataAction": true
+}

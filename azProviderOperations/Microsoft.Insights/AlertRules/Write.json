@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/AlertRules/Write",
+  "OperationName": "Create or update classic metric alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Classic Metric Alerts",
+  "Description": "Create or update a classic metric alert",
+  "IsDataAction": false
+}

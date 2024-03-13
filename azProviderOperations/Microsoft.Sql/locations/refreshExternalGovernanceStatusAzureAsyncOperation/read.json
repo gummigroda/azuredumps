@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/refreshExternalGovernanceStatusAzureAsyncOperation/read",
+  "OperationName": "Refresh external governance enablement status async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Refresh external governance enablement status operation results",
+  "Description": "Refresh external governance enablement status async operation",
+  "IsDataAction": false
+}

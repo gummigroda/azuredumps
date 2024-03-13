@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/diagnosticIdentity/read",
+  "OperationName": "Get Diagnostic Identity",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface",
+  "Description": "Gets Diagnostic Identity Of The Resource",
+  "IsDataAction": false
+}

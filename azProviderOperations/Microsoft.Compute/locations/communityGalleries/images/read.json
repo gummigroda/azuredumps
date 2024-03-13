@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/communityGalleries/images/read",
+  "OperationName": "Get Community Gallery Image",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Community Gallery Image",
+  "Description": "Get the properties of a Community Gallery Image",
+  "IsDataAction": false
+}

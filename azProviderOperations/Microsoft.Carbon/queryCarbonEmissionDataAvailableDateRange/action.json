@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Carbon/queryCarbonEmissionDataAvailableDateRange/action",
+  "OperationName": "CarbonService_QueryCarbonEmissionDataAvailableDateRange",
+  "ProviderNamespace": "Microsoft.Carbon",
+  "ResourceName": "",
+  "Description": "API for query carbon emission data available date range",
+  "IsDataAction": false
+}

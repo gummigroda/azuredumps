@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/activationStatus/read",
+  "OperationName": "Get status of Enrollment Account activation",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Activation Status",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/credentialSets/write",
+  "OperationName": "Create or Update credential set",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CredentialSets",
+  "Description": "Creates or updates a credential set for a container registry with the specified parameters",
+  "IsDataAction": false
+}

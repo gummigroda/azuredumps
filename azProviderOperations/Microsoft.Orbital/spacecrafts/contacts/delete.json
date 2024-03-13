@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/contacts/delete",
+  "OperationName": "Delete Contact",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contacts",
+  "Description": "Delete any Contact",
+  "IsDataAction": false
+}

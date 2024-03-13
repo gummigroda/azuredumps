@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/files/read",
+  "OperationName": "files_List",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/files",
+  "Description": "Lists all files.",
+  "IsDataAction": false
+}

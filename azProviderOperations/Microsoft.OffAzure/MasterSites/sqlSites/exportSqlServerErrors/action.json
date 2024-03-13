@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/exportSqlServerErrors/action",
+  "OperationName": "Export Sql server errors",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Site",
+  "Description": "Export Sql server errors for the entire Sql site inventory",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/subscriptions/operationresults/read",
+  "OperationName": "获取订阅操作结果",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "订阅操作结果",
+  "Description": "获取订阅操作结果。",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/read",
+  "OperationName": "Get simple entity info or Get version simple entities infos",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entities",
+  "Description": "Gets info about the simple entity model.\r\nGets info about the  simple entity models in the application version.",
+  "IsDataAction": true
+}

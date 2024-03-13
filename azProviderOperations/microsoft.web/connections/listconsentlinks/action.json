@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/connections/listconsentlinks/action",
+  "OperationName": "List Consent Links for Connections",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "List Consent Links for Connections.",
+  "IsDataAction": false
+}

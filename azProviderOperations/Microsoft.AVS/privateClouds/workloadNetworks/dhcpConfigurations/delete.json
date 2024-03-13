@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/delete",
+  "OperationName": "Delete dhcpConfigurations",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dhcpConfigurations",
+  "Description": "Delete dhcpConfigurations.",
+  "IsDataAction": false
+}

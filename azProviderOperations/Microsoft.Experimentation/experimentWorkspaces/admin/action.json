@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/admin/action",
+  "OperationName": "Admin Experiment Workspace",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experiment Workspace",
+  "Description": "Admin Experiment Workspace",
+  "IsDataAction": true
+}

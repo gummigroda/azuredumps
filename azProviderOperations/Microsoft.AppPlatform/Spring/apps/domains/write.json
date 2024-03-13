@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/domains/write",
+  "OperationName": "Update a custom domain in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application custom domain of Microsoft Azure Spring Apps",
+  "Description": "Create or update the custom domain for a specific application",
+  "IsDataAction": false
+}

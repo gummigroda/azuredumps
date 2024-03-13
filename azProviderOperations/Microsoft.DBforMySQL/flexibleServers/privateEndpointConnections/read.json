@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Azure Database for MySQL Private Endpoint Connection",
+  "Description": null,
+  "IsDataAction": false
+}

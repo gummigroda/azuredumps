@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/register/action",
+  "OperationName": "Register the Microsoft.HybridConnectivity",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.HybridConnectivity",
+  "IsDataAction": false
+}

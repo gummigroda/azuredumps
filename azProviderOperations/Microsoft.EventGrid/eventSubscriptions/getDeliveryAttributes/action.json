@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/eventSubscriptions/getDeliveryAttributes/action",
+  "OperationName": "Get EventSubscription Delivery Attributes",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Get EventSubscription Delivery Attributes",
+  "IsDataAction": false
+}

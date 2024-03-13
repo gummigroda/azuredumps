@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureFleet/register/action",
+  "OperationName": "Register subscription for Microsoft.AzureFleet",
+  "ProviderNamespace": "Microsoft Azure Fleet",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.AzureFleet resource provider",
+  "IsDataAction": false
+}

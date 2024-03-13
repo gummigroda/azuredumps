@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Notify Network Security Perimeter Updates Available",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Notify Network Security Perimeter Updates Available",
+  "Description": "Notify Network Security Perimeter Updates Available",
+  "IsDataAction": false
+}

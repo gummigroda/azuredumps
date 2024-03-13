@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/certificateProfiles/Read",
+  "OperationName": "Reads Code Signing Accounts",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CertificateProfiles",
+  "Description": "Reads code signing accounts.",
+  "IsDataAction": false
+}

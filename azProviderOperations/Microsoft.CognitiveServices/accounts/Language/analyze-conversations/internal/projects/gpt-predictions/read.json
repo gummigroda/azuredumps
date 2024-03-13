@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/internal/projects/gpt-predictions/read",
+  "OperationName": "GPT_GetGptPredictions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "gpt-predictions*",
+  "Description": "Get GPT predictions result.",
+  "IsDataAction": true
+}

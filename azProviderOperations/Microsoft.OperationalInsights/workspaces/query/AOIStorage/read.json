@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AOIStorage/read",
+  "OperationName": "Read AOIStorage data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AOIStorage",
+  "Description": "Read data from the AOIStorage table",
+  "IsDataAction": false
+}

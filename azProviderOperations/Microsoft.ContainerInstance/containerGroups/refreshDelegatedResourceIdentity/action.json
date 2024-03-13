@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/refreshDelegatedResourceIdentity/action",
+  "OperationName": "Refresh delegated resources.",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Refresh delegated resource identity for a specific container group.",
+  "IsDataAction": false
+}

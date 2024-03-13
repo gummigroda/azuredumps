@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalConfigs/write",
+  "OperationName": "Create developer portal config or Update developer portal config",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "portalConfigs",
+  "Description": "Creates a new developer portal config. or Updates the description of specified portal config or makes it current.",
+  "IsDataAction": false
+}

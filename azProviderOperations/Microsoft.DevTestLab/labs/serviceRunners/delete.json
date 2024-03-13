@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/serviceRunners/delete",
+  "OperationName": "Delete service runners.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service runners",
+  "Description": "Delete service runners.",
+  "IsDataAction": false
+}

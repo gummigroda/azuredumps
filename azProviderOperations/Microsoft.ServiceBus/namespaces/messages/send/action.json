@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/messages/send/action",
+  "OperationName": "Send messages",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Messages",
+  "Description": "Send messages",
+  "IsDataAction": true
+}

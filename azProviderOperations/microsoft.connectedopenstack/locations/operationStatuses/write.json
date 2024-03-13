@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedopenstack/locations/operationStatuses/write",
+  "OperationName": "write_operationStatuses",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "write operationStatuses",
+  "IsDataAction": false
+}

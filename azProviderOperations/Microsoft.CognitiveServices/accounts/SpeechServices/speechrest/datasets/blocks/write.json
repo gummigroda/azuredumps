@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/datasets/blocks/write",
+  "OperationName": "Create or update a dataset blocks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Blocks",
+  "Description": "Create or update a dataset blocks",
+  "IsDataAction": true
+}

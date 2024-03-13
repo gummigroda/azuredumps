@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateLinkResources/read",
+  "OperationName": "Read Monitoring Account Private Link Resources",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read all Monitoring Account Private Link Resources",
+  "IsDataAction": false
+}

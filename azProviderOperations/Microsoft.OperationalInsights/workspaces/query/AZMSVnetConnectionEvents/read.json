@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZMSVnetConnectionEvents/read",
+  "OperationName": "Read AZMSVnetConnectionEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZMSVnetConnectionEvents",
+  "Description": "Read data from the AZMSVnetConnectionEvents table",
+  "IsDataAction": false
+}

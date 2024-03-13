@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/read",
+  "OperationName": "Term Lists - Get All|Term Lists - Get Details",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "termlists*",
+  "Description": "Term Lists - Get All|Term Lists - Get Details",
+  "IsDataAction": true
+}

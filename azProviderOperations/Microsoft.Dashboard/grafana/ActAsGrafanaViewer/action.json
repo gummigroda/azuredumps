@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/ActAsGrafanaViewer/action",
+  "OperationName": "Act as Grafana Viewer role",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Grafana",
+  "Description": "Act as Grafana Viewer role",
+  "IsDataAction": true
+}

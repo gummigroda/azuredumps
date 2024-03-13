@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/tagRules/write",
+  "OperationName": "Create/Update tag rules resource",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "TagRules",
+  "Description": "Write tag rules",
+  "IsDataAction": false
+}

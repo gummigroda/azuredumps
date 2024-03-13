@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/mysolutions/delete",
+  "OperationName": "UserSolutions_Delete",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "UserSolutions",
+  "Description": "Remove user solutions",
+  "IsDataAction": false
+}

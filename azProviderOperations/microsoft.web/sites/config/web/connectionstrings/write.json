@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/web/connectionstrings/write",
+  "OperationName": "Create or Update Web App single sonnection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Connectionstring",
+  "Description": "Get Web App single App setting.",
+  "IsDataAction": false
+}

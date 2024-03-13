@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

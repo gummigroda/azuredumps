@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/pingMeshes/delete",
+  "OperationName": "Delete PingMesh",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "PingMesh",
+  "Description": "Deletes a PingMesh",
+  "IsDataAction": false
+}

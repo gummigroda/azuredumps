@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/cacheRules/operationStatuses/read",
+  "OperationName": "Get cache rule async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/CacheRules",
+  "Description": "Gets a cache rule async operation status",
+  "IsDataAction": false
+}

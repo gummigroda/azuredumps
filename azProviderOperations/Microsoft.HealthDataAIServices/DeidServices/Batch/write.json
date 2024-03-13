@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/DeidServices/Batch/write",
+  "OperationName": "Creates a new batch operation",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "DeidServices/Batch",
+  "Description": "Creates batches",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/registeredSubscriptions/read",
+  "OperationName": "Get registered subscriptions",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "RegisteredSubscriptions",
+  "Description": "Get registered subscription details",
+  "IsDataAction": false
+}

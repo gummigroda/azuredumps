@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dnsAliases/read",
+  "OperationName": "List/Get Azure SQL Managed Instance Dns Alias(es)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Dns Alias",
+  "Description": "Return the list of Azure SQL Managed Instance Dns Aliases for the specified instance.",
+  "IsDataAction": false
+}

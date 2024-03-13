@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/eventGridFilters/read",
+  "OperationName": "Get EventGrid Filter",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "EventGrid Filter",
+  "Description": "Get an EventGrid Filter.",
+  "IsDataAction": false
+}

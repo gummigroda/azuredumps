@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/checkDomainAvailability/action",
+  "OperationName": "Reads avaible SKUs for an subscription.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "",
+  "Description": "Reads avaible SKUs for an subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/usages/read",
+  "OperationName": "Gets the Azure SQL Database Server usages information",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Server Usages",
+  "Description": "Gets the Azure SQL Database Server usages information",
+  "IsDataAction": false
+}

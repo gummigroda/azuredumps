@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/monitors/delete",
+  "OperationName": "monitors_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "monitors",
+  "Description": "Deletes a SAP monitor with the specified subscription, resource group, and monitor name.",
+  "IsDataAction": false
+}

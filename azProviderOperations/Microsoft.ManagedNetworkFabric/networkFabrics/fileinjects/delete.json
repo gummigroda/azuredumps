@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/fileinjects/delete",
+  "OperationName": "FileInjects_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/fileinjects",
+  "Description": "Delete the FileInject resource.",
+  "IsDataAction": false
+}

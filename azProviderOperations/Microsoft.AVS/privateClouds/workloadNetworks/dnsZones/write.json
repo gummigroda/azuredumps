@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dnsZones/write",
+  "OperationName": "Write dnsZones",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dnsZones",
+  "Description": "Write dnsZones.",
+  "IsDataAction": false
+}

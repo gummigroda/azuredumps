@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/validateDeleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Validates deleting Vnet or subnet for Locations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Locations",
+  "Description": "Validates deleting Vnet or subnet for Locations",
+  "IsDataAction": false
+}

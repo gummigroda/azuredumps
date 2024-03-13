@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/checkNameAvailability/action",
+  "OperationName": "Checks name availability",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "",
+  "Description": "Check if platformAccount name is available",
+  "IsDataAction": false
+}

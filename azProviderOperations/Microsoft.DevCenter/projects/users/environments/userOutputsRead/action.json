@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/userOutputsRead/action",
+  "OperationName": "Projects_Users_Environments_UserOutputsRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows a user to read Output values from environment deployment.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/deployWorkflowArtifacts/action",
+  "OperationName": "Create the artifacts in a Logic App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Create the artifacts in a Logic App.",
+  "IsDataAction": false
+}

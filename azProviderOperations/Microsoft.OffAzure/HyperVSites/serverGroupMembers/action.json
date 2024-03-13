@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/serverGroupMembers/action",
+  "OperationName": "Lists server group members for the selected server group.",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Lists the server group members for the selected server group.",
+  "IsDataAction": false
+}

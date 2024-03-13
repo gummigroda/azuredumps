@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/services/write",
+  "OperationName": "Services_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "services",
+  "Description": "Create a ServiceResource",
+  "IsDataAction": false
+}

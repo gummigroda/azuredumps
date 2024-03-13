@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datastores/read",
+  "OperationName": "Gets datastores in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Datastores",
+  "Description": "Gets datastores in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkPacketBrokers/write",
+  "OperationName": "NetworkPacketBrokers_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkPacketBrokers",
+  "Description": "API to update certain properties of the Network Packet Broker resource.",
+  "IsDataAction": false
+}

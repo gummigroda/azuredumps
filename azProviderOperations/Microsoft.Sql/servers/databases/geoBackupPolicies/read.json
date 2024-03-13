@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/geoBackupPolicies/read",
+  "OperationName": "Gets a collection of database geobackup policies",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "A Database GeoBackup policy",
+  "Description": "Retrieve geo backup policies for a given database",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/listPartitions/action",
+  "OperationName": "EnergyServices_ListPartitions",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Method that gets called when list of partitions is requested.",
+  "IsDataAction": false
+}

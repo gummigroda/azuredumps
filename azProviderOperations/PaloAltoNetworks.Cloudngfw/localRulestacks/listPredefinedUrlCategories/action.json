@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/listPredefinedUrlCategories/action",
+  "OperationName": "LocalRulestacks_listPredefinedUrlCategories",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks",
+  "Description": "List predefined URL categories for rulestack",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assignments/write",
+  "OperationName": "Create security assignments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secrity assignments",
+  "Description": "Create or update the security assignment",
+  "IsDataAction": false
+}

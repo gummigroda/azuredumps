@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/delete",
+  "OperationName": "ServiceAreas_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas",
+  "Description": "Deletes the specified Mobile Packet Core service area resource.",
+  "IsDataAction": false
+}

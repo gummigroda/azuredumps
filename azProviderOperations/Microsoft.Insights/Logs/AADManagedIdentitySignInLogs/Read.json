@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADManagedIdentitySignInLogs/Read",
+  "OperationName": "Read AADManagedIdentitySignInLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADManagedIdentitySignInLogs",
+  "Description": "Read data from the AADManagedIdentitySignInLogs table",
+  "IsDataAction": false
+}

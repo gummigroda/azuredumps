@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/privateEndpointConnections/Delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices/PrivateEndpointConnections",
+  "Description": "Deletes an existing private endpoint connection",
+  "IsDataAction": false
+}

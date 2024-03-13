@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

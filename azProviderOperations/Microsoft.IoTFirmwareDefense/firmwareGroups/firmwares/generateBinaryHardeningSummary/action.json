@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/generateBinaryHardeningSummary/action",
+  "OperationName": "Firmware_GenerateBinaryHardeningSummary",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to list the binary hardening summary percentages for a firmware.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/storageAppliances/disableRemoteVendorManagement/action",
+  "OperationName": "StorageAppliances_DisableRemoteVendorManagement",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "storageAppliances",
+  "Description": "Disable remote vendor management of the provided storage appliance.",
+  "IsDataAction": false
+}

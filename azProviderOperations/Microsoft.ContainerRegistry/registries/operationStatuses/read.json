@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/operationStatuses/read",
+  "OperationName": "Get Registry Async Operation Status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets a registry async operation status",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/import/action",
+  "OperationName": "Import data into Redis from storage",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Import data of a specified format from multiple blobs into Redis",
+  "IsDataAction": false
+}

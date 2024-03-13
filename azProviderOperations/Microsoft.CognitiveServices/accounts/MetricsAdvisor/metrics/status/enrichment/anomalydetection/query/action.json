@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/metrics/status/enrichment/anomalydetection/query/action",
+  "OperationName": "Query anomaly detection status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Enrichment status of anomaly detection",
+  "Description": "Query anomaly detection status",
+  "IsDataAction": true
+}

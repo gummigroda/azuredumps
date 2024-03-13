@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MarketplaceOrdering/agreements/offers/plans/sign/action",
+  "OperationName": "Sign Agreement",
+  "ProviderNamespace": "Microsoft Marketplace Ordering",
+  "ResourceName": "Agreement",
+  "Description": "Sign an agreement for a given marketplace item",
+  "IsDataAction": false
+}

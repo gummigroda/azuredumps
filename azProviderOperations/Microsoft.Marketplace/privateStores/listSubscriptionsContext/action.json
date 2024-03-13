@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/listSubscriptionsContext/action",
+  "OperationName": "List the subscription in private store context",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "List the subscription in private store context",
+  "IsDataAction": false
+}

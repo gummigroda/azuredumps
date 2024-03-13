@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/managedeployments/action",
+  "OperationName": "Manage Service Deployments",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Change SKU/units, add/remove regional deployments of API Management Service",
+  "IsDataAction": false
+}

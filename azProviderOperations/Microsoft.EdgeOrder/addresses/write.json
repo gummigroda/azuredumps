@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/addresses/write",
+  "OperationName": "Create or Update Addresses",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "Addresses",
+  "Description": "Create or update the Addresses",
+  "IsDataAction": false
+}

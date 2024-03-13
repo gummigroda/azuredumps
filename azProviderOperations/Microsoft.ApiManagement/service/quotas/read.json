@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/quotas/read",
+  "OperationName": "Get quota values",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Quotas",
+  "Description": "Get values for quota",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/webappcollectors/delete",
+  "OperationName": "Delete Webapp collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Webapp Collector",
+  "Description": "Deletes the Webapp collector",
+  "IsDataAction": false
+}

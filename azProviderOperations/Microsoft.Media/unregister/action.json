@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/unregister/action",
+  "OperationName": "Unregisters the Media Services Resource Provider",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Media Services resource provider",
+  "IsDataAction": false
+}

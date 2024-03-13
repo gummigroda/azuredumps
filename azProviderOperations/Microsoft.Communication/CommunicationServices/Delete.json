@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/Delete",
+  "OperationName": "Deletes communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Deletes communication services",
+  "IsDataAction": false
+}

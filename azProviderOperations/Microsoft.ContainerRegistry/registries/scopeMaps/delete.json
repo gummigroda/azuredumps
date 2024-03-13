@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/scopeMaps/delete",
+  "OperationName": "Delete scope map",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ScopeMaps",
+  "Description": "Deletes a scope map from a container registry.",
+  "IsDataAction": false
+}

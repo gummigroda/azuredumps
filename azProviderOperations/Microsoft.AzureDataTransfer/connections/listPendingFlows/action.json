@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/listPendingFlows/action",
+  "OperationName": "ListPendingFlows_List",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections",
+  "Description": "Lists all pending flows for a connection.",
+  "IsDataAction": false
+}

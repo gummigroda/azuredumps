@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/read",
+  "OperationName": "Get table service properties or statistics",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Table Services",
+  "Description": "Get table service properties or statistics",
+  "IsDataAction": false
+}

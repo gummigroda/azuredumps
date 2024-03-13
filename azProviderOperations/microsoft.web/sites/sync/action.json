@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/sync/action",
+  "OperationName": "Sync Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Sync Web Apps.",
+  "IsDataAction": false
+}

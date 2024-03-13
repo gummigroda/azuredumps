@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l2Networks/write",
+  "OperationName": "L2Networks_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l2Networks",
+  "Description": "Update tags associated with the provided layer 2 (L2) network.",
+  "IsDataAction": false
+}

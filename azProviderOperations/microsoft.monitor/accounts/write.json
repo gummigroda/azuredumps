@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/write",
+  "OperationName": "Create or Update Monitoring Accounts",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Monitoring Account",
+  "IsDataAction": false
+}

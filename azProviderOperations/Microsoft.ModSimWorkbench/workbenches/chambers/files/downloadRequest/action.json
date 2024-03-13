@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/files/downloadRequest/action",
+  "OperationName": "files_downloadRequest",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/files",
+  "Description": "downloadRequest files",
+  "IsDataAction": true
+}

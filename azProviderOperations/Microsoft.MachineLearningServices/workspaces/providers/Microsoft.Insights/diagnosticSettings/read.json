@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Gets the diagnostic setting for the resource",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/exports/delete",
+  "OperationName": "Delete export",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Exports",
+  "Description": "Delete the specified export.",
+  "IsDataAction": false
+}

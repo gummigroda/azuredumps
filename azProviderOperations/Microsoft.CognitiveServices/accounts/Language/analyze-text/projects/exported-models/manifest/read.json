@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/exported-models/manifest/read",
+  "OperationName": "Get exported model manifest",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "manifest*",
+  "Description": "Gets the details and URL needed to download the exported model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/operational/updateMetadata/action",
+  "OperationName": "Update Metadata of Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operational Measurements",
+  "Description": "Update Metadata of Operational Measurements",
+  "IsDataAction": true
+}

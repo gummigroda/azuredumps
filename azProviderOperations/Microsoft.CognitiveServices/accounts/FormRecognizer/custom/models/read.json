@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/read",
+  "OperationName": "Get Custom Model|List Custom Models",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom Model - Results",
+  "Description": "Get detailed information about a custom model.\r\nGet information about all custom models",
+  "IsDataAction": true
+}

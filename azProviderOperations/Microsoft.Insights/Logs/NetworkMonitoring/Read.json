@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/NetworkMonitoring/Read",
+  "OperationName": "Read NetworkMonitoring data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "NetworkMonitoring",
+  "Description": "Read data from the NetworkMonitoring table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/provision/action",
+  "OperationName": "NetworkFabrics_provision",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Provisions the underlying resources in the given Network Fabric instance.",
+  "IsDataAction": false
+}

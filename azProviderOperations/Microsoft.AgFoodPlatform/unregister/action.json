@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/unregister/action",
+  "OperationName": "Unregister the AgFoodPlatform Resource Provider.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the AgFoodPlatform Resource Provider.",
+  "IsDataAction": false
+}

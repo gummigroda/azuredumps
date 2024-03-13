@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detect/action",
+  "OperationName": "Face - Detect",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Detect human faces in an image, return face rectangles, and optionally with faceIds, landmarks, and attributes.",
+  "IsDataAction": true
+}

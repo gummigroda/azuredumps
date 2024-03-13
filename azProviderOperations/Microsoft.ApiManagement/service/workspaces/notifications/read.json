@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/read",
+  "OperationName": "Get all publisher notifications or Get publisher notification details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Publisher Notifications",
+  "Description": "Lists a collection of properties defined within a service instance. or Gets the details of the Notification specified by its identifier.",
+  "IsDataAction": false
+}

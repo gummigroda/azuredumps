@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/registeredServers/read",
+  "OperationName": "Read Registered Server",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Registered Server",
+  "Description": "Read any Registered Server",
+  "IsDataAction": false
+}

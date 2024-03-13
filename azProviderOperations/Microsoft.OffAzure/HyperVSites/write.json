@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/write",
+  "OperationName": "Create or update Hyper-V site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Creates or updates the Hyper-V site",
+  "IsDataAction": false
+}

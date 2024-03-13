@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/locations/asyncOperations/read",
+  "OperationName": "Read asynchronous operation status",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "",
+  "Description": "Read an Async Operation's Status",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/metrics/blocklistTopTerms/read",
+  "OperationName": "List Top Terms Hit In Blocklist At Different Timestamps.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "blocklist top terms",
+  "Description": "List top terms hit in blocklist at different timestamps.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/serviceCertificates/read",
+  "OperationName": "Get The Certificates",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Service Certificate",
+  "Description": "Returns the service certificates used.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/deployments/embeddings/action",
+  "OperationName": "Create embeddings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Return the embeddings for a given prompt.",
+  "IsDataAction": true
+}

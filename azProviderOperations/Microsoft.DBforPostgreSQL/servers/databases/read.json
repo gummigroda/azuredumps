@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/databases/read",
+  "OperationName": "List/Get PostgreSQL Database",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Databases",
+  "Description": "Return the list of PostgreSQL Databases or gets the properties for the specified Database.",
+  "IsDataAction": false
+}

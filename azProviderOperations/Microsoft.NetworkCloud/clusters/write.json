@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/write",
+  "OperationName": "Clusters_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters",
+  "Description": "Patch the properties of the provided cluster, or update the tags associated with the cluster. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

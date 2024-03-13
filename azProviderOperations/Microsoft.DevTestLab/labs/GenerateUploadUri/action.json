@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/GenerateUploadUri/action",
+  "OperationName": "Generate image upload URI",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Generate a URI for uploading custom disk images to a Lab.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MicrosoftDynamicsTelemetrySystemMetricsLogs/read",
+  "OperationName": "Read MicrosoftDynamicsTelemetrySystemMetricsLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MicrosoftDynamicsTelemetrySystemMetricsLogs",
+  "Description": "Read data from the MicrosoftDynamicsTelemetrySystemMetricsLogs table",
+  "IsDataAction": false
+}

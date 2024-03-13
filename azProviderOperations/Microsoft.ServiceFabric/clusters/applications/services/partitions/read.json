@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/clusters/applications/services/partitions/read",
+  "OperationName": "Read Partition",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Partitions",
+  "Description": "Read any Partition",
+  "IsDataAction": false
+}

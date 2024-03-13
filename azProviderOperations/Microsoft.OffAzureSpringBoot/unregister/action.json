@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/unregister/action",
+  "OperationName": "UnregistertheMicrosoft.OffAzureSpringBoot",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "",
+  "Description": "UnregisterthesubscriptionforMicrosoft.OffAzureSpringBoot",
+  "IsDataAction": false
+}

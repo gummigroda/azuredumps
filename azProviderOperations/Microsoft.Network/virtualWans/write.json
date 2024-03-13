@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/write",
+  "OperationName": "Create or update a Virtual Wan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Create or update a Virtual Wan",
+  "IsDataAction": false
+}

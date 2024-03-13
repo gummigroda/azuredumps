@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/actionGroups/NetworkSecurityPerimeterAssociationProxies/Delete",
+  "OperationName": "Delete action group endpoint NSP association proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action group endpoint NSP association proxy",
+  "Description": "Delete a action group endpoint NSP association proxy",
+  "IsDataAction": false
+}

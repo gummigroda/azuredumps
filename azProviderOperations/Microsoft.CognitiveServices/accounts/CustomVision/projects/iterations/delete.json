@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/delete",
+  "OperationName": "DeleteIteration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Delete a specific iteration of a project.",
+  "IsDataAction": true
+}

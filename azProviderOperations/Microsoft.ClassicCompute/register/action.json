@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/register/action",
+  "OperationName": "Register Classic Compute",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Register to Classic Compute",
+  "IsDataAction": false
+}

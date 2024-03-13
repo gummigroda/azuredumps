@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/replicas/operationStatuses/read",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/replicas/OperationStatuses",
+  "Description": "",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/EntitySearch/search/action",
+  "OperationName": "Get entities",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Entity Search - v7",
+  "Description": "Get entities and places results for a given query.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/documents/read",
+  "OperationName": "Get Ingestion Documents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Document Operations",
+  "Description": "Get a list of documents within an index.",
+  "IsDataAction": true
+}

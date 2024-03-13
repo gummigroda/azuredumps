@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/appattachpackages/read",
+  "OperationName": "Read appattachpackages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "appattachpackages",
+  "Description": "Read the appattachpackages to see packages present.",
+  "IsDataAction": false
+}

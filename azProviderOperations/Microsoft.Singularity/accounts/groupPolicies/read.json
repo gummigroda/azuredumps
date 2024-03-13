@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/read",
+  "OperationName": "List Singularity Group Policies",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Lists Singularity Group policies",
+  "IsDataAction": false
+}

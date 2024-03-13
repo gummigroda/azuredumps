@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update diagnostic settings for Connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Diagnostic settings for Connections",
+  "Description": "Creates or updates diagnostic settings for Connections",
+  "IsDataAction": false
+}

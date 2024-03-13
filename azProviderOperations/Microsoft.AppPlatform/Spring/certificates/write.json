@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/certificates/write",
+  "OperationName": "Update a certificate to Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The certificate of Microsoft Azure Spring Apps",
+  "Description": "Create or update the certificate for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

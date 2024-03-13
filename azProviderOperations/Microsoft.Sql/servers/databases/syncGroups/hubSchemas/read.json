@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/hubSchemas/read",
+  "OperationName": "List Azure SQL Sync Hub Database schema",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Return the list of sync hub database schemas",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ContainerInstanceLog/read",
+  "OperationName": "Read ContainerInstanceLog data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ContainerInstanceLog",
+  "Description": "Read data from the ContainerInstanceLog table",
+  "IsDataAction": false
+}

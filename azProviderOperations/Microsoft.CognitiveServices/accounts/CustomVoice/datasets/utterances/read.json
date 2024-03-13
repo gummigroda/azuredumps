@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/utterances/read",
+  "OperationName": "Gets utterances of the specified training set.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Utterances",
+  "Description": "Gets utterances of the specified training set.",
+  "IsDataAction": true
+}

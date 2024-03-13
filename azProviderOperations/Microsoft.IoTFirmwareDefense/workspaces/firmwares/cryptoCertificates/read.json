@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/cryptoCertificates/read",
+  "OperationName": "CryptoCertificates_ListByFirmware",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/cryptoCertificates",
+  "Description": "Lists cryptographic certificate analysis results found in a firmware.",
+  "IsDataAction": false
+}

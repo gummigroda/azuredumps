@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/snapshots/write",
+  "OperationName": "Write Snapshot",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Snapshot",
+  "Description": "Creates or updates a snapshot in the configuration store.",
+  "IsDataAction": true
+}

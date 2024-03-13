@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/setDefaultAccount/action",
+  "OperationName": "Set Default Account",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "",
+  "Description": "Sets the default account for the scope.",
+  "IsDataAction": false
+}

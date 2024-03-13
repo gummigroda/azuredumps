@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/locations/operations/read",
+  "OperationName": "Read Operation Status",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "Operation",
+  "Description": "Read the status of any Operation",
+  "IsDataAction": false
+}

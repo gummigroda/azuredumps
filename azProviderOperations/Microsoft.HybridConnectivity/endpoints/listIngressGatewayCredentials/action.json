@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/listIngressGatewayCredentials/action",
+  "OperationName": "Endpoints_ListIngressGatewayCredentials",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Gets the ingress gateway endpoint credentials ",
+  "IsDataAction": false
+}

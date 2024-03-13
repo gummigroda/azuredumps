@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/retrieveRegistrationToken/action",
+  "OperationName": "retrieveRegistrationToken",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools",
+  "Description": "Retrieve registration token for host pool",
+  "IsDataAction": false
+}

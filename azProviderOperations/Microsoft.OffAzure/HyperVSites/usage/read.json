@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/usage/read",
+  "OperationName": "Get Hyper-V site usages",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Gets the usages of a Hyper-V site",
+  "IsDataAction": false
+}

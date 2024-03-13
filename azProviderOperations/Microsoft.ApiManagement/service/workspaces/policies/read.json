@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/policies/read",
+  "OperationName": "Get Workspace policies or Get Workspace policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace policies configuration",
+  "Description": "Get the policy configuration at the Workspace level. or Get the policy configuration at the Workspace level.",
+  "IsDataAction": false
+}

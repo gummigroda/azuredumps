@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/associatedNetworkSecurityGroups/write",
+  "OperationName": "Add Virtual Machine Associated Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Associated Network Security Group",
+  "Description": "Adds a network security group associated with the virtual machine.",
+  "IsDataAction": false
+}

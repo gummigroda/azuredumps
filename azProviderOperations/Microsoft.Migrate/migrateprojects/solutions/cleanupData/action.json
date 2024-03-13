@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/solutions/cleanupData/action",
+  "OperationName": "Clean up data",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Migrate project solution ",
+  "Description": "Clean up the migrate project solution data",
+  "IsDataAction": false
+}

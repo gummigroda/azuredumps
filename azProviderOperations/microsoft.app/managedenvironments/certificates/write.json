@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/certificates/write",
+  "OperationName": "Create or Update Managed Environment Certificate",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Create or update a Managed Environment Certificate",
+  "IsDataAction": false
+}

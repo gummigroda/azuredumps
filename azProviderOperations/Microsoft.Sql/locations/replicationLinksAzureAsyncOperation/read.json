@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/replicationLinksAzureAsyncOperation/read",
+  "OperationName": "Get the async operation result of replication links.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Resource name of ReplicationLinkAzureAsyncOperation controller.",
+  "Description": "Return the get result of replication links async operation.",
+  "IsDataAction": false
+}

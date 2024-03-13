@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/webappAssessments/webappServicePlans/read",
+  "OperationName": "Get WebApp service plan",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp service plan",
+  "Description": "Get the properties of WebApp service plan",
+  "IsDataAction": false
+}

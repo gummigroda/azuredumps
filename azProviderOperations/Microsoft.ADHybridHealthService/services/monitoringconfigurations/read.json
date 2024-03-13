@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/monitoringconfigurations/read",
+  "OperationName": "Gets monitoring configurations for a service",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Gets the monitoring configurations for a given service.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/setAzureNetworkManagerConfiguration/read",
+  "OperationName": "Set Azure Network Manager Configuration Permission",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Network Manager Configuration Request",
+  "Description": "Permission for calling Set Azure Network Manager Configuration operation. This read permission, not setAzureNetworkManagerConfiguration/action, is required to call Set Azure Network Manager Configuration.",
+  "IsDataAction": false
+}

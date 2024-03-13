@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/hsmPools/write",
+  "OperationName": "Create or Update HSM pool",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "HSM pool",
+  "Description": "Create a new HSM pool of update the properties of an existing HSM pool",
+  "IsDataAction": false
+}

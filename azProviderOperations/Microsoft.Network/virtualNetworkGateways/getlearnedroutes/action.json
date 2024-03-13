@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/getlearnedroutes/action",
+  "OperationName": "Gets virtualnetworkgateway learned routes",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Gets virtualnetworkgateway learned routes",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/autonomousDatabases/read",
+  "OperationName": "AutonomousDatabases_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "autonomousDatabases",
+  "Description": "Get a AutonomousDatabase",
+  "IsDataAction": false
+}

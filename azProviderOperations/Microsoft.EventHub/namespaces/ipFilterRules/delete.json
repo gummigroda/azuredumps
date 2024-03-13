@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/ipFilterRules/delete",
+  "OperationName": "Delete IP Filter Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "IPFilter",
+  "Description": "Delete IP Filter Resource",
+  "IsDataAction": false
+}

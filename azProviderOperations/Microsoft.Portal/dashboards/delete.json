@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/dashboards/delete",
+  "OperationName": "Delete Dashboard",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Dashboards",
+  "Description": "Removes the dashboard from the subscription.",
+  "IsDataAction": false
+}

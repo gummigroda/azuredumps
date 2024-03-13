@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/OracleServers/read",
+  "OperationName": "OracleServers_ListBySite",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/OracleServers",
+  "Description": "Lists the OracleSites resource in OracleSites.",
+  "IsDataAction": false
+}

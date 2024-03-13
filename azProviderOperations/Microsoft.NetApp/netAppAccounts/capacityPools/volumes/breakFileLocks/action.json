@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/breakFileLocks/action",
+  "OperationName": "Break file locks",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Breaks file locks on a volume",
+  "IsDataAction": false
+}

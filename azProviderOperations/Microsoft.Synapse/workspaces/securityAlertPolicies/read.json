@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/securityAlertPolicies/read",
+  "OperationName": "Read default SQL server security alert policies.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Server Security Alert Policy",
+  "Description": "Read default SQL server security alert policies.",
+  "IsDataAction": false
+}

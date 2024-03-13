@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/internalNetworks/updateBfdForStaticRoutesState/action",
+  "OperationName": "InternalNetworks_updateBfdForStaticRoutesState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/internalNetworks",
+  "Description": "Update BfdForStaticRoutes for internalNetwork.",
+  "IsDataAction": false
+}

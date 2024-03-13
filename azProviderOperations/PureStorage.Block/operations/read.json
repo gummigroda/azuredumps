@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

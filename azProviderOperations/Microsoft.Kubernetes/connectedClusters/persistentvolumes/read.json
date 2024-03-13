@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/persistentvolumes/read",
+  "OperationName": "Gets/List persistentvolumes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "persistentvolumes",
+  "Description": "Reads persistentvolumes",
+  "IsDataAction": true
+}

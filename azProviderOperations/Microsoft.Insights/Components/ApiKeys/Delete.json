@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/ApiKeys/Delete",
+  "OperationName": "Application Insights API key delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights API key",
+  "Description": "Deleting an Application Insights API key",
+  "IsDataAction": false
+}

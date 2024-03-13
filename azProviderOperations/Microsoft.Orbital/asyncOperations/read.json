@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/asyncOperations/read",
+  "OperationName": "Read Async Operation",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Async Operations",
+  "Description": "Read any Async Operation",
+  "IsDataAction": false
+}

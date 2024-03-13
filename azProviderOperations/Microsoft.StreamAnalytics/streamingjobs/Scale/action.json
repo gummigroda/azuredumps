@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/Scale/action",
+  "OperationName": "Scale Stream Analytics Job",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job",
+  "Description": "Scale Stream Analytics Job",
+  "IsDataAction": false
+}

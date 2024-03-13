@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/events/read",
+  "OperationName": "List events",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Events",
+  "Description": "List events",
+  "IsDataAction": false
+}

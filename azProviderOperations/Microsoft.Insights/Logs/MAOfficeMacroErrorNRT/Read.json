@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeMacroErrorNRT/Read",
+  "OperationName": "Read MAOfficeMacroErrorNRT data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeMacroErrorNRT",
+  "Description": "Read data from the MAOfficeMacroErrorNRT table",
+  "IsDataAction": false
+}

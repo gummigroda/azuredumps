@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServicesHub/workspaces/read",
+  "OperationName": "ServicesHubWorkspaces_ListForUser",
+  "ProviderNamespace": "Microsoft.ServicesHub",
+  "ResourceName": "Workspaces",
+  "Description": "List the Services Hub Workspaces for a given User",
+  "IsDataAction": false
+}

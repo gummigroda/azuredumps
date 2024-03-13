@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/operations/read",
+  "OperationName": "List available Operations in Microsoft.Logz",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "operations",
+  "Description": "List available Operations in Microsoft.Logz",
+  "IsDataAction": false
+}

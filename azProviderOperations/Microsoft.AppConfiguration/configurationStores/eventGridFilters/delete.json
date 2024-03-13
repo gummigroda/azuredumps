@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/eventGridFilters/delete",
+  "OperationName": "Delete Configuration Store Event Grid Filter",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store Event Grid Filter",
+  "Description": "Deletes a configuration store event grid filter.",
+  "IsDataAction": false
+}

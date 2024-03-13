@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/switchBilling/action",
+  "OperationName": "Switch Billing",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Switches billing for NewRelic monitor resource to Azure",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/write",
+  "OperationName": "Create or Update Orders",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "Create or update the Orders",
+  "IsDataAction": false
+}

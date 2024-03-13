@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/configSnapshots/read",
+  "OperationName": "ConfigSnapshots_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/configSnapshots",
+  "Description": "Lists all the Configuration Snapshots in a mobile packet core instance.",
+  "IsDataAction": false
+}

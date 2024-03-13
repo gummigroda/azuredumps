@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/validatePolicies/action",
+  "OperationName": "Validates Restrictions",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Validates Tenant Policy Restrictions",
+  "IsDataAction": false
+}

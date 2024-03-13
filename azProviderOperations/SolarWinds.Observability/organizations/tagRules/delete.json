@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/tagRules/delete",
+  "OperationName": "TagRules_Delete",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/tagRules",
+  "Description": "Delete a TagRule",
+  "IsDataAction": false
+}

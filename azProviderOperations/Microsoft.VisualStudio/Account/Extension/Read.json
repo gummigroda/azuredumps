@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Account/Extension/Read",
+  "OperationName": "Reads the Account/Extension",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Account/Extension",
+  "Description": "Read Account/Extension",
+  "IsDataAction": false
+}

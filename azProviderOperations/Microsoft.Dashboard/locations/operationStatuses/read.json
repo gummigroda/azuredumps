@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

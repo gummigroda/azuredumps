@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/reports/blobUris/read",
+  "OperationName": "Gets all Risky IP report URIs.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Gets all Risky IP report URIs for the last 7 days.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/tapConfigurations/read",
+  "OperationName": "Get Network Interface Tap Configuration.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration.",
+  "Description": "Gets a Network Interface Tap Configuration.",
+  "IsDataAction": false
+}

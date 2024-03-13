@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMExtensions/read",
+  "OperationName": "Get Shared VM Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMExtensions",
+  "Description": "Gets the properties of Shared VM Extension",
+  "IsDataAction": false
+}

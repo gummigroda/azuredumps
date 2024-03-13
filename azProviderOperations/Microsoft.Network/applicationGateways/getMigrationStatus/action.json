@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/getMigrationStatus/action",
+  "OperationName": "Get Migration Status",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Get Status Of Migrate Application Gateway From V1 sku To V2 sku",
+  "IsDataAction": false
+}

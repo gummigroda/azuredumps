@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/nginxDeployments/Delete",
+  "OperationName": "Delete deployment resources",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "nginxDeployments",
+  "Description": "Delete nginxDeployments",
+  "IsDataAction": false
+}

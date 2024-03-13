@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/operationresults/read",
+  "OperationName": "Read Operation Result.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operation Results",
+  "Description": "Read the status of an asynchronous operation.",
+  "IsDataAction": false
+}

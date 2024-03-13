@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/hybridLinkOperationResults/read",
+  "OperationName": "Gets the status of a long term hybrid link async operation on Azure Sql Managed Instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Hybrid Link",
+  "Description": "Gets the status of a long term hybrid link async operation.",
+  "IsDataAction": false
+}

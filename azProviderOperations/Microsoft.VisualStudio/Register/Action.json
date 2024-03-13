@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Register/Action",
+  "OperationName": "Registers the Azure Subscription with Microsoft.VisualStudio provider",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "",
+  "Description": "Register Azure Subscription with Microsoft.VisualStudio provider",
+  "IsDataAction": false
+}

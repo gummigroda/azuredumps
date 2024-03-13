@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/delete",
+  "OperationName": "RoutePolicies_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "Implements Route Policy DELETE method.",
+  "IsDataAction": false
+}

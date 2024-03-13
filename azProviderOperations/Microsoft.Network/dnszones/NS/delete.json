@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/NS/delete",
+  "OperationName": "Deletes the DNS record set of type NS",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type NS",
+  "Description": "Deletes the DNS record set of type NS",
+  "IsDataAction": false
+}

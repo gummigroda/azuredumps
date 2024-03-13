@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/networkcloudcontrollers/createPrivateEndpointOnAcr/action",
+  "OperationName": "NetworkCloudControllers_createPrivateEndpointOnAcr",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/networkcloudcontrollers",
+  "Description": "Create private endpoint on acr in network fabric controller managed resource group.",
+  "IsDataAction": false
+}

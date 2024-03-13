@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/modules/activities/read",
+  "OperationName": "Read Azure Automation Activities",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Activities",
+  "Description": "Gets Azure Automation Activities",
+  "IsDataAction": false
+}

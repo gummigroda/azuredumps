@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "",
+  "Description": "Registers the subscription",
+  "IsDataAction": false
+}

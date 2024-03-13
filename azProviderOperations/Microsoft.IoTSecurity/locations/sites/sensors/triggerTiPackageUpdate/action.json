@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/sites/sensors/triggerTiPackageUpdate/action",
+  "OperationName": "Trigger threat intelligence package update",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Triggers threat intelligence package update",
+  "IsDataAction": false
+}

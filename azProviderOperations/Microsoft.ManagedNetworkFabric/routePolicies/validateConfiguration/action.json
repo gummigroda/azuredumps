@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/validateConfiguration/action",
+  "OperationName": "RoutePolicies_ValidateConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "Validates the configuration of the resources.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/hiveReplicationRules/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "HiveReplicationRules",
+  "Description": "Return a given hiveReplicationRule",
+  "IsDataAction": false
+}

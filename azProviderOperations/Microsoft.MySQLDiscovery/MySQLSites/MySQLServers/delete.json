@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/MySQLServers/delete",
+  "OperationName": "MySQLServers_Delete",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites/MySQLServers",
+  "Description": "Deletes the MySQLServers resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/stop/action",
+  "OperationName": "Stop Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Stop a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/locations/clusterVersions/read",
+  "OperationName": "Read Cluster Version",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Cluster Versions",
+  "Description": "Read any Cluster Version",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/evaluations/read",
+  "OperationName": "Get Evaluation.|List Offline Evaluations.*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Get the Offline Evaluation associated with the Id.\r\nList of all Offline Evaluations.*",
+  "IsDataAction": true
+}

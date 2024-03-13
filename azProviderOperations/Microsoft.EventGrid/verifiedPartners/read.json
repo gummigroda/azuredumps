@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/verifiedPartners/read",
+  "OperationName": "Read VerifiedPartner",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "verifiedPartners",
+  "Description": "Read a verified partner",
+  "IsDataAction": false
+}

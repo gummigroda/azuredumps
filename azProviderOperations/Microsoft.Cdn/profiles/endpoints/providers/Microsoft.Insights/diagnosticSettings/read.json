@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic settings",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "profiles/endpoints",
+  "Description": "Gets the diagnostic settings for the resource",
+  "IsDataAction": false
+}

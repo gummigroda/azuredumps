@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/CNAME/write",
+  "OperationName": "Create or update record set of type CNAME",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS CNAME record set",
+  "Description": "Create or update a record set of type ‘CNAME’ within a Private DNS zone.",
+  "IsDataAction": false
+}

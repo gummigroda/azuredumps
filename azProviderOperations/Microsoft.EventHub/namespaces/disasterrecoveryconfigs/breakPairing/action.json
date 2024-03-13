@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/disasterRecoveryConfigs/breakPairing/action",
+  "OperationName": "Break Pairing",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Disables Disaster Recovery and stops replicating changes from primary to secondary namespaces.",
+  "IsDataAction": false
+}

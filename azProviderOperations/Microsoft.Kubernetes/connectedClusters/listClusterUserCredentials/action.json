@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/listClusterUserCredentials/action",
+  "OperationName": "Lists the clusterUser credential of the cluster",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "connectedClusters",
+  "Description": "List clusterUser credential(preview)",
+  "IsDataAction": false
+}

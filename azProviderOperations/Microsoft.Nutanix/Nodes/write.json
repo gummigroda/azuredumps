@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Nutanix/Nodes/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.Nutanix",
+  "ResourceName": "Nodes",
+  "Description": "Write operation",
+  "IsDataAction": false
+}

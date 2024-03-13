@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/rebuild/action",
+  "OperationName": "Rebuild Role Instance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Role Instance",
+  "Description": "Rebuilds the role instance.",
+  "IsDataAction": false
+}

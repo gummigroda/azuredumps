@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/storage/delete",
+  "OperationName": "Deletes files from workspace storage",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Notebooks",
+  "Description": "Deletes files from workspace storage",
+  "IsDataAction": false
+}

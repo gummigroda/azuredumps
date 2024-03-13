@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/namespaces/listUserCredential/action",
+  "OperationName": "Microsoft.KubernetesConfiguration/namespaces/listUserCredential/action",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/namespaces",
+  "Description": "Get User Credentials for the parent cluster of the namespace resource.",
+  "IsDataAction": false
+}

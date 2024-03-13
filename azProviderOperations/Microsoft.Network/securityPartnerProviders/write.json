@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/write",
+  "OperationName": "Create or Update SecurityPartnerProviders",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Creates a SecurityPartnerProvider or Updates An Existing SecurityPartnerProvider",
+  "IsDataAction": false
+}

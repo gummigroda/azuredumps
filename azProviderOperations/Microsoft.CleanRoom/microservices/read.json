@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/microservices/read",
+  "OperationName": "MicroServices_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "microservices",
+  "Description": "List micro services in a resource group.",
+  "IsDataAction": false
+}

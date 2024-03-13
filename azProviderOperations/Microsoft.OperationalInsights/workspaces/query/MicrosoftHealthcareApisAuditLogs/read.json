@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MicrosoftHealthcareApisAuditLogs/read",
+  "OperationName": "Read MicrosoftHealthcareApisAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MicrosoftHealthcareApisAuditLogs",
+  "Description": "Read data from the MicrosoftHealthcareApisAuditLogs table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/nextHop/read",
+  "OperationName": "Gets the next hop from a VM",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "For a specified target and destination IP address, return the next hop type and next hope IP address.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupValidateFeatures/action",
+  "OperationName": "Validate Features",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Validate Features",
+  "IsDataAction": false
+}

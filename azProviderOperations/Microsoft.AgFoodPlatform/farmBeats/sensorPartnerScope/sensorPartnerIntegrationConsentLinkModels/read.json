@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartnerScope/sensorPartnerIntegrationConsentLinkModels/read",
+  "OperationName": "Get or List AgFoodPlatform sensor partner integration consent links resource(s) for sensor partners.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensor partner integration consent links",
+  "Description": "Get or List AgFoodPlatform sensor partner integration consent links resource(s) restricted to caller's sensor partner scope.",
+  "IsDataAction": true
+}

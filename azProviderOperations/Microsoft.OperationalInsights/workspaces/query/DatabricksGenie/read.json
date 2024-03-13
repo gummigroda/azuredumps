@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksGenie/read",
+  "OperationName": "Read DatabricksGenie data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksGenie",
+  "Description": "Read data from the DatabricksGenie table",
+  "IsDataAction": false
+}

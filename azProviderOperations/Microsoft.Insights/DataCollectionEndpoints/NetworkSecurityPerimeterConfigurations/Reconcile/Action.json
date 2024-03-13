@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/NetworkSecurityPerimeterConfigurations/Reconcile/Action",
+  "OperationName": "Reconcile data collection endpoint NSP configuration",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint effective NSP configuration",
+  "Description": "Reconcile data collection endpoint NSP configuration",
+  "IsDataAction": false
+}

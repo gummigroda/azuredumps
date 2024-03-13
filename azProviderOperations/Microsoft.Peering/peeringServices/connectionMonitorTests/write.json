@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/connectionMonitorTests/write",
+  "OperationName": "Write Peering Service Connection Monitor Tests",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "connectionMonitorTests",
+  "Description": "Write any connectionMonitorTests",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/delete",
+  "OperationName": "springbootsites_Delete",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites",
+  "Description": "Deleteaspringbootsitesresource.",
+  "IsDataAction": false
+}

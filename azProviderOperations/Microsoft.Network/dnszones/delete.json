@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/delete",
+  "OperationName": "Delete DNS Zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Zone",
+  "Description": "Delete the DNS zone, in JSON format. The zone properties include tags, etag, numberOfRecordSets, and maxNumberOfRecordSets.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/registeredIdentities/read",
+  "OperationName": "Get Containers",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Get Containers operation can be used get the containers registered for a resource.",
+  "IsDataAction": false
+}

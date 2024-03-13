@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/sensorDataModels/write",
+  "OperationName": "Create or Update AgFoodPlatform sensor data models.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensor data models",
+  "Description": "Creates or Updates AgFoodPlatform sensor data models.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/migrationAgents/Delete",
+  "OperationName": "Deletes the migrationAgents",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "migrationAgents",
+  "Description": "Delete migrationAgents",
+  "IsDataAction": false
+}

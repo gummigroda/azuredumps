@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionRuleAssociations/Write",
+  "OperationName": "Create or update data collection rule association",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection rule association",
+  "Description": "Create or update a resource's association with a data collection rule",
+  "IsDataAction": false
+}

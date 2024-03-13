@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesLogonLogoff/read",
+  "OperationName": "Read AADDomainServicesLogonLogoff data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesLogonLogoff",
+  "Description": "Read data from the AADDomainServicesLogonLogoff table",
+  "IsDataAction": false
+}

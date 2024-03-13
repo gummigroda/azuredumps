@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/connectors/generateConfigurations/action",
+  "OperationName": "Connector_GenerateConfigurations",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/connectors",
+  "Description": "Generate configurations for a Connector.",
+  "IsDataAction": false
+}

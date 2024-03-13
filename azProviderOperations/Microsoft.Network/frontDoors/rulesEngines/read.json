@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/rulesEngines/read",
+  "OperationName": "Gets a Rules Engine",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Rules Engine",
+  "Description": "Gets a Rules Engine",
+  "IsDataAction": false
+}

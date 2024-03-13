@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/unregister/action",
+  "OperationName": "Unregister the Microsoft.MixedReality",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.MixedReality",
+  "IsDataAction": false
+}

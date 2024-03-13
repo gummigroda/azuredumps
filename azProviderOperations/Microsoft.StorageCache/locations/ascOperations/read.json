@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/locations/ascOperations/read",
+  "OperationName": "Get Operation",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Operation",
+  "Description": "Gets the status of an asynchronous operation for the Azure HPC cache",
+  "IsDataAction": false
+}

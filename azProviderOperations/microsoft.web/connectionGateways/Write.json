@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connectionGateways/Write",
+  "OperationName": "Add or Update Connection Gateways",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connection Gateways",
+  "Description": "Creates or updates a Connection Gateway.",
+  "IsDataAction": false
+}

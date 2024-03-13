@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azureFirewalls/natRuleCollections/write",
+  "OperationName": "CreateOrUpdate Azure Firewall NatRuleCollection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall Nat Rule Collection",
+  "Description": "CreatesOrUpdates Azure Firewall NatRuleCollection",
+  "IsDataAction": false
+}

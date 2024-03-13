@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/roles/write",
+  "OperationName": "Add or Update simple entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entity roles",
+  "Description": "Adds a role for a simple entity model\r\nUpdates a role of a simple entity model.",
+  "IsDataAction": true
+}

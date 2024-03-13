@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/advisors/read",
+  "OperationName": "Return the list of advisors",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Advisors",
+  "Description": "Return the list of advisors",
+  "IsDataAction": false
+}

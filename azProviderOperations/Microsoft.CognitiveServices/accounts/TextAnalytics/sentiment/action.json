@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextAnalytics/sentiment/action",
+  "OperationName": "Analyze Sentiment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Analytics Service",
+  "Description": "The API returns a numeric score between 0 and 1. Scores close to 1 indicate positive sentiment, while scores close to 0 indicate negative sentiment. A score of 0.5 indicates the lack of sentiment (e.g. a factoid statement).",
+  "IsDataAction": true
+}

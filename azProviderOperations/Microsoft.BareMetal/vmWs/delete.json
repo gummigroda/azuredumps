@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/vmWs/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "VmW",
+  "Description": "Delete operation",
+  "IsDataAction": false
+}

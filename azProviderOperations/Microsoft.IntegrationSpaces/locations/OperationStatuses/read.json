@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

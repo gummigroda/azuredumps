@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networkfeatures/read",
+  "OperationName": "Get Web App Network Features",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Network Features",
+  "Description": "Get Web App Features.",
+  "IsDataAction": false
+}

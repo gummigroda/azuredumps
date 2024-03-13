@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validate a private endpoint connection proxy under the specified configuration store.",
+  "IsDataAction": false
+}

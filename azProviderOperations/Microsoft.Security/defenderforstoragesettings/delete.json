@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/defenderforstoragesettings/delete",
+  "OperationName": "Delete defenderForStorageSettings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "DefenderForStorageSettings",
+  "Description": "Deletes the defenderforstoragesettings for the scope",
+  "IsDataAction": false
+}

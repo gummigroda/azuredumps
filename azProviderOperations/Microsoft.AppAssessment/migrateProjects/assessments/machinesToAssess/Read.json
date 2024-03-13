@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/assessments/machinesToAssess/Read",
+  "OperationName": "Gets/List machinesToAssess in an assessment within a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/assessments/machinesToAssess",
+  "Description": "Read machinesToAssess in a migrate project assessment",
+  "IsDataAction": false
+}

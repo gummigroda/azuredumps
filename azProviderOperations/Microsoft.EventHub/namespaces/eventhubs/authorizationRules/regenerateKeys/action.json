@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/authorizationRules/regenerateKeys/action",
+  "OperationName": "Resource Regeneratekeys",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub AuthorizationRules",
+  "Description": "Regenerate the Primary or Secondary key to the Resource",
+  "IsDataAction": false
+}

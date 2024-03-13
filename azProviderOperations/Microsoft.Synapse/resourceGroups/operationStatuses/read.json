@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/resourceGroups/operationStatuses/read",
+  "OperationName": "Read Async Operation Status.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Async Operation Status.",
+  "Description": "Read any Async Operation Status.",
+  "IsDataAction": false
+}

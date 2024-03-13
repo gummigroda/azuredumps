@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/sims/delete",
+  "OperationName": "Sims_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "sims",
+  "Description": "Deletes the specified SIM.",
+  "IsDataAction": false
+}

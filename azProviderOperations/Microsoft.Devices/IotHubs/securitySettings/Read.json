@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/securitySettings/Read",
+  "OperationName": "Get Iot Hub SecuritySettings",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/SecuritySettings",
+  "Description": "Get the Azure Security Center settings on Iot Hub",
+  "IsDataAction": false
+}

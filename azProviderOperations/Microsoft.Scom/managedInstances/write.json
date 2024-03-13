@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/write",
+  "OperationName": "Instances_Update",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Patch SCOM managed instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/privateEndpointConnections/write",
+  "OperationName": "Create/Update Mongo Cluster Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Private Endpoint Connections",
+  "Description": "Create or Update a private endpoint connection on a specified Mongo Cluster.",
+  "IsDataAction": false
+}

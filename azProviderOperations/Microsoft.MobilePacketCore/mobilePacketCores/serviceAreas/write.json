@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/serviceAreas/write",
+  "OperationName": "ServiceAreas_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/serviceAreas",
+  "Description": "Creates or updates a Mobile Packet Core service area resource",
+  "IsDataAction": false
+}

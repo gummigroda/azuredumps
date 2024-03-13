@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AgriFoodWeatherLogs/read",
+  "OperationName": "Read AgriFoodWeatherLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AgriFoodWeatherLogs",
+  "Description": "Read data from the AgriFoodWeatherLogs table",
+  "IsDataAction": false
+}

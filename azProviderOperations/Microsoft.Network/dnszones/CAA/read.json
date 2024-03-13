@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/CAA/read",
+  "OperationName": "Get record set of type CAA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS CAA record set",
+  "Description": "Get the record set of type ‘CAA’, in JSON format. The record set contains the TTL, tags, and etag.",
+  "IsDataAction": false
+}

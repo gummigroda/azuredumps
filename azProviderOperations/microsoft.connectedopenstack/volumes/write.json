@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumes/write",
+  "OperationName": "Volumes_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumes",
+  "Description": "API to update certain properties of the Volume resource.",
+  "IsDataAction": false
+}

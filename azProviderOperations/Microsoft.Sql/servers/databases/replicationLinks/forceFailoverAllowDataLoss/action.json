@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/forceFailoverAllowDataLoss/action",
+  "OperationName": "Failover Azure SQL Database Replication link allowing data loss.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Execute forced failover of an existing replication link.",
+  "IsDataAction": false
+}

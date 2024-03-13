@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/validateMigration/action",
+  "OperationName": "Validate Migration of a Storage Account",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Validates migration of a storage account.",
+  "IsDataAction": false
+}

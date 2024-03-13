@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/read",
+  "OperationName": "Get Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy",
+  "Description": "Gets a Firewall Policy",
+  "IsDataAction": false
+}

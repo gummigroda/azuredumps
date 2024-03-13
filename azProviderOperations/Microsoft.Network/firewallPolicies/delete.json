@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/delete",
+  "OperationName": "Delete Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy",
+  "Description": "Deletes a Firewall Policy",
+  "IsDataAction": false
+}

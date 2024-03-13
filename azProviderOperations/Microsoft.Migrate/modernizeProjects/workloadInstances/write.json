@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/workloadInstances/write",
+  "OperationName": "Puts the workload instance",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Creates the workload instance in the given modernizeProject",
+  "IsDataAction": false
+}

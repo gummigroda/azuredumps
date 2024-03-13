@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AOIDatabaseQuery/read",
+  "OperationName": "Read AOIDatabaseQuery data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AOIDatabaseQuery",
+  "Description": "Read data from the AOIDatabaseQuery table",
+  "IsDataAction": false
+}

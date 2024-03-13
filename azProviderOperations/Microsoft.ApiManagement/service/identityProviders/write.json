@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/identityProviders/write",
+  "OperationName": "Create new Identity Provider or Update existing Identity Provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Identity Providers",
+  "Description": "Creates or Updates the IdentityProvider configuration. or Updates an existing IdentityProvider configuration.",
+  "IsDataAction": false
+}

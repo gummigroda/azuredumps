@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/discoveries/delete",
+  "OperationName": "delete Discoveries",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Discoveries",
+  "Description": "delete Discovery in the workspace. Not in use",
+  "IsDataAction": true
+}

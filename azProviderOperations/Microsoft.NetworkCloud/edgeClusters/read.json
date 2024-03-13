@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/read",
+  "OperationName": "EdgeClusters_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters",
+  "Description": "Get properties of the provided the edge cluster.",
+  "IsDataAction": false
+}

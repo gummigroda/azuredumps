@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/read",
+  "OperationName": "Get Server site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Gets the properties of a Server site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverKeyOperationResults/read",
+  "OperationName": "Transparent Data Encryption server keys operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Transparent Data Encryption server key operation",
+  "Description": "Gets in-progress operations on transparent data encryption server keys",
+  "IsDataAction": false
+}

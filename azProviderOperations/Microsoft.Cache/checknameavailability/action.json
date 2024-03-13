@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/checknameavailability/action",
+  "OperationName": "Check Cache Name Availability",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "",
+  "Description": "Checks if a name is available for use with a new Redis Cache",
+  "IsDataAction": false
+}

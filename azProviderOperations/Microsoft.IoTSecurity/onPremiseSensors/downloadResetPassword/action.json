@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/onPremiseSensors/downloadResetPassword/action",
+  "OperationName": "Download file for reset password of the on-premise IoT Sensor",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "On-premise IoT Sensors",
+  "Description": "Downloads file for reset password of the on-premise IoT Sensor",
+  "IsDataAction": false
+}

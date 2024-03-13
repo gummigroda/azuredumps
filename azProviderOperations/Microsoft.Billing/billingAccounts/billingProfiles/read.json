@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/read",
+  "OperationName": "List/Get Billing Profile(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Profiles",
+  "Description": null,
+  "IsDataAction": false
+}

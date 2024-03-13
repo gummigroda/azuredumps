@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/dataMaskingPolicies/rules/write",
+  "OperationName": "Set database data masking policy rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Data Masking Policy Rule",
+  "Description": "Change data masking policy rule for a given database",
+  "IsDataAction": false
+}

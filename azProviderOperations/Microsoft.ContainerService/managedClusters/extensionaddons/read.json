@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/extensionaddons/read",
+  "OperationName": "Get an extension addon",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "ExtensionAddons",
+  "Description": "Gets an extension addon",
+  "IsDataAction": false
+}

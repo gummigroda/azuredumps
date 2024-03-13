@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/Stop/action",
+  "OperationName": "Stops a template.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Stops a template by stopping all resources inside the template.",
+  "IsDataAction": false
+}

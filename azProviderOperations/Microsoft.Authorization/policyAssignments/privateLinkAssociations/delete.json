@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/privateLinkAssociations/delete",
+  "OperationName": "Delete a Private Link Association",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Private Link Association",
+  "Description": "Deletes a private link association.",
+  "IsDataAction": false
+}

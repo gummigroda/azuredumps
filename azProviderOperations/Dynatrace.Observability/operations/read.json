@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/operations/read",
+  "OperationName": "List available Operations in Dynatrace.Observability",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "operations",
+  "Description": "List available Operations in Dynatrace.Observability",
+  "IsDataAction": false
+}

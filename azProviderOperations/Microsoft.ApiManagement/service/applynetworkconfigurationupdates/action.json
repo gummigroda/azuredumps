@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/applynetworkconfigurationupdates/action",
+  "OperationName": "Apply Network Configuration Updates",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Updates the Microsoft.ApiManagement resources running in Virtual Network to pick updated Network Settings.",
+  "IsDataAction": false
+}

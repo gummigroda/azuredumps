@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/alertsSuppressionRules/read",
+  "OperationName": "Get security alert suppression rule",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alert Suppression Rules",
+  "Description": "Gets all available security alert suppression rule",
+  "IsDataAction": false
+}

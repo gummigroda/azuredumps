@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/customdomains/DisableCustomHttps/action",
+  "OperationName": "DisableCustomHttps",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "CustomDomain",
+  "Description": null,
+  "IsDataAction": false
+}

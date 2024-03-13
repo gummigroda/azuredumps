@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/publicIPAddresses/dnsAliases/read",
+  "OperationName": "Gets a Public Ip Address DNS Alias resource",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Alias of a Public Ip Address",
+  "Description": "Gets a Public Ip Address Dns Alias resource",
+  "IsDataAction": false
+}

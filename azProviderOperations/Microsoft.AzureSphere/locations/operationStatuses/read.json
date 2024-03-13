@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/locations/operationStatuses/read",
+  "OperationName": "read_operationStatuses",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "locations/operationStatuses",
+  "Description": "read operationStatuses",
+  "IsDataAction": false
+}

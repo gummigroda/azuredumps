@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/delete",
+  "OperationName": "Delete vCenters",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "vCenters",
+  "Description": "Delete any vCenters",
+  "IsDataAction": false
+}

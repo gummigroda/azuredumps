@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/web/connectionstrings/read",
+  "OperationName": "Get Web App single connection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Connectionstring",
+  "Description": "Get Web App single connectionstring",
+  "IsDataAction": false
+}

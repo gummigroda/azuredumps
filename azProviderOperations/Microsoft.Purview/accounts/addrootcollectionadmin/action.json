@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/addrootcollectionadmin/action",
+  "OperationName": "Add root collection admin to account resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "Add root collection admin to account resource for Microsoft Purview provider.",
+  "IsDataAction": false
+}

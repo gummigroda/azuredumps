@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/DetachFollowerDatabases/action",
+  "OperationName": "Detach follower databases action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Detaches follower's databases.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/listKeys/action",
+  "OperationName": "List Domain Keys",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domains",
+  "Description": "List keys for a domain",
+  "IsDataAction": false
+}

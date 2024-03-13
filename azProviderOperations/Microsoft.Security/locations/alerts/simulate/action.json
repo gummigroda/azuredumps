@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/alerts/simulate/action",
+  "OperationName": "Simulate Alert",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alerts",
+  "Description": "Simulate a security alert",
+  "IsDataAction": false
+}

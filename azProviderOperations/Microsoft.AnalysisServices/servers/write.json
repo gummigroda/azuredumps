@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/write",
+  "OperationName": "Create/Update Analysis Server",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Creates or updates the specified Analysis Server.",
+  "IsDataAction": false
+}

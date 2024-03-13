@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupJobs/backupChildJobs/read",
+  "OperationName": "Get Jobs",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Backup Jobs",
+  "Description": "Returns all Job Objects",
+  "IsDataAction": false
+}

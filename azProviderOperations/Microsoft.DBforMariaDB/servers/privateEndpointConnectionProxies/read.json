@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/privateEndpointConnectionProxies/read",
+  "OperationName": "List/Get Azure Database for MariaDB Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Azure Database for MariaDB Private Endpoint Connection Proxy",
+  "Description": "Returns the list of private endpoint connection proxies or gets the properties for the specified private endpoint connection proxy.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/detect/iterations/url/nostore/action",
+  "OperationName": "DetectImageUrlWithNoStore",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "url*",
+  "Description": "Detect objects in an image url without saving the result.",
+  "IsDataAction": true
+}

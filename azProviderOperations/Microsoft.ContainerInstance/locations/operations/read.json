@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/operations/read",
+  "OperationName": "Read operations.",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Resource provider operations.",
+  "Description": "List the operations for Azure Container Instance service.",
+  "IsDataAction": false
+}

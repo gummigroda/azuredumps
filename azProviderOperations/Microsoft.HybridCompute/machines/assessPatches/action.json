@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/machines/assessPatches/action",
+  "OperationName": "Assess Azure Arc machines to get missing software patches",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "machines",
+  "Description": "Assesses any Azure Arc machines to get missing software patches",
+  "IsDataAction": false
+}

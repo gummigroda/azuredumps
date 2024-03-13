@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/listDeployments/action",
+  "OperationName": "Catalogs_ListDeployments",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Lists deployments for catalog.",
+  "IsDataAction": false
+}

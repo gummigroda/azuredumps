@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applications/listTokens/action",
+  "OperationName": "Applications_ListTokens",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applications",
+  "Description": "List tokens for application.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/disks/read",
+  "OperationName": "Get Data Disks",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Disk",
+  "Description": "Retrives list of data disks",
+  "IsDataAction": false
+}

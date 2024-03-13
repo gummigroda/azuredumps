@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/blockchainNetworks/Delete",
+  "OperationName": "Deletes blockchainNetworks resource",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "blockchainNetworks",
+  "Description": "Deletes blockchainNetworks",
+  "IsDataAction": false
+}

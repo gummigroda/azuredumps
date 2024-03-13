@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/restart/action",
+  "OperationName": "Restart MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Restarts a specific server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l3Networks/read",
+  "OperationName": "L3Networks_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l3Networks",
+  "Description": "Get properties of the provided layer 3 (L3) network.",
+  "IsDataAction": false
+}

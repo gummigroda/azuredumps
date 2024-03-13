@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/ipv6FirewallRules/write",
+  "OperationName": "Create/Update IPv6 server firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "IPv6 Server Firewall Rule",
+  "Description": "Creates a IPv6 server firewall rule with the specified parameters, update the properties for the specified rule or overwrite all existing rules with new server firewall rule(s).",
+  "IsDataAction": false
+}

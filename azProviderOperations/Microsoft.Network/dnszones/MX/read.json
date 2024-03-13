@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/MX/read",
+  "OperationName": "Get record set of type MX",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS MX record set",
+  "Description": "Get the record set of type ‘MX’, in JSON format. The record set contains a list of records as well as the TTL, tags, and etag.",
+  "IsDataAction": false
+}

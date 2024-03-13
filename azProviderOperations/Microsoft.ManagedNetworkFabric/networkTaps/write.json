@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTaps/write",
+  "OperationName": "NetworkTaps_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTaps",
+  "Description": "API to update certain properties of the Network Tap resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/register/action",
+  "OperationName": "Register the Microsoft.AzureSphere",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AzureSphere",
+  "IsDataAction": false
+}

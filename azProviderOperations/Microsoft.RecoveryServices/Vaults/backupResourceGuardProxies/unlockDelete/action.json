@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies/unlockDelete/action",
+  "OperationName": "Unlock delete ResourceGuard proxy operation unlocks the next delete critical operation",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Resource Guard Proxy",
+  "Description": "Unlock delete ResourceGuard proxy operation unlocks the next delete critical operation",
+  "IsDataAction": false
+}

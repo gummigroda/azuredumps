@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/import/action",
+  "OperationName": "AnalyzeConversations_Projects_TriggerImportProjectJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Triggers a job to import a project in JSON format. If a project with the same name already exists, the data of that project is replaced.",
+  "IsDataAction": true
+}

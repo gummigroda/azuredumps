@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/operationsstatus/read",
+  "OperationName": "Get VMware operation status",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "OperationsStatus",
+  "Description": "Gets the properties of a VMware operation status",
+  "IsDataAction": false
+}

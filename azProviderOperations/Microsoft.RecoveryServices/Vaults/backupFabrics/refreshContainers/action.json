@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/refreshContainers/action",
+  "OperationName": "Refresh container",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Refresh Containers",
+  "Description": "Refreshes the container list",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/cordon/action",
+  "OperationName": "BareMetalMachines_Cordon",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Cordon the provided bare metal machine's Kubernetes node.",
+  "IsDataAction": false
+}

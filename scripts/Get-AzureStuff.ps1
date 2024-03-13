@@ -9,7 +9,7 @@ param (
   [Alias("PSPath")]
   [string]$Path,
   [Parameter(Mandatory)]
-  [ValidateSet('Policies', 'Roles','ProviderOperations','Locations')]
+  [ValidateSet('Policies', 'Roles', 'ProviderOperations', 'Locations')]
   [string]$Type
 )
 
@@ -61,8 +61,19 @@ Write-Output ("Got {0} {1} from Azure." -f $stuff.Count, $type)
         
 foreach ($item in $stuff) {
   $toFileName = ("{0}.json" -f $item.SavePath)
-  Write-Verbose ("Saving: [{0}] to [{1}]" -f $item.SaveName, $item.SavePath)
-  New-Item -Path $toFileName -ItemType "file" -Value ($item | Select-Object -ExcludeProperty SavePath, SaveName | ConvertTo-Json -Depth 100) -Force
+  Write-Verbose ("Saving: [{0}] to [{1}]" -f $item.SaveName, $toFileName)
+  try {
+    $null = New-Item -Path $toFileName -ItemType "file" -Value ($item | Select-Object -ExcludeProperty SavePath, SaveName | ConvertTo-Json -Depth 100) -Force  
+  }
+  catch [System.Management.Automation.DriveNotFoundException]{
+    # Something strange is happening, save for further analysis
+    $toFileName = Join-Path -Path $Path -ChildPath "_errors" -AdditionalChildPath ("{0}.json" -f ($item.Operation -replace "[^\w\s/\.]","")).Replace('.','-').Replace('/','_')
+    New-Item -Path $toFileName -ItemType "file" -Value ($item | Select-Object -ExcludeProperty SavePath, SaveName | ConvertTo-Json -Depth 100) -Force -ErrorAction SilentlyContinue
+  }
+  catch {
+    Write-Warning $PSItem.ToString()
+  }
 }
+
 
 Write-Output "Done!"        

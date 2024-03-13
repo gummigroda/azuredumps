@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/administrators/delete",
+  "OperationName": "Delete Administrator of PostgreSQL server.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Administrator of PostgreSQL server.",
+  "Description": "Deletes an existing administrator of PostgreSQL server.",
+  "IsDataAction": false
+}

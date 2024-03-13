@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/diagnosticSettings/write",
+  "OperationName": "Set Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Diagnostic Settings",
+  "Description": "Creates or updates the diganostic setting for the resource",
+  "IsDataAction": false
+}

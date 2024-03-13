@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/privateEndpointConnectionProxies/read",
+  "OperationName": "Read Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Microsoft Data Factory Provider",
+  "Description": "Read Private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

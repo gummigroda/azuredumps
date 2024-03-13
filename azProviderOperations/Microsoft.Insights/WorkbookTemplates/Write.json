@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/WorkbookTemplates/Write",
+  "OperationName": "Create or update workbook template",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WorkbookTemplates",
+  "Description": "Create or update a workbook template",
+  "IsDataAction": false
+}

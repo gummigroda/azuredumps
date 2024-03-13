@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/delete",
+  "OperationName": "Delete load balancer backend address pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Deletes a load balancer backend address pool",
+  "IsDataAction": false
+}

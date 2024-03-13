@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/apis/delete",
+  "OperationName": "Remove API from Gateway",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "APIs added to Gateway",
+  "Description": "Deletes the specified API from the specified Gateway.",
+  "IsDataAction": false
+}

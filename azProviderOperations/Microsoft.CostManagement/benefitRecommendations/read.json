@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/benefitRecommendations/read",
+  "OperationName": "List Microsoft benefit recommendations",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "BenefitRecommendations",
+  "Description": "List  single or shared recommendations for Microsoft benefits.",
+  "IsDataAction": false
+}

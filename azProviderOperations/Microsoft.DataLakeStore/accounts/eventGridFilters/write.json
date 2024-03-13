@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/eventGridFilters/write",
+  "OperationName": "Create or Update EventGrid Filter",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "EventGrid Filter",
+  "Description": "Create or update an EventGrid Filter.",
+  "IsDataAction": false
+}

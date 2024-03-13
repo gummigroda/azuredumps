@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/configurationGroupValues/delete",
+  "OperationName": "configurationGroupValues_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "configurationGroupValues",
+  "Description": "Deletes the specified hybrid configuration group value.",
+  "IsDataAction": false
+}

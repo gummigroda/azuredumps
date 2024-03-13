@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/agentPools/write",
+  "OperationName": "Create or Update Agent Pool",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Agent Pools",
+  "Description": "Creates a new agent pool or updates an existing one",
+  "IsDataAction": false
+}

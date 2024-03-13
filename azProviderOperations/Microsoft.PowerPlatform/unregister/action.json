@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription",
+  "IsDataAction": false
+}

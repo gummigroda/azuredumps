@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/authorizationRules/action",
+  "OperationName": "Update Queue Authorization Rules (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue",
+  "Description": "Operation to update Queue. This operation is not supported on API version 2017-04-01. Authorization Rules. Please use a PUT call to update Authorization Rule.",
+  "IsDataAction": false
+}

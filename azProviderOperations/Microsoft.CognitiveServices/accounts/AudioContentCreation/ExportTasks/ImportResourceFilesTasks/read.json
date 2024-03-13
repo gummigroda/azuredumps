@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ExportTasks/ImportResourceFilesTasks/read",
+  "OperationName": "Import resource files tasks.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Import resource files tasks",
+  "Description": "Import resource files tasks.",
+  "IsDataAction": true
+}

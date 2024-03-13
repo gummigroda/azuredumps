@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Gets the metric definitions for ExpressRoute Gateways",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoute Gateways metric definitions",
+  "Description": "Gets the metric definitions for ExpressRoute Gateways",
+  "IsDataAction": false
+}

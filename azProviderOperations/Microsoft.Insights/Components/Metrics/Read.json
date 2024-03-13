@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Metrics/Read",
+  "OperationName": "Application Insights component metrics read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights component metrics",
+  "Description": "Reading Application Insights component metrics",
+  "IsDataAction": false
+}

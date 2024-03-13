@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/unregister/action",
+  "OperationName": "Unregister Microsoft.Web resource provider",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "",
+  "Description": "Unregister Microsoft.Web resource provider for the subscription.",
+  "IsDataAction": false
+}

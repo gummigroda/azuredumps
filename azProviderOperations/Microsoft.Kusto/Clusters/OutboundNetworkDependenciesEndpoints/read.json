@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/OutboundNetworkDependenciesEndpoints/read",
+  "OperationName": "Gets outbound network dependencies endpoints",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Outbound network dependencies endpoints",
+  "Description": "Reads outbound network dependencies endpoints for a resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/storageAppliances/read",
+  "OperationName": "StorageAppliances_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "storageAppliances",
+  "Description": "Get properties of the provided storage appliance.",
+  "IsDataAction": false
+}

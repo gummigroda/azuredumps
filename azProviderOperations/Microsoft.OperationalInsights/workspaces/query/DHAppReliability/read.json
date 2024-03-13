@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DHAppReliability/read",
+  "OperationName": "Read DHAppReliability data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DHAppReliability",
+  "Description": "Read data from the DHAppReliability table",
+  "IsDataAction": false
+}

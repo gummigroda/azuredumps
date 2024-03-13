@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/images/operationstatuses/read",
+  "OperationName": "Get Storage Account Image Operation Status",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Image Operation Status",
+  "Description": "Returns the storage account image operation status.",
+  "IsDataAction": false
+}

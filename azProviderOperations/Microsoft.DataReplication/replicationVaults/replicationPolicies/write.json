@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationPolicies/write",
+  "OperationName": "Updates replication policy",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Policies",
+  "Description": "Updates replication policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/summarylogs/delete",
+  "OperationName": "Delete a log analytics table.",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SummaryLogs",
+  "Description": "Delete a log analytics summary logs.",
+  "IsDataAction": false
+}

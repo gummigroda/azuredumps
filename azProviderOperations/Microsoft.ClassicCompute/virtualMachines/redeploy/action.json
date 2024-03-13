@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/redeploy/action",
+  "OperationName": "Redeploy Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Redeploys the virtual machine.",
+  "IsDataAction": false
+}

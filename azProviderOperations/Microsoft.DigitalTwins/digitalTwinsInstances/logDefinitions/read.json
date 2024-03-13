@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/logDefinitions/read",
+  "OperationName": "Get Azure Monitor Log Settings",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Gets the log settings for the resource's Azure Monitor",
+  "IsDataAction": false
+}

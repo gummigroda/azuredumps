@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approval for creating a Private Endpoint",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service",
+  "Description": "Approval for creating a Private Endpoint",
+  "IsDataAction": false
+}

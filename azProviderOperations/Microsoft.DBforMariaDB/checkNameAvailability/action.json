@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/checkNameAvailability/action",
+  "OperationName": "Check Server Name Availability",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "",
+  "Description": "Verify whether given server name is available for provisioning worldwide for a given subscription.",
+  "IsDataAction": false
+}

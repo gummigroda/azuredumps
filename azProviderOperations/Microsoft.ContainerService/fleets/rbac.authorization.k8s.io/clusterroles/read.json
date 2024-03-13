@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/clusterroles/read",
+  "OperationName": "Gets/List clusterroles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Clusterroles",
+  "Description": "Reads clusterroles",
+  "IsDataAction": true
+}

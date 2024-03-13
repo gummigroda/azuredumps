@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/endpoints/write",
+  "OperationName": "Endpoints_Update",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/endpoints",
+  "Description": "Updates properties for an Endpoint resource. Properties not specified in the request body will be unchanged.",
+  "IsDataAction": false
+}

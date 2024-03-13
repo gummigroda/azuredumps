@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/securityAlertPolicies/write",
+  "OperationName": "Update managed database threat detection policy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Database Threat Detection Policy",
+  "Description": "Change the database threat detection policy for a given managed database",
+  "IsDataAction": false
+}

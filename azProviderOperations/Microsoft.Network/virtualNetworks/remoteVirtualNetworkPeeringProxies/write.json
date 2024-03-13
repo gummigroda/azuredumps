@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/remoteVirtualNetworkPeeringProxies/write",
+  "OperationName": "Create or Update Virtual Network Peering Proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Peering Proxy",
+  "Description": "Creates a virtual network peering proxy or updates an existing virtual network peering proxy",
+  "IsDataAction": false
+}

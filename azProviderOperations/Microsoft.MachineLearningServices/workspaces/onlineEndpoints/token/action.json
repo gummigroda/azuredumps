@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineendpoints/token/action",
+  "OperationName": "Retrieve auth token to score Online Endpoints in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Retrieve auth token to score Online Endpoints in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

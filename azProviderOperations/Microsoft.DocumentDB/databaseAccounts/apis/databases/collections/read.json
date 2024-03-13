@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read collection(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Collection",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read a collection or list all the collections. Only applicable to API types: 'mongodb'.",
+  "IsDataAction": false
+}

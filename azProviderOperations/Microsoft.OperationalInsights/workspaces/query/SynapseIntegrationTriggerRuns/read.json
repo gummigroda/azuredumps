@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseIntegrationTriggerRuns/read",
+  "OperationName": "Read SynapseIntegrationTriggerRuns data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseIntegrationTriggerRuns",
+  "Description": "Read data from the SynapseIntegrationTriggerRuns table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkServiceDesignGroups/networkServiceDesignVersions/read",
+  "OperationName": "networkServiceDesignVersions_ListByNetworkServiceDesignGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkServiceDesignGroups/networkServiceDesignVersions",
+  "Description": "Gets information about a list of network service design versions under a network service design group.",
+  "IsDataAction": false
+}

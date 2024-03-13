@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/prepareNetworkPolicies/action",
+  "OperationName": "Prepares a subnet by applying necessary Network Policies",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Prepares a subnet by applying necessary Network Policies",
+  "IsDataAction": false
+}

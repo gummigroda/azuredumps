@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSNetworkTraversalIncomingOperations/read",
+  "OperationName": "Read ACSNetworkTraversalIncomingOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSNetworkTraversalIncomingOperations",
+  "Description": "Read data from the ACSNetworkTraversalIncomingOperations table",
+  "IsDataAction": false
+}

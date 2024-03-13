@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Databases/InviteFollower/action",
+  "OperationName": null,
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Databases resource type",
+  "Description": null,
+  "IsDataAction": false
+}

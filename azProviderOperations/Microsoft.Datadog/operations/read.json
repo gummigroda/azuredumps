@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/operations/read",
+  "OperationName": "List available Microsoft.Datadog operations",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "operations",
+  "Description": "List operations available on Microsoft.Datadog resource provider",
+  "IsDataAction": false
+}

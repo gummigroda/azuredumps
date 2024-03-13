@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/query/action",
+  "OperationName": "Query Digital Twins Graph",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "",
+  "Description": "Query any Digital Twins Graph",
+  "IsDataAction": true
+}

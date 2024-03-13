@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/resetvpnclientsharedkey/action",
+  "OperationName": "Reset Vpnclient shared key for VirtualNetworkGateway P2S client.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Reset Vpnclient shared key for VirtualNetworkGateway P2S client.",
+  "IsDataAction": false
+}

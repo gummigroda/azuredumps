@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/checkservicefeatureavailibility/read",
+  "OperationName": "Gets if a feature is enabled for a service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Given a feature name verifies if a service has everything required to use that feature.",
+  "IsDataAction": false
+}

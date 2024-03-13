@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/livePipelines/write",
+  "OperationName": "Create or Update Live Pipeline",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Pipeline Resource",
+  "Description": "Create or Update any Live Pipeline",
+  "IsDataAction": false
+}

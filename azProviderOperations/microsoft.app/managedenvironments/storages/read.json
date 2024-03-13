@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/storages/read",
+  "OperationName": "Read Managed Environment Storage.",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Storage",
+  "Description": "Get storage for a Managed Environment.",
+  "IsDataAction": false
+}

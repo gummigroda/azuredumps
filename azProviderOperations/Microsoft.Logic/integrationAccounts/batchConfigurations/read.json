@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/batchConfigurations/read",
+  "OperationName": "Get Integration Account Batch Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Batch Configuration",
+  "Description": "Reads the batch configuration in integration account.",
+  "IsDataAction": false
+}

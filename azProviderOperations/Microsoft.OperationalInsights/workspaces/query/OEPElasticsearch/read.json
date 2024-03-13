@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/OEPElasticsearch/read",
+  "OperationName": "Read OEPElasticsearch data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "OEPElasticsearch",
+  "Description": "Read data from the OEPElasticsearch table",
+  "IsDataAction": false
+}

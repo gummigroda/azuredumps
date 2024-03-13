@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/gateways/write",
+  "OperationName": "Gateways_Update",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "gateways",
+  "Description": "Update Gateway tags.",
+  "IsDataAction": false
+}

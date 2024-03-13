@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/galleryImages/write",
+  "OperationName": "Add or modify gallery images.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Gallery Images",
+  "Description": "Add or modify gallery images.",
+  "IsDataAction": false
+}

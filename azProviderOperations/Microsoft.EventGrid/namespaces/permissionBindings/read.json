@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/permissionBindings/read",
+  "OperationName": "Read Permission Binding",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "permissionBindings",
+  "Description": "Read a Permission Binding",
+  "IsDataAction": false
+}

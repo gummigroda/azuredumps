@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/delete",
+  "OperationName": "Delete applicationgroups",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups",
+  "Description": "Delete applicationgroups",
+  "IsDataAction": false
+}

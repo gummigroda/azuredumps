@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/register/action",
+  "OperationName": "Register PowerBI Dedicated resource provider",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "",
+  "Description": "Registers Power BI Dedicated resource provider.",
+  "IsDataAction": false
+}

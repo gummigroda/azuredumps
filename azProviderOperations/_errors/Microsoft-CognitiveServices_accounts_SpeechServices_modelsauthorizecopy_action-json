@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models:authorizecopy/action",
+  "OperationName": "Authorize Copy Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "This method can be used to allow copying a model from another speech resource.",
+  "IsDataAction": true
+}

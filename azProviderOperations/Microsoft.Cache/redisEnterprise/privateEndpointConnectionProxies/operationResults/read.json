@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/privateEndpointConnectionProxies/operationResults/read",
+  "OperationName": "Redis Enterprise cache private endpoint operation results (read)",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise private endpoint connection proxies",
+  "Description": "View the result of private endpoint connection operations in the management portal",
+  "IsDataAction": false
+}

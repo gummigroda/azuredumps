@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alerts/read",
+  "OperationName": "Read alerts",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "alerts",
+  "Description": "Get all the alerts for the input filters.",
+  "IsDataAction": false
+}

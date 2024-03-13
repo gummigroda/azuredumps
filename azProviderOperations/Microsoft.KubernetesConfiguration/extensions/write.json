@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/extensions/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/extensions/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/extensions",
+  "Description": "Creates or updates extension resource.",
+  "IsDataAction": false
+}

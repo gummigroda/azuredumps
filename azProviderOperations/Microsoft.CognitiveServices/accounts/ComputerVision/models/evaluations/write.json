@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/models/evaluations/write",
+  "OperationName": "EvaluateModel",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Evaluate an existing model.",
+  "IsDataAction": true
+}

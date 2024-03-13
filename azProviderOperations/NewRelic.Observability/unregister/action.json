@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/unregister/action",
+  "OperationName": "Unregisters NewRelic.Observability Resource provider",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "",
+  "Description": "Unregisters NewRelic.Observability Resource provider",
+  "IsDataAction": false
+}

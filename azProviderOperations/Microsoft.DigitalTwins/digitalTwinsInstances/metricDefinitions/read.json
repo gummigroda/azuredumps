@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/metricDefinitions/read",
+  "OperationName": "Get Azure Monitor Metric Settings",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Gets the metric settings for the resource's Azure Monitor",
+  "IsDataAction": false
+}

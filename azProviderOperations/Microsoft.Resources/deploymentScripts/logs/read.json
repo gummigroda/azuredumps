@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/deploymentScripts/logs/read",
+  "OperationName": "读取部署脚本日志",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "部署脚本日志",
+  "Description": "获取或列出部署脚本日志",
+  "IsDataAction": false
+}

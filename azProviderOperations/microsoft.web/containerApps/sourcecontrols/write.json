@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/sourcecontrols/write",
+  "OperationName": "Create or Update Container App Source Control",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App Source Control",
+  "Description": "Create or Update a Container App Source Control",
+  "IsDataAction": false
+}

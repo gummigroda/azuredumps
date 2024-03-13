@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "",
+  "Description": "Checks if Dynatrace resource name is available",
+  "IsDataAction": false
+}

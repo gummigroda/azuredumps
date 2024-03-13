@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/preflight/action",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "",
+  "Description": "",
+  "IsDataAction": false
+}

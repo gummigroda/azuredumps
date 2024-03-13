@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/unprepareNetworkPolicies/action",
+  "OperationName": "Unprepare a subnet by removing the applied Network Policies",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Unprepare a subnet by removing the applied Network Policies",
+  "IsDataAction": false
+}

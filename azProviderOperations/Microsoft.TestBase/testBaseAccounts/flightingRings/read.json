@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/flightingRings/read",
+  "OperationName": "FlightingRings_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/flightingRings",
+  "Description": "Gets a flighting ring of a Test Base Account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateLinkServices/notifyPrivateEndpointMove/action",
+  "OperationName": "Notifies a Private Link Service for Private Endpoint move",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Link Service",
+  "Description": "Notifies a connected Private Link Service of Private Endpoint move",
+  "IsDataAction": false
+}

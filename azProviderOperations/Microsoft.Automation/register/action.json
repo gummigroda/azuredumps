@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/register/action",
+  "OperationName": "Register the subscription to Azure Automation",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "",
+  "Description": "Registers the subscription to Azure Automation",
+  "IsDataAction": false
+}

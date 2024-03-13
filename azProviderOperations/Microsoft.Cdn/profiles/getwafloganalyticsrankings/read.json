@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/getwafloganalyticsrankings/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "WafLoganalyticsRankings",
+  "Description": null,
+  "IsDataAction": false
+}

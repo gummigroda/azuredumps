@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/write",
+  "OperationName": "Add Workspace or Update Workspace",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspaces",
+  "Description": "Creates Workspace. or Updates the details of the Workspace specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/managedShortTermRetentionPolicyAzureAsyncOperation/read",
+  "OperationName": "Get short term retention policy operation status",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed Short Term Retention Policy",
+  "Description": "Gets the status of a short term retention policy operation",
+  "IsDataAction": false
+}

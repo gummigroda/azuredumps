@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/unregister/action",
+  "OperationName": "Unregister Resource Provider Microsoft.Cache",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "",
+  "Description": "Unregisters the 'Microsoft.Cache' resource provider with a subscription",
+  "IsDataAction": false
+}

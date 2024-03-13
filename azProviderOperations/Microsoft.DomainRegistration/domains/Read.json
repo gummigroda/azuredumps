@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/domains/Read",
+  "OperationName": "Transfer Out Domain",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "Domain",
+  "Description": "Transfer out a domain to another registrar.",
+  "IsDataAction": false
+}

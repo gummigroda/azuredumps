@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/nodes/reimage/action",
+  "OperationName": "EdgeClusterNodes_Reimage",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters/nodes",
+  "Description": "Reimages the edge cluster node, returning it to a refreshed OS image.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/patchJobConfigurations/Delete",
+  "OperationName": "Delete Patch Job Configuration",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Patch Job Configuration",
+  "Description": "Delete any Patch Job Configuration",
+  "IsDataAction": false
+}

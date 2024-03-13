@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/read",
+  "OperationName": "List API versions",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiVersion",
+  "Description": "Returns paginated collection of API versions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Role Assignment",
+  "Description": "Create or update a SQL Role Assignment",
+  "IsDataAction": false
+}

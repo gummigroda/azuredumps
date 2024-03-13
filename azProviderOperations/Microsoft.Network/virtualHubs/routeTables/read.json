@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routeTables/read",
+  "OperationName": "Get a VirtualHubRouteTableV2",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VirtualHubRouteTableV2 resource",
+  "Description": "Get a VirtualHubRouteTableV2",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/write",
+  "OperationName": "AnalyzeText_Projects_CreateOrUpdateProject",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Creates a new or update a project.",
+  "IsDataAction": true
+}

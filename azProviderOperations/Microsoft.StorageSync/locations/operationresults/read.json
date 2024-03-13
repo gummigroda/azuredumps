@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/locations/operationresults/read",
+  "OperationName": "Read locations/operationresults",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "operationresults",
+  "Description": "Gets the result for an asynchronous operation",
+  "IsDataAction": false
+}

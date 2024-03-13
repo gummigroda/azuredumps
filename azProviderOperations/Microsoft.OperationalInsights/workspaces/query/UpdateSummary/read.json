@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UpdateSummary/read",
+  "OperationName": "Read UpdateSummary data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UpdateSummary",
+  "Description": "Read data from the UpdateSummary table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "",
+  "Description": "Checks that resource name is valid and is not in use.",
+  "IsDataAction": false
+}

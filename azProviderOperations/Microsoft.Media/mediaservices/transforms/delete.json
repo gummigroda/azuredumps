@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/delete",
+  "OperationName": "Delete Transform",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Transform",
+  "Description": "Delete any Transform",
+  "IsDataAction": false
+}

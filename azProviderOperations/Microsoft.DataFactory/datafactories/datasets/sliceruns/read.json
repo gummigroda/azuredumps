@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datasets/sliceruns/read",
+  "OperationName": "Read Data Slice Run",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Slice",
+  "Description": "Reads the Data Slice Run for the given dataset with the given start time.",
+  "IsDataAction": false
+}

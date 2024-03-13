@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/datasets/write",
+  "OperationName": "Datasets_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances/datasets",
+  "Description": "Update a Dataset",
+  "IsDataAction": false
+}

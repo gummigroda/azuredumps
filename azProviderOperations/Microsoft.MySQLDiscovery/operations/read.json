@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

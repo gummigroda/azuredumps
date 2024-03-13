@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/contacts/write",
+  "OperationName": "Create Contact",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contacts",
+  "Description": "Create any Contact",
+  "IsDataAction": false
+}

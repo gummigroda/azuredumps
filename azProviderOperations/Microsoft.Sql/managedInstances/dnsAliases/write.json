@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dnsAliases/write",
+  "OperationName": "Create/Update Azure SQL Managed Instance Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Dns Alias",
+  "Description": "Creates an Azure SQL Managed Instance Dns Alias with the specified parameters or updates the properties for the specified Azure SQL Managed Instance Dns Alias.",
+  "IsDataAction": false
+}

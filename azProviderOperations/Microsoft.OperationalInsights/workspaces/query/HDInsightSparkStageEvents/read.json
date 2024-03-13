@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightSparkStageEvents/read",
+  "OperationName": "Read HDInsightSparkStageEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightSparkStageEvents",
+  "Description": "Read data from the HDInsightSparkStageEvents table",
+  "IsDataAction": false
+}

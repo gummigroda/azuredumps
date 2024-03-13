@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/collections/queryRules/action",
+  "OperationName": "Get Collection Rules",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Approve all items for collection",
+  "Description": "Get Rules on a given collection",
+  "IsDataAction": false
+}

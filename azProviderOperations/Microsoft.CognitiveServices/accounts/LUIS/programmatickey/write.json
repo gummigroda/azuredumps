@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/programmatickey/write",
+  "OperationName": "user - Reset programmatic key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "programmatickey*",
+  "Description": "**THIS API IS DEPRECATED.**",
+  "IsDataAction": true
+}

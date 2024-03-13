@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/openShiftManagedClusters/delete",
+  "OperationName": "Delete Open Shift Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Open Shift Managed Cluster",
+  "Description": "Delete a Open Shift Managed Cluster",
+  "IsDataAction": false
+}

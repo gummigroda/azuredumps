@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnections/operationStatuses/read",
+  "OperationName": "Get Private Endpoint Connection Async Operation Status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Azure Container Registry Private Endpoint Connection",
+  "Description": "Get Private Endpoint Connection Async Operation Status",
+  "IsDataAction": false
+}

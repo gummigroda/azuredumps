@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/usersettings/write",
+  "OperationName": "Set User Settings",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "UserSettings",
+  "Description": "Create or update Cloud Shell user setting.",
+  "IsDataAction": false
+}

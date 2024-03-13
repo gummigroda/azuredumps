@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/initiateMove/action",
+  "OperationName": "Moves the set of resources included in the request body",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Moves the set of resources included in the request body",
+  "IsDataAction": false
+}

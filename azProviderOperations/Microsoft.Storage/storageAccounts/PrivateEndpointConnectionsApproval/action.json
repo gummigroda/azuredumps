@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Approve Private Endpoint Connections",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/scopeConnections/read",
+  "OperationName": "Get Network Manager Scope Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager Scope Connection",
+  "Description": "Get Network Manager Scope Connection",
+  "IsDataAction": false
+}

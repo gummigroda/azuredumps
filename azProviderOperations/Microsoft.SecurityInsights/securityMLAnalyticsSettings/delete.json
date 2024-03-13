@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/securityMLAnalyticsSettings/delete",
+  "OperationName": "Delete an Analytics Setting",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Analytics Settings",
+  "Description": "Delete an analytics setting",
+  "IsDataAction": false
+}

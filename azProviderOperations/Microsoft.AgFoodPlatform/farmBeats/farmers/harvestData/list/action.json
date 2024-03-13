@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/harvestData/list/action",
+  "OperationName": "List AgFoodPlatform harvest operation data resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform harvest operations data",
+  "Description": "List(s) existing AgFoodPlatform harvest operation data resource(s).",
+  "IsDataAction": true
+}

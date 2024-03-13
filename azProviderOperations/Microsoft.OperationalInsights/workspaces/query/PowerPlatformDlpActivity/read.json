@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerPlatformDlpActivity/read",
+  "OperationName": "Read PowerPlatformDlpActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerPlatformDlpActivity",
+  "Description": "Read data from the PowerPlatformDlpActivity table",
+  "IsDataAction": false
+}

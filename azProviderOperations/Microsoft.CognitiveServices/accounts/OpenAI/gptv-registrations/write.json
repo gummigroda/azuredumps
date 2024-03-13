@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/gptv-registrations/write",
+  "OperationName": "Gptv_registrations_patch",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Registers, unregisters or updates an existing Azure Resource for a deployment for enhancements.",
+  "Description": "Registers or updates an existing Azure Resource corresponding to a deployment.",
+  "IsDataAction": true
+}

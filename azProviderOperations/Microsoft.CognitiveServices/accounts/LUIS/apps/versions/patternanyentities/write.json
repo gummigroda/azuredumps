@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/write",
+  "OperationName": "Create or Update Pattern.any entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern.any entities",
+  "Description": "Adds a Pattern.any entity extractor to the application version.\r\nUpdates the Pattern.any entity extractor.",
+  "IsDataAction": true
+}

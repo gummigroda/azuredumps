@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AzureAssessmentRecommendation/Read",
+  "OperationName": "Read AzureAssessmentRecommendation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AzureAssessmentRecommendation",
+  "Description": "Read data from the AzureAssessmentRecommendation table",
+  "IsDataAction": false
+}

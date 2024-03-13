@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/administrators/read",
+  "OperationName": "Gets a specific Azure Active Directory administrator object",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The server administrator",
+  "Description": "Gets a specific Azure Active Directory administrator object",
+  "IsDataAction": false
+}

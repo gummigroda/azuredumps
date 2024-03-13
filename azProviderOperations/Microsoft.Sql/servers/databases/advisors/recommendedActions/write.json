@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/advisors/recommendedActions/write",
+  "OperationName": "Update database recommended action state",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Recommended Action",
+  "Description": "Apply the recommended action on the database",
+  "IsDataAction": false
+}

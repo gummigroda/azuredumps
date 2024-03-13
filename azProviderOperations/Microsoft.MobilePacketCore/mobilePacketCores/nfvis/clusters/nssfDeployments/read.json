@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/nssfDeployments/read",
+  "OperationName": "NssfDeployments_ListByCluster",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/nssfDeployments",
+  "Description": "Lists all the Network Slice Selection Function deployment resources in a cluster.",
+  "IsDataAction": false
+}

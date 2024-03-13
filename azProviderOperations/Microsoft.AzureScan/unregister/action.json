@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/unregister/action",
+  "OperationName": "Unregister the Microsoft.AzureScan",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.AzureScan",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/schedules/getCount/action",
+  "OperationName": "Get the count of Azure Automation schedules",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Schedule Asset",
+  "Description": "Gets the count of Azure Automation schedules",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/workerpools/skus/read",
+  "OperationName": "Get Hosting Environments Workerpools SKUs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Workerpools SKUs",
+  "Description": "Get Hosting Environments Workerpools SKUs.",
+  "IsDataAction": false
+}

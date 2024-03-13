@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/alerts/read",
+  "OperationName": "List Alerts",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "Alerts",
+  "Description": "List alerts.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routeTables/write",
+  "OperationName": "Create or Update a VirtualHubRouteTableV2",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VirtualHubRouteTableV2 resource",
+  "Description": "Create or Update a VirtualHubRouteTableV2",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sshPublicKeys/read",
+  "OperationName": "Get SSH Public Key",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SSH Public Keys",
+  "Description": "Get the properties of an SSH public key",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/DataCollectionEndpoints/ScopedPrivateLinkProxies/Delete",
+  "OperationName": "Delete data collection endpoint private link proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Data collection endpoint scoped private link proxy",
+  "Description": "Delete a data collection endpoint private link proxy",
+  "IsDataAction": false
+}

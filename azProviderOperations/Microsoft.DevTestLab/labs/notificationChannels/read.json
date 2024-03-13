@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/notificationChannels/read",
+  "OperationName": "Read notification channels.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Notification Channels",
+  "Description": "Read notification channels.",
+  "IsDataAction": false
+}

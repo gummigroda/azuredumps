@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/configurationServices/validate/action",
+  "OperationName": "Validate Microsoft Azure Spring Apps Application Configuration Service settings",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Application Configuration Service of Microsoft Azure Spring Apps",
+  "Description": "Validate the settings for a specific Application Configuration Service",
+  "IsDataAction": false
+}

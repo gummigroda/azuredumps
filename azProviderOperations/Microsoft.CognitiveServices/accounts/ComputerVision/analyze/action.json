@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/analyze/action",
+  "OperationName": "Analyze Image",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "This operation extracts a rich set of visual features based on the image content. ",
+  "IsDataAction": true
+}

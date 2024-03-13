@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/dataConnectors/write",
+  "OperationName": "Update Data Connectors",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "DataConnectors",
+  "Description": "Updates a data connector",
+  "IsDataAction": false
+}

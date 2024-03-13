@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/unregister/action",
+  "OperationName": "unregister",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "",
+  "Description": "Action on unregister",
+  "IsDataAction": false
+}

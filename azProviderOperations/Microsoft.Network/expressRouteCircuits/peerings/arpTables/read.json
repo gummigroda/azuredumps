@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/arpTables/read",
+  "OperationName": "Get ExpressRouteCircuit Peering ArpTable",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitPeeringArpTable",
+  "Description": "Gets an ExpressRouteCircuit Peering ArpTable",
+  "IsDataAction": false
+}

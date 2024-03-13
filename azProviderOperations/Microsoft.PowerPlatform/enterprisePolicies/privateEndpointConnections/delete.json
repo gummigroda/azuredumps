@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnections/delete",
+  "OperationName": "Delete Enterprise Policy Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Deletes an enterprise policy private endpoint connection",
+  "IsDataAction": false
+}

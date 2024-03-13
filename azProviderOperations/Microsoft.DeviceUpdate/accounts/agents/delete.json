@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/agents/delete",
+  "OperationName": "Delete Agent",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Agent",
+  "Description": "Deletes a Device Update Agent",
+  "IsDataAction": false
+}

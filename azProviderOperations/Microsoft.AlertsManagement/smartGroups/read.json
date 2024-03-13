@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/smartGroups/read",
+  "OperationName": "Read smart groups",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "smartGroups",
+  "Description": "Get all the smart groups for the input filters",
+  "IsDataAction": false
+}

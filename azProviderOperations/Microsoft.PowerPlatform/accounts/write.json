@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/accounts/write",
+  "OperationName": "Create or Update Account",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Account",
+  "Description": "Creates an account or updates an existing account",
+  "IsDataAction": false
+}

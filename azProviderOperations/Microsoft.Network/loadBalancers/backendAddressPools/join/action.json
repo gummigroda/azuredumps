@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/backendAddressPools/join/action",
+  "OperationName": "Join Load Balancer Backend Address Pool.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Backend Address Pool",
+  "Description": "Joins a load balancer backend address pool. Not Alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/natGateways/join/action",
+  "OperationName": "Join NAT Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Nat Gateway",
+  "Description": "Joins a NAT Gateway",
+  "IsDataAction": false
+}

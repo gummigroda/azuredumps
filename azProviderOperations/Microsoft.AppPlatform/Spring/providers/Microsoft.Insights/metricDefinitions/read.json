@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Microsoft Azure Spring Apps metrics definitions",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The metrics definition of Microsoft Azure Spring Apps",
+  "Description": "Get definitions of metrics from Azure Spring Apps service instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/certificates/write",
+  "OperationName": "Set Integration Account Certificate",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Certificate",
+  "Description": "Creates or updates the certificate in integration account.",
+  "IsDataAction": false
+}

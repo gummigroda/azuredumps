@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeAddinHealthEventNRT/Read",
+  "OperationName": "Read MAOfficeAddinHealthEventNRT data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeAddinHealthEventNRT",
+  "Description": "Read data from the MAOfficeAddinHealthEventNRT table",
+  "IsDataAction": false
+}

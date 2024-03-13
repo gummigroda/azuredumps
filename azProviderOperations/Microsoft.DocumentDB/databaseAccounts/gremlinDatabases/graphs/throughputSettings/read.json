@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/read",
+  "OperationName": "Read Gremlin graph throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Gremlin Graph throughput setting",
+  "Description": "Read a Gremlin graph throughput.",
+  "IsDataAction": false
+}

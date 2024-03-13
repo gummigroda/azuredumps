@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/startpacketcapture/action",
+  "OperationName": "Starts a Virtual Network Gateway Packet Capture.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Starts a Virtual Network Gateway Packet Capture.",
+  "IsDataAction": false
+}

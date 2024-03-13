@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/volumeattachments/delete",
+  "OperationName": "Deletes/DeletesCollection volumeattachments resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "volumeattachments",
+  "Description": "Deletes volumeattachments",
+  "IsDataAction": true
+}

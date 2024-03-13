@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/StorageTableLogs/read",
+  "OperationName": "Read StorageTableLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "StorageTableLogs",
+  "Description": "Read data from the StorageTableLogs table",
+  "IsDataAction": false
+}

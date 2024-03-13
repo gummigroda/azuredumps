@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/enableRemoteManagement/action",
+  "OperationName": "Enable Remote Management for registration",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Registration",
+  "Description": "Enable RemoteManagement for Azure Stack registration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/notificationChannels/delete",
+  "OperationName": "Delete notification channels.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Notification Channels",
+  "Description": "Delete notification channels.",
+  "IsDataAction": false
+}

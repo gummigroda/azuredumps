@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Telemetry/Write",
+  "OperationName": "Write telemetry",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Telemetry",
+  "Description": "Write telemetry",
+  "IsDataAction": true
+}

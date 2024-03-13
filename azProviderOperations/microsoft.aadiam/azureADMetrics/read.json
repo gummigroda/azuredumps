@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/azureADMetrics/read",
+  "OperationName": "Azure AD Metrics Definition read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Azure AD Metrics Definition",
+  "Description": "Read Azure AD Metrics Definition",
+  "IsDataAction": false
+}

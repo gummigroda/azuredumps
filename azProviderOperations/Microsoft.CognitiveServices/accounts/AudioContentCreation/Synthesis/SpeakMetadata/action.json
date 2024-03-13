@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Synthesis/SpeakMetadata/action",
+  "OperationName": "Query TTS synthesis metadata like F0, duration(used for intonation tuning).",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "SSML synthesis",
+  "Description": "Query TTS synthesis metadata like F0, duration(used for intonation tuning).",
+  "IsDataAction": true
+}

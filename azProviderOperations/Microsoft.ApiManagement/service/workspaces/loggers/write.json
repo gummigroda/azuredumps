@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/loggers/write",
+  "OperationName": "Add logger or Update logger",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Loggers",
+  "Description": "Creates or Updates a logger. or Updates an existing logger.",
+  "IsDataAction": false
+}

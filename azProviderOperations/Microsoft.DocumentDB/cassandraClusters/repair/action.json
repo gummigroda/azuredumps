@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/cassandraClusters/repair/action",
+  "OperationName": "Microsoft.DocumentDB/cassandraClusters/repair/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Managed Cassandra cluster",
+  "Description": "Request a repair of a managed Cassandra keyspace",
+  "IsDataAction": false
+}

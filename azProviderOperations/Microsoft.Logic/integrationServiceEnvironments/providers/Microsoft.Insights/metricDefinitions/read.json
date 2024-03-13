@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Integration Service Environment Metric Definition",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment Metric Definition",
+  "Description": "Reads the integration service environment metric definitions.",
+  "IsDataAction": false
+}

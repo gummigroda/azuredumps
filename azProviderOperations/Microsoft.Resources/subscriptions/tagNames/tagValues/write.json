@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/write",
+  "OperationName": "添加订阅标记值",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "订阅标记值",
+  "Description": "添加订阅标记值。",
+  "IsDataAction": false
+}

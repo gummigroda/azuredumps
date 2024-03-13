@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkPacketBrokers/delete",
+  "OperationName": "NetworkPacketBrokers_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkPacketBrokers",
+  "Description": "Deletes Network Packet Broker.",
+  "IsDataAction": false
+}

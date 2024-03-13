@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/partners/listContentCallbackUrl/action",
+  "OperationName": "List Integration Account Partner Content Callback URL",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Partner",
+  "Description": "Gets the callback URL for partner content in integration account.",
+  "IsDataAction": false
+}

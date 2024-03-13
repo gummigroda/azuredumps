@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/queues/authorizationRules/delete",
+  "OperationName": "Delete Queue Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Queue AuthorizationRules",
+  "Description": "Operation to delete Queue Authorization Rules",
+  "IsDataAction": false
+}

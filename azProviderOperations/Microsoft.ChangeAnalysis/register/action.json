@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/register/action",
+  "OperationName": "Register Microsoft Change Analysis resource provider",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "",
+  "Description": "Register Microsoft Change Analysis resource provider",
+  "IsDataAction": false
+}

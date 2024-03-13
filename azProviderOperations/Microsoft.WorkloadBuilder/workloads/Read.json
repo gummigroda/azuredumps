@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/Read",
+  "OperationName": "Reads the workloads",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "workloads",
+  "Description": "Read workloads",
+  "IsDataAction": false
+}

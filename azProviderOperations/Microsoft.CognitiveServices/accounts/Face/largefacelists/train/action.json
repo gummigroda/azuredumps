@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/train/action",
+  "OperationName": "LargeFaceList - Train",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "largefacelists*",
+  "Description": "Submit a large face list training task. Training is a crucial step that only a trained large face list can be used by",
+  "IsDataAction": true
+}

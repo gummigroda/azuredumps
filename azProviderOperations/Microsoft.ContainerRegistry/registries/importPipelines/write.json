@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/importPipelines/write",
+  "OperationName": "Create or Update import pipeline",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ImportPipelines",
+  "Description": "Creates or updates an import pipeline for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

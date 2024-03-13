@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/networkInterfaces/read",
+  "OperationName": "Get all network interfaces of a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Network interfaces of a Virtual Machine Scale Set",
+  "Description": "Get properties of all network interfaces of a Virtual Machine Scale Set",
+  "IsDataAction": false
+}

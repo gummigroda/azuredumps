@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Perf/Read",
+  "OperationName": "Read Perf data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Perf",
+  "Description": "Read data from the Perf table",
+  "IsDataAction": false
+}

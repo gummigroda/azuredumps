@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/registeredServers/delete",
+  "OperationName": "Delete Registered Server",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Registered Server",
+  "Description": "Delete any Registered Server",
+  "IsDataAction": false
+}

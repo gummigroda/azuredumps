@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint requests. This call is made by Backup Admin.",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Private Endpoints",
+  "Description": "Delete Private Endpoint requests. This call is made by Backup Admin.",
+  "IsDataAction": false
+}

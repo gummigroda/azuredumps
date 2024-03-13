@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/vpnSiteProxies/read",
+  "OperationName": "Get Vpn Site proxy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Site Proxy",
+  "Description": "Gets a Vpn Site proxy definition",
+  "IsDataAction": false
+}

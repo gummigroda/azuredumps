@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/changeState/action",
+  "OperationName": "Change State of Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Measurements",
+  "Description": "Change State of Measurements",
+  "IsDataAction": true
+}

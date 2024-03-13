@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/RemoteRenderingAccounts/convert/read",
+  "OperationName": "Get asset conversion properties",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "RemoteRenderingAccounts",
+  "Description": "Get asset conversion properties",
+  "IsDataAction": true
+}

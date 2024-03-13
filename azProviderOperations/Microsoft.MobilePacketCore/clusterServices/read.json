@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/clusterServices/read",
+  "OperationName": "ClusterServices_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "clusterServices",
+  "Description": "Get a ClusterServiceResource",
+  "IsDataAction": false
+}

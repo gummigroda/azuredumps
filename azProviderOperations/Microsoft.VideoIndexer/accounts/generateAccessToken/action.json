@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/generateAccessToken/action",
+  "OperationName": "Generate_AccessToken",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts",
+  "Description": "Generate an Azure Video Indexer access token.",
+  "IsDataAction": false
+}

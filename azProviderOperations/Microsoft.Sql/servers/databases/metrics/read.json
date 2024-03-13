@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/metrics/read",
+  "OperationName": "Get database metrics",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Metric",
+  "Description": "Return metrics for databases",
+  "IsDataAction": false
+}

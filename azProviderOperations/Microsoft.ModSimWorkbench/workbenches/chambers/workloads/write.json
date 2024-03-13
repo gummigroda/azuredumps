@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/workloads/write",
+  "OperationName": "workloads_Update",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/workloads",
+  "Description": "Updates the specified workload.",
+  "IsDataAction": false
+}

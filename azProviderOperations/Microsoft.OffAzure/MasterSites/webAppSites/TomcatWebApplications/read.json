@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/TomcatWebApplications/read",
+  "OperationName": "Get TomCat Web Applications",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Tomcat Web Applications Resource",
+  "Description": "Get TomCat Web Applications",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/workerApps/read",
+  "OperationName": "Get Worker App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Worker App",
+  "Description": "Get the properties for a Worker App",
+  "IsDataAction": false
+}

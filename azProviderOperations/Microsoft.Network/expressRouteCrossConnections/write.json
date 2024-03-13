@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/write",
+  "OperationName": "Create or Update Express Route Cross Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection",
+  "Description": "Create or Update Express Route Cross Connection",
+  "IsDataAction": false
+}

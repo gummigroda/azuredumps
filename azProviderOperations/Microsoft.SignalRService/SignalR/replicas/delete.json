@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/replicas/delete",
+  "OperationName": "Delete SignalR replica",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/replicas",
+  "Description": "Delete the SignalR replica resource",
+  "IsDataAction": false
+}

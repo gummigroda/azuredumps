@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Annotations/Delete",
+  "OperationName": "Application Insights annotations delete",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights annotations",
+  "Description": "Deleting an Application Insights annotation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/downloadRemoteDesktopConnectionFile/action",
+  "OperationName": "Download RDP File",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Downloads the RDP file for virtual machine.",
+  "IsDataAction": false
+}

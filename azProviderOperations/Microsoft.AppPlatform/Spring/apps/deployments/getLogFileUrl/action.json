@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/getLogFileUrl/action",
+  "OperationName": "Get an app deployment log file URL in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application deployment of Microsoft Azure Spring Apps",
+  "Description": "Get the log file URL of a specific Microsoft Azure Spring Apps application deployment",
+  "IsDataAction": false
+}

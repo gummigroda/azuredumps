@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/Stop/action",
+  "OperationName": "Stop",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "Endpoint",
+  "Description": null,
+  "IsDataAction": false
+}

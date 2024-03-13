@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/monitoredResources/write",
+  "OperationName": "MonitoredResources_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances/monitoredResources",
+  "Description": "Create or update a monitored resource.",
+  "IsDataAction": false
+}

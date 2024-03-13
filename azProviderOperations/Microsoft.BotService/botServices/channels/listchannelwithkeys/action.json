@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/channels/listchannelwithkeys/action",
+  "OperationName": "List Botservice channels with secrets",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Bot Service Channel",
+  "Description": "List Botservice channels with secrets",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AmlComputeCpuGpuUtilization/read",
+  "OperationName": "Read AmlComputeCpuGpuUtilization data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AmlComputeCpuGpuUtilization",
+  "Description": "Read data from the AmlComputeCpuGpuUtilization table",
+  "IsDataAction": false
+}

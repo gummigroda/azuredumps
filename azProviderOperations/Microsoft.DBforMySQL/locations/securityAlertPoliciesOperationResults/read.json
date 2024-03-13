@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/securityAlertPoliciesOperationResults/read",
+  "OperationName": "List/Get Server threat detection operation result.",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Server threat detection operation result",
+  "Description": "Return the list of Server threat detection operation result.",
+  "IsDataAction": false
+}

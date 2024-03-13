@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/compositeentities/read",
+  "OperationName": "Get composite entity or Get version composite entity list infos",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Composite entities",
+  "Description": "Gets information about the composite entity model.\r\nGets information about the composite entity models of the application version.",
+  "IsDataAction": true
+}

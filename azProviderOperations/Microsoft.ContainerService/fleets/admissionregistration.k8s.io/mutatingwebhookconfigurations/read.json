@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/admissionregistration.k8s.io/mutatingwebhookconfigurations/read",
+  "OperationName": "Gets/List mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Mutatingwebhookconfigurations",
+  "Description": "Reads mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

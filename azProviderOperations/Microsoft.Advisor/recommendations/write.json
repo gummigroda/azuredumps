@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/recommendations/write",
+  "OperationName": "Write recommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Recommendations",
+  "Description": "Writes recommendations",
+  "IsDataAction": false
+}

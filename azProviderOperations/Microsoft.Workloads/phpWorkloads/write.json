@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/phpWorkloads/write",
+  "OperationName": "PhpWorkloads_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "phpWorkloads",
+  "Description": "Update PHP workload resource.",
+  "IsDataAction": false
+}

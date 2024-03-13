@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/livetrace/read",
+  "OperationName": "Read live trace tool results",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/LiveTrace",
+  "Description": "Read live trace tool results",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/solutions/delete",
+  "OperationName": "Delete existing OMS solution",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Solution",
+  "Description": "Delete existing OMS solution",
+  "IsDataAction": false
+}

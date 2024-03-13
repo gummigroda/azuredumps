@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/instances/management/delete",
+  "OperationName": "Management Delete",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Performs a delete operation related to management",
+  "IsDataAction": true
+}

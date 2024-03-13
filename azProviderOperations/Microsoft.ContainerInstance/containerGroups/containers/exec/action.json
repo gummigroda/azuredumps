@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/containers/exec/action",
+  "OperationName": "Exec Into a Container",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Exec into a specific container.",
+  "IsDataAction": false
+}

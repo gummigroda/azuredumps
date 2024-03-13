@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securitySolutionsReferenceData/read",
+  "OperationName": "Get Reference Data",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Reference Data",
+  "Description": "Gets the security solutions reference data",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connectionGateways/Move/Action",
+  "OperationName": "Move Connection Gateway",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connection Gateways",
+  "Description": "Moves a Connection Gateway.",
+  "IsDataAction": false
+}

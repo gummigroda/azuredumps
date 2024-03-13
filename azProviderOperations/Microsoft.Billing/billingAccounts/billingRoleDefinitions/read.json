@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingRoleDefinitions/read",
+  "OperationName": "RoleDefinitions_Get",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Role Definitions",
+  "Description": "Gets the definition for a role on a billing account. The operation is supported for billing accounts with agreement type Microsoft Partner Agreement, Microsoft Customer Agreement or Enterprise Agreement.",
+  "IsDataAction": false
+}

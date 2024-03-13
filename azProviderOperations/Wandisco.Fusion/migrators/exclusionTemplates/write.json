@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/exclusionTemplates/write",
+  "OperationName": "Create",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "ExclusionTemplates",
+  "Description": "Creates an Exclusion Template",
+  "IsDataAction": false
+}

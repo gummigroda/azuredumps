@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/operations/read",
+  "OperationName": "List available Operations in Microsoft.Elastic",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "operations",
+  "Description": "List available Operations in Microsoft.Elastic",
+  "IsDataAction": false
+}

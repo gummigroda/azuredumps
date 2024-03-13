@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/outboundNetworkDependenciesEndpoints/read",
+  "OperationName": "NetworkConnections_ListOutboundNetworkDependenciesEndpoints",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections/outboundNetworkDependenciesEndpoints",
+  "Description": "Lists the endpoints that agents may call as part of Dev Box service administration. These FQDNs should be allowed for outbound access in order for the Dev Box service to function.",
+  "IsDataAction": false
+}

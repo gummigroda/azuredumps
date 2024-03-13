@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/upload/action",
+  "OperationName": "Upload Dataset From Form",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "datasets*",
+  "Description": "Uploads data and creates a new dataset.",
+  "IsDataAction": true
+}

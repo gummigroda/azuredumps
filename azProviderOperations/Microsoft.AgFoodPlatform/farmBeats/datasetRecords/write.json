@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/datasetRecords/write",
+  "OperationName": "Create or Update AgFoodPlatform Dataset Records.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Dataset Records",
+  "Description": "Creates or Updates AgFoodPlatform Dataset Records.",
+  "IsDataAction": true
+}

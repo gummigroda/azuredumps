@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/checkResourceName/action",
+  "OperationName": "检查资源名称",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "",
+  "Description": "检查资源名称是否有效。",
+  "IsDataAction": false
+}

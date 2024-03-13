@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/locations/quotaLimits/read",
+  "OperationName": "Read QuotaLimit resource type",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "QuotaLimit resource type",
+  "Description": "Reads a Quotalimit resource type.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/roles/delete",
+  "OperationName": "Delete Pattern.any entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern.any entity roles",
+  "Description": "Deletes the role for a Pattern.any entity model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/querypipelineruns/read",
+  "OperationName": "Read the Result of Query Pipeline Runs",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads the Result of Query Pipeline Runs.",
+  "IsDataAction": false
+}

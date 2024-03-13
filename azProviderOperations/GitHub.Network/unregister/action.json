@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/unregister/action",
+  "OperationName": "Unregister the GitHub.Network",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for GitHub.Network",
+  "IsDataAction": false
+}

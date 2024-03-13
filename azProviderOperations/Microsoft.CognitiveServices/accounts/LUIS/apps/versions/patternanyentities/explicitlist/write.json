@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/explicitlist/write",
+  "OperationName": "Add or Update Pattern.any explicit list item",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Explicit list",
+  "Description": "Adds an item to a Pattern.any explicit list.\r\nUpdates the explicit list item for a Pattern.any entity model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/generateDeploymentLicense/action",
+  "OperationName": "Generate Azure Stack Deployment License",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "",
+  "Description": "Generates a temporary license to deploy an Azure Stack device.",
+  "IsDataAction": false
+}

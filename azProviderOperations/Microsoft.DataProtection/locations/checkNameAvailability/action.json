@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/locations/checkNameAvailability/action",
+  "OperationName": "Check if the requested BackupVault Name is Available",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Vaults",
+  "Description": "Checks if the requested BackupVault Name is Available",
+  "IsDataAction": false
+}

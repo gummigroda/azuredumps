@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/write",
+  "OperationName": "Sets a long term retention policy for a database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Long Term Retention Policy",
+  "Description": "Sets a long term retention policy for a database",
+  "IsDataAction": false
+}

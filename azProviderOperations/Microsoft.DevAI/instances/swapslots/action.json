@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/swapslots/action",
+  "OperationName": "Instances_SwapSlots",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances",
+  "Description": "action swapslots",
+  "IsDataAction": false
+}

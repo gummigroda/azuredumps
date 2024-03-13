@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VoiceServices/communicationsGateways/read",
+  "OperationName": "CommunicationsGateways_Get",
+  "ProviderNamespace": "Microsoft.VoiceServices",
+  "ResourceName": "communicationsGateways",
+  "Description": "Get a CommunicationsGateway",
+  "IsDataAction": false
+}

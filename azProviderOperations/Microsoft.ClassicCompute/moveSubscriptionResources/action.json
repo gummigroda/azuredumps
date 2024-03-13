@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/moveSubscriptionResources/action",
+  "OperationName": "Move classic resources",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "",
+  "Description": "Move all classic resources to a different subscription.",
+  "IsDataAction": false
+}

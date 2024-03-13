@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Get Network Security Perimeter Configurations",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Security Perimeter Configurations",
+  "Description": "Get Network Security Perimeter Configurations",
+  "IsDataAction": false
+}

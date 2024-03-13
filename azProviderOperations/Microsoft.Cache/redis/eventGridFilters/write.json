@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/eventGridFilters/write",
+  "OperationName": "Update Redis Cache Event Grid Filters",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache Event Grid Filter",
+  "Description": "Update Redis Cache Event Grid Filters",
+  "IsDataAction": false
+}

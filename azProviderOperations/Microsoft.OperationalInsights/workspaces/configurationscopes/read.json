@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/configurationscopes/read",
+  "OperationName": "Get Configuration Scope",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Configuration Scope",
+  "Description": "Get configuration scope in a workspace.",
+  "IsDataAction": false
+}

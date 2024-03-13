@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networktraces/operationresults/read",
+  "OperationName": "Get Web Apps Slots Network Trace Operation Results",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Operation Results",
+  "Description": "Get Web Apps Slots Network Trace Operation Results.",
+  "IsDataAction": false
+}

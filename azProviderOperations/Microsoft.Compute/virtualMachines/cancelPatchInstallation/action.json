@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/cancelPatchInstallation/action",
+  "OperationName": "Cancel install OS update patch operation on virtual machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Cancels the ongoing install OS update patch operation on the virtual machine.",
+  "IsDataAction": false
+}

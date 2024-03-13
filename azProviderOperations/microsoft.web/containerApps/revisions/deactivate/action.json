@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/revisions/deactivate/action",
+  "OperationName": "Deactivate Container App Revision",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App Revision",
+  "Description": "Deactivate a Container App Revision",
+  "IsDataAction": false
+}

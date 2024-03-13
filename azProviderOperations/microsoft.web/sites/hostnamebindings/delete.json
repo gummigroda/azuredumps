@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostnamebindings/delete",
+  "OperationName": "Delete Web Apps Hostname Bindings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostname Bindings",
+  "Description": "Delete Web Apps Hostname Bindings.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/clientConnection/generateToken/action",
+  "OperationName": "Generate a JWT Token for client to connect to the service",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/ClientConnection",
+  "Description": "Generate a JWT Token for client to connect to the service",
+  "IsDataAction": true
+}

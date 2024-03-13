@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/flowcontrol.apiserver.k8s.io/prioritylevelconfigurations/read",
+  "OperationName": "Gets/List prioritylevelconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "prioritylevelconfigurations",
+  "Description": "Reads prioritylevelconfigurations",
+  "IsDataAction": true
+}

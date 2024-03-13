@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/read",
+  "OperationName": "Get SQL virtual machine instance details",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Retrieve details of SQL virtual machine",
+  "IsDataAction": false
+}

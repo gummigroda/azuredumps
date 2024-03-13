@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/namedValues/write",
+  "OperationName": "Create named value or Update named value",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of named values. Named values are used to manage constant string values across all API configurations or policies.",
+  "Description": "Creates or updates named value. or Updates the specific named value.",
+  "IsDataAction": false
+}

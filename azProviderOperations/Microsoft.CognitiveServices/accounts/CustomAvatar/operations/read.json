@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/operations/read",
+  "OperationName": "Read Operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Operations",
+  "Description": "Gets detail of operations",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/hiveReplicationRules/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "HiveReplicationRules",
+  "Description": "Create or update a hiveReplicationRule",
+  "IsDataAction": false
+}

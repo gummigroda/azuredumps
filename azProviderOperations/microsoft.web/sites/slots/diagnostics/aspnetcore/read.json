@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/aspnetcore/read",
+  "OperationName": "Get Web Apps Slots Diagnostics ASP.NET Core",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics ASP.NET Core",
+  "Description": "Get Web Apps Slots Diagnostics for ASP.NET Core app.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "FusionGroups",
+  "Description": "Returns a given FusionGroup.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalConfigs/listMediaContentSecrets/action",
+  "OperationName": "Get media content blob container uri",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "portalConfigs",
+  "Description": "Get media content blob container uri.",
+  "IsDataAction": false
+}

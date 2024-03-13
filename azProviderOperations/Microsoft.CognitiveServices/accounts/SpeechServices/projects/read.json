@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/read",
+  "OperationName": "Get Projects|Get Project*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Gets the list of projects for the authenticated subscription.\r\nGets the project identified by the given ID.*",
+  "IsDataAction": true
+}

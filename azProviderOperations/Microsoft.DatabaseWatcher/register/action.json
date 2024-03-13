@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/register/action",
+  "OperationName": "Register the Microsoft.DatabaseWatcher",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.DatabaseWatcher",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Notebook Workspace",
+  "Description": "Delete a notebook workspace",
+  "IsDataAction": false
+}

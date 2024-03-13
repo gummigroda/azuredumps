@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctions/read",
+  "OperationName": "NetworkFunctions_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctions",
+  "Description": "Lists all the network function resources in a resource group.",
+  "IsDataAction": false
+}

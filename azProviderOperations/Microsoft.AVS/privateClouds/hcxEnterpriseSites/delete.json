@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/hcxEnterpriseSites/delete",
+  "OperationName": "Delete a hcxEnterpriseSites",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/hcxEnterpriseSites",
+  "Description": "Delete a specific hcxEnterpriseSites.",
+  "IsDataAction": false
+}

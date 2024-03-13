@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/ApplicationConfigurationService/logstream/action",
+  "OperationName": "Get the streaming log of Application Configuration Service from Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The streaming log of Application Configuration Service from Microsoft Azure Spring Apps",
+  "Description": "Read the streaming log of all subcomponents in Application Configuration Service from a specific Azure Spring Apps service instance",
+  "IsDataAction": true
+}

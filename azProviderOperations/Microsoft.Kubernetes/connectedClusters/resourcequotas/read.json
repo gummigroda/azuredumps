@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/resourcequotas/read",
+  "OperationName": "Gets/List resourcequotas resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "resourcequotas",
+  "Description": "Reads resourcequotas",
+  "IsDataAction": true
+}

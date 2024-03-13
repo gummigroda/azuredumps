@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/landingZoneConfigurations/delete",
+  "OperationName": "LandingZonesConfigurations_Delete",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "landingZoneConfigurations",
+  "Description": "Delete a LandingZoneConfiguration",
+  "IsDataAction": false
+}

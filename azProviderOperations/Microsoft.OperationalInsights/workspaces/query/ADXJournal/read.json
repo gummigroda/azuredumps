@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADXJournal/read",
+  "OperationName": "Read ADXJournal data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADXJournal",
+  "Description": "Read data from the ADXJournal table",
+  "IsDataAction": false
+}

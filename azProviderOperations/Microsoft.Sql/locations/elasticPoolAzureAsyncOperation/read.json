@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/elasticPoolAzureAsyncOperation/read",
+  "OperationName": "Get elastic pool azure async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Gets the azure async operation for an elastic pool async operation",
+  "IsDataAction": false
+}

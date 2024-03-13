@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/extensions/write",
+  "OperationName": "Create or Update Virtual Machine Scale Set Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Set Extensions",
+  "Description": "Creates a new Virtual Machine Scale Set Extension or updates an existing one",
+  "IsDataAction": false
+}

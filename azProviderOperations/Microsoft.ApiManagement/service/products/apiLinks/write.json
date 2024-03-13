@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/apiLinks/write",
+  "OperationName": "Create product-API link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product-API links resource",
+  "Description": "Creates or Updates a product-API link.",
+  "IsDataAction": false
+}

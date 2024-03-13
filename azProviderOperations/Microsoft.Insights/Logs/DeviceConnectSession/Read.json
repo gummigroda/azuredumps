@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceConnectSession/Read",
+  "OperationName": "Read DeviceConnectSession data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceConnectSession",
+  "Description": "Read data from the DeviceConnectSession table",
+  "IsDataAction": false
+}

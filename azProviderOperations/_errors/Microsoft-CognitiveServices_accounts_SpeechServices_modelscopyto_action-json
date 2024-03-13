@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/models:copyto/action",
+  "OperationName": "Copy Model To",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "This method is obsolete and will be removed in future API version. Please use models/{id}:copy instead.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/write",
+  "OperationName": "Create/Update Azure SQL Sync Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Creates a sync group with the specified parameters or update the properties for the specified sync group.",
+  "IsDataAction": false
+}

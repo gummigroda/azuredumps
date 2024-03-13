@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/delete",
+  "OperationName": "Delete MongoDB database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Database",
+  "Description": "Delete a MongoDB database.",
+  "IsDataAction": false
+}

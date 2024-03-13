@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/bgpConnections/write",
+  "OperationName": "Creates or Updates Hub Bgp Connection child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub BgpConnection resource",
+  "Description": "Creates or Updates a Hub Bgp Connection child resource of Virtual Hub",
+  "IsDataAction": false
+}

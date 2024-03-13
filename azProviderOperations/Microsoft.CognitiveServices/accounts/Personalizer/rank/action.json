@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/rank/action",
+  "OperationName": "A personalization rank request.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Personalizer API",
+  "Description": "A personalization rank request.",
+  "IsDataAction": true
+}

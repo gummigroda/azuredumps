@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/serverTrustGroups/read",
+  "OperationName": "Returns the existing SQL Server Trust Groups by Managed Instance name",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Returns the existing SQL Server Trust Groups by Managed Instance name",
+  "IsDataAction": false
+}

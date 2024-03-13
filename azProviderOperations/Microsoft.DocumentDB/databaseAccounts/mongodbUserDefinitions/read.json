@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions/read",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/mongodbUserDefinitions/read",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB User Definition",
+  "Description": "Read a MongoDB User Definition",
+  "IsDataAction": false
+}

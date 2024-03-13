@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/EdgeDevices/Delete",
+  "OperationName": "Deletes EdgeDevice resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "EdgeDevices",
+  "Description": "Deletes EdgeDevice resource",
+  "IsDataAction": false
+}

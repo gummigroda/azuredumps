@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/upfProfiles/read",
+  "OperationName": "UpfProfiles_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/upfProfiles",
+  "Description": "Lists all the User Plane Function Profiles in a mobile packet core instance.",
+  "IsDataAction": false
+}

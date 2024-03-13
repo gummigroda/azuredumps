@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read environments log definitions",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "environments",
+  "Description": "Gets the available logs for environments",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusterSkus/read",
+  "OperationName": "EdgeClusterSkus_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusterSkus",
+  "Description": "Get the properties of the specified edge cluster SKU.",
+  "IsDataAction": false
+}

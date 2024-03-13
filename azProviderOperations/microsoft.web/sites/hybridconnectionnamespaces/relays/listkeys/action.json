@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hybridconnectionnamespaces/relays/listkeys/action",
+  "OperationName": "List Keys Web Apps Hybrid Connection Namespaces Relays",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hybrid Connection Namespaces Relays",
+  "Description": "List Keys Web Apps Hybrid Connection Namespaces Relays.",
+  "IsDataAction": false
+}

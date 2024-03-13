@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/summarylogs/write",
+  "OperationName": "Create or update a log analytics summary logs.",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SummaryLogs",
+  "Description": "Create or update a log analytics table.",
+  "IsDataAction": false
+}

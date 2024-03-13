@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/locations/regionConfiguration/action",
+  "OperationName": "Region Configuration",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Validate Inputs",
+  "Description": "This method returns the configurations for the region.",
+  "IsDataAction": false
+}

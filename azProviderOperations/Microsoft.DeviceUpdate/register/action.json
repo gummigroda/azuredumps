@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/register/action",
+  "OperationName": "Register Device Update",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "",
+  "Description": "Registers Device Update",
+  "IsDataAction": false
+}

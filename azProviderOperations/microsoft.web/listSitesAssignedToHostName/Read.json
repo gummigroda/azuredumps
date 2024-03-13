@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/listSitesAssignedToHostName/Read",
+  "OperationName": "Get sites assigned to hostname",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Site Name",
+  "Description": "Get names of sites assigned to hostname.",
+  "IsDataAction": false
+}

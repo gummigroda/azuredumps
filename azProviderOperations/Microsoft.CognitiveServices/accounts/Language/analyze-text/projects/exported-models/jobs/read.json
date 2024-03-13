@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/exported-models/jobs/read",
+  "OperationName": "Get exported model status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status for an existing job to create or update an exported model.",
+  "IsDataAction": true
+}

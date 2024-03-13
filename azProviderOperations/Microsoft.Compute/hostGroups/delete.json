@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/hostGroups/delete",
+  "OperationName": "Delete Host Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Host Groups",
+  "Description": "Deletes the host group",
+  "IsDataAction": false
+}

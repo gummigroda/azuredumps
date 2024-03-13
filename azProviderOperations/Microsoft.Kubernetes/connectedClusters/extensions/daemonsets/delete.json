@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/daemonsets/delete",
+  "OperationName": "Deletes/DeletesCollection daemonsets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "daemonsets",
+  "Description": "Deletes daemonsets",
+  "IsDataAction": true
+}

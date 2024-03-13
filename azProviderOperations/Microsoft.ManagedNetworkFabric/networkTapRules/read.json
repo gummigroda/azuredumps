@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/read",
+  "OperationName": "NetworkTapRules_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "List all the Network Tap Rule resources in the given subscription.",
+  "IsDataAction": false
+}

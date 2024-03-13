@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/orchestrators/read",
+  "OperationName": "List Orchestrators",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Orchestrator",
+  "Description": "Lists the supported orchestrators",
+  "IsDataAction": false
+}

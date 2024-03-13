@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/resourceNavigationLinks/delete",
+  "OperationName": "Delete Resource Navigation Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Navigation Link",
+  "Description": "Deletes a Resource Navigation Link",
+  "IsDataAction": false
+}

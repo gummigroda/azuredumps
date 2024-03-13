@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/advancedThreatProtectionSettings/read",
+  "OperationName": "Gets the Advanced Threat Protection Settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Advanced Threat Protection Settings",
+  "Description": "Gets the Advanced Threat Protection Settings for the resource",
+  "IsDataAction": false
+}

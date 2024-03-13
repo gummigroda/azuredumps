@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverTrustGroups/read",
+  "OperationName": "Returns the existing SQL Server Trust Groups",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server Trust Group",
+  "Description": "Returns the existing SQL Server Trust Groups",
+  "IsDataAction": false
+}

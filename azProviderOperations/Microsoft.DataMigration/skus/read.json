@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/skus/read",
+  "OperationName": "Get supported SKUs",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Azure Database Migration Service",
+  "Description": "Get a list of SKUs supported by Azure Database Migration Service resources.",
+  "IsDataAction": false
+}

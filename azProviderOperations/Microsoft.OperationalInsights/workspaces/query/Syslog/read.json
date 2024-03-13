@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/Syslog/read",
+  "OperationName": "Read Syslog data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Syslog",
+  "Description": "Read data from the Syslog table",
+  "IsDataAction": false
+}

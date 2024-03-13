@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/Register/action",
+  "OperationName": "Register",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "Register a user to a managed lab",
+  "IsDataAction": false
+}

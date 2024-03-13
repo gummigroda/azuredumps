@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WVDAgentHealthStatus/read",
+  "OperationName": "Read WVDAgentHealthStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WVDAgentHealthStatus",
+  "Description": "Read data from the WVDAgentHealthStatus table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/controllerrevisions/read",
+  "OperationName": "Gets/List controllerrevisions resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "controllerrevisions",
+  "Description": "Reads controllerrevisions",
+  "IsDataAction": true
+}

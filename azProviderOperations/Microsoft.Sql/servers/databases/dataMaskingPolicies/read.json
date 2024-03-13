@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/dataMaskingPolicies/read",
+  "OperationName": "List/Get database data masking policy(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Data Masking Policy",
+  "Description": "Return the list of database data masking policies.",
+  "IsDataAction": false
+}

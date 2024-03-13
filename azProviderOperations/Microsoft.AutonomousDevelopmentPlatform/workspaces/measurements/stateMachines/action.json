@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/stateMachines/action",
+  "OperationName": "Perform an action on a Measurement via its State Machines",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Measurements",
+  "Description": "Perform an action on a Measurement via its State Machines",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationAssignments/read",
+  "OperationName": "List Managed Services Registration Assignments",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Assignment",
+  "Description": "Retrieves a list of Managed Services registration assignments.",
+  "IsDataAction": false
+}

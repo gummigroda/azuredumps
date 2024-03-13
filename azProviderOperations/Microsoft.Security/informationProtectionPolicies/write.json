@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/informationProtectionPolicies/write",
+  "OperationName": "Updates the information protection policies",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Information Protection Policies",
+  "Description": "Updates the information protection policies for the resource",
+  "IsDataAction": false
+}

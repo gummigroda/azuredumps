@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/roleInstances/restart/action",
+  "OperationName": "Restart Role Instance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Role Instance",
+  "Description": "Restarts role instances.",
+  "IsDataAction": false
+}

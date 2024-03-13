@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/write",
+  "OperationName": "Create or Update AgFoodPlatform parties.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform parties",
+  "Description": "Creates or Updates AgFoodPlatform parties.",
+  "IsDataAction": true
+}

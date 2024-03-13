@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/removeAcsNamepsace/action",
+  "OperationName": "Remove ACS namespace",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace",
+  "Description": "Remove ACS namespace",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/accountquotapolicies/read",
+  "OperationName": "List Singularity Account Quota Policies",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Account Quota Policy",
+  "Description": "Lists Singularity account quota policies",
+  "IsDataAction": false
+}

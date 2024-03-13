@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZMSHybridConnectionsEvents/read",
+  "OperationName": "Read AZMSHybridConnectionsEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZMSHybridConnectionsEvents",
+  "Description": "Read data from the AZMSHybridConnectionsEvents table",
+  "IsDataAction": false
+}

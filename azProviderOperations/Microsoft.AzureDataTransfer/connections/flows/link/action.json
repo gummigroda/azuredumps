@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/link/action",
+  "OperationName": "Flows_Link",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Links the specified flow.",
+  "IsDataAction": false
+}

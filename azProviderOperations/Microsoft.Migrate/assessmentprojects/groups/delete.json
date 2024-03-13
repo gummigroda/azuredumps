@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/delete",
+  "OperationName": "Delete Group",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Groups",
+  "Description": "Deletes a group",
+  "IsDataAction": false
+}

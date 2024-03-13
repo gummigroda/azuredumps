@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VisualStudio/Extension/Delete",
+  "OperationName": "Deletes the Extension",
+  "ProviderNamespace": "Visual Studio",
+  "ResourceName": "Extension",
+  "Description": "Delete Extension",
+  "IsDataAction": false
+}

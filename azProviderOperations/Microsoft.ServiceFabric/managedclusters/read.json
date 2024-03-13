@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/read",
+  "OperationName": "Read Managed Clusters",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Managed Clusters",
+  "Description": "Read any Managed Clusters",
+  "IsDataAction": false
+}

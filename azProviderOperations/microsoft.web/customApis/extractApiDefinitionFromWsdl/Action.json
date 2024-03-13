@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/customApis/extractApiDefinitionFromWsdl/Action",
+  "OperationName": "Extract API definition from WSDL",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Custom Apis",
+  "Description": "Extracts API definition from a WSDL.",
+  "IsDataAction": false
+}

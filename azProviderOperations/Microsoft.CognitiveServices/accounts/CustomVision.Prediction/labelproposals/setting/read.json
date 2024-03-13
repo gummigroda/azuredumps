@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/labelproposals/setting/read",
+  "OperationName": "GetLabelSetting",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "setting*",
+  "Description": "Get pool size of Label Proposal for this project.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/read",
+  "OperationName": "Get Business case",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Business case",
+  "Description": "Gets the properties of an business case",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CDBDataPlaneRequests/read",
+  "OperationName": "Read CDBDataPlaneRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CDBDataPlaneRequests",
+  "Description": "Read data from the CDBDataPlaneRequests table",
+  "IsDataAction": false
+}

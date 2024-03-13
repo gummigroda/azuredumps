@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/analystview/read",
+  "OperationName": "Submissions Analyst View Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions Analyst View",
+  "Description": "Allows retrieving (including in bulk) and deleting submissions as an analyst",
+  "IsDataAction": true
+}

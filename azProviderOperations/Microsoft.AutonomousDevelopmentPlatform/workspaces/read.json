@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/read",
+  "OperationName": "Read workspaces",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Workspace",
+  "Description": "Read workspaces from ResourceDiscovery apis",
+  "IsDataAction": true
+}

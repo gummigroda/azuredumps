@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/delete",
+  "OperationName": "Delete security connector",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors",
+  "Description": "Deletes the security connector",
+  "IsDataAction": false
+}

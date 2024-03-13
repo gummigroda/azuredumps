@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/capabilities/read",
+  "OperationName": "Get domain name capabilities",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name Capability",
+  "Description": "Shows the domain name capabilities",
+  "IsDataAction": false
+}

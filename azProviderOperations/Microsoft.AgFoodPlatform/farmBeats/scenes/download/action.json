@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/scenes/download/action",
+  "OperationName": "scenes Download",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform scenes",
+  "Description": "scenes Download",
+  "IsDataAction": true
+}

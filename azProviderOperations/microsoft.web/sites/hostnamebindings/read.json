@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostnamebindings/read",
+  "OperationName": "Get Web Apps Hostname Bindings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostname Bindings",
+  "Description": "Get Web Apps Hostname Bindings.",
+  "IsDataAction": false
+}

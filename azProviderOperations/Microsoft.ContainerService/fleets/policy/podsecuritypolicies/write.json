@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/policy/podsecuritypolicies/write",
+  "OperationName": "Creates/Updates podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Podsecuritypolicies",
+  "Description": "Writes podsecuritypolicies",
+  "IsDataAction": true
+}

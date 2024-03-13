@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/SecuritySettings/Delete",
+  "OperationName": "Delete SecuritySettings resources",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/SecuritySettings",
+  "Description": "Delete SecuritySettings resource of HCI cluster",
+  "IsDataAction": false
+}

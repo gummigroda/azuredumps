@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlManagedInstances/failoverGroups/write",
+  "OperationName": "FailoverGroups_Create",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlManagedInstances/failoverGroups",
+  "Description": "Creates or replaces a failover group resource.",
+  "IsDataAction": false
+}

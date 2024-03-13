@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/delete",
+  "OperationName": "Deletes vault",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": "Deletes any vaults",
+  "IsDataAction": false
+}

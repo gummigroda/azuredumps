@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/routePolicies/write",
+  "OperationName": "RoutePolicies_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "routePolicies",
+  "Description": "API to update certain properties of the Route Policy resource.",
+  "IsDataAction": false
+}

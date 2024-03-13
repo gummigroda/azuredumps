@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyExemptions/write",
+  "OperationName": "Create policy exemption",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy exemption",
+  "Description": "Create a policy exemption at the specified scope.",
+  "IsDataAction": false
+}

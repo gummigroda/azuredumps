@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeMarketPlace/register/action",
+  "OperationName": "Register the Microsoft.EdgeMarketPlace",
+  "ProviderNamespace": "Microsoft.EdgeMarketplace",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.EdgeMarketPlace",
+  "IsDataAction": false
+}

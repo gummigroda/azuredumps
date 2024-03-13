@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/locations/sapVirtualInstanceMetadata/getDiskConfigurations/action",
+  "OperationName": "SAPDiskConfigurations",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "locations/sapVirtualInstanceMetadata",
+  "Description": "Get SAP Disk Configurations.",
+  "IsDataAction": false
+}

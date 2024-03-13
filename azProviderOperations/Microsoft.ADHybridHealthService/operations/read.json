@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/operations/read",
+  "OperationName": "Gets operations.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Operations",
+  "Description": "Gets list of operations supported by system.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/stoppacketcapture/action",
+  "OperationName": "Stop Vpn gateway Packet Capture with sasURL",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Stop Vpn gateway Packet Capture with sasURL",
+  "IsDataAction": false
+}

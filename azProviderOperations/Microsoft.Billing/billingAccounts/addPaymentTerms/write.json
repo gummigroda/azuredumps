@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/addPaymentTerms/write",
+  "OperationName": "Add payment terms",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

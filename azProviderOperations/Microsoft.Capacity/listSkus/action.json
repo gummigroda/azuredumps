@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/listSkus/action",
+  "OperationName": "List SKUs",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "",
+  "Description": "Lists SKUs with filters and without any restrictions",
+  "IsDataAction": false
+}

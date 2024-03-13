@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/enrollments/read",
+  "OperationName": "Read Enrollments",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Read Enrollments",
+  "IsDataAction": true
+}

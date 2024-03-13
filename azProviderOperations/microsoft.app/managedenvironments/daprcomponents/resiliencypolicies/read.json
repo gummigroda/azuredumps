@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/daprcomponents/resiliencypolicies/read",
+  "OperationName": "Read Managed Environment Dapr Component Resiliency Policy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Dapr Component Resiliency Policy",
+  "Description": "Read Managed Environment Dapr Component Resiliency Policy",
+  "IsDataAction": false
+}

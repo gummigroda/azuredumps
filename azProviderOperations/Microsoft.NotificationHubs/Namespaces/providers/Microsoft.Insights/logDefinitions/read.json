@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/namespaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Namespace log definitions",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "The log definition of Namespace",
+  "Description": "Gets the available logs for Namespace",
+  "IsDataAction": false
+}

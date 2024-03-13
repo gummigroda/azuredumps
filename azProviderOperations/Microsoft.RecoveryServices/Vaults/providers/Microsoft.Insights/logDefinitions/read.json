@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Azure Backup Logs",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Azure Backup Logs",
+  "IsDataAction": false
+}

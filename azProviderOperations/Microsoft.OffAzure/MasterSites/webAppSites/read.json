@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/read",
+  "OperationName": "Get WebApp site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Site",
+  "Description": "Gets the properties of a WebApp site",
+  "IsDataAction": false
+}

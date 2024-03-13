@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SucceededIngestion/read",
+  "OperationName": "Read SucceededIngestion data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SucceededIngestion",
+  "Description": "Read data from the SucceededIngestion table",
+  "IsDataAction": false
+}

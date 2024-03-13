@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/checkMigrationNameAvailability/action",
+  "OperationName": "Check the availability of the given migration name.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Checks the availability of the given migration name.",
+  "IsDataAction": false
+}

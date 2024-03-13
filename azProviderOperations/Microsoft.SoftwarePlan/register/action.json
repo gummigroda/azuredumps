@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SoftwarePlan/register/action",
+  "OperationName": "Registers the resource provider",
+  "ProviderNamespace": "Microsoft.SoftwarePlan",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

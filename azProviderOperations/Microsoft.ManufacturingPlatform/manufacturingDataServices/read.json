@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManufacturingPlatform/manufacturingDataServices/read",
+  "OperationName": "ManufacturingDataServices_Get",
+  "ProviderNamespace": "Microsoft.ManufacturingPlatform",
+  "ResourceName": "manufacturingDataServices",
+  "Description": "Get a MdsResource",
+  "IsDataAction": false
+}

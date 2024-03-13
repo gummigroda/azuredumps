@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/dataWarehouseUserActivities/read",
+  "OperationName": "Get SQL Data Warehouse user activities",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Get Data Warehouse User Activities",
+  "Description": "Retrieves the user activities of a SQL Data Warehouse instance which includes running and suspended queries",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/dataNetworks/delete",
+  "OperationName": "DataNetworks_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/dataNetworks",
+  "Description": "Deletes the specified Mobile Packet Core Data Network Name resource",
+  "IsDataAction": false
+}

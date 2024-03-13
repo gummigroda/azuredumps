@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/clusters/applications/services/read",
+  "OperationName": "Read Service",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Services",
+  "Description": "Read any Service",
+  "IsDataAction": false
+}

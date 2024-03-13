@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveConnectivityConfigurations/action",
+  "OperationName": "List Network Manager Effective Connectivity Configurations",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Lists Network Manager Effective Connectivity Configurations",
+  "IsDataAction": false
+}

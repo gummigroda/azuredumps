@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/subscriptions/delete",
+  "OperationName": "Delete subscription",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Deletes the specified subscription.",
+  "IsDataAction": false
+}

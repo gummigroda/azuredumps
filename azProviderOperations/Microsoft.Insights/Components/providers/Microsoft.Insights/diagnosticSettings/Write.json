@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/providers/Microsoft.Insights/diagnosticSettings/Write",
+  "OperationName": "Create or update resource diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Resource diagnostic settings",
+  "Description": "Create or update a resource diagnostic setting",
+  "IsDataAction": false
+}

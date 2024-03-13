@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceAppLaunch/Read",
+  "OperationName": "Read DeviceAppLaunch data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceAppLaunch",
+  "Description": "Read data from the DeviceAppLaunch table",
+  "IsDataAction": false
+}

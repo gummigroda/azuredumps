@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/connectors/write",
+  "OperationName": "Connector_Update",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/connectors",
+  "Description": "Operation to update an existing Connector.",
+  "IsDataAction": false
+}

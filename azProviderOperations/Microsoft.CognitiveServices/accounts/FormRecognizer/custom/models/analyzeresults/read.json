@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/custom/models/analyzeresults/read",
+  "OperationName": "Get Analyze Form Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Analysis Results",
+  "Description": "Obtain current status and the result of the analyze form operation.",
+  "IsDataAction": true
+}

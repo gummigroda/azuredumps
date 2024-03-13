@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityGraph/diagnosticsettings/write",
+  "OperationName": "Diagnostic settings write",
+  "ProviderNamespace": "Microsoft Monitoring Insights",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Writing a diagnostic setting",
+  "IsDataAction": false
+}

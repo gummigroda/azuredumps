@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/errorSummaries/delete",
+  "OperationName": "ErrorSummaries_Delete",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/errorSummaries",
+  "Description": "DeleteerrorSummariesresource.",
+  "IsDataAction": false
+}

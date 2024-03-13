@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/cosmosCertMappings/read",
+  "OperationName": "Get Cosmos Cert Mapping",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Cosmos Cert Mapping",
+  "Description": "Get information about a Cosmos Cert Mapping.",
+  "IsDataAction": false
+}

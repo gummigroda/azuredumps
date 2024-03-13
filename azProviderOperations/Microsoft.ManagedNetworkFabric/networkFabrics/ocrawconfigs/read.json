@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/ocrawconfigs/read",
+  "OperationName": "OcRawConfigs_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/ocrawconfigs",
+  "Description": "Get the OcRawConfig resource details.",
+  "IsDataAction": false
+}

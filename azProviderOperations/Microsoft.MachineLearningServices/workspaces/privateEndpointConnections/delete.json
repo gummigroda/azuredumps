@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/delete",
+  "OperationName": "Delete a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Delete a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

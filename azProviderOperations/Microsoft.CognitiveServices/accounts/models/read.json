@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/models/read",
+  "OperationName": "Read Available Models",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Model",
+  "Description": "Reads available models.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/privateEndpointConnectionsApproval/action",
+  "OperationName": "Private Endpoint Connections Auto Approval",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Determines if user is allowed to auto approve a private endpoint connection to a workspace",
+  "IsDataAction": false
+}

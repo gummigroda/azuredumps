@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/quotaMetrics/Read",
+  "OperationName": "Get Quota Metrics",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get Quota Metrics",
+  "IsDataAction": false
+}

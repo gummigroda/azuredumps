@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Load Balancer Event Log Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Log Definitions",
+  "Description": "Gets the events for Load Balancer",
+  "IsDataAction": false
+}

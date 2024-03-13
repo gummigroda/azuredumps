@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/locations/operationStatus/read",
+  "OperationName": "Get Operation Status",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "locations/operationStatus",
+  "Description": "Gets Operation Status for a given Operation",
+  "IsDataAction": false
+}

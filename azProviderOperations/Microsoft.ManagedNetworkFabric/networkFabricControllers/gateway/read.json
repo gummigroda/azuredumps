@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabriccontrollers/gateway/read",
+  "OperationName": "Gateway_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabriccontrollers/gateway",
+  "Description": "Get the Gateway resource details.",
+  "IsDataAction": false
+}

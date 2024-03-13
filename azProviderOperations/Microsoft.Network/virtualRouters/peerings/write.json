@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualRouters/peerings/write",
+  "OperationName": "Create or Update VirtualRouterPeering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualRouterPeering",
+  "Description": "Creates A VirtualRouterPeering or Updates An Existing VirtualRouterPeering",
+  "IsDataAction": false
+}

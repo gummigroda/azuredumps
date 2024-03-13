@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/usage/training/user/read",
+  "OperationName": "GetTrainingUsageForOxford",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "user*",
+  "Description": "Get usage for training resource for Oxford user",
+  "IsDataAction": true
+}

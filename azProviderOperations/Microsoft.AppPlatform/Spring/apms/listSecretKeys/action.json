@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apms/listSecretKeys/action",
+  "OperationName": "List the secret keys of Microsoft Azure Spring Apps APM",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The APM of Microsoft Azure Spring Apps",
+  "Description": "List the secret keys for a specific Azure Spring Apps service instance APM",
+  "IsDataAction": false
+}

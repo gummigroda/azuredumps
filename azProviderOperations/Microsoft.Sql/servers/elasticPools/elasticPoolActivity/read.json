@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/elasticPoolActivity/read",
+  "OperationName": "Get elastic database pool activity",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Database Pool Activi",
+  "Description": "Retrieve activities and details on a given elastic database pool",
+  "IsDataAction": false
+}

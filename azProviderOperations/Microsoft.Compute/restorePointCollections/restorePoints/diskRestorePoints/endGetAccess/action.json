@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/endGetAccess/action",
+  "OperationName": "Revoke incremental DiskRestorePoint SAS URI",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskRestorePoint",
+  "Description": "Revoke the SAS URI of the incremental DiskRestorePoint",
+  "IsDataAction": false
+}

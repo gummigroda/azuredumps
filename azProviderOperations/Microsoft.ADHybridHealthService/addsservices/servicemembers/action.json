@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/servicemembers/action",
+  "OperationName": "Add a server.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Add a server instance to the service.",
+  "IsDataAction": false
+}

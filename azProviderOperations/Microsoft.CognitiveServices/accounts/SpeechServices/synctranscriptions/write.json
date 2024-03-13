@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/synctranscriptions/write",
+  "OperationName": "Create SyncTranscription",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "synctranscriptions*",
+  "Description": "create file based sync transcriptions",
+  "IsDataAction": true
+}

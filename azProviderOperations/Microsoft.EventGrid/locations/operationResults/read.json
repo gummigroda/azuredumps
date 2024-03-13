@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/locations/operationResults/read",
+  "OperationName": "Read Regional OperationResult",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Regional OperationResults",
+  "Description": "Read the result of a regional operation",
+  "IsDataAction": false
+}

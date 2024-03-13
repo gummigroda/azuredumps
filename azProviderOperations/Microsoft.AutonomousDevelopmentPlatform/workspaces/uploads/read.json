@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/workspaces/uploads/read",
+  "OperationName": "Read Uploads",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Uploads",
+  "Description": "Read and list the details of the available uploads in the workspace. ",
+  "IsDataAction": true
+}

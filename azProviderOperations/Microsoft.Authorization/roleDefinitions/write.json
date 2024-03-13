@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleDefinitions/write",
+  "OperationName": "Create or update custom role definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role definition",
+  "Description": "Create or update a custom role definition with specified permissions and assignable scopes.",
+  "IsDataAction": false
+}

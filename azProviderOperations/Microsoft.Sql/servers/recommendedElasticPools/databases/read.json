@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/recommendedElasticPools/databases/read",
+  "OperationName": "Get recommended elastic pools databases",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Recommended Elastic Pool Databases",
+  "Description": "Retrieve metrics for recommended elastic database pools for a given server",
+  "IsDataAction": false
+}

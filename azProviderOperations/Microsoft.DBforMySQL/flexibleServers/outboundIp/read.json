@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/outboundIp/read",
+  "OperationName": "Get MySQL server outbound ip",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Outbound IP",
+  "Description": "Get the outbound ip of server",
+  "IsDataAction": false
+}

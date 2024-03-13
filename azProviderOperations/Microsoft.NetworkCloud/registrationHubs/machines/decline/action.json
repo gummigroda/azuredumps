@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/machines/decline/action",
+  "OperationName": "RegistrationHubMachines_Decline",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/machines",
+  "Description": "Declines a machine that is pending approval during registration. This effectively \"dead ends\" this machine and is an explicit refusal to let the machine proceed with further provisioning.",
+  "IsDataAction": false
+}

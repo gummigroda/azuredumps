@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/locks/read",
+  "OperationName": "Get management locks",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Management lock",
+  "Description": "Gets locks at the specified scope.",
+  "IsDataAction": false
+}

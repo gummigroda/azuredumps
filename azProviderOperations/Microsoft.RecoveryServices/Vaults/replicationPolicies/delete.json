@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationPolicies/delete",
+  "OperationName": "Delete Policies",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Policies",
+  "Description": "Delete any Policies",
+  "IsDataAction": false
+}

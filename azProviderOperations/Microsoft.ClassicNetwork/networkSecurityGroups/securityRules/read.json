@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/securityRules/read",
+  "OperationName": "Get Security Rule",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Security Rule",
+  "Description": "Gets the security rule.",
+  "IsDataAction": false
+}

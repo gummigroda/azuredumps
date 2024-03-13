@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/fileimports/write",
+  "OperationName": "Create or update a File Import",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "FileImports",
+  "Description": "Creates or updates a File Import",
+  "IsDataAction": false
+}

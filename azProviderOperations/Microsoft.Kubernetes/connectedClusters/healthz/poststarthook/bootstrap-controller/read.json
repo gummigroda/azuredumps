@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/bootstrap-controller/read",
+  "OperationName": "Gets/List bootstrap-controller resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/bootstrap-controller",
+  "Description": "Reads bootstrap-controller",
+  "IsDataAction": true
+}

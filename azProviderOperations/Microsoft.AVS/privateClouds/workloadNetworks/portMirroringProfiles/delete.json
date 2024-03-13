@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/delete",
+  "OperationName": "Delete portMirroringProfiles",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/portMirroringProfiles",
+  "Description": "Delete portMirroringProfiles.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/simGroups/sims/read",
+  "OperationName": "Sims_ListByGroup",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "simGroups/sims",
+  "Description": "Gets all the SIMs in a SIM group.",
+  "IsDataAction": false
+}

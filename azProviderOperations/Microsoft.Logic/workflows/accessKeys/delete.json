@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/accessKeys/delete",
+  "OperationName": "Delete Access Key",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Access Key",
+  "Description": "Deletes the access key.",
+  "IsDataAction": false
+}

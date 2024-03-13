@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/EmailUrlInfo/read",
+  "OperationName": "Read EmailUrlInfo data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "EmailUrlInfo",
+  "Description": "Read data from the EmailUrlInfo table",
+  "IsDataAction": false
+}

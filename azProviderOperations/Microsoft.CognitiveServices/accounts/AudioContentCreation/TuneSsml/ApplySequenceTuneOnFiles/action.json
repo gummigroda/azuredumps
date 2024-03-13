@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneSsml/ApplySequenceTuneOnFiles/action",
+  "OperationName": "Apply serveral ssml tag tune on one ssml file sequencly.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ssml operation",
+  "Description": "Apply serveral ssml tag tune on one ssml file sequencly.",
+  "IsDataAction": true
+}

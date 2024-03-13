@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/azureZones/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "AzureZones",
+  "Description": "Deletes a given azureZone.",
+  "IsDataAction": false
+}

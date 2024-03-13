@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/hub/send/action",
+  "OperationName": "Send messages to hub",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Hub",
+  "Description": "Broadcast messages to all client connections in the hub",
+  "IsDataAction": true
+}

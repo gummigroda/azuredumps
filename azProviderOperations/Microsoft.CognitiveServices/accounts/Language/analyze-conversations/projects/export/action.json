@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/export/action",
+  "OperationName": "AnalyzeConversations_Projects_TriggerExportProjectJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Triggers a job to export project data in JSON format.",
+  "IsDataAction": true
+}

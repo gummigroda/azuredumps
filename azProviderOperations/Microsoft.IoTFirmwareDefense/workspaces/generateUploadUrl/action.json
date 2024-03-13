@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/generateUploadUrl/action",
+  "OperationName": "Workspaces_GenerateUploadUrl",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces",
+  "Description": "The operation to get a url for file upload.",
+  "IsDataAction": false
+}

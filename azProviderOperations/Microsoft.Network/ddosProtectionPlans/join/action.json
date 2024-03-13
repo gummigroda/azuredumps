@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/join/action",
+  "OperationName": "Join DDoS Protection Plan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan",
+  "Description": "Joins a DDoS Protection Plan. Not alertable.",
+  "IsDataAction": false
+}

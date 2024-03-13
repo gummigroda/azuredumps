@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/updateTags/action",
+  "OperationName": "Updates tags for machines in a site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Updates the tags for machines in a site",
+  "IsDataAction": false
+}

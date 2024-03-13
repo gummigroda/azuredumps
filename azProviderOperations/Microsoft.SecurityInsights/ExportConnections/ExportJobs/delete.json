@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ExportConnections/ExportJobs/delete",
+  "OperationName": "Delete ExportJobs",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ExportJobs",
+  "Description": "Delete ExportJobs",
+  "IsDataAction": false
+}

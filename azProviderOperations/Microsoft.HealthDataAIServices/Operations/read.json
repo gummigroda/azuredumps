@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

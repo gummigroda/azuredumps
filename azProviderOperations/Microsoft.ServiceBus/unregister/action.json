@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/unregister/action",
+  "OperationName": "Registers the ServiceBus Resource Provider",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the ServiceBus resource provider and enables the creation of ServiceBus resources",
+  "IsDataAction": false
+}

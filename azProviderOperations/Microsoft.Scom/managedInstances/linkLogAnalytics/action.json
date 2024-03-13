@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/linkLogAnalytics/action",
+  "OperationName": "Instances_LinkLogAnalytics",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Link Log Analytics workspace for SCOM monitoring instance",
+  "IsDataAction": false
+}

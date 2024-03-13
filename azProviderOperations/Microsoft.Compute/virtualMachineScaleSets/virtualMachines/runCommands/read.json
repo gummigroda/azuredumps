@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/read",
+  "OperationName": "Get run command for Virtual Machine in Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "RunCommands for Virtual Machines in Virtual Machine Scale Set",
+  "Description": "Get the properties of a run command for Virtual Machine in Virtual Machine Scale Set",
+  "IsDataAction": false
+}

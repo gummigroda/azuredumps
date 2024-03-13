@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCredentials/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.ConnectedCredentials",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

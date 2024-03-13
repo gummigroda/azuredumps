@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/linkers/read",
+  "OperationName": "Linker_Get",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "linkers",
+  "Description": "Returns Linker resource for a given name.",
+  "IsDataAction": false
+}

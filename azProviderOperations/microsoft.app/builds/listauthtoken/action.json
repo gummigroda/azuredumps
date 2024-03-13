@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builds/listauthtoken/action",
+  "OperationName": "Auth Token for Build Dev APIs",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Build",
+  "Description": "Gets the token used to connect to the build endpoints, such as source code upload or build log streaming.",
+  "IsDataAction": false
+}

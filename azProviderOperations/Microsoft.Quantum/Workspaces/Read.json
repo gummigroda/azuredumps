@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quantum/Workspaces/Read",
+  "OperationName": "Gets/List workspace resources",
+  "ProviderNamespace": "Microsoft.Quantum",
+  "ResourceName": "Workspaces",
+  "Description": "Read Workspace",
+  "IsDataAction": false
+}

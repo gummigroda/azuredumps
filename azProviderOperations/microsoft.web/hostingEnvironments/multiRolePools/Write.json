@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/multiRolePools/Write",
+  "OperationName": "Create or Update FrontEnd Pool",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment FrontEnd Pool",
+  "Description": "Create a new FrontEnd Pool in an App Service Environment or update an existing one",
+  "IsDataAction": false
+}

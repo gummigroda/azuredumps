@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/refreshExternalGovernanceStatusMIOperationResults/read",
+  "OperationName": "Refresh external governance enablement status operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Refresh external governance enablement status operation results",
+  "Description": "Refresh external governance enablement status operation results",
+  "IsDataAction": false
+}

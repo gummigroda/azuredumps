@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/write",
+  "OperationName": "Check the Network Security Perimeter for configuration updates.",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Network Security Perimeter",
+  "Description": "Check if the configuration of the Network Security Perimeter needs updating.",
+  "IsDataAction": false
+}

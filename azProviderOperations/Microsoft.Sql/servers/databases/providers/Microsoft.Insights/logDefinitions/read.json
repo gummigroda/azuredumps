@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read databases log definitions",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The log definition of databases",
+  "Description": "Gets the available logs for databases",
+  "IsDataAction": false
+}

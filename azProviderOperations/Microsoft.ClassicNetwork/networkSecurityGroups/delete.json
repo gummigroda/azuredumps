@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/networkSecurityGroups/delete",
+  "OperationName": "Delete Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Network Security Group",
+  "Description": "Deletes the network security group.",
+  "IsDataAction": false
+}

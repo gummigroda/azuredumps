@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/sensitivitySettings/read",
+  "OperationName": "Get sensitivity settings",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Sensitivity Settings",
+  "Description": "Gets tenant level sensitivity settings",
+  "IsDataAction": false
+}

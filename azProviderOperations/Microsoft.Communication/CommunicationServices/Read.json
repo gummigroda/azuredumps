@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/Read",
+  "OperationName": "Gets/Lists communication services",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Communication Service",
+  "Description": "Reads communication services",
+  "IsDataAction": false
+}

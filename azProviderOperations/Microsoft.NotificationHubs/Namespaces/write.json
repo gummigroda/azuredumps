@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/write",
+  "OperationName": "Create Or Update Namespace",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Namespace",
+  "Description": "Create a Namespace Resource and Update its properties. Tags and Capacity of the Namespace are the properties which can be updated.",
+  "IsDataAction": false
+}

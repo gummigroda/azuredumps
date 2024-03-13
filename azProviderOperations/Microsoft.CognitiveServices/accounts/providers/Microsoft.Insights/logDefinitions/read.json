@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Cognitive Services log definitions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "The log definition of Cognitive Services",
+  "Description": "Gets the available logs for Cognitive Services account",
+  "IsDataAction": false
+}

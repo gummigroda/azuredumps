@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Support/lookUpResourceId/action",
+  "OperationName": "Look Up Resource Id",
+  "ProviderNamespace": "Microsoft Support",
+  "ResourceName": "",
+  "Description": "Looks up resource Id for resource type",
+  "IsDataAction": false
+}

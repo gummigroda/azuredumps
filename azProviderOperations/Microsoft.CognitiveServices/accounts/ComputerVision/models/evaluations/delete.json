@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/models/evaluations/delete",
+  "OperationName": "DeleteModelEvaluation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Delete a model evaluation. A model evaluation can be deleted if it is in the 'Succeeded' or 'Failed' states.",
+  "IsDataAction": true
+}

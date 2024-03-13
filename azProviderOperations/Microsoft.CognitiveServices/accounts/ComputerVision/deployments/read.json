@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/deployments/read",
+  "OperationName": "GetDeployment|GetDeployments",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Get information about a specific deployment.\r\nGet a list of deployments that have been created.",
+  "IsDataAction": true
+}

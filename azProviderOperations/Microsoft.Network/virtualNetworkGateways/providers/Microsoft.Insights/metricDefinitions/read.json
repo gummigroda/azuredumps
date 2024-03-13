@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Virtual Network Gateway metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Gateway metric definition",
+  "Description": "Gets the available metrics for Virtual Network Gateway",
+  "IsDataAction": false
+}

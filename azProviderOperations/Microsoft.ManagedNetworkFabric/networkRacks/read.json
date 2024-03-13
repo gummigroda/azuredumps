@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkRacks/read",
+  "OperationName": "NetworkRacks_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkRacks",
+  "Description": "List all Network Rack resources in the given subscription",
+  "IsDataAction": false
+}

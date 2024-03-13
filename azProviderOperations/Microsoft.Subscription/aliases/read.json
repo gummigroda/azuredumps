@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Subscription/aliases/read",
+  "OperationName": "Get subscription alias",
+  "ProviderNamespace": "Microsoft Subscription",
+  "ResourceName": "Aliases",
+  "Description": "Get subscription alias",
+  "IsDataAction": false
+}

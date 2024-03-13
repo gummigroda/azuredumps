@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADDomainServicesDNSAuditsDynamicUpdates/read",
+  "OperationName": "Read AADDomainServicesDNSAuditsDynamicUpdates data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADDomainServicesDNSAuditsDynamicUpdates",
+  "Description": "Read data from the AADDomainServicesDNSAuditsDynamicUpdates table",
+  "IsDataAction": false
+}

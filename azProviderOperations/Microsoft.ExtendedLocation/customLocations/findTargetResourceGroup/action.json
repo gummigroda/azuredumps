@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/findTargetResourceGroup/action",
+  "OperationName": "Find TargetResource Group Action",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Custom Locations",
+  "Description": "Evaluate Labels Against Resource Sync Rules to Get Resource Group for Resource Sync",
+  "IsDataAction": false
+}

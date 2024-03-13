@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/agreements/read",
+  "OperationName": "List/Get Agreement(s)",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Agreements",
+  "Description": null,
+  "IsDataAction": false
+}

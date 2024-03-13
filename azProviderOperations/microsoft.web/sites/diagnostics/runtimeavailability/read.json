@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/runtimeavailability/read",
+  "OperationName": "Get Web Apps Diagnostics Runtime Availability",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Runtime Availability",
+  "Description": "Get Web Apps Diagnostics Runtime Availability.",
+  "IsDataAction": false
+}

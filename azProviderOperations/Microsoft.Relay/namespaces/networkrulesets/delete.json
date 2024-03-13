@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/networkrulesets/delete",
+  "OperationName": "Delete VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Network Rule Set",
+  "Description": "Delete VNET Rule Resource",
+  "IsDataAction": false
+}

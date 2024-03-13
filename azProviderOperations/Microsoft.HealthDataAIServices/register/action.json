@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/register/action",
+  "OperationName": "Register the Microsoft.HealthDataAIServices",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.HealthDataAIServices",
+  "IsDataAction": false
+}

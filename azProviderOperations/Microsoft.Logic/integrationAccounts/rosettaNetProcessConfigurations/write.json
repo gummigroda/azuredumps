@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/write",
+  "OperationName": "Set Integration Account RosettaNet Process Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account RosettaNet Process Configuration",
+  "Description": "Creates or updates the  RosettaNet process configuration in integration account.",
+  "IsDataAction": false
+}

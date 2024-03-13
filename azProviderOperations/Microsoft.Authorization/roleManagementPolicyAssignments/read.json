@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleManagementPolicyAssignments/read",
+  "OperationName": "Get Role management policy assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role management policy assignment",
+  "Description": "Get role management policy assignments",
+  "IsDataAction": false
+}

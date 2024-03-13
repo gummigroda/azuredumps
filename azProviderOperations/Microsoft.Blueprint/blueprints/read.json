@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Blueprint/blueprints/read",
+  "OperationName": "Read blueprints",
+  "ProviderNamespace": "Microsoft Blueprint",
+  "ResourceName": "Blueprints",
+  "Description": "Read any blueprints",
+  "IsDataAction": false
+}

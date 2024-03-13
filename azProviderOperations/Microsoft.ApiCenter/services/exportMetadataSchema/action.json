@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/exportMetadataSchema/action",
+  "OperationName": "Export metadata schema",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Service",
+  "Description": "Returns effective metadata schema document.",
+  "IsDataAction": false
+}

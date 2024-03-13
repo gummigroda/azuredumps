@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/executions/read",
+  "OperationName": "Lists all executions in a job agent",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job execution",
+  "Description": "Gets all the job executions for the job agent",
+  "IsDataAction": false
+}

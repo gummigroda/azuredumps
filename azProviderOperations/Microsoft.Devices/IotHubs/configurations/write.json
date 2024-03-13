@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/configurations/write",
+  "OperationName": "Write Configuration",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Create or update device management configurations",
+  "IsDataAction": true
+}

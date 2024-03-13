@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/sku/regions/read",
+  "OperationName": "Get SkuRegions",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "SkuRegions",
+  "Description": "Get list of SkuRegions Resource Descriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataMigrations/start/action",
+  "OperationName": "Start",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataMigrations",
+  "Description": "Start an existing metadata migration",
+  "IsDataAction": false
+}

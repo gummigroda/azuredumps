@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/javacomponents/delete",
+  "OperationName": "Delete Managed Environment Java Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Java Component",
+  "Description": "Delete Managed Environment Java Component",
+  "IsDataAction": false
+}

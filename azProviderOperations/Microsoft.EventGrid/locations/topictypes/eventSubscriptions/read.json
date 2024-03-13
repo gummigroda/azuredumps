@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/locations/topictypes/eventSubscriptions/read",
+  "OperationName": "List regional event subscriptions by topictype",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "List regional event subscriptions by topictype",
+  "IsDataAction": false
+}

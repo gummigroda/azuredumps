@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/changeLongTermRetentionBackupAccessTierOperationResults/read",
+  "OperationName": "Gets the changing LTR backup access tier operation result.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Change long term retention backup access tier",
+  "Description": "Gets the changing LTR backup access tier operation result.",
+  "IsDataAction": false
+}

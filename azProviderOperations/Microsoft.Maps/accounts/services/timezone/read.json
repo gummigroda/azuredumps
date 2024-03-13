@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/timezone/read",
+  "OperationName": "Timezone Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Timezone",
+  "Description": "Allows reading of data for Timezone services.",
+  "IsDataAction": true
+}

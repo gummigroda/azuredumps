@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/webhooks/read",
+  "OperationName": "Webhooks_Get",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/webhooks",
+  "Description": "Get the AppComplianceAutomation webhook and its properties.",
+  "IsDataAction": false
+}

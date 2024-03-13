@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/settings/write",
+  "OperationName": "Update application version settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App version settings",
+  "Description": "Updates the application version settings.",
+  "IsDataAction": true
+}

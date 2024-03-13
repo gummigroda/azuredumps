@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/roleInstances/restart/action",
+  "OperationName": "RoleInstances_Restart",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions/roleInstances",
+  "Description": "Restarts a role instance of a vendor network function.",
+  "IsDataAction": false
+}

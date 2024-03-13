@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/resolvers/policies/delete",
+  "OperationName": "Remove GraphQL API policy configuration from policies",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Policy configuration at the GraphQL API resolver level.",
+  "Description": "Deletes the policy configuration at the GraphQL Api.",
+  "IsDataAction": false
+}

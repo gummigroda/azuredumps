@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/discovery.k8s.io/endpointslices/delete",
+  "OperationName": "Deletes/DeletesCollection endpointslices resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Endpointslices",
+  "Description": "Deletes endpointslices",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/internalConnections/delete",
+  "OperationName": "InternalConnections_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "internalConnections",
+  "Description": "Delete a InternalConnection",
+  "IsDataAction": false
+}

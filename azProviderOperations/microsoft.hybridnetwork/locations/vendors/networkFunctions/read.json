@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/read",
+  "OperationName": "VendorNetworkFunctions_List",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions",
+  "Description": "Lists all the vendor network function sub resources in an Azure region, filtered by skuType, skuName, vendorProvisioningState.",
+  "IsDataAction": false
+}

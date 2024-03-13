@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/generateCredentials/action",
+  "OperationName": "Generate keys for a token",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Generate keys for a token of a specified container registry.",
+  "IsDataAction": false
+}

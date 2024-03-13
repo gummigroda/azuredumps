@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/networkConnections/write",
+  "OperationName": "NetworkConnections_Update",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "networkConnections",
+  "Description": "Partially updates a Network Connection",
+  "IsDataAction": false
+}

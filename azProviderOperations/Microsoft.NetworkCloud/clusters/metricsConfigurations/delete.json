@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/metricsConfigurations/delete",
+  "OperationName": "MetricsConfigurations_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters/metricsConfigurations",
+  "Description": "Delete the metrics configuration of the provided cluster.",
+  "IsDataAction": false
+}

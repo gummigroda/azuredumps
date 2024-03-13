@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/start/action",
+  "OperationName": "Start Trigger",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Starts any Trigger.",
+  "IsDataAction": false
+}

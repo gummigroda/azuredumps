@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/applicationInstances/delete",
+  "OperationName": "SAPApplicationServerInstances_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/applicationInstances",
+  "Description": "Deletes the SAP Application Server Instance. <br><br>This operation will be used by service only. Delete by end user will return a Bad Request error.",
+  "IsDataAction": false
+}

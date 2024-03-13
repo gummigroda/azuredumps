@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/join/action",
+  "OperationName": "NetworkTapRules_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "Join action for Network Tap Rule resource.",
+  "IsDataAction": false
+}

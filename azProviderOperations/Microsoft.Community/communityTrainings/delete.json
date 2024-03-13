@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Community/communityTrainings/delete",
+  "OperationName": "CommunityTrainings_Delete",
+  "ProviderNamespace": "Microsoft.Community",
+  "ResourceName": "communityTrainings",
+  "Description": "Delete a CommunityTraining",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/management/classifier/delete",
+  "OperationName": "Delete document classifier",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Deletes document classifier.",
+  "IsDataAction": true
+}

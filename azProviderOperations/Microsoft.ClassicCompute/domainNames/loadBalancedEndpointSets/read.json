@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/loadBalancedEndpointSets/read",
+  "OperationName": "Get Load Balanced Endpoint Sets",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Load Balanced Endpoint Sets",
+  "Description": "Get the load balanced endpoint sets.",
+  "IsDataAction": false
+}

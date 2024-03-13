@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/StorageContainers/Delete",
+  "OperationName": "Deletes storage containers resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "StorageContainers",
+  "Description": "Deletes storage containers resource",
+  "IsDataAction": false
+}

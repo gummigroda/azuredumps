@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/computePolicies/read",
+  "OperationName": "Get Compute Policy",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Compute Policy",
+  "Description": "Get information about a compute policy.",
+  "IsDataAction": false
+}

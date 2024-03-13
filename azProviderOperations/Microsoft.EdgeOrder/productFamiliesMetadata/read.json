@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/productFamiliesMetadata/read",
+  "OperationName": "List or Get product families metadata",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "ArmApiRes_Microsoft.EdgeOrder",
+  "Description": "This method lists or gets the product families metadata.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectLivenessWithVerify/singleModal/sessions/audit/read",
+  "OperationName": "Face - DetectLivenessWithVerify SingleModal - Session Audit Requests",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Session - GetResult|Session - Audit",
+  "Description": "<p>List audit entries for detectLivenessWithVerify/singleModal.</p>",
+  "IsDataAction": true
+}

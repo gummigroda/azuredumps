@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/locations/operationresults/signalr/read",
+  "OperationName": "Query Async Operation result in region",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Locations/OperationResults/SignalR",
+  "Description": "Query the result of a location-based asynchronous operation",
+  "IsDataAction": false
+}

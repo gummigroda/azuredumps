@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/action",
+  "OperationName": "PersonDirectory Person - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Service",
+  "Description": "Creates a new person in a person directory.",
+  "IsDataAction": true
+}

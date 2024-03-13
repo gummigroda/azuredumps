@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/settings/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write database throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Update a database throughput. Only applicable to API types: 'sql', 'mongodb', 'gremlin'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

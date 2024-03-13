@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/write",
+  "OperationName": "Workspaces_Update",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces",
+  "Description": "The operation to update a firmware analysis workspaces.",
+  "IsDataAction": false
+}

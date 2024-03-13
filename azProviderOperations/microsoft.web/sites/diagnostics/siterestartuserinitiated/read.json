@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/siterestartuserinitiated/read",
+  "OperationName": "Get Web Apps Diagnostics Site Restart User Initiated",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Site Restart User Initiated",
+  "Description": "Get Web Apps Diagnostics Site Restart User Initiated.",
+  "IsDataAction": false
+}

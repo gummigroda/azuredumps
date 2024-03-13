@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/LinuxAuditLog/Read",
+  "OperationName": "Read LinuxAuditLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "LinuxAuditLog",
+  "Description": "Read data from the LinuxAuditLog table",
+  "IsDataAction": false
+}

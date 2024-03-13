@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/storageSpaces/write",
+  "OperationName": "storageSpaces_Update",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "storageSpaces",
+  "Description": "Patches the Hybrid AKS storage object",
+  "IsDataAction": false
+}

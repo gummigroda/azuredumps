@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/virtualMachines/redeploy/action",
+  "OperationName": "Redeploy Virtual Machine",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs/virtualMachines",
+  "Description": "Redeploy a virtual machine to a different compute node.",
+  "IsDataAction": false
+}

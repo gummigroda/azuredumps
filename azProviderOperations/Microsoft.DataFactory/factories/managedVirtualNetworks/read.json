@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/managedVirtualNetworks/read",
+  "OperationName": "Read Managed Virtual Network",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Managed Virtual Network",
+  "Description": "Read Managed Virtual Network.",
+  "IsDataAction": false
+}

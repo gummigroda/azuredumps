@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/tenantConfigurations/delete",
+  "OperationName": "Delete Tenant configuration",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "Tenant configuration",
+  "Description": "Removes Tenant configuration. User has to be a Tenant Admin for this operation.",
+  "IsDataAction": false
+}

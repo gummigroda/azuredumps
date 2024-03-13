@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validates Private Endpoint Connection for PrivateLinkHub Proxy",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection For PrivateLinkHub Proxy",
+  "Description": "Validates Private Endpoint Connection for PrivateLinkHub Proxy",
+  "IsDataAction": false
+}

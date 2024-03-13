@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/ResetPassword/action",
+  "OperationName": "Reset password",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "Resets the user password on an environment",
+  "IsDataAction": false
+}

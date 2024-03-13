@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/transferBillingSubscriptions/write",
+  "OperationName": "Transfer billing subscriptions - AOT/SOT",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Transfer Billing Subscriptions",
+  "Description": null,
+  "IsDataAction": false
+}

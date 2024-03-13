@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/keys/delete",
+  "OperationName": "Delete Azure SQL Managed Instance Key",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Keys",
+  "Description": "Deletes an existing Azure SQL Managed Instance  key.",
+  "IsDataAction": false
+}

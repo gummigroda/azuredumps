@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/actionRules/write",
+  "OperationName": "Write action rule",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "actionRules",
+  "Description": "Create or update alert processing rule in a given subscription",
+  "IsDataAction": false
+}

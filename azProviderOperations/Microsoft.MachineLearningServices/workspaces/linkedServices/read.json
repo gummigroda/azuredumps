@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/linkedServices/read",
+  "OperationName": "Gets all linked services for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Linked Services",
+  "Description": "Gets all linked services for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

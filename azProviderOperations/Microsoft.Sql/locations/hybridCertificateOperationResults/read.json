@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/hybridCertificateOperationResults/read",
+  "OperationName": "Gets the status of a long term hybrid certificate async operation on Azure Sql Managed Instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Hybrid Certificate",
+  "Description": "Gets the status of a long term hybrid certificate async operation.",
+  "IsDataAction": false
+}

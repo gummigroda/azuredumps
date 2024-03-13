@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoimaintenances/read",
+  "OperationName": "GNOIMaintenances_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoimaintenances",
+  "Description": "Get the GNOIMaintenance resource details.",
+  "IsDataAction": false
+}

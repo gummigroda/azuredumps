@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MicrosoftDynamicsTelemetryPerformanceLogs/Read",
+  "OperationName": "Read MicrosoftDynamicsTelemetryPerformanceLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MicrosoftDynamicsTelemetryPerformanceLogs",
+  "Description": "Read data from the MicrosoftDynamicsTelemetryPerformanceLogs table",
+  "IsDataAction": false
+}

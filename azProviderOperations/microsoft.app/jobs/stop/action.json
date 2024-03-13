@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/jobs/stop/action",
+  "OperationName": "Stop multiple Container Apps Job executions",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container Apps Job",
+  "Description": "Stop multiple Container Apps Job executions",
+  "IsDataAction": false
+}

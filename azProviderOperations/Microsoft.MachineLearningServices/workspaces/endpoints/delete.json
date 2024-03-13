@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/endpoints/delete",
+  "OperationName": "Deletes the Machine Learning Services endpoint",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Endpoint",
+  "Description": "Deletes the Machine Learning Services endpoint",
+  "IsDataAction": false
+}

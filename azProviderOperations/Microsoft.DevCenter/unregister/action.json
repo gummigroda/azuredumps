@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/unregister/action",
+  "OperationName": "Unregister the Microsoft.DevCenter",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.DevCenter",
+  "IsDataAction": false
+}

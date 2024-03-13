@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/comments/write",
+  "OperationName": "Add api comment",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Issue Comments",
+  "Description": "Creates a new Comment for the Issue in an API or updates an existing one.",
+  "IsDataAction": false
+}

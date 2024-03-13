@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/virtualClusters/updateManagedInstanceDnsServers/action",
+  "OperationName": "Performs virtual cluster dns servers.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure Sql Virtual Cluster",
+  "Description": "Performs virtual cluster dns servers.",
+  "IsDataAction": false
+}

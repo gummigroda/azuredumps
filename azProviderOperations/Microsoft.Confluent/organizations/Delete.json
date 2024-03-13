@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/Delete",
+  "OperationName": "Delete organization resources",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Delete organization",
+  "IsDataAction": false
+}

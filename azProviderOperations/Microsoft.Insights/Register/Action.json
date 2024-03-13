@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Register/Action",
+  "OperationName": "Register Microsoft.Insights",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "",
+  "Description": "Register the Microsoft Insights provider",
+  "IsDataAction": false
+}

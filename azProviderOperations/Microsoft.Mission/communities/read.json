@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/read",
+  "OperationName": "Community_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities",
+  "Description": "Get a CommunityResource",
+  "IsDataAction": false
+}

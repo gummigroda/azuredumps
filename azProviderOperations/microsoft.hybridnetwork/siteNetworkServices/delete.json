@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/siteNetworkServices/delete",
+  "OperationName": "SiteNetworkServices_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "siteNetworkServices",
+  "Description": "Deletes the specified site network service.",
+  "IsDataAction": false
+}

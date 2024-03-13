@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/stop/action",
+  "OperationName": "Stop Container Group",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Stops a specific container group. Compute resources will be deallocated and billing will stop.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/write",
+  "OperationName": "Create or Update Batch Account",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Creates a new Batch account or updates an existing Batch account",
+  "IsDataAction": false
+}

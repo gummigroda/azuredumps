@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UAComputer/read",
+  "OperationName": "Read UAComputer data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UAComputer",
+  "Description": "Read data from the UAComputer table",
+  "IsDataAction": false
+}

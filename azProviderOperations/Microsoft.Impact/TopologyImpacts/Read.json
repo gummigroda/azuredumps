@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Impact/TopologyImpacts/Read",
+  "OperationName": "GetsorListTopologyImpactsresources",
+  "ProviderNamespace": "Microsoft.Impact",
+  "ResourceName": "TopologyImpacts",
+  "Description": "ReadsTopologyImpacts",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/MX/delete",
+  "OperationName": "Delete record set of type MX",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS MX record set",
+  "Description": "Remove the record set of a given name and type ‘MX’ from a DNS zone.",
+  "IsDataAction": false
+}

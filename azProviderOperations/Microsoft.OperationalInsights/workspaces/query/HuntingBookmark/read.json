@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HuntingBookmark/read",
+  "OperationName": "Read HuntingBookmark data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HuntingBookmark",
+  "Description": "Read data from the HuntingBookmark table",
+  "IsDataAction": false
+}

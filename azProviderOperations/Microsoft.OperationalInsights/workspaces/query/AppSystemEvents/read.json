@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppSystemEvents/read",
+  "OperationName": "Read AppSystemEvents data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppSystemEvents",
+  "Description": "Read data from the AppSystemEvents table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/serviceCertificates/delete",
+  "OperationName": "Delete Service Certificates",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Service Certificate",
+  "Description": "Delete the service certificates used.",
+  "IsDataAction": false
+}

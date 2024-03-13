@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/write",
+  "OperationName": "Update Advanced Threat Protection Setting",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server AdvancedThreatProtection",
+  "Description": "Update the server's advanced threat protection setting.",
+  "IsDataAction": false
+}

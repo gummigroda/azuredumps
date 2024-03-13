@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/intelligencepacks/enable/action",
+  "OperationName": "Enable Intelligence Pack",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Intelligence Pack",
+  "Description": "Enables an intelligence pack for a given workspace.",
+  "IsDataAction": false
+}

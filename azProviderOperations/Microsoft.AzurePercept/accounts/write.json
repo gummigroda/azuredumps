@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/write",
+  "OperationName": "Accounts_Update",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts",
+  "Description": "Partially update an existing Azure Percept account.",
+  "IsDataAction": false
+}

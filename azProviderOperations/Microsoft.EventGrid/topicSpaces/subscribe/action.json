@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topicSpaces/subscribe/action",
+  "OperationName": "Topic spaces subscribe",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topicSpaces",
+  "Description": "Subscribe to a topic space",
+  "IsDataAction": true
+}

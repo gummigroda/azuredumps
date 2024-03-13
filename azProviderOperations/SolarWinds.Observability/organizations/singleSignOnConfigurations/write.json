@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/singleSignOnConfigurations/write",
+  "OperationName": "SingleSignOnOperations_CreateOrUpdate",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/singleSignOnConfigurations",
+  "Description": "Create a SingleSignOn",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/replicasets/read",
+  "OperationName": "Gets/List replicasets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicasets",
+  "Description": "Reads replicasets",
+  "IsDataAction": true
+}

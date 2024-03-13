@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/alertSettings/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Alert Settings",
+  "Description": "Lists alert settings",
+  "IsDataAction": false
+}

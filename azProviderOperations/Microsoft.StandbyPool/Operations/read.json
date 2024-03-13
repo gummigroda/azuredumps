@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

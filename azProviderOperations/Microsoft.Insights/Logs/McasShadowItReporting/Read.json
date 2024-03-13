@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/McasShadowItReporting/Read",
+  "OperationName": "Read McasShadowItReporting data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "McasShadowItReporting",
+  "Description": "Read data from the McasShadowItReporting table",
+  "IsDataAction": false
+}

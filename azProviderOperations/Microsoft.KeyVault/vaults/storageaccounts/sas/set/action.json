@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/sas/set/action",
+  "OperationName": "Set SAS Definition for Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Creates or updates the SAS (Shared Access Signature) definition for a managed storage account.",
+  "IsDataAction": true
+}

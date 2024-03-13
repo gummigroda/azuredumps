@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Unregister/action",
+  "OperationName": "Unregister action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription to the Kusto Resource Provider.",
+  "IsDataAction": false
+}

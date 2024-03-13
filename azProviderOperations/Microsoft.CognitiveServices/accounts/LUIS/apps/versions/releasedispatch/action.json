@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/releasedispatch/action",
+  "OperationName": "versions - Release dispatch version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Releases a new snapshot of the selected application version to be used by Dispatch applications",
+  "IsDataAction": true
+}

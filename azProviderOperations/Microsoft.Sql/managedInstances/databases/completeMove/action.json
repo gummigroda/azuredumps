@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/completeMove/action",
+  "OperationName": "Completes Managed Instance database move operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Completes Managed Instance database move.",
+  "IsDataAction": false
+}

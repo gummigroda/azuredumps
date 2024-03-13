@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/listBuildSourceUploadUrl/action",
+  "OperationName": "Get source upload url location for a container registry.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Get source upload url location for a container registry.",
+  "IsDataAction": false
+}

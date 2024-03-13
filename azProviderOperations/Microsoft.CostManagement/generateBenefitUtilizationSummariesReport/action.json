@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/generateBenefitUtilizationSummariesReport/action",
+  "OperationName": "Writes Microsoft benefit utilization summaries to storage",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "List Microsoft benefit utilization summaries in storage.",
+  "IsDataAction": false
+}

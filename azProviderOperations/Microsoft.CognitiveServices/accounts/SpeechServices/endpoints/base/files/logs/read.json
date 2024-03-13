@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/endpoints/base/files/logs/read",
+  "OperationName": "Get Base Model Endpoint Log|Get Base Model Logs*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "logs*",
+  "Description": "Gets a specific audio or transcription log for the default base model in a given language.\r\nGets the list of audio and transcription logs that have been stored when using the default base model of a given language.*",
+  "IsDataAction": true
+}

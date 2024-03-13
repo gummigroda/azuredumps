@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/listBillingProfilesWithViewPricesheetPermissions/read",
+  "OperationName": "List Billing Profiles with ViewPricesheet permission",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "List Billing Profiles With View Pricesheet Permissions",
+  "Description": null,
+  "IsDataAction": false
+}

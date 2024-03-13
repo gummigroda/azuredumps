@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/RequestApprovals/offer/acknowledgeNotification/write",
+  "OperationName": "Acknowledge notification, Admins only",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Acknowledge notification, Admins only",
+  "Description": "Acknowledge a notification, Admins only",
+  "IsDataAction": false
+}

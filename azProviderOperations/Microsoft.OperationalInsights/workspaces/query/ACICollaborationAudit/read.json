@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACICollaborationAudit/read",
+  "OperationName": "Read ACICollaborationAudit data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACICollaborationAudit",
+  "Description": "Read data from the ACICollaborationAudit table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/register/action",
+  "OperationName": "Register Subscription for Azure Stack",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "",
+  "Description": "Registers Subscription with Microsoft.AzureStack resource provider",
+  "IsDataAction": false
+}

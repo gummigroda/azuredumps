@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/trafficControllers/read",
+  "OperationName": "Get Traffic Controller",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "Traffic Controller",
+  "Description": "Get the Traffic Controller resource",
+  "IsDataAction": false
+}

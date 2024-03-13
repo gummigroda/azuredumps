@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks/write",
+  "OperationName": "Create Or Update DNS Forwarding Ruleset Link to Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Forwarding Ruleset Link to Virtual Network",
+  "Description": "Creates Or Updates DNS Forwarding Ruleset Link to virtual network properties, in JSON format",
+  "IsDataAction": false
+}

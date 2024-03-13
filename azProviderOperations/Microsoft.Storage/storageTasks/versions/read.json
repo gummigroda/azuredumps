@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageTasks/versions/read",
+  "OperationName": "List Storage Task Versions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Tasks",
+  "Description": "List all versions of a storage task",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/regeneratekey/action",
+  "OperationName": "Regenerate SignalR Access Keys",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "Change the value of SignalR access keys in the management portal or through API",
+  "IsDataAction": false
+}

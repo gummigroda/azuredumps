@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/availableManagedApis/read",
+  "OperationName": "Get Integration Service Environment available managed APIs",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment Managed API",
+  "Description": "Reads the integration service environment available managed APIs.",
+  "IsDataAction": false
+}

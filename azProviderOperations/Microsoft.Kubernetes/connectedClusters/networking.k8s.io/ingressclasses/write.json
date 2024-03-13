@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/networking.k8s.io/ingressclasses/write",
+  "OperationName": "Creates/Updates ingressclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "ingressclasses",
+  "Description": "Writes ingressclasses",
+  "IsDataAction": true
+}

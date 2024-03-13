@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/entities/read",
+  "OperationName": "Entities_Get",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/entities",
+  "Description": "Get a Entity",
+  "IsDataAction": false
+}

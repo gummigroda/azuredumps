@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections/read",
+  "OperationName": "List/Get Azure Database for PostgreSQL SGv2 Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL SGv2 Private Endpoint Connection",
+  "Description": "Returns the list of private endpoint connections or gets the properties for the specified private endpoint connection",
+  "IsDataAction": false
+}

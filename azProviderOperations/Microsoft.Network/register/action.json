@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "Registers the subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids/write",
+  "OperationName": "AttachedWifiSSIDs_Update",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids",
+  "Description": "Updates an Wi-Fi Attached SSID.",
+  "IsDataAction": false
+}

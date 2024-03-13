@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/Write",
+  "OperationName": "Create/update vcenters resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters",
+  "Description": "Writes vcenters",
+  "IsDataAction": false
+}

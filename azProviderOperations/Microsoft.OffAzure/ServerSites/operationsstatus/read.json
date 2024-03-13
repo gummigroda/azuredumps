@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/operationsstatus/read",
+  "OperationName": "Get Server operation status",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "OperationsStatus",
+  "Description": "Gets the properties of a Server operation status",
+  "IsDataAction": false
+}

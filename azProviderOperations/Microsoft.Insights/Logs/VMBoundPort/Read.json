@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/VMBoundPort/Read",
+  "OperationName": "Read VMBoundPort data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "VMBoundPort",
+  "Description": "Read data from the VMBoundPort table",
+  "IsDataAction": false
+}

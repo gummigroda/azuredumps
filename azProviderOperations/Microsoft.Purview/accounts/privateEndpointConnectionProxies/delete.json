@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Delete Account Private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

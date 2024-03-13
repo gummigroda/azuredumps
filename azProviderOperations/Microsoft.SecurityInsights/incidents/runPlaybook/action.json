@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/runPlaybook/action",
+  "OperationName": "Run playbook",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incidents",
+  "Description": "Run playbook on incident",
+  "IsDataAction": false
+}

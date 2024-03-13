@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/write",
+  "OperationName": "Create/Update MySQL Server",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Creates a server with the specified parameters or updates the properties or tags for the specified server.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Write Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Write Account Private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

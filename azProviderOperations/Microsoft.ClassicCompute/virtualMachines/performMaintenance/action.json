@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/performMaintenance/action",
+  "OperationName": "Perform Maintenance Virtual Machine",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Performs maintenance on the virtual machine.",
+  "IsDataAction": false
+}

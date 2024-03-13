@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/models/reviewpredictions/read",
+  "OperationName": "reviewpredictions - ReviewModelLabeledUtterancesPredictions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "reviewpredictions*",
+  "Description": "Gets the labeled utterances for the given model in the given task in the given app.",
+  "IsDataAction": true
+}

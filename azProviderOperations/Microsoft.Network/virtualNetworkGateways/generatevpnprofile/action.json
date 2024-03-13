@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/generatevpnprofile/action",
+  "OperationName": "Generate VpnProfile package for VirtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Generate VpnProfile package for VirtualNetworkGateway",
+  "IsDataAction": false
+}

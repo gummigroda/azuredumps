@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/documentations/read",
+  "OperationName": "Get documentations list or Get documentation details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Documentations",
+  "Description": "Lists all Documentations of the API Management service instance. or Gets the details of the documentation specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/peer/action",
+  "OperationName": "Peer Virtual Network",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Peers a virtual network with another virtual network.",
+  "IsDataAction": false
+}

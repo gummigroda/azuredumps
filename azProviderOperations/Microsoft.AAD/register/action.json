@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/register/action",
+  "OperationName": "Register Domain Service",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "",
+  "Description": "Register Domain Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/getCallbackConfig/action",
+  "OperationName": "Get Webhook Callback Config",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Gets the configuration of service URI and custom headers for the webhook.",
+  "IsDataAction": false
+}

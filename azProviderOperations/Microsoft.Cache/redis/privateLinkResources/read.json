@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/privateLinkResources/read",
+  "OperationName": "Read Private Linkable Resources",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Azure Cache for Redis private linkable resources",
+  "Description": "Read 'groupId' of redis subresource that a private link can be connected to",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/register/action",
+  "OperationName": "Register Subscription with Microsoft.CognitiveServices resource provider",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "",
+  "Description": "Registers Subscription for Cognitive Services",
+  "IsDataAction": false
+}

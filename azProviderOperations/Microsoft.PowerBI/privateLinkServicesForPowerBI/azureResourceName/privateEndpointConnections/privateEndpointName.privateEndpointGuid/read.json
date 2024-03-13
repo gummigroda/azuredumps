@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/azureResourceName/privateEndpointConnections/privateEndpointName.privateEndpointGuid/read",
+  "OperationName": "Gets private endpoint connection",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Gets private endpoint connection for the tenant.",
+  "IsDataAction": false
+}

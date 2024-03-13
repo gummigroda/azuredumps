@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/OLPSupplyChainEntityOperations/read",
+  "OperationName": "Read OLPSupplyChainEntityOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "OLPSupplyChainEntityOperations",
+  "Description": "Read data from the OLPSupplyChainEntityOperations table",
+  "IsDataAction": false
+}

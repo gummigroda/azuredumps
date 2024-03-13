@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/models/evaluate/jobs/read",
+  "OperationName": "Get evaluation status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status for an evaluation job.",
+  "IsDataAction": true
+}

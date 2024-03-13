@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZFWIdpsSignature/read",
+  "OperationName": "Read AZFWIdpsSignature data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZFWIdpsSignature",
+  "Description": "Read data from the AZFWIdpsSignature table",
+  "IsDataAction": false
+}

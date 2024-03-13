@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Pools resource type",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

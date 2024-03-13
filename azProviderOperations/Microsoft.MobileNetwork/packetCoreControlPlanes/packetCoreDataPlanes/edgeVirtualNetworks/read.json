@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks/read",
+  "OperationName": "EdgeVirtualNetworks_ListByPacketCoreDataPlane",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks",
+  "Description": "Lists all the Edge Virtual Networks in a resource group.",
+  "IsDataAction": false
+}

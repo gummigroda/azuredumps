@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/getPoolUsage/action",
+  "OperationName": "Get Pool Usage for Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Get pool usage for a Ipam Pool",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/manage/action",
+  "OperationName": "fileRequests_manage",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/fileRequests",
+  "Description": "manage fileRequests",
+  "IsDataAction": false
+}

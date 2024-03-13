@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/groupPolicies/delete",
+  "OperationName": "Remove Singularity Group Policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Group Policy",
+  "Description": "Removes Singularity Group Policy",
+  "IsDataAction": false
+}

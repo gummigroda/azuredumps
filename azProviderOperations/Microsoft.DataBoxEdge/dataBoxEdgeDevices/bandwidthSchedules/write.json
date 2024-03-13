@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules/write",
+  "OperationName": "Creates or updates bandwidth schedules",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "bandwidth schedules",
+  "Description": "Creates or updates the bandwidth schedules",
+  "IsDataAction": false
+}

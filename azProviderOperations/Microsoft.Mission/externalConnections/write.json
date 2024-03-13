@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/externalConnections/write",
+  "OperationName": "ExternalConnections_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "externalConnections",
+  "Description": "Update a ExternalConnection",
+  "IsDataAction": false
+}

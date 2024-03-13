@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/SOA/write",
+  "OperationName": "Creates or updates DNS record set of type SOA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type SOA",
+  "Description": "Creates or updates DNS record set of type SOA",
+  "IsDataAction": false
+}

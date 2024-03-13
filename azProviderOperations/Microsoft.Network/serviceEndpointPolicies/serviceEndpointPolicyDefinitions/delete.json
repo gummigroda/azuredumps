@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/delete",
+  "OperationName": "Delete Service Endpoint Policy Definition",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Service Endpoint Policy Definition",
+  "Description": "Deletes a Service Endpoint Policy Definition",
+  "IsDataAction": false
+}

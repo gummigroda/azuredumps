@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/revisions/delete",
+  "OperationName": "Delete revisions of an API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API revisions",
+  "Description": "Removes all revisions of an API",
+  "IsDataAction": false
+}

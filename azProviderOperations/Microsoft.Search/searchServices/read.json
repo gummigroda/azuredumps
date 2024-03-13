@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/read",
+  "OperationName": "Get Search Service",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Search Services",
+  "Description": "Reads the search service.",
+  "IsDataAction": false
+}

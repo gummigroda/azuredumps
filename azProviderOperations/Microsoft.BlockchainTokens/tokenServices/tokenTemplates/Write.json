@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/tokenTemplates/Write",
+  "OperationName": "Create/update tokenTemplates resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "tokenTemplates",
+  "Description": "Writes tokenTemplates",
+  "IsDataAction": false
+}

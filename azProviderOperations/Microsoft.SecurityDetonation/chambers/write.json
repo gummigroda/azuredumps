@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/write",
+  "OperationName": "Create/Update SecurityDetonationChamber",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Security Detonation Chambers",
+  "Description": "Creates a SecurityDetonationChamber with the specified parameters or update the properties or tags for the specified SecurityDetonationChamber",
+  "IsDataAction": false
+}

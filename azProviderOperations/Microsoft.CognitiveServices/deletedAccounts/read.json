@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/deletedAccounts/read",
+  "OperationName": "List Deleted Accounts",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deleted Account",
+  "Description": "List deleted accounts.",
+  "IsDataAction": false
+}

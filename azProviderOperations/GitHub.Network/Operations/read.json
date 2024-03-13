@@ -1,0 +1,8 @@
+{
+  "Operation": "GitHub.Network/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "GitHub.Network",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

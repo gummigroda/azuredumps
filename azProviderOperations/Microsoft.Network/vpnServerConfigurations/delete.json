@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnServerConfigurations/delete",
+  "OperationName": "Delete VpnServerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VpnServerConfiguration",
+  "Description": "Delete VpnServerConfiguration",
+  "IsDataAction": false
+}

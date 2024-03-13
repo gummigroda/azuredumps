@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/directMethods/invoke/action",
+  "OperationName": "Invoke Direct Method",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Invokes a direct method on a device",
+  "IsDataAction": true
+}

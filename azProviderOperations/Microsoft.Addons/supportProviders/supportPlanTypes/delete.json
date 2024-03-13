@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Addons/supportProviders/supportPlanTypes/delete",
+  "OperationName": "Removes the Canonical support plan",
+  "ProviderNamespace": "Microsoft Addons",
+  "ResourceName": "supportPlanTypes",
+  "Description": "Removes the specified Canonical support plan",
+  "IsDataAction": false
+}

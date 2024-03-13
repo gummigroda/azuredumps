@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/frontendEndpoints/disableHttps/action",
+  "OperationName": "Disables HTTPS on a Frontend Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Frontend Endpoint",
+  "Description": "Disables HTTPS on a Frontend Endpoint",
+  "IsDataAction": false
+}

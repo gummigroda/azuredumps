@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/VMProcess/read",
+  "OperationName": "Read VMProcess data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "VMProcess",
+  "Description": "Read data from the VMProcess table",
+  "IsDataAction": false
+}

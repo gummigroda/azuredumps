@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/roleInstances/start/action",
+  "OperationName": "RoleInstances_Start",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions/roleInstances",
+  "Description": "Starts a role instance of a vendor network function.",
+  "IsDataAction": false
+}

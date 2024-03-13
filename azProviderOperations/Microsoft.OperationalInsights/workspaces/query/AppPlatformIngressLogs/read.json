@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppPlatformIngressLogs/read",
+  "OperationName": "Read AppPlatformIngressLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppPlatformIngressLogs",
+  "Description": "Read data from the AppPlatformIngressLogs table",
+  "IsDataAction": false
+}

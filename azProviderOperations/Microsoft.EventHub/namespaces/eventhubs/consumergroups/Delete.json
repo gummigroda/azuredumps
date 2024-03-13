@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventHubs/consumergroups/Delete",
+  "OperationName": "Delete ConsumerGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "ConsumerGroup",
+  "Description": "Operation to delete ConsumerGroup Resource",
+  "IsDataAction": false
+}

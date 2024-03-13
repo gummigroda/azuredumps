@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/indicators/bulkTag/action",
+  "OperationName": "Bulk Tags Threat Intelligence Indicators",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Bulk Tags Threat Intelligence Indicators",
+  "IsDataAction": false
+}

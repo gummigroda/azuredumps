@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/discoverySolutions/read",
+  "OperationName": "Discover available solutions",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "DiscoverySolutions",
+  "Description": "Returns list of solutions",
+  "IsDataAction": false
+}

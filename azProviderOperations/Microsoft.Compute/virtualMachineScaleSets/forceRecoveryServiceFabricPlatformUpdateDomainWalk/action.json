@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/forceRecoveryServiceFabricPlatformUpdateDomainWalk/action",
+  "OperationName": "Manually walk platform update domains in a service fabric Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Manually walk the platform update domains of a service fabric Virtual Machine Scale Set to finish a pending update that is stuck",
+  "IsDataAction": false
+}

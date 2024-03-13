@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifactManifests/listCredential/action",
+  "OperationName": "ArtifactManifests_ListCredential",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifactManifests",
+  "Description": "List credential for publishing artifacts defined in artifact manifest.",
+  "IsDataAction": false
+}

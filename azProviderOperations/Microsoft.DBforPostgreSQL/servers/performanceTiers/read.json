@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/performanceTiers/read",
+  "OperationName": "List Performance Tiers",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Performance Tiers",
+  "Description": "Returns the list of Performance Tiers available.",
+  "IsDataAction": false
+}

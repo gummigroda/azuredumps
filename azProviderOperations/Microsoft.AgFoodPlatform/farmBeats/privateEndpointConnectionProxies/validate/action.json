@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validates AgFoodPlatform Private endpoint connection proxy resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Private endpoint connection proxies",
+  "Description": "Validates AgFoodPlatform Private endpoint connection proxy resource.",
+  "IsDataAction": false
+}

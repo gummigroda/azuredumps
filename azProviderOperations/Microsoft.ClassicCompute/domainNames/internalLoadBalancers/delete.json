@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/internalLoadBalancers/delete",
+  "OperationName": "Remove Internal Load Balance",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Internal Load Balancer",
+  "Description": "Remove a new internal load balance.",
+  "IsDataAction": false
+}

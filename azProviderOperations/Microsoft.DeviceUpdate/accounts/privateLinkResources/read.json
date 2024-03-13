@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/privateLinkResources/read",
+  "OperationName": "Get/List Private Link Resources",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Private Link Resources",
+  "Description": "Returns the list of Device Update Private Link Resources",
+  "IsDataAction": false
+}

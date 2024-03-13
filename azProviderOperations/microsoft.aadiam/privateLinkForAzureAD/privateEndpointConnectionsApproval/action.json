@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnectionsApproval/action",
+  "OperationName": "PrivateEndpointConnections approve",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Private Link Policy Definition",
+  "Description": "Approve PrivateEndpointConnections",
+  "IsDataAction": false
+}

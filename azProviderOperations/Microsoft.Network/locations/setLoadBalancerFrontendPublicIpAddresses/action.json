@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/setLoadBalancerFrontendPublicIpAddresses/action",
+  "OperationName": "SetLoadBalancerFrontendPublicIpAddresses targets frontend IP configurations of 2 load balancers. ARM IDs of the IP configurations are provided in the body of the request.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "SetLoadBalancerFrontendPublicIpAddresses targets frontend IP configurations of 2 load balancers. ARM IDs of the IP configurations are provided in the body of the request.",
+  "IsDataAction": false
+}

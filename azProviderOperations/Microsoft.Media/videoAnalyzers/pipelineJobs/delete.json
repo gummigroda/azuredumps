@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineJobs/delete",
+  "OperationName": "Delete Pipeline Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Job Resource",
+  "Description": "Delete any Pipeline Job",
+  "IsDataAction": false
+}

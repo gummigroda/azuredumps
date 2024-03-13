@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/restorableDroppedSqlPools/read",
+  "OperationName": "Get Restorable Dropped Sql pool.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Restorable Dropped Sql Pool",
+  "Description": "Gets a deleted Sql pool that can be restored",
+  "IsDataAction": false
+}

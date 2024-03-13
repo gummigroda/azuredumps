@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/read",
+  "OperationName": "Reports_Get",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports",
+  "Description": "Get the AppComplianceAutomation report and its properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/register/action",
+  "OperationName": "Registerthe SolarWinds.Observability",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "",
+  "Description": "Register the subscription for SolarWinds.Observability",
+  "IsDataAction": false
+}

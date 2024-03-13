@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/domains/read",
+  "OperationName": "Apps - Get domains list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Domains",
+  "Description": "Gets the available application domains.",
+  "IsDataAction": true
+}

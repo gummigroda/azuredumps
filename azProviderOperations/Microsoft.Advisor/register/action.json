@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/register/action",
+  "OperationName": "Register with the Provider",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft Advisor",
+  "IsDataAction": false
+}

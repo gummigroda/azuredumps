@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks/delete",
+  "OperationName": "EdgeVirtualNetworks_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/edgeVirtualNetworks",
+  "Description": "Deletes the specified Edge Virtual Network.",
+  "IsDataAction": false
+}

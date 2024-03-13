@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/postgresInstances/delete",
+  "OperationName": "PostgresInstances_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "postgresInstances",
+  "Description": "Deletes a postgres Instance resource",
+  "IsDataAction": false
+}

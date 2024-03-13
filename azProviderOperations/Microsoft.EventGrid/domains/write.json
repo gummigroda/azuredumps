@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/write",
+  "OperationName": "Write Domain",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "domains",
+  "Description": "Create or update a domain",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/dnsAliases/acquire/action",
+  "OperationName": "Acquire Azure SQL Managed Instance Dns Alias",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Dns Alias",
+  "Description": "Acquire Azure SQL Managed Instance Dns Alias from another Managed Instance.",
+  "IsDataAction": false
+}

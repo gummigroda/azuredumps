@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/register/action",
+  "OperationName": "Registers the Peering Resource Provider",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Peering Resource Provider and enables the creation of peerings",
+  "IsDataAction": false
+}

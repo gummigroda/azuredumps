@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADeviceNRT/Read",
+  "OperationName": "Read MADeviceNRT data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADeviceNRT",
+  "Description": "Read data from the MADeviceNRT table",
+  "IsDataAction": false
+}

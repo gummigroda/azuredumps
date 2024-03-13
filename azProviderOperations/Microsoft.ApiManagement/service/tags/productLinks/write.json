@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tags/productLinks/write",
+  "OperationName": "Create Tag-product link",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tag-product links resource",
+  "Description": "Creates or Updates a Tag-product link.",
+  "IsDataAction": false
+}

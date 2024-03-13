@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/unregister/action",
+  "OperationName": "Unregister the Microsoft.IoTOperationsMQ",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.IoTOperationsMQ",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/policy/write",
+  "OperationName": "Create API policy",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API policies configuration",
+  "Description": "Create policy configuration at API level",
+  "IsDataAction": false
+}

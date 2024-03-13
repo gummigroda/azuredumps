@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/pathMappings/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "PathMappings",
+  "Description": "Creates an LiveDataPathMapping",
+  "IsDataAction": false
+}

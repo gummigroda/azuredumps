@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/siteNetworkServices/write",
+  "OperationName": "SiteNetworkServices_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "siteNetworkServices",
+  "Description": "Updates a site update tags.",
+  "IsDataAction": false
+}

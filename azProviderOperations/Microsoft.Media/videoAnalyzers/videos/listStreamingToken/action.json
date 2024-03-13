@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/videos/listStreamingToken/action",
+  "OperationName": "Generates a streaming token which can be used for video playback",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Resource",
+  "Description": "Generates a streaming token which can be used for video playback",
+  "IsDataAction": false
+}

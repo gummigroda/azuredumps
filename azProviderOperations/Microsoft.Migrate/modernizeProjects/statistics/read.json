@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/statistics/read",
+  "OperationName": "Gets the modernizeProject statistics",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Gets the statistics for the modernizeProject",
+  "IsDataAction": false
+}

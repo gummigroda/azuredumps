@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/domains/Delete",
+  "OperationName": "Delete Domain",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "Domain",
+  "Description": "Delete an existing domain.",
+  "IsDataAction": false
+}

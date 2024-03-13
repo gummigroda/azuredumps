@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/unregister/action",
+  "OperationName": "Unregister the Microsoft.IoTOperationsDataProcessor",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.IoTOperationsDataProcessor",
+  "IsDataAction": false
+}

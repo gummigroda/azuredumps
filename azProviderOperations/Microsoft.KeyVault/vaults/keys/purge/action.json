@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/purge/action",
+  "OperationName": "Purge Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Purges a key, making it unrecoverable.",
+  "IsDataAction": true
+}

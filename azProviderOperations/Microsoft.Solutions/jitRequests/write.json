@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/jitRequests/write",
+  "OperationName": "JitRequests_Update",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "jitRequests",
+  "Description": "Updates the JIT request.",
+  "IsDataAction": false
+}

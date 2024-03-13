@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azurefirewalls/delete",
+  "OperationName": "Delete Azure Firewall",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall",
+  "Description": "Delete Azure Firewall",
+  "IsDataAction": false
+}

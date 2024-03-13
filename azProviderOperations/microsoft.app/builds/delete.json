@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builds/delete",
+  "OperationName": "Delete Managed Environment's Build",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Build",
+  "Description": "Delete a Managed Environment's Build",
+  "IsDataAction": false
+}

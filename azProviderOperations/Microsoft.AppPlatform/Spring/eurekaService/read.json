@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/eurekaService/read",
+  "OperationName": "Get app(s) registration of eureka server from Microsoft Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The app(s) registration of eureka server from Microsoft Azure Spring Apps",
+  "Description": "Read the user app(s) registration information for a specific Azure Spring Apps service instance",
+  "IsDataAction": true
+}

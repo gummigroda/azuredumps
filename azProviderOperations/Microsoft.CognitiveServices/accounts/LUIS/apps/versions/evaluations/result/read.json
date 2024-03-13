@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/evaluations/result/read",
+  "OperationName": "Get evaluations Results for App version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "result*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

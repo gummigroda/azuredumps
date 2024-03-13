@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetalInfrastructure/bareMetalInstances/read",
+  "OperationName": "Read BareMetal Instance",
+  "ProviderNamespace": "Microsoft BareMetal Infrastructure",
+  "ResourceName": "BareMetal Instance",
+  "Description": "Read any BareMetal Instance",
+  "IsDataAction": false
+}

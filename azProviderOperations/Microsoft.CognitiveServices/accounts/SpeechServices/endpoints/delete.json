@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/endpoints/delete",
+  "OperationName": "Delete Endpoint",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "endpoints*",
+  "Description": "Deletes the endpoint identified by the given ID.",
+  "IsDataAction": true
+}

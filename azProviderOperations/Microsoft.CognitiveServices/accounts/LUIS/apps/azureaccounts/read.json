@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/azureaccounts/read",
+  "OperationName": "Apps - Get Azure accounts assigned to the application",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Azure accounts",
+  "Description": "Gets the LUIS Azure accounts assigned to the application for the user using his ARM token.",
+  "IsDataAction": true
+}

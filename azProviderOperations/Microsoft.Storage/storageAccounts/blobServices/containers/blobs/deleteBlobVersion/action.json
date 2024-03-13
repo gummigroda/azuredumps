@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/deleteBlobVersion/action",
+  "OperationName": "Delete blob versions",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Returns the result of deleting a blob version",
+  "IsDataAction": true
+}

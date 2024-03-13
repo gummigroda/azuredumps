@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/auditRecords/read",
+  "OperationName": "Get database blob audit records",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Blob Audit Records",
+  "Description": "Retrieve the database blob audit records",
+  "IsDataAction": false
+}

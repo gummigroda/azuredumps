@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ASimAuthenticationEventLogs/read",
+  "OperationName": "Read ASimAuthenticationEventLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ASimAuthenticationEventLogs",
+  "Description": "Read data from the ASimAuthenticationEventLogs table",
+  "IsDataAction": false
+}

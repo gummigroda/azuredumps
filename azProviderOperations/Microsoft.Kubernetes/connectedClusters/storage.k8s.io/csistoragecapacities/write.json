@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/csistoragecapacities/write",
+  "OperationName": "Creates/Updates csistoragecapacities resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "csistoragecapacities",
+  "Description": "Writes csistoragecapacities",
+  "IsDataAction": true
+}

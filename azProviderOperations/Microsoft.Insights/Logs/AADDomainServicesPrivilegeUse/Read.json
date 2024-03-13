@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesPrivilegeUse/Read",
+  "OperationName": "Read AADDomainServicesPrivilegeUse data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesPrivilegeUse",
+  "Description": "Read data from the AADDomainServicesPrivilegeUse table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/getCollectionCount/action",
+  "OperationName": "Reports_GetCollectionCount",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Get the resource count.",
+  "IsDataAction": false
+}

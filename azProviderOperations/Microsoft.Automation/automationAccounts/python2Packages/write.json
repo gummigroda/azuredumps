@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/python2Packages/write",
+  "OperationName": "Create or Update an Azure Automation Python 2 package",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Python 2 package",
+  "Description": "Creates or updates an Azure Automation Python 2 package",
+  "IsDataAction": false
+}

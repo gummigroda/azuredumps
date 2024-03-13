@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/securityAlertPoliciesAzureAsyncOperation/read",
+  "OperationName": "List/Get Server threat detection operation result.",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Server threat detection operation result",
+  "Description": "Return the list of Server threat detection operation result.",
+  "IsDataAction": false
+}

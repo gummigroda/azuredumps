@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/reservations/action",
+  "OperationName": "Update Reservations",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Update any Reservation",
+  "IsDataAction": false
+}

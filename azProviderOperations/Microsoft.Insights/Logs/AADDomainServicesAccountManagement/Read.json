@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesAccountManagement/Read",
+  "OperationName": "Read AADDomainServicesAccountManagement data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesAccountManagement",
+  "Description": "Read data from the AADDomainServicesAccountManagement table",
+  "IsDataAction": false
+}

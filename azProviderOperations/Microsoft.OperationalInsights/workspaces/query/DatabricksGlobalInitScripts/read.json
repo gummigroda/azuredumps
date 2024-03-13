@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksGlobalInitScripts/read",
+  "OperationName": "Read DatabricksGlobalInitScripts data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksGlobalInitScripts",
+  "Description": "Read data from the DatabricksGlobalInitScripts table",
+  "IsDataAction": false
+}

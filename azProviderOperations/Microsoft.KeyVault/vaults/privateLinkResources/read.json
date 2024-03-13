@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/privateLinkResources/read",
+  "OperationName": "Get private link resources",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Vault",
+  "Description": "Get the available private link resources for the specified instance of Key Vault",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/azureaccounts/action",
+  "OperationName": "Apps - Assign Azure account to application",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Assigns an Azure account to the application.",
+  "IsDataAction": true
+}

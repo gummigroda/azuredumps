@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/patchInstallationResults/softwarePatches/read",
+  "OperationName": "Lists all patches considered in patch installation operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Patch Installation Software Patches Results",
+  "Description": "Retrieves list of patches attempted to be installed during the last patch installation operation",
+  "IsDataAction": false
+}

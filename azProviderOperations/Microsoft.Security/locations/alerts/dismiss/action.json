@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/alerts/dismiss/action",
+  "OperationName": "Dismiss Alert",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Alerts",
+  "Description": "Dismiss a security alert",
+  "IsDataAction": false
+}

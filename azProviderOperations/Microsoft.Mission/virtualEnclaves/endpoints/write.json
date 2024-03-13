@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/virtualEnclaves/endpoints/write",
+  "OperationName": "Endpoint_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "virtualEnclaves/endpoints",
+  "Description": "Update a EndpointResource",
+  "IsDataAction": false
+}

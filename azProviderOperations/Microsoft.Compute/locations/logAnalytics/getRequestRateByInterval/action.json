@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/logAnalytics/getRequestRateByInterval/action",
+  "OperationName": "Create logs to show total requests by time interval",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Log Analytics",
+  "Description": "Create logs to show total requests by time interval to aid throttling diagnostics.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/operationStatuses/read",
+  "OperationName": "Get Webhook Async Operation Status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Gets a webhook async operation status",
+  "IsDataAction": false
+}

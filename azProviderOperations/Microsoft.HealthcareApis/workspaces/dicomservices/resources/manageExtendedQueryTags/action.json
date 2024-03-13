@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/resources/manageExtendedQueryTags/action",
+  "OperationName": "Manage Extended Query Tags",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "DICOM resources",
+  "Description": "Manage DICOM extended query tags.",
+  "IsDataAction": true
+}

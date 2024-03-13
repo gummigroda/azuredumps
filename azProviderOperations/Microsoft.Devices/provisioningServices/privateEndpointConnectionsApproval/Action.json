@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/privateEndpointConnectionsApproval/Action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices",
+  "Description": "Approve or reject a private endpoint connection",
+  "IsDataAction": false
+}

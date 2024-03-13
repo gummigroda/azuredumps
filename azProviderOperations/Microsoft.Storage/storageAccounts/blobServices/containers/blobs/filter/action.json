@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/filter/action",
+  "OperationName": "Filter blobs",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Returns the list of blobs under an account with matching tags filter",
+  "IsDataAction": true
+}

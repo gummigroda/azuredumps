@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/locations/operationStatuses/write",
+  "OperationName": "Write operation statuses",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "OperationStatuses",
+  "Description": "Write operation statuses",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/sites/sensors/downloadActivation/action",
+  "OperationName": "Download activation file for IoT Sensors",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Sensors",
+  "Description": "Downloads activation file for IoT Sensors",
+  "IsDataAction": false
+}

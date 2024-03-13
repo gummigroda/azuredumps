@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "Validate Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Validates a private endpoint connection create call from NRP side",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/read",
+  "OperationName": "Read Sync Groups",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Sync Groups",
+  "Description": "Read any Sync Groups",
+  "IsDataAction": false
+}

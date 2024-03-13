@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/locations/operationStatuses/webpubsub/read",
+  "OperationName": "Query Async Operation status in region",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "Locations/OperationStatuses/WebPubSub",
+  "Description": "Query the status of a location-based asynchronous operation",
+  "IsDataAction": false
+}

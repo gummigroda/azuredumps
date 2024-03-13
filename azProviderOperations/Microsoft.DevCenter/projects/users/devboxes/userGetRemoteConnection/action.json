@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userGetRemoteConnection/action",
+  "OperationName": "Projects_Users_DevBoxes_UserGeRemoteConnection",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to get the RDP connection information for their own Dev Box resources.",
+  "IsDataAction": true
+}

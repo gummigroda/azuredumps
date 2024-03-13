@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/certificates.k8s.io/read",
+  "OperationName": "Gets/List certificates.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "certificates.k8s.io",
+  "Description": "Reads certificates.k8s.io",
+  "IsDataAction": true
+}

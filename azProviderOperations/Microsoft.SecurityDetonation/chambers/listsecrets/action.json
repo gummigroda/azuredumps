@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/listsecrets/action",
+  "OperationName": "List SecurityDetonationChamber api keys and publishing tokens",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Security Detonation Chambers",
+  "Description": "Returns the api key and publishing token for the specified SecurityDetonationChamber",
+  "IsDataAction": false
+}

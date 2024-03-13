@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/hanaInstances/write",
+  "OperationName": "Create or Update SAP HANA Instance",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "SAP HANA Instance",
+  "Description": "Create or update any SAP HANA Instance",
+  "IsDataAction": false
+}

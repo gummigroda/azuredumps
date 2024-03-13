@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/errorSummaries/read",
+  "OperationName": "ErrorSummaries_ListBySite",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites/errorSummaries",
+  "Description": "Lists the ErrorSummaries resource in MySQLSites.",
+  "IsDataAction": false
+}

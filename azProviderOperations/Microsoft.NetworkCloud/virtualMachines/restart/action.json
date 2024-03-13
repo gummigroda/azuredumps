@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/restart/action",
+  "OperationName": "VirtualMachines_Restart",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines",
+  "Description": "Restart the provided virtual machine.",
+  "IsDataAction": false
+}

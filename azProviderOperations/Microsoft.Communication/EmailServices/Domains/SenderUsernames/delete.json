@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/SenderUsernames/delete",
+  "OperationName": "SenderUsernames_Delete",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "SenderUsernames",
+  "Description": "Operation to delete a SenderUsername resource.",
+  "IsDataAction": false
+}

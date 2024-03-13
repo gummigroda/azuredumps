@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/OracleServers/write",
+  "OperationName": "OracleServers_Update",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/OracleServers",
+  "Description": "Patch the OracleSites resource.",
+  "IsDataAction": false
+}

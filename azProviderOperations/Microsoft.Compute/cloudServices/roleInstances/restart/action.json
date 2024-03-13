@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/roleInstances/restart/action",
+  "OperationName": "Restart a role instance of a CloudService",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Service Role Instance",
+  "Description": "Restart a role instance of a CloudService",
+  "IsDataAction": false
+}

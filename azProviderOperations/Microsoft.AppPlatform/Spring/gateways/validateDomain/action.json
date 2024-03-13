@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/gateways/validateDomain/action",
+  "OperationName": "Validate Microsoft Azure Spring Apps Spring Cloud Gateway domain",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Spring Cloud Gateway of Microsoft Azure Spring Apps",
+  "Description": "Validate the Spring Cloud Gateway domain for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

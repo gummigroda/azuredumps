@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsDataProcessor/instances/pipelines/delete",
+  "OperationName": "Pipelines_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsDataProcessor",
+  "ResourceName": "instances/pipelines",
+  "Description": "Delete a Pipeline",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/sqlServers/read",
+  "OperationName": "Gets the Sql Servers for a given site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Servers",
+  "Description": "Gets the Sql Servers for a given site",
+  "IsDataAction": false
+}

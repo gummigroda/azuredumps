@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/apis/resolvers/write",
+  "OperationName": "Set GraphQL resolver or Update GraphQL Resolver",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "GraphQL resolvers",
+  "Description": "Creates or updates graphQL resolver for the API. or Updates the details of the graphQL resolver in the API specified by its identifier.",
+  "IsDataAction": false
+}

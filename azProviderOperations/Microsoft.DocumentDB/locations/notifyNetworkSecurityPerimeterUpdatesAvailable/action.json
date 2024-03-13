@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Microsoft.DocumentDB/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Notifies Microsoft.DocumentDB that updates are available for networksecurityperimeter",
+  "IsDataAction": false
+}

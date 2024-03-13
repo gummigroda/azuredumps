@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/inquire/action",
+  "OperationName": "Do inquiry for workloads within a container",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Containers",
+  "Description": "Do inquiry for workloads within a container",
+  "IsDataAction": false
+}

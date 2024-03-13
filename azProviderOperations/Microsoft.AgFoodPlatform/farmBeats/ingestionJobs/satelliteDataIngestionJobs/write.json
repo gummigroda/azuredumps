@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/satelliteDataIngestionJobs/write",
+  "OperationName": "Create or Update AgFoodPlatform satelliteDataIngestionJobs.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform satelliteDataIngestionJobs",
+  "Description": "Creates or Updates AgFoodPlatform satelliteDataIngestionJobs.",
+  "IsDataAction": true
+}

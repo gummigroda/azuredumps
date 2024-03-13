@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Account log definitions",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "The log definition of account",
+  "Description": "Gets the available logs for account.",
+  "IsDataAction": false
+}

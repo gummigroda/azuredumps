@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/resume/action",
+  "OperationName": "Resume the Capacity.",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Resumes the Capacity.",
+  "IsDataAction": false
+}

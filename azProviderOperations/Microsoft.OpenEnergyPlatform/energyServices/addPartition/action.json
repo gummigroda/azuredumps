@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/addPartition/action",
+  "OperationName": "EnergyServices_AddPartition",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Method that gets called if new partition is to be added in a resource.",
+  "IsDataAction": false
+}

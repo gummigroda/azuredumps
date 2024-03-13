@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/availablestacks/read",
+  "OperationName": "Get Available Stacks",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Available Stacks",
+  "Description": "Get Available Stacks.",
+  "IsDataAction": false
+}

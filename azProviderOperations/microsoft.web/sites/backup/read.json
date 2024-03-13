@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/backup/read",
+  "OperationName": "Get Web Apps Backup",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Backup",
+  "Description": "Get Web Apps Backup.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/whatIfActivate/action",
+  "OperationName": "MobilePacketCores_WhatIfActivate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores",
+  "Description": "action whatIfActivate",
+  "IsDataAction": false
+}

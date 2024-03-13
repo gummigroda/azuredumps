@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Namespace logs",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace logs",
+  "Description": "Get list of Namespace logs Resource Descriptions",
+  "IsDataAction": false
+}

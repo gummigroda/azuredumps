@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/liveDataMigrations/stop/action",
+  "OperationName": "Stop",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "LiveDataMigrations",
+  "Description": "Stop a migrator migration",
+  "IsDataAction": false
+}

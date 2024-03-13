@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Queue service",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

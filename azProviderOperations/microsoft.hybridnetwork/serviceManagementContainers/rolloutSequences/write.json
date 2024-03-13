@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/rolloutSequences/write",
+  "OperationName": "RolloutSequences_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/rolloutSequences",
+  "Description": "write rolloutSequences",
+  "IsDataAction": false
+}

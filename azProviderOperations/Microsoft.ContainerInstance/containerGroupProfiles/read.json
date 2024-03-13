@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroupProfiles/read",
+  "OperationName": "Get Container Groups Profile",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group Profile",
+  "Description": "Get all container goup profiles.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/diagnosticsettings/read",
+  "OperationName": "Diagnostic settings read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Reading a diagnostic setting",
+  "IsDataAction": false
+}

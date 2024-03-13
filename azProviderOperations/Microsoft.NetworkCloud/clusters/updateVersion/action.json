@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/clusters/updateVersion/action",
+  "OperationName": "Clusters_UpdateVersion",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "clusters",
+  "Description": "Update the version of the provided cluster to one of the available supported versions.",
+  "IsDataAction": false
+}

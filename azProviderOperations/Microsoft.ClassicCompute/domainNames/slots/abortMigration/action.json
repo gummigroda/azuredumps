@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/abortMigration/action",
+  "OperationName": "Abort Migration of a Deployment Slot",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slot",
+  "Description": "Aborts migration of a deployment slot.",
+  "IsDataAction": false
+}

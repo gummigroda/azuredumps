@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/targets/capabilities/write",
+  "OperationName": "Creates or updates a Capability.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Capability",
+  "Description": "Creates or update a Capability resource that extends a Target resource.",
+  "IsDataAction": false
+}

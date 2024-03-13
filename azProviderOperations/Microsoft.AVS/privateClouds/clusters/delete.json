@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/delete",
+  "OperationName": "Delete a PriveCloud cluster.",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters",
+  "Description": "Delete a specific PrivateCloud cluster.",
+  "IsDataAction": false
+}

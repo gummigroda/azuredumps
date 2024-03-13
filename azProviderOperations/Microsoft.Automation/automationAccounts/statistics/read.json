@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/statistics/read",
+  "OperationName": "Read Azure Automation Statistics",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Statistics",
+  "Description": "Gets Azure Automation Statistics",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/proxyPublishers/configurationGroupSchemas/read",
+  "OperationName": "ProxyConfigurationGroupSchemas_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "proxyPublishers/configurationGroupSchemas",
+  "Description": "Get information about configuration group schema overview.",
+  "IsDataAction": false
+}

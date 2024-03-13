@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/reapply/action",
+  "OperationName": "Reapply a virtual machine's current model",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Reapplies a virtual machine's current model",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.D365CustomerInsights/instances/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "D365CustomerInsights",
+  "ResourceName": "Instances",
+  "Description": "Write details about an instance",
+  "IsDataAction": false
+}

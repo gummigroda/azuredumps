@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/settings/read",
+  "OperationName": "Get portal settings",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Resource representing current tenant settings",
+  "Description": "Lists a collection of tenant settings. Always empty. Use /settings/public instead",
+  "IsDataAction": false
+}

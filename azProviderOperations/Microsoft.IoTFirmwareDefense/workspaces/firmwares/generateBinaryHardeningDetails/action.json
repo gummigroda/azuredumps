@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/generateBinaryHardeningDetails/action",
+  "OperationName": "Firmware_GenerateBinaryHardeningDetails",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares",
+  "Description": "The operation to get binary hardening details for a firmware.",
+  "IsDataAction": false
+}

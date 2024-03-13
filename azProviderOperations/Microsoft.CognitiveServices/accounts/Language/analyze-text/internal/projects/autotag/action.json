@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/internal/projects/autotag/action",
+  "OperationName": "AnalyzeText_Internal_AutoTag_TriggerAutoTaggingJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Trigger auto tagging job.",
+  "IsDataAction": true
+}

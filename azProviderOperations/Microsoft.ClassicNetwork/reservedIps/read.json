@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/reservedIps/read",
+  "OperationName": "Get Reserved Ips",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Reserved Ip",
+  "Description": "Gets the reserved Ips",
+  "IsDataAction": false
+}

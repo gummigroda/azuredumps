@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/webappAssessments/read",
+  "OperationName": "Get WebApp Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Resource",
+  "Description": "Gets the properties of an WebApp assessment",
+  "IsDataAction": false
+}

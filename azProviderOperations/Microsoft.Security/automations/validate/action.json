@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/automations/validate/action",
+  "OperationName": "Validate automation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Automations",
+  "Description": "Validates the automation model for the scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/elasticPoolOperationResults/read",
+  "OperationName": "Get elastic pool operation result",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Gets the result of an elastic pool operation.",
+  "IsDataAction": false
+}

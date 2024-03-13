@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/diskAccesses/read",
+  "OperationName": "Get DiskAccess",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskAccesses",
+  "Description": "Get the properties of DiskAccess resource",
+  "IsDataAction": false
+}

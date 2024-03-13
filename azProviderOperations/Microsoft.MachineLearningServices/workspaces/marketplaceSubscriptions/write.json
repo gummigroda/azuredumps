@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions/write",
+  "OperationName": "Creates or Updates the Machine Learning Service Workspaces Marketplace Subscription(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Marketplace Subscription",
+  "Description": "Creates or Updates the Machine Learning Service Workspaces Marketplace Subscription(s)",
+  "IsDataAction": false
+}

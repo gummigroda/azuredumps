@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/publish/action",
+  "OperationName": "Publishing_TriggerPublishingJob",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Trigger publishing job.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/locations/previewActions/action",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Location",
+  "Description": null,
+  "IsDataAction": false
+}

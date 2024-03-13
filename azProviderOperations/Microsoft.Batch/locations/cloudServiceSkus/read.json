@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/locations/cloudServiceSkus/read",
+  "OperationName": "List Supported Batch Cloud Service VM",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Supported Skus",
+  "Description": "Lists available Batch supported Cloud Service VM sizes at the given location",
+  "IsDataAction": false
+}

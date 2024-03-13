@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/listKeys/action",
+  "OperationName": "List Access Keys",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account",
+  "Description": "Lists the access keys for the storage accounts.",
+  "IsDataAction": false
+}

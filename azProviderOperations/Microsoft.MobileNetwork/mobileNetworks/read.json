@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/read",
+  "OperationName": "MobileNetworks_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks",
+  "Description": "Lists all the mobile networks in a resource group.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/read",
+  "OperationName": "Get SecurityPartnerProviders",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Gets a SecurityPartnerProvider",
+  "IsDataAction": false
+}

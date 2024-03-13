@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules/delete",
+  "OperationName": "Delete bandwidth schedules",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "bandwidth schedules",
+  "Description": "Deletes the bandwidth schedules",
+  "IsDataAction": false
+}

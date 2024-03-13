@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADNonInteractiveUserSignInLogs/read",
+  "OperationName": "Read AADNonInteractiveUserSignInLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADNonInteractiveUserSignInLogs",
+  "Description": "Read data from the AADNonInteractiveUserSignInLogs table",
+  "IsDataAction": false
+}

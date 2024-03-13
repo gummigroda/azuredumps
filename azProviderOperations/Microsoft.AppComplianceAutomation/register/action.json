@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/register/action",
+  "OperationName": "Register the Microsoft.AppComplianceAutomation",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.AppComplianceAutomation",
+  "IsDataAction": false
+}

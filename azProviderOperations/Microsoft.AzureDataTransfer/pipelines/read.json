@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/pipelines/read",
+  "OperationName": "Pipelines_ListBySubscription",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "pipelines",
+  "Description": "Gets pipelines in a subscription.",
+  "IsDataAction": false
+}

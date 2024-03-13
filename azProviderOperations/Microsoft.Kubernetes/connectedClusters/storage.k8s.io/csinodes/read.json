@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/csinodes/read",
+  "OperationName": "Gets/List csinodes resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "csinodes",
+  "Description": "Reads csinodes",
+  "IsDataAction": true
+}

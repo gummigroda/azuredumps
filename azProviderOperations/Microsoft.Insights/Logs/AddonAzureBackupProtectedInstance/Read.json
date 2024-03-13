@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AddonAzureBackupProtectedInstance/Read",
+  "OperationName": "Read AddonAzureBackupProtectedInstance data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AddonAzureBackupProtectedInstance",
+  "Description": "Read data from the AddonAzureBackupProtectedInstance table",
+  "IsDataAction": false
+}

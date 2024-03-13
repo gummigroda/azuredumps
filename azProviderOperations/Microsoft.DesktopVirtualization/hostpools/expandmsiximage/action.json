@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/expandmsiximage/action",
+  "OperationName": "Expand expandmsiximage",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools",
+  "Description": "Expand an expandmsiximage to see MSIX Packages present",
+  "IsDataAction": false
+}

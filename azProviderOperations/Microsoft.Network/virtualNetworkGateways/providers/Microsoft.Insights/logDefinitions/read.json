@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets Virtual Network Gateway Log Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Gateway Log Definitions",
+  "Description": "Gets the events for Virtual Network Gateway",
+  "IsDataAction": false
+}

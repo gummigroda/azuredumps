@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/webappcollectors/write",
+  "OperationName": "Create or Update Webapp collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Webapp Collector",
+  "Description": "Creates a new Webapp collector or updates an existing Webapp collector",
+  "IsDataAction": false
+}

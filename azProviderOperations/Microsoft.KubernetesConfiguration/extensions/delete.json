@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/extensions/delete",
+  "OperationName": "Microsoft.KubernetesConfiguration/extensions/delete",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/extensions",
+  "Description": "Deletes extension instance resource.",
+  "IsDataAction": false
+}

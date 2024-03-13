@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/delete",
+  "OperationName": "Deletes ExpressRouteCircuit",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuit",
+  "Description": "Deletes an ExpressRouteCircuit",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/webappAssessments/write",
+  "OperationName": "Create or Update WebApp Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "WebApp Resource",
+  "Description": "Creates a new WebApp assessment or updates an existing WebApp assessment",
+  "IsDataAction": false
+}

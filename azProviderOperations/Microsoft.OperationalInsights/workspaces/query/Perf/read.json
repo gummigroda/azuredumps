@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/Perf/read",
+  "OperationName": "Read Perf data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Perf",
+  "Description": "Read data from the Perf table",
+  "IsDataAction": false
+}

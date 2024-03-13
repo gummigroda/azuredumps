@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/privateEndpointConnections/write",
+  "OperationName": "Change state of Private Endpoint connection",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Change the state of a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

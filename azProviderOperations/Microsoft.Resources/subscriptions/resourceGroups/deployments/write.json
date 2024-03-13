@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/write",
+  "OperationName": "创建部署",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "部署",
+  "Description": "创建或更新部署。",
+  "IsDataAction": false
+}

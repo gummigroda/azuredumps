@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/commitConfiguration/action",
+  "OperationName": "L3IsolationDomains_CommitConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Commits the configuration of the given resources.",
+  "IsDataAction": false
+}

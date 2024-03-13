@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/redeploy/action",
+  "OperationName": "Redeploy Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Redeploy the instances of the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/delete",
+  "OperationName": "KubernetesClusters_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters",
+  "Description": "Delete the provided Kubernetes cluster.",
+  "IsDataAction": false
+}

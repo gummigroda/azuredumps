@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/microservices/write",
+  "OperationName": "MicroServices_Update",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "microservices",
+  "Description": "Updates tags on a micro service.",
+  "IsDataAction": false
+}

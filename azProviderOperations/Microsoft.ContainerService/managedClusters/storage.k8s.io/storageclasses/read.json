@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/storage.k8s.io/storageclasses/read",
+  "OperationName": "Gets/List storageclasses resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Storageclasses",
+  "Description": "Reads storageclasses",
+  "IsDataAction": true
+}

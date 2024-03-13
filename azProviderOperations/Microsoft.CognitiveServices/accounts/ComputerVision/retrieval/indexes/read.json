@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/read",
+  "OperationName": "GetIndex|ListIndexes*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Index Operations",
+  "Description": "Retrieves the index with the specified name.\r\nRetrieves a list of all indexes across all ingestions.*",
+  "IsDataAction": true
+}

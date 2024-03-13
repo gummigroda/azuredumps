@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/host/systemkeys/delete",
+  "OperationName": "Delete Web Apps Functions Host System Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Functions",
+  "Description": "Delete Functions Host System keys.",
+  "IsDataAction": false
+}

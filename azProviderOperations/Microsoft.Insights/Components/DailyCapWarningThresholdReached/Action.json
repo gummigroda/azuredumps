@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/DailyCapWarningThresholdReached/Action",
+  "OperationName": "Application Insights component daily cap warning threshold reached",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Reached the daily cap warning threshold for Application Insights component",
+  "IsDataAction": false
+}

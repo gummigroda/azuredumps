@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MADriverReadiness/Read",
+  "OperationName": "Read MADriverReadiness data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MADriverReadiness",
+  "Description": "Read data from the MADriverReadiness table",
+  "IsDataAction": false
+}

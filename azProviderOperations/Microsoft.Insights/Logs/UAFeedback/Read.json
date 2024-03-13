@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAFeedback/Read",
+  "OperationName": "Read UAFeedback data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAFeedback",
+  "Description": "Read data from the UAFeedback table",
+  "IsDataAction": false
+}

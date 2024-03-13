@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/fieldsCascadeDeleteJobs/write",
+  "OperationName": "Create or Update AgFoodPlatform fieldsCascadeDeleteJobs.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform fieldsCascadeDeleteJobs",
+  "Description": "Creates or Updates AgFoodPlatform fieldsCascadeDeleteJobs.",
+  "IsDataAction": true
+}

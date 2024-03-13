@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/solutions/delete",
+  "OperationName": "Delete AgFoodPlatform add-ons resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform add-ons",
+  "Description": "Deletes an existing AgFoodPlatform add-ons resource.",
+  "IsDataAction": false
+}

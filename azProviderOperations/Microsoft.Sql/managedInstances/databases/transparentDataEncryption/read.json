@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/transparentDataEncryption/read",
+  "OperationName": "Get managed database Transparent Data Encryption",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database Transparent Data Encryption",
+  "Description": "Retrieve details of the database Transparent Data Encryption on a given managed database",
+  "IsDataAction": false
+}

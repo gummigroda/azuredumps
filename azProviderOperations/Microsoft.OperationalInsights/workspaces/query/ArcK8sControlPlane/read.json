@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ArcK8sControlPlane/read",
+  "OperationName": "Read ArcK8sControlPlane data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ArcK8sControlPlane",
+  "Description": "Read data from the ArcK8sControlPlane table",
+  "IsDataAction": false
+}

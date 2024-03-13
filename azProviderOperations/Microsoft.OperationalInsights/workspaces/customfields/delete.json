@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/customfields/delete",
+  "OperationName": "Delete a custom field",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Custom Fields",
+  "Description": "Delete a custom field.",
+  "IsDataAction": false
+}

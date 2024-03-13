@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/errorSummary/action",
+  "OperationName": "Retrieves Error Summary For Resources Under A Given Master Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Master Site",
+  "Description": "Retrieves Error Summary For Resources Under A Given Master Site",
+  "IsDataAction": false
+}

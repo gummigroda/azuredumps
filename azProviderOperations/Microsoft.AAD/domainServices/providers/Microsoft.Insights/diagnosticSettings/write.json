@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting for the Domain Service resource",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Domain Service Type",
+  "Description": "Creates or updates the diagnostic setting for the Domain Service resource",
+  "IsDataAction": false
+}

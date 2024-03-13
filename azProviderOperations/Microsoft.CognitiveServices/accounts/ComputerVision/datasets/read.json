@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/datasets/read",
+  "OperationName": "GetDataset|GetDatasets",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Datasets",
+  "Description": "Get information about a specific dataset.\r\nGet a list of datasets that have been registered.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/capacityReservationGroups/share/action",
+  "OperationName": "Share the Capacity Reservation Group",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Capacity Reservation Groups",
+  "Description": "Share the Capacity Reservation Group with one or more Subscriptionss",
+  "IsDataAction": false
+}

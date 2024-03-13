@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnGateways/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Gets Vpn Gateway Log Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Vpn Gateway Log Definitions",
+  "Description": "Gets the events for Vpn Gateway",
+  "IsDataAction": false
+}

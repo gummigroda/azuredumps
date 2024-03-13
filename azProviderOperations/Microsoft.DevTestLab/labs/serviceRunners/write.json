@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/serviceRunners/write",
+  "OperationName": "Add or modify service runners.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service runners",
+  "Description": "Add or modify service runners.",
+  "IsDataAction": false
+}

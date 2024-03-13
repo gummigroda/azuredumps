@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/read",
+  "OperationName": "AccessControlLists_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "Implements AccessControlLists list by subscription GET method.",
+  "IsDataAction": false
+}

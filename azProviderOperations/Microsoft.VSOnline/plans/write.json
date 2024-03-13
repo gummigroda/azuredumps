@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VSOnline/plans/write",
+  "OperationName": "Creates/updates plan resources",
+  "ProviderNamespace": "Microsoft.VSOnline",
+  "ResourceName": "plans",
+  "Description": "Writes plans",
+  "IsDataAction": false
+}

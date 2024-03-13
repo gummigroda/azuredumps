@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/write",
+  "OperationName": "Add or modify user profiles.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "user profiles",
+  "Description": "Add or modify user profiles.",
+  "IsDataAction": false
+}

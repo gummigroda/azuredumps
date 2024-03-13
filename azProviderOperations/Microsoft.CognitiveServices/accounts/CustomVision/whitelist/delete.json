@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/whitelist/delete",
+  "OperationName": "DeleteWhitelistedUserWithCapability",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "whitelist*",
+  "Description": "Deletes a whitelisted user with specific capability",
+  "IsDataAction": true
+}

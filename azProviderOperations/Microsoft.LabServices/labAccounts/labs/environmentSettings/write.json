@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/write",
+  "OperationName": "Add or modify environment setting.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Add or modify environment setting.",
+  "IsDataAction": false
+}

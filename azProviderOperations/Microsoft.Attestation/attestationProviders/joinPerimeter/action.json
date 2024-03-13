@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/joinPerimeter/action",
+  "OperationName": "Action to join the NSP.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "AzureAttestation",
+  "Description": "Action to join the Network Security Perimeter, used by linked access checks by NRP.",
+  "IsDataAction": false
+}

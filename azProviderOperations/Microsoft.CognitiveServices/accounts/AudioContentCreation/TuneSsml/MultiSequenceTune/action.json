@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneSsml/MultiSequenceTune/action",
+  "OperationName": "Process several ssml tag sequence tune into one request.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ssml operation",
+  "Description": "Process several ssml tag sequence tune into one request.",
+  "IsDataAction": true
+}

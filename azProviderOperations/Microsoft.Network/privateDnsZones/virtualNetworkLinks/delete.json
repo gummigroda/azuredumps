@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/virtualNetworkLinks/delete",
+  "OperationName": "Delete Private DNS zone link to virtual network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone Link to Virtual Network",
+  "Description": "Delete a Private DNS zone link to virtual network.",
+  "IsDataAction": false
+}

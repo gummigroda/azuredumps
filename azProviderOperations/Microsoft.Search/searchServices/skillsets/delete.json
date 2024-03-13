@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/skillsets/delete",
+  "OperationName": "Delete Skillset",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Skillsets",
+  "Description": "Delete a skillset.",
+  "IsDataAction": false
+}

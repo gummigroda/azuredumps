@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/platforms/metadata/read",
+  "OperationName": "Platforms Metadata Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Platforms Metadata",
+  "Description": "Allows reading platforms metadata",
+  "IsDataAction": true
+}

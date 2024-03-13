@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/logs/read",
+  "OperationName": "Gets/List logs resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "logs",
+  "Description": "Reads logs",
+  "IsDataAction": true
+}

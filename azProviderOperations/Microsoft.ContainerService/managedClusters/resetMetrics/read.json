@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/resetMetrics/read",
+  "OperationName": "Gets/List resetMetrics resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Resetmetrics",
+  "Description": "Reads resetMetrics",
+  "IsDataAction": true
+}

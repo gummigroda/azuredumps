@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sshPublicKeys/write",
+  "OperationName": "Create or Update SSH Public Key",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SSH Public Keys",
+  "Description": "Creates a new SSH public key or updates an existing SSH public key",
+  "IsDataAction": false
+}

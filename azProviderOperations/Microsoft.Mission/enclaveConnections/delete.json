@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/enclaveConnections/delete",
+  "OperationName": "EnclaveConnection_Delete",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "enclaveConnections",
+  "Description": "Delete a EnclaveConnectionResource",
+  "IsDataAction": false
+}

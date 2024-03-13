@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BackupSolutions/unregister/action",
+  "OperationName": "Unregister Solutions",
+  "ProviderNamespace": "Microsoft.BackupSolutions",
+  "ResourceName": "",
+  "Description": "Unregisters from Solutions.",
+  "IsDataAction": false
+}

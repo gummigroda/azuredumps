@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdoors/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Frontdoor metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Frontdoor metric definition",
+  "Description": "Get available metrics for Frontdoor resources",
+  "IsDataAction": false
+}

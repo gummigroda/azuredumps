@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/networkSlices/write",
+  "OperationName": "NetworkSlices_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/networkSlices",
+  "Description": "Creates or updates a Mobile Packet Core network slice",
+  "IsDataAction": false
+}

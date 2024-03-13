@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/cases/delete",
+  "OperationName": "Delete Cases",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Cases",
+  "Description": "Deletes a case",
+  "IsDataAction": false
+}

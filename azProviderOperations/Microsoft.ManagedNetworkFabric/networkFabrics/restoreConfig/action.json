@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/restoreConfig/action",
+  "OperationName": "NetworkFabrics_restoreConfig",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Restores the configuration to last known good config.",
+  "IsDataAction": false
+}

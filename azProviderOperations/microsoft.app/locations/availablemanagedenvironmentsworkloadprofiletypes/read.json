@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/availablemanagedenvironmentsworkloadprofiletypes/read",
+  "OperationName": "Read Available Workload Profile Types",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Workload Profile",
+  "Description": "Get Available Workload Profile Types in a Region",
+  "IsDataAction": false
+}

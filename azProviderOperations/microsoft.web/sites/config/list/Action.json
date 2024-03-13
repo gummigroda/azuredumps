@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/config/list/Action",
+  "OperationName": "List Web App Security Sensitive Settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "List Web App's security sensitive settings, such as publishing credentials, app settings and connection strings",
+  "IsDataAction": false
+}

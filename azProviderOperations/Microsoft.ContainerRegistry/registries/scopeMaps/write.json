@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/scopeMaps/write",
+  "OperationName": "Create or Update scope map",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ScopeMaps",
+  "Description": "Creates or updates a scope map for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

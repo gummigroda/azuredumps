@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/Locations/OperationStatuses/read",
+  "OperationName": "read_OperationStatuses",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "read OperationStatuses",
+  "IsDataAction": false
+}

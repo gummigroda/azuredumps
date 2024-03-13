@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/fetchDCAssessment/action",
+  "OperationName": null,
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

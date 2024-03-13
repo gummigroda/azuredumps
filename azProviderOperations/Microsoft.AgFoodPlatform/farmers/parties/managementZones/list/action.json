@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmers/parties/managementZones/list/action",
+  "OperationName": "List AgFoodPlatform management zone resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform management zones",
+  "Description": "List(s) existing AgFoodPlatform management zone resource(s).",
+  "IsDataAction": true
+}

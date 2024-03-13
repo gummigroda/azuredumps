@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DynamicEventCollection/read",
+  "OperationName": "Read DynamicEventCollection data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DynamicEventCollection",
+  "Description": "Read data from the DynamicEventCollection table",
+  "IsDataAction": false
+}

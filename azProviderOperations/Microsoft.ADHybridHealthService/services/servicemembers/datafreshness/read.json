@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/datafreshness/read",
+  "OperationName": "Gets the data freshness status.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "For a given server, this API gets a list of  datatypes that are being uploaded by the servers and the latest time for each upload.",
+  "IsDataAction": false
+}

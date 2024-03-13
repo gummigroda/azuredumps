@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/eventGridFilters/read",
+  "OperationName": "Read Event Grid Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Event Grid Filter",
+  "Description": "Read any Event Grid Filter",
+  "IsDataAction": false
+}

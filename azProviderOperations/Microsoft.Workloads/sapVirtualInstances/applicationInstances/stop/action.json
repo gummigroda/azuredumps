@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/applicationInstances/stop/action",
+  "OperationName": "SAPApplicationServerInstances_StopInstance",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/applicationInstances",
+  "Description": "Stops the SAP Application server Instance in an SVI.",
+  "IsDataAction": false
+}

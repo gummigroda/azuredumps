@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/join/action",
+  "OperationName": "Joins a Network Security Perimeter Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Profile",
+  "Description": "Joins a Network Security Perimeter Profile",
+  "IsDataAction": false
+}

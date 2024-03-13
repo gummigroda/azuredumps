@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ImmersiveReader/getcontentmodelforreader/action",
+  "OperationName": "ImmersiveReader - Create Session",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Immersive Reader v1.0",
+  "Description": "Creates an Immersive Reader session",
+  "IsDataAction": true
+}

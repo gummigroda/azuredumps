@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleAssignmentSchedules/read",
+  "OperationName": "Get Role assignment schedule",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role assignment schedule",
+  "Description": "Gets the role assignment schedules at given scope.",
+  "IsDataAction": false
+}

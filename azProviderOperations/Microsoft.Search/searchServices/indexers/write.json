@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/indexers/write",
+  "OperationName": "Create or Manage Indexer",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Indexers",
+  "Description": "Create an indexer, modify its properties, or manage its execution.",
+  "IsDataAction": false
+}

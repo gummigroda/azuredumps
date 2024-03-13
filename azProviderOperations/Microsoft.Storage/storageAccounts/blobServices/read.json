@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/read",
+  "OperationName": "Get blob service properties or statistics",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Services",
+  "Description": "Returns blob service properties or statistics",
+  "IsDataAction": false
+}

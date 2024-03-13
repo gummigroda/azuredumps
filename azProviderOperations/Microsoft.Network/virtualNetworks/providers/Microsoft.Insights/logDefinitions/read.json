@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get log definitions of Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual networks log definitions",
+  "Description": "Get the log definitions of Virtual Network",
+  "IsDataAction": false
+}

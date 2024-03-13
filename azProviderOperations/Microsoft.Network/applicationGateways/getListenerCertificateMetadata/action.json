@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/getListenerCertificateMetadata/action",
+  "OperationName": "Get an application gateway listener certificate metadata",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Gets an application gateway listener certificate metadata",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/compositesmigration/apps/versions/migrate/action",
+  "OperationName": "apps - TriggerCompositeMigration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "versions*",
+  "Description": "Migrate composites for application version",
+  "IsDataAction": true
+}

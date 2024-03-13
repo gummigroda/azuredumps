@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/solutionConfigurations/read",
+  "OperationName": "SolutionConfiguration_Get",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "solutionConfigurations",
+  "Description": "Retrieve the solution configuration identified by solution name.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/alertSuppressionRules/delete",
+  "OperationName": "Delete alert suppression rules",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Alert Suppression Rules",
+  "Description": "Deletes alert suppression rule",
+  "IsDataAction": false
+}

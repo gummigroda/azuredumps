@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/keys/action",
+  "OperationName": "Get gateway keys",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "Retrieves gateway keys.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/dataTasks/run/action",
+  "OperationName": "Run Data Task",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Data Task",
+  "Description": "Runs Data Task",
+  "IsDataAction": false
+}

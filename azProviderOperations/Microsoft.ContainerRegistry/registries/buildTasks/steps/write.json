@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/steps/write",
+  "OperationName": "Create or Update build step",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Creates or updates a build step for a build task with the specified parameters.",
+  "IsDataAction": false
+}

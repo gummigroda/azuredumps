@@ -1,0 +1,8 @@
+{
+  "Operation": "SplitIO.Experimentation/experimentationWorkspaces/read",
+  "OperationName": "ExperimentationWorkspaces_Get",
+  "ProviderNamespace": "SplitIO.Experimentation",
+  "ResourceName": "experimentationWorkspaces",
+  "Description": "Get a ExperimentationWorkspace",
+  "IsDataAction": false
+}

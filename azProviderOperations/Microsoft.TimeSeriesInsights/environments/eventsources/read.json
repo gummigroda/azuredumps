@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/eventsources/read",
+  "OperationName": "Read Event Source",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Event Source",
+  "Description": "Get the properties of an event source.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/getMetricRules/action",
+  "OperationName": "Get Metric Rules",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Get Metric rules for a NewRelic resource",
+  "IsDataAction": false
+}

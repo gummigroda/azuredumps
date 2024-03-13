@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/deletedAutomationAccounts/read",
+  "OperationName": "Read an Azure Automation deleted account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Deleted Account",
+  "Description": "Gets an Azure Automation deleted account ",
+  "IsDataAction": false
+}

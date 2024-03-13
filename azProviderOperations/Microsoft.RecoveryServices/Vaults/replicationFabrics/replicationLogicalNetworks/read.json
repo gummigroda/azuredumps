@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationLogicalNetworks/read",
+  "OperationName": "Read Logical Networks",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Logical Networks",
+  "Description": "Read any Logical Networks",
+  "IsDataAction": false
+}

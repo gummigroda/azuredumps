@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peeringServices/connectionMonitorTests/delete",
+  "OperationName": "Delete Peering Service Connection Monitor Tests",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "connectionMonitorTests",
+  "Description": "Delete any Peering Service Connection Monitor Tests",
+  "IsDataAction": false
+}

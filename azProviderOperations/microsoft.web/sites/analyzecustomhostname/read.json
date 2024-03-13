@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/analyzecustomhostname/read",
+  "OperationName": "Analyze Custom Hostname",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Custom Hostname",
+  "Description": "Analyze Custom Hostname.",
+  "IsDataAction": false
+}

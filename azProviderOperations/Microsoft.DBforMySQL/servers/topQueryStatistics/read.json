@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/topQueryStatistics/read",
+  "OperationName": "Get a Query Statistic",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Top Query Statistics",
+  "Description": "Return a Query Statistic",
+  "IsDataAction": false
+}

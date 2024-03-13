@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/feedback/metric/write",
+  "OperationName": "Create a new metric feedback",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Feedback on metric",
+  "Description": "Create a new metric feedback",
+  "IsDataAction": true
+}

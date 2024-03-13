@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/availableOSs/read",
+  "OperationName": "AvailableOS_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/availableOSs",
+  "Description": "Gets an available OS to run a package under a Test Base Account.",
+  "IsDataAction": false
+}

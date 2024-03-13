@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/jitNetworkAccessPolicies/write",
+  "OperationName": "Create or Update JIT Network Access Policy",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Just-In-Time Network Access Policies",
+  "Description": "Creates a new just-in-time network access policy or updates an existing one",
+  "IsDataAction": false
+}

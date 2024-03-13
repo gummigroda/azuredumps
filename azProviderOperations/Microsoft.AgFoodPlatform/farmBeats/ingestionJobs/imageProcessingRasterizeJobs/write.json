@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/imageProcessingRasterizeJobs/write",
+  "OperationName": "Create or Update AgFoodPlatform imageProcessingRasterizeJobs.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform imageProcessingRasterizeJobs",
+  "Description": "Creates or Updates AgFoodPlatform imageProcessingRasterizeJobs.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Cluster metrics",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Cluster metrics",
+  "Description": "Get list of Cluster metrics Resource Descriptions",
+  "IsDataAction": false
+}

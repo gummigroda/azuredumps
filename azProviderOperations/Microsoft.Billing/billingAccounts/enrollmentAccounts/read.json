@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/enrollmentAccounts/read",
+  "OperationName": "EnrollmentAccounts_ListByBillingAccountName",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enrollment Accounts",
+  "Description": "Lists the enrollment accounts for a billing account. The operation is supported only for billing accounts with agreement type Enterprise Agreement.",
+  "IsDataAction": false
+}

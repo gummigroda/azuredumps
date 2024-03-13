@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/managementconfigurations/write",
+  "OperationName": "Upsert Management Configuration",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Management Configuration",
+  "Description": "Create or update  management configuration.",
+  "IsDataAction": false
+}

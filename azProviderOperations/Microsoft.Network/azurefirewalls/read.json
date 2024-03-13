@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/azurefirewalls/read",
+  "OperationName": "Get Azure Firewall",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Azure Firewall",
+  "Description": "Get Azure Firewall",
+  "IsDataAction": false
+}

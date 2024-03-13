@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/images/write",
+  "OperationName": "Create or Update Image",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Images",
+  "Description": "Creates a new Image or updates an existing one",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/backends/write",
+  "OperationName": "Add backend or Update backend",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Backends",
+  "Description": "Creates or Updates a backend. or Updates an existing backend.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/backendhealth/action",
+  "OperationName": "Get an application gateway backend health",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Gets an application gateway backend health",
+  "IsDataAction": false
+}

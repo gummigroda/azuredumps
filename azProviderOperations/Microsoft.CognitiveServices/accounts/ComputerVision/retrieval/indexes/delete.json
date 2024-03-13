@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes/delete",
+  "OperationName": "DeleteIngestionIndex",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Index Operations",
+  "Description": "Deletes an index and all its associated ingestion documents.",
+  "IsDataAction": true
+}

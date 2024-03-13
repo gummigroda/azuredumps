@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/endpoints/read",
+  "OperationName": "Endpoints_Get",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "endpoints",
+  "Description": "Gets the endpoint to the resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/locations/alertSuppressionRules/read",
+  "OperationName": "Get alert suppression rules",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Alert Suppression Rules",
+  "Description": "Gets alert suppression rule",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/Databases/DataConnectionValidation/action",
+  "OperationName": "Data connection validation action",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Databases resource type",
+  "Description": "Validates database data connection.",
+  "IsDataAction": false
+}

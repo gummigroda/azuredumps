@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetgateways/igwinfos/write",
+  "OperationName": "igwinfos_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGateways/igwinfos",
+  "Description": "Create a igwinfos resource.",
+  "IsDataAction": false
+}

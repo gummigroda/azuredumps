@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/notificationsettings/delete",
+  "OperationName": "Delete Notification Settings",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Notification Settings",
+  "Description": "Delete the user's notification settings for the workspace.",
+  "IsDataAction": false
+}

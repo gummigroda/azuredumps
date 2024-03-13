@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/networkFunctions/write",
+  "OperationName": "NetworkFunctions_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "networkFunctions",
+  "Description": "Update a NetworkFunctionResource",
+  "IsDataAction": false
+}

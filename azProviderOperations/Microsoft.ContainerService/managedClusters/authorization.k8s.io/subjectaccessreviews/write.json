@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/authorization.k8s.io/subjectaccessreviews/write",
+  "OperationName": "Creates/Updates subjectaccessreviews resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Subjectaccessreviews",
+  "Description": "Writes subjectaccessreviews",
+  "IsDataAction": true
+}

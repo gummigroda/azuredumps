@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/contextualServiceEndpointPolicies/read",
+  "OperationName": "Get Contextual Service Endpoint Policies",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Contextual Service Endpoint Policies",
+  "Description": "Gets Contextual Service Endpoint Policies",
+  "IsDataAction": false
+}

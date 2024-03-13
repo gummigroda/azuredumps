@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/flavors/delete",
+  "OperationName": "Flavors_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "flavors",
+  "Description": "Implements Flavor DELETE method.",
+  "IsDataAction": false
+}

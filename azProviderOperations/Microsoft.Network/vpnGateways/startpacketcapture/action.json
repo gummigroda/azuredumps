@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/startpacketcapture/action",
+  "OperationName": "Start Vpn gateway Packet Capture with according resource",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Start Vpn gateway Packet Capture with according resource",
+  "IsDataAction": false
+}

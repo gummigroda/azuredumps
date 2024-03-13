@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/setServerCount/action",
+  "OperationName": "Instances_Scale",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Scaling SCOM monitoring instance",
+  "IsDataAction": false
+}

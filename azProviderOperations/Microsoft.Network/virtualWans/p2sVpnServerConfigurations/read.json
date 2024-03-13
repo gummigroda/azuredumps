@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/p2sVpnServerConfigurations/read",
+  "OperationName": "Get Virtual Wan P2SVpnServerConfiguration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Wan P2SVpnServerConfiguration",
+  "Description": "Gets a virtual Wan P2SVpnServerConfiguration",
+  "IsDataAction": false
+}

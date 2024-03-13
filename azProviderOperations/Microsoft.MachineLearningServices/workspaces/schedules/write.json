@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/schedules/write",
+  "OperationName": "Creates or updates schedule in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Schedules",
+  "Description": "Creates or updates schedule in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

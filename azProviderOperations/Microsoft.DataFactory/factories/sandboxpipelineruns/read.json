@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/sandboxpipelineruns/read",
+  "OperationName": "Get Debug Pipeline Run Info",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "DebugRun",
+  "Description": "Gets the debug run info for the Pipeline.",
+  "IsDataAction": false
+}

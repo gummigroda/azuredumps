@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/addons/write",
+  "OperationName": "Creates or updates addons",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "addons",
+  "Description": "Creates or updates the addons",
+  "IsDataAction": false
+}

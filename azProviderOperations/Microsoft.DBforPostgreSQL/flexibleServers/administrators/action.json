@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/administrators/action",
+  "OperationName": "Create/Update PostgreSQL server administrator",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Creates a server administrator with the specified parameters or update the properties or tags for the specified server administrator.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/untagged/count/read",
+  "OperationName": "GetUntaggedImageCount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "count*",
+  "Description": "This API returns the images which have no tags for a given project and optionally an iteration. If no iteration is specified the",
+  "IsDataAction": true
+}

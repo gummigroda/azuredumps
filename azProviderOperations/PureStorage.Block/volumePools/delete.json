@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/volumePools/delete",
+  "OperationName": "VolumePools_Delete",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "volumePools",
+  "Description": "Delete a VolumePool",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/write",
+  "OperationName": "Creates or updates ExpressRoutePorts",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoutePorts",
+  "Description": "Creates or updates ExpressRoutePorts",
+  "IsDataAction": false
+}

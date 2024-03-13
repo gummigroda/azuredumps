@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Read Azure Arc networkSecurityPerimeterConfigurations",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkSecurityPerimeterConfigurations",
+  "Description": "Reads any Azure Arc networkSecurityPerimeterConfigurations",
+  "IsDataAction": false
+}

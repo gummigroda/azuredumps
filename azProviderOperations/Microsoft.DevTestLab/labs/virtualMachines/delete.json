@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/delete",
+  "OperationName": "Delete virtual machines.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Delete virtual machines.",
+  "IsDataAction": false
+}

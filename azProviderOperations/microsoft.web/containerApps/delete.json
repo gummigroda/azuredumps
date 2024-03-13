@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/containerApps/delete",
+  "OperationName": "Delete Container App",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Container App",
+  "Description": "Delete a Container App",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/consoles/delete",
+  "OperationName": "Consoles_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines/consoles",
+  "Description": "Delete the provided virtual machine console.",
+  "IsDataAction": false
+}

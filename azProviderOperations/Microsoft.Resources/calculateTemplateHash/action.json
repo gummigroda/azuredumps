@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/calculateTemplateHash/action",
+  "OperationName": "计算模板哈希",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "",
+  "Description": "计算所提供模板的哈希。",
+  "IsDataAction": false
+}

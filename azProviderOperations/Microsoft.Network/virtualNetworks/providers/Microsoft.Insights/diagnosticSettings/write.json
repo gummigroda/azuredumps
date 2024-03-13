@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update diagnostic settings of the Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network diagnostic settings",
+  "Description": "Create or update the diagnostic settings of the Virtual Network",
+  "IsDataAction": false
+}

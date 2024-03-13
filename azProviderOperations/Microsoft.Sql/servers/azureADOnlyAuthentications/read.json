@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/azureADOnlyAuthentications/read",
+  "OperationName": "Reads a specific server Azure Active Directory only authentication object",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Azure Active Directory only authentication",
+  "Description": "Reads a specific server Azure Active Directory only authentication object",
+  "IsDataAction": false
+}

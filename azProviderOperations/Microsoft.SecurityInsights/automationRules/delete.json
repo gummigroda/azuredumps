@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/automationRules/delete",
+  "OperationName": "Delete Automation Rules",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "AutomationRules",
+  "Description": "Deletes an automation rule",
+  "IsDataAction": false
+}

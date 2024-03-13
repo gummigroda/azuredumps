@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/oauthProviders/write",
+  "OperationName": "Create or Update AgFoodPlatform oauth providers.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform oauth providers",
+  "Description": "Creates or Updates AgFoodPlatform oauth providers.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/authentication.k8s.io/read",
+  "OperationName": "Gets/List authentication.k8s.io resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "authentication.k8s.io",
+  "Description": "Reads authentication.k8s.io",
+  "IsDataAction": true
+}

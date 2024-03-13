@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/publiccertificates/read",
+  "OperationName": "Get Web Apps Slots Public Certificates",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Public Certificates",
+  "Description": "Get Web Apps Slots Public Certificates.",
+  "IsDataAction": false
+}

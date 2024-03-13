@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/Operations/read",
+  "OperationName": "Read resource provider operations",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Operations",
+  "Description": "Read the operations for all resource types.",
+  "IsDataAction": false
+}

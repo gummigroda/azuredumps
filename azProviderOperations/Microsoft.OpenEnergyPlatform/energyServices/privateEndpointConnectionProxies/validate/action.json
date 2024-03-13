@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/privateEndpointConnectionProxies/validate/action",
+  "OperationName": "PrivateEndpointConnectionProxies_Validate",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices/privateEndpointConnectionProxies",
+  "Description": "(INTERNAL - DO NOT USE) Validates a private endpoint connection proxy object.",
+  "IsDataAction": false
+}

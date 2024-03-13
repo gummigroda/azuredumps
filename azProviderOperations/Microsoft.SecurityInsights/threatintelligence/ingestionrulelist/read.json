@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/ingestionrulelist/read",
+  "OperationName": "Get the set of TI Ingestion Rules",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIIngestionRules",
+  "Description": "Reads the set of TI Ingestion Rule objects",
+  "IsDataAction": false
+}

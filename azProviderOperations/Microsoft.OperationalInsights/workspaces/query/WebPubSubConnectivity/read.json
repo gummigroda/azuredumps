@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WebPubSubConnectivity/read",
+  "OperationName": "Read WebPubSubConnectivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WebPubSubConnectivity",
+  "Description": "Read data from the WebPubSubConnectivity table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/sqlMigrationServices/regenerateAuthKeys/action",
+  "OperationName": "Regenerate the Authentication Keys",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "SQL Migration Service",
+  "Description": "Regenerate the Authentication Keys",
+  "IsDataAction": false
+}

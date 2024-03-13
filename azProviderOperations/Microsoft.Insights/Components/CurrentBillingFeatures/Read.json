@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/CurrentBillingFeatures/Read",
+  "OperationName": "Current billing features for Application Insights component read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Current billing features for Application Insights component",
+  "Description": "Reading current billing features for Application Insights component",
+  "IsDataAction": false
+}

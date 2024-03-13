@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkServiceDesignGroups/networkServiceDesignVersions/use/action",
+  "OperationName": "networkServiceDesignVersions_use",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkServiceDesignGroups/networkServiceDesignVersions",
+  "Description": "Use network service design version in site network service deployment.",
+  "IsDataAction": false
+}

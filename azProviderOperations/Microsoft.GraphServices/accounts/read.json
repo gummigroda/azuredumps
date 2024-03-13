@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/accounts/read",
+  "OperationName": "Accounts_Get",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "accounts",
+  "Description": "Returns account resource for a given name.",
+  "IsDataAction": false
+}

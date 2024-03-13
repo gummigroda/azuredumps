@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/models/delete",
+  "OperationName": "Deletes the voice model with the given id.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Models",
+  "Description": "Deletes the voice model with the given id.",
+  "IsDataAction": true
+}

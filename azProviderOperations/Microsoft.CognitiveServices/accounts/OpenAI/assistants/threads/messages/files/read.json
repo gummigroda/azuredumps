@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/threads/messages/files/read",
+  "OperationName": "Retrieve assistant thread message file",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Retrieve assistant thread message file.",
+  "IsDataAction": true
+}

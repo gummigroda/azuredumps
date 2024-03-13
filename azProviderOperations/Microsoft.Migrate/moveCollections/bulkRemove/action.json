@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/bulkRemove/action",
+  "OperationName": "Removes the set of move resources included in the request body from move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Removes the set of move resources included in the request body from move collection",
+  "IsDataAction": false
+}

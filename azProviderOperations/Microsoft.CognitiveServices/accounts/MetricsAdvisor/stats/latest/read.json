@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/stats/latest/read",
+  "OperationName": "Get latest usage stats",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Latest stats",
+  "Description": "Get latest usage stats",
+  "IsDataAction": true
+}

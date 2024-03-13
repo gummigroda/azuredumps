@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/labeling/labelimport/action",
+  "OperationName": "Import labels into labeling projects in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Labeling",
+  "Description": "Import labels into labeling projects in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

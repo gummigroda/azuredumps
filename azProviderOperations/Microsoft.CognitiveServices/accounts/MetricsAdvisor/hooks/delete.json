@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/hooks/delete",
+  "OperationName": "Delete a hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Hooks",
+  "Description": "Delete a hook",
+  "IsDataAction": true
+}

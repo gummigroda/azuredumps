@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/files/read",
+  "OperationName": "Read Sumission Files",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submission Files",
+  "Description": "Allows reading of submission files",
+  "IsDataAction": true
+}

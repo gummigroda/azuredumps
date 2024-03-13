@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/hypervcollectors/write",
+  "OperationName": "Create or Update HyperV collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "HyperV Collector",
+  "Description": "Creates a new HyperV collector or updates an existing HyperV collector",
+  "IsDataAction": false
+}

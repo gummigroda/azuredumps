@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/QnAMaker/endpointsettings/read",
+  "OperationName": "Endpoint Settings - Get Settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoint Settings",
+  "Description": "Gets endpoint settings for an endpoint",
+  "IsDataAction": true
+}

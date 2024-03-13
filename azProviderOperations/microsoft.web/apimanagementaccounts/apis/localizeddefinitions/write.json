@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/localizeddefinitions/write",
+  "OperationName": "Update Api Management Accounts APIs Localized Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Localized Definitions",
+  "Description": "Update Api Management Accounts APIs Localized Definitions.",
+  "IsDataAction": false
+}

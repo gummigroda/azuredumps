@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/jobs/write",
+  "OperationName": "Create or Update Container Apps Job",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container Apps Job",
+  "Description": "Create or update a Container Apps Job",
+  "IsDataAction": false
+}

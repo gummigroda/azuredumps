@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/adminRequestApprovals/write",
+  "OperationName": "Update request approval",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Request approvals",
+  "Description": "Admin update the request with decision on the request",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/triageRecommendations/read",
+  "OperationName": "Reads triageRecommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "triageRecommendations",
+  "Description": "Read triageRecommendations",
+  "IsDataAction": false
+}

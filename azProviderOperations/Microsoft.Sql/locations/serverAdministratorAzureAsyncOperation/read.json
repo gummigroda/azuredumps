@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/serverAdministratorAzureAsyncOperation/read",
+  "OperationName": "Server Azure Active Directory administrator async operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "The server administrator",
+  "Description": "Server Azure Active Directory administrator async operation results",
+  "IsDataAction": false
+}

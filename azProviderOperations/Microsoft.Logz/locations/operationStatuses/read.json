@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/locations/operationStatuses/read",
+  "OperationName": "Get operation statuses",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "OperationStatuses",
+  "Description": "Get operation statuses",
+  "IsDataAction": false
+}

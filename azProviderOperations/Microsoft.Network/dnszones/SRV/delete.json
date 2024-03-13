@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/SRV/delete",
+  "OperationName": "Delete record set of type SRV",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS SRV record set",
+  "Description": "Remove the record set of a given name and type ‘SRV’ from a DNS zone.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/swap/action",
+  "OperationName": "Swap Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Swap any Reservation",
+  "IsDataAction": false
+}

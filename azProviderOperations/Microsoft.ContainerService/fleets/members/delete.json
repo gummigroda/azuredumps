@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/members/delete",
+  "OperationName": "Delete a fleet member",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Members",
+  "Description": "Delete a fleet member",
+  "IsDataAction": false
+}

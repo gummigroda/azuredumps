@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/applicationInstances/read",
+  "OperationName": "SAPApplicationServerInstances_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/applicationInstances",
+  "Description": "Lists the SAP Application server Instances in an SVI.",
+  "IsDataAction": false
+}

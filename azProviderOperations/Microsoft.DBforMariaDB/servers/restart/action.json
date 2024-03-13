@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/restart/action",
+  "OperationName": "Restart MariaDB Server",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Restarts a specific server.",
+  "IsDataAction": false
+}

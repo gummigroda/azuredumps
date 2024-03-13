@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/unregister/action",
+  "OperationName": "Unregister provider",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "",
+  "Description": "Unregister the Maps provider",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve or reject a connection to a Private Endpoint resource",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Approve or reject a connection to a Private Endpoint resource.",
+  "IsDataAction": false
+}

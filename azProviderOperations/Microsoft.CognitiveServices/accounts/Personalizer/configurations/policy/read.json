@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/configurations/policy/read",
+  "OperationName": "Get Policy.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage configuration policies",
+  "Description": "Get the Learning Settings currently used by the Personalizer service.",
+  "IsDataAction": true
+}

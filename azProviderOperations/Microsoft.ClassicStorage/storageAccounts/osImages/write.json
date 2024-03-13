@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/osImages/write",
+  "OperationName": "Add Storage Account Operating System Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Operating System Image",
+  "Description": "Adds a given storage account operating system image.",
+  "IsDataAction": false
+}

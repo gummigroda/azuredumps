@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/mountpoints/read",
+  "OperationName": "Get Mountpoint",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "MountPoint",
+  "Description": "Get information about a mount point.",
+  "IsDataAction": false
+}

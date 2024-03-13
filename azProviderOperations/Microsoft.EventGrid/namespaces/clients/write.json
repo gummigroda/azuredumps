@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/clients/write",
+  "OperationName": "Write Client",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "clients",
+  "Description": "Create or update a client",
+  "IsDataAction": false
+}

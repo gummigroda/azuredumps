@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/serviceArtifacts/read",
+  "OperationName": "Get Gallery Service Artifact",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "GalleryServiceArtifacts",
+  "Description": "Gets the properties of Gallery Service Artifact",
+  "IsDataAction": false
+}

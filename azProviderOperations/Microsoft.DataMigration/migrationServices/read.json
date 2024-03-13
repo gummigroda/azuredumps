@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/migrationServices/read",
+  "OperationName": "Get all services in the Subscription",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "",
+  "Description": "Retrieve all services in the Subscription",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/openStackIdentities/write",
+  "OperationName": "OpenStackIdentities_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "openStackIdentities",
+  "Description": "API to update certain properties of the OpenStackIdentity resource.",
+  "IsDataAction": false
+}

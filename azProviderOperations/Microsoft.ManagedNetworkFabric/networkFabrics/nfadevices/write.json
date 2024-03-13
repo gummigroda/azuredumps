@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/nfadevices/write",
+  "OperationName": "NfaDevices_Create",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/nfadevices",
+  "Description": "Create a NfaDevice resource.",
+  "IsDataAction": false
+}

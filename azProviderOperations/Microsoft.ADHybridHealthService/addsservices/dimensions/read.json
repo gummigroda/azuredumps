@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/dimensions/read",
+  "OperationName": "Gets the domains and sites details for the forest.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Gets the domains and sites details for the forest. Example- health status, active alerts, resolved alerts, properties like Domain Functional Level, Forest, Infrastructure Master, PDC, RID master etc. ",
+  "IsDataAction": false
+}

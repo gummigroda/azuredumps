@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/locations/upgradeExtensionsOperationResults/read",
+  "OperationName": "Read Upgrade extensions Operation Results",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "locations/upgradeExtensionsOperationResults",
+  "Description": "Reads the status of an upgrade extensions operation on virtual machines",
+  "IsDataAction": false
+}

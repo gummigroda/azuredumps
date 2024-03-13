@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/streamingjobs/DownloadDiagram/action",
+  "OperationName": "Download job diagrams for Stream Analytics Job",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Job",
+  "Description": "Download job diagrams for Stream Analytics Job",
+  "IsDataAction": false
+}

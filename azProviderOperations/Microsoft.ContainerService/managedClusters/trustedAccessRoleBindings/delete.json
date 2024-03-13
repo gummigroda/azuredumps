@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/delete",
+  "OperationName": "Delete trusted access role bindings for managed cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Delete trusted access role bindings for managed cluster",
+  "IsDataAction": false
+}

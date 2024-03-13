@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/operations/read",
+  "OperationName": "List available Microsoft.Confluent operations",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "operations",
+  "Description": "List operations available on Microsoft.Confluent resource provider",
+  "IsDataAction": false
+}

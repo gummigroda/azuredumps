@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/triageRecommendations/reject/action",
+  "OperationName": "Rejects triageRecommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "triageRecommendations",
+  "Description": "Reject triageRecommendations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/StorageContainers/Write",
+  "OperationName": "Creates/Updates storage containers resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "StorageContainers",
+  "Description": "Creates/Updates storage containers resource",
+  "IsDataAction": false
+}

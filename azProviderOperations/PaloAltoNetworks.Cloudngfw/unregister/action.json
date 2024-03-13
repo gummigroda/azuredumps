@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/unregister/action",
+  "OperationName": "Unregister the PaloAltoNetworks.Cloudngfw",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for PaloAltoNetworks.Cloudngfw",
+  "IsDataAction": false
+}

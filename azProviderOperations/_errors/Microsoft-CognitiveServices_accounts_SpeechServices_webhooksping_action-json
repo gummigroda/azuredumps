@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/webhooks:ping/action",
+  "OperationName": "Ping Web Hook",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "REST APIs for Speech Cognitive Service",
+  "Description": "The request body of the POST request sent to the registered web hook URL is of the same shape as in the GET request for a specific hook.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/schemas/read",
+  "OperationName": "Gets the schemas stored for a given API or Gets schemas for the API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Schemas associated with the API",
+  "Description": "Get the schema configuration at the API level. or Get the schema configuration at the API level.",
+  "IsDataAction": false
+}

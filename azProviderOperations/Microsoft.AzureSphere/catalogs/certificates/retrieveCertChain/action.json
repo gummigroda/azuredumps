@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/certificates/retrieveCertChain/action",
+  "OperationName": "Certificates_RetrieveCertChain",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/certificates",
+  "Description": "Retrieves cert chain.",
+  "IsDataAction": false
+}

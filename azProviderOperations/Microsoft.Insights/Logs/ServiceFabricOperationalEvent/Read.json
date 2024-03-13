@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ServiceFabricOperationalEvent/Read",
+  "OperationName": "Read ServiceFabricOperationalEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ServiceFabricOperationalEvent",
+  "Description": "Read data from the ServiceFabricOperationalEvent table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/BastionHosts/action",
+  "OperationName": "Get Bastion Host associated with the Virtual Network.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Gets Bastion Host refrences in a Virtual Network.",
+  "IsDataAction": false
+}

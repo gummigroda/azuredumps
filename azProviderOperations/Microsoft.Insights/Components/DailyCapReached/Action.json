@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/DailyCapReached/Action",
+  "OperationName": "Application Insights component daily cap reached",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application insights components",
+  "Description": "Reached the daily cap for Application Insights component",
+  "IsDataAction": false
+}

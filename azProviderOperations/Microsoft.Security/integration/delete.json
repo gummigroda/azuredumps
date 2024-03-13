@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/integration/delete",
+  "OperationName": "Deleate integration",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Integration",
+  "Description": "Deleate or update integration on your scope",
+  "IsDataAction": false
+}

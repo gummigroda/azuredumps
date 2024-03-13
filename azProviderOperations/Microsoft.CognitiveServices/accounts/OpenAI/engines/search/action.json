@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/engines/search/action",
+  "OperationName": "Search for the most relevant documents using the current engine.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Engines",
+  "Description": "Search for the most relevant documents using the current engine.",
+  "IsDataAction": true
+}

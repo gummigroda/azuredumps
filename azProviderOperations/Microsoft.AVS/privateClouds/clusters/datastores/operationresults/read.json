@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateclouds/clusters/datastores/operationresults/read",
+  "OperationName": "Read privateClouds/clusters/datastores operationresults",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateclouds/clusters/datastores/operationresults",
+  "Description": "Read privateClouds/clusters/datastores operationresults.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/environments/write",
+  "OperationName": "Add or modify environments.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "environments",
+  "Description": "Add or modify environments.",
+  "IsDataAction": false
+}

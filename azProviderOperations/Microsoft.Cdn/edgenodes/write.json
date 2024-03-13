@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/edgenodes/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "EdgeNode",
+  "Description": null,
+  "IsDataAction": false
+}

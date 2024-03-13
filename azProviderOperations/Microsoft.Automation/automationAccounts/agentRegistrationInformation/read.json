@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/agentRegistrationInformation/read",
+  "OperationName": "Gets an Azure Automation DSC's registration information",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Desired State Configuration Agent Registration",
+  "Description": "Read an Azure Automation DSC's registration information",
+  "IsDataAction": false
+}

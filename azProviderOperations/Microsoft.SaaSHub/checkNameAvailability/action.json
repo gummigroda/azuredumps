@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

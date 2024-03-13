@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/domainServices/oucontainer/read",
+  "OperationName": "Read Ou Container",
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "Ou Container Type",
+  "Description": "Read Ou Containers",
+  "IsDataAction": false
+}

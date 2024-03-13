@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/performance/images/count/read",
+  "OperationName": "GetImagePerformanceCount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "count*",
+  "Description": "The filtering is on an and/or relationship. For example, if the provided tag ids are for the \"Dog\" and",
+  "IsDataAction": true
+}

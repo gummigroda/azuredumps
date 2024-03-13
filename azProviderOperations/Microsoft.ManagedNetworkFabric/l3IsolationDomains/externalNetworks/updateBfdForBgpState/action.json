@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/externalNetworks/updateBfdForBgpState/action",
+  "OperationName": "ExternalNetworks_updateBfdForBgpState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains/externalNetworks",
+  "Description": "Update BfdForBgp for externalNetwork.",
+  "IsDataAction": false
+}

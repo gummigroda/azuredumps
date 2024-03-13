@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/operationStatus/read",
+  "OperationName": "Get Backup Operation Status",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Operation Status",
+  "Description": "Returns Backup Operation Status for Backup Vault.",
+  "IsDataAction": false
+}

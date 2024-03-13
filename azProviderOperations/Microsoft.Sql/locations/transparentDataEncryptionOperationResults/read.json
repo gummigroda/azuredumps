@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/transparentDataEncryptionOperationResults/read",
+  "OperationName": "Logical database transparent data encryption operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Logical database transparent data encryption operation",
+  "Description": "Gets in-progress operations on logical database transparent data encryption",
+  "IsDataAction": false
+}

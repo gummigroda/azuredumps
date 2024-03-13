@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/monitoredSubscriptions/write",
+  "OperationName": "Create/Update  monitored subscriptions for the datadog resource",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "MonitoredSubscription",
+  "Description": "Write monitored subscriptions",
+  "IsDataAction": false
+}

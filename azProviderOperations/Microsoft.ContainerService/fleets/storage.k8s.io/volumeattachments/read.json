@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/storage.k8s.io/volumeattachments/read",
+  "OperationName": "Gets/List volumeattachments resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Volumeattachments",
+  "Description": "Reads volumeattachments",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Solutions/applicationDefinitions/read",
+  "OperationName": "ApplicationDefinitions_ListBySubscription",
+  "ProviderNamespace": "Microsoft.Solutions",
+  "ResourceName": "applicationDefinitions",
+  "Description": "Lists all the application definitions within a subscription.",
+  "IsDataAction": false
+}

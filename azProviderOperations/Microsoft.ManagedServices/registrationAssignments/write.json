@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationAssignments/write",
+  "OperationName": "Add Managed Services Registration Assignment",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Assignment",
+  "Description": "Add or modify Managed Services registration assignment.",
+  "IsDataAction": false
+}

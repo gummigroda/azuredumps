@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfileAssignments/effectiveProfiles/Read",
+  "OperationName": "Read Effective Configuration Profile Assignment Result",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage Configuration Profile Assignments",
+  "Description": "Read any Assignment's Effective Configuration Profile Result",
+  "IsDataAction": false
+}

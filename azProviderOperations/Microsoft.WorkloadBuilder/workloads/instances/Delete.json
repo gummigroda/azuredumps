@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.WorkloadBuilder/workloads/instances/Delete",
+  "OperationName": "Deletes the instances",
+  "ProviderNamespace": "Microsoft.WorkloadBuilder",
+  "ResourceName": "instances",
+  "Description": "Delete instances",
+  "IsDataAction": false
+}

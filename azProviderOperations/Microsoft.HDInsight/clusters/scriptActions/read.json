@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusters/scriptActions/read",
+  "OperationName": "Get persisted Script Actions for HDInsight Cluster",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight Cluster",
+  "Description": "Get persisted Script Actions for HDInsight Cluster",
+  "IsDataAction": false
+}

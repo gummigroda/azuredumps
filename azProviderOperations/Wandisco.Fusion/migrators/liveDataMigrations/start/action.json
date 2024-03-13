@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/liveDataMigrations/start/action",
+  "OperationName": "Start",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "LiveDataMigrations",
+  "Description": "Start an existing migrator migration",
+  "IsDataAction": false
+}

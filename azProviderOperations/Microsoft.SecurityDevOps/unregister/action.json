@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/unregister/action",
+  "OperationName": "Unregister the Microsoft.SecurityDevOps",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.SecurityDevOps",
+  "IsDataAction": false
+}

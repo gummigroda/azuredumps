@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/amfDeployments/delete",
+  "OperationName": "AmfDeployments_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "amfDeployments",
+  "Description": "Delete a AmfDeploymentResource",
+  "IsDataAction": false
+}

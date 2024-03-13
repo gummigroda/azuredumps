@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/write",
+  "OperationName": "Create or Update SQL Analytics pool Transparent Data Encryption Configuration.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Transparent Data Encryption Configuration",
+  "Description": "Create or Update any SQL Analytics pool Transparent Data Encryption Configuration.",
+  "IsDataAction": false
+}

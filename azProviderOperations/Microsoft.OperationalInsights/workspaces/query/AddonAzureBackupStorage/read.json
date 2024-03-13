@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AddonAzureBackupStorage/read",
+  "OperationName": "Read AddonAzureBackupStorage data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AddonAzureBackupStorage",
+  "Description": "Read data from the AddonAzureBackupStorage table",
+  "IsDataAction": false
+}

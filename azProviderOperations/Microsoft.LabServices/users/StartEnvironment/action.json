@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/StartEnvironment/action",
+  "OperationName": "Starts an environment.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "Starts an environment by starting all resources inside the environment.",
+  "IsDataAction": false
+}

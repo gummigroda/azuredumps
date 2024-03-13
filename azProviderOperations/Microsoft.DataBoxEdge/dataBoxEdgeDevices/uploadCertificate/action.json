@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/uploadCertificate/action",
+  "OperationName": "Upload certificates",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Upload certificate for device registration",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/scopeMaps/operationStatuses/read",
+  "OperationName": "Get scope map async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ScopeMaps",
+  "Description": "Gets a scope map async operation status.",
+  "IsDataAction": false
+}

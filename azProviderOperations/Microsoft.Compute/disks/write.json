@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/write",
+  "OperationName": "Create or Update Disk",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Creates a new Disk or updates an existing one",
+  "IsDataAction": false
+}

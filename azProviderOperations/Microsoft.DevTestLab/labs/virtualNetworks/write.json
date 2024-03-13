@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualNetworks/write",
+  "OperationName": "Add or modify virtual networks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "virtual networks",
+  "Description": "Add or modify virtual networks.",
+  "IsDataAction": false
+}

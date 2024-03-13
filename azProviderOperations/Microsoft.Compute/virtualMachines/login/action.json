@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/login/action",
+  "OperationName": "Log in to Virtual Machine",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machines",
+  "Description": "Log in to a virtual machine as a regular user",
+  "IsDataAction": true
+}

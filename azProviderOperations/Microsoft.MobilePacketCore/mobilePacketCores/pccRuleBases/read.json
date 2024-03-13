@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/pccRuleBases/read",
+  "OperationName": "PccRuleBases_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/pccRuleBases",
+  "Description": "Lists all the Mobile Packet Core Policy and Charging Control Rule Bases in a mobile packet core instance.",
+  "IsDataAction": false
+}

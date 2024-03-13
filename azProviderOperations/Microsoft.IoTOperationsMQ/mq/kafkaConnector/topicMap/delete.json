@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/kafkaConnector/topicMap/delete",
+  "OperationName": "KafkaConnectorTopicMap_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/kafkaConnector/topicMap",
+  "Description": "Delete a KafkaTopicMapResource",
+  "IsDataAction": false
+}

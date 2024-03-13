@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/subnets/associatedNetworkSecurityGroups/operationStatuses/read",
+  "OperationName": "Get the Virtual Network Subnet Associeted Network Security Group Operation Status",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network Subnet Associeted Network Security Group Operation Status",
+  "Description": "Reads the operation status for the virtual network subnet associeted network security group.",
+  "IsDataAction": false
+}

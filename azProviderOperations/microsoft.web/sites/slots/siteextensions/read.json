@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/siteextensions/read",
+  "OperationName": "Get Web Apps Slots Site Extensions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Site Extensions",
+  "Description": "Get Web Apps Slots Site Extensions.",
+  "IsDataAction": false
+}

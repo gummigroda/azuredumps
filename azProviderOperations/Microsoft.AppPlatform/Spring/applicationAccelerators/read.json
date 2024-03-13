@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/applicationAccelerators/read",
+  "OperationName": "Get Microsoft Azure Spring Apps Application Accelerator",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Application Accelerator of Microsoft Azure Spring Apps",
+  "Description": "Get the Application Accelerator for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

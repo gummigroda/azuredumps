@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slots/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read Web App Slot metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of Web App Slot",
+  "Description": "Gets the available metrics for Web App Slot",
+  "IsDataAction": false
+}

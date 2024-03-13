@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualNetworks/read",
+  "OperationName": "Read virtual networks.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "virtual networks",
+  "Description": "Read virtual networks.",
+  "IsDataAction": false
+}

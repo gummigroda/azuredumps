@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/b2cDirectories/delete",
+  "OperationName": "Delete B2C Directory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "B2C Directory",
+  "Description": "Delete B2C Directory resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AWSCloudTrail/read",
+  "OperationName": "Read AWSCloudTrail data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AWSCloudTrail",
+  "Description": "Read data from the AWSCloudTrail table",
+  "IsDataAction": false
+}

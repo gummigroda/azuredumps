@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzurePercept/accounts/solutions/read",
+  "OperationName": "Solutions_Get",
+  "ProviderNamespace": "Microsoft.AzurePercept",
+  "ResourceName": "accounts/solutions",
+  "Description": "read solutions",
+  "IsDataAction": false
+}

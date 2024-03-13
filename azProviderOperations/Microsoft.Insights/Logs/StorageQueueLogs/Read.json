@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/StorageQueueLogs/Read",
+  "OperationName": "Read StorageQueueLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "StorageQueueLogs",
+  "Description": "Read data from the StorageQueueLogs table",
+  "IsDataAction": false
+}

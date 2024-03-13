@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/commitmentplans/read",
+  "OperationName": "Read Commitment Plan",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Commitment Plan",
+  "Description": "Reads commitment plans.",
+  "IsDataAction": false
+}

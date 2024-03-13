@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/bestPractices/versions/Read",
+  "OperationName": "Read Automanage BestPractices Versions",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage BestPractices Versions",
+  "Description": "Read any Automanage BestPractices Versions",
+  "IsDataAction": false
+}

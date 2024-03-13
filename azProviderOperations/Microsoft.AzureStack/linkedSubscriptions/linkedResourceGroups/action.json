@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/linkedSubscriptions/linkedResourceGroups/action",
+  "OperationName": "Read/Write Under Projected Linked Resource Group",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Linked Subscription",
+  "Description": "Reads or Writes to a projected linked resource under the linked resource group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/InsightsMetrics/Read",
+  "OperationName": "Read InsightsMetrics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "InsightsMetrics",
+  "Description": "Read data from the InsightsMetrics table",
+  "IsDataAction": false
+}

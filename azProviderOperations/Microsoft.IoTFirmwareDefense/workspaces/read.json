@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/read",
+  "OperationName": "Workspaces_Get",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces",
+  "Description": "Get firmware analysis workspace.",
+  "IsDataAction": false
+}

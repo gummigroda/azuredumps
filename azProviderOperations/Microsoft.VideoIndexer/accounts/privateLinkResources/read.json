@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/privateLinkResources/read",
+  "OperationName": "PrivateLinkResources_Get",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts/privateLinkResources",
+  "Description": "Get the specified private link resource associated with the Video Indexer account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/create/action",
+  "OperationName": "Create Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Creates a new key. If the key does not exist, the first version is created. Otherwise, a new version is created with the specified value.",
+  "IsDataAction": true
+}

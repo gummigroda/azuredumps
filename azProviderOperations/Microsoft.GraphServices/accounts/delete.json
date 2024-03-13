@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/accounts/delete",
+  "OperationName": "Accounts_Delete",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "accounts",
+  "Description": "Deletes a account resource.",
+  "IsDataAction": false
+}

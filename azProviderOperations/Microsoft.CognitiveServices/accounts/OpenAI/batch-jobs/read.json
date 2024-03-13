@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/batch-jobs/read",
+  "OperationName": "Read batch-jobs metadata",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch-inference",
+  "Description": "Gets information about batch jobs.",
+  "IsDataAction": true
+}

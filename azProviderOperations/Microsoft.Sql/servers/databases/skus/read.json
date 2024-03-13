@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/skus/read",
+  "OperationName": "Get skus available for a database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Gets a collection of skus available for a database",
+  "IsDataAction": false
+}

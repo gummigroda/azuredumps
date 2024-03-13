@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupconfig/read",
+  "OperationName": "Get Resource Config",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Config",
+  "Description": "Returns Configuration for Recovery Services Vault.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/multirolepools/metrics/read",
+  "OperationName": "Get Hosting Environments MultiRole Pools Metrics",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments MultiRole Pools Metrics",
+  "Description": "Get Hosting Environments MultiRole Pools Metrics.",
+  "IsDataAction": false
+}

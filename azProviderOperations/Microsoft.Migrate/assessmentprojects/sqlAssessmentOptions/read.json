@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/sqlAssessmentOptions/read",
+  "OperationName": "List SQL Assessment Options",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "SQL Assessment Options",
+  "Description": "Gets the SQL assessment options which are available in the given location",
+  "IsDataAction": false
+}

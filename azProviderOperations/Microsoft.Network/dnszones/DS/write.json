@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/DS/write",
+  "OperationName": "Creates or updates DNS record set of type DS",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type DS",
+  "Description": "Creates or updates DNS record set of type DS",
+  "IsDataAction": false
+}

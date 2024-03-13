@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/accounts/delete",
+  "OperationName": "Accounts_Delete",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "accounts",
+  "Description": "Delete an Azure Video Indexer account.",
+  "IsDataAction": false
+}

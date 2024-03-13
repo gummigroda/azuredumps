@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/stop/action",
+  "OperationName": "Stop Trigger",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Stops any Trigger.",
+  "IsDataAction": false
+}

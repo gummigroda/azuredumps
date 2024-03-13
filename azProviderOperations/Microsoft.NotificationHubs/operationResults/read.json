@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/operationResults/read",
+  "OperationName": "Operation results for Notification Hubs provider",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "Microsoft Azure Notification Hub",
+  "Description": "Returns operation results for Notification Hubs provider",
+  "IsDataAction": false
+}

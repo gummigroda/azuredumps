@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WDAVThreat/Read",
+  "OperationName": "Read WDAVThreat data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WDAVThreat",
+  "Description": "Read data from the WDAVThreat table",
+  "IsDataAction": false
+}

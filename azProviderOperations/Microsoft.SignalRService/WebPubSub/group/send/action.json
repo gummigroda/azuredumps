@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/group/send/action",
+  "OperationName": "Send messages to group",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/Group",
+  "Description": "Broadcast message to group",
+  "IsDataAction": true
+}

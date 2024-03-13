@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/CustomLexicons/write",
+  "OperationName": "Edit custom lexicon lexemes.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Custom lexicon",
+  "Description": "Edit custom lexicon lexemes.",
+  "IsDataAction": true
+}

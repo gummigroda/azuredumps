@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Reads Kusto metric definitions",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "The metric definition of Kusto",
+  "Description": "Gets the metric definitions of the resource",
+  "IsDataAction": false
+}

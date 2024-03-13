@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/privateEndpointConnections/read",
+  "OperationName": "Read Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/PrivateEndpointConnections",
+  "Description": "Read Private Endpoint Connection",
+  "IsDataAction": false
+}

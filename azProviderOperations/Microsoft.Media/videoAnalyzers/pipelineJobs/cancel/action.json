@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/pipelineJobs/cancel/action",
+  "OperationName": "Cancel Pipeline Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Pipeline Job Resource",
+  "Description": "Cancel any Pipeline Job",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/VCoreMongoRequests/read",
+  "OperationName": "Read VCoreMongoRequests data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "VCoreMongoRequests",
+  "Description": "Read data from the VCoreMongoRequests table",
+  "IsDataAction": false
+}

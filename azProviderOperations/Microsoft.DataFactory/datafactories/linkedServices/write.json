@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/linkedServices/write",
+  "OperationName": "Create or Update Linked Service",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Linked Service",
+  "Description": "Creates or Updates any Linked Service.",
+  "IsDataAction": false
+}

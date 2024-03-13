@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/register/action",
+  "OperationName": "Registers the Chaos Resource Provider.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Chaos Resource Provider and enables the creation of Chaos resources.",
+  "IsDataAction": false
+}

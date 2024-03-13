@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/assign/action",
+  "OperationName": "Assign User Assigned Identity",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "User Assigned Identities",
+  "Description": "RBAC action for assigning an existing user assigned identity to a resource",
+  "IsDataAction": false
+}

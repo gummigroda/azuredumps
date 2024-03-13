@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/feedbacktype/feedback/read",
+  "OperationName": "Gets alerts feedback.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Gets alerts feedback for a given service and server.",
+  "IsDataAction": false
+}

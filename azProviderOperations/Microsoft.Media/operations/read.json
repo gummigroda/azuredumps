@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/operations/read",
+  "OperationName": "Get Available Operations",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Available Operations",
+  "Description": "Get Available Operations",
+  "IsDataAction": false
+}

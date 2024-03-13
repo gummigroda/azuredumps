@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/products/read",
+  "OperationName": "Get products associated with the API",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API associated products",
+  "Description": "Lists all Products, which the API is part of.",
+  "IsDataAction": false
+}

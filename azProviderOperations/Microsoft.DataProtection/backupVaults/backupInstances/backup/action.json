@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/backup/action",
+  "OperationName": "Backup Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Performs Backup on the Backup Instance",
+  "IsDataAction": false
+}

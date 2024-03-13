@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/unlink/action",
+  "OperationName": "Terminate the replication relationship",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Terminate the replication relationship forcefully or after synchronizing with the partner",
+  "IsDataAction": false
+}

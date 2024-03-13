@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/instances/processes/threads/read",
+  "OperationName": "Get Web Apps Instances Processes Threads",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Instances Processes Threads",
+  "Description": "Get Web Apps Instances Processes Threads.",
+  "IsDataAction": false
+}

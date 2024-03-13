@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceSkypeSignIn/Read",
+  "OperationName": "Read DeviceSkypeSignIn data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceSkypeSignIn",
+  "Description": "Read data from the DeviceSkypeSignIn table",
+  "IsDataAction": false
+}

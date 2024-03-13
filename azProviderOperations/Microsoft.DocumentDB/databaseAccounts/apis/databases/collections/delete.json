@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/delete",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Delete collection",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Collection",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Delete a collection. Only applicable to API types: 'mongodb'.",
+  "IsDataAction": false
+}

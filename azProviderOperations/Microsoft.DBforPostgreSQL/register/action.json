@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/register/action",
+  "OperationName": "Register PostgreSQL Resource Provider",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "",
+  "Description": "Register PostgreSQL Resource Provider",
+  "IsDataAction": false
+}

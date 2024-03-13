@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/userDefinedFunctions/delete",
+  "OperationName": "Delete SQL user defined function",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL User Defined Function",
+  "Description": "Delete a SQL user defined function.",
+  "IsDataAction": false
+}

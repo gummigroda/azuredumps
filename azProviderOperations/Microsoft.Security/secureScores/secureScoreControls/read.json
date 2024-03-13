@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/secureScores/secureScoreControls/read",
+  "OperationName": "Get secure score control (secure score)",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secure Score Control",
+  "Description": "Get calculated secure score control for your secure score calculation",
+  "IsDataAction": false
+}

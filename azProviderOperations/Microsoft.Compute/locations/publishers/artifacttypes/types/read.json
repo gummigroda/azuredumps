@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/publishers/artifacttypes/types/read",
+  "OperationName": "Get VMExtension Type",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "VMExtension Types",
+  "Description": "Get the properties of a VMExtension Type",
+  "IsDataAction": false
+}

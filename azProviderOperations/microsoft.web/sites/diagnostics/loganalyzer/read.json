@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/loganalyzer/read",
+  "OperationName": "Get Web Apps Diagnostics Log Analyzer",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Log Analyzer",
+  "Description": "Get Web Apps Diagnostics Log Analyzer.",
+  "IsDataAction": false
+}

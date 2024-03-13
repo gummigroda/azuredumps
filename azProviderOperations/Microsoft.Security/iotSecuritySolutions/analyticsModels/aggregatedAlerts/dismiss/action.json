@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/analyticsModels/aggregatedAlerts/dismiss/action",
+  "OperationName": "Dismiss IoT aggregated alerts",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Aggregated Alerts",
+  "Description": "Dismisses IoT aggregated alerts",
+  "IsDataAction": false
+}

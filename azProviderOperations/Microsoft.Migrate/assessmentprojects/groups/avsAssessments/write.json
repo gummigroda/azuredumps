@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/groups/avsAssessments/write",
+  "OperationName": "Create or Update AVS Assessment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "AVS Assessments",
+  "Description": "Creates a new AVS assessment or updates an existing AVS assessment",
+  "IsDataAction": false
+}

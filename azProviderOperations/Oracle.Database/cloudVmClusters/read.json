@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/read",
+  "OperationName": "CloudVmClusters_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters",
+  "Description": "Get a CloudVmCluster",
+  "IsDataAction": false
+}

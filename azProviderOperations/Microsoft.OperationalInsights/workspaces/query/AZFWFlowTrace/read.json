@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZFWFlowTrace/read",
+  "OperationName": "Read AZFWFlowTrace data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZFWFlowTrace",
+  "Description": "Read data from the AZFWFlowTrace table",
+  "IsDataAction": false
+}

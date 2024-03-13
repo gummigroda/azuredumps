@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/BlockchainProxyLog/read",
+  "OperationName": "Read BlockchainProxyLog data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "BlockchainProxyLog",
+  "Description": "Read data from the BlockchainProxyLog table",
+  "IsDataAction": false
+}

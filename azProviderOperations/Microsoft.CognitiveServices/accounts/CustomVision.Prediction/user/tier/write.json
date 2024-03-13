@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/user/tier/write",
+  "OperationName": "SetUserTier",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tier*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

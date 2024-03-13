@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/schemagroups/read",
+  "OperationName": "Get SchemaGroup",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "SchemaGroup",
+  "Description": "Get list of SchemaGroup Resource Descriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/virtualMachines/powerOff/action",
+  "OperationName": "VirtualMachines_PowerOff",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "virtualMachines",
+  "Description": "Power off the provided virtual machine.",
+  "IsDataAction": false
+}

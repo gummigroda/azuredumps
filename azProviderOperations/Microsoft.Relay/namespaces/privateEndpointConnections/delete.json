@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/privateEndpointConnections/delete",
+  "OperationName": "Removes Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Removes Private Endpoint Connection",
+  "IsDataAction": false
+}

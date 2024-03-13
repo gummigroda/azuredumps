@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Migrators",
+  "Description": "Returns a given Migrator.",
+  "IsDataAction": false
+}

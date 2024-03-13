@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get Virtual Machine Metric Definitions",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Metric Definitions",
+  "Description": "Reads Virtual Machine Metric Definitions",
+  "IsDataAction": false
+}

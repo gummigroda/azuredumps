@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/VMBoundPort/read",
+  "OperationName": "Read VMBoundPort data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "VMBoundPort",
+  "Description": "Read data from the VMBoundPort table",
+  "IsDataAction": false
+}

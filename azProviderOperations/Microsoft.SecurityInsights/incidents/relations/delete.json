@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/relations/delete",
+  "OperationName": "Delete Incident Relations",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Relations",
+  "Description": "Deletes a relation between the incident and related resources",
+  "IsDataAction": false
+}

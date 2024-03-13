@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/addVms/action",
+  "OperationName": "CloudVmClusters_AddVms",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters",
+  "Description": "Add VMs to the VM Cluster",
+  "IsDataAction": false
+}

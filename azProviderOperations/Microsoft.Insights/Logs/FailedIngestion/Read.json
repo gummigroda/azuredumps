@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/FailedIngestion/Read",
+  "OperationName": "Read FailedIngestion data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "FailedIngestion",
+  "Description": "Read data from the FailedIngestion table",
+  "IsDataAction": false
+}

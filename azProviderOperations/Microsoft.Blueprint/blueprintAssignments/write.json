@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Blueprint/blueprintAssignments/write",
+  "OperationName": "Create or update blueprint artifacts",
+  "ProviderNamespace": "Microsoft Blueprint",
+  "ResourceName": "Blueprints",
+  "Description": "Create or update any blueprint artifacts",
+  "IsDataAction": false
+}

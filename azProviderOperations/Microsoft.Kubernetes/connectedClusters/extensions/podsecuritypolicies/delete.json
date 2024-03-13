@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/podsecuritypolicies/delete",
+  "OperationName": "Deletes/DeletesCollection podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "podsecuritypolicies",
+  "Description": "Deletes podsecuritypolicies",
+  "IsDataAction": true
+}

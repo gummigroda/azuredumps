@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/rbac.authorization.k8s.io/clusterrolebindings/write",
+  "OperationName": "Creates/Updates clusterrolebindings resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Clusterrolebindings",
+  "Description": "Writes clusterrolebindings",
+  "IsDataAction": true
+}

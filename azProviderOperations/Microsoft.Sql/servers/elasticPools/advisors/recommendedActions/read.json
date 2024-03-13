@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/advisors/recommendedActions/read",
+  "OperationName": "Get recommended actions for an elastic pool",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Pool Recommended Action",
+  "Description": "Returns list of recommended actions of specified advisor for the elastic pool",
+  "IsDataAction": false
+}

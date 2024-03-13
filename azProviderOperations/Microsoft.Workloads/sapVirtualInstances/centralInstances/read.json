@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/centralInstances/read",
+  "OperationName": "SAPCentralInstances_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/centralInstances",
+  "Description": "Lists the SAP Central Instances in an SVI.",
+  "IsDataAction": false
+}

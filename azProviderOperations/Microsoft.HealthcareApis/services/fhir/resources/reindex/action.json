@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/fhir/resources/reindex/action",
+  "OperationName": "Reindex",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Allows user to run Reindex job to index any search parameters that haven't yet been indexed.",
+  "IsDataAction": true
+}

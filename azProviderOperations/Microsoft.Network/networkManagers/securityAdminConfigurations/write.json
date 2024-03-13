@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/write",
+  "OperationName": "Create Or Update Security Admin Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Configuration",
+  "Description": "Create Or Update Security Admin Configuration",
+  "IsDataAction": false
+}

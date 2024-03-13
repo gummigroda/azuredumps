@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/checkZonePeers/action",
+  "OperationName": "检查区域对等",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "",
+  "Description": "检查区域对等",
+  "IsDataAction": false
+}

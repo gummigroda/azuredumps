@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/register/action",
+  "OperationName": "Register Portal",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "",
+  "Description": "Register to Portal",
+  "IsDataAction": false
+}

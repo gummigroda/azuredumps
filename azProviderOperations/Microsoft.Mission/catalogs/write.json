@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/catalogs/write",
+  "OperationName": "Catalog_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "catalogs",
+  "Description": "Update a CatalogResource",
+  "IsDataAction": false
+}

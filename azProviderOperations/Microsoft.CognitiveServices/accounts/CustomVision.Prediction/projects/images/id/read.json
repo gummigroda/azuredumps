@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/images/id/read",
+  "OperationName": "GetImagesByIds",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "id*",
+  "Description": "This API will return a set of Images for the specified tags and optionally iteration. If no iteration is specified the",
+  "IsDataAction": true
+}

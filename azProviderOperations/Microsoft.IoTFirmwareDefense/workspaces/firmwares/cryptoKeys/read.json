@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/cryptoKeys/read",
+  "OperationName": "CryptoKeys_ListByFirmware",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/cryptoKeys",
+  "Description": "Lists cryptographic key analysis results found in a firmware.",
+  "IsDataAction": false
+}

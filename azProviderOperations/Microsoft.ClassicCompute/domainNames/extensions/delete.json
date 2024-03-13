@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/extensions/delete",
+  "OperationName": "Remove Domain Name Extensions",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name Extension",
+  "Description": "Remove the domain name extensions.",
+  "IsDataAction": false
+}

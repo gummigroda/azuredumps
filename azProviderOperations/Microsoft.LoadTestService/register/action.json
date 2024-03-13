@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/register/action",
+  "OperationName": "Register the Microsoft.LoadTestService",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.LoadTestService",
+  "IsDataAction": false
+}

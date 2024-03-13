@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/sites/Delete",
+  "OperationName": "Deletes site in a migrate project resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/sites",
+  "Description": "Deletes migrate project site",
+  "IsDataAction": false
+}

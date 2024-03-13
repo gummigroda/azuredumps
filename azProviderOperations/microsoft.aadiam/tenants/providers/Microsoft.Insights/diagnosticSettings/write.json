@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/tenants/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "tenants",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

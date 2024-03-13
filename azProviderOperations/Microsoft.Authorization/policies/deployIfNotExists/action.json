@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policies/deployIfNotExists/action",
+  "OperationName": "'deployIfNotExists' Policy action.",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy evaluation",
+  "Description": "Action taken as a result of evaluation of Azure Policy with 'deployIfNotExists' effect",
+  "IsDataAction": false
+}

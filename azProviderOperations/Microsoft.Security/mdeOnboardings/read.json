@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/mdeOnboardings/read",
+  "OperationName": "MDE Onboarding",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "MDE Onboarding",
+  "Description": "Get Microsoft Defender for Endpoint onboarding script",
+  "IsDataAction": false
+}

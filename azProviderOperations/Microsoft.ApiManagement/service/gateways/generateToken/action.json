@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/generateToken/action",
+  "OperationName": "Get token",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "Gets the Shared Access Authorization Token for the gateway.",
+  "IsDataAction": false
+}

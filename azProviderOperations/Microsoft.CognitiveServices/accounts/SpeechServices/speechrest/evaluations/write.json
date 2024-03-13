@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/evaluations/write",
+  "OperationName": "Create or update an evaluation",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Evaluations",
+  "Description": "Create or update an evaluation",
+  "IsDataAction": true
+}

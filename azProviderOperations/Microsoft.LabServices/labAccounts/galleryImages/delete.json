@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/galleryImages/delete",
+  "OperationName": "Delete gallery images.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Gallery Images",
+  "Description": "Delete gallery images.",
+  "IsDataAction": false
+}

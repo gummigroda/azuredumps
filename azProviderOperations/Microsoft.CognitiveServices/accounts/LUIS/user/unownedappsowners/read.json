@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/user/unownedappsowners/read",
+  "OperationName": "user - GetUserUnownedAppsOwners",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "unownedappsowners*",
+  "Description": "Gets owners of the apps that user collaborates on.",
+  "IsDataAction": true
+}

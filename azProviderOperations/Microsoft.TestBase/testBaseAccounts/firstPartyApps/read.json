@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/firstPartyApps/read",
+  "OperationName": "FirstPartyApps_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/firstPartyApps",
+  "Description": "Gets a first party application to prepare a test run for a Test Base Account.",
+  "IsDataAction": false
+}

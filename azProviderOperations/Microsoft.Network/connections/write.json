@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/write",
+  "OperationName": "Create or update VirtualNetworkGatewayConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection",
+  "Description": "Creates or updates an existing VirtualNetworkGatewayConnection",
+  "IsDataAction": false
+}

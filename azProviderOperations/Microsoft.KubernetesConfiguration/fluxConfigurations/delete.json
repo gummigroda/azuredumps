@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/fluxConfigurations/delete",
+  "OperationName": "Microsoft.KubernetesConfiguration/fluxConfigurations/delete",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/fluxConfigurations",
+  "Description": "Deletes flux configuration.",
+  "IsDataAction": false
+}

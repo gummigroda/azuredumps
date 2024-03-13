@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Microsoft Power BI Dedicated metrics",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Gets the available metrics for Power BI Dedicated Capacity.",
+  "IsDataAction": false
+}

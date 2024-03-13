@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/locations/environments/clusterVersions/read",
+  "OperationName": "Read Cluster Version By Environment",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Cluster Versions By Environment",
+  "Description": "Read any Cluster Version for a specific environment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/sessionpools/write",
+  "OperationName": "Create or Update Session Pool",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Session Pool",
+  "Description": "Create or Update a Session Pool",
+  "IsDataAction": false
+}

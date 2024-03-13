@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/privateLinkResources/read",
+  "OperationName": "Get Private Link Resources",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Link Resources",
+  "Description": "Get a list of Private Link Resources",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/spatialMapsAccounts/read",
+  "OperationName": "spatialMapsAccounts_GetData",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "spatialMapsAccounts",
+  "Description": "Returns spatialMapsAccounts data for a given name.",
+  "IsDataAction": true
+}

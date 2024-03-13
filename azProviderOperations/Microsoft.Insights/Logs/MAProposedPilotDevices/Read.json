@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAProposedPilotDevices/Read",
+  "OperationName": "Read MAProposedPilotDevices data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAProposedPilotDevices",
+  "Description": "Read data from the MAProposedPilotDevices table",
+  "IsDataAction": false
+}

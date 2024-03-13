@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/investigations/write",
+  "OperationName": "Creates or updates Investigation",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "investigations",
+  "Description": "Set Investigation",
+  "IsDataAction": false
+}

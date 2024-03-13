@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MetricAlerts/Delete",
+  "OperationName": "Delete metric alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metric Alerts",
+  "Description": "Delete a metric alert",
+  "IsDataAction": false
+}

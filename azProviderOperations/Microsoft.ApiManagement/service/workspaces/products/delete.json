@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/delete",
+  "OperationName": "Remove product",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Products",
+  "Description": "Delete product.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/apimanagementaccounts/apis/apiacls/delete",
+  "OperationName": "Delete Api Management Accounts APIs Apiacls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Api Management Accounts APIs Apiacls",
+  "Description": "Delete Api Management Accounts APIs Apiacls.",
+  "IsDataAction": false
+}

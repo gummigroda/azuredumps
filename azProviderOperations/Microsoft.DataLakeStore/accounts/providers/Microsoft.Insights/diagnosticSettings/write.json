@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update DataLakeStore Account diagnostic settings",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Diagnostic Setting",
+  "Description": "Create or update the diagnostic settings for the DataLakeStore account.",
+  "IsDataAction": false
+}

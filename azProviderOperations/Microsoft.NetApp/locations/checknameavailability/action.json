@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/locations/checknameavailability/action",
+  "OperationName": "Check if resource name is available",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "NetApp resources",
+  "Description": "Check if resource name is available",
+  "IsDataAction": false
+}

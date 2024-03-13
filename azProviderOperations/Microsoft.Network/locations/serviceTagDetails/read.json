@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/serviceTagDetails/read",
+  "OperationName": "GetServiceTagDetails",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ServiceTagInformation resource",
+  "Description": "GetServiceTagDetails",
+  "IsDataAction": false
+}

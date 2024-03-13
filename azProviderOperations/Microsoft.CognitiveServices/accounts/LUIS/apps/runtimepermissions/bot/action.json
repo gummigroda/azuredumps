@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/runtimepermissions/bot/action",
+  "OperationName": "bot - AddAppBotRuntimePermissions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "runtimepermissions*",
+  "Description": "Adds a bot runtime permission to the application",
+  "IsDataAction": true
+}

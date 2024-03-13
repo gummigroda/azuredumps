@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/Favorites/Read",
+  "OperationName": "Application Insights favorites read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights favorites",
+  "Description": "Reading an Application Insights favorite",
+  "IsDataAction": false
+}

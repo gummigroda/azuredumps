@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HDInsightHiveQueryAppStats/read",
+  "OperationName": "Read HDInsightHiveQueryAppStats data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HDInsightHiveQueryAppStats",
+  "Description": "Read data from the HDInsightHiveQueryAppStats table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/read",
+  "OperationName": "Get server threat detection policy",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Server Threat Detection Policy",
+  "Description": "Retrieve details of the server threat detection policy configured on a given server",
+  "IsDataAction": false
+}

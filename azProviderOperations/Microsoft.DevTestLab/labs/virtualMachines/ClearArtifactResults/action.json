@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/ClearArtifactResults/action",
+  "OperationName": "Clear artifact results",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Clears the artifact results of the virtual machine.",
+  "IsDataAction": false
+}

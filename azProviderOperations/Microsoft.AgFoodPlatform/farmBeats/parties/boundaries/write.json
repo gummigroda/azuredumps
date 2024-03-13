@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/parties/boundaries/write",
+  "OperationName": "Create or Update AgFoodPlatform boundaries.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform boundaries",
+  "Description": "Creates or Updates AgFoodPlatform boundaries.",
+  "IsDataAction": true
+}

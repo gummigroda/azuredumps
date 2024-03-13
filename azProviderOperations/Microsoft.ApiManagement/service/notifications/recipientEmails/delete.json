@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/notifications/recipientEmails/delete",
+  "OperationName": "Removes email associated with notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Emails associated with a notification",
+  "Description": "Removes the email from the list of Notification.",
+  "IsDataAction": false
+}

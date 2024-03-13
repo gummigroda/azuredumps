@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/locations/privateLinkScopes/read",
+  "OperationName": "Read Azure Arc privateLinkScopes details",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "privateLinkScopes",
+  "Description": "Reads the full details of any Azure Arc privateLinkScopes",
+  "IsDataAction": false
+}

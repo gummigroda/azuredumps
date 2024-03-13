@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/schema/read",
+  "OperationName": "Get Search Schema",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Search Schema",
+  "Description": "Gets the search schema for the workspace.  Search schema includes the exposed fields and their types.",
+  "IsDataAction": false
+}

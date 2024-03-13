@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/ObjectAnchorsAccounts/delete",
+  "OperationName": "Delete an Object Anchors account",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "ObjectAnchorsAccounts",
+  "Description": "Delete an Object Anchors account",
+  "IsDataAction": false
+}

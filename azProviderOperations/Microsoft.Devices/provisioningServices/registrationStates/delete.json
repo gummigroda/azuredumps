@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/registrationStates/delete",
+  "OperationName": "Delete Registration States",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "provisioningServices",
+  "Description": "Delete Registration States",
+  "IsDataAction": true
+}

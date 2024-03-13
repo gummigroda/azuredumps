@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid filter.",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "EventGridFilters",
+  "Description": "Creates or Updates the Event Grid filter associated with the namespace.",
+  "IsDataAction": false
+}

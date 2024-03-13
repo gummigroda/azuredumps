@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MetricAlerts/Write",
+  "OperationName": "Create or update metric alert",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Metric Alerts",
+  "Description": "Create or update a metric alert",
+  "IsDataAction": false
+}

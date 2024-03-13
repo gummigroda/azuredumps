@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/marketplace/purchase/action",
+  "OperationName": "购买资源",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "市场",
+  "Description": "从市场购买资源。",
+  "IsDataAction": false
+}

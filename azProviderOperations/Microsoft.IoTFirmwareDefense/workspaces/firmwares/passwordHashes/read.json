@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/passwordHashes/read",
+  "OperationName": "PasswordHashes_ListByFirmware",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/passwordHashes",
+  "Description": "Lists password hash analysis results of a firmware.",
+  "IsDataAction": false
+}

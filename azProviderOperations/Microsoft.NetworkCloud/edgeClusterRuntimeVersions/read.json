@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusterRuntimeVersions/read",
+  "OperationName": "EdgeClusterRuntimeVersions_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusterRuntimeVersions",
+  "Description": "Get the properties of the specified edge cluster runtime version.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/checkDefaultStorageAccountStatus/action",
+  "OperationName": "Checks Default Storage Account Status.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Workspaces",
+  "Description": "Checks Default Storage Account Status.",
+  "IsDataAction": false
+}

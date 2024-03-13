@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/delete",
+  "OperationName": "Delete Azure SQL Sync Group",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Deletes an existing sync group.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/modules/getCount/action",
+  "OperationName": "Get the count of Powershell modules within the Automation Account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Powershell Module",
+  "Description": "Gets the count of Powershell modules within the Automation Account",
+  "IsDataAction": false
+}

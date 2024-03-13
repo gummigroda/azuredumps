@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/identityProviders/read",
+  "OperationName": "Get Identity providers list or Get Identity Provider details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Identity Providers",
+  "Description": "Lists a collection of Identity Provider configured in the specified service instance. or Gets the configuration details of the identity Provider without secrets.",
+  "IsDataAction": false
+}

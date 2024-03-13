@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/regenerateTestKey/action",
+  "OperationName": "Regenerate a test endpoint key of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Azure Spring Apps service instance",
+  "Description": "Regenerate test key for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

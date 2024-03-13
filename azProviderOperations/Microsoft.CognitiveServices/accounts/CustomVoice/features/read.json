@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/features/read",
+  "OperationName": "Gets a list of allowed features.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Features",
+  "Description": "Gets a list of allowed features.",
+  "IsDataAction": true
+}

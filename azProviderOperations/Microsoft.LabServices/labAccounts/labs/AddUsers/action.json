@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/AddUsers/action",
+  "OperationName": "Add users",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Labs",
+  "Description": "Add users to a lab",
+  "IsDataAction": false
+}

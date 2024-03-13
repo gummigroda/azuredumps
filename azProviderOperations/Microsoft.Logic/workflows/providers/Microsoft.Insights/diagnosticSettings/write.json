@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Set Workflow Diagnostic Setting",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow Diagnostic Setting",
+  "Description": "Creates or updates the workflow diagnostic setting.",
+  "IsDataAction": false
+}

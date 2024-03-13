@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/fileSystems/write",
+  "OperationName": "FileSystems_Update",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "fileSystems",
+  "Description": "Update a FileSystemResource",
+  "IsDataAction": false
+}

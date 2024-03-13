@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/register/action",
+  "OperationName": "Registers the Microsoft.Dashboard Resource Provider",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft.Dashboard resource provider",
+  "IsDataAction": false
+}

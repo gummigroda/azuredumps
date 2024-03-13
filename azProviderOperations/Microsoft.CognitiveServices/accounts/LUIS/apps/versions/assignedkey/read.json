@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/assignedkey/read",
+  "OperationName": "versions - Get application version subscription key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "assignedkey*",
+  "Description": "**THIS IS DEPRECATED**",
+  "IsDataAction": true
+}

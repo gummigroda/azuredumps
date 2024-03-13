@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/unregister/action",
+  "OperationName": "Unregister the Microsoft.DatabaseWatcher",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.DatabaseWatcher",
+  "IsDataAction": false
+}

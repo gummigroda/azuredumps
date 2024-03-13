@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/packetFlowDescriptions/delete",
+  "OperationName": "PacketFlowDescriptions_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/packetFlowDescriptions",
+  "Description": "Deletes the specified Mobile Packet Core Packet Flow Description resource",
+  "IsDataAction": false
+}

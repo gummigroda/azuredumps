@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/customCertificates/write",
+  "OperationName": "",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/CustomCertificates",
+  "Description": "",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/getDefaultAccount/read",
+  "OperationName": "Get Default Account",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Tenant",
+  "Description": "Gets the default account for the scope.",
+  "IsDataAction": false
+}

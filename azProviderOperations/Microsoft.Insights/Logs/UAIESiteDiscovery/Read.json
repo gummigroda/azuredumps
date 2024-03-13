@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAIESiteDiscovery/Read",
+  "OperationName": "Read UAIESiteDiscovery data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAIESiteDiscovery",
+  "Description": "Read data from the UAIESiteDiscovery table",
+  "IsDataAction": false
+}

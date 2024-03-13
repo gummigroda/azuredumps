@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/remediations/read",
+  "OperationName": "Get Policy Remediations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Remediations",
+  "Description": "Get policy remediations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/databases/delete",
+  "OperationName": "Delete MySQL Server Database",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Database",
+  "Description": "Deletes an existing database.",
+  "IsDataAction": false
+}

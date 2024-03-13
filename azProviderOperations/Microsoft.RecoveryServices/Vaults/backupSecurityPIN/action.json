@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupSecurityPIN/action",
+  "OperationName": "Get Security PIN Info",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Returns Security PIN Information for Recovery Services Vault.",
+  "IsDataAction": false
+}

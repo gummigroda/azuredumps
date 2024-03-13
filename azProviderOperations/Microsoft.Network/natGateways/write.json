@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/natGateways/write",
+  "OperationName": "Creates or Updates a Nat Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Nat Gateway",
+  "Description": "Creates an Nat Gateway Or Updates An Existing Nat Gateway",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/ledgers/write",
+  "OperationName": "Ledger_Update",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "ledgers",
+  "Description": "Updates properties of Confidential Ledger",
+  "IsDataAction": false
+}

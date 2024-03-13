@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/user/read",
+  "OperationName": "Read User",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/User",
+  "Description": "Check user existence",
+  "IsDataAction": true
+}

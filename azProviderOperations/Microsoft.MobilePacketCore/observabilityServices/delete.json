@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/observabilityServices/delete",
+  "OperationName": "ObservabilityServices_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "observabilityServices",
+  "Description": "Delete a ObservabilityServiceResource",
+  "IsDataAction": false
+}

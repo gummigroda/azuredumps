@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/applicationLiveViews/read",
+  "OperationName": "Get Microsoft Azure Spring Apps Application Live View",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Application Live View of Microsoft Azure Spring Apps",
+  "Description": "Get the Application Live View for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

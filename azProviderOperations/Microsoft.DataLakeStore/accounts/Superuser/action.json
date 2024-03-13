@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/Superuser/action",
+  "OperationName": "Grant Superuser",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Account",
+  "Description": "Grant Superuser on Data Lake Store when granted with Microsoft.Authorization/roleAssignments/write.",
+  "IsDataAction": false
+}

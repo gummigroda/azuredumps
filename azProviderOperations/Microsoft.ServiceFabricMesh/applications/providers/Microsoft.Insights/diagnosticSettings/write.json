@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabricMesh/applications/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft ServiceFabricMesh",
+  "ResourceName": "Applications",
+  "Description": "Creates or updates the diagnostic setting for the resource",
+  "IsDataAction": false
+}

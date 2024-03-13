@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connections/Move/Action",
+  "OperationName": "Move Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Moves a Connection.",
+  "IsDataAction": false
+}

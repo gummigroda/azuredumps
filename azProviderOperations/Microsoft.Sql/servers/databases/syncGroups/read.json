@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/read",
+  "OperationName": "List/Get Azure SQL Sync Group(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Return the list of sync groups or gets the properties for the specified sync group.",
+  "IsDataAction": false
+}

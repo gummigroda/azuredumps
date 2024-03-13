@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/nodes/restart/action",
+  "OperationName": "EdgeClusterNodes_Restart",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters/nodes",
+  "Description": "Restarts the edge cluster node.",
+  "IsDataAction": false
+}

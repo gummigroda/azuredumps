@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/failoverPriorityChange/action",
+  "OperationName": "Manual Failover",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Change failover priorities of regions of a database account. This is used to perform manual failover operation",
+  "IsDataAction": false
+}

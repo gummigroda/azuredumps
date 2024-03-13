@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/endpoints/read",
+  "OperationName": "Get Endpoints",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "endpoints*",
+  "Description": "Gets the list of endpoints for specified project.",
+  "IsDataAction": true
+}

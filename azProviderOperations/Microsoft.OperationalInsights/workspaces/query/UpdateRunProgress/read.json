@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UpdateRunProgress/read",
+  "OperationName": "Read UpdateRunProgress data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UpdateRunProgress",
+  "Description": "Read data from the UpdateRunProgress table",
+  "IsDataAction": false
+}

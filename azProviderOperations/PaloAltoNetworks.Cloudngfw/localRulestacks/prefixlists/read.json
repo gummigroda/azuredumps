@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/prefixlists/read",
+  "OperationName": "PrefixListLocalRulestack_Get",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/prefixlists",
+  "Description": "Get a PrefixListResource",
+  "IsDataAction": false
+}

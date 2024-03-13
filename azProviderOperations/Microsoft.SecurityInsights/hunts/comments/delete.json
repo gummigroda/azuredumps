@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/hunts/comments/delete",
+  "OperationName": "Delete Hunt Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Hunt Comments",
+  "Description": "Deletes Hunt Comments",
+  "IsDataAction": false
+}

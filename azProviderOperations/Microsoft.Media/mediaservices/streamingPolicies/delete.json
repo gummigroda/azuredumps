@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingPolicies/delete",
+  "OperationName": "Delete Streaming Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Policy",
+  "Description": "Delete any Streaming Policy",
+  "IsDataAction": false
+}

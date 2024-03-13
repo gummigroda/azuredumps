@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/WorkloadMonitoringPerf/Read",
+  "OperationName": "Read WorkloadMonitoringPerf data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WorkloadMonitoringPerf",
+  "Description": "Read data from the WorkloadMonitoringPerf table",
+  "IsDataAction": false
+}

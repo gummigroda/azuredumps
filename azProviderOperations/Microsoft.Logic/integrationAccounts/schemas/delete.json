@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/schemas/delete",
+  "OperationName": "Delete Integration Account Schema",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Schema",
+  "Description": "Deletes the schema in integration account.",
+  "IsDataAction": false
+}

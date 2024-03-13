@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Delete virtual network or subnets notifications",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Location",
+  "Description": "Notifies Microsoft.Storage that virtual network or subnet is being deleted",
+  "IsDataAction": false
+}

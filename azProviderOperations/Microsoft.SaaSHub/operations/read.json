@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

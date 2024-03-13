@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/approveRollingUpgrade/action",
+  "OperationName": "Approve deferred rolling upgrades for a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Scale Sets",
+  "Description": "Approves deferred rolling upgrades for the instances of a Virtual Machine Scale Set ",
+  "IsDataAction": false
+}

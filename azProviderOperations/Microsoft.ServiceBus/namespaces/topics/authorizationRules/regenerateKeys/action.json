@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/topics/authorizationRules/regenerateKeys/action",
+  "OperationName": "Resource Regeneratekeys",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Topic AuthorizationRules",
+  "Description": "Regenerate the Primary or Secondary key to the Resource",
+  "IsDataAction": false
+}

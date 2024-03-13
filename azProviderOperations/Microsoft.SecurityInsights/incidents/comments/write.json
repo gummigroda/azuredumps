@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/comments/write",
+  "OperationName": "Create Incident Comments",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incident Comments",
+  "Description": "Creates a comment on the incident",
+  "IsDataAction": false
+}

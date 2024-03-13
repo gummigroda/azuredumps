@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/locations/getNetworkPolicies/action",
+  "OperationName": "Get Subnet Network Intent Polices",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Get Network Intent Policies",
+  "Description": "Get Network Intent Polices for a subnet based on the location used by NRP",
+  "IsDataAction": false
+}

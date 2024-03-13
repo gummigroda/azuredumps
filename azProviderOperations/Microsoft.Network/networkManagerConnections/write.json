@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagerConnections/write",
+  "OperationName": "Create Or Update Network Manager Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager Connection",
+  "Description": "Create Or Update Network Manager Connection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/regenerateAuthKey/action",
+  "OperationName": "Regenerate auth key of an Integration Runtime",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Regenerate auth key of any Integration Runtime",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks/write",
+  "OperationName": "AttachedDataNetworks_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedDataNetworks",
+  "Description": "Updates an attached data network tags.",
+  "IsDataAction": false
+}

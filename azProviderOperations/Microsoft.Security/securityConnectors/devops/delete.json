@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/delete",
+  "OperationName": "Configurations_Delete",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps",
+  "Description": "Deletes a DevOps Connector.",
+  "IsDataAction": false
+}

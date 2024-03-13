@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/addsservices/write",
+  "OperationName": "Creates or Updates the ADDomainService.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "ADDomainService",
+  "Description": "Creates or Updates the ADDomainService instance for the tenant.",
+  "IsDataAction": false
+}

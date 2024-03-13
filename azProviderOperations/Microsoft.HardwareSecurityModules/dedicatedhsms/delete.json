@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HardwareSecurityModules/dedicatedhsms/delete",
+  "OperationName": "Delete DedicatedHsm",
+  "ProviderNamespace": "Microsoft Hardware Security Modules",
+  "ResourceName": "DedicatedHsm",
+  "Description": "Delete a DedicatedHsm",
+  "IsDataAction": false
+}

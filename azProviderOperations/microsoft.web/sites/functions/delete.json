@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/functions/delete",
+  "OperationName": "Delete Web Apps Functions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Functions",
+  "Description": "Delete Web Apps Functions.",
+  "IsDataAction": false
+}

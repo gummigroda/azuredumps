@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/contextualServiceEndpointPolicies/delete",
+  "OperationName": "Delete Contextual Service Endpoint Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Contextual Service Endpoint Policies",
+  "Description": "Deletes A Contextual Service Endpoint Policy",
+  "IsDataAction": false
+}

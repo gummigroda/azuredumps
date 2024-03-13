@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineendpoints/listkeys/action",
+  "OperationName": "Retrieve auth keys to score Online Endpoints in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Retrieve auth keys to score Online Endpoints in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

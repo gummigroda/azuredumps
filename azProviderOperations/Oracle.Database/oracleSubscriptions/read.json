@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/oracleSubscriptions/read",
+  "OperationName": "OracleSubscriptions_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "oracleSubscriptions",
+  "Description": "Get a OracleSubscription",
+  "IsDataAction": false
+}

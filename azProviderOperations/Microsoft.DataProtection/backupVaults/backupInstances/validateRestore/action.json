@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/validateRestore/action",
+  "OperationName": "Validate for Restore of Backup Instance",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Validates for Restore of the Backup Instance",
+  "IsDataAction": false
+}

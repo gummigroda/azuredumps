@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/vmwarecollectors/read",
+  "OperationName": "Get VMware collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "VMware Collector",
+  "Description": "Gets the properties of VMware collector",
+  "IsDataAction": false
+}

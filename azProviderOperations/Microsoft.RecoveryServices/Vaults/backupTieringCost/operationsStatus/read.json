@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupTieringCost/operationsStatus/read",
+  "OperationName": "Get tiering cost operation status",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Tiering Costs Operation Status",
+  "Description": "Returns the status of Operation performed for tiering cost",
+  "IsDataAction": false
+}

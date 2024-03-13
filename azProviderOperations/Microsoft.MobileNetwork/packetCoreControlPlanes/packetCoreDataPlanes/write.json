@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/write",
+  "OperationName": "PacketCoreDataPlanes_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes",
+  "Description": "Updates packet core data planes tags.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/syncMembers/refreshSchema/action",
+  "OperationName": "Refresh Azure SQL Sync Member atabase schema",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Refresh sync member schema",
+  "IsDataAction": false
+}

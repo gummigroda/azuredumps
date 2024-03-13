@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/usages/read",
+  "OperationName": "Get Usage Metric",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Usage Metric",
+  "Description": "Gets the resources usage metrics",
+  "IsDataAction": false
+}

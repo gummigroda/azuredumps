@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/register/action",
+  "OperationName": "Register the Microsoft.Easm",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Easm",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/ExportConnections/ExportJobs/read",
+  "OperationName": "Read ExportJobs",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ExportJobs",
+  "Description": "Read ExportJobs",
+  "IsDataAction": false
+}

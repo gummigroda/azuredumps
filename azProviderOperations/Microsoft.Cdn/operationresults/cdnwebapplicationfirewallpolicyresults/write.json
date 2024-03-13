@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/operationresults/cdnwebapplicationfirewallpolicyresults/write",
+  "OperationName": "write",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "WebApplicationFirewallPolicy",
+  "Description": null,
+  "IsDataAction": false
+}

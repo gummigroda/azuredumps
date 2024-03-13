@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/read",
+  "OperationName": "workbenches_Get",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches",
+  "Description": "read workbenches",
+  "IsDataAction": false
+}

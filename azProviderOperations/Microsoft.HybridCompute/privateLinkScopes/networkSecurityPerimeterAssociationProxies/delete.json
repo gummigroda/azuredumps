@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridCompute/privateLinkScopes/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete Azure Arc networkSecurityPerimeterAssociationProxies",
+  "ProviderNamespace": "Microsoft HybridCompute",
+  "ResourceName": "networkSecurityPerimeterAssociationProxies",
+  "Description": "Deletes an Azure Arc networkSecurityPerimeterAssociationProxies",
+  "IsDataAction": false
+}

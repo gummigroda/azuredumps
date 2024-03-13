@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Create NetworkSecurityPerimeterAssociationProxies",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Security Perimeter Association Proxies",
+  "Description": "Create NetworkSecurityPerimeterAssociationProxies",
+  "IsDataAction": false
+}

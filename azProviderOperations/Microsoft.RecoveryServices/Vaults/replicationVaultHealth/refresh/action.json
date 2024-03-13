@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationVaultHealth/refresh/action",
+  "OperationName": "Refresh Vault Health",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vault Replication Health",
+  "Description": "Refresh Vault Health",
+  "IsDataAction": false
+}

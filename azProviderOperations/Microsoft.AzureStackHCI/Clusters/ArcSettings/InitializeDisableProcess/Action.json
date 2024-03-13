@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/InitializeDisableProcess/Action",
+  "OperationName": "Initializes disable process for arc settings resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings",
+  "Description": "Initializes disable process for arc settings resource",
+  "IsDataAction": false
+}

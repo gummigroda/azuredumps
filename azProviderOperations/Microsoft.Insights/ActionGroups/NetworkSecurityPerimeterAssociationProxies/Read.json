@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/actionGroups/NetworkSecurityPerimeterAssociationProxies/Read",
+  "OperationName": "Read action group endpoint NSP association proxy",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action group endpoint NSP association proxy",
+  "Description": "Read a action group endpoint NSP association proxy",
+  "IsDataAction": false
+}

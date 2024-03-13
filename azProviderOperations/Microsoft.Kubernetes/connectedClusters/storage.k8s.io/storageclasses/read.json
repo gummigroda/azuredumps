@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/storageclasses/read",
+  "OperationName": "Gets/List storageclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "storageclasses",
+  "Description": "Reads storageclasses",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/spatialAnchorsAccounts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read the spatialAnchorsAccounts diagnostic setting",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "The metric definition of spatialAnchorsAccounts",
+  "Description": "Gets the diagnostic setting for Microsoft.MixedReality/spatialAnchorsAccounts",
+  "IsDataAction": false
+}

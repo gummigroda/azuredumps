@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/azureResourceName/privateEndpointConnectionProxies/privateEndpointName.privateEndpointGuid/validate/action",
+  "OperationName": "Validates a private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Validates a private endpoint connection proxy before create or update.",
+  "IsDataAction": false
+}

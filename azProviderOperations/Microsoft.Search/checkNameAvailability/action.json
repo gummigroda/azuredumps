@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/checkNameAvailability/action",
+  "OperationName": "Check Service Name Availability",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "",
+  "Description": "Checks availability of the service name.",
+  "IsDataAction": false
+}

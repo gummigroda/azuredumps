@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Webtests/Metrics/Read",
+  "OperationName": "Webtest metrics read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Webtest metrics",
+  "Description": "Reading a webtest metrics",
+  "IsDataAction": false
+}

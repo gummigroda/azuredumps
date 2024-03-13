@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/storageClasses/delete",
+  "OperationName": "StorageClass_Delete",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "storageClasses",
+  "Description": "Delete a StorageClassResource",
+  "IsDataAction": false
+}

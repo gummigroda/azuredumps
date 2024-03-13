@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Peering/peerAsns/write",
+  "OperationName": "Write PeerAsn",
+  "ProviderNamespace": "Microsoft.Peering",
+  "ResourceName": "peerAsns",
+  "Description": "Write any peerAsns",
+  "IsDataAction": false
+}

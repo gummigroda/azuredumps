@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/action",
+  "OperationName": "Send notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspaces",
+  "Description": "Sends notification to a specified user",
+  "IsDataAction": false
+}

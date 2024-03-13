@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/videos/delete",
+  "OperationName": "Delete Video",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Video Resource",
+  "Description": "Delete any Video",
+  "IsDataAction": false
+}

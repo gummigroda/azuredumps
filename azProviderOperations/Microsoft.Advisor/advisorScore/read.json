@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/advisorScore/read",
+  "OperationName": "Gets Advisor score",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "AdvisorScore",
+  "Description": "Gets the score data for given subscription",
+  "IsDataAction": false
+}

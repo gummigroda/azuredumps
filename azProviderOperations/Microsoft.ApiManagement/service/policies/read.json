@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policies/read",
+  "OperationName": "Get Tenant policies or Get Tenant policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Lists all the Global Policy definitions of the Api Management service. or Get the Global policy definition of the Api Management service.",
+  "IsDataAction": false
+}

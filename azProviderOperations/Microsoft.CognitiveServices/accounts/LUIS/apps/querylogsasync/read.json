@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/querylogsasync/read",
+  "OperationName": "Apps - Get the asynchronously loaded query logs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps - Query logs async",
+  "Description": "Get the status of the download request for query logs.",
+  "IsDataAction": true
+}

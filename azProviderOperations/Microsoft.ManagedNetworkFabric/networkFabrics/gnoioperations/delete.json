@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoioperations/delete",
+  "OperationName": "GNOIOperations_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoioperations",
+  "Description": "Delete the GNOIOperation resource.",
+  "IsDataAction": false
+}

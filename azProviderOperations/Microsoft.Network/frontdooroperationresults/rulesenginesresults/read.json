@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdooroperationresults/rulesenginesresults/read",
+  "OperationName": "Gets Rules Engine operation result",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Rules Engine",
+  "Description": "Gets Rules Engine operation result",
+  "IsDataAction": false
+}

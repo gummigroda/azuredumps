@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/locations/operations/read",
+  "OperationName": "Read operations.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "operations",
+  "Description": "Read operations.",
+  "IsDataAction": false
+}

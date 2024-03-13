@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevOpsInfrastructure/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.DevOpsInfrastructure",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

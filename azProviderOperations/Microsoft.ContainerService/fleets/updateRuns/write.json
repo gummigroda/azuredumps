@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/updateRuns/write",
+  "OperationName": "Create or Update a fleet update run",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "UpdateRuns",
+  "Description": "Create or Update a fleet update run",
+  "IsDataAction": false
+}

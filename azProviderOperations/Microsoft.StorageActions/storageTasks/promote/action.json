@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageActions/storageTasks/promote/action",
+  "OperationName": "Promote Storage Task Version",
+  "ProviderNamespace": "Microsoft Storage Actions",
+  "ResourceName": "Storage Task",
+  "Description": "Promote specific version of storage task to current version",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkFunction/azureTrafficCollectors/read",
+  "OperationName": "GetAzureTrafficCollector",
+  "ProviderNamespace": "MicrosoftNetworkFunction",
+  "ResourceName": "AzureTrafficCollector",
+  "Description": "GetAzureTrafficCollector",
+  "IsDataAction": false
+}

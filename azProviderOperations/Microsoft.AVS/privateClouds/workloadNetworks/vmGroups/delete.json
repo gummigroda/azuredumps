@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/delete",
+  "OperationName": "Delete vmGroups",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/vmGroups",
+  "Description": "Delete vmGroups.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/ipv6FirewallRules/read",
+  "OperationName": "List/Get IPv6 Server firewall rule(s)",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "IPv6 Server Firewall Rule",
+  "Description": "Return the list of IPv6 server firewall rules or gets the properties for the specified server firewall rule.",
+  "IsDataAction": false
+}

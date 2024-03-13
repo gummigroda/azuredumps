@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/NotificationStatus/Read",
+  "OperationName": "Get the test notification status",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Get notification status",
+  "Description": "Get the test notification status/detail",
+  "IsDataAction": false
+}

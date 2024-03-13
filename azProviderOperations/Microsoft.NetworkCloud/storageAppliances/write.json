@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/storageAppliances/write",
+  "OperationName": "StorageAppliances_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "storageAppliances",
+  "Description": "Update properties of the provided storage appliance, or update tags associated with the storage appliance Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/acssBackups/write",
+  "OperationName": "ACSSBackupConnections_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/acssBackups",
+  "Description": "Updates the backup connection resource of virtual instance for SAP. <br><br>This can be used to update tags on the resource.",
+  "IsDataAction": false
+}

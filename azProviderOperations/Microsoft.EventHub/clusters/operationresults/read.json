@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/clusters/operationresults/read",
+  "OperationName": "Get Cluster Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Non Resource Operation",
+  "Description": "Get the status of an asynchronous cluster operation.",
+  "IsDataAction": false
+}

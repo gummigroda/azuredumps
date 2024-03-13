@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/groups/delete",
+  "OperationName": "Delete group with product association",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Developer groups associated with product",
+  "Description": "Deletes the association between the specified group and product.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/encrypt/action",
+  "OperationName": "Encrypt with Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Encrypts plaintext with a key. Note that if the key is asymmetric, this operation can be performed by principals with read access.",
+  "IsDataAction": true
+}

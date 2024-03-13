@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/write",
+  "OperationName": "VirtualEndpoint Patch operation",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL - Flexible Server Virtual Endpoint",
+  "Description": "Patches the VirtualEndpoint. Currently patch does a full replace",
+  "IsDataAction": false
+}

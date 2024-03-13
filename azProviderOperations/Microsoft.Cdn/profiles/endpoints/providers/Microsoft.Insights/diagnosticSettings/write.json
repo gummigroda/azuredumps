@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/endpoints/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic settings",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "profiles/endpoints",
+  "Description": "Creates or updates the diagnostic settings for the resource",
+  "IsDataAction": false
+}

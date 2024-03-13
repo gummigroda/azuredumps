@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/insights/read",
+  "OperationName": "Insights_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "insights",
+  "Description": "Gets a list of Workloads Insight instances in the specified subscription. The operations returns various properties of each instance.",
+  "IsDataAction": false
+}

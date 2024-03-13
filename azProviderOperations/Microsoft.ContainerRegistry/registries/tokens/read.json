@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/tokens/read",
+  "OperationName": "Get token or List tokens",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Tokens",
+  "Description": "Gets the properties of the specified token or lists all the tokens for the specified container registry.",
+  "IsDataAction": false
+}

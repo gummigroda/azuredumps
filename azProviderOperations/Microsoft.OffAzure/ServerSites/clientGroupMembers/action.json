@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/clientGroupMembers/action",
+  "OperationName": "Generate client group members view",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Generate client group members view with dependency map data",
+  "IsDataAction": false
+}

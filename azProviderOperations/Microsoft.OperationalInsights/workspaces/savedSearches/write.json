@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/savedSearches/write",
+  "OperationName": "Create Saved Search",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Saved Search",
+  "Description": "Creates a saved search query",
+  "IsDataAction": false
+}

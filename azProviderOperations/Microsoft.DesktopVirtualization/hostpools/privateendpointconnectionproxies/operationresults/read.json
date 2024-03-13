@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/privateendpointconnectionproxies/operationresults/read",
+  "OperationName": "operationresults",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/privateendpointconnectionproxies/operationresults",
+  "Description": "Gets operation result on private endpoint connection proxy",
+  "IsDataAction": false
+}

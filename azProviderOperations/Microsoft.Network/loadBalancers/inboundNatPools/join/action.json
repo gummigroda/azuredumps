@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/inboundNatPools/join/action",
+  "OperationName": "Join Load Balancer Inbound Nat Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Inbound Nat Pool",
+  "Description": "Joins a load balancer inbound NAT pool. Not alertable.",
+  "IsDataAction": false
+}

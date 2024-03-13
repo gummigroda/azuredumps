@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MicrosoftAzureBastionAuditLogs/read",
+  "OperationName": "Read MicrosoftAzureBastionAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MicrosoftAzureBastionAuditLogs",
+  "Description": "Read data from the MicrosoftAzureBastionAuditLogs table",
+  "IsDataAction": false
+}

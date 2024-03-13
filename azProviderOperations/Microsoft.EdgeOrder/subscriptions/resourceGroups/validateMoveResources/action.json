@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/subscriptions/resourceGroups/validateMoveResources/action",
+  "OperationName": null,
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "ArmApiRes_resourceGroups",
+  "Description": null,
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/p2sVpnGateways/disconnectp2svpnconnections/action",
+  "OperationName": "Disconnect p2s vpn connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Disconnect p2s vpn connections",
+  "IsDataAction": false
+}

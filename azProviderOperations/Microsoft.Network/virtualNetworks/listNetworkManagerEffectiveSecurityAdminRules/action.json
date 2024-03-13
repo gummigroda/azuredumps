@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveSecurityAdminRules/action",
+  "OperationName": "List Network Manager Effective Security Admin Rules",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Lists Network Manager Effective Security Admin Rules",
+  "IsDataAction": false
+}

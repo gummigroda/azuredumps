@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/sites/applianceConfigurations/Read",
+  "OperationName": "Gets the appliance configuration for a given site",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/sites/applianceConfigurations",
+  "Description": "Read migrate project site appliance configuration",
+  "IsDataAction": false
+}

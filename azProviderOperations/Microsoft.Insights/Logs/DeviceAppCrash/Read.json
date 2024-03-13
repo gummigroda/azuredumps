@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceAppCrash/Read",
+  "OperationName": "Read DeviceAppCrash data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceAppCrash",
+  "Description": "Read data from the DeviceAppCrash table",
+  "IsDataAction": false
+}

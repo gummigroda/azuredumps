@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/register/action",
+  "OperationName": "Register the Digital Twins Resource Provider",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "",
+  "Description": "Register the Subscription for the Digital Twins resource provider and enable the creation of Digital Twins instances.",
+  "IsDataAction": false
+}

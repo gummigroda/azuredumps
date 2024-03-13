@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/privateEndpoints/read",
+  "OperationName": "Gets a private endpoint",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB private endpoints",
+  "Description": "Get a private endpoint",
+  "IsDataAction": false
+}

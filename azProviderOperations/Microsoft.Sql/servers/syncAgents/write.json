@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/syncAgents/write",
+  "OperationName": "Create/Update Azure SQL Sync Agent",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Creates a sync agent with the specified parameters or update the properties for the specified sync agent.",
+  "IsDataAction": false
+}

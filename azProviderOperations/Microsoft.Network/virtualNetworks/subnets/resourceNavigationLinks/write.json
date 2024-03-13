@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/resourceNavigationLinks/write",
+  "OperationName": "Create or Update Resource Navigation Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Navigation Link",
+  "Description": "Creates a Resource Navigation Link or updates an existing Resource Navigation Link",
+  "IsDataAction": false
+}

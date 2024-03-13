@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/workflows/metadata/read",
+  "OperationName": "Workflows Metadata Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Workflows Metadata",
+  "Description": "Allows reading workflows metadata",
+  "IsDataAction": true
+}

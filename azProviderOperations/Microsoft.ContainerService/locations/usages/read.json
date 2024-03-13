@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/usages/read",
+  "OperationName": "List Usages",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Usages",
+  "Description": "List resource usage on Microsoft.ContainerService resource provider.",
+  "IsDataAction": false
+}

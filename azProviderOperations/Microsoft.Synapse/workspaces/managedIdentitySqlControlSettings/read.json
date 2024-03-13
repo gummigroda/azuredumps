@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/managedIdentitySqlControlSettings/read",
+  "OperationName": "Get Managed Identity SQL Control Settings",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Managed Identity SQL Control Settings",
+  "Description": "Get Managed Identity SQL Control Settings",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/listDCAccessCode/action",
+  "OperationName": "List data center access code",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "orders",
+  "Description": "Lists or gets the data center access code",
+  "IsDataAction": false
+}

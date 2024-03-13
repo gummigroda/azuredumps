@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/virtualNetworkAddresses/delete",
+  "OperationName": "VirtualNetworkAddresses_Delete",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters/virtualNetworkAddresses",
+  "Description": "Delete a VirtualNetworkAddress",
+  "IsDataAction": false
+}

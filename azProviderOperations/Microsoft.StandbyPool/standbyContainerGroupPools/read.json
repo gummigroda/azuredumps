@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StandbyPool/standbyContainerGroupPools/read",
+  "OperationName": "StandbyContainerGroupPools_Get",
+  "ProviderNamespace": "Microsoft.StandbyPool",
+  "ResourceName": "standbyContainerGroupPools",
+  "Description": "Get a StandbyContainerGroupPoolResource",
+  "IsDataAction": false
+}

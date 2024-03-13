@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedvmwarevsphere/unregister/action",
+  "OperationName": "unregister RP.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "",
+  "Description": "unregister RP.",
+  "IsDataAction": false
+}

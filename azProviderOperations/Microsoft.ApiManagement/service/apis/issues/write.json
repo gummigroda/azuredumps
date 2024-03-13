@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/apis/issues/write",
+  "OperationName": "Adds issue or Updates issue",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API issues",
+  "Description": "Creates a new Issue for an API or updates an existing one. or Updates an existing issue for an API.",
+  "IsDataAction": false
+}

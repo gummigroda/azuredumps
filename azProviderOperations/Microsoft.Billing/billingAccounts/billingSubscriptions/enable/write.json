@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/enable/write",
+  "OperationName": "BillingSubscriptions_Enable",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Enable",
+  "Description": "Enable an azure billing subscription.",
+  "IsDataAction": false
+}

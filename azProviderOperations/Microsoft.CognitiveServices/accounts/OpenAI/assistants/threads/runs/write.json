@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/assistants/threads/runs/write",
+  "OperationName": "Create or update assistant thread run",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Assistants",
+  "Description": "Create or update assistant thread run.",
+  "IsDataAction": true
+}

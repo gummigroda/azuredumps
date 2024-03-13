@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/queryStatistics/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

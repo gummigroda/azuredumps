@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/BoundPort/Read",
+  "OperationName": "Read BoundPort data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "BoundPort",
+  "Description": "Read data from the BoundPort table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/sku/read",
+  "OperationName": "Read available Sku Definitions for event grid resources",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "sku",
+  "Description": "Read available Sku Definitions for event grid resources",
+  "IsDataAction": false
+}

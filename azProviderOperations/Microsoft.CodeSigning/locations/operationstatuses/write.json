@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/locations/operationstatuses/write",
+  "OperationName": "Writes/Updates Operation Statuses",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "OperationStatuses",
+  "Description": "Writes or updates operation statuses for Microsoft CodeSigning resource provider.",
+  "IsDataAction": false
+}

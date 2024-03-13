@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largepersongroups/persons/persistedfaces/write",
+  "OperationName": "LargePersonGroup Person - Add Face|LargePersonGroup Person - Update Face*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Add a face to a person into a large person group for face identification or verification. To deal with an image containing\r\nUpdate a person persisted face's userData field.*",
+  "IsDataAction": true
+}

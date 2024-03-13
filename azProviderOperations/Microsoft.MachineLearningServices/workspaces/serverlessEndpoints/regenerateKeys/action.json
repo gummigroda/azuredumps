@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/regenerateKeys/action",
+  "OperationName": "Regenerates the keys for the Machine Learning Service Workspaces Serverless Endpoint(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Serverless Endpoint",
+  "Description": "Regenerates the keys for the Machine Learning Service Workspaces Serverless Endpoint(s)",
+  "IsDataAction": false
+}

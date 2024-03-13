@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AAD/Operations/read",
+  "OperationName": null,
+  "ProviderNamespace": "Domain Services Resource Provider",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

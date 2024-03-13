@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityGroups/defaultSecurityRules/read",
+  "OperationName": "Get Default Security Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Default Security Rule",
+  "Description": "Gets a default security rule definition",
+  "IsDataAction": false
+}

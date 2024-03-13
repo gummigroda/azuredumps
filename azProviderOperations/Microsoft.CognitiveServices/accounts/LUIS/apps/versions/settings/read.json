@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/settings/read",
+  "OperationName": "Get application version settings",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App version settings",
+  "Description": "Gets the application version settings.",
+  "IsDataAction": true
+}

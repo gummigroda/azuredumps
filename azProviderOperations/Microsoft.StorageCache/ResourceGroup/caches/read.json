@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/ResourceGroup/caches/read",
+  "OperationName": "List caches for a resource group",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Caches in resource group",
+  "Description": "Lists existing cache instances in the resource group",
+  "IsDataAction": false
+}

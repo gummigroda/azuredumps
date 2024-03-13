@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/expressRouteConnections/read",
+  "OperationName": "Get Express Route Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Connection",
+  "Description": "Gets an Express Route Connection",
+  "IsDataAction": false
+}

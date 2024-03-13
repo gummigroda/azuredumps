@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Read NspAssociationProxies for topics",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "networkSecurityPerimeterAssociationProxies",
+  "Description": "Read NspAssociationProxies for topics",
+  "IsDataAction": false
+}

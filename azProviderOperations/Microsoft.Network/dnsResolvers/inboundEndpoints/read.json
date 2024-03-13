@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/inboundEndpoints/read",
+  "OperationName": "Get DNS Resolver Inbound Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver Inbound Endpoint",
+  "Description": "Gets the DNS Resolver Inbound Endpoint, in JSON format",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/groups/impersonate/action",
+  "OperationName": "Impersonate groups resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Groups",
+  "Description": "Impersonate groups",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/servers/resume/action",
+  "OperationName": "Resume the Analysis Server.",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Resumes the Analysis Server.",
+  "IsDataAction": false
+}

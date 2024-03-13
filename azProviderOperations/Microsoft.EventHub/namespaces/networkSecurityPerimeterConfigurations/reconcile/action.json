@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile Network Security Perimeter Configurations",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Network Security Perimeter Configurations",
+  "Description": "Reconcile Network Security Perimeter Configurations",
+  "IsDataAction": false
+}

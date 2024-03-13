@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/datasources/write",
+  "OperationName": "Upsert Data Source",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Data Source",
+  "Description": "Upsert Data Source",
+  "IsDataAction": false
+}

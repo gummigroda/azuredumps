@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifactManifests/write",
+  "OperationName": "ArtifactManifests_Update",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifactManifests",
+  "Description": "Updates a artifact manifest resource.",
+  "IsDataAction": false
+}

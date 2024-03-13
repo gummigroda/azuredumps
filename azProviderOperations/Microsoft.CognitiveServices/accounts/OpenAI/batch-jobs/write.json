@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/batch-jobs/write",
+  "OperationName": "Create Batch Inference jobs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch-inference",
+  "Description": "Creates Batch Inference jobs.",
+  "IsDataAction": true
+}

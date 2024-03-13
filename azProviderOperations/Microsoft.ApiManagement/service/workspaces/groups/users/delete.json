@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/groups/users/delete",
+  "OperationName": "Remove user from group",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Group users",
+  "Description": "Remove existing user from existing group.",
+  "IsDataAction": false
+}

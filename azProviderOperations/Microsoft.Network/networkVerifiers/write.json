@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/write",
+  "OperationName": "Creates or Updates a Network Verifier",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Verifier",
+  "Description": "Creates or Updates a Network Verifier",
+  "IsDataAction": false
+}

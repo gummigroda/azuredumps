@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/nssfDeployments/write",
+  "OperationName": "NssfDeployments_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/nssfDeployments",
+  "Description": "Creates or updates a Mobile Packet Core Network Slice Selection Function deployment resource",
+  "IsDataAction": false
+}

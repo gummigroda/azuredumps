@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ReservedCommonFields/Read",
+  "OperationName": "Read ReservedCommonFields data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ReservedCommonFields",
+  "Description": "Read data from the ReservedCommonFields table",
+  "IsDataAction": false
+}

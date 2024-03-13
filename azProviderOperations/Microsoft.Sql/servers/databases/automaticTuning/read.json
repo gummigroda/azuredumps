@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/automaticTuning/read",
+  "OperationName": "Get automatic tuning settings for a database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Automatic Tuning",
+  "Description": "Returns automatic tuning settings for a database",
+  "IsDataAction": false
+}

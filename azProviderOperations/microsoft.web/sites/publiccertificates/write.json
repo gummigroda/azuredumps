@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/publiccertificates/write",
+  "OperationName": "Update Web Apps Public Certificates",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Public Certificates",
+  "Description": "Update Web Apps Public Certificates.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/connectioninfo/action",
+  "OperationName": "Read Gateway Connection Info",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Reads the Connection Info for any Gateway.",
+  "IsDataAction": false
+}

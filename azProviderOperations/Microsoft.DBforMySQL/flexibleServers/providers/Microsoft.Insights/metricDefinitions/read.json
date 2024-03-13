@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get database metric definitions",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Database Metric Definition",
+  "Description": "Return types of metrics that are available for databases",
+  "IsDataAction": false
+}

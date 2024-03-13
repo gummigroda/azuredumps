@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoimaintenances/delete",
+  "OperationName": "GNOIMaintenances_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoimaintenances",
+  "Description": "Delete the GNOIMaintenance resource.",
+  "IsDataAction": false
+}

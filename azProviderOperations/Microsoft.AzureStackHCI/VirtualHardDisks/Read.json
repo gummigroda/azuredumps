@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualHardDisks/Read",
+  "OperationName": "Gets/Lists virtual hard disk resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualHardDisks",
+  "Description": "Gets/Lists virtual hard disk resource",
+  "IsDataAction": false
+}

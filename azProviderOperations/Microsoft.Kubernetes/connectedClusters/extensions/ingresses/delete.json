@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/extensions/ingresses/delete",
+  "OperationName": "Deletes/DeletesCollection ingresses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "ingresses",
+  "Description": "Deletes ingresses",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/logFiles/read",
+  "OperationName": "List/Get MySQL Server Server Log Files",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Log Files",
+  "Description": "Return a list of server log files for a server with file download links",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabricControllers/disableWorkloadManagementNetwork/action",
+  "OperationName": "NetworkFabricControllers_disableWorkloadManagementNetwork",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabricControllers",
+  "Description": "Disables the workloadManagementNetwork (Tenant Network).",
+  "IsDataAction": false
+}

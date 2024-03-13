@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/register/action",
+  "OperationName": "Register the NGINX.NGINXPLUS Resource Provider",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "",
+  "Description": "Register the subscription for the NGINX.NGINXPLUS resource provider",
+  "IsDataAction": false
+}

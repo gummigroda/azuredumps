@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/getBillingInfo/read",
+  "OperationName": "Get billing info",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "GetBillingInfo",
+  "Description": "Get marketplace and organization info mapped to the given monitor.",
+  "IsDataAction": false
+}

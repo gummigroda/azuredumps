@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/connectors/sapVirtualInstanceMonitors/delete",
+  "OperationName": "SapVirtualInstanceMonitorConnections_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "connectors/sapVirtualInstanceMonitors",
+  "Description": "Deletes the monitor connection resource of virtual instance for SAP.",
+  "IsDataAction": false
+}

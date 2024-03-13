@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkGroupMemberships/read",
+  "OperationName": "List Network Group Memberships",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group Memberships",
+  "Description": "List Network Group Memberships",
+  "IsDataAction": false
+}

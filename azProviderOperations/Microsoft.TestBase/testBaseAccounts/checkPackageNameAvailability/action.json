@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/checkPackageNameAvailability/action",
+  "OperationName": "TestBaseAccounts_CheckPackageNameAvailability",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts",
+  "Description": "Checks that the Test Base Package name and version is valid and is not already in use.",
+  "IsDataAction": false
+}

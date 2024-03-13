@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/PrivateEndpointConnectionProxies/write",
+  "OperationName": "Write private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Private endpoint connection proxies resource type",
+  "Description": "Writes a private endpoint connection proxy",
+  "IsDataAction": false
+}

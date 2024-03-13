@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/canMerge/action",
+  "OperationName": "CloudServices_CanMerge",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Evaluates whether the source cloud service resource can be merged to target cloud service resource.",
+  "IsDataAction": false
+}

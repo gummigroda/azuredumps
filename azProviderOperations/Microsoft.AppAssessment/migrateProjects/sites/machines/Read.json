@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppAssessment/migrateProjects/sites/machines/Read",
+  "OperationName": "Gets/List machines within a migrate project site resource",
+  "ProviderNamespace": "Microsoft.AppAssessment",
+  "ResourceName": "migrateProjects/sites/machines",
+  "Description": "Read migrate project site machines",
+  "IsDataAction": false
+}

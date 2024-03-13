@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/syncAgents/linkedDatabases/read",
+  "OperationName": "List Azure SQL Sync Agent linked databases",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Agent.",
+  "Description": "Return the list of sync agent linked databases",
+  "IsDataAction": false
+}

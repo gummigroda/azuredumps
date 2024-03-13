@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/Namespaces/NotificationHubs/authorizationRules/delete",
+  "OperationName": "Delete Notification Hub Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "NotificationHub Authorization Rule",
+  "Description": "Delete Notification Hub Authorization Rules",
+  "IsDataAction": false
+}

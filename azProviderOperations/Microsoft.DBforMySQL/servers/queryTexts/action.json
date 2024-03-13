@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/queryTexts/action",
+  "OperationName": "Return the text of a query",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Return the text of a query",
+  "IsDataAction": false
+}

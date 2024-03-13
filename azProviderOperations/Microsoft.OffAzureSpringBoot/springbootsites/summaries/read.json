@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/summaries/read",
+  "OperationName": "Summaries_ListBySite",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/summaries",
+  "Description": "ListstheSummariesresourceinspringbootsites.",
+  "IsDataAction": false
+}

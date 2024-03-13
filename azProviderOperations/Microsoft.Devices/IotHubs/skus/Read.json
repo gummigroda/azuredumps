@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/skus/Read",
+  "OperationName": "Get valid IotHub Skus",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Get valid IotHub Skus",
+  "IsDataAction": false
+}

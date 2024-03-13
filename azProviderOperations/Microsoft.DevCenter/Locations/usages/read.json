@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/locations/usages/read",
+  "OperationName": "Usages_ListByLocation",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "locations/usages",
+  "Description": "Lists the current usages and limits in this location for the provided subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "operations",
+  "Description": "readoperations",
+  "IsDataAction": false
+}

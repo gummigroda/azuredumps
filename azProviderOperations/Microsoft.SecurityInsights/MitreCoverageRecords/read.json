@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/MitreCoverageRecords/read",
+  "OperationName": "Read Products Mitre Coverage",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "MitreCoverageRecords",
+  "Description": "Read Products Mitre Coverage",
+  "IsDataAction": false
+}

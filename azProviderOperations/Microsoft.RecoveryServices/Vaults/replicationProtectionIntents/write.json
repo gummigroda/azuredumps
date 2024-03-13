@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationProtectionIntents/write",
+  "OperationName": "Create or Update ",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "",
+  "Description": "Create or Update any ",
+  "IsDataAction": false
+}

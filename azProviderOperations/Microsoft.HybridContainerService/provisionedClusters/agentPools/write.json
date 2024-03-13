@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/agentPools/write",
+  "OperationName": "agentPool_Update",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters/agentPools",
+  "Description": "Updates the agent pool in the Hybrid AKS provisioned cluster",
+  "IsDataAction": false
+}

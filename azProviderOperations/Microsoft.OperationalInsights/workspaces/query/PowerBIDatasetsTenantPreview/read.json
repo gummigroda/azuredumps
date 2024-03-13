@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerBIDatasetsTenantPreview/read",
+  "OperationName": "Read PowerBIDatasetsTenantPreview data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerBIDatasetsTenantPreview",
+  "Description": "Read data from the PowerBIDatasetsTenantPreview table",
+  "IsDataAction": false
+}

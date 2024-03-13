@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/externalTestTools/testCases/read",
+  "OperationName": "TestCases_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/externalTestTools/testCases",
+  "Description": "Retrieves a single test cases (Desktop Flows in the case of Power Automate) for a particular External Test Tool for the Test Base Account.",
+  "IsDataAction": false
+}

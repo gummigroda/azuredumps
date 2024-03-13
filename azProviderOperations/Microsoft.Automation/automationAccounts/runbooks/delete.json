@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/delete",
+  "OperationName": "Delete an Azure Automation Runbook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook",
+  "Description": "Deletes an Azure Automation runbook",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/read",
+  "OperationName": "Read Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Private Endpoint Connections",
+  "Description": "Read any Private Endpoint Connections",
+  "IsDataAction": false
+}

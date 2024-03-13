@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/updateReplicationMode/action",
+  "OperationName": "Update replication mode for link",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Update replication mode for link to synchronous or asynchronous mode",
+  "IsDataAction": false
+}

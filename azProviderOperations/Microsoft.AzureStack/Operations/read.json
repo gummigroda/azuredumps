@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/Operations/read",
+  "OperationName": "Get Resource Provider Operation Details",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Resource Provider Operation",
+  "Description": "Gets the properties of a resource provider operation",
+  "IsDataAction": false
+}

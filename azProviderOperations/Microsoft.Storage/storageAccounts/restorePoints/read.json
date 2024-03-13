@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/restorePoints/read",
+  "OperationName": "List Object Replication Restore Points",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Object Replication Restore Point",
+  "Description": "List object replication restore points",
+  "IsDataAction": false
+}

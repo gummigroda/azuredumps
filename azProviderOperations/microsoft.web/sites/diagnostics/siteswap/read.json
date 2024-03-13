@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/siteswap/read",
+  "OperationName": "Get Web Apps Diagnostics Site Swap",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Site Swap",
+  "Description": "Get Web Apps Diagnostics Site Swap.",
+  "IsDataAction": false
+}

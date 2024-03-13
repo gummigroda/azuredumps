@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UserAccessAnalytics/Read",
+  "OperationName": "Read UserAccessAnalytics data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UserAccessAnalytics",
+  "Description": "Read data from the UserAccessAnalytics table",
+  "IsDataAction": false
+}

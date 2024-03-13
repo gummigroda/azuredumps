@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/assetfilters/read",
+  "OperationName": "Read Asset Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset Filter",
+  "Description": "Read any Asset Filter",
+  "IsDataAction": false
+}

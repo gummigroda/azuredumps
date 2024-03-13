@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/healthstatus/read",
+  "OperationName": "Get Health Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "healthstatus*",
+  "Description": "Returns the overall health of the service and optionally of the different subcomponents.",
+  "IsDataAction": true
+}

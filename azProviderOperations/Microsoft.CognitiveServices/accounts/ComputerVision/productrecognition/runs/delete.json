@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/productrecognition/runs/delete",
+  "OperationName": "ProductRecognition_Delete",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "runs*",
+  "Description": "Delete a product recognition run. A product recognition run can be deleted if it is in the 'Succeeded' or 'Failed' states.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/delete",
+  "OperationName": "Delete VMware site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Deletes the VMware site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/read",
+  "OperationName": "Get DataLakeStore Account",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Account",
+  "Description": "Get information about an existing DataLakeStore account.",
+  "IsDataAction": false
+}

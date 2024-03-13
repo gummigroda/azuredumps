@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/getResourceUploadUrl/action",
+  "OperationName": "Get an Upload URL in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Build Service of Microsoft Azure Spring Apps",
+  "Description": "Get the Upload URL of a specific Microsoft Azure Spring Apps build",
+  "IsDataAction": false
+}

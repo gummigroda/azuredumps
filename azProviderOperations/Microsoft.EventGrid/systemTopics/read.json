@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/systemTopics/read",
+  "OperationName": "Read System Topic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "systemTopics",
+  "Description": "Read a system topic",
+  "IsDataAction": false
+}

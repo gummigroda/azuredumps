@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/blockchainNetworks/Write",
+  "OperationName": "Create/update blockchainNetworks resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "blockchainNetworks",
+  "Description": "Writes blockchainNetworks",
+  "IsDataAction": false
+}

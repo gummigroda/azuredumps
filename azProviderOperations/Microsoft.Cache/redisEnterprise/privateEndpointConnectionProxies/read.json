@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/privateEndpointConnectionProxies/read",
+  "OperationName": "Get private endpoint connection proxy",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise private endpoint connection proxies",
+  "Description": "Get the private endpoint connection proxy",
+  "IsDataAction": false
+}

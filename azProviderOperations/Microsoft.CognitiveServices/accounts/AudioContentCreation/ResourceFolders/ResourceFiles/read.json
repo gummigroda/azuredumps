@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/ResourceFolders/ResourceFiles/read",
+  "OperationName": "Query files metadata like recursive file count, associated audio file count, exporting audio ssml file count.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC resource files",
+  "Description": "Query files metadata like recursive file count, associated audio file count, exporting audio ssml file count.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/monitoringconfigurations/write",
+  "OperationName": "Add or updates monitoring configurations for a service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Add or updates monitoring configurations for a service.",
+  "IsDataAction": false
+}

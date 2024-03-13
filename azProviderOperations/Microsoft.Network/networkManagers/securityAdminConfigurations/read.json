@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityAdminConfigurations/read",
+  "OperationName": "Get Security Admin Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security Admin Configuration",
+  "Description": "Get Security Admin Configuration",
+  "IsDataAction": false
+}

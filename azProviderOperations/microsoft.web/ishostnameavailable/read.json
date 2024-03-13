@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/ishostnameavailable/read",
+  "OperationName": "Check if Hostname is Available",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hostname",
+  "Description": "Check if Hostname is Available.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/iotSecuritySolutions/analyticsModels/aggregatedRecommendations/read",
+  "OperationName": "Get IoT aggregated recommendations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Aggregated Recommendations",
+  "Description": "Gets IoT aggregated recommendations",
+  "IsDataAction": false
+}

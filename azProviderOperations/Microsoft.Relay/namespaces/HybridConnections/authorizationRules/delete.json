@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/HybridConnections/authorizationRules/delete",
+  "OperationName": "Delete HybridConnection Authorization Rules",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "HybridConnection AuthorizationRules",
+  "Description": "Operation to delete HybridConnection Authorization Rules",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/listKeys/action",
+  "OperationName": "List keys",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "List Maps Account keys.",
+  "IsDataAction": false
+}

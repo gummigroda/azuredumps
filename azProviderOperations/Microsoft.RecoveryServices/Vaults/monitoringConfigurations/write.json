@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/monitoringConfigurations/write",
+  "OperationName": "Configure e-mail notification",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Configures e-mail notifications to Recovery services vault.",
+  "IsDataAction": false
+}

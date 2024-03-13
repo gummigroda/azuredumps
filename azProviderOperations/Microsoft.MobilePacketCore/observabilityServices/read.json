@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/observabilityServices/read",
+  "OperationName": "ObservabilityServices_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "observabilityServices",
+  "Description": "Get a ObservabilityServiceResource",
+  "IsDataAction": false
+}

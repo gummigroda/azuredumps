@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/virtualMachines/read",
+  "OperationName": "Read virtualMachines",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/virtualMachines",
+  "Description": "Read virtualMachines.",
+  "IsDataAction": false
+}

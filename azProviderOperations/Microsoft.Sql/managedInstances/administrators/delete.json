@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/administrators/delete",
+  "OperationName": "Delete Administrator of Azure SQL Managed Instance.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Administrator of Azure SQL Managed Instance.",
+  "Description": "Deletes an existing administrator of managed instance.",
+  "IsDataAction": false
+}

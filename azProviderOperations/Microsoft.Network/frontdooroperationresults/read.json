@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdooroperationresults/read",
+  "OperationName": "Gets Frontdoor operation result",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Operation Result",
+  "Description": "Gets Frontdoor operation result",
+  "IsDataAction": false
+}

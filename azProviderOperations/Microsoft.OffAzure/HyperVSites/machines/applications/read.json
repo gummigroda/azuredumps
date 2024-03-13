@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/machines/applications/read",
+  "OperationName": "Gets HyperV VM machine application",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Get properties of HyperV machine application",
+  "IsDataAction": false
+}

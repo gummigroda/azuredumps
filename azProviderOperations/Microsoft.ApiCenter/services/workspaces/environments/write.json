@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/environments/write",
+  "OperationName": "Creates or updates the environment.",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiEnvironment",
+  "Description": "Create or update environment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/delete",
+  "OperationName": "Deletes a virtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Deletes a virtualNetworkGateway",
+  "IsDataAction": false
+}

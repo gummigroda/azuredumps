@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapDiscoverySites/sapInstances/serverInstances/write",
+  "OperationName": "ServerInstances_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapDiscoverySites/sapInstances/serverInstances",
+  "Description": "Updates the Server Instance resource. This operation on a resource by end user will return a Bad Request error.",
+  "IsDataAction": false
+}

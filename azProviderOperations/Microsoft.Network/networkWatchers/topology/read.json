@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/topology/read",
+  "OperationName": "Get Topology",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Gets a network level view of resources and their relationships in a resource group.",
+  "IsDataAction": false
+}

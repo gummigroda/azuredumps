@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/applicationTypes/delete",
+  "OperationName": "Delete Application Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Application Types",
+  "Description": "Delete any Application Type",
+  "IsDataAction": false
+}

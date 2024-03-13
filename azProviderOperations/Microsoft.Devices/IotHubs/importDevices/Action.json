@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/importDevices/Action",
+  "OperationName": "Import Devices",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs",
+  "Description": "Import Devices",
+  "IsDataAction": false
+}

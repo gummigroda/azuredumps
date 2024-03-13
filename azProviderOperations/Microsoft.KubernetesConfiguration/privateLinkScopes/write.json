@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/privateLinkScopes/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/privateLinkScopes/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/privateLinkScopes",
+  "Description": "Creates or updates private link scope.",
+  "IsDataAction": false
+}

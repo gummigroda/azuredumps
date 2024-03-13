@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/environmentTypes/read",
+  "OperationName": "EnvironmentTypes_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/environmentTypes",
+  "Description": "Gets an environment type.",
+  "IsDataAction": false
+}

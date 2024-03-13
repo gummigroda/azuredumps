@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription from Azure Sentinel",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/scan/read",
+  "OperationName": "Deprecated",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Data Scan",
+  "Description": "Permission is deprecated.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/models/resourceTypes/resources/insights/read",
+  "OperationName": "Get or List AgFoodPlatform insights resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform insights",
+  "Description": "Gets or Lists existing AgFoodPlatform insights resource(s).",
+  "IsDataAction": true
+}

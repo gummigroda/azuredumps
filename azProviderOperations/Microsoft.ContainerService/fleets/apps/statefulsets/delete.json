@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apps/statefulsets/delete",
+  "OperationName": "Deletes/DeletesCollection statefulsets resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Statefulsets",
+  "Description": "Deletes statefulsets",
+  "IsDataAction": true
+}

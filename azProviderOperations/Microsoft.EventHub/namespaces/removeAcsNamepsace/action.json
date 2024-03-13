@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/removeAcsNamepsace/action",
+  "OperationName": "Remove ACS namespace",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace",
+  "Description": "Remove ACS namespace",
+  "IsDataAction": false
+}

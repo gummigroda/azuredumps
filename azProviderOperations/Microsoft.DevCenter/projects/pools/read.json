@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/pools/read",
+  "OperationName": "Pools_Get",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/pools",
+  "Description": "Gets a machine pool",
+  "IsDataAction": false
+}

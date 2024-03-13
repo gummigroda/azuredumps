@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

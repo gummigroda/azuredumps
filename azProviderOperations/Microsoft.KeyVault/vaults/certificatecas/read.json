@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/certificatecas/read",
+  "OperationName": "Read Certificate Issuer",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Certificate Issuer",
+  "Description": "Read Certificate Issuer",
+  "IsDataAction": true
+}

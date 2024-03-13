@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/keypairs/write",
+  "OperationName": "Keypairs_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "keypairs",
+  "Description": "API to update certain properties of the Keypair resource.",
+  "IsDataAction": false
+}

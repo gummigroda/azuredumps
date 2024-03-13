@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureFleet/unregister/action",
+  "OperationName": "Unregister Subscription for Microsoft.AzureFleet",
+  "ProviderNamespace": "Microsoft Azure Fleet",
+  "ResourceName": "",
+  "Description": "Unregisters Subscription with Microsoft.AzureFleet resource provider",
+  "IsDataAction": false
+}

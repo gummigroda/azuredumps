@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/copy/action",
+  "OperationName": "Copy project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Copies an existing project to another Azure resource.",
+  "IsDataAction": true
+}

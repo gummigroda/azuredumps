@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/detectors/read",
+  "OperationName": "Get the analysis result for specified problem(s) in an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The detectors of Microsoft Azure Spring Apps",
+  "Description": "Get the detectors for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/operations/read",
+  "OperationName": "Get all the operations for the Machine Learning Services Resource Provider",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Get all the operations for the Machine Learning Services Resource Provider",
+  "IsDataAction": false
+}

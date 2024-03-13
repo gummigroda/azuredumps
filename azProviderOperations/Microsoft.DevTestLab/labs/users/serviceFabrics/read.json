@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/read",
+  "OperationName": "Read service fabrics.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service Fabrics",
+  "Description": "Read service fabrics.",
+  "IsDataAction": false
+}

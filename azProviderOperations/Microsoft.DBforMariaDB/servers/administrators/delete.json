@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/administrators/delete",
+  "OperationName": "Delete Administrator of MariaDB server.",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Administrator of MariaDB server.",
+  "Description": "Deletes an existing administrator of MariaDB server.",
+  "IsDataAction": false
+}

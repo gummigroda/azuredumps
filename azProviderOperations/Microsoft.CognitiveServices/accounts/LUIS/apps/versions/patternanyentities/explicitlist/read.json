@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternanyentities/explicitlist/read",
+  "OperationName": "Get Pattern.any explicit list or Get Pattern.any explicit list item",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Explicit list",
+  "Description": "Gets the explicit list of a Pattern.any entity model.\r\nGets the explicit list item for a Pattern.Any entity model.",
+  "IsDataAction": true
+}

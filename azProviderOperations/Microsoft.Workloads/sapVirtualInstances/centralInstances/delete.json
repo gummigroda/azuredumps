@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/centralInstances/delete",
+  "OperationName": "SAPCentralInstances_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/centralInstances",
+  "Description": "Deletes the SAP Central Instance. <br><br>This will be used by service only. Delete by end user will return a Bad Request error.",
+  "IsDataAction": false
+}

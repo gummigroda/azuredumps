@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Webtests/Write",
+  "OperationName": "Webtest write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Web tests",
+  "Description": "Writing to a webtest configuration",
+  "IsDataAction": false
+}

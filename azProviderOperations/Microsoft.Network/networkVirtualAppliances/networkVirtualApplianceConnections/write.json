@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/write",
+  "OperationName": "Update a Network Virtual Appliance Connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Virtual Appliance Connection",
+  "Description": "Update a Network Virtual Appliance Connection",
+  "IsDataAction": false
+}

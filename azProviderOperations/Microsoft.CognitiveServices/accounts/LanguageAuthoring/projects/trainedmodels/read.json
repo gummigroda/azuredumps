@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/trainedmodels/read",
+  "OperationName": "Projects_GetTrainedModelsInfo",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "trainedmodels*",
+  "Description": "Get List of Trained Model Info.",
+  "IsDataAction": true
+}

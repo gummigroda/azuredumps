@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/managedCCFs/restore/action",
+  "OperationName": "ManagedCCF_Restore",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "managedCCFs",
+  "Description": "Restores a Managed CCF Resource.",
+  "IsDataAction": false
+}

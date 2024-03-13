@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policies/audit/action",
+  "OperationName": "'audit' Policy action.",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy evaluation",
+  "Description": "Action taken as a result of evaluation of Azure Policy with 'audit' effect",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationServiceEnvironments/operationStatuses/read",
+  "OperationName": "Get Integration Service Environment operation statuses",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Service Environment Operation Statuses",
+  "Description": "Reads the integration service environment operation statuses.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/disconnectactivesessions/action",
+  "OperationName": "Disconnect given Active Sessions in the Bastion Host",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Disconnect given Active Sessions in the Bastion Host",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete PrivateEndpointConnectionProxies for namespaces",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateEndpointConnectionProxies",
+  "Description": "Delete PrivateEndpointConnectionProxies for namespaces",
+  "IsDataAction": false
+}

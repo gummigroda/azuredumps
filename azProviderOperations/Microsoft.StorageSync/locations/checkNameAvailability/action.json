@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/locations/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Name Availability",
+  "Description": "Checks that storage sync service name is valid and is not in use.",
+  "IsDataAction": false
+}

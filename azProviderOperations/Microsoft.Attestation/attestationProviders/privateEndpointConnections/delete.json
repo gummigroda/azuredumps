@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/privateEndpointConnections/delete",
+  "OperationName": "Private endpoints delete operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Private endpoints resource name.",
+  "Description": "Private endpoints delete description.",
+  "IsDataAction": false
+}

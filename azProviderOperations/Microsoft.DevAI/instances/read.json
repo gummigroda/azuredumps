@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/read",
+  "OperationName": "Instances_List",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances",
+  "Description": "read instances",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/config/web/appsettings/write",
+  "OperationName": "Create or Update Web App Single App setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App App Setting",
+  "Description": "Create or Update Web App Single App setting",
+  "IsDataAction": false
+}

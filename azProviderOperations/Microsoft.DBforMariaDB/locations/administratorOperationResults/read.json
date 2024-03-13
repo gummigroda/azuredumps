@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/administratorOperationResults/read",
+  "OperationName": "Get MariaDB server operation results",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB server operation results",
+  "Description": "Return MariaDB Server administrator operation results",
+  "IsDataAction": false
+}

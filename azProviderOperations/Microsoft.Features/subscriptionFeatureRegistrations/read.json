@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Features/subscriptionFeatureRegistrations/read",
+  "OperationName": "Get Subscription Feature Registration",
+  "ProviderNamespace": "Microsoft Feature",
+  "ResourceName": "Feature",
+  "Description": "Gets the feature registration of a subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualNetworks/bastionHosts/write",
+  "OperationName": "Add or modify bastionhosts.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "bastionHosts",
+  "Description": "Add or modify bastionhosts.",
+  "IsDataAction": false
+}

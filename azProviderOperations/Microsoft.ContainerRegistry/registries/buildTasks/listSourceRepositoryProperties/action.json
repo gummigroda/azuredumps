@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/listSourceRepositoryProperties/action",
+  "OperationName": "List source control repository properties.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Lists the source control properties for a build task.",
+  "IsDataAction": false
+}

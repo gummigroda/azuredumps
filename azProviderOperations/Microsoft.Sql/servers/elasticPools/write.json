@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/write",
+  "OperationName": "Create new or update existing elastic pool",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Create a new or change properties of existing elastic pool",
+  "IsDataAction": false
+}

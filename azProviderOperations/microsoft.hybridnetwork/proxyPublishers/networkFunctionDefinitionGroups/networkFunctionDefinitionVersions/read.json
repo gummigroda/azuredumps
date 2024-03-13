@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/proxyPublishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions/read",
+  "OperationName": "ProxyNetworkFunctionDefinitionVersions_Get",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "proxyPublishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions",
+  "Description": "Get information about network function definition version overview.",
+  "IsDataAction": false
+}

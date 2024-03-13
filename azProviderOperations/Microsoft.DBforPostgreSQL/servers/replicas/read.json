@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/replicas/read",
+  "OperationName": "Get PostgreSQL read replicas",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Get read replicas of a PostgreSQL server",
+  "IsDataAction": false
+}

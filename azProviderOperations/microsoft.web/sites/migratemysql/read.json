@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/migratemysql/read",
+  "OperationName": "Get Web Apps Migrate MySql",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Migrate MySql",
+  "Description": "Get Web Apps Migrate MySql.",
+  "IsDataAction": false
+}

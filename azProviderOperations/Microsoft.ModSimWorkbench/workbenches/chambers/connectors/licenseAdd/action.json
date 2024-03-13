@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/connectors/licenseAdd/action",
+  "OperationName": "connectors_LicenseAdd",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/connectors",
+  "Description": "Add license to an ModSim Workbench connector.",
+  "IsDataAction": false
+}

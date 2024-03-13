@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/managementconfigurations/delete",
+  "OperationName": "Delete Management Configuration",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "Management Configuration",
+  "Description": "Delete management configuration.",
+  "IsDataAction": false
+}

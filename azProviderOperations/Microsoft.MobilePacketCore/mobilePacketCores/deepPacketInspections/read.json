@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/deepPacketInspections/read",
+  "OperationName": "DeepPacketInspections_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/deepPacketInspections",
+  "Description": "Lists all the Deep Packet Inspection instances in a mobile packet core instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/eventGridFilters/write",
+  "OperationName": "Create or update an Event Grid filter",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Create or update an Event Grid filter.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/register/action",
+  "OperationName": "Registers the Microsoft.Monitor Resource Provider",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft.Monitor resource provider",
+  "IsDataAction": false
+}

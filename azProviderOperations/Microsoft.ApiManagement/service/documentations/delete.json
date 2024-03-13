@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/documentations/delete",
+  "OperationName": "Remove documentation",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "documentations",
+  "Description": "Delete documentation.",
+  "IsDataAction": false
+}

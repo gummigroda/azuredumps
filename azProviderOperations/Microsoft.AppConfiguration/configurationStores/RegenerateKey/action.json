@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/RegenerateKey/action",
+  "OperationName": "Regenerate Configuration Store API Key",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Regenerates of the API key's for the specified configuration store.",
+  "IsDataAction": false
+}

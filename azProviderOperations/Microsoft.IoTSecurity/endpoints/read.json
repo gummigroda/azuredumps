@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/endpoints/read",
+  "OperationName": "Get IoT Defender endpoints",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "Endpoints",
+  "Description": "Download sensor endpoints in location",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Commerce/RateCard/read",
+  "OperationName": "Read Rate Card",
+  "ProviderNamespace": "Microsoft Commerce",
+  "ResourceName": "RateCard",
+  "Description": "Returns offer data, resource/meter metadata and rates for the given subscription.",
+  "IsDataAction": false
+}

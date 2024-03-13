@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceTvmSecureConfigurationAssessmentKB/read",
+  "OperationName": "Read DeviceTvmSecureConfigurationAssessmentKB data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceTvmSecureConfigurationAssessmentKB",
+  "Description": "Read data from the DeviceTvmSecureConfigurationAssessmentKB table",
+  "IsDataAction": false
+}

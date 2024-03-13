@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/locations/checkSkuAvailability/action",
+  "OperationName": "Check SKU availability",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Location",
+  "Description": "Check whether SKUs are available for a location",
+  "IsDataAction": false
+}

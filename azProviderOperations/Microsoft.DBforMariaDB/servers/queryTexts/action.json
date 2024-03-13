@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/queryTexts/action",
+  "OperationName": "Return the text of a query",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Return the text of a query",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/locations/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Operations",
+  "Description": "Get Operations.",
+  "IsDataAction": false
+}

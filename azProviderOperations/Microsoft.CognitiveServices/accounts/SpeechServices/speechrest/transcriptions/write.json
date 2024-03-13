@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/transcriptions/write",
+  "OperationName": "Create or update a transcription",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Transcriptions",
+  "Description": "Create or update a transcription",
+  "IsDataAction": true
+}

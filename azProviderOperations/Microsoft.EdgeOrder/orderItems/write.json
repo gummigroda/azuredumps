@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/orderItems/write",
+  "OperationName": "Create or Update OrderItem",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "OrderItem",
+  "Description": "Create or update the OrderItem",
+  "IsDataAction": false
+}

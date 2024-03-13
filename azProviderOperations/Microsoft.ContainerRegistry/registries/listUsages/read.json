@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/listUsages/read",
+  "OperationName": "List Container Registry Quota Usages",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Lists the quota usages for the specified container registry.",
+  "IsDataAction": false
+}

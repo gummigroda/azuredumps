@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/storage/read",
+  "OperationName": "Gets the notebook files for a workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Notebooks",
+  "Description": "Gets the notebook files for a workspace",
+  "IsDataAction": false
+}

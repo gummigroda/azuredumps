@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/sharedPrivateLinkResources/write",
+  "OperationName": "Write Shared Private Link Resource",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/SharedPrivateLinkResources",
+  "Description": "Write Shared Private Link Resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/gnoioperations/read",
+  "OperationName": "GNOIOperations_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/gnoioperations",
+  "Description": "Get the GNOIOperation resource details.",
+  "IsDataAction": false
+}

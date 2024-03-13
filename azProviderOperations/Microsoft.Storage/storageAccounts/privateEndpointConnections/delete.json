@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateEndpointConnections/delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Private Endpoint Connection",
+  "Description": "Delete Private Endpoint Connection",
+  "IsDataAction": false
+}

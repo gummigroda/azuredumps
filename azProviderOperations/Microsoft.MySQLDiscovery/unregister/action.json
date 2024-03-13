@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/unregister/action",
+  "OperationName": "Unregister the Microsoft.MySQLDiscovery",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.MySQLDiscovery",
+  "IsDataAction": false
+}

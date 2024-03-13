@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/unregister/action",
+  "OperationName": "Unregister the Microsoft.NetworkCloud",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.NetworkCloud",
+  "IsDataAction": false
+}

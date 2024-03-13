@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/workspaces/privateendpointconnectionproxies/write",
+  "OperationName": "Write workspaces/privateendpointconnectionproxies",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "workspaces/privateendpointconnectionproxies",
+  "Description": "Write workspaces/privateendpointconnectionproxies",
+  "IsDataAction": false
+}

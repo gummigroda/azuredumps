@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/IntuneDevices/read",
+  "OperationName": "Read IntuneDevices data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "IntuneDevices",
+  "Description": "Read data from the IntuneDevices table",
+  "IsDataAction": false
+}

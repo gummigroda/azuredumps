@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/queryUserRules/action",
+  "OperationName": "Query user rules",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Fetch the approved rules for the user under the user subscriptions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/groundStations/read",
+  "OperationName": "Read Ground Station",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Ground Stations",
+  "Description": "Read any Ground Station",
+  "IsDataAction": false
+}

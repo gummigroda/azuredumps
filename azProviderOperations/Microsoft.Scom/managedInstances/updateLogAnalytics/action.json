@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Scom/managedInstances/updateLogAnalytics/action",
+  "OperationName": "Instances_UpdateLogAnalytics",
+  "ProviderNamespace": "Microsoft.Scom",
+  "ResourceName": "managedInstances",
+  "Description": "Update configuration for log analytics linking for SCOM monitoring instance",
+  "IsDataAction": false
+}

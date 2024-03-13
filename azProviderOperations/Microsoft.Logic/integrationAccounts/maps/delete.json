@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/maps/delete",
+  "OperationName": "Delete Integration Account Map",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Map",
+  "Description": "Deletes the map in integration account.",
+  "IsDataAction": false
+}

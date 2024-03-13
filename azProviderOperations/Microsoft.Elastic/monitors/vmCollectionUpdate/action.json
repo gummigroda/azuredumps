@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/vmCollectionUpdate/action",
+  "OperationName": "Operation to perform on Vm collection",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Operation to perform on Vm collection",
+  "IsDataAction": false
+}

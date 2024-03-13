@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Webtests/GetToken/Read",
+  "OperationName": "Webtest token read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Webtest token",
+  "Description": "Reading a webtest token",
+  "IsDataAction": false
+}

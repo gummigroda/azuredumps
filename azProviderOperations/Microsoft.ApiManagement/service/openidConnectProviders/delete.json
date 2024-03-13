@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/openidConnectProviders/delete",
+  "OperationName": "Remove OpenID Connect Provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OpenID Connect Providers",
+  "Description": "Deletes specific OpenID Connect Provider of the API Management service instance.",
+  "IsDataAction": false
+}

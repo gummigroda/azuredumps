@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/availabilitySets/delete",
+  "OperationName": "Delete Availability Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Availability Sets",
+  "Description": "Deletes the availability set",
+  "IsDataAction": false
+}

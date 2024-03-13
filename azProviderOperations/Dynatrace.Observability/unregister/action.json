@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/unregister/action",
+  "OperationName": "Unregisters Dynatrace.Observability Resource provider",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "",
+  "Description": "Unregisters Dynatrace.Observability Resource provider",
+  "IsDataAction": false
+}

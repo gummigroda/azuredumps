@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/read",
+  "OperationName": "NetworkInterfaces_List",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "List all the Network Interface resources in a given resource group.",
+  "IsDataAction": false
+}

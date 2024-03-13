@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/api/read",
+  "OperationName": "Gets/List api resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Api",
+  "Description": "Reads api",
+  "IsDataAction": true
+}

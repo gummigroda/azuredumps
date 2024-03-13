@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/customApis/Join/Action",
+  "OperationName": "Join Custom API",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Custom Apis",
+  "Description": "Joins a Custom API.",
+  "IsDataAction": false
+}

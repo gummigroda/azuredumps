@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/reservationRecommendationDetails/read",
+  "OperationName": "List Reservation Recommendation Details",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "ReservationRecommendationDetails",
+  "Description": "List Reservation Recommendation Details",
+  "IsDataAction": false
+}

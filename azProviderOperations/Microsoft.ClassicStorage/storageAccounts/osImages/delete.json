@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/osImages/delete",
+  "OperationName": "Delete Storage Account Operating System Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Storage Account Operating System Image",
+  "Description": "Deletes a given storage account operating system image.",
+  "IsDataAction": false
+}

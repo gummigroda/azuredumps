@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/notebookWorkspaces/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Notebook Workspace",
+  "Description": "Create or update a notebook workspace",
+  "IsDataAction": false
+}

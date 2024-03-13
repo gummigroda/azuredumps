@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConfidentialLedger/ledgers/restore/action",
+  "OperationName": "Ledger_Restore",
+  "ProviderNamespace": "Microsoft.ConfidentialLedger",
+  "ResourceName": "ledgers",
+  "Description": "Restores a Confidential Ledger Resource.",
+  "IsDataAction": false
+}

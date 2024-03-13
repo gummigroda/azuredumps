@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/cancelMove/action",
+  "OperationName": "Cancel Managed Instance database move operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Cancels Managed Instance database move.",
+  "IsDataAction": false
+}

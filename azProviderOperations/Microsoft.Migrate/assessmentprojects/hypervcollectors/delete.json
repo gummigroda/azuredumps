@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/hypervcollectors/delete",
+  "OperationName": "Delete HyperV collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "HyperV Collector",
+  "Description": "Deletes the HyperV collector",
+  "IsDataAction": false
+}

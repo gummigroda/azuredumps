@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/products/subscriptions/read",
+  "OperationName": "Get product subscriptions list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Product subscriptions",
+  "Description": "Lists the collection of subscriptions to the specified product.",
+  "IsDataAction": false
+}

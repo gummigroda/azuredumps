@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/syncGroups/cancelSync/action",
+  "OperationName": "Cancel Azure SQL Sync Group synchronization",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Group",
+  "Description": "Cancel sync group synchronization",
+  "IsDataAction": false
+}

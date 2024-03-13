@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/queueServices/queues/messages/write",
+  "OperationName": "Write message",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Queue Service Messages",
+  "Description": "Returns the result of writing a message",
+  "IsDataAction": true
+}

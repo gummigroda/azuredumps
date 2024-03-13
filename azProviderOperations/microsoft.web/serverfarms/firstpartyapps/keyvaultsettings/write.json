@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/firstpartyapps/keyvaultsettings/write",
+  "OperationName": "Create or Update App Service Plan Key Vault first party settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plan First Party Key Vault Settings",
+  "Description": "Create or Update first party Azure Key vault referenced settings for App Service Plan.",
+  "IsDataAction": false
+}

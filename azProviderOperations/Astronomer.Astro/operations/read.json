@@ -1,0 +1,8 @@
+{
+  "Operation": "Astronomer.Astro/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Astronomer.Astro",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/locations/usages/read",
+  "OperationName": "Get DataLakeAnalytics Subscription Quota Usages",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Subscription Quota Usages",
+  "Description": "Get quota usages information of a subscription regarding using DataLakeAnalytics.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/webhooks/action",
+  "OperationName": "Generate a URI for an Azure Automation webhook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Generates a URI for an Azure Automation webhook",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Diagnostic Setting",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

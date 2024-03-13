@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/read",
+  "OperationName": "Read SQL database(s)",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database",
+  "Description": "Read a SQL database or list all the SQL databases.",
+  "IsDataAction": false
+}

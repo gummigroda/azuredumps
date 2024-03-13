@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write database",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Create a database. Only applicable to API types: 'sql', 'mongodb', 'gremlin'.",
+  "IsDataAction": false
+}

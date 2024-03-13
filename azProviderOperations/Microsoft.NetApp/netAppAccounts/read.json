@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/read",
+  "OperationName": "Read account resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Accounts resource type",
+  "Description": "Reads an account resource.",
+  "IsDataAction": false
+}

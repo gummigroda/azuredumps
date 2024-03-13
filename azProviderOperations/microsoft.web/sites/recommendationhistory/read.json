@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/recommendationhistory/read",
+  "OperationName": "Get Web Apps Recommendation History",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Recommendation History",
+  "Description": "Get Web Apps Recommendation History.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/read",
+  "OperationName": "Private Link Policy Definition read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Private Link Policy Definition",
+  "Description": "Read Private Link Policy Definition",
+  "IsDataAction": false
+}

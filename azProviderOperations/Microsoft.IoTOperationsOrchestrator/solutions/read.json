@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsOrchestrator/solutions/read",
+  "OperationName": "Solutions_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsOrchestrator",
+  "ResourceName": "solutions",
+  "Description": "Get a Solution",
+  "IsDataAction": false
+}

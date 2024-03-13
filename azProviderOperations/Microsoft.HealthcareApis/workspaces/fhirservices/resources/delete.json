@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/fhirservices/resources/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "FHIR Resources",
+  "Description": "Delete FHIR resources (soft delete).",
+  "IsDataAction": true
+}

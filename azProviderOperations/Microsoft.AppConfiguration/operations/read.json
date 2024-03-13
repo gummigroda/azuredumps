@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Operation",
+  "Description": "Lists all of the operations supported by Microsoft App Configuration.",
+  "IsDataAction": false
+}

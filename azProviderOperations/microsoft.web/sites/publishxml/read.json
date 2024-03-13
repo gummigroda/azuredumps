@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/publishxml/read",
+  "OperationName": "Get Web Apps Publishing XML",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Publishing XML",
+  "Description": "Get Web Apps Publishing XML.",
+  "IsDataAction": false
+}

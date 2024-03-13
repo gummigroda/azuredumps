@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions/Delete",
+  "OperationName": "Delete extensions resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/extensions",
+  "Description": "Delete extension resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/operations/read",
+  "OperationName": "List/Get PostgreSQL Operations",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Operations",
+  "Description": "Return the list of PostgreSQL Operations.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/metadata/snapshots/write",
+  "OperationName": "Creates or updates snapshots in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Snapshots",
+  "Description": "Creates or updates snapshots in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

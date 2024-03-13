@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/cancel/action",
+  "OperationName": "Cancel",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Orders",
+  "Description": "Cancels an order in progress.",
+  "IsDataAction": false
+}

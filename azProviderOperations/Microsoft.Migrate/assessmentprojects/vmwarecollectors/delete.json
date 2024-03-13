@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/vmwarecollectors/delete",
+  "OperationName": "Delete VMware collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "VMware Collector",
+  "Description": "Deletes the VMware collector",
+  "IsDataAction": false
+}

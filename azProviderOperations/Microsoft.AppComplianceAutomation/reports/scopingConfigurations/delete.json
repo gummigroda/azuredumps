@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/scopingConfigurations/delete",
+  "OperationName": "ScopingConfigurations_Delete",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/scopingConfigurations",
+  "Description": "Clean the AppComplianceAutomation scoping configuration of the specific report.",
+  "IsDataAction": false
+}

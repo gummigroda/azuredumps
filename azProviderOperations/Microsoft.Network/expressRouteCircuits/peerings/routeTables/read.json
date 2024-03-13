@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/peerings/routeTables/read",
+  "OperationName": "Get ExpressRouteCircuit Peering RouteTable",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRouteCircuitPeeringArpTable",
+  "Description": "Gets an ExpressRouteCircuit Peering RouteTable",
+  "IsDataAction": false
+}

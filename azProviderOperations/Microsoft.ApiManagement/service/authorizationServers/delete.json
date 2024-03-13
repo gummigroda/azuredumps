@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/authorizationServers/delete",
+  "OperationName": "Remove authorization server",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OAuth Authorization servers",
+  "Description": "Deletes specific authorization server instance.",
+  "IsDataAction": false
+}

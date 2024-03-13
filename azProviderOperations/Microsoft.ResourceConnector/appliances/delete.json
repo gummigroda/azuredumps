@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/appliances/delete",
+  "OperationName": "Delete Appliance",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances",
+  "Description": "Deletes Appliance resource",
+  "IsDataAction": false
+}

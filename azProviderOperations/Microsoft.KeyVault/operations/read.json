@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/operations/read",
+  "OperationName": "Available Key Vault Operations",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Operations",
+  "Description": "Lists operations available on Microsoft.KeyVault resource provider",
+  "IsDataAction": false
+}

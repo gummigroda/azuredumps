@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/features/write",
+  "OperationName": "KubernetesClusterFeatures_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters/features",
+  "Description": "Patch properties of the provided Kubernetes cluster feature.",
+  "IsDataAction": false
+}

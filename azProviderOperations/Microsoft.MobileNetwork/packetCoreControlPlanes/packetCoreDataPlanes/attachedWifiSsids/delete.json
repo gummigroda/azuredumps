@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids/delete",
+  "OperationName": "AttachedWifiSSIDs_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "packetCoreControlPlanes/packetCoreDataPlanes/attachedWifiSsids",
+  "Description": "Deletes the specified Wi-Fi Attached SSID.",
+  "IsDataAction": false
+}

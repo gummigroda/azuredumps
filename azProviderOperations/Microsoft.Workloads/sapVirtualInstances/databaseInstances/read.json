@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/sapVirtualInstances/databaseInstances/read",
+  "OperationName": "SAPDatabaseInstances_List",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "sapVirtualInstances/databaseInstances",
+  "Description": "Lists the SAP Database Instances in an SVI.",
+  "IsDataAction": false
+}

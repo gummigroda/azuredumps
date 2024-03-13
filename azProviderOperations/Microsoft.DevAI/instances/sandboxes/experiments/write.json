@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/sandboxes/experiments/write",
+  "OperationName": "Experiments_UpdateInSandbox",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/sandboxes/experiments",
+  "Description": "write experiments",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/stop/action",
+  "OperationName": "Azure SQL Managed Instance Stop operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Stops a given Azure SQL Managed Instance.",
+  "IsDataAction": false
+}

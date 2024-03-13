@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/documentmodels:authorizecopy/action",
+  "OperationName": "Creation - Generate Copy Authorization",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Form Recognizer API",
+  "Description": "Generates authorization to copy a model to this location with specified modelId and optional description.",
+  "IsDataAction": true
+}

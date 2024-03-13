@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/startManagedInstanceOperationResults/read",
+  "OperationName": "Get Azure SQL Managed Instance Start operation result.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance",
+  "Description": "Gets Azure SQL Managed Instance Start operation result.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/endpoints/write",
+  "OperationName": "Create Endpoint.|Update Endpoint*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "endpoints*",
+  "Description": "Creates a new endpoint.\r\nUpdates the metadata of the endpoint identified by the given ID.*",
+  "IsDataAction": true
+}

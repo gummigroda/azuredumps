@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/managedHSMs/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve or reject a Private Endpoint connection",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed HSM",
+  "Description": "Approve or reject a connection to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

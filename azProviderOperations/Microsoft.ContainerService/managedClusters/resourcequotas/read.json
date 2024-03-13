@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/resourcequotas/read",
+  "OperationName": "Gets/List resourcequotas resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Resourcequotas",
+  "Description": "Reads resourcequotas",
+  "IsDataAction": true
+}

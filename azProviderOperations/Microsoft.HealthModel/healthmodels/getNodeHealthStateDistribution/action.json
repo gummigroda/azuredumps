@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/healthmodels/getNodeHealthStateDistribution/action",
+  "OperationName": "HealthModels_GetNodeHealthStateDistribution",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "healthmodels",
+  "Description": "Return the health state distribution in a timespan for a node",
+  "IsDataAction": false
+}

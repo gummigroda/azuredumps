@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/resourcepools/deploy/action",
+  "OperationName": "Deploy on resource pool.",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "resourcepools",
+  "Description": "Deploy on resource pool.",
+  "IsDataAction": false
+}

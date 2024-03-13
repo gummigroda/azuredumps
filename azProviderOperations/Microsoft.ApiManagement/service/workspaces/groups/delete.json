@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/groups/delete",
+  "OperationName": "Remove group",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace Groups",
+  "Description": "Deletes specific group of the API Management service instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/publishers/artifacttypes/offers/skus/read",
+  "OperationName": "Get Platform Image Sku",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Platform Image Skus",
+  "Description": "Get the properties of a Platform Image Sku",
+  "IsDataAction": false
+}

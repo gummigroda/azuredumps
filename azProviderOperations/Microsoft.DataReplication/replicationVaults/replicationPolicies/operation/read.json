@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/replicationPolicies/operation/read",
+  "OperationName": "Gets the operation status of the replication policy",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Replication Policies",
+  "Description": "Reads the operation status of the replication policy",
+  "IsDataAction": false
+}

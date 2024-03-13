@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/invoices/read",
+  "OperationName": "List Invoices",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Invoices",
+  "Description": null,
+  "IsDataAction": false
+}

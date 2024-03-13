@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/pipelineRuns/write",
+  "OperationName": "Create or Update pipeline run",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/PipelineRuns",
+  "Description": "Creates or updates a pipeline run for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

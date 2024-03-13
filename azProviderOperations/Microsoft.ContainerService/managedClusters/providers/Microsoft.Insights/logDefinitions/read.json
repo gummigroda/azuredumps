@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Managed Cluster log definitions",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "The log definition of Managed Cluster",
+  "Description": "Gets the available logs for Managed Cluster",
+  "IsDataAction": false
+}

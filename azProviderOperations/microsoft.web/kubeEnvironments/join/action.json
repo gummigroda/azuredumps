@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/kubeEnvironments/join/action",
+  "OperationName": "Join Kubernetes Environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Kubernetes Environment",
+  "Description": "Joins a Kubernetes Environment",
+  "IsDataAction": false
+}

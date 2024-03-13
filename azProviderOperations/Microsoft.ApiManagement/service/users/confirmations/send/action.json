@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/confirmations/send/action",
+  "OperationName": "Send",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Send password reset confirmation",
+  "Description": "Sends confirmation",
+  "IsDataAction": false
+}

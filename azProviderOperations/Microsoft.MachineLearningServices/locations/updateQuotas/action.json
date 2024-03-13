@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/locations/updateQuotas/action",
+  "OperationName": "Update quota for each VM family at a subscription or a workspace level.",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Update quota for each VM family at a subscription or a workspace level.",
+  "IsDataAction": false
+}

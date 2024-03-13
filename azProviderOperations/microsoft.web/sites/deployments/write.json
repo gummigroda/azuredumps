@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/deployments/write",
+  "OperationName": "Update Web Apps Deployments",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Deployments",
+  "Description": "Update Web Apps Deployments.",
+  "IsDataAction": false
+}

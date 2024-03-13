@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WVDFeeds/read",
+  "OperationName": "Read WVDFeeds data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WVDFeeds",
+  "Description": "Read data from the WVDFeeds table",
+  "IsDataAction": false
+}

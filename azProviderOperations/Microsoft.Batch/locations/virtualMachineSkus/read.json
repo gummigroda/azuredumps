@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/locations/virtualMachineSkus/read",
+  "OperationName": "List Supported Batch Virtual Machine VM",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Supported Skus",
+  "Description": "Lists available Batch supported Virtual Machine VM sizes at the given location",
+  "IsDataAction": false
+}

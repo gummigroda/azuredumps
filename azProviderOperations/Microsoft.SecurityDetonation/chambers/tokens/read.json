@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/tokens/read",
+  "OperationName": "Tokens Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Tokens",
+  "Description": "Allows generating a token for a submission, task or file",
+  "IsDataAction": true
+}

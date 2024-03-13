@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/replicationcontrollers/read",
+  "OperationName": "Gets/List replicationcontrollers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicationcontrollers",
+  "Description": "Reads replicationcontrollers",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/cropVarieties/list/action",
+  "OperationName": "List AgFoodPlatform crop variety resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform crop varieties",
+  "Description": "List(s) existing AgFoodPlatform crop variety resource(s).",
+  "IsDataAction": true
+}

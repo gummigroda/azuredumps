@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedvmwarevsphere/locations/operationstatuses/write",
+  "OperationName": "Write operationstatus.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "Write operationstatus.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/delete",
+  "OperationName": "Delete Server Endpoints",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Server Endpoints",
+  "Description": "Delete any Server Endpoints",
+  "IsDataAction": false
+}

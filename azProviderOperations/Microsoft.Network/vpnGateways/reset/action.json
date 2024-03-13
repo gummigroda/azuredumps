@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpngateways/reset/action",
+  "OperationName": "Resets a VpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnGateway resource.",
+  "Description": "Resets a VpnGateway",
+  "IsDataAction": false
+}

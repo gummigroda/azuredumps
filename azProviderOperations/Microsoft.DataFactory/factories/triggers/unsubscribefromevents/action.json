@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/unsubscribefromevents/action",
+  "OperationName": "Unsubscribe from Events",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Unsubscribe from Events.",
+  "IsDataAction": false
+}

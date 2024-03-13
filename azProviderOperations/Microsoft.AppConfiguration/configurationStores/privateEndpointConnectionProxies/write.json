@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Create or update a private endpoint connection proxy under the specified configuration store.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ExtendedLocation/customLocations/resourceSyncRules/read",
+  "OperationName": "Get Resource Sync Rule",
+  "ProviderNamespace": "Microsoft.ExtendedLocation",
+  "ResourceName": "Resource Sync Rules",
+  "Description": "Gets a Resource Sync Rule resource",
+  "IsDataAction": false
+}

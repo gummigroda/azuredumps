@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/businessProcesses/delete",
+  "OperationName": "BusinessProcesses_Delete",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/businessProcesses",
+  "Description": "Delete a BusinessProcess",
+  "IsDataAction": false
+}

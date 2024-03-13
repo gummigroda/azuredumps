@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Event Grid Filter",
+  "Description": "Create or Update any Event Grid Filter",
+  "IsDataAction": false
+}

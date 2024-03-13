@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/certificates/delete",
+  "OperationName": "Delete Certificate",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Certificates",
+  "Description": "Deletes a certificate from a Batch account",
+  "IsDataAction": false
+}

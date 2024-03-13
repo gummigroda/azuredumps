@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/expressroutecrossconnections/write",
+  "OperationName": "Add Express Route Cross Connections",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Express Route Cross Connections",
+  "Description": "Add express route cross connections.",
+  "IsDataAction": false
+}

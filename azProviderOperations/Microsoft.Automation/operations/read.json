@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/operations/read",
+  "OperationName": "Reads Available Operations for Azure Automation resources",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Available Operations Resource",
+  "Description": "Gets Available Operations for Azure Automation resources",
+  "IsDataAction": false
+}

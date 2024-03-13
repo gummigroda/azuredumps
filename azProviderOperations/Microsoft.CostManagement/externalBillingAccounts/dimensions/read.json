@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalBillingAccounts/dimensions/read",
+  "OperationName": "List supported dimensions",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "externalBillingAccounts/Dimensions",
+  "Description": "List all supported dimensions for external BillingAccounts.",
+  "IsDataAction": false
+}

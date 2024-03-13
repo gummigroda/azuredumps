@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/exports/action",
+  "OperationName": "Run export",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "Run the specified export.",
+  "IsDataAction": false
+}

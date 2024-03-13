@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/labels/write",
+  "OperationName": "Labels_Update",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces/labels",
+  "Description": "Update a Label.",
+  "IsDataAction": false
+}

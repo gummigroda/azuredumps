@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/regenerateKey/action",
+  "OperationName": "Regenerate key",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "Regenerates specified gateway key invalidationg any tokens created with it.",
+  "IsDataAction": false
+}

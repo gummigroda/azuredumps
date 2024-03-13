@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/networkFunctions/delete",
+  "OperationName": "NetworkFunctions_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "networkFunctions",
+  "Description": "Deletes the specified network function resource.",
+  "IsDataAction": false
+}

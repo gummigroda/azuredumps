@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/write",
+  "OperationName": "Products_Update",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products",
+  "Description": "Update a Product. '.default' and '.unassigned' are system defined values and cannot be used for product name.",
+  "IsDataAction": false
+}

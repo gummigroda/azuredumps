@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlAdministrators/delete",
+  "OperationName": "Delete Workspace Active Directory Administrator",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Administrators",
+  "Description": "Delete Workspace Active Directory Administrator",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/export/read",
+  "OperationName": "Export application version",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Export",
+  "Description": "Exports a LUIS application version to JSON format.",
+  "IsDataAction": true
+}

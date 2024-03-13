@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkIntentPolicies/delete",
+  "OperationName": "Delete Network Intent Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Intent Policy",
+  "Description": "Deletes an Network Intent Policy",
+  "IsDataAction": false
+}

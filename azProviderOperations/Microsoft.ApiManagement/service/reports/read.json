@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/reports/read",
+  "OperationName": "Get by time report or Get by region report or Get by developer repoer or Get by product report or Get by API report or Get by operation report or Get by subscription report or Get requests data report",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "By time report",
+  "Description": "Get report aggregated by time periods or Get report aggregated by geographical region or Get report aggregated by developers. or Get report aggregated by products. or Get report aggregated by APIs or Get report aggregated by operations or Get report aggregated by subscription. or Get requests reporting data",
+  "IsDataAction": false
+}

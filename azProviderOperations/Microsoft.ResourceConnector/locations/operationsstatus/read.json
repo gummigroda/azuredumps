@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/locations/operationsstatus/read",
+  "OperationName": "Get status of Appliance operation",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Appliances Operation Status",
+  "Description": "Get result of Appliance operation",
+  "IsDataAction": false
+}

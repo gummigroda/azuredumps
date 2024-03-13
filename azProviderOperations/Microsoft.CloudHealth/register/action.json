@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/register/action",
+  "OperationName": "Register the Microsoft.CloudHealth",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.CloudHealth",
+  "IsDataAction": false
+}

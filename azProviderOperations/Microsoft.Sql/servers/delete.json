@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/delete",
+  "OperationName": "Delete Azure SQL Server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Server",
+  "Description": "Deletes an existing server.",
+  "IsDataAction": false
+}

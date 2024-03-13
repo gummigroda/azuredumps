@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/deployments/delete",
+  "OperationName": "Deletes Deployment",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Deployments",
+  "Description": "Deletes deployments.",
+  "IsDataAction": false
+}

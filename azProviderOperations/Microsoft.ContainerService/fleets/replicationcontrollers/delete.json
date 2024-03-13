@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/replicationcontrollers/delete",
+  "OperationName": "Deletes/DeletesCollection replicationcontrollers resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Replicationcontrollers",
+  "Description": "Deletes replicationcontrollers",
+  "IsDataAction": true
+}

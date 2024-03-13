@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/terms/read",
+  "OperationName": "List Terms",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Terms",
+  "Description": "List the terms for a subscription or a management group.",
+  "IsDataAction": false
+}

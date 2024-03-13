@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/contentKeyPolicies/getPolicyPropertiesWithSecrets/action",
+  "OperationName": "Get Policy Properties With Secrets",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Content Key Policy",
+  "Description": "Get Policy Properties With Secrets",
+  "IsDataAction": false
+}

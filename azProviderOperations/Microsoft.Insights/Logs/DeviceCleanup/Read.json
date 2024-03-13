@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DeviceCleanup/Read",
+  "OperationName": "Read DeviceCleanup data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DeviceCleanup",
+  "Description": "Read data from the DeviceCleanup table",
+  "IsDataAction": false
+}

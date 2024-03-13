@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/availabilitySets/read",
+  "OperationName": "Show Availability Set",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Availability Set",
+  "Description": "Show the availability set for the resource.",
+  "IsDataAction": false
+}

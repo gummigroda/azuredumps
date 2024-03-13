@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/simPolicies/delete",
+  "OperationName": "SimPolicies_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/simPolicies",
+  "Description": "Deletes the specified SIM policy.",
+  "IsDataAction": false
+}

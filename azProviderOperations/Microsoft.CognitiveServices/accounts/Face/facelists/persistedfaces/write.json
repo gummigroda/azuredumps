@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/facelists/persistedfaces/write",
+  "OperationName": "FaceList - Add Face",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Add a face to a specified face list, up to 1,000 faces.",
+  "IsDataAction": true
+}

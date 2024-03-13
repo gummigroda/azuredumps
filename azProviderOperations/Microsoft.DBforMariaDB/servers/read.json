@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/read",
+  "OperationName": "List/Get MariaDB Servers",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server",
+  "Description": "Return the list of servers or gets the properties for the specified server.",
+  "IsDataAction": false
+}

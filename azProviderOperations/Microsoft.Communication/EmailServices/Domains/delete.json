@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/EmailServices/Domains/delete",
+  "OperationName": "Domain_Delete",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "Domains",
+  "Description": "Operation to delete a Domain resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata/write",
+  "OperationName": "HybridIdentityMetadata_Put",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusters/hybridIdentityMetadata",
+  "Description": "Creates the hybrid identity metadata proxy resource that facilitates the managed identity provisioning.",
+  "IsDataAction": false
+}

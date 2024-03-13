@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/Locations/Read",
+  "OperationName": "Gets/List Locations resources",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "Locations",
+  "Description": "Read Locations",
+  "IsDataAction": false
+}

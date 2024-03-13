@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAComputer/Read",
+  "OperationName": "Read UAComputer data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAComputer",
+  "Description": "Read data from the UAComputer table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/diagnostics/read",
+  "OperationName": "Get Hosting Environments Diagnostics",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments Diagnostics",
+  "Description": "Get Hosting Environments Diagnostics.",
+  "IsDataAction": false
+}

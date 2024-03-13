@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/Reports/read",
+  "OperationName": "Generic query report API for endpoint billing history, model training hours history etc.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Generic query report API for endpoint billing history, model training hours history etc.",
+  "IsDataAction": true
+}

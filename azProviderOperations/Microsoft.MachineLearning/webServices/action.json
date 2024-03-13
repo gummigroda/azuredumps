@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/webServices/action",
+  "OperationName": "Create regional Web Service Properties",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "",
+  "Description": "Create regional Web Service Properties for supported regions",
+  "IsDataAction": false
+}

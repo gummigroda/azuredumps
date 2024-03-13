@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/webhooks/write",
+  "OperationName": "Webhooks_Update",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/webhooks",
+  "Description": "Update an exiting AppComplianceAutomation webhook.",
+  "IsDataAction": false
+}

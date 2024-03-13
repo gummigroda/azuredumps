@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DHAppReliability/Read",
+  "OperationName": "Read DHAppReliability data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DHAppReliability",
+  "Description": "Read data from the DHAppReliability table",
+  "IsDataAction": false
+}

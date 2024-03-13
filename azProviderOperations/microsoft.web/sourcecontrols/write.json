@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sourcecontrols/write",
+  "OperationName": "Update Source Controls",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Source Controls",
+  "Description": "Update Source Controls.",
+  "IsDataAction": false
+}

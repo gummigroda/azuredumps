@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyDefinitions/write",
+  "OperationName": "Create policy definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy definition",
+  "Description": "Create a custom policy definition.",
+  "IsDataAction": false
+}

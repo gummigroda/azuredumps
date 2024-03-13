@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/oracleSubscriptions/delete",
+  "OperationName": "OracleSubscriptions_Delete",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "oracleSubscriptions",
+  "Description": "Delete a OracleSubscription",
+  "IsDataAction": false
+}

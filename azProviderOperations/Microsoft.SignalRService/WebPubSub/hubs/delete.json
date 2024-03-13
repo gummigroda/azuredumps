@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/hubs/delete",
+  "OperationName": "Delete hub settings",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/HubSettings",
+  "Description": "Delete hub settings",
+  "IsDataAction": false
+}

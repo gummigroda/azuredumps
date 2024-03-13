@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/phraselists/suggest/action",
+  "OperationName": "features - Suggest new entries for phraselist",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Phraselists",
+  "Description": "suggest new entries for existing or newly created phrase lists",
+  "IsDataAction": true
+}

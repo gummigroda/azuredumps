@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/iterations/publish/action",
+  "OperationName": "PublishIteration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "iterations*",
+  "Description": "Publish a specific iteration.",
+  "IsDataAction": true
+}

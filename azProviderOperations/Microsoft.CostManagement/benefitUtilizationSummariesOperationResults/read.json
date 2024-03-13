@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/benefitUtilizationSummariesOperationResults/read",
+  "OperationName": "Gets Microsoft benefit utilization summaries asynchronous operation results",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "BenefitUtilizationSummariesOperationResults",
+  "Description": "Gets Microsoft benefit utilization summaries asynchronous operation results.",
+  "IsDataAction": false
+}

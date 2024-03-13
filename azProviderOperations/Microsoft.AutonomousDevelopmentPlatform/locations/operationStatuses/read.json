@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/locations/operationStatuses/read",
+  "OperationName": "Read operation statuses",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "OperationStatus",
+  "Description": "Read operation statuses",
+  "IsDataAction": false
+}

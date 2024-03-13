@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ImageSearch/details/action",
+  "OperationName": "Image Insights",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Image Search - v7",
+  "Description": "Returns insights about an image, such as webpages that include the image.",
+  "IsDataAction": true
+}

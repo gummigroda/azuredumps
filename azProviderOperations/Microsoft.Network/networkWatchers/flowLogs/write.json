@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/flowLogs/write",
+  "OperationName": "Create Flow Log",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Flow Log",
+  "Description": "Creates a Flow Log",
+  "IsDataAction": false
+}

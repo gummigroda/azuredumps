@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnectionProxies/read",
+  "OperationName": "Private Link Proxies read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Private Link Proxies",
+  "Description": "Read Private Link Proxies",
+  "IsDataAction": false
+}

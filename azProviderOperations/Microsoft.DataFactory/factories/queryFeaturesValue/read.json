@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/queryFeaturesValue/read",
+  "OperationName": "Read exposure control feature values for a list of features",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Factory",
+  "Description": "Reads exposure control feature values for a list of features.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networkConfig/read",
+  "OperationName": "Get App Service Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Network Configuration",
+  "Description": "Get App Service Network Configuration.",
+  "IsDataAction": false
+}

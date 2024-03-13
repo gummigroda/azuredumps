@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/logDefinitions/read",
+  "OperationName": "Read IotHub service log definitions",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Gets the available log definitions for the IotHub Service",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/read",
+  "OperationName": "List Groups",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "List management groups for the authenticated user.",
+  "IsDataAction": false
+}

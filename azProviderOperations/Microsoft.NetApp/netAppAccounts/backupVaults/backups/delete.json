@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/backupVaults/backups/delete",
+  "OperationName": "Delete backup resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Backup resource type",
+  "Description": "Deletes a backup resource.",
+  "IsDataAction": false
+}

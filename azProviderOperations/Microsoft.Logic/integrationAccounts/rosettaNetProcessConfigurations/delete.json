@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/delete",
+  "OperationName": "Delete Integration Account RosettaNet Process Configuration",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account RosettaNet Process Configuration",
+  "Description": "Deletes the RosettaNet process configuration in integration account.",
+  "IsDataAction": false
+}

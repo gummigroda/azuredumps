@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/operationsStatus/read",
+  "OperationName": "Read Global OperationsStatus",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "operationsStatus",
+  "Description": "Read the status of an operation",
+  "IsDataAction": false
+}

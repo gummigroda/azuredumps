@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/networkrulesets/write",
+  "OperationName": "Create VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Network Rule Set",
+  "Description": "Create VNET Rule Resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedvmwarevsphere/register/action",
+  "OperationName": "register RP.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "",
+  "Description": "register RP.",
+  "IsDataAction": false
+}

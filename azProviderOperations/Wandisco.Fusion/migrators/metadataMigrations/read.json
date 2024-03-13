@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataMigrations/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataMigrations",
+  "Description": "Returns a given Metadata Migration.",
+  "IsDataAction": false
+}

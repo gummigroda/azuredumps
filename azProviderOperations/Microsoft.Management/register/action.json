@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/register/action",
+  "OperationName": "Register for Microsoft.Management",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "",
+  "Description": "Register the specified subscription with Microsoft.Management",
+  "IsDataAction": false
+}

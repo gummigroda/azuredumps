@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/hostGroups/hosts/write",
+  "OperationName": "Create or Update Host",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Hosts",
+  "Description": "Creates a new host or updates an existing host",
+  "IsDataAction": false
+}

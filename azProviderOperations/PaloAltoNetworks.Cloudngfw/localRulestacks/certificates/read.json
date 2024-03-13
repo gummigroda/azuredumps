@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/certificates/read",
+  "OperationName": "CertificateObjectLocalRulestack_Get",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/certificates",
+  "Description": "Get a CertificateObjectLocalRulestackResource",
+  "IsDataAction": false
+}

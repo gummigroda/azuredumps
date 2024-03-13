@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedopenstack/unregister/action",
+  "OperationName": "Unregister the microsoft.connectedopenstack",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for microsoft.connectedopenstack",
+  "IsDataAction": false
+}

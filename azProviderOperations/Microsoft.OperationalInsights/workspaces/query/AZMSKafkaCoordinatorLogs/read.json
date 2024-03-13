@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AZMSKafkaCoordinatorLogs/read",
+  "OperationName": "Read AZMSKafkaCoordinatorLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AZMSKafkaCoordinatorLogs",
+  "Description": "Read data from the AZMSKafkaCoordinatorLogs table",
+  "IsDataAction": false
+}

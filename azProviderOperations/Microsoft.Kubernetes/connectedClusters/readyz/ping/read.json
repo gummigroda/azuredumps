@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/ping/read",
+  "OperationName": "Gets/List ping resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/ping",
+  "Description": "Reads ping",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/snapshotPolicies/delete",
+  "OperationName": "Delete snapshot policy resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Snapshot Policies resource type",
+  "Description": "Deletes a snapshot policy resource.",
+  "IsDataAction": false
+}

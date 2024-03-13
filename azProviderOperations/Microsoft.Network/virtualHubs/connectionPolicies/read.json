@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/connectionPolicies/read",
+  "OperationName": "Gets Connection Policy child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ConnectionPolicy",
+  "Description": "Gets Connection Policy child resource of Virtual Hub",
+  "IsDataAction": false
+}

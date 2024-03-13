@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/emergingissues/read",
+  "OperationName": "Get Azure Emerging Issues",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Emerging Issues",
+  "Description": "Get Azure services' emerging issues",
+  "IsDataAction": false
+}

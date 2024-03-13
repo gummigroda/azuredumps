@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/read",
+  "OperationName": "Get a time series group's application instance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "App instances of a time series group",
+  "Description": "Get a time series group's application instance",
+  "IsDataAction": true
+}

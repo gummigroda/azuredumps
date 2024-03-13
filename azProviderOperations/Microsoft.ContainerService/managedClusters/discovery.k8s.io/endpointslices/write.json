@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/discovery.k8s.io/endpointslices/write",
+  "OperationName": "Creates/Updates endpointslices resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Endpointslices",
+  "Description": "Writes endpointslices",
+  "IsDataAction": true
+}

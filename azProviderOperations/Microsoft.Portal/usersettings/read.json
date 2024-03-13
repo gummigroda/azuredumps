@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Portal/usersettings/read",
+  "OperationName": "Get User Settings",
+  "ProviderNamespace": "Microsoft Portal",
+  "ResourceName": "UserSettings",
+  "Description": "Reads the Cloud Shell user settings.",
+  "IsDataAction": false
+}

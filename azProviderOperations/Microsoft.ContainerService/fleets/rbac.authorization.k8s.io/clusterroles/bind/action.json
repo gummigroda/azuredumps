@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/clusterroles/bind/action",
+  "OperationName": "Bind clusterroles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Clusterroles",
+  "Description": "Binds clusterroles",
+  "IsDataAction": true
+}

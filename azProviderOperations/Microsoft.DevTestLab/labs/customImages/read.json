@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/customImages/read",
+  "OperationName": "Read custom images.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "custom images",
+  "Description": "Read custom images.",
+  "IsDataAction": false
+}

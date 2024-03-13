@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/checkNameAvailability/read",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Name Availability",
+  "Description": "Checks that a key vault name is valid and is not in use",
+  "IsDataAction": false
+}

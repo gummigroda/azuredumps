@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/springbootapps/delete",
+  "OperationName": "springbootapps_Delete",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/springbootapps",
+  "Description": "Deletespringbootappsresource.",
+  "IsDataAction": false
+}

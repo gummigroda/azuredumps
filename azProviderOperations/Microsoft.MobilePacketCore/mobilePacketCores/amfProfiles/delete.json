@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/amfProfiles/delete",
+  "OperationName": "AmfProfiles_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/amfProfiles",
+  "Description": "Deletes the specified Mobile Packet Core Access and Mobility Management Function Profile resource.",
+  "IsDataAction": false
+}

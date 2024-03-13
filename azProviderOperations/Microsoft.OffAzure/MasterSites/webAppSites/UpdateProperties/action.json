@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/UpdateProperties/action",
+  "OperationName": "Create or Update Web App Properties for a given site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Site",
+  "Description": "Create or Update Web App Properties for a given site",
+  "IsDataAction": false
+}

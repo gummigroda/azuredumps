@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZones/delete",
+  "OperationName": "Delete Private DNS Zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private DNS Zone",
+  "Description": "Delete a Private DNS zone.",
+  "IsDataAction": false
+}

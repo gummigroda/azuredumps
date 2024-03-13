@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/redistributeThroughput/action",
+  "OperationName": "Redistribute throughput for the specified physical partitions of the database.",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Database throughput setting",
+  "Description": "Redistribute throughput for the specified physical partitions of the database.",
+  "IsDataAction": false
+}

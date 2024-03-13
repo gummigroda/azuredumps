@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/versions/write",
+  "OperationName": "Create or Update API version.",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "ApiVersion",
+  "Description": "Creates or updates API version.",
+  "IsDataAction": false
+}

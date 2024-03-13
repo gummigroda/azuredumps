@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/documents/formats/read",
+  "OperationName": "Read Supported Documents Formats",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Supported Documents Formats",
+  "Description": "List document formats supported by the Document Translation service.",
+  "IsDataAction": true
+}

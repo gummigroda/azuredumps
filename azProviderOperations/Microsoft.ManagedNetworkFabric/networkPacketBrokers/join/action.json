@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkPacketBrokers/join/action",
+  "OperationName": "NetworkPacketBrokers_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkPacketBrokers",
+  "Description": "Join action for Network Packet Broker resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/delete",
+  "OperationName": "Delete Volume Snapshot",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Volume Snapshots",
+  "Description": "Delete Volume Snapshot",
+  "IsDataAction": false
+}

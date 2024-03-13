@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/autoProvisioningSettings/write",
+  "OperationName": "Create auto provisioning setting",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Auto Provisioning Settings",
+  "Description": "Create or update security auto provisioning setting for the subscription",
+  "IsDataAction": false
+}

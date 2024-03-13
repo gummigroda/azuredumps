@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datapipelines/write",
+  "OperationName": "Create or Update Pipeline",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Pipeline",
+  "Description": "Creates or Updates any Pipeline.",
+  "IsDataAction": false
+}

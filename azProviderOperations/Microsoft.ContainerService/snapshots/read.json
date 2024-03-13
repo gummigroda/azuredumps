@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/snapshots/read",
+  "OperationName": "Get Snapshot",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Snapshots",
+  "Description": "Get a snapshot",
+  "IsDataAction": false
+}

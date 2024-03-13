@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/tags/action",
+  "OperationName": "CreateImageTags",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Associate a set of images with a set of tags.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/jobSchedules/read",
+  "OperationName": "Read an Azure Automation job schedule",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Job Schedule",
+  "Description": "Gets an Azure Automation job schedule",
+  "IsDataAction": false
+}

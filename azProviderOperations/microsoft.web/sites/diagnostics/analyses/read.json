@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/analyses/read",
+  "OperationName": "Get Web Apps Diagnostics Analysis",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Analysis",
+  "Description": "Get Web Apps Diagnostics Analysis.",
+  "IsDataAction": false
+}

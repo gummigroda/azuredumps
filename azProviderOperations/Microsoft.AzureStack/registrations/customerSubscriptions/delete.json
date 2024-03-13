@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStack/registrations/customerSubscriptions/delete",
+  "OperationName": "Delete Azure Stack Customer Subscription",
+  "ProviderNamespace": "Azure Stack Resource Provider",
+  "ResourceName": "Azure Stack Customer Subscription",
+  "Description": "Deletes an Azure Stack Customer Subscription",
+  "IsDataAction": false
+}

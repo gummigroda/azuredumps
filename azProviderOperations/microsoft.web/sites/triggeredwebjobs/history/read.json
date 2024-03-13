@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/triggeredwebjobs/history/read",
+  "OperationName": "Get Web Apps Triggered WebJobs History",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Triggered WebJobs History",
+  "Description": "Get Web Apps Triggered WebJobs History.",
+  "IsDataAction": false
+}

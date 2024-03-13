@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/images/tagged/read",
+  "OperationName": "GetTaggedImages",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "tagged*",
+  "Description": "This API supports batching and range selection. By default it will only return first 50 images matching images.",
+  "IsDataAction": true
+}

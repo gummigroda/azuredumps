@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/fluxConfigurations/write",
+  "OperationName": "Microsoft.KubernetesConfiguration/fluxConfigurations/write",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/fluxConfigurations",
+  "Description": "Creates or updates flux configuration.",
+  "IsDataAction": false
+}

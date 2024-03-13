@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/delete",
+  "OperationName": "ArtifactStores_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores",
+  "Description": "Deletes the specified artifact store.",
+  "IsDataAction": false
+}

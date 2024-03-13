@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/tenants/register/action",
+  "OperationName": "register tenants",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "tenants/register",
+  "Description": "Register action for scope of Microsoft.CostManagement by a tenant.",
+  "IsDataAction": false
+}

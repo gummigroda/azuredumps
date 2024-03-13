@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read log definitions",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "StorageCache log definitions",
+  "Description": "Gets the log definitions for the StorageCache",
+  "IsDataAction": false
+}

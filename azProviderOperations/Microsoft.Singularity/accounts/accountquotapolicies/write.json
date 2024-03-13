@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Singularity/accounts/accountquotapolicies/write",
+  "OperationName": "Add Singularity Account Limit Policy",
+  "ProviderNamespace": "Microsoft Singularity",
+  "ResourceName": "Singularity Account Quota Policy",
+  "Description": "Adds or updates Singularity account quota policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/portalSettings/read",
+  "OperationName": "Get portal settings or Get Sign In Settings or Get Sign Up Settings or Get Delegation Settings",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Portal Settings",
+  "Description": "Lists a collection of portal settings. or Get Sign In Settings for the Portal or Get Sign Up Settings for the Portal or Get Delegation Settings for the Portal.",
+  "IsDataAction": false
+}

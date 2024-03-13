@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/write",
+  "OperationName": "Set table service properties",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Table Services",
+  "Description": "Set table service properties",
+  "IsDataAction": false
+}

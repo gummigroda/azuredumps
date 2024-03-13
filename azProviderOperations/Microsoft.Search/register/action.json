@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/register/action",
+  "OperationName": "Register the Search Resource Provider",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the search resource provider and enables the creation of search services.",
+  "IsDataAction": false
+}

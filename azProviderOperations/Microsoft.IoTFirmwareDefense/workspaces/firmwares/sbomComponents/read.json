@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/workspaces/firmwares/sbomComponents/read",
+  "OperationName": "SbomComponents_ListByFirmware",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "workspaces/firmwares/sbomComponents",
+  "Description": "Lists SBOM analysis results of a firmware.",
+  "IsDataAction": false
+}

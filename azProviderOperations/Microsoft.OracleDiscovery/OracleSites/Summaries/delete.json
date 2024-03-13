@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/Summaries/delete",
+  "OperationName": "Summaries_Delete",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/Summaries",
+  "Description": "Deletes the Summaries resource.",
+  "IsDataAction": false
+}

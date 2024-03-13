@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/referencedatasets/delete",
+  "OperationName": "Delete Reference Data Set",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Reference Data Set",
+  "Description": "Deletes the reference data set.",
+  "IsDataAction": false
+}

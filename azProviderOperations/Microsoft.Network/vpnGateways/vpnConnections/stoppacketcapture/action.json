@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/stoppacketcapture/action",
+  "OperationName": "Stop packet capture for selected linked in vpn connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VpnConeection resource.",
+  "Description": "Stop packet capture for selected linked in vpn connection",
+  "IsDataAction": false
+}

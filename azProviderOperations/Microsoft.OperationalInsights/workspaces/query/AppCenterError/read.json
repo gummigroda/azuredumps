@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppCenterError/read",
+  "OperationName": "Read AppCenterError data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppCenterError",
+  "Description": "Read data from the AppCenterError table",
+  "IsDataAction": false
+}

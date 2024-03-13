@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/locations/tasks/start/action",
+  "OperationName": "Start Recommendation",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Recommendations",
+  "Description": "Start a security recommendation",
+  "IsDataAction": false
+}

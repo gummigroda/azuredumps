@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CleanRoom/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.CleanRoom",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

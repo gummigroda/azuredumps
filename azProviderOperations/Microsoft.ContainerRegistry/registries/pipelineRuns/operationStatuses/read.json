@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/pipelineRuns/operationStatuses/read",
+  "OperationName": "Get pipeline run async operation status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/PipelineRuns",
+  "Description": "Gets a pipeline run async operation status.",
+  "IsDataAction": false
+}

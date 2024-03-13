@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Microsoft ContainerRegistry metric definitions",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "The metric definition of Microsoft ContainerRegistry",
+  "Description": "Gets the available metrics for Microsoft ContainerRegistry",
+  "IsDataAction": false
+}

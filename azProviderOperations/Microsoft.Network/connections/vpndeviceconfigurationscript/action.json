@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/vpndeviceconfigurationscript/action",
+  "OperationName": "Gets Vpn Device Configuration of VirtualNetworkGatewayConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection",
+  "Description": "Gets Vpn Device Configuration of VirtualNetworkGatewayConnection",
+  "IsDataAction": false
+}

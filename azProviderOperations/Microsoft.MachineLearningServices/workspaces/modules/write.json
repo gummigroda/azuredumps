@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/modules/write",
+  "OperationName": "Creates or updates module in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Modules",
+  "Description": "Creates or updates module in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

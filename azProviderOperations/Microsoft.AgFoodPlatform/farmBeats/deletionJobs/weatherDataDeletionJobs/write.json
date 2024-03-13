@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/weatherDataDeletionJobs/write",
+  "OperationName": "Create or Update AgFoodPlatform weatherDataDeletionJobs.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform weatherDataDeletionJobs",
+  "Description": "Creates or Updates AgFoodPlatform weatherDataDeletionJobs.",
+  "IsDataAction": true
+}

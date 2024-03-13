@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/read",
+  "OperationName": "Get a database schema.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Schema",
+  "Description": "Get a database schema.",
+  "IsDataAction": false
+}

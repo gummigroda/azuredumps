@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userRead/action",
+  "OperationName": "Projects_Users_DevBoxes_UserRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to read their own Dev Box resources.",
+  "IsDataAction": true
+}

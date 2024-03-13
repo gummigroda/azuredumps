@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/listsecrets/action",
+  "OperationName": "List Container App Secrets",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App",
+  "Description": "List secrets of a container app",
+  "IsDataAction": false
+}

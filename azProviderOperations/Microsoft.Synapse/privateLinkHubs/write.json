@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/privateLinkHubs/write",
+  "OperationName": "Create PrivateLinkHubs.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "PrivateLinkHubs",
+  "Description": "Create any PrivateLinkHubs.",
+  "IsDataAction": false
+}

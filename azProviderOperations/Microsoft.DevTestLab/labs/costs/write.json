@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/costs/write",
+  "OperationName": "Add or modify costs.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "costs",
+  "Description": "Add or modify costs.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/triggeredwebjobs/run/action",
+  "OperationName": "Run Web Apps Slots Triggered WebJobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Triggered WebJobs",
+  "Description": "Run Web Apps Slots Triggered WebJobs.",
+  "IsDataAction": false
+}

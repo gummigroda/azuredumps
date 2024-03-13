@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/standards/read",
+  "OperationName": "Get security standards",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Secrity standards",
+  "Description": "Get the security standard",
+  "IsDataAction": false
+}

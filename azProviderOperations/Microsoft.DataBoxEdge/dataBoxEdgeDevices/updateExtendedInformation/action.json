@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/updateExtendedInformation/action",
+  "OperationName": "Updates resource extended information",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Updates resource extended information",
+  "IsDataAction": false
+}

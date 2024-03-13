@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/clientGroupMembers/action",
+  "OperationName": "Lists client group members for the selected client group.",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Lists the client group members for the selected client group.",
+  "IsDataAction": false
+}

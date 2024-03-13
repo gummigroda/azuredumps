@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/clientConnection/send/action",
+  "OperationName": "Send messages to client connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/ClientConnection",
+  "Description": "Send messages directly to a client connection",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/generateSsoUrl/action",
+  "OperationName": "Generage SSO URL",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "User accounts",
+  "Description": "Retrieves a redirection URL containing an authentication token for signing a given user into the developer portal.",
+  "IsDataAction": false
+}

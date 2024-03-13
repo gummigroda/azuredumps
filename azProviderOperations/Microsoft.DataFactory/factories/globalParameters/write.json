@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/globalParameters/write",
+  "OperationName": "Create or Update GlobalParameter",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Global Parameter",
+  "Description": "Create or Update GlobalParameter.",
+  "IsDataAction": false
+}

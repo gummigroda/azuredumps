@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/networking.k8s.io/networkpolicies/read",
+  "OperationName": "Gets/List networkpolicies resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "networkpolicies",
+  "Description": "Reads networkpolicies",
+  "IsDataAction": true
+}

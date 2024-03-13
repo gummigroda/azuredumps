@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/read",
+  "OperationName": "Read Data Share ShareSubscription",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ShareSubscription",
+  "Description": "Reads a Data Share ShareSubscription.",
+  "IsDataAction": false
+}

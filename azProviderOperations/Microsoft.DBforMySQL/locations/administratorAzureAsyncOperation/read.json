@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/administratorAzureAsyncOperation/read",
+  "OperationName": "MySQL server administrator operation",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Administrator opertiaons of MySQL server.",
+  "Description": "Gets in-progress operations on MySQL server administrators",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/downloadDocuments/action",
+  "OperationName": "Download Invoice",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Subscriptions",
+  "Description": "Download invoice using download link from list",
+  "IsDataAction": false
+}

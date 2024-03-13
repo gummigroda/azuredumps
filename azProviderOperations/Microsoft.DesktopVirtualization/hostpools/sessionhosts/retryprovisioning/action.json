@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhosts/retryprovisioning/action",
+  "OperationName": "retryprovisioning",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhosts",
+  "Description": "Action on retryprovisioning.",
+  "IsDataAction": false
+}

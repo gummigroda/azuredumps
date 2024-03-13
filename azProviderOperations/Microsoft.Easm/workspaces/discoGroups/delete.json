@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/discoGroups/delete",
+  "OperationName": "DiscoGroups_Remove",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Remove a disco group with a given discoGroupName.",
+  "IsDataAction": true
+}

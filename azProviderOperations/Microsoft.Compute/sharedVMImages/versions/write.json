@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMImages/versions/write",
+  "OperationName": "Create or Update SharedVMImageVersion",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMImageVersions",
+  "Description": "Create a new SharedVMImageVersion or update an existing one",
+  "IsDataAction": false
+}

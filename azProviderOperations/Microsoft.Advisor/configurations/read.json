@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/configurations/read",
+  "OperationName": "Read Configurations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Configurations",
+  "Description": "Get configurations",
+  "IsDataAction": false
+}

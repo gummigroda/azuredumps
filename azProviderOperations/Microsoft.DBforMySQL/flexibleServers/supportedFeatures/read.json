@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/supportedFeatures/read",
+  "OperationName": "List the MySQL Server Supported Features",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Supported Feature",
+  "Description": "Return the list of the MySQL Server Supported Features",
+  "IsDataAction": false
+}

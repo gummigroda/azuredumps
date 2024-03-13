@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nssfProfiles/delete",
+  "OperationName": "NssfProfiles_Delete",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nssfProfiles",
+  "Description": "Deletes the specified Mobile Packet Core Network Slice Selection Function Profile resource.",
+  "IsDataAction": false
+}

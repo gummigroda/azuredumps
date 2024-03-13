@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/PrivateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache",
+  "Description": "Approve Private Endpoint Connections",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/identityProviders/listSecrets/action",
+  "OperationName": "Get Identity Provider secrets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Identity Providers",
+  "Description": "Gets Identity Provider secrets.",
+  "IsDataAction": false
+}

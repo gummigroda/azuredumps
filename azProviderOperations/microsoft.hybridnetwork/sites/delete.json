@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/sites/delete",
+  "OperationName": "Sites_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "sites",
+  "Description": "Deletes the specified network site.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/unregister/action",
+  "OperationName": "Unregister the Microsoft.Certify",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Certify",
+  "IsDataAction": false
+}

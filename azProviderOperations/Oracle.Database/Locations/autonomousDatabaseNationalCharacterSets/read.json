@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/locations/autonomousDatabaseNationalCharacterSets/read",
+  "OperationName": "AutonomousDatabaseNationalCharacterSets_Get",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "locations/autonomousDatabaseNationalCharacterSets",
+  "Description": "Get a AutonomousDatabaseNationalCharacterSet",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/openidConnectProviders/read",
+  "OperationName": "Get OpenID providers list or Get OpenID Connect Provider details without secrets",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "OpenID Connect Providers",
+  "Description": "Lists of all the OpenId Connect Providers. or Gets specific OpenID Connect Provider without secrets.",
+  "IsDataAction": false
+}

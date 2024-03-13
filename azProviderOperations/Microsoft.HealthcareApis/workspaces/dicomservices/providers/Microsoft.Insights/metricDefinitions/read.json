@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/workspaces/dicomservices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read the Azure service metrics definitions.",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure service metrics settings.",
+  "Description": "Gets the metrics settings for the Azure service.",
+  "IsDataAction": false
+}

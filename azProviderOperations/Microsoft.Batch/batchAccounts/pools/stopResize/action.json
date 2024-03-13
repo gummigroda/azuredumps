@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/pools/stopResize/action",
+  "OperationName": "Stop Pool Resize",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Pools",
+  "Description": "Stops an ongoing resize operation on a Batch account pool",
+  "IsDataAction": false
+}

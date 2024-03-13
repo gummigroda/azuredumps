@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/networkSecurityPerimeterUpdatesAvailableAzureAsyncOperation/read",
+  "OperationName": "Get network security perimeter updates available azure async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL DB Network Security Perimeter Updates",
+  "Description": "Get network security perimeter updates available azure async operation",
+  "IsDataAction": false
+}

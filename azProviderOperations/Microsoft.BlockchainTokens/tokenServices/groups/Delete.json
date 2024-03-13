@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BlockchainTokens/tokenServices/groups/Delete",
+  "OperationName": "Deletes groups resource",
+  "ProviderNamespace": "Microsoft.BlockchainTokens",
+  "ResourceName": "groups",
+  "Description": "Deletes groups",
+  "IsDataAction": false
+}

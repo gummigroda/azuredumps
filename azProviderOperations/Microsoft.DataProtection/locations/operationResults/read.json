@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/locations/operationResults/read",
+  "OperationName": "Get Backup Operation Result",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Operation Results",
+  "Description": "Returns Backup Operation Result for Backup Vault.",
+  "IsDataAction": false
+}

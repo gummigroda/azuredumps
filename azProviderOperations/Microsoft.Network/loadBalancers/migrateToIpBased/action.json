@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/migrateToIpBased/action",
+  "OperationName": "Migrate from NIC based to IP based Load Balancer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Migrate from NIC based to IP based Load Balancer",
+  "IsDataAction": false
+}

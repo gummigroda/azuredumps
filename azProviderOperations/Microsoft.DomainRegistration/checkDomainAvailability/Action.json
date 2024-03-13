@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DomainRegistration/checkDomainAvailability/Action",
+  "OperationName": "Check Domain Availablity",
+  "ProviderNamespace": "Microsoft Domains",
+  "ResourceName": "",
+  "Description": "Check if a domain is available for purchase",
+  "IsDataAction": false
+}

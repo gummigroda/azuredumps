@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceGraph/resources/read",
+  "OperationName": "Query resources",
+  "ProviderNamespace": "Microsoft Resource Graph",
+  "ResourceName": "Resources",
+  "Description": "Submits a query on resources within specified subscriptions, management groups or tenant scope",
+  "IsDataAction": false
+}

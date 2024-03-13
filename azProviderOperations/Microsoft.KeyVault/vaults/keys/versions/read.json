@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/versions/read",
+  "OperationName": "Read Key Version",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key Version",
+  "Description": "List the versions of a specified key, or read the specified version of a key.",
+  "IsDataAction": false
+}

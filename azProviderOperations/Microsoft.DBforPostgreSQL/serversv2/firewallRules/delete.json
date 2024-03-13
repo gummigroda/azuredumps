@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/serversv2/firewallRules/delete",
+  "OperationName": "Delete Firewall Rule",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Firewall Rules",
+  "Description": "Deletes an existing firewall rule.",
+  "IsDataAction": false
+}

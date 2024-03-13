@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/register/action",
+  "OperationName": "Register Classic Storage",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "",
+  "Description": "Register to Classic Storage",
+  "IsDataAction": false
+}

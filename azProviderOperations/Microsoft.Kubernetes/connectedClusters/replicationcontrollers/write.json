@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/replicationcontrollers/write",
+  "OperationName": "Creates/Updates replicationcontrollers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "replicationcontrollers",
+  "Description": "Writes replicationcontrollers",
+  "IsDataAction": true
+}

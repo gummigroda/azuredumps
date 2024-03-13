@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/firstpartyapps/settings/delete",
+  "OperationName": "Delete App Service Plans First Party Apps Settings",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans First Party Apps Settings",
+  "Description": "Delete App Service Plans First Party Apps Settings.",
+  "IsDataAction": false
+}

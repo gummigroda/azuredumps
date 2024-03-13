@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/boundaries/list/action",
+  "OperationName": "List AgFoodPlatform boundary resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform boundaries",
+  "Description": "List(s) existing AgFoodPlatform boundary resource(s).",
+  "IsDataAction": true
+}

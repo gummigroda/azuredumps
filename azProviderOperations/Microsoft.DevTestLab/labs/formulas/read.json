@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/formulas/read",
+  "OperationName": "Read formulas.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Formulas",
+  "Description": "Read formulas.",
+  "IsDataAction": false
+}

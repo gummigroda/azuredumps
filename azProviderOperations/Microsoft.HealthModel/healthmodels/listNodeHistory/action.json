@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/healthmodels/listNodeHistory/action",
+  "OperationName": "HealthModels_ListNodeHistory",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "healthmodels",
+  "Description": "Lists the health state history of a specific node with all its queries",
+  "IsDataAction": false
+}

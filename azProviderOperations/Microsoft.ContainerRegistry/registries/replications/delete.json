@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/replications/delete",
+  "OperationName": "Delete Replication",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Replications",
+  "Description": "Deletes a replication from a container registry.",
+  "IsDataAction": false
+}

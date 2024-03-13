@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/W3CIISLog/read",
+  "OperationName": "Read W3CIISLog data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "W3CIISLog",
+  "Description": "Read data from the W3CIISLog table",
+  "IsDataAction": false
+}

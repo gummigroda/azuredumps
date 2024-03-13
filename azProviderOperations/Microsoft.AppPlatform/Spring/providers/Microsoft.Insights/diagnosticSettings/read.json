@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get the diagnostic settings of an Azure Spring Apps service instance",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The diagnostic settings of Microsoft Azure Spring Apps",
+  "Description": "Get the diagnostic settings for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

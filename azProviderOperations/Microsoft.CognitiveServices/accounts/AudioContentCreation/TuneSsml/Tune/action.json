@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/TuneSsml/Tune/action",
+  "OperationName": "Tune ssml tag on ssml.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Ssml operation",
+  "Description": "Tune ssml tag on ssml.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/domains/networkSecurityPerimeterAssociationProxies/write",
+  "OperationName": "Write NspAssociationProxies for domains",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "networkSecurityPerimeterAssociationProxies",
+  "Description": "Write NspAssociationProxies for domains",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/businesscases/evaluatedsqlentities/read",
+  "OperationName": "Get Evaluated SQL entity",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Evaluated SQL Entities",
+  "Description": "Get the properties of an evaluated SQL entities",
+  "IsDataAction": false
+}

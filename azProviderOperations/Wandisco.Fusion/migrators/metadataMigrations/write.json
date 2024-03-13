@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataMigrations/write",
+  "OperationName": "CreateOrUpdate",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataMigrations",
+  "Description": "Creates a Metadata Migration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/configSnapshots/getResource/action",
+  "OperationName": "ConfigSnapshots_GetResource",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/configSnapshots",
+  "Description": "action getResource",
+  "IsDataAction": false
+}

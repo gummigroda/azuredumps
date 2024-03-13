@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete PrivateEndpointConnectionProxy resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "PrivateEndpointConnectionProxy",
+  "Description": "Delete PrivateEndpointConnectionProxy",
+  "IsDataAction": false
+}

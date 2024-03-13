@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/networkInterfaces/ipConfigurations/publicIPAddresses/read",
+  "OperationName": "Get public IP address created using Virtual Machine Scale Set. Virtual Machine Scale Set can create at most one public IP per ipconfiguration (private IP)",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "IP address created using Virtual Machine Scale Set",
+  "Description": "Get properties of public IP address created using Virtual Machine Scale Set. Virtual Machine Scale Set can create at most one public IP per ipconfiguration (private IP)",
+  "IsDataAction": false
+}

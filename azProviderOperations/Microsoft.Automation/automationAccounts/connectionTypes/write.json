@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/connectionTypes/write",
+  "OperationName": "Create an Azure Automation connection asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Connection Type Asset",
+  "Description": "Creates an Azure Automation connection type asset",
+  "IsDataAction": false
+}

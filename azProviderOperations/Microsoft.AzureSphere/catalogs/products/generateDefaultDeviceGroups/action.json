@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/products/generateDefaultDeviceGroups/action",
+  "OperationName": "Products_GenerateDefaultDeviceGroups",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs/products",
+  "Description": "Generates default device groups for the product. '.default' and '.unassigned' are system defined values and cannot be used for product name.",
+  "IsDataAction": false
+}

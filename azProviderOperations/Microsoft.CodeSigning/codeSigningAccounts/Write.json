@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/codeSigningAccounts/Write",
+  "OperationName": "Creates/Updates Code Signing Accounts",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CodeSigningAccounts",
+  "Description": "Creates or updates code signing account.",
+  "IsDataAction": false
+}

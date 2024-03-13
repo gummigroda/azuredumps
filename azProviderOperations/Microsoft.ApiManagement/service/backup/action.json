@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/backup/action",
+  "OperationName": "Backup API Management Service",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Service",
+  "Description": "Backup API Management Service to the specified container in a user provided storage account",
+  "IsDataAction": false
+}

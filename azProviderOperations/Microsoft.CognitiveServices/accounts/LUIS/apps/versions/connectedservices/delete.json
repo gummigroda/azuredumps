@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/connectedservices/delete",
+  "OperationName": "dispatch - Deletes connected service",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "connectedservices*",
+  "Description": "Deletes the mapping between an intent and a service",
+  "IsDataAction": true
+}

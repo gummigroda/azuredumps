@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apps/statefulsets/read",
+  "OperationName": "Gets/List statefulsets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "statefulsets",
+  "Description": "Reads statefulsets",
+  "IsDataAction": true
+}

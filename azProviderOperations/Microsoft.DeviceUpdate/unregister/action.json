@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/unregister/action",
+  "OperationName": "Unregister Device Update",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "",
+  "Description": "Unregisters Device Update",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/maccs/cancel/action",
+  "OperationName": "Cancel a MACC",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "MACC",
+  "Description": "Cancel a MACC",
+  "IsDataAction": false
+}

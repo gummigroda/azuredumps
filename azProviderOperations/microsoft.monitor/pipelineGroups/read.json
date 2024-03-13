@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/pipelineGroups/read",
+  "OperationName": "Read Pipeline Groups",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read any Pipeline Group",
+  "IsDataAction": false
+}

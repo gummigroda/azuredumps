@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/write",
+  "OperationName": "Write Client Encryption Key",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Client Encryption Key",
+  "Description": "Create or update a Client Encryption Key.",
+  "IsDataAction": false
+}

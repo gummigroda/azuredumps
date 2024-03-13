@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/assessments/subAssessments/read",
+  "OperationName": "Get sub assessments",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Sub Assessments",
+  "Description": "Get security sub assessments on your subscription",
+  "IsDataAction": false
+}

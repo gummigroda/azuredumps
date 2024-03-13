@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/securityAlertPolicies/write",
+  "OperationName": "Update server threat detection policy",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Server Threat Detection Policy",
+  "Description": "Change the server threat detection policy for a given server",
+  "IsDataAction": false
+}

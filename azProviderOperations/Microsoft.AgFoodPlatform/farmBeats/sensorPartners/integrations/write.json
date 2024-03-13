@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/integrations/write",
+  "OperationName": "Create or Update AgFoodPlatform sensor partner integrations.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensor partner integrations",
+  "Description": "Creates or Updates AgFoodPlatform sensor partner integrations.",
+  "IsDataAction": true
+}

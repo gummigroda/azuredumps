@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/premieraddons/read",
+  "OperationName": "Get Web Apps Premier Addons",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Premier Addons",
+  "Description": "Get Web Apps Premier Addons.",
+  "IsDataAction": false
+}

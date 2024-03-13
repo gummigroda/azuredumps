@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/intelligencepacks/read",
+  "OperationName": "List Intelligence Packs",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Intelligence Pack",
+  "Description": "Lists all intelligence packs that are visible for a given workspace and also lists whether the pack is enabled or disabled for that workspace.",
+  "IsDataAction": false
+}

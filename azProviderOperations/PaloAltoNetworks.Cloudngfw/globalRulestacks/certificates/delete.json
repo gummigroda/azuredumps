@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/certificates/delete",
+  "OperationName": "CertificateObjectGlobalRulestack_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/certificates",
+  "Description": "Delete a CertificateObjectGlobalRulestackResource",
+  "IsDataAction": false
+}

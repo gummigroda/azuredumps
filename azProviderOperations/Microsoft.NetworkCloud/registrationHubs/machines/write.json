@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/registrationHubs/machines/write",
+  "OperationName": "RegistrationHubMachines_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "registrationHubs/machines",
+  "Description": "Patch properties of the provided registration hub machine, or update the tags associated with the registration hub machine. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

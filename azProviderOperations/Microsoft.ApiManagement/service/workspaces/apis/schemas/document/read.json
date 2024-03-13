@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/schemas/document/read",
+  "OperationName": "Get the document for the schema",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Document describing the API schema",
+  "Description": "Get the document describing the Schema",
+  "IsDataAction": false
+}

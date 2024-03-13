@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/ipConfigurations/read",
+  "OperationName": "Get Hub IpConfiguration child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents Hub IpConfiguration resource",
+  "Description": "Gets a Hub IpConfiguration child resource of Virtual Hub",
+  "IsDataAction": false
+}

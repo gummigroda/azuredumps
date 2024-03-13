@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/capabilities/read",
+  "OperationName": "Get the capabilities for subscription",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Location Capability",
+  "Description": "Gets the capabilities for this subscription in a given location",
+  "IsDataAction": false
+}

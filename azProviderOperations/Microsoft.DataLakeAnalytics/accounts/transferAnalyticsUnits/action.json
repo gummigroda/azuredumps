@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/transferAnalyticsUnits/action",
+  "OperationName": "Transfer AnalyticsUnits",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Account",
+  "Description": "Transfer SystemMaxAnalyticsUnits among DataLakeAnalytics accounts.",
+  "IsDataAction": false
+}

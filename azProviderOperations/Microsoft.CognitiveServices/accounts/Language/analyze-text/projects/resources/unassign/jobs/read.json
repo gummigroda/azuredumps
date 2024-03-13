@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/resources/unassign/jobs/read",
+  "OperationName": "Get unassign deployment resources status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status of an existing unassign deployment resources job.",
+  "IsDataAction": true
+}

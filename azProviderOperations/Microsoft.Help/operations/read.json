@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/operations/read",
+  "OperationName": "List operations",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "Operations",
+  "Description": "Lists all operations available on Microsoft.Help resource provide",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/jobs/read",
+  "OperationName": "List or Get Jobs",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Jobs",
+  "Description": "Lists jobs on a Batch account or gets the properties of a job",
+  "IsDataAction": true
+}

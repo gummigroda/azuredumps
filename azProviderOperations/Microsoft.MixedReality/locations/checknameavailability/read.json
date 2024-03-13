@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MixedReality/locations/checknameavailability/read",
+  "OperationName": "Checks for name availability",
+  "ProviderNamespace": "Microsoft.MixedReality",
+  "ResourceName": "Mixed Reality resource provider",
+  "Description": "Checks for name availability",
+  "IsDataAction": false
+}

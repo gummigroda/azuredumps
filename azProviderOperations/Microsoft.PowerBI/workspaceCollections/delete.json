@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/workspaceCollections/delete",
+  "OperationName": "Delete Workspace Collection",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspace Collections",
+  "Description": "Deletes the specified Power BI Workspace Collection.",
+  "IsDataAction": false
+}

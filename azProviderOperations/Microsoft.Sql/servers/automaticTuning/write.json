@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/automaticTuning/write",
+  "OperationName": "Update automatic tuning settings for the server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Automatic Tuning",
+  "Description": "Updates automatic tuning settings for the server and returns updated settings",
+  "IsDataAction": false
+}

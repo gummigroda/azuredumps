@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/hostingenvironments/multirolepools/skus/read",
+  "OperationName": "Get Hosting Environments MultiRole Pools SKUs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environments MultiRole Pools SKUs",
+  "Description": "Get Hosting Environments MultiRole Pools SKUs.",
+  "IsDataAction": false
+}

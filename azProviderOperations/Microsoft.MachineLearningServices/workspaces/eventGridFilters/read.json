@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/eventGridFilters/read",
+  "OperationName": "Get an Event Grid filter for a particular workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Event Grid Filters",
+  "Description": "Get an Event Grid filter for a particular workspace",
+  "IsDataAction": false
+}

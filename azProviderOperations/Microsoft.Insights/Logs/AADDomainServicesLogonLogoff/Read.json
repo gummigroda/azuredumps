@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AADDomainServicesLogonLogoff/Read",
+  "OperationName": "Read AADDomainServicesLogonLogoff data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AADDomainServicesLogonLogoff",
+  "Description": "Read data from the AADDomainServicesLogonLogoff table",
+  "IsDataAction": false
+}

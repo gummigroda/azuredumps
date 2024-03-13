@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/privateEndpointConnections/write",
+  "OperationName": "Create or Update Private Endpoint Connection",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Create or Update Private Endpoint Connection",
+  "IsDataAction": false
+}

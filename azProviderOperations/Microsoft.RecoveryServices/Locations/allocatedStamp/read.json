@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/locations/allocatedStamp/read",
+  "OperationName": "Get Allocated Stamp",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "locations/allocatedStamp",
+  "Description": "GetAllocatedStamp is internal operation used by service",
+  "IsDataAction": false
+}

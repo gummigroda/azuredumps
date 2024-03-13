@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/monitoringConfig/delete",
+  "OperationName": "Delete monitoring configuration",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "monitoring configuration",
+  "Description": "Deletes the monitoring configuration",
+  "IsDataAction": false
+}

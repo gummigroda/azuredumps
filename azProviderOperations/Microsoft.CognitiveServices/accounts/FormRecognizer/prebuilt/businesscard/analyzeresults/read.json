@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/prebuilt/businesscard/analyzeresults/read",
+  "OperationName": "Get Analyze Business Card Result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Businesscard Analysis Results",
+  "Description": "Query the status and retrieve the result of an <a href=\"/docs/services/form-recognizer-api-v2-1-preview-1/operations/AnalyzeBusinessCardAsync\">Analyze Business Card</a> operation. The URL to this interface can be obtained from the 'Operation-Location' header in the <a href=\"/docs/services/form-recognizer-api-v2-1-preview-1/operations/AnalyzeBusinessCardAsync\">Analyze Business Card</a> response.",
+  "IsDataAction": true
+}

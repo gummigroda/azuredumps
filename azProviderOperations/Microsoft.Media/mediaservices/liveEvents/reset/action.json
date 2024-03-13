@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/liveEvents/reset/action",
+  "OperationName": "Reset Live Event Operation",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Live Event",
+  "Description": "Reset any Live Event Operation",
+  "IsDataAction": false
+}

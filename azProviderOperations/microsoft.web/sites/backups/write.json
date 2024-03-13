@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/backups/write",
+  "OperationName": "Update Web Apps Backups",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Backups",
+  "Description": "Update Web Apps Backups.",
+  "IsDataAction": false
+}

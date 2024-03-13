@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AppAvailabilityResults/Read",
+  "OperationName": "Read AppAvailabilityResults data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AppAvailabilityResults",
+  "Description": "Read data from the AppAvailabilityResults table",
+  "IsDataAction": false
+}

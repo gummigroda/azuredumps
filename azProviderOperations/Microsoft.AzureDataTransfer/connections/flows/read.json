@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/read",
+  "OperationName": "Flows_ListByConnection",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Gets flows in a connection.",
+  "IsDataAction": false
+}

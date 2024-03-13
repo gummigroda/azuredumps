@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/privateEndpointConnections/delete",
+  "OperationName": "Delete Private endpoint connection",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Delete a Private endpoint connection on a Batch account",
+  "IsDataAction": false
+}

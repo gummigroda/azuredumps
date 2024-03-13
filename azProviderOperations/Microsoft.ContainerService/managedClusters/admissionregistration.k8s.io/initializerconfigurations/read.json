@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/admissionregistration.k8s.io/initializerconfigurations/read",
+  "OperationName": "Gets/List initializerconfigurations resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Initializerconfigurations",
+  "Description": "Reads initializerconfigurations",
+  "IsDataAction": true
+}

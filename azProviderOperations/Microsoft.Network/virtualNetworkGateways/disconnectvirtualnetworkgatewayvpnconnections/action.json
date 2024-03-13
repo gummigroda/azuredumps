@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/disconnectvirtualnetworkgatewayvpnconnections/action",
+  "OperationName": "Disconnect virtual network gateway vpn connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Disconnect virtual network gateway vpn connections",
+  "IsDataAction": false
+}

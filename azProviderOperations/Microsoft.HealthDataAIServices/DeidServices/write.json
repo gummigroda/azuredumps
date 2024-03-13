@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/DeidServices/write",
+  "OperationName": "DeidServices_Update",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "DeidServices",
+  "Description": "Update a DeidService",
+  "IsDataAction": false
+}

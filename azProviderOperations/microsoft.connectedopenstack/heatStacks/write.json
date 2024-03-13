@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/heatStacks/write",
+  "OperationName": "HeatStacks_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "heatStacks",
+  "Description": "API to update certain properties of the HeatStack resource.",
+  "IsDataAction": false
+}

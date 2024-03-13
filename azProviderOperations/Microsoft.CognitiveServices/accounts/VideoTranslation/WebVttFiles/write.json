@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/WebVttFiles/write",
+  "OperationName": "Create or update webvtt files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "WebVtt files operations.",
+  "Description": "Create or update webvtt files.",
+  "IsDataAction": true
+}

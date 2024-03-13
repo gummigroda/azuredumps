@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/read",
+  "OperationName": "Get Virtual Network Subnet",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Gets a virtual network subnet definition",
+  "IsDataAction": false
+}

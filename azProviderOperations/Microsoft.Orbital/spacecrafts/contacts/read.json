@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/contacts/read",
+  "OperationName": "Read Contact",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contacts",
+  "Description": "Read any Contact",
+  "IsDataAction": false
+}

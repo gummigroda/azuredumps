@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/channels/read",
+  "OperationName": "Read Channel",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "channels",
+  "Description": "Read a channel",
+  "IsDataAction": false
+}

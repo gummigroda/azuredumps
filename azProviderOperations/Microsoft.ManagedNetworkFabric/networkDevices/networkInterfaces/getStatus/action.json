@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkDevices/networkInterfaces/getStatus/action",
+  "OperationName": "NetworkInterfaces_getStatus",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkDevices/networkInterfaces",
+  "Description": "Get the running status of the Network Interface.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/evaluations/read",
+  "OperationName": "Gets details of one or more evaluations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Evaluations",
+  "Description": "Gets details of one or more evaluations",
+  "IsDataAction": true
+}

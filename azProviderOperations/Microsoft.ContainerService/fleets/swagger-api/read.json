@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/swagger-api/read",
+  "OperationName": "Gets/List swagger-api resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Swagger-Api",
+  "Description": "Reads swagger-api",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAOfficeMacroSummary/Read",
+  "OperationName": "Read MAOfficeMacroSummary data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAOfficeMacroSummary",
+  "Description": "Read data from the MAOfficeMacroSummary table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/locations/checkquotaavailability/action",
+  "OperationName": "Check quota availability",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "NetApp resources",
+  "Description": "Check if a quota is available.",
+  "IsDataAction": false
+}

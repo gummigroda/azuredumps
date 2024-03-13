@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write diagnostic setting",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "Topics Diagnostics",
+  "Description": "Creates or updates the diagnostic setting for topics",
+  "IsDataAction": false
+}

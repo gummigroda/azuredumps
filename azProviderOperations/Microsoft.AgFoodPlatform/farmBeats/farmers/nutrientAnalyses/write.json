@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/nutrientAnalyses/write",
+  "OperationName": "Create or Update AgFoodPlatform nutrient analyses.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform nutrient analyses",
+  "Description": "Creates or Updates AgFoodPlatform nutrient analyses.",
+  "IsDataAction": true
+}

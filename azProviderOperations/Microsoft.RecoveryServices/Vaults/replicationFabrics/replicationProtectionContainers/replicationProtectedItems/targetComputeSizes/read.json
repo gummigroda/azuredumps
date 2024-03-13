@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/targetComputeSizes/read",
+  "OperationName": "Read Target Compute Sizes",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Target Compute Sizes",
+  "Description": "Read any Target Compute Sizes",
+  "IsDataAction": false
+}

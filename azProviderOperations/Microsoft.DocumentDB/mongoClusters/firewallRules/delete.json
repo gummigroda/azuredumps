@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/firewallRules/delete",
+  "OperationName": "Delete Mongo Cluster Firewall Rule",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Firewall Rule",
+  "Description": "Deletes an existing firewall rule for the specified Mongo Cluster.",
+  "IsDataAction": false
+}

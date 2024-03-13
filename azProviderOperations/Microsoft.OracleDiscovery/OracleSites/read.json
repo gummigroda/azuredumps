@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/read",
+  "OperationName": "OracleSites_ListBySubscription",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites",
+  "Description": "Lists the OracleSites resource in a subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/livez/etcd/read",
+  "OperationName": "Gets/List etcd resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez/Etcd",
+  "Description": "Reads etcd",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/labels/read",
+  "OperationName": "Labels_GetByWorkspace",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces/labels",
+  "Description": "Returns a label in the given workspace.",
+  "IsDataAction": false
+}

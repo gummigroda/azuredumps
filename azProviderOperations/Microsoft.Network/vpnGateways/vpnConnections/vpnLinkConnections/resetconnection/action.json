@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnGateways/vpnConnections/vpnLinkConnections/resetconnection/action",
+  "OperationName": "Resets connection for vWAN",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Link Connection resource",
+  "Description": "Resets connection for vWAN",
+  "IsDataAction": false
+}

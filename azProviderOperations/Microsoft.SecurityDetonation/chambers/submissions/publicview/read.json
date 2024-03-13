@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/publicview/read",
+  "OperationName": "Submissions Public View Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions Public View",
+  "Description": "Allows retrieving (including in bulk) submissions which are marked as public",
+  "IsDataAction": true
+}

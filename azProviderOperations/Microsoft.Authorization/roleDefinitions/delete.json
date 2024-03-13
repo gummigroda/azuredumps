@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleDefinitions/delete",
+  "OperationName": "Delete custom role definition",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role definition",
+  "Description": "Delete the specified custom role definition.",
+  "IsDataAction": false
+}

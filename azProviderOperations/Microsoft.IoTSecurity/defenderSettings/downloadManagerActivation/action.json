@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/defenderSettings/downloadManagerActivation/action",
+  "OperationName": "Download manager activation file",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Defender Settings",
+  "Description": "Download manager activation file",
+  "IsDataAction": false
+}

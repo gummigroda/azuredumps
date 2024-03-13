@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/tenants/read",
+  "OperationName": "List tenants",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "tenants/register",
+  "Description": "List tenants",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/suggest/delete",
+  "OperationName": "Delete endpoint utterance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Suggest",
+  "Description": "Deleted an endpoint utterance. This utterance is in the \"Review endpoint utterances\" list.",
+  "IsDataAction": true
+}

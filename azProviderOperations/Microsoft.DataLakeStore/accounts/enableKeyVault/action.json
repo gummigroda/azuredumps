@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/enableKeyVault/action",
+  "OperationName": "Enable Key Vault for DataLakeStore Account",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Account",
+  "Description": "Enable KeyVault for a DataLakeStore account.",
+  "IsDataAction": false
+}

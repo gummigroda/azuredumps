@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies/write",
+  "OperationName": "Create ResourceGuard proxy",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Resource Guard Proxy",
+  "Description": "Create ResourceGuard proxy operation creates an Azure resource of type 'ResourceGuard Proxy'",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/read",
+  "OperationName": "List/Get Sumissions",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions",
+  "Description": "Allows retrieving submissions using submission IDs for submissions marked as 'shared with Submitter'",
+  "IsDataAction": true
+}

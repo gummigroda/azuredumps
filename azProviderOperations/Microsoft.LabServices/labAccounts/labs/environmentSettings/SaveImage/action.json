@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/SaveImage/action",
+  "OperationName": "Saves current template image to the shared gallery in the lab account",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environment Setting",
+  "Description": "Saves current template image to the shared gallery in the lab account",
+  "IsDataAction": false
+}

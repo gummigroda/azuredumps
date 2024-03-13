@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnectionProxies/write",
+  "OperationName": "Creates or updates a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Creates a Private Endpoint Connection Proxy or updates an existing Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

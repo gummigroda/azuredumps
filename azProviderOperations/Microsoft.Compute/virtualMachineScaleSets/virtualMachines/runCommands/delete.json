@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands/delete",
+  "OperationName": "Delete run command for Virtual Machine in Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "RunCommands for Virtual Machines in Virtual Machine Scale Set",
+  "Description": "Deletes the run command for Virtual Machine in Virtual Machine Scale Set",
+  "IsDataAction": false
+}

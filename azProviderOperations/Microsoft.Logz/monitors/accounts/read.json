@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/accounts/read",
+  "OperationName": "Get/List sub account resources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Accounts",
+  "Description": "Read sub account",
+  "IsDataAction": false
+}

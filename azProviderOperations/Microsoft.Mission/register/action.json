@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/register/action",
+  "OperationName": "Register the Microsoft.Mission",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Mission",
+  "IsDataAction": false
+}

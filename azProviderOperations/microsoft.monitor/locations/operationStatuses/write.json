@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/locations/operationStatuses/write",
+  "OperationName": "Create or Update Operation Statuses",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Operation Status",
+  "IsDataAction": false
+}

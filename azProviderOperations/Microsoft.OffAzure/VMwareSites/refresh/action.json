@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/refresh/action",
+  "OperationName": "Refresh VMware site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Refreshes the objects within a VMware site",
+  "IsDataAction": false
+}

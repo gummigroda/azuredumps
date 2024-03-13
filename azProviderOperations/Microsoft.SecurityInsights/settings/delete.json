@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/settings/delete",
+  "OperationName": "Delete Settings",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Settings",
+  "Description": "Deletes setting",
+  "IsDataAction": false
+}

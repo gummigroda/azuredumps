@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/rbac.authorization.k8s.io/roles/bind/action",
+  "OperationName": "Bind roles resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "roles",
+  "Description": "Binds roles",
+  "IsDataAction": true
+}

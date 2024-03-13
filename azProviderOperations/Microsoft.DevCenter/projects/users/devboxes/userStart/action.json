@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userStart/action",
+  "OperationName": "Projects_Users_DevBoxes_UserStart",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to start their own Dev Box resources.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/automations/read",
+  "OperationName": "Get automations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Automations",
+  "Description": "Gets the automations for the scope",
+  "IsDataAction": false
+}

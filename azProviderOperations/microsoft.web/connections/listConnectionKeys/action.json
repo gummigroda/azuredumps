@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/connections/listConnectionKeys/action",
+  "OperationName": "List API Connections Keys",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connections",
+  "Description": "Lists API Connections Keys.",
+  "IsDataAction": false
+}

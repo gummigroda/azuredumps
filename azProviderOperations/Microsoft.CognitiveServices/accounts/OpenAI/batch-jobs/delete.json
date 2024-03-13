@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/OpenAI/batch-jobs/delete",
+  "OperationName": "Delete Batch Inference jobs",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Batch-inference",
+  "Description": "Deletes Batch Inference jobs.",
+  "IsDataAction": true
+}

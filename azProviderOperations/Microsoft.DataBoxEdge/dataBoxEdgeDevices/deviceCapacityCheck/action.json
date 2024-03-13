@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/deviceCapacityCheck/action",
+  "OperationName": "Perform Device Capacity Check Action",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Performs Device Capacity Check and Returns Feasibility",
+  "IsDataAction": false
+}

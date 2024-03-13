@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Microsoft Data Factory Provider",
+  "Description": "Create or Update private Endpoint Connection Proxy.",
+  "IsDataAction": false
+}

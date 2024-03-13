@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/listConnectionStrings/action",
+  "OperationName": "Get Connection Strings",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Get the connection strings for a database account",
+  "IsDataAction": false
+}

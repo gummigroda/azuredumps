@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/read",
+  "OperationName": "Get Configuration Store or List Configuration Stores",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Configuration Store",
+  "Description": "Gets the properties of the specified configuration store or lists all the configuration stores under the specified resource group or subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/SRV/write",
+  "OperationName": "Create or update a record set of type ‘SRV’ within a DNS zone. The records specified will replace the current records in the record set.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS SRV record set",
+  "Description": "Create or update record set of type SRV",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Application Gateway metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway metric definition",
+  "Description": "Gets the available metrics for Application Gateway",
+  "IsDataAction": false
+}

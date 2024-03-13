@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/taggedTrafficConsumers/read",
+  "OperationName": "Get Tagged Traffic Consumer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Tagged Traffic Consumer",
+  "Description": "Get the Tagged Traffic Consumer definition",
+  "IsDataAction": false
+}

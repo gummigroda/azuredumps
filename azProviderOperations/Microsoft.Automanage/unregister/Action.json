@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/unregister/Action",
+  "OperationName": "Unregisters the Automanage Provider",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Automanage Provider.",
+  "IsDataAction": false
+}

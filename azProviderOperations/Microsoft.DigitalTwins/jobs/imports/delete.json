@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/jobs/imports/delete",
+  "OperationName": "Delete Bulk Import Job",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Bulk Import Job",
+  "Description": "Delete any Bulk Import Job",
+  "IsDataAction": true
+}

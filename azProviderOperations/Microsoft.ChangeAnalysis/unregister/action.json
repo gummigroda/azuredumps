@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/unregister/action",
+  "OperationName": "Unregister Microsoft Change Analysis resource provider",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "",
+  "Description": "Unregister Microsoft Change Analysis resource provider",
+  "IsDataAction": false
+}

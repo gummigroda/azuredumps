@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/caches/write",
+  "OperationName": "Create cache or Update cache",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "External caches",
+  "Description": "Creates or updates an External Cache to be used in Api Management instance. or Updates the details of the cache specified by its identifier.",
+  "IsDataAction": false
+}

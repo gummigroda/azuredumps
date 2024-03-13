@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/staticMembers/delete",
+  "OperationName": "Delete Network Group Static Member",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group Static Member",
+  "Description": "Delete Network Group Static Member",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/linkedServices/delete",
+  "OperationName": "Delete Linked Service",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Linked Service",
+  "Description": "Deletes any Linked Service.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/agentpools/operationResults/status/read",
+  "OperationName": "Gets an agentpool async operation result status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets an agentpool async operation result status",
+  "IsDataAction": false
+}

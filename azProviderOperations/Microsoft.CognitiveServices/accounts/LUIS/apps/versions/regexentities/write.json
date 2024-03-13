@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/regexentities/write",
+  "OperationName": "Create or update regular expression entity",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Regex entities",
+  "Description": "Adds a regular expression entity extractor to the application version.\r\nUpdates the regular expression entity model.",
+  "IsDataAction": true
+}

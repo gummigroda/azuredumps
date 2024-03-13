@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/jobs/detectors/read",
+  "OperationName": "Read Container Apps Job Detector",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container Apps Job Detector",
+  "Description": "Get detector of a container apps job",
+  "IsDataAction": false
+}

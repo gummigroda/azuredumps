@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/badpassword/read",
+  "OperationName": "Gets the list of bad password attempts.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets the list of bad password attempts for all the users in Active Directory Federation Service.",
+  "IsDataAction": false
+}

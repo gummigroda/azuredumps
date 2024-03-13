@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/metadata/read",
+  "OperationName": "Read Metadata",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Metadata",
+  "Description": "Get Metadata",
+  "IsDataAction": false
+}

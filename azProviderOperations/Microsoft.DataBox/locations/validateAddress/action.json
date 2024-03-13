@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/locations/validateAddress/action",
+  "OperationName": "Validate Address",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Validate Inputs",
+  "Description": "Validates the shipping address and provides alternate addresses if any.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/unregister/action",
+  "OperationName": "Unregister the Microsoft.ProgrammableConnectivity",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.ProgrammableConnectivity",
+  "IsDataAction": false
+}

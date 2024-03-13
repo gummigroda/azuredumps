@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/siteextensions/delete",
+  "OperationName": "Delete Web Apps Slots Site Extensions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Site Extensions",
+  "Description": "Delete Web Apps Slots Site Extensions.",
+  "IsDataAction": false
+}

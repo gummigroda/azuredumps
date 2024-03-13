@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/extensions/operationStatuses/read",
+  "OperationName": "Get the Virtual Machines Extensions Operation Status",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machines Extensions Operation Status",
+  "Description": "Reads the operation status for the virtual machines extensions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete an Azure Automation Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection Proxy",
+  "Description": "Delete an Azure Automation Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

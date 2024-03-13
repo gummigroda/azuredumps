@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/externalPolicyBasedAuthorizationsAzureAsycOperation/read",
+  "OperationName": "External policy based authorization async operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "External policy based authorization",
+  "Description": "External policy based authorization async operation results",
+  "IsDataAction": false
+}

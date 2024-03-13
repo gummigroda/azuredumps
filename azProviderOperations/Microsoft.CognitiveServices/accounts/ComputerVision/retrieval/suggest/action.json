@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/suggest/action",
+  "OperationName": "GetSuggestions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Get search suggestions for the user, given the query text that the user has entered so far.",
+  "IsDataAction": true
+}

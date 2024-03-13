@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/networkSecurityPerimeterConfigurations/reconcile/action",
+  "OperationName": "Reconcile Network Security Perimeter configuration ",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Network Security Perimeter Configuration",
+  "Description": "Reconcile the Network Security Perimeter configuration stored in a vault with NRP's (Microsoft.Network Resource Provider) copy.",
+  "IsDataAction": false
+}

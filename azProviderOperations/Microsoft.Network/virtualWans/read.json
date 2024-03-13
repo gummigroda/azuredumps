@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualWans/read",
+  "OperationName": "Get a Virtual Wan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Virtual Wan resource",
+  "Description": "Get a Virtual Wan",
+  "IsDataAction": false
+}

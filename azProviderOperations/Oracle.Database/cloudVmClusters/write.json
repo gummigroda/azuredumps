@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/cloudVmClusters/write",
+  "OperationName": "CloudVmClusters_Update",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "cloudVmClusters",
+  "Description": "Update a CloudVmCluster",
+  "IsDataAction": false
+}

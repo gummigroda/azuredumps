@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/nrfDeployments/read",
+  "OperationName": "NrfDeployments_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "nrfDeployments",
+  "Description": "Get a NrfDeploymentResource",
+  "IsDataAction": false
+}

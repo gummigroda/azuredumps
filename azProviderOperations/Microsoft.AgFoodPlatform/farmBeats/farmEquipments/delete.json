@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmEquipments/delete",
+  "OperationName": "List AgFoodPlatform Farm Equipment resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Farm Equipments",
+  "Description": "List(s) existing AgFoodPlatform Farm Equipment resource(s).",
+  "IsDataAction": true
+}

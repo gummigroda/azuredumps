@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/authtoken/action",
+  "OperationName": "Auth Token for Container App Dev APIs",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App",
+  "Description": "Get Auth Token for Container App Dev APIs to get log stream, exec or port forward from a container. This operation will be deprecated soon.",
+  "IsDataAction": false
+}

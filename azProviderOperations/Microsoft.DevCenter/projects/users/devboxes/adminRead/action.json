@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/adminRead/action",
+  "OperationName": "Projects_Users_DevBoxes_AdminRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user read access to any Dev Box resource.",
+  "IsDataAction": true
+}

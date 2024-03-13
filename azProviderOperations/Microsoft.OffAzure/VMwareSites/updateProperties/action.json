@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/updateProperties/action",
+  "OperationName": "Updates properties for machines in a site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Updates the properties for machines in a site",
+  "IsDataAction": false
+}

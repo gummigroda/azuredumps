@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/amfDeployments/read",
+  "OperationName": "AmfDeployments_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "amfDeployments",
+  "Description": "Get a AmfDeploymentResource",
+  "IsDataAction": false
+}

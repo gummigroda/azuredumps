@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings/read",
+  "OperationName": "Read SQL Analytics pool Extended Auditing Settings.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Extended Auditing Settings",
+  "Description": "Read any SQL Analytics pool Extended Auditing Settings.",
+  "IsDataAction": false
+}

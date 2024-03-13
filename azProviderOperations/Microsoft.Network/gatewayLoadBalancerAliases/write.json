@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/gatewayLoadBalancerAliases/write",
+  "OperationName": "Creates or Updates a Gateway LaodBalancer Alias",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Gateway LoadBalancer Alias",
+  "Description": "Creates a Gateway LoadBalancer Alias Or Updates An Existing Gateway LoadBalancer Alias",
+  "IsDataAction": false
+}

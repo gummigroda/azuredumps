@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/operationresults/read",
+  "OperationName": "Read cloudEndpoints/operationresults",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Cloud Endpoints",
+  "Description": "Gets the status of an asynchronous backup/restore operation",
+  "IsDataAction": false
+}

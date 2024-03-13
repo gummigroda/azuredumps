@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/accessPolicies/delete",
+  "OperationName": "Delete Access Policies",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Access Policies for Redis",
+  "Description": "Delete Redis Access Policies",
+  "IsDataAction": false
+}

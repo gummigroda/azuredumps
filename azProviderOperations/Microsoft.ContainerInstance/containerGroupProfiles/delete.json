@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroupProfiles/delete",
+  "OperationName": "Delete Container Group Profile",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group Profile",
+  "Description": "Delete the specific container group profile.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/locations/SampleInput/action",
+  "OperationName": "Sample Input for Stream Analytics Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Resource Provider",
+  "Description": "Sample Input for Stream Analytics Resource Provider",
+  "IsDataAction": false
+}

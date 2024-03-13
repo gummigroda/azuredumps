@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/exportMachineErrors/action",
+  "OperationName": "Export machine errors",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Export machine errors for the entire HyperV site machine inventory",
+  "IsDataAction": false
+}

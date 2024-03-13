@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/locations/operationstatuses/read",
+  "OperationName": "Lists Operation Statuses",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "OperationStatuses",
+  "Description": "Lists operation statuses for Microsoft CodeSigning resource provider.",
+  "IsDataAction": false
+}

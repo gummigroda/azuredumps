@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/WebSearch/search/action",
+  "OperationName": "Search",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Web Search - v7",
+  "Description": "Get web, image, news, & videos results for a given query.",
+  "IsDataAction": true
+}

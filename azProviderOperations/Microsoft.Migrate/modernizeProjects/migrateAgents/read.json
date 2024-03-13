@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/migrateAgents/read",
+  "OperationName": "Gets the MigrateAgent",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Gets the details of the modernizeProject agent",
+  "IsDataAction": false
+}

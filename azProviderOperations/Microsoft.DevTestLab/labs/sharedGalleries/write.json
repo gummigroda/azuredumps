@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/sharedGalleries/write",
+  "OperationName": "Add or modify shared galleries.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Shared Galleries",
+  "Description": "Add or modify shared galleries.",
+  "IsDataAction": false
+}

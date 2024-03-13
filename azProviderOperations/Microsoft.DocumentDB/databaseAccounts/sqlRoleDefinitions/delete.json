@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Role Definition",
+  "Description": "Delete a SQL Role Definition",
+  "IsDataAction": false
+}

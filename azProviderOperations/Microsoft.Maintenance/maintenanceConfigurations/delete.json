@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maintenance/maintenanceConfigurations/delete",
+  "OperationName": "Delete maintenance configuration.",
+  "ProviderNamespace": "Microsoft Maintenance Service",
+  "ResourceName": "Microsoft Maintenance Service Configuration instance",
+  "Description": "Delete maintenance configuration.",
+  "IsDataAction": false
+}

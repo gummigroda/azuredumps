@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/jobAgents/jobs/steps/write",
+  "OperationName": "Creates or updates a job step",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB job step",
+  "Description": "Create or update a job step",
+  "IsDataAction": false
+}

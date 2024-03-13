@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/read",
+  "OperationName": "List or Get Batch Accounts",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Lists Batch accounts or gets the properties of a Batch account",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/artifactStores/artifactVersions/write",
+  "OperationName": "Change Artifact State",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/artifactStores/artifactVersions",
+  "Description": "Change artifact state defined in artifact store.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/apiCollectionsMeta/apiCollectionMetaDetails/read",
+  "OperationName": "V2ApiCollectionMetaDetails_List",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "apiCollectionsMeta/apiCollectionMetaDetails",
+  "Description": "Upon user requesting metadata of a collection for a subscription, return the metadata of the matched collection to UI",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/migrateprojects/Databases/read",
+  "OperationName": "Get database",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Databases",
+  "Description": "Gets the properties of a database",
+  "IsDataAction": false
+}

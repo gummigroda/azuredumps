@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/backups/read",
+  "OperationName": null,
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Flexible server database backups",
+  "Description": null,
+  "IsDataAction": false
+}

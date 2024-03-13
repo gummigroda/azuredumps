@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/edgeZones/publishers/artifacttypes/offers/skus/read",
+  "OperationName": "Get Platform Image Sku in an edge zone",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Platform Image Skus in an edge zone",
+  "Description": "Get the properties of a Platform Image Sku in an edge zone",
+  "IsDataAction": false
+}

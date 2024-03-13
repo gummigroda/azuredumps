@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/tables/read",
+  "OperationName": "Read Dataset",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Dataset",
+  "Description": "Reads any Dataset.",
+  "IsDataAction": false
+}

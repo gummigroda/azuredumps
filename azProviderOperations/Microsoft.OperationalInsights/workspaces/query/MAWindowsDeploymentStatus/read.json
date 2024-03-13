@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MAWindowsDeploymentStatus/read",
+  "OperationName": "Read MAWindowsDeploymentStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MAWindowsDeploymentStatus",
+  "Description": "Read data from the MAWindowsDeploymentStatus table",
+  "IsDataAction": false
+}

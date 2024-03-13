@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/search/action",
+  "OperationName": "Search Workspace Data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Executes a search query",
+  "IsDataAction": false
+}

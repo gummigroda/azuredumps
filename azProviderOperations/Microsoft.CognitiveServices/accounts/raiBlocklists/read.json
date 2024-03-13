@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/raiBlocklists/read",
+  "OperationName": "Reads available blocklists under a resource.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Responsible AI Customer Blocklist",
+  "Description": "Reads available blocklists under a resource.",
+  "IsDataAction": false
+}

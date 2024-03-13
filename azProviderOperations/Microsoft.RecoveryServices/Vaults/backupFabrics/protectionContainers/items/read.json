@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/items/read",
+  "OperationName": "Get all items in a container",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Workload Items",
+  "Description": "Get all items in a container",
+  "IsDataAction": false
+}

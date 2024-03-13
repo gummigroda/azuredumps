@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/provisionedClusterInstances/agentPools/read",
+  "OperationName": "agentPool_ListByProvisionedCluster",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "provisionedClusterInstances/agentPools",
+  "Description": "Gets the agent pools in the Hybrid AKS provisioned cluster instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/read",
+  "OperationName": "Read Namespace",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "namespaces",
+  "Description": "Read a namespace",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/deviceSecurityGroups/delete",
+  "OperationName": "Delete device security groups",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Device Security Groups",
+  "Description": "Deletes IoT device security groups",
+  "IsDataAction": false
+}

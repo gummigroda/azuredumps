@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/sensorPartners/sensorDataModels/list/action",
+  "OperationName": "List AgFoodPlatform sensor data model resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform sensor data models",
+  "Description": "List(s) existing AgFoodPlatform sensor data model resource(s).",
+  "IsDataAction": true
+}

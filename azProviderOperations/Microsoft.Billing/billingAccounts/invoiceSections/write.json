@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/invoiceSections/write",
+  "OperationName": "Create Invoice Section",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Invoice Sections",
+  "Description": null,
+  "IsDataAction": false
+}

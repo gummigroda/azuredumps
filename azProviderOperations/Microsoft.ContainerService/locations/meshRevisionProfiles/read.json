@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/locations/meshRevisionProfiles/read",
+  "OperationName": "Read service mesh revision profiles",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Managed Clusters",
+  "Description": "Read service mesh revision profiles in a location",
+  "IsDataAction": false
+}

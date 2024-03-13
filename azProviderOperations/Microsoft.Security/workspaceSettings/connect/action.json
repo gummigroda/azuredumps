@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/workspaceSettings/connect/action",
+  "OperationName": "Reconnect vms from system workspaces",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Workspace Settings",
+  "Description": "Change workspace settings reconnection settings",
+  "IsDataAction": false
+}

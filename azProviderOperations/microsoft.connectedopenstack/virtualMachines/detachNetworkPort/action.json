@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/detachNetworkPort/action",
+  "OperationName": "VirtualMachines_NetworkPortDetach",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Detaches a networkPort to the virtual machine.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/unified-speech/frontend/action",
+  "OperationName": "Access to the speech frontend.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Unified Speech APIs",
+  "Description": "This endpoint manages the Speech Frontend",
+  "IsDataAction": true
+}

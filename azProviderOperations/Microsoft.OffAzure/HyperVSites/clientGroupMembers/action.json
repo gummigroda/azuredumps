@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/clientGroupMembers/action",
+  "OperationName": "Generate client group members view ",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Generates client group members view with dependency map data",
+  "IsDataAction": false
+}

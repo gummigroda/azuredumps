@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/snapshotPolicies/write",
+  "OperationName": "Write snapshot policy resource",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Snapshot Policies resource type",
+  "Description": "Writes a snapshot policy resource.",
+  "IsDataAction": false
+}

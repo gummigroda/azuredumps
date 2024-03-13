@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/join/action",
+  "OperationName": "Join Firewall Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy",
+  "Description": "Joins a Firewall Policy. Not alertable.",
+  "IsDataAction": false
+}

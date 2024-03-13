@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/VideoTranslation/VideoFileTargetLocale/delete",
+  "OperationName": "Delete target locale.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Video file target locale operations.",
+  "Description": "Delete target locale.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACSAuthIncomingOperations/read",
+  "OperationName": "Read ACSAuthIncomingOperations data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACSAuthIncomingOperations",
+  "Description": "Read data from the ACSAuthIncomingOperations table",
+  "IsDataAction": false
+}

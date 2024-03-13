@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/export/action",
+  "OperationName": "Export an existing database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Export Azure SQL Database",
+  "IsDataAction": false
+}

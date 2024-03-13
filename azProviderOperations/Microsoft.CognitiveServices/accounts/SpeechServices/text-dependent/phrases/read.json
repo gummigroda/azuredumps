@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/text-dependent/phrases/read",
+  "OperationName": "Pass Phrases",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pass Phrases",
+  "Description": "Retrieves list of supported passphrases for a specific locale.",
+  "IsDataAction": true
+}

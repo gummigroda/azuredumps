@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/privateEndpointConnections/Read",
+  "OperationName": "Get All Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/IotHubs/PrivateEndpointConnections",
+  "Description": "Gets all the private endpoint connections for the specified iot hub",
+  "IsDataAction": false
+}

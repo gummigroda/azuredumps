@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/register/action",
+  "OperationName": "Register Resource Provider",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Register the subscription for the IotHub resource provider and enables the creation of IotHub resources",
+  "IsDataAction": false
+}

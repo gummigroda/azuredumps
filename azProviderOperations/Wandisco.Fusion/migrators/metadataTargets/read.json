@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/migrators/metadataTargets/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "MetadataTargets",
+  "Description": "Returns a given Metadata Target.",
+  "IsDataAction": false
+}

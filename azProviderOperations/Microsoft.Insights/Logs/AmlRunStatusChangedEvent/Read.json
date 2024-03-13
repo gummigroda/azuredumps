@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/AmlRunStatusChangedEvent/Read",
+  "OperationName": "Read AmlRunStatusChangedEvent data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "AmlRunStatusChangedEvent",
+  "Description": "Read data from the AmlRunStatusChangedEvent table",
+  "IsDataAction": false
+}

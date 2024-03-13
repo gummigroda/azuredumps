@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/validate/action",
+  "OperationName": "Validate an IpGroup",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Validates an IpGroup",
+  "IsDataAction": false
+}

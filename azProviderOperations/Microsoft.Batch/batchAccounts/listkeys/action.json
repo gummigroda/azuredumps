@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/listkeys/action",
+  "OperationName": "List Batch Account Keys",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Batch Accounts",
+  "Description": "Lists access keys for a Batch account",
+  "IsDataAction": false
+}

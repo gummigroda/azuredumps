@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/privateEndpointConnections/write",
+  "OperationName": "Update private endpoint connection",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Private Endpoint Connections",
+  "Description": "Approve or Reject a private endpoint connection",
+  "IsDataAction": false
+}

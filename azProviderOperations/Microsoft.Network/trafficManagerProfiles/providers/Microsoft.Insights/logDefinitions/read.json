@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Get Traffic Manager Event Log Definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Log Definitions",
+  "Description": "Gets the events for Traffic Manager",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/listSwagger/action",
+  "OperationName": "Get workflow swagger",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Gets the workflow swagger definitions.",
+  "IsDataAction": false
+}

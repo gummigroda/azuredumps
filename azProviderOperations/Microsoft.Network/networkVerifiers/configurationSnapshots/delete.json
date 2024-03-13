@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVerifiers/configurationSnapshots/delete",
+  "OperationName": "Deletes a Configuration Snapshot",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Configuration Snapshot",
+  "Description": "Deletes a Configuration Snapshot",
+  "IsDataAction": false
+}

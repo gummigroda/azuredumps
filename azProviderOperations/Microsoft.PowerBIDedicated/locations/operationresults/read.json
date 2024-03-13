@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/locations/operationresults/read",
+  "OperationName": "Read operation results",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Retrieves the information of the specified operation result.",
+  "IsDataAction": false
+}

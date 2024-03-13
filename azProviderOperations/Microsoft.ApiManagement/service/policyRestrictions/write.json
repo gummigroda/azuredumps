@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policyRestrictions/write",
+  "OperationName": "Set Tenant policy restriction or Update Tenant policy restriction",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Creates or updates the global policy restriction of the Api Management service. or Updates the global policy restriction of the Api Management service.",
+  "IsDataAction": false
+}

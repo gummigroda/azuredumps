@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/SecuritySettings/Read",
+  "OperationName": "Gets/List SecuritySettings",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/SecuritySettings",
+  "Description": "Gets SecuritySettings of HCI cluster",
+  "IsDataAction": false
+}

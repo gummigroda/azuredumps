@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CertificateRegistration/certificateOrders/renew/Action",
+  "OperationName": "Renew certificateorder",
+  "ProviderNamespace": "Microsoft Certificates",
+  "ResourceName": "AppServiceCertificate",
+  "Description": "Renew an existing certificateorder",
+  "IsDataAction": false
+}

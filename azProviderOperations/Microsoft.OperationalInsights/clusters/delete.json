@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/clusters/delete",
+  "OperationName": "Delete Cluster",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Cluster",
+  "Description": "Delete Cluster",
+  "IsDataAction": false
+}

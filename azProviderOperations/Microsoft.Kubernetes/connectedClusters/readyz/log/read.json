@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/readyz/log/read",
+  "OperationName": "Gets/List log resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "readyz/log",
+  "Description": "Reads log",
+  "IsDataAction": true
+}

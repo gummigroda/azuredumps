@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/wifiSsids/delete",
+  "OperationName": "WifiSsids_Delete",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/wifiSsids",
+  "Description": "Deletes the specified Wi-Fi SSID.",
+  "IsDataAction": false
+}

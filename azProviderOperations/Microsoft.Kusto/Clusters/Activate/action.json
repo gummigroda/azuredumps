@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Activate/action",
+  "OperationName": "Cluster activate action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Starts the cluster.",
+  "IsDataAction": false
+}

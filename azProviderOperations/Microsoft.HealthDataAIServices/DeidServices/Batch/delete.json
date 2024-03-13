@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthDataAIServices/DeidServices/Batch/delete",
+  "OperationName": "Deletes an existing batch operation",
+  "ProviderNamespace": "Microsoft.HealthDataAIServices",
+  "ResourceName": "DeidServices/Batch",
+  "Description": "Deletes a batch",
+  "IsDataAction": true
+}

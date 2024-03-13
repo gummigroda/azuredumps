@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/draft/content/write",
+  "OperationName": "Write the content of an Azure Automation runbook draft",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Draft Runbook Content",
+  "Description": "Creates the content of an Azure Automation runbook draft",
+  "IsDataAction": false
+}

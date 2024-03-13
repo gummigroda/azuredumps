@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/distributedAvailabilityGroups/write",
+  "OperationName": "Creates distributed availability groups with a specified parameters.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Distributed Availability Groups",
+  "Description": "Creates distributed availability groups with a specified parameters.",
+  "IsDataAction": false
+}

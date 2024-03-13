@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/enrollmentPolicies/write",
+  "OperationName": "EnrollmentPolicy_Update",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis/enrollmentPolicies",
+  "Description": "Updates some properties of an enrollment policy, while not touching other properties.",
+  "IsDataAction": false
+}

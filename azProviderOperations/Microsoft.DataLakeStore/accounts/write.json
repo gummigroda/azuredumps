@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeStore/accounts/write",
+  "OperationName": "Create or Update DataLakeStore Account",
+  "ProviderNamespace": "Microsoft DataLakeStore",
+  "ResourceName": "Account",
+  "Description": "Create or update a DataLakeStore account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksIAMRole/read",
+  "OperationName": "Read DatabricksIAMRole data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksIAMRole",
+  "Description": "Read data from the DatabricksIAMRole table",
+  "IsDataAction": false
+}

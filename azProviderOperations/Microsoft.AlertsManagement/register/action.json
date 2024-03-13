@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/register/action",
+  "OperationName": "Register subscription",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Microsoft Alerts Management",
+  "IsDataAction": false
+}

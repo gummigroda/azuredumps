@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/fileServices/shares/delete",
+  "OperationName": "Delete File Share",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "File Share",
+  "Description": "Delete file share",
+  "IsDataAction": false
+}

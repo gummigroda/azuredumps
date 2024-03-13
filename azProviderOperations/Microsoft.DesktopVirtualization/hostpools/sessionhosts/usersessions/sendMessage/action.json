@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/sessionhosts/usersessions/sendMessage/action",
+  "OperationName": "sendMessage",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/sessionhosts/usersessions",
+  "Description": "Send message to user session",
+  "IsDataAction": false
+}

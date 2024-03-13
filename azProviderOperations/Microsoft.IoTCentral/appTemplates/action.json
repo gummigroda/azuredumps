@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/appTemplates/action",
+  "OperationName": "List app templates",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "",
+  "Description": "Lists application templates for IoTApps resources.",
+  "IsDataAction": false
+}

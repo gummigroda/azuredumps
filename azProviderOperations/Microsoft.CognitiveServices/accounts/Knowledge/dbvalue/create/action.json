@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Knowledge/dbvalue/create/action",
+  "OperationName": "DBValueCreate",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "dbvalue*",
+  "Description": "DBValueCreate*",
+  "IsDataAction": true
+}

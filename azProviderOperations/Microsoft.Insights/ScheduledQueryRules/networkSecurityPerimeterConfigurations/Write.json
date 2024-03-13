@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ScheduledQueryRules/networkSecurityPerimeterConfigurations/Write",
+  "OperationName": "network security perimeter configuration for scheduled query rules write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Network Security Perimeter Configurations",
+  "Description": "Writing a network security perimeter configuration for scheduled query rules",
+  "IsDataAction": false
+}

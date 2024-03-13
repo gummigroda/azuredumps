@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/triggeredwebjobs/delete",
+  "OperationName": "Delete Web Apps Triggered WebJobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Triggered WebJobs",
+  "Description": "Delete Web Apps Triggered WebJobs.",
+  "IsDataAction": false
+}

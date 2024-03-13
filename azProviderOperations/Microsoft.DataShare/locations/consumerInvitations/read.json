@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/locations/consumerInvitations/read",
+  "OperationName": "Get Data Share Consumer Invitation",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Consumer Invitation",
+  "Description": "Gets a Data Share Consumer Invitation.",
+  "IsDataAction": false
+}

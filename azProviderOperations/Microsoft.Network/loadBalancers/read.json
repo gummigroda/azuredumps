@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/read",
+  "OperationName": "Get Load Balancer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer",
+  "Description": "Gets a load balancer definition",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/entities/read",
+  "OperationName": "Get Entities",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Entities",
+  "Description": "Gets the sentinel entities graph",
+  "IsDataAction": false
+}

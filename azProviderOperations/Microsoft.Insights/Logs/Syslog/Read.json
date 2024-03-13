@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Syslog/Read",
+  "OperationName": "Read Syslog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Syslog",
+  "Description": "Read data from the Syslog table",
+  "IsDataAction": false
+}

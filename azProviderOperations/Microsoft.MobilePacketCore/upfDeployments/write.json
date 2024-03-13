@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/upfDeployments/write",
+  "OperationName": "UpfDeployments_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "upfDeployments",
+  "Description": "Update a UpfDeploymentResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/roles/delete",
+  "OperationName": "Delete simple entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entity roles",
+  "Description": "Deletes the role for a simple entity model.",
+  "IsDataAction": true
+}

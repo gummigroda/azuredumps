@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/delete",
+  "OperationName": "Delete Virtual Network Tap",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkTap",
+  "Description": "Delete Virtual Network Tap",
+  "IsDataAction": false
+}

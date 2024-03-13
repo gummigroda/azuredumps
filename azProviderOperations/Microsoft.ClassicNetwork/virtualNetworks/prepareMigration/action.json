@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/prepareMigration/action",
+  "OperationName": "Prepare Migration of a Virtual Network",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network",
+  "Description": "Prepares the migration of a Virtual Network",
+  "IsDataAction": false
+}

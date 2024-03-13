@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/enrichment/anomalydetection/configurations/anomalies/dimension/query/action",
+  "OperationName": "Query dimension values of anomalies",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Dimension of anomalies under anomaly detection configuration",
+  "Description": "Query dimension values of anomalies",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/read",
+  "OperationName": "Get incremental DiskRestorePoint",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "DiskRestorePoint",
+  "Description": "Get the properties of an incremental DiskRestorePoint",
+  "IsDataAction": false
+}

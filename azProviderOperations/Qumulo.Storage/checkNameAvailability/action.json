@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

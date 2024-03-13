@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/currentSensitivityLabels/write",
+  "OperationName": "Batch update sensitivity labels",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Batch update sensitivity labels",
+  "IsDataAction": false
+}

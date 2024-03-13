@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/listFirewalls/action",
+  "OperationName": "GlobalRulestack_listFirewalls",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks",
+  "Description": "List of Firewalls associated with Rulestack",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/GCPAuditLogs/read",
+  "OperationName": "Read GCPAuditLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "GCPAuditLogs",
+  "Description": "Read data from the GCPAuditLogs table",
+  "IsDataAction": false
+}

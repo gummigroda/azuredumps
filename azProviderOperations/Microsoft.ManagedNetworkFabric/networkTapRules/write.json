@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkTapRules/write",
+  "OperationName": "NetworkTapRules_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkTapRules",
+  "Description": "Update certain properties of the Network Tap Rule resource.",
+  "IsDataAction": false
+}

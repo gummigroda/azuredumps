@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/languages/read",
+  "OperationName": "AnalyzeConversations_Projects_GetSupportedCultures",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "languages*",
+  "Description": "Get List of Supported languages.",
+  "IsDataAction": true
+}

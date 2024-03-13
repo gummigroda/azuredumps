@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/applications/services/write",
+  "OperationName": "Create or Update Service",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Services",
+  "Description": "Create or Update any Service",
+  "IsDataAction": false
+}

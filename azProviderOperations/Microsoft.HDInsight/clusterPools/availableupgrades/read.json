@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/clusterPools/availableupgrades/read",
+  "OperationName": "Get Avaliable Upgrades for HDInsight on AKS Cluster Pool",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "HDInsight on AKS Cluster Pool",
+  "Description": "Get Avaliable Upgrades for HDInsight on AKS Cluster Pool",
+  "IsDataAction": false
+}

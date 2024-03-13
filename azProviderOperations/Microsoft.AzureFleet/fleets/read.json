@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureFleet/fleets/read",
+  "OperationName": "Get Azure Fleet",
+  "ProviderNamespace": "Microsoft Azure Fleet",
+  "ResourceName": "Fleets",
+  "Description": "Get properties of Azure Fleet resource",
+  "IsDataAction": false
+}

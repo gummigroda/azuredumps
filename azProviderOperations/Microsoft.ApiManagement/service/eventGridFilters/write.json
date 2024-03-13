@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/eventGridFilters/write",
+  "OperationName": "Set Event Grid Filters",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API Management Event Grid Filters",
+  "Description": "Set Event Grid Filters",
+  "IsDataAction": false
+}

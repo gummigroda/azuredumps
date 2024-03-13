@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

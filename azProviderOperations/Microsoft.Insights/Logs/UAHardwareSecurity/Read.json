@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAHardwareSecurity/Read",
+  "OperationName": "Read UAHardwareSecurity data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAHardwareSecurity",
+  "Description": "Read data from the UAHardwareSecurity table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/outboundRules/read",
+  "OperationName": "Get Load Balancer Outbound Rule",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Outbound Rule",
+  "Description": "Gets a load balancer outbound rule definition",
+  "IsDataAction": false
+}

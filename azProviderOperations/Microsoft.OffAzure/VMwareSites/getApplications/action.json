@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/getApplications/action",
+  "OperationName": "Gets list application information for the selected machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Gets the list application information for the selected machines",
+  "IsDataAction": false
+}

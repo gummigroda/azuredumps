@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/basicPublishingCredentialsPolicies/Write",
+  "OperationName": "List Web App Publishing Credentials Policies",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "List which publishing methods are allowed for a Web App",
+  "IsDataAction": false
+}

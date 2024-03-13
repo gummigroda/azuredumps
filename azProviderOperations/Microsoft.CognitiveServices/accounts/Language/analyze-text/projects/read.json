@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/read",
+  "OperationName": "AnalyzeText_Projects_GetProject|AnalyzeText_Projects_GetProjectsList*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Gets a project info.\r\nReturns the list of projects.*",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/joinLoadBalancer/action",
+  "OperationName": "Join load balancer to virtual network subnets",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network Subnet",
+  "Description": "Joins a load balancer to virtual network subnets",
+  "IsDataAction": false
+}

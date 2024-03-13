@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicStorage/storageAccounts/vmImages/read",
+  "OperationName": "Get Virtual Machine Image",
+  "ProviderNamespace": "Microsoft ClassicStorage",
+  "ResourceName": "Virtual Machine Image",
+  "Description": "Returns the virtual machine image.",
+  "IsDataAction": false
+}

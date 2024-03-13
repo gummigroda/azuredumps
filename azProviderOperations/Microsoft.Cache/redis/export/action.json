@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redis/export/action",
+  "OperationName": "Export Redis data to storage",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Cache",
+  "Description": "Export Redis data to prefixed storage blobs in specified format",
+  "IsDataAction": false
+}

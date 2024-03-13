@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/quota/delete",
+  "OperationName": "DeleteQuota",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "quota*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

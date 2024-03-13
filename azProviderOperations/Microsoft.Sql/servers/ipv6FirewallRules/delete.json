@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/ipv6FirewallRules/delete",
+  "OperationName": "Delete IPv6 server firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "IPv6 Server Firewall Rule",
+  "Description": "Deletes an existing IPv6 server firewall rule.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/scopePools/write",
+  "OperationName": "Create or Update Scope pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Scope pools",
+  "Description": "Create or Update any Scope pools.",
+  "IsDataAction": false
+}

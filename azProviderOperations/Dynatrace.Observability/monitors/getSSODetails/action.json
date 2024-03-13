@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/getSSODetails/action",
+  "OperationName": "Get SSO Details",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Gets SSO details from the dynatrace partner",
+  "IsDataAction": false
+}

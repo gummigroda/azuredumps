@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/setDefaultKey/action",
+  "OperationName": "Set default key",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Monitors",
+  "Description": "Set default API key for the given monitor resource",
+  "IsDataAction": false
+}

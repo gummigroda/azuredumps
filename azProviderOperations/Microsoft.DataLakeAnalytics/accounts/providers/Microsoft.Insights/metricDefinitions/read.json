@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get DataLakeAnalytics Account metric definitions",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Metric Definition",
+  "Description": "Get the available metrics for the DataLakeAnalytics account.",
+  "IsDataAction": false
+}

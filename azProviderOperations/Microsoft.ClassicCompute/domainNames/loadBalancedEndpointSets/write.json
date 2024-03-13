@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/loadBalancedEndpointSets/write",
+  "OperationName": "Add Load Balanced Endpoint Set",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Load Balanced Endpoint Sets",
+  "Description": "Add the load balanced endpoint set.",
+  "IsDataAction": false
+}

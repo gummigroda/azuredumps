@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/snapshotPolicies/volumes/read",
+  "OperationName": "List connected volumes",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Snapshot Policies resource type",
+  "Description": "List volumes connected to snapshot policy",
+  "IsDataAction": false
+}

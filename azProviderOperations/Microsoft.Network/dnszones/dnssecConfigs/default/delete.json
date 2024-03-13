@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/dnssecConfigs/default/delete",
+  "OperationName": "Deletes the DNSSEC configuration for a DNS zone",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNSSEC configuration for a DNS zone",
+  "Description": "Deletes the DNSSEC configuration for a DNS zone",
+  "IsDataAction": false
+}

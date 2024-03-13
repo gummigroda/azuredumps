@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/getikesas/action",
+  "OperationName": "Lists IKE Security Associations for the connection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGatewayConnection",
+  "Description": "Lists IKE Security Associations for the connection",
+  "IsDataAction": false
+}

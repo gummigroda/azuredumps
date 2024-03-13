@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationsManagement/unregister/action",
+  "OperationName": "UnRegister Subscription",
+  "ProviderNamespace": "Microsoft Operations Management",
+  "ResourceName": "",
+  "Description": "UnRegister a subscription to a resource provider.",
+  "IsDataAction": false
+}

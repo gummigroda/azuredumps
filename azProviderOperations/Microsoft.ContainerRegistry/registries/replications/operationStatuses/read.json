@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/replications/operationStatuses/read",
+  "OperationName": "Get Replication Async Operation Status",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Replications",
+  "Description": "Gets a replication async operation status",
+  "IsDataAction": false
+}

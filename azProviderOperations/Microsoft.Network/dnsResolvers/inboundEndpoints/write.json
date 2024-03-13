@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/inboundEndpoints/write",
+  "OperationName": "Create Or Update a DNS Resolver Inbound Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver Inbound Endpoint",
+  "Description": "Creates Or Updates a DNS Resolver Inbound Endpoint, in JSON format",
+  "IsDataAction": false
+}

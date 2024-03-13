@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/tasks/cancel/action",
+  "OperationName": "Tasks_Cancel",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Cancel a task by taskId.",
+  "IsDataAction": true
+}

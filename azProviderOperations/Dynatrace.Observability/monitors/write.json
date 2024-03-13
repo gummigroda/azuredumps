@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/write",
+  "OperationName": "Create/Update monitor resources",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Write monitors",
+  "IsDataAction": false
+}

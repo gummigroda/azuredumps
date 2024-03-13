@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/eventGridFilters/delete",
+  "OperationName": "Delete EventGrid Subscription for Key Vault notification",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "EventGrid Subscription for Key Vault",
+  "Description": "Notifies Microsoft.KeyVault that an EventGrid Subscription for Key Vault is being deleted",
+  "IsDataAction": false
+}

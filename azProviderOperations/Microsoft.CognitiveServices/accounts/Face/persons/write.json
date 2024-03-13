@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persons/write",
+  "OperationName": "PersonDirectory Person - Update",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persons*",
+  "Description": "Update name or userData of a person.\r\nUpdate name or userData of a person.*",
+  "IsDataAction": true
+}

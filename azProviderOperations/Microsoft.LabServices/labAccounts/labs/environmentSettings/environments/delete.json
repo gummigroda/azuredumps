@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/labs/environmentSettings/environments/delete",
+  "OperationName": "Delete environments.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Environments",
+  "Description": "Delete environments.",
+  "IsDataAction": false
+}

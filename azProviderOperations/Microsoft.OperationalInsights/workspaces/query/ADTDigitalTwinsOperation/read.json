@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ADTDigitalTwinsOperation/read",
+  "OperationName": "Read ADTDigitalTwinsOperation data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ADTDigitalTwinsOperation",
+  "Description": "Read data from the ADTDigitalTwinsOperation table",
+  "IsDataAction": false
+}

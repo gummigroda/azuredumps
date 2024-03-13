@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/deploymentslots/upgradedomain/read",
+  "OperationName": "Get Upgrade Domain for Deployment Slot on Domain Name",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Deployment Slots Upgrade Domain",
+  "Description": "Get upgrade domain for deployment slot on domain name",
+  "IsDataAction": false
+}

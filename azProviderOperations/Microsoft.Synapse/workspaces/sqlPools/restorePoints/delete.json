@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/restorePoints/delete",
+  "OperationName": "Deletes a restore point.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Restore Points",
+  "Description": "Deletes a restore point.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipGroups/read",
+  "OperationName": "Gets IpGroups",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "IpGroups",
+  "Description": "Gets an IpGroup",
+  "IsDataAction": false
+}

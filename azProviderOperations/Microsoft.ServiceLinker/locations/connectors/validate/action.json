@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/locations/connectors/validate/action",
+  "OperationName": "Connector_Validate",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "locations/connectors",
+  "Description": "Validate a Connector.",
+  "IsDataAction": false
+}

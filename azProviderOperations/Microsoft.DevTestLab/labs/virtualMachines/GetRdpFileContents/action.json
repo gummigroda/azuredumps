@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/GetRdpFileContents/action",
+  "OperationName": "Get RDP file contents",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Gets a string that represents the contents of the RDP file for the virtual machine",
+  "IsDataAction": false
+}

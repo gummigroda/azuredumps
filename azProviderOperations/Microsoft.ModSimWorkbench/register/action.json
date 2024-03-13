@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/register/action",
+  "OperationName": "Register the Microsoft.ModSimWorkbench",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.ModSimWorkbench",
+  "IsDataAction": false
+}

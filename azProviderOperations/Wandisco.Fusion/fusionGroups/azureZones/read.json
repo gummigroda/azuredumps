@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/azureZones/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "AzureZones",
+  "Description": "Returns a given azureZone.",
+  "IsDataAction": false
+}

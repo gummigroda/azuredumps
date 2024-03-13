@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/write",
+  "OperationName": "MobileNetworks_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks",
+  "Description": "Updates mobile network tags and managed identity.",
+  "IsDataAction": false
+}

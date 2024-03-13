@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Billing/createlicense/action",
+  "OperationName": "Create License",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Container Service",
+  "Description": "create and return a license for a subscription and list of license keys specified in request body.",
+  "IsDataAction": true
+}

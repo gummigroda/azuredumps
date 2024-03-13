@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/dryruns/read",
+  "OperationName": "Linkers_GetDryrun",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "dryruns",
+  "Description": "get a dryrun job",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Communication/CommunicationServices/EventGridFilters/Delete",
+  "OperationName": "Removes an EventGrid filter on a communication service",
+  "ProviderNamespace": "Azure Communication Services",
+  "ResourceName": "ACS EventGrid Filters",
+  "Description": "Removes an EventGrid filter on communication services",
+  "IsDataAction": false
+}

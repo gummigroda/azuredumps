@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/billingmeters/read",
+  "OperationName": "Read Billing Meter",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Billing Meter",
+  "Description": "Get Billing Meters in a Region",
+  "IsDataAction": false
+}

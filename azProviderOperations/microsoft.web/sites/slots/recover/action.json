@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/recover/action",
+  "OperationName": "Recover Web Apps Slots",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Recover Web Apps Slots.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/classification/get/analyze/result/read",
+  "OperationName": "Get analyze result",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Gets the result of document classification.",
+  "IsDataAction": true
+}

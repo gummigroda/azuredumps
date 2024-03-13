@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/createinvitation/action",
+  "OperationName": "Create User Roles Invitation Link",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "Creates invitiation link for static site user for a set of roles",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/listStopSellOffersPlansNotifications/action",
+  "OperationName": "List stop sell offers plans notifications",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "List stop sell offers plans notifications",
+  "IsDataAction": false
+}

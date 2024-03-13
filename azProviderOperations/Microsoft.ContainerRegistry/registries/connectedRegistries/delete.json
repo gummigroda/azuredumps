@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/connectedRegistries/delete",
+  "OperationName": "Delete connected registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ConnectedRegistries",
+  "Description": "Deletes a connected registry from a container registry.",
+  "IsDataAction": false
+}

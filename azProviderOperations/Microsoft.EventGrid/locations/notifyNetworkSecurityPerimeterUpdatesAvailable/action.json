@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/locations/notifyNetworkSecurityPerimeterUpdatesAvailable/action",
+  "OperationName": "Upate notifications for network security perimeter",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "",
+  "Description": "Upate notifications for network security perimeter",
+  "IsDataAction": false
+}

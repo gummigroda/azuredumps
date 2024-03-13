@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/models/versions/delete",
+  "OperationName": "Deletes Model Versions in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Model Version",
+  "Description": "Deletes Model Versions in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}
