@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Cannot Edit Individual Nodes. Users should not edit individual nodes. Please edit node pools.",
+    "Description": "Cannot Edit Individual Nodes. Users should not edit individual nodes. Please edit node pools. Modifying individual nodes can lead to inconsistent settings, operational challenges, and potential security risks.",
     "DisplayName": "[Preview]: Cannot Edit Individual Nodes",
     "Metadata": {
       "version": "1.1.0-preview",
