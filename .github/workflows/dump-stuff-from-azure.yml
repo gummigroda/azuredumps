@@ -49,3 +49,38 @@ jobs:
           branch_name: 'Automated-Policies-Dump'
           save_path: 'azPolicies/'
           resource_type: Policies
+
+  Get-AzLocations:
+    runs-on: ubuntu-latest
+    steps:
+      ## CHECKOUT CODE
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+    
+      # Login, dump, diff, ev commit, push and merge
+      - name: Dump and push - Locations
+        uses: ./.github/actions/dump-and-push
+        with:
+          branch_name: 'Automated-Locations-Dump'
+          save_path: 'azLocations/'
+          resource_type: Locations
+
+  Get-ProviderOperations:
+    runs-on: ubuntu-latest
+    steps:
+      ## CHECKOUT CODE
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+    
+      # Login, dump, diff, ev commit, push and merge
+      - name: Dump and push - ProviderOperations
+        uses: ./.github/actions/dump-and-push
+        with:
+          branch_name: 'Automated-ProviderOperations-Dump'
+          save_path: 'azProviderOperations/'
+          resource_type: ProviderOperations
+        
