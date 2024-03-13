@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksServerlessRealTimeInference/read",
+  "OperationName": "Read DatabricksServerlessRealTimeInference data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksServerlessRealTimeInference",
+  "Description": "Read data from the DatabricksServerlessRealTimeInference table",
+  "IsDataAction": false
+}

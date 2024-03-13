@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceNetworking/unregister/action",
+  "OperationName": "Unregister Subscription",
+  "ProviderNamespace": "Microsoft Service Networking",
+  "ResourceName": "",
+  "Description": "Unregisters the Subscription",
+  "IsDataAction": false
+}

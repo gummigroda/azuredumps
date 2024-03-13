@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SerialConsole/operations/read",
+  "OperationName": "Serial Console operations",
+  "ProviderNamespace": "Microsoft.SerialConsole",
+  "ResourceName": "Serial Console instance",
+  "Description": "Display available Serial Console operations",
+  "IsDataAction": false
+}

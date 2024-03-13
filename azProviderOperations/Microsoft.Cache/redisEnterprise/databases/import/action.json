@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cache/redisEnterprise/databases/import/action",
+  "OperationName": "Import Redis Enterprise database",
+  "ProviderNamespace": "Microsoft Cache",
+  "ResourceName": "Redis Enterprise cache database",
+  "Description": "Import data from storage blobs to a Redis Enterprise database",
+  "IsDataAction": false
+}

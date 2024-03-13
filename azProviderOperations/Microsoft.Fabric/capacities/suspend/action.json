@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Fabric/capacities/suspend/action",
+  "OperationName": "Suspend the specified Fabric capacity",
+  "ProviderNamespace": "Microsoft Fabric",
+  "ResourceName": "capacities",
+  "Description": "Suspend the specified Fabric capacity",
+  "IsDataAction": false
+}

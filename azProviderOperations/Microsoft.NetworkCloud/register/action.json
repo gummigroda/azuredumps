@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/register/action",
+  "OperationName": "Register the Microsoft.NetworkCloud",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.NetworkCloud",
+  "IsDataAction": false
+}

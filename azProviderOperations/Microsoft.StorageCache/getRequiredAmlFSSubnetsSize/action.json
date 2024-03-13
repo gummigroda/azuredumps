@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/getRequiredAmlFSSubnetsSize/action",
+  "OperationName": "Returns the subnet size required the Amlfilesystem",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "",
+  "Description": "Calculate the number of ips needed",
+  "IsDataAction": false
+}

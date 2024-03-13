@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/storageaccounts/sas/delete",
+  "OperationName": "Delete SAS Definition for Managed Storage Account",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Managed Storage Account",
+  "Description": "Delete the SAS (Shared Access Signature) definition for a managed storage account.",
+  "IsDataAction": true
+}

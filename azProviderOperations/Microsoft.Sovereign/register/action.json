@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/register/action",
+  "OperationName": "Register the Microsoft.Sovereign",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.Sovereign",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/managedPrivateEndpoints/write",
+  "OperationName": "Create/Update Managed Private Endpoints",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "ManagedPrivateEndpoints",
+  "Description": "Write Managed Private Endpoints",
+  "IsDataAction": false
+}

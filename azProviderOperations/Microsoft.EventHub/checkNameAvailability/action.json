@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/checkNameAvailability/action",
+  "OperationName": "Get namespace availability.",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "",
+  "Description": "Checks availability of namespace under given subscription.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupInstances/findRestorableTimeRanges/action",
+  "OperationName": "Find Restorable Time Ranges",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Instance",
+  "Description": "Finds Restorable Time Ranges",
+  "IsDataAction": false
+}

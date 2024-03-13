@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ActionGroups/Delete",
+  "OperationName": "Delete action group",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Action Groups",
+  "Description": "Delete an action group",
+  "IsDataAction": false
+}

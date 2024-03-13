@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VirtualMachineImages/imageTemplates/triggers/read",
+  "OperationName": "Get a VM image template trigger instance resource",
+  "ProviderNamespace": "Virtual Machine Image Builder",
+  "ResourceName": "VM Image template trigger",
+  "Description": "Get a VM image template trigger instance resource",
+  "IsDataAction": false
+}

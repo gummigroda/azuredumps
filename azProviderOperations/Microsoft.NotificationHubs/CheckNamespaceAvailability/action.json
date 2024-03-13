@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NotificationHubs/CheckNamespaceAvailability/action",
+  "OperationName": "Check Namespace name availability.",
+  "ProviderNamespace": "Microsoft Azure Notification Hub",
+  "ResourceName": "",
+  "Description": "Checks whether or not a given Namespace resource name is available within the NotificationHub service.",
+  "IsDataAction": false
+}

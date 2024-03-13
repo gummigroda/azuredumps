@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeTables/join/action",
+  "OperationName": "Join Route Table.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Table",
+  "Description": "Joins a route table. Not Alertable.",
+  "IsDataAction": false
+}

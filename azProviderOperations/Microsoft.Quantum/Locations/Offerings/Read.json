@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quantum/Locations/Offerings/Read",
+  "OperationName": "Read quantum workspace's available providers",
+  "ProviderNamespace": "Microsoft.Quantum",
+  "ResourceName": "Workspaces",
+  "Description": "Read providers supported",
+  "IsDataAction": false
+}

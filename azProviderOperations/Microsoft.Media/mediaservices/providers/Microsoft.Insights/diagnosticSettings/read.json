@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "Gets the diagnostic setting for the resource.",
+  "IsDataAction": false
+}

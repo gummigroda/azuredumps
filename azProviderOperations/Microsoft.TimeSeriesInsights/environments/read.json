@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/read",
+  "OperationName": "Read Environment",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Environment",
+  "Description": "Get the properties of an environment.",
+  "IsDataAction": false
+}

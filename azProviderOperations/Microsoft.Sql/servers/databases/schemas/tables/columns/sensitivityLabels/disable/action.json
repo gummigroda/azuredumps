@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/disable/action",
+  "OperationName": "Disable sensitivity recommendations on a given column",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Disable sensitivity recommendations on a given column",
+  "IsDataAction": false
+}

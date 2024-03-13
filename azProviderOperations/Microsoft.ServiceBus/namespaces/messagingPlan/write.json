@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/messagingPlan/write",
+  "OperationName": "Create or Update Messaging Plan (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "Namespace",
+  "Description": "Updates the Messaging Plan for a namespace. This API is deprecated. Properties exposed via the MessagingPlan resource are moved to the (parent) Namespace resource in later API versions.. This operation is not supported on API version 2017-04-01.",
+  "IsDataAction": false
+}

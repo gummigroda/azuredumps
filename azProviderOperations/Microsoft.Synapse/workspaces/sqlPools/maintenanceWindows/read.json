@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/maintenanceWindows/read",
+  "OperationName": "Read SQL Analytics pool Maintenance Windows.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Maintenance Windows",
+  "Description": "Read any SQL Analytics pool Maintenance Windows.",
+  "IsDataAction": false
+}

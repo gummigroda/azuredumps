@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/workspaceCollections/listKeys/action",
+  "OperationName": "List Workspace Collection Access Keys",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspace Collections",
+  "Description": "Retrieves the primary and secondary access keys for the specified Power BI Workspace Collection.",
+  "IsDataAction": false
+}

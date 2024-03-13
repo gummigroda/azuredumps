@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/multislot/events/reward/action",
+  "OperationName": "Post multi-slot Rewards.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "events*",
+  "Description": "Report reward that resulted from using the action specified in rewardActionId for the slot.",
+  "IsDataAction": true
+}

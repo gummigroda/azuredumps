@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/hubRouteTables/delete",
+  "OperationName": "Deletes Route Table child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route Table",
+  "Description": "Deletes a Route Table child resource of Virtual Hub",
+  "IsDataAction": false
+}

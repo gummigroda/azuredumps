@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/networkfabricconfigurationinfos/read",
+  "OperationName": "NetworkFabricConfigurationInfo_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/networkfabricconfigurationinfos",
+  "Description": "Get the NetworkFabricConfigurationInfo resource details.",
+  "IsDataAction": false
+}

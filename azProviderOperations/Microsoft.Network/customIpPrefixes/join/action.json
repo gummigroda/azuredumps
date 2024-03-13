@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/customIpPrefixes/join/action",
+  "OperationName": "Join CustomIPPrefix",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Custom Ip Prefix",
+  "Description": "Joins a CustomIpPrefix. Not alertable.",
+  "IsDataAction": false
+}

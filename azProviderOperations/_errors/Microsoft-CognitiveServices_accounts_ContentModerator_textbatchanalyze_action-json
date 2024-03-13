@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text:batchanalyze/action",
+  "OperationName": "Analyze Text In Batch",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Moderator",
+  "Description": "An API for triggering harmful content analysis of text batch",
+  "IsDataAction": true
+}

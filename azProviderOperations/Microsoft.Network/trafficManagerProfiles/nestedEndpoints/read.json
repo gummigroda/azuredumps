@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/nestedEndpoints/read",
+  "OperationName": "Get a Traffic Manager Nested Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Nested Endpoint",
+  "Description": "Gets an Nested Endpoint which belongs to a Traffic Manager Profile, including all the properties of that Nested Endpoint.",
+  "IsDataAction": false
+}

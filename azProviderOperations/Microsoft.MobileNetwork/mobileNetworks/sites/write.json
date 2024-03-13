@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/sites/write",
+  "OperationName": "Sites_UpdateTags",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/sites",
+  "Description": "Updates site tags.",
+  "IsDataAction": false
+}

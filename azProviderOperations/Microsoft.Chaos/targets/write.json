@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Chaos/targets/write",
+  "OperationName": "Creates or updates a Target.",
+  "ProviderNamespace": "Microsoft Chaos",
+  "ResourceName": "Target",
+  "Description": "Creates or update a Target resource that extends a tracked resource.",
+  "IsDataAction": false
+}

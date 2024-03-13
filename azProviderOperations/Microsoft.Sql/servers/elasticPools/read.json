@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/read",
+  "OperationName": "Get elastic pool details",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Elastic Pool",
+  "Description": "Retrieve details of elastic pool on a given server",
+  "IsDataAction": false
+}

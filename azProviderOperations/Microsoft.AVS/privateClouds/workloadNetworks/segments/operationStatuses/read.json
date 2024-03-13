@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/segments/operationStatuses/read",
+  "OperationName": "Read segments operationStatuses",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/segments/operationStatuses",
+  "Description": "Read segments operationStatuses.",
+  "IsDataAction": false
+}

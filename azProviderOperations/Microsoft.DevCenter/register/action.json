@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/register/action",
+  "OperationName": "Register the Microsoft.DevCenter",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.DevCenter",
+  "IsDataAction": false
+}

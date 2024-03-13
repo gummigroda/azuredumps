@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AGCAccessLogs/read",
+  "OperationName": "Read AGCAccessLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AGCAccessLogs",
+  "Description": "Read data from the AGCAccessLogs table",
+  "IsDataAction": false
+}

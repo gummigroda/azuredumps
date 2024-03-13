@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.connectedvmwarevsphere/operations/read",
+  "OperationName": "Read operations.",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "operations",
+  "Description": "Read operations.",
+  "IsDataAction": false
+}

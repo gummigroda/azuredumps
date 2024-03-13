@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/tagRules/read",
+  "OperationName": "Get tag rules resource",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "TagRules",
+  "Description": "Read tag rules",
+  "IsDataAction": false
+}

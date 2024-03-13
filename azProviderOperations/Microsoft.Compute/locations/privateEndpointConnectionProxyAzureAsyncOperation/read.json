@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/privateEndpointConnectionProxyAzureAsyncOperation/read",
+  "OperationName": "Get PrivateEndpointConnectionProxy Operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "PrivateEndpointConnectionProxy AzureAsyncOperation",
+  "Description": "Get the status of asynchronous Private Endpoint Connection Proxy operation",
+  "IsDataAction": false
+}

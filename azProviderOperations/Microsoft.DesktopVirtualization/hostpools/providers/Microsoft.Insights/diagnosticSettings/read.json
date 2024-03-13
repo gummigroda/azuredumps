@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Get diagnostic setting",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools",
+  "Description": "Gets the diagnostic setting",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/delete",
+  "OperationName": "Delete monitor resources",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Delete monitors",
+  "IsDataAction": false
+}

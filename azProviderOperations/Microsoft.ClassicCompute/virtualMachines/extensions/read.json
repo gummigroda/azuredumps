@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/extensions/read",
+  "OperationName": "Get Virtual Machine Extension",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine Extension",
+  "Description": "Gets the virtual machine extension.",
+  "IsDataAction": false
+}

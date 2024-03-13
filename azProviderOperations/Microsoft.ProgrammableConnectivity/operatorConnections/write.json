@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorConnections/write",
+  "OperationName": "OperatorConnections_Update",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorConnections",
+  "Description": "Update an Operator Connection",
+  "IsDataAction": false
+}

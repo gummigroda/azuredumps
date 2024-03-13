@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/KubeServices/Read",
+  "OperationName": "Read KubeServices data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "KubeServices",
+  "Description": "Read data from the KubeServices table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/endpoints/delete",
+  "OperationName": "Endpoints_Delete",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/endpoints",
+  "Description": "Deletes an Endpoint resource.",
+  "IsDataAction": false
+}

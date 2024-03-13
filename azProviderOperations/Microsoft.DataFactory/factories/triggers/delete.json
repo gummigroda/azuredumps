@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/triggers/delete",
+  "OperationName": "Delete Trigger",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Trigger",
+  "Description": "Deletes any Trigger.",
+  "IsDataAction": false
+}

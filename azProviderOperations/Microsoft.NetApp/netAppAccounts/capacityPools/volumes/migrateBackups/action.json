@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/migrateBackups/action",
+  "OperationName": "Migrate Volume Backups to BackupVault.",
+  "ProviderNamespace": "Microsoft.NetApp Resource Provider",
+  "ResourceName": "Volumes resource type",
+  "Description": "Migrate Volume Backups to BackupVault.",
+  "IsDataAction": false
+}

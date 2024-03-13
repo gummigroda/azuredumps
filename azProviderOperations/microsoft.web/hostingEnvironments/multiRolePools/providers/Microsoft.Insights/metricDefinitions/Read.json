@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/multiRolePools/providers/Microsoft.Insights/metricDefinitions/Read",
+  "OperationName": "Read App Service Environment MultiRole metric definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "The metric definition of App Service Environment MultiRole",
+  "Description": "Gets the available metrics for App Service Environment MultiRole",
+  "IsDataAction": false
+}

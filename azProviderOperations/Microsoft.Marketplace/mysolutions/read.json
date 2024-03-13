@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/mysolutions/read",
+  "OperationName": "UserSolutions_Read",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "UserSolutions",
+  "Description": "Get user solutions",
+  "IsDataAction": false
+}

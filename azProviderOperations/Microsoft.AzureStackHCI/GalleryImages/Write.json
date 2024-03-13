@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/GalleryImages/Write",
+  "OperationName": "Creates/Updates gallery images resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "GalleryImages",
+  "Description": "Creates/Updates gallery images resource",
+  "IsDataAction": false
+}

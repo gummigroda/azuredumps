@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/operations/read",
+  "OperationName": "Snapshot - Get Operation Status|Operations - Get Status*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "operations*",
+  "Description": "Get status of a snapshot operation.\r\nGet status of a long running operation.*",
+  "IsDataAction": true
+}

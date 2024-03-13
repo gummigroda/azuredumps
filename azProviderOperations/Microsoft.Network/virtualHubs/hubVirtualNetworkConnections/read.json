@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/hubVirtualNetworkConnections/read",
+  "OperationName": "Get a HubVirtualNetworkConnection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a HubVirtualNetworkConnection resource",
+  "Description": "Get a HubVirtualNetworkConnection",
+  "IsDataAction": false
+}

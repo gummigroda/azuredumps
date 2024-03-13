@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/serverfarms/Delete",
+  "OperationName": "Delete App Service Plan",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plan",
+  "Description": "Delete an existing App Service Plan",
+  "IsDataAction": false
+}

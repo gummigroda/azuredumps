@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/jobs/action",
+  "OperationName": "Submit text analysis job",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyze-text*",
+  "Description": "Submit a collection of text documents for analysis. Specify one or more unique tasks to be executed.",
+  "IsDataAction": true
+}

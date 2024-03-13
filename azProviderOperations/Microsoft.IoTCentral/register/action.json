@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTCentral/register/action",
+  "OperationName": "Register Microsoft.IoTCentral resource provider",
+  "ProviderNamespace": "Azure IoT Central",
+  "ResourceName": "",
+  "Description": "Register the subscription for the IoTCentral resource provider",
+  "IsDataAction": false
+}

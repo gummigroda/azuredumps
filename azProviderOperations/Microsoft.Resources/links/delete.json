@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/links/delete",
+  "OperationName": "删除资源链接",
+  "ProviderNamespace": "Microsoft 资源",
+  "ResourceName": "资源链接",
+  "Description": "删除资源链接。",
+  "IsDataAction": false
+}

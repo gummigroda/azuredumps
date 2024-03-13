@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/jobAgentPrivateEndpointAzureAsyncOperation/read",
+  "OperationName": "Get the job agent private endpoint operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB private endpoints",
+  "Description": "Gets the status of a job agent private endpoint operation",
+  "IsDataAction": false
+}

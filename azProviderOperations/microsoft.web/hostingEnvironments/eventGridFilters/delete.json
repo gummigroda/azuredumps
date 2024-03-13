@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filter on hosting environment",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plan",
+  "Description": "Delete Event Grid Filter on hosting environment.",
+  "IsDataAction": false
+}

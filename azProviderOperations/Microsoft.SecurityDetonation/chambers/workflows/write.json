@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/workflows/write",
+  "OperationName": "Workflows Write",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Workflows",
+  "Description": "Allows adding or modifying workflows",
+  "IsDataAction": true
+}

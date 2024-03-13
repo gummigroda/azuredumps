@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/HealthStateChangeEvent/read",
+  "OperationName": "Read HealthStateChangeEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "HealthStateChangeEvent",
+  "Description": "Read data from the HealthStateChangeEvent table",
+  "IsDataAction": false
+}

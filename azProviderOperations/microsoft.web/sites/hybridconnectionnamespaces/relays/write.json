@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hybridconnectionnamespaces/relays/write",
+  "OperationName": "Update Web Apps Hybrid Connection Namespaces Relays",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hybrid Connection Namespaces Relays",
+  "Description": "Update Web Apps Hybrid Connection Namespaces Relays.",
+  "IsDataAction": false
+}

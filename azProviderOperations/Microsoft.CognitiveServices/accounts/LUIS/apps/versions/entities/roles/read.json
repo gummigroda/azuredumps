@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/entities/roles/read",
+  "OperationName": "Get simple entity role or Get simple entity roles",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Simple entity roles",
+  "Description": "Gets the role for a simple entity model.\r\nGets the roles for a simple entity model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/write",
+  "OperationName": "Update ResourceGuard",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Resource Guards",
+  "Description": "Update ResouceGuard operation updates an Azure resource of type 'ResourceGuard'",
+  "IsDataAction": false
+}

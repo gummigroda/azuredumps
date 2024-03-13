@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text/incidents/delete",
+  "OperationName": "Delete Text Incident By incidentName",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Text Incidents",
+  "Description": "Deletes a text incident.",
+  "IsDataAction": true
+}

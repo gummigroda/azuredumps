@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems/Read",
+  "OperationName": "Gets/List vcenters inventoryitems resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters/inventoryitems",
+  "Description": "Read vcenter inventoryitems",
+  "IsDataAction": false
+}

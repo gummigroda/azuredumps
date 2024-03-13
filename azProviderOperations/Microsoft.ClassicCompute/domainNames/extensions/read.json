@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/extensions/read",
+  "OperationName": "Get The Domain Name Extensions",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name Extension",
+  "Description": "Returns the domain name extensions.",
+  "IsDataAction": false
+}

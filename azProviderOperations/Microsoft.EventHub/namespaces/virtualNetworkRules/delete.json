@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/virtualNetworkRules/delete",
+  "OperationName": "Delete VNET Rule Resource",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Delete VNET Rule Resource",
+  "IsDataAction": false
+}

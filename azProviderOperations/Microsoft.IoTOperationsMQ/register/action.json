@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/register/action",
+  "OperationName": "Register the Microsoft.IoTOperationsMQ",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.IoTOperationsMQ",
+  "IsDataAction": false
+}

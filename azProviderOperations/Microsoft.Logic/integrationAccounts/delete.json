@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/delete",
+  "OperationName": "Delete Integration Account",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account",
+  "Description": "Deletes the integration account.",
+  "IsDataAction": false
+}

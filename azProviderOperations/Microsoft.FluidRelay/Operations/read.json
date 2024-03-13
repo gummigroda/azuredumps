@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

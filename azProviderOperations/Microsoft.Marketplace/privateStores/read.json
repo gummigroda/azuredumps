@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/read",
+  "OperationName": "Reads PrivateStores.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "Reads PrivateStores.",
+  "IsDataAction": false
+}

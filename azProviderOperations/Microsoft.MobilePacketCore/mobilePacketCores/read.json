@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/read",
+  "OperationName": "MobilePacketCores_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores",
+  "Description": "Lists all the mobile packet cores in a resource group.",
+  "IsDataAction": false
+}

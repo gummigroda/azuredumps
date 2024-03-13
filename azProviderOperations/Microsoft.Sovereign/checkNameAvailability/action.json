@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sovereign/checkNameAvailability/action",
+  "OperationName": "action_checkNameAvailability",
+  "ProviderNamespace": "Microsoft.Sovereign",
+  "ResourceName": "",
+  "Description": "action checkNameAvailability",
+  "IsDataAction": false
+}

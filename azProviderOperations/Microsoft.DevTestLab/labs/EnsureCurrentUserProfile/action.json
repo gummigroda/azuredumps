@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/EnsureCurrentUserProfile/action",
+  "OperationName": "Ensure Current User Profile",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Labs",
+  "Description": "Ensure the current user has a valid profile in the lab.",
+  "IsDataAction": false
+}

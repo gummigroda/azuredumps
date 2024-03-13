@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/p2sVpnGateways/reset/action",
+  "OperationName": "Resets a P2SVpnGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a P2SVpnGateway resource.",
+  "Description": "Resets a P2SVpnGateway",
+  "IsDataAction": false
+}

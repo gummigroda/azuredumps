@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/keys/delete",
+  "OperationName": "Delete key",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Keys",
+  "Description": "Delete key. This operation can be used to delete key.",
+  "IsDataAction": false
+}

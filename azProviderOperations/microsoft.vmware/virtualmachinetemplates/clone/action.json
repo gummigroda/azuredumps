@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/virtualmachinetemplates/clone/action",
+  "OperationName": "Clone on virtual machine templates.",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Clone on virtual machine templates.",
+  "IsDataAction": false
+}

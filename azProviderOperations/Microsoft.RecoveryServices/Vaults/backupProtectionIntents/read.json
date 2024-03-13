@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupProtectionIntents/read",
+  "OperationName": "List all backup Protection Intents",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Protection Intent",
+  "Description": "List all backup Protection Intents",
+  "IsDataAction": false
+}

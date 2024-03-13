@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenant/syncState/read",
+  "OperationName": "Get status of last synchronization",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Get status of last synchronization",
+  "Description": "Get status of last git synchronization",
+  "IsDataAction": false
+}

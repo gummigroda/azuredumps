@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/usages/read",
+  "OperationName": "Get Usage Data for Workspace",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Usage Metric",
+  "Description": "Gets usage data for a workspace including the amount of data read by the workspace.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrderPartner/operations/read",
+  "OperationName": "List or Get Operations",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "Operations",
+  "Description": "List or get the Operations",
+  "IsDataAction": false
+}

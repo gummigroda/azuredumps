@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/images/regionproposals/action",
+  "OperationName": "GetImageRegionProposals",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "This API will get region proposals for an image along with confidences for the region. It returns an empty array if no proposals are found.",
+  "IsDataAction": true
+}

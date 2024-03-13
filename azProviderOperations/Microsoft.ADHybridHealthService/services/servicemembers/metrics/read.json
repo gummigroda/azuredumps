@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/servicemembers/metrics/read",
+  "OperationName": "Gets the list of connectors and run profile names.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Gets the list of connectors and run profile names for the given service and service member.",
+  "IsDataAction": false
+}

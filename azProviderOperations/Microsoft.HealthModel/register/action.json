@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthModel/register/action",
+  "OperationName": "Register the Microsoft.HealthModel",
+  "ProviderNamespace": "Microsoft.HealthModel",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.HealthModel",
+  "IsDataAction": false
+}

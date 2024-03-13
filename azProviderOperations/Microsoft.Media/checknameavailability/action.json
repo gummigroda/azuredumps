@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/checknameavailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "",
+  "Description": "Checks if a Media Services account name is available",
+  "IsDataAction": false
+}

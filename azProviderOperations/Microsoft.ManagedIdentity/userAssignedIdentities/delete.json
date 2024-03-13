@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/delete",
+  "OperationName": "Delete User Assigned Identity",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "User Assigned Identities",
+  "Description": "Deletes an existing user assigned identity",
+  "IsDataAction": false
+}

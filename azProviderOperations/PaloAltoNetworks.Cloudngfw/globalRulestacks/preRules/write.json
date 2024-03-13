@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/preRules/write",
+  "OperationName": "PreRules_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/preRules",
+  "Description": "Create a PreRulesResource",
+  "IsDataAction": false
+}

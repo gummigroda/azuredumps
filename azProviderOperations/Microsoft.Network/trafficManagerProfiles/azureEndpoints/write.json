@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/azureEndpoints/write",
+  "OperationName": "Create or Update a Traffic Manager Azure Endpoint",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager Azure Endpoint",
+  "Description": "Add a new Azure Endpoint in an existing Traffic Manager Profile or update the properties of an existing Azure Endpoint in that Traffic Manager Profile.",
+  "IsDataAction": false
+}

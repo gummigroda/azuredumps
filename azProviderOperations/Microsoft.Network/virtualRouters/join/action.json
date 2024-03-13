@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualRouters/join/action",
+  "OperationName": "Joins VirtualRouter",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualRouter",
+  "Description": "Joins A VirtualRouter. Not alertable.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/containerlogs/action",
+  "OperationName": "Get Zipped Container Logs for Web App Slot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Get Zipped Container Logs for Web App Slot.",
+  "IsDataAction": false
+}

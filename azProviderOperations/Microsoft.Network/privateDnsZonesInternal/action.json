@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateDnsZonesInternal/action",
+  "OperationName": "Executes Private DNS Zones Internal APIs",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "",
+  "Description": "Executes Private DNS Zones Internal APIs",
+  "IsDataAction": false
+}

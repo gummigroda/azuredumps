@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision.Prediction/projects/images/suggested/count/action",
+  "OperationName": "QuerySuggestedImageCount",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "suggested*",
+  "Description": "This API takes in tagIds to get count of untagged images per suggested tags for a given threshold.",
+  "IsDataAction": true
+}

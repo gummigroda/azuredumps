@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/calculateCost/action",
+  "OperationName": "Calculate cost for product(s)",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "",
+  "Description": "Calculate cost for provided product codes.",
+  "IsDataAction": false
+}

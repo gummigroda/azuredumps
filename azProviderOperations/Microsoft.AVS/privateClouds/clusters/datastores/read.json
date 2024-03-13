@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/clusters/datastores/read",
+  "OperationName": "Get the datastore properties in a private cloud cluster",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/clusters/datastores",
+  "Description": "Get the datastore properties in a private cloud cluster.",
+  "IsDataAction": false
+}

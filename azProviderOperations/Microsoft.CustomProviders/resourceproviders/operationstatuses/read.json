@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomProviders/resourceproviders/operationstatuses/read",
+  "OperationName": "Get the Operation Status.",
+  "ProviderNamespace": "Microsoft Custom Providers",
+  "ResourceName": "Operation Status.",
+  "Description": "Reads the operation status for the resource.",
+  "IsDataAction": false
+}

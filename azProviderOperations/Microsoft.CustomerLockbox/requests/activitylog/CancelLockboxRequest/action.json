@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CustomerLockbox/requests/activitylog/CancelLockboxRequest/action",
+  "OperationName": "Cancel Lockbox Request",
+  "ProviderNamespace": "Microsoft Customer Lockbox",
+  "ResourceName": "Customer Lockbox Request",
+  "Description": "Cancel Lockbox Request",
+  "IsDataAction": false
+}

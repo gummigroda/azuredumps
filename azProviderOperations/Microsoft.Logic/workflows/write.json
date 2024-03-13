@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/write",
+  "OperationName": "Set Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Creates or updates the workflow.",
+  "IsDataAction": false
+}

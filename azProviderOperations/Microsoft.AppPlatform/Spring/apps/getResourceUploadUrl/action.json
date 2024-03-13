@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/getResourceUploadUrl/action",
+  "OperationName": "Get the URL to upload artifacts to an app in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The application of Microsoft Azure Spring Apps",
+  "Description": "Get the resource upload URL of a specific Microsoft Azure Spring Apps application",
+  "IsDataAction": false
+}

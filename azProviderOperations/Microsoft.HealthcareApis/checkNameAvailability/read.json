@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/checkNameAvailability/read",
+  "OperationName": "Check name availability",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "",
+  "Description": "Checks for the availability of the specified name.",
+  "IsDataAction": false
+}

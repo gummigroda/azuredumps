@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/templates/read",
+  "OperationName": "Get email templates or Get email template details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Collection of all email templates",
+  "Description": "Gets all email templates or Gets API Management email template details",
+  "IsDataAction": false
+}

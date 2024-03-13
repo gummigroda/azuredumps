@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkRacks/delete",
+  "OperationName": "NetworkRacks_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkRacks",
+  "Description": "Delete Network Rack resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/resourceProviders/locations/serviceLimits/write",
+  "OperationName": "Create resource service limit",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Resource service limit",
+  "Description": "Create service limit or quota for the specified resource and location",
+  "IsDataAction": false
+}

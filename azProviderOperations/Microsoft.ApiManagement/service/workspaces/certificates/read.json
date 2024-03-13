@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/certificates/read",
+  "OperationName": "Get certificates list or Get cerificate details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates",
+  "Description": "Lists a collection of all certificates in the specified workspace or Gets the details of the certificate specified by its identifier.",
+  "IsDataAction": false
+}

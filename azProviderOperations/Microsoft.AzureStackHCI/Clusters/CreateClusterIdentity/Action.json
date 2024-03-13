@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/CreateClusterIdentity/Action",
+  "OperationName": "Create cluster identity",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters",
+  "Description": "Create cluster identity",
+  "IsDataAction": false
+}

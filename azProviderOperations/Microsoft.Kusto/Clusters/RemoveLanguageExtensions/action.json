@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/RemoveLanguageExtensions/action",
+  "OperationName": "Remove language extensions action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Remove language extensions.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/jobs/eventGridFilters/write",
+  "OperationName": "Create or Update Event Grid Subscription Filter",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Event Grid Subscription Filter",
+  "Description": "Create or update the Event Grid Subscription Filter",
+  "IsDataAction": false
+}

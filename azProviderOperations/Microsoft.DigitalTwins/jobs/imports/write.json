@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/jobs/imports/write",
+  "OperationName": "Write Bulk Import Job",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "Bulk Import Job",
+  "Description": "Create any Bulk Import Job",
+  "IsDataAction": true
+}

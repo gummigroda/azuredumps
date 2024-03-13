@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/governanceRules/read",
+  "OperationName": "Get governance rules",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Governance rules",
+  "Description": "Get governance rules for managing security posture",
+  "IsDataAction": false
+}

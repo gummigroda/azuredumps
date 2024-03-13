@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/raiPolicies/read",
+  "OperationName": "Gets Responsible AI policies.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Responsible AI policies",
+  "Description": "Gets all applicable policies under the account including default policies.",
+  "IsDataAction": false
+}

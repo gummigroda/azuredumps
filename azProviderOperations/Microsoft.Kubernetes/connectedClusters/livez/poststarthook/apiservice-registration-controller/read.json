@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/livez/poststarthook/apiservice-registration-controller/read",
+  "OperationName": "Gets/List apiservice-registration-controller resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "livez/poststarthook/apiservice-registration-controller",
+  "Description": "Reads apiservice-registration-controller",
+  "IsDataAction": true
+}

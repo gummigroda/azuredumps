@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/region/databases/collections/partitions/read",
+  "OperationName": "Read regional database account partitions in a collection",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Regional Database Account Collection partitions",
+  "Description": "Read regional database account partitions in a collection",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/operational/runValidations/action",
+  "OperationName": "Run Validations for Operational Measurements",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "Operational Measurements",
+  "Description": "Run Validations for Operational Measurements",
+  "IsDataAction": true
+}

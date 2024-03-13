@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/purge/action",
+  "OperationName": "Purge Data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace",
+  "Description": "Delete specified data by query from workspace.",
+  "IsDataAction": false
+}

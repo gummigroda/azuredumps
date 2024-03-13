@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/delete",
+  "OperationName": "Delete  Security User Rule Collection",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Security User Rule Collection",
+  "Description": "Delete  Security User Rule Collection",
+  "IsDataAction": false
+}

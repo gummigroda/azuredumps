@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/snapshots/read",
+  "OperationName": "Snapshots_Get",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/snapshots",
+  "Description": "Get the AppComplianceAutomation snapshot and its properties.",
+  "IsDataAction": false
+}

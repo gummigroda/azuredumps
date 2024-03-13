@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/projects/jobDefinitions/write",
+  "OperationName": "JobDefinitions_Update",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/projects/jobDefinitions",
+  "Description": "Updates properties for a Job Definition resource. Properties not specified in the request body will be unchanged.",
+  "IsDataAction": false
+}

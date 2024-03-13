@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/privateEndpointRedirectMaps/read",
+  "OperationName": "Gets Private Endpoint RedirectMaps",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Private Endpoint Redirect Map",
+  "Description": "Gets a Private Endpoint RedirectMap",
+  "IsDataAction": false
+}

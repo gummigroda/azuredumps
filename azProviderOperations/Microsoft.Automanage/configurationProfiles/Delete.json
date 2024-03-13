@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/configurationProfiles/Delete",
+  "OperationName": "Delete Automanage ConfigurationProfiles",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage ConfigurationProfiles",
+  "Description": "Delete any Automanage ConfigurationProfiles",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/networkclouds2s/delete",
+  "OperationName": "NetworkCloudS2S_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/networkclouds2s",
+  "Description": "Delete the NetworkCloudS2S resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/OracleSites/ErrorSummaries/delete",
+  "OperationName": "ErrorSummaries_Delete",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "OracleSites/ErrorSummaries",
+  "Description": "Deletes the ErrorSummaries resource.",
+  "IsDataAction": false
+}

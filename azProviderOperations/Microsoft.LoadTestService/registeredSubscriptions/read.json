@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LoadTestService/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
+  "ProviderNamespace": "Microsoft.LoadTestService",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "read registeredSubscriptions",
+  "IsDataAction": false
+}

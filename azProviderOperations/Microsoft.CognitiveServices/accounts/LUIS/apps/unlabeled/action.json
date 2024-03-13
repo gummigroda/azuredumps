@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/unlabeled/action",
+  "OperationName": "apps - UploadUnlabeledData",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Uploads unlabeled data from csv file to the application",
+  "IsDataAction": true
+}

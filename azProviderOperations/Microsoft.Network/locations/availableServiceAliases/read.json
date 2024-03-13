@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/availableServiceAliases/read",
+  "OperationName": "Get Available Service Aliases",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Available Service Aliases",
+  "Description": "Gets Available Service Aliases",
+  "IsDataAction": false
+}

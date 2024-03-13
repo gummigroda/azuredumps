@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Write Azure API for FHIR diagnostic settings",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Azure API for FHIR diagnostic settings",
+  "Description": "Creates or updates the diagnostic settings for Azure API for FHIR",
+  "IsDataAction": false
+}

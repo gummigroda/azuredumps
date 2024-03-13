@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/offerTypes/publishers/offers/plans/configs/read",
+  "OperationName": "Get config.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Returns a config.",
+  "IsDataAction": false
+}

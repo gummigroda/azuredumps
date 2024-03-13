@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/apis/node.k8s.io/v1beta1/read",
+  "OperationName": "Gets/List node.k8s.io/v1beta1 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Node.K8s.Io/V1beta1",
+  "Description": "Reads node.k8s.io/v1beta1",
+  "IsDataAction": true
+}

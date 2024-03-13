@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/read",
+  "OperationName": "AzureDevOpsOrgs_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs",
+  "Description": "Returns a list of Azure DevOps organizations onboarded to the connector.",
+  "IsDataAction": false
+}

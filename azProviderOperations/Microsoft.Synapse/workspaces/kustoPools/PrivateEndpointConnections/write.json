@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/kustoPools/PrivateEndpointConnections/write",
+  "OperationName": "Write private endpoint connection",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Private endpoint connections resource type",
+  "Description": "Writes a private endpoint connection",
+  "IsDataAction": false
+}

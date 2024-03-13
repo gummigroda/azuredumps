@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/operationResults/read",
+  "OperationName": "Get operation result",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "Microsoft.AppPlatform/Spring/apps Operation Result",
+  "Description": "Read resource operation result",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/certificateProfiles/Sign/action",
+  "OperationName": "Signs Files",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "CertificateProfiles",
+  "Description": "Signs provided files using specified certificate profile.",
+  "IsDataAction": true
+}

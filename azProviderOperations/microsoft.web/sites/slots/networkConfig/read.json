@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networkConfig/read",
+  "OperationName": "Get App Service Slots Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Slots Network Configuration",
+  "Description": "Get App Service Slots Network Configuration.",
+  "IsDataAction": false
+}

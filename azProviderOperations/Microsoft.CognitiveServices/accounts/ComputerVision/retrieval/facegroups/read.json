@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/facegroups/read",
+  "OperationName": "ListFaceGroups",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Face Group Operations",
+  "Description": "Get the list of available face groups for a user.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppSecurity/Operations/read",
+  "OperationName": "read_Operations",
+  "ProviderNamespace": "Microsoft.AppSecurity",
+  "ResourceName": "Operations",
+  "Description": "read Operations",
+  "IsDataAction": false
+}

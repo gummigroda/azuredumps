@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthBot/healthBots/Read",
+  "OperationName": "Gets/List healthBot resources",
+  "ProviderNamespace": "Microsoft.HealthBot",
+  "ResourceName": "healthBots",
+  "Description": "Read healthBots",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/listKeys/action",
+  "OperationName": "Gets the Keys for the automation account",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account",
+  "Description": "Reads the Keys for the automation account",
+  "IsDataAction": false
+}

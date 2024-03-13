@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/azureZones/plugins/delete",
+  "OperationName": "Delete",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Plugins",
+  "Description": "Deletes a given Plugin.",
+  "IsDataAction": false
+}

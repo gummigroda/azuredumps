@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/suppressions/delete",
+  "OperationName": "Delete Suppression",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Suppressions",
+  "Description": "Deletes suppression",
+  "IsDataAction": false
+}

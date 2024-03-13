@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/datasets/blocks/write",
+  "OperationName": "Upload Data Block",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "blocks*",
+  "Description": "Upload a block of data for the dataset. The maximum size of the block is 8MiB.",
+  "IsDataAction": true
+}

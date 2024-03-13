@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/eventhubs/read",
+  "OperationName": "Get EventHub",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "EventHub",
+  "Description": "Get list of EventHub Resource Descriptions",
+  "IsDataAction": false
+}

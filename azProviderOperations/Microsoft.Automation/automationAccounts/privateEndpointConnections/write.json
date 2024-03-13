@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/privateEndpointConnections/write",
+  "OperationName": "Approve or reject an Azure Automation Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Private Endpoint Connection",
+  "Description": "Approve or reject an Azure Automation Private Endpoint Connection",
+  "IsDataAction": false
+}

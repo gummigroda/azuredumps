@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeManagement/unregister/action",
+  "OperationName": "Unregister the Microsoft.EdgeManagement",
+  "ProviderNamespace": "Microsoft.EdgeManagement",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.EdgeManagement",
+  "IsDataAction": false
+}

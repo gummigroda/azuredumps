@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/CNAME/write",
+  "OperationName": "Create or update record set of type CNAME",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS CNAME record set",
+  "Description": "Create or update a record set of type ‘CNAME’ within a DNS zone. The records specified will replace the current records in the record set.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/profile/read",
+  "OperationName": "Read Configuration Profile",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "Azure Application Change Analysis Service Configuration Profile",
+  "Description": "Read Azure Application Change Analysis Service Configuration Profile",
+  "IsDataAction": false
+}

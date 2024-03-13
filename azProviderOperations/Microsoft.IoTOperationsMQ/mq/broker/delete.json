@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/broker/delete",
+  "OperationName": "Broker_Delete",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/broker",
+  "Description": "Delete a BrokerResource",
+  "IsDataAction": false
+}

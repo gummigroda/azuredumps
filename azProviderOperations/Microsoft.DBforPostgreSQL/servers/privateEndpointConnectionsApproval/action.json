@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/privateEndpointConnectionsApproval/action",
+  "OperationName": "Private Endpoint Connections Approval",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "PostgreSQL Server",
+  "Description": "Determines if user is allowed to approve a private endpoint connection",
+  "IsDataAction": false
+}

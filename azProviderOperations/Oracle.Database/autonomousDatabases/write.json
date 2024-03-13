@@ -1,0 +1,8 @@
+{
+  "Operation": "Oracle.Database/autonomousDatabases/write",
+  "OperationName": "AutonomousDatabases_Update",
+  "ProviderNamespace": "Oracle.Database",
+  "ResourceName": "autonomousDatabases",
+  "Description": "Update a AutonomousDatabase",
+  "IsDataAction": false
+}

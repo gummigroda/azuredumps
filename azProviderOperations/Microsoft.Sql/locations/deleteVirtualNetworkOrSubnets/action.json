@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Delete Azure SQL Virtual network rules associated to a virtual network or subnet",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "SQL DB Network Security Perimeter Updates",
+  "Description": "Deletes Virtual network rules associated to a virtual network or subnet",
+  "IsDataAction": false
+}

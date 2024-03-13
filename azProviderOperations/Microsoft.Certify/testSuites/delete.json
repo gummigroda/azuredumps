@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Certify/testSuites/delete",
+  "OperationName": "Delete Certify testSuites resource.",
+  "ProviderNamespace": "Microsoft.Certify",
+  "ResourceName": "testSuites",
+  "Description": "Deletes an existing Certify testSuites resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/eventhubs/authorizationRules/action",
+  "OperationName": "Update EventHub Authorization Rules (Deprecated)",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "EventHub",
+  "Description": "Operation to update EventHub. This operation is not supported on API version 2017-04-01. Authorization Rules. Please use a PUT call to update Authorization Rule.",
+  "IsDataAction": false
+}

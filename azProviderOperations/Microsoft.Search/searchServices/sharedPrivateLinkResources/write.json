@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/sharedPrivateLinkResources/write",
+  "OperationName": "Create Shared Private Link Resource",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Shared Private Link Resource",
+  "Description": "Creates a new shared private link resource with the specified parameters or updates the properties for the specified shared private link resource",
+  "IsDataAction": false
+}

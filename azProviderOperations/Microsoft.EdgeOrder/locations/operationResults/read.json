@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/locations/operationResults/read",
+  "OperationName": "List or Get Operation Results",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "Operation Results",
+  "Description": "List or get the Operation Results",
+  "IsDataAction": false
+}

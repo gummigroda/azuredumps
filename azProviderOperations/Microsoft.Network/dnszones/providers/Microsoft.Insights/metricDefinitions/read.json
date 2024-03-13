@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get DNS zone metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS zone metric definitions",
+  "Description": "Gets the DNS zone metric definitions",
+  "IsDataAction": false
+}

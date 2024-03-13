@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridConnectivity/publicCloudConnectors/delete",
+  "OperationName": "publicConnectors_Delete",
+  "ProviderNamespace": "Microsoft.HybridConnectivity",
+  "ResourceName": "publicCloudConnectors",
+  "Description": "Deletes the public cloud connectors resource.",
+  "IsDataAction": false
+}

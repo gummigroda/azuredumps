@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/feedback/metric/query/action",
+  "OperationName": "List feedback on the given metric",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Feedback on metric",
+  "Description": "List feedback on the given metric",
+  "IsDataAction": true
+}

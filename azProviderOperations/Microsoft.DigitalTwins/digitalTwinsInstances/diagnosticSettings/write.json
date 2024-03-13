@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/diagnosticSettings/write",
+  "OperationName": "Set Diagnostic Settings",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Sets the diagnostic settings for the resource",
+  "IsDataAction": false
+}

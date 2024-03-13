@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/rbac.authorization.k8s.io/roles/delete",
+  "OperationName": "Deletes/DeletesCollection roles resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Roles",
+  "Description": "Deletes roles",
+  "IsDataAction": true
+}

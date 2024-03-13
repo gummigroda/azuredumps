@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/images/write",
+  "OperationName": "Image - Add Image",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "Add an Image to your image list. The image list can be used to do fuzzy matching against other images when using Image/Match API.",
+  "IsDataAction": true
+}

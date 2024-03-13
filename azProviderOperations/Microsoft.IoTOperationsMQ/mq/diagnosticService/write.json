@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/diagnosticService/write",
+  "OperationName": "DiagnosticService_Update",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq/diagnosticService",
+  "Description": "Update a DiagnosticServiceResource",
+  "IsDataAction": false
+}

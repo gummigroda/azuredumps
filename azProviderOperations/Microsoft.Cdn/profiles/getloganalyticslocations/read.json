@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Cdn/profiles/getloganalyticslocations/read",
+  "OperationName": "read",
+  "ProviderNamespace": "Microsoft.Cdn",
+  "ResourceName": "LoganalyticsLocations",
+  "Description": null,
+  "IsDataAction": false
+}

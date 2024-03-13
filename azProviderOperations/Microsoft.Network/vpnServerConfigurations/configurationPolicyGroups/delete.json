@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/vpnServerConfigurations/configurationPolicyGroups/delete",
+  "OperationName": "Delete Configuration Policy Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Configuration Policy Group",
+  "Description": "Deletes a Configuration Policy Group",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/assemblies/delete",
+  "OperationName": "Delete Integration Account Assembly",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Assembly",
+  "Description": "Deletes the assembly in integration account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseIntegrationActivityRuns/read",
+  "OperationName": "Read SynapseIntegrationActivityRuns data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseIntegrationActivityRuns",
+  "Description": "Read data from the SynapseIntegrationActivityRuns table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ANFFileAccess/read",
+  "OperationName": "Read ANFFileAccess data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ANFFileAccess",
+  "Description": "Read data from the ANFFileAccess table",
+  "IsDataAction": false
+}

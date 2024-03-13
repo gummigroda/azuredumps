@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/Deactivate/action",
+  "OperationName": "Cluster deactivate action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Stops the cluster.",
+  "IsDataAction": false
+}

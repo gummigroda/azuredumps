@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerPlatform/enterprisePolicies/privateEndpointConnections/read",
+  "OperationName": "Get Enterprise Policy Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Power Platform",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Gets an enterprise policy private endpoint connection",
+  "IsDataAction": false
+}

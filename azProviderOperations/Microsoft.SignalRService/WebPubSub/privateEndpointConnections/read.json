@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/privateEndpointConnections/read",
+  "OperationName": "Read Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/PrivateEndpointConnections",
+  "Description": "Read Private Endpoint Connection",
+  "IsDataAction": false
+}

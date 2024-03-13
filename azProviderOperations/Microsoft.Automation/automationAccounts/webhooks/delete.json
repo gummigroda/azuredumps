@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/webhooks/delete",
+  "OperationName": "Delete an Azure Automation webhook",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Webhook",
+  "Description": "Deletes an Azure Automation webhook ",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "DiagnosticSettingsWrite",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experiment Workspace",
+  "Description": "DiagnosticSettingsWrite",
+  "IsDataAction": true
+}

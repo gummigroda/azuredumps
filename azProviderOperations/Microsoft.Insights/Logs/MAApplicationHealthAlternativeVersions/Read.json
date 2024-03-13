@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MAApplicationHealthAlternativeVersions/Read",
+  "OperationName": "Read MAApplicationHealthAlternativeVersions data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MAApplicationHealthAlternativeVersions",
+  "Description": "Read data from the MAApplicationHealthAlternativeVersions table",
+  "IsDataAction": false
+}

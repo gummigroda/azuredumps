@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerUserMetricsKeys/delete",
+  "OperationName": "Delete a subscription-level key used for Realtime User Metrics collection.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Realtime User Metrics Keys for Traffic Management",
+  "Description": "Deletes the subscription-level key used for Realtime User Metrics collection.",
+  "IsDataAction": false
+}

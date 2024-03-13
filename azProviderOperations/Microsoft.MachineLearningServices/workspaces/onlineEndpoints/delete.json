@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineEndpoints/delete",
+  "OperationName": "Deletes an online inference endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Deletes an online inference endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

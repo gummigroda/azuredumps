@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/assets/assetTracks/assetTracksOperationResults/read",
+  "OperationName": "Read Asset Track Operation Result",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Asset Track Operation Result",
+  "Description": "Read any Asset Track Operation Result",
+  "IsDataAction": false
+}

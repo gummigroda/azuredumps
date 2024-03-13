@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/accesspolicies/delete",
+  "OperationName": "Delete Access Policy",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "Access Policy",
+  "Description": "Deletes the access policy.",
+  "IsDataAction": false
+}

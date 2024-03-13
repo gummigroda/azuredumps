@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/forecasts/read",
+  "OperationName": "List forecasts",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Forecasts",
+  "Description": "List forecasts",
+  "IsDataAction": false
+}

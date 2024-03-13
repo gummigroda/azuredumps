@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/firewallRules/read",
+  "OperationName": "Read Mongo Cluster Firewall Rules",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Firewall Rule",
+  "Description": "Reads a firewall rule or lists all firewall rules for the specified Mongo Cluster.",
+  "IsDataAction": false
+}

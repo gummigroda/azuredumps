@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/read",
+  "OperationName": "Get VirtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Gets a VirtualNetworkGateway",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/storages/read",
+  "OperationName": "Get Microsoft Azure Spring Apps storage",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The storage of Microsoft Azure Spring Apps",
+  "Description": "Get storage for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

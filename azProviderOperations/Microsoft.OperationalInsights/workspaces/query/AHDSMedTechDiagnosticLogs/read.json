@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AHDSMedTechDiagnosticLogs/read",
+  "OperationName": "Read AHDSMedTechDiagnosticLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AHDSMedTechDiagnosticLogs",
+  "Description": "Read data from the AHDSMedTechDiagnosticLogs table",
+  "IsDataAction": false
+}

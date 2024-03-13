@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ipAllocations/delete",
+  "OperationName": "Delete IpAllocation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ip Allocation",
+  "Description": "Deletes A IpAllocation",
+  "IsDataAction": false
+}

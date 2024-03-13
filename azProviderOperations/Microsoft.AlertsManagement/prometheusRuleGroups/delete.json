@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/prometheusRuleGroups/delete",
+  "OperationName": "Deletes the prometheusRuleGroups",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "prometheusRuleGroups",
+  "Description": "Delete prometheusRuleGroups",
+  "IsDataAction": false
+}

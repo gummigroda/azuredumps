@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/locations/vendors/networkFunctions/write",
+  "OperationName": "VendorNetworkFunctions_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "locations/vendors/networkFunctions",
+  "Description": "Creates or updates a vendor network function.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/chemicalProducts/read",
+  "OperationName": "Get or List AgFoodPlatform Chemical Products resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Chemical Products",
+  "Description": "Gets or Lists existing AgFoodPlatform Chemical Products resource(s).",
+  "IsDataAction": true
+}

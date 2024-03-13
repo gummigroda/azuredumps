@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/termlists/terms/write",
+  "OperationName": "Term - Add Term",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage terms.",
+  "Description": "Term - Add Term",
+  "IsDataAction": true
+}

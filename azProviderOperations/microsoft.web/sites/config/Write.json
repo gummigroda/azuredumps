@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/config/Write",
+  "OperationName": "Update Web App Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Update Web App's configuration settings",
+  "IsDataAction": false
+}

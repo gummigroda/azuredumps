@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/platforms/read",
+  "OperationName": "Platforms Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Platforms",
+  "Description": "Allows querying of available platforms",
+  "IsDataAction": true
+}

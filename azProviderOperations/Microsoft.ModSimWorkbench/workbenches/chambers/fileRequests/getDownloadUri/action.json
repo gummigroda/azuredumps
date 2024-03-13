@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/getDownloadUri/action",
+  "OperationName": "fileRequest_getDownloadUri",
+  "ProviderNamespace": "Microsoft.ModSimWorkbench",
+  "ResourceName": "workbenches/chambers/fileRequests",
+  "Description": "getDownloadUri fileRequests",
+  "IsDataAction": false
+}

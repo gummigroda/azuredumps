@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRoutePorts/generateloa/action",
+  "OperationName": "Generates LOA for ExpressRoutePorts",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "ExpressRoutePorts",
+  "Description": "Generates LOA for ExpressRoutePorts",
+  "IsDataAction": false
+}

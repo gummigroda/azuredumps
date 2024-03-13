@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/agreements/read",
+  "OperationName": "List agreemetns",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Agreemetns",
+  "Description": "List all the marketplace agreemetns",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/loadBalancers/write",
+  "OperationName": "LoadBalancers_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "loadBalancers",
+  "Description": "Create a LoadBalancer",
+  "IsDataAction": false
+}

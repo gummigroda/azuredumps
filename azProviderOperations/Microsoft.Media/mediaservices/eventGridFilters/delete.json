@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/eventGridFilters/delete",
+  "OperationName": "Delete Event Grid Filter",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Event Grid Filter",
+  "Description": "Delete any Event Grid Filter",
+  "IsDataAction": false
+}

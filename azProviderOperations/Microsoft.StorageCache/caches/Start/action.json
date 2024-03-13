@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageCache/caches/Start/action",
+  "OperationName": "Start the cache",
+  "ProviderNamespace": "Microsoft Azure HPC Cache",
+  "ResourceName": "Cache",
+  "Description": "Starts the cache",
+  "IsDataAction": false
+}

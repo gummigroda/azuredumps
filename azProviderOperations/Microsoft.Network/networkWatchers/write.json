@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/write",
+  "OperationName": "Create or Update Network Watcher",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Creates a network watcher or updates an existing network watcher",
+  "IsDataAction": false
+}

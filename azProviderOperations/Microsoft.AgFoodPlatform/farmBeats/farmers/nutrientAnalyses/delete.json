@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/nutrientAnalyses/delete",
+  "OperationName": "Delete AgFoodPlatform nutrient analyses resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform nutrient analyses",
+  "Description": "Deletes an existing AgFoodPlatform nutrient analyses resource.",
+  "IsDataAction": true
+}

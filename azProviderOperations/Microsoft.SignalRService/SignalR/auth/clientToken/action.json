@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/SignalR/auth/clientToken/action",
+  "OperationName": "Generate an Access Token for client to connect to the Azure SignalR Service",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "SignalR/Auth",
+  "Description": "Generate an AccessToken for client to connect to ASRS, the token will expire in 5 minutes by default",
+  "IsDataAction": true
+}

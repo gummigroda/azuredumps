@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/groups/impersonate/action",
+  "OperationName": "Impersonate groups resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "groups",
+  "Description": "Impersonate groups",
+  "IsDataAction": true
+}

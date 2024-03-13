@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Confluent/organizations/Write",
+  "OperationName": "Create/Update organization resources",
+  "ProviderNamespace": "Microsoft.Confluent",
+  "ResourceName": "organizations",
+  "Description": "Write organization",
+  "IsDataAction": false
+}

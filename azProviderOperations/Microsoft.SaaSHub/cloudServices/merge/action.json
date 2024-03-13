@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/merge/action",
+  "OperationName": "CloudServices_Merge",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Merges multiple cloud service resources into one target cloud service resource. The resource name in URL is the target, and the list of source cloud service resource and quantity will be specified in request payload",
+  "IsDataAction": false
+}

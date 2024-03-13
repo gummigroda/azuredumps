@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/apis/batch/v1/read",
+  "OperationName": "Gets/List batch/v1 resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "batch/v1",
+  "Description": "Reads batch/v1",
+  "IsDataAction": true
+}

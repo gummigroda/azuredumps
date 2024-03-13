@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/locations/workflows/validate/action",
+  "OperationName": "Validate Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Validates the workflow.",
+  "IsDataAction": false
+}

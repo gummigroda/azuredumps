@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/serviceManagementContainers/updateSpecifications/write",
+  "OperationName": "UpdateSpecifications_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "serviceManagementContainers/updateSpecifications",
+  "Description": "write updateSpecifications",
+  "IsDataAction": false
+}

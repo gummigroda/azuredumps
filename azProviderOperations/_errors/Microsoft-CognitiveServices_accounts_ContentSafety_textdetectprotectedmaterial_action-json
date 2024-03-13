@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/text:detectprotectedmaterial/action",
+  "OperationName": "Analyze Protected Material",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Content Safety",
+  "Description": "A synchronous API for the analysis of protected material.",
+  "IsDataAction": true
+}

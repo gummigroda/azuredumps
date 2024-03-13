@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingSubscriptions/move/write",
+  "OperationName": "BillingSubscriptions_Move",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Move",
+  "Description": "Moves a subscription's charges to a new invoice section. The new invoice section must belong to the same billing profile as the existing invoice section. This operation is supported for billing accounts with agreement type Microsoft Customer Agreement.",
+  "IsDataAction": false
+}

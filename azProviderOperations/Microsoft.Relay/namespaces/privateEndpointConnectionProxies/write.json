@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Relay/namespaces/privateEndpointConnectionProxies/write",
+  "OperationName": "Create Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Azure Relay",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Create Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

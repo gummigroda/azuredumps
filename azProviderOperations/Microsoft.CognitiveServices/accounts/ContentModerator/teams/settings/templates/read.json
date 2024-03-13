@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/settings/templates/read",
+  "OperationName": "Review - Get Templates",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage setting templates.",
+  "Description": "Returns an array of review templates provisioned on this team.",
+  "IsDataAction": true
+}

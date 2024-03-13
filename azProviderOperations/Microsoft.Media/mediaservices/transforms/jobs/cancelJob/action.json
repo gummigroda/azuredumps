@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/jobs/cancelJob/action",
+  "OperationName": "Cancel Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Job",
+  "Description": "Cancel Job",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/logDefinitions/read",
+  "OperationName": "Read automation account log definitions",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Account Log Definition",
+  "Description": "Gets the available logs for the automation account",
+  "IsDataAction": false
+}

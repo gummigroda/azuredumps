@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/natGateways/delete",
+  "OperationName": "Delete Nat Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Nat Gateway",
+  "Description": "Delete Nat Gateway",
+  "IsDataAction": false
+}

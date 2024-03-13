@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/pccRules/write",
+  "OperationName": "PccRules_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/pccRules",
+  "Description": "Creates or updates a Mobile Packet Core Policy and Charging Control Rule resource",
+  "IsDataAction": false
+}

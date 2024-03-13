@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyTrackedResources/queryResults/read",
+  "OperationName": "Query Policy Tracked Resources",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Tracked Resources",
+  "Description": "Query information about resources required by DeployIfNotExists policies.",
+  "IsDataAction": false
+}

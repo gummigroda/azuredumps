@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Personalizer/events/activate/action",
+  "OperationName": "Activate Event.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage events.",
+  "Description": "Report that the specified event was actually used (e.g. by being displayed to the user) and a reward should be expected for it.",
+  "IsDataAction": true
+}

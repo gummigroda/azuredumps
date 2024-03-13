@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/write",
+  "OperationName": "Creates or updates an existing database.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Creates a new database or updates an existing database.",
+  "IsDataAction": false
+}

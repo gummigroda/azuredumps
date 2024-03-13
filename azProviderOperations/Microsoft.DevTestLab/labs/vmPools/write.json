@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/vmPools/write",
+  "OperationName": "Add or modify virtual machine pools.",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual Machine Pools",
+  "Description": "Add or modify virtual machine pools.",
+  "IsDataAction": false
+}

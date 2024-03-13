@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/tables/delete",
+  "OperationName": "Delete Dataset",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Dataset",
+  "Description": "Deletes any Dataset.",
+  "IsDataAction": false
+}

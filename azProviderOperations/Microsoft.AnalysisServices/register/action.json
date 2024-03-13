@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/register/action",
+  "OperationName": "Register Analysis Services provider",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "",
+  "Description": "Registers Analysis Services resource provider.",
+  "IsDataAction": false
+}

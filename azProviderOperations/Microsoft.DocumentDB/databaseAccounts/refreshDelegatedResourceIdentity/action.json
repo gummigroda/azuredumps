@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/refreshDelegatedResourceIdentity/action",
+  "OperationName": "Refresh Delegate Resource",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Update existing delegate resources on database account.",
+  "IsDataAction": false
+}

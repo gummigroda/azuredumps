@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/write",
+  "OperationName": "Add Domain Names",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name",
+  "Description": "Add or modify the domain names for resources.",
+  "IsDataAction": false
+}

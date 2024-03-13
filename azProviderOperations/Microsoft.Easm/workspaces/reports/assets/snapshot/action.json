@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/reports/assets/snapshot/action",
+  "OperationName": "Reports_Snapshot",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve the most recent snapshot of asset summary values for the snapshot request.",
+  "IsDataAction": true
+}

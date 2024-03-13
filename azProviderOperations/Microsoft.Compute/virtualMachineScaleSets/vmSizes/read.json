@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachineScaleSets/vmSizes/read",
+  "OperationName": "List Virtual Machine Sizes for a Virtual Machine Scale Set",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Size for Virtual Machine Scale Set",
+  "Description": "List available sizes for creating or updating a virtual machine in the Virtual Machine Scale Set",
+  "IsDataAction": false
+}

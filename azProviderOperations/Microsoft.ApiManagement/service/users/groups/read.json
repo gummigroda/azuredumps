@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/users/groups/read",
+  "OperationName": "Get user groups list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Developer groups assigned to user",
+  "Description": "Lists all user groups.",
+  "IsDataAction": false
+}

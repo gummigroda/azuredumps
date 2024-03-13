@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/ruleGroups/delete",
+  "OperationName": "Delete Firewall Policy Rule Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Rule Group",
+  "Description": "Deletes a Firewall Policy Rule Group",
+  "IsDataAction": false
+}

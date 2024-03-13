@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerGroups/containers/attach/action",
+  "OperationName": "Attach to a container",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Group",
+  "Description": "Attach to the output stream of a container.",
+  "IsDataAction": false
+}

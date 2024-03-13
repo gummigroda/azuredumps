@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/resourcehealthmetadata/read",
+  "OperationName": "Get Web Apps Resource Health Metadata",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Resource Health Metadata",
+  "Description": "Get Web Apps Resource Health Metadata.",
+  "IsDataAction": false
+}

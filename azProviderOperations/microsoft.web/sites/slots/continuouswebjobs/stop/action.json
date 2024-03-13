@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/continuouswebjobs/stop/action",
+  "OperationName": "Stop Web Apps Slots Continuous Web Jobs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Continuous Web Jobs",
+  "Description": "Stop Web Apps Slots Continuous Web Jobs.",
+  "IsDataAction": false
+}

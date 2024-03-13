@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/modernizeProjects/workloadDeployments/delete",
+  "OperationName": "Deletes the workload deployment",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Modernization Resource",
+  "Description": "Removes the workload deployment",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/timeseriesgroups/appinstances/inferencescore/read",
+  "OperationName": "Get the inference score values from a time series group application instance",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Inference score of a time series group",
+  "Description": "Get the inference score values from a time series group application instance",
+  "IsDataAction": true
+}

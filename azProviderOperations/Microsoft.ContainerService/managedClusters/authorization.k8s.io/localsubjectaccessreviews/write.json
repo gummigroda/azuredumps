@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/authorization.k8s.io/localsubjectaccessreviews/write",
+  "OperationName": "Creates/Updates localsubjectaccessreviews resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Localsubjectaccessreviews",
+  "Description": "Writes localsubjectaccessreviews",
+  "IsDataAction": true
+}

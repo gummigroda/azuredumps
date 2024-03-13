@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/descendants/read",
+  "OperationName": "Get Group Descendants",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Gets all the descendants (Management Groups, Subscriptions) of a Management Group.",
+  "IsDataAction": false
+}

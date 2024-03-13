@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/Delete",
+  "OperationName": "Delete IotDps resource",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices",
+  "Description": "Delete IotDps resource",
+  "IsDataAction": false
+}

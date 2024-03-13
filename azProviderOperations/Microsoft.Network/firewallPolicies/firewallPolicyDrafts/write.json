@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/firewallPolicies/firewallPolicyDrafts/write",
+  "OperationName": "Create or Update Firewall Policy Draft",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Firewall Policy Draft",
+  "Description": "Creates a Firewall Policy Draft or Updates an existing Firewall Policy Draft",
+  "IsDataAction": false
+}

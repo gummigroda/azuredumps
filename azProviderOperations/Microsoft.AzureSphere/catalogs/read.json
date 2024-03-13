@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/read",
+  "OperationName": "Catalogs_Get",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Get a Catalog",
+  "IsDataAction": false
+}

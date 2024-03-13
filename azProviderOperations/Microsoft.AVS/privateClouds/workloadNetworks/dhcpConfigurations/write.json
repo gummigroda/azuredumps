@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/write",
+  "OperationName": "Write dhcpConfigurations",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/workloadNetworks/dhcpConfigurations",
+  "Description": "Write dhcpConfigurations.",
+  "IsDataAction": false
+}

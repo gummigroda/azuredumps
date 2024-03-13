@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TimeSeriesInsights/environments/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read environments metric definitions",
+  "ProviderNamespace": "Microsoft Time Series Insights",
+  "ResourceName": "The metrics definition of environments",
+  "Description": "Gets the available metrics for environments",
+  "IsDataAction": false
+}

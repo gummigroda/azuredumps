@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete Azure SQL Database Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database Private Endpoint Connection Proxy",
+  "Description": "Deletes an existing private endpoint connection proxy",
+  "IsDataAction": false
+}

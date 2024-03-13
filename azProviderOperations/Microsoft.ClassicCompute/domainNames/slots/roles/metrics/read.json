@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/domainNames/slots/roles/metrics/read",
+  "OperationName": "Get Domain Name Slot Role Metric",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Domain Name Slot Role Metric",
+  "Description": "Get role metric for the domain name.",
+  "IsDataAction": false
+}

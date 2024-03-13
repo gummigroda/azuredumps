@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/ipv6FirewallRulesAzureAsyncOperation/read",
+  "OperationName": "Gets the status of a firewall rule operation.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "IPv6 Server Firewall Rule",
+  "Description": "Gets the status of a firewall rule operation.",
+  "IsDataAction": false
+}

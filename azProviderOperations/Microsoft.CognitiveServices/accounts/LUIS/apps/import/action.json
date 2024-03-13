@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/import/action",
+  "OperationName": "Apps - Import",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Apps",
+  "Description": "Imports an application to LUIS, the application's JSON should be included in the request body. Returns new app ID.",
+  "IsDataAction": true
+}

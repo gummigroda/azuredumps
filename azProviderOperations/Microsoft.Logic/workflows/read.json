@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/read",
+  "OperationName": "Get Workflow",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Workflow",
+  "Description": "Reads the workflow.",
+  "IsDataAction": false
+}

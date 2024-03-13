@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/listEdgePolicies/action",
+  "OperationName": "List policies for an edge device.",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Media Services Account",
+  "Description": "List policies for an edge device.",
+  "IsDataAction": false
+}

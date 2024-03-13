@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/flowcontrol.apiserver.k8s.io/prioritylevelconfigurations/write",
+  "OperationName": "Creates/Updates prioritylevelconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "prioritylevelconfigurations",
+  "Description": "Writes prioritylevelconfigurations",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/bareMetalMachines/replace/action",
+  "OperationName": "BareMetalMachines_Replace",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "bareMetalMachines",
+  "Description": "Replace the provided bare metal machine.",
+  "IsDataAction": false
+}

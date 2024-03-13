@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/blocks/read",
+  "OperationName": "Get one or more uploaded blocks",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Blocks",
+  "Description": "Get one or more uploaded blocks",
+  "IsDataAction": true
+}

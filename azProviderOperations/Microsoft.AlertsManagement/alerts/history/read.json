@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/alerts/history/read",
+  "OperationName": "Read alert history",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "alerts",
+  "Description": "Get history of the alert",
+  "IsDataAction": false
+}

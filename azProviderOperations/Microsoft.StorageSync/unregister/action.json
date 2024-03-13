@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/unregister/action",
+  "OperationName": "Unregisters the Storage Sync Provider",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription for the Storage Sync Provider",
+  "IsDataAction": false
+}

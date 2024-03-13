@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/privateEndpointConnections/read",
+  "OperationName": "Read Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Private Endpoint Connection",
+  "Description": "Read Private Endpoint Connection.",
+  "IsDataAction": false
+}

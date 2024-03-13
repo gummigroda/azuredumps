@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/privateEndpointConnectionProxies/delete",
+  "OperationName": "Delete a Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Private Endpoint Connection Proxy",
+  "Description": "Delete a connection proxy to a Private Endpoint resource of Microsoft.Network provider",
+  "IsDataAction": false
+}

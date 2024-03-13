@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomAvatar/endpoints/read",
+  "OperationName": "Read Endpoints",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Endpoints",
+  "Description": "Gets one or more custom avatar endpoints.",
+  "IsDataAction": true
+}

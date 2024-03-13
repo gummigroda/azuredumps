@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/locations/deleteVirtualNetworkOrSubnets/action",
+  "OperationName": "Microsoft.DocumentDB/locations/deleteVirtualNetworkOrSubnets/action",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Notifies Microsoft.DocumentDB that VirtualNetwork or Subnet is being deleted",
+  "IsDataAction": false
+}

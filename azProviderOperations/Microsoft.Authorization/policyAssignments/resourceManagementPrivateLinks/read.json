@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/read",
+  "OperationName": "Get Resource Management Private Link",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Resource Management Private Link",
+  "Description": "Get information about resource management private link.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/integration/read",
+  "OperationName": "Get integration",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Integration",
+  "Description": "Get integration on your scope",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/WorkbookTemplates/Read",
+  "OperationName": "Read workbook template",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "WorkbookTemplates",
+  "Description": "Read a workbook template",
+  "IsDataAction": false
+}

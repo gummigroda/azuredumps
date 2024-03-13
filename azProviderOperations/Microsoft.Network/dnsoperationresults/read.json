@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsoperationresults/read",
+  "OperationName": "Gets results of a DNS operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS operation results",
+  "Description": "Gets results of a DNS operation",
+  "IsDataAction": false
+}

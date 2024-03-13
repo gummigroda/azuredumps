@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/users/serviceFabrics/Stop/action",
+  "OperationName": "Stop service fabric",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Service Fabrics",
+  "Description": "Stop a service fabric",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/vm/write",
+  "OperationName": "Change the state of a Notebook VM",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Notebook VM",
+  "Description": "Change the state of a Notebook VM",
+  "IsDataAction": false
+}

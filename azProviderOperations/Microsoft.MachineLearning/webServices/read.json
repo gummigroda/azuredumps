@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/webServices/read",
+  "OperationName": "Read Machine Learning Web Service",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Web Service",
+  "Description": "Read any Machine Learning Web Service",
+  "IsDataAction": false
+}

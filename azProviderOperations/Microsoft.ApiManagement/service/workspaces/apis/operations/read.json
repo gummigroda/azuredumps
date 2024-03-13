@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apis/operations/read",
+  "OperationName": "Get API operations or Get API operation details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "API operations",
+  "Description": "Lists a collection of the operations for the specified API. or Gets the details of the API Operation specified by its identifier.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/locations/capability/read",
+  "OperationName": "Get DataLakeAnalytics Subscription Capability",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Subscription Capability",
+  "Description": "Get capability information of a subscription regarding using DataLakeAnalytics.",
+  "IsDataAction": false
+}

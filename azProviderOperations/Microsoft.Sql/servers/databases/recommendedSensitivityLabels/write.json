@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/recommendedSensitivityLabels/write",
+  "OperationName": "Batch update recommended sensitivity labels",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Sensitivity label",
+  "Description": "Batch update recommended sensitivity labels",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automanage/operations/Read",
+  "OperationName": "Read Automanage Operations",
+  "ProviderNamespace": "Microsoft Automanage",
+  "ResourceName": "Automanage Operations",
+  "Description": "Gets available operations of the Microsoft.Automanage resource provider.",
+  "IsDataAction": false
+}

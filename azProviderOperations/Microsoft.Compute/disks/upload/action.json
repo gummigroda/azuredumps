@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/disks/upload/action",
+  "OperationName": "Disk upload data operation",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Disks",
+  "Description": "Perform write data operations on Disk SAS Uri",
+  "IsDataAction": true
+}

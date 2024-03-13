@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/prebuilts/roles/delete",
+  "OperationName": "Delete prebuilt entity role",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Prebuilt entity roles",
+  "Description": "Deletes the role for a prebuilt entity model.",
+  "IsDataAction": true
+}

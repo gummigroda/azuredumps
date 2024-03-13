@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/deleted/restore/action",
+  "OperationName": "Restore deleted artifacts in a container registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Restores deleted artifacts in a container registry",
+  "IsDataAction": false
+}

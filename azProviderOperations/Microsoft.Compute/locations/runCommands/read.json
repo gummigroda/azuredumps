@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/runCommands/read",
+  "OperationName": "Lists Run Commands",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Run Commands",
+  "Description": "Lists available run commands in location",
+  "IsDataAction": false
+}

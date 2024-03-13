@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/read",
+  "OperationName": "Get Application Gateway WAF Policy",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway WAF Policy",
+  "Description": "Gets an Application Gateway WAF policy",
+  "IsDataAction": false
+}

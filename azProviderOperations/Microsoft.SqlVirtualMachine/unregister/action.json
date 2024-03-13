@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/unregister/action",
+  "OperationName": "Unregister subscription for SQL Virtual Machine",
+  "ProviderNamespace": "",
+  "ResourceName": "",
+  "Description": "Unregister subscription with Microsoft.SqlVirtualMachine resource provider",
+  "IsDataAction": false
+}

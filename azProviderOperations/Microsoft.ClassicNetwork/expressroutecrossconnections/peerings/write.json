@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/expressroutecrossconnections/peerings/write",
+  "OperationName": "Add Express Route Cross Connection Peering",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Express Route Cross Connection Peering",
+  "Description": "Add express route cross connection peering.",
+  "IsDataAction": false
+}

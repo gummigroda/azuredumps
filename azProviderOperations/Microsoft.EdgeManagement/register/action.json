@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeManagement/register/action",
+  "OperationName": "Register the Microsoft.EdgeManagement",
+  "ProviderNamespace": "Microsoft.EdgeManagement",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.EdgeManagement",
+  "IsDataAction": false
+}

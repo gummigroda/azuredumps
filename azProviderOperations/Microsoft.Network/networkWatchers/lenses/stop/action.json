@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/lenses/stop/action",
+  "OperationName": "Stop Lens",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Lens",
+  "Description": "Stop/pause monitoring network traffic on a specified endpoint",
+  "IsDataAction": false
+}

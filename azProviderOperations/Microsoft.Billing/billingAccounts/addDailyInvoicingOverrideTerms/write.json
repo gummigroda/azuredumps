@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/addDailyInvoicingOverrideTerms/write",
+  "OperationName": "Add daily invoicing override terms",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Accounts",
+  "Description": null,
+  "IsDataAction": false
+}

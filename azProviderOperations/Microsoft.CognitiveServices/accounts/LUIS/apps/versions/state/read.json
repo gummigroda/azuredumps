@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/state/read",
+  "OperationName": "state - GetAppVersionState",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "state*",
+  "Description": "Gets a flag indicating if the app version has been previously trained",
+  "IsDataAction": true
+}

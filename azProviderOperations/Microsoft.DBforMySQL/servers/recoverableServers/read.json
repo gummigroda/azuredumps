@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/recoverableServers/read",
+  "OperationName": "Get Recoverable MySQL Server info",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Recoverable MySQL Server",
+  "Description": "Return the recoverable MySQL Server info",
+  "IsDataAction": false
+}

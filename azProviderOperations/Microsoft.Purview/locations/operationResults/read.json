@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/locations/operationResults/read",
+  "OperationName": "Operation result by location",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Operation Result",
+  "Description": "Monitor async operations.",
+  "IsDataAction": false
+}

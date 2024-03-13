@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/mobileNetworks/simPolicies/read",
+  "OperationName": "SimPolicies_ListByMobileNetwork",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "mobileNetworks/simPolicies",
+  "Description": "Gets all the SIM policies in a mobile network.",
+  "IsDataAction": false
+}

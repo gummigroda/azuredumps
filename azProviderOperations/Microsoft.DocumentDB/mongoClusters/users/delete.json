@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/mongoClusters/users/delete",
+  "OperationName": "Delete Mongo Cluster User",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Mongo Cluster Users",
+  "Description": "Deletes an existing user for the specified Mongo Cluster.",
+  "IsDataAction": false
+}

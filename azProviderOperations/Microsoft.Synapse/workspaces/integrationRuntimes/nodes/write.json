@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/integrationRuntimes/nodes/write",
+  "OperationName": "Patch Integration Runtime Node.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Integration Runtimes.",
+  "Description": "Patch any Integration Runtime Node.",
+  "IsDataAction": false
+}

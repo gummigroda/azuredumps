@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTOperationsMQ/mq/read",
+  "OperationName": "Mq_Get",
+  "ProviderNamespace": "Microsoft.IoTOperationsMQ",
+  "ResourceName": "mq",
+  "Description": "Get a MqResource",
+  "IsDataAction": false
+}

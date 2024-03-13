@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/azureAsyncOperation/read",
+  "OperationName": "Get MySQL Server Operation Results",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Operation Results",
+  "Description": "Return MySQL Server Operation Results",
+  "IsDataAction": false
+}

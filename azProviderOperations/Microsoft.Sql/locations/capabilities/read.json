@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/capabilities/read",
+  "OperationName": "Gets the capabilities for this subscription",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Location Capability",
+  "Description": "Gets the capabilities for this subscription in a given location",
+  "IsDataAction": false
+}

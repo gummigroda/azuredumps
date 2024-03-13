@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/applySlotConfig/Action",
+  "OperationName": "Apply Web App Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Apply web app slot configuration from target slot to the current web app",
+  "IsDataAction": false
+}

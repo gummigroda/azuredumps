@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/subnets/resourceNavigationLinks/read",
+  "OperationName": "Get Resource Navigation Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Navigation Link",
+  "Description": "Get the Resource Navigation Link definition",
+  "IsDataAction": false
+}

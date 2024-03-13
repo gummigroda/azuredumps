@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/modules/write",
+  "OperationName": "Create or Update an Azure Automation Powershell module",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Powershell Module",
+  "Description": "Creates or updates an Azure Automation Powershell module",
+  "IsDataAction": false
+}

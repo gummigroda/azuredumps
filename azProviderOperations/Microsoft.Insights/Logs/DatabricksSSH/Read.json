@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/DatabricksSSH/Read",
+  "OperationName": "Read DatabricksSSH data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "DatabricksSSH",
+  "Description": "Read data from the DatabricksSSH table",
+  "IsDataAction": false
+}

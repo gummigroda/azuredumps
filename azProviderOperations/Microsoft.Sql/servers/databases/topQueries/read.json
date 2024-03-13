@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/topQueries/read",
+  "OperationName": "Get Top Queries for the database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Database Top Queries query text",
+  "Description": "Returns aggregated runtime statistics for selected query in selected time period",
+  "IsDataAction": false
+}

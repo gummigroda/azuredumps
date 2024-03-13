@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/notebooks/vm/read",
+  "OperationName": "Gets the Notebook VMs for a particular workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Notebook VM",
+  "Description": "Gets the Notebook VMs for a particular workspace",
+  "IsDataAction": false
+}

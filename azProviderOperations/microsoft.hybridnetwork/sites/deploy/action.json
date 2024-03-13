@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/sites/deploy/action",
+  "OperationName": "Sites_Deploy",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "sites",
+  "Description": "Deploy Site network service into Site.",
+  "IsDataAction": false
+}

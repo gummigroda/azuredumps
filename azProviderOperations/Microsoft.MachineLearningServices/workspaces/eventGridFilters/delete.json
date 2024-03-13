@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/eventGridFilters/delete",
+  "OperationName": "Delete an Event Grid filter for a particular workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Event Grid Filters",
+  "Description": "Delete an Event Grid filter for a particular workspace",
+  "IsDataAction": false
+}

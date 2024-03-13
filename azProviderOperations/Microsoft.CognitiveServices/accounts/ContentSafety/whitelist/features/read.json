@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentSafety/whitelist/features/read",
+  "OperationName": "List Whitelist Features.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "whitelist features",
+  "Description": "Get whitelist features.",
+  "IsDataAction": true
+}

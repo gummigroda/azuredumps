@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/updateOptionBAdministrativeState/action",
+  "OperationName": "L3IsolationDomains_updateOptionBAdministrativeState",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Update administrative state of option B on CE devices",
+  "IsDataAction": false
+}

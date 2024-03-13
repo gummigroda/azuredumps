@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/write",
+  "OperationName": "AccessControlLists_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "API to update certain properties of the Access Control List resource.",
+  "IsDataAction": false
+}

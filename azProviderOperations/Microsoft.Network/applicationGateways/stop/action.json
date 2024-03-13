@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationGateways/stop/action",
+  "OperationName": "Stop an application gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Gateway",
+  "Description": "Stops an application gateway",
+  "IsDataAction": false
+}

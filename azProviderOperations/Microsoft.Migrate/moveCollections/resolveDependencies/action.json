@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/moveCollections/resolveDependencies/action",
+  "OperationName": "Computes, resolves and validate the dependencies of the move resources in the move collection",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Move collection",
+  "Description": "Computes, resolves and validate the dependencies of the move resources in the move collection",
+  "IsDataAction": false
+}

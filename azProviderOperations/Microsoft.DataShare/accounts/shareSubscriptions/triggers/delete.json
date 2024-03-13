@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/triggers/delete",
+  "OperationName": "Delete Data Share Trigger",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share Trigger",
+  "Description": "Delete a Data Share Trigger.",
+  "IsDataAction": false
+}

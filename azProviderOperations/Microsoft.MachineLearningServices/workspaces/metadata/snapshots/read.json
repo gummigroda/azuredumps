@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/metadata/snapshots/read",
+  "OperationName": "Gets snapshots in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Snapshots",
+  "Description": "Gets snapshots in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

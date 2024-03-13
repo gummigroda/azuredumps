@@ -1,0 +1,8 @@
+{
+  "Operation": "Qumulo.Storage/fileSystems/read",
+  "OperationName": "FileSystems_Get",
+  "ProviderNamespace": "Qumulo.Storage",
+  "ResourceName": "fileSystems",
+  "Description": "Get a FileSystemResource",
+  "IsDataAction": false
+}

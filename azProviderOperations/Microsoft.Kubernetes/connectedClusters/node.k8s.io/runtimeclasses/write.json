@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/node.k8s.io/runtimeclasses/write",
+  "OperationName": "Creates/Updates runtimeclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "runtimeclasses",
+  "Description": "Writes runtimeclasses",
+  "IsDataAction": true
+}

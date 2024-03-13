@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/read",
+  "OperationName": "Read Power BI Dedicated Server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Retrieves the information of the specified Power BI Dedicated Server.",
+  "IsDataAction": false
+}

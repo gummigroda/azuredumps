@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/write",
+  "OperationName": "Creates or updates orders",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "orders",
+  "Description": "Creates or updates the orders",
+  "IsDataAction": false
+}

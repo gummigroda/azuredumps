@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/completeRestore/action",
+  "OperationName": "Complete managed database restore",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database",
+  "Description": "Completes managed database restore operation",
+  "IsDataAction": false
+}

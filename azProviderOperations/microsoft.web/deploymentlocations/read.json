@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/deploymentlocations/read",
+  "OperationName": "Get Deployment Locations",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Deployment Locations",
+  "Description": "Get Deployment Locations.",
+  "IsDataAction": false
+}

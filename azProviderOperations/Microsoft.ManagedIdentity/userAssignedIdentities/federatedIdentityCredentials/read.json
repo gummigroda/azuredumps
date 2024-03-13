@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/read",
+  "OperationName": "Get or list Federated Identity Credentials",
+  "ProviderNamespace": "Microsoft Managed Identity",
+  "ResourceName": "Federated Identity Credentials",
+  "Description": "Get or list Federated Identity Credentials",
+  "IsDataAction": false
+}

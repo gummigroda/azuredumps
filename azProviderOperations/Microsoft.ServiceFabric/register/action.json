@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/register/action",
+  "OperationName": "Register Action",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "",
+  "Description": "Register any Action",
+  "IsDataAction": false
+}

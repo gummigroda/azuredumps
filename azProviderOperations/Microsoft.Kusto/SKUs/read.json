@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/SKUs/read",
+  "OperationName": "Read SKU resource",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "SKUs resource type",
+  "Description": "Reads a SKU resource.",
+  "IsDataAction": false
+}

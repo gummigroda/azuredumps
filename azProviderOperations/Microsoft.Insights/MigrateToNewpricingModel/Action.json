@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/MigrateToNewpricingModel/Action",
+  "OperationName": "Migrate subscription to new pricing model action",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "",
+  "Description": "Migrate subscription to new pricing model",
+  "IsDataAction": false
+}

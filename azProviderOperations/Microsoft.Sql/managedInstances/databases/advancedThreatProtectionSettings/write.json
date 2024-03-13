@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/advancedThreatProtectionSettings/write",
+  "OperationName": "Update the managed database Advanced Threat Protection settings",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Managed database Advanced Threat Protection settings",
+  "Description": "Change the database Advanced Threat Protection settings for a given managed database",
+  "IsDataAction": false
+}

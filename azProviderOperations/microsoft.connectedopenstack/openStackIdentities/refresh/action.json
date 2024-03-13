@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/openStackIdentities/refresh/action",
+  "OperationName": "OpenStackIdentities_Refresh",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "openStackIdentities",
+  "Description": "Refresh state of the OpenStackIdentity.",
+  "IsDataAction": false
+}

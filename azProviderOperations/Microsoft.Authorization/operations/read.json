@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/operations/read",
+  "OperationName": "Get operations",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Operations",
+  "Description": "Gets the list of operations",
+  "IsDataAction": false
+}

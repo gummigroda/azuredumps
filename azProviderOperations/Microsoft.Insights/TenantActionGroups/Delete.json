@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/TenantActionGroups/Delete",
+  "OperationName": "Delete a tenant action group",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Tenant Action Groups",
+  "Description": "Delete a tenant action group",
+  "IsDataAction": false
+}

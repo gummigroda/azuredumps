@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/write",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/write",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "MongoDB Role Definition",
+  "Description": "Create or update a Mongo Role Definition",
+  "IsDataAction": false
+}

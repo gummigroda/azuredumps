@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/delete",
+  "OperationName": "Delete data pools",
+  "ProviderNamespace": "Microsoft Autonomous Development Platform",
+  "ResourceName": "DataPool",
+  "Description": "Delete data pools",
+  "IsDataAction": false
+}

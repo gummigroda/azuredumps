@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/updatePrivateEndpointProperties/action",
+  "OperationName": "Update storage account private endpoint properties",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Private Endpoint Connection Proxy",
+  "Description": "Update storage account private endpoint properties",
+  "IsDataAction": false
+}

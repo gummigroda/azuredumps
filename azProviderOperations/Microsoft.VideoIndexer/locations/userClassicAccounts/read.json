@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/locations/userClassicAccounts/read",
+  "OperationName": "UserClassicAccounts_List",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "locations/userClassicAccounts",
+  "Description": "Lists all Azure Video Indexer classic accounts",
+  "IsDataAction": false
+}

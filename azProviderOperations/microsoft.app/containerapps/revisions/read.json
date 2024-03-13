@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/revisions/read",
+  "OperationName": "Read Container App Revision",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App Revision",
+  "Description": "Get revision of a container app",
+  "IsDataAction": false
+}

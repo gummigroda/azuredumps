@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/IsCurrentSubscriptionInGroup/action",
+  "OperationName": "Check whether current subscription is in specific group kind.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Check whether current subscription is in specific group kind.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/validateupgradepath/action",
+  "OperationName": "Validate upgrade path for Web App Slot",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot",
+  "Description": "Validate upgrade path for Web App Slot.",
+  "IsDataAction": false
+}

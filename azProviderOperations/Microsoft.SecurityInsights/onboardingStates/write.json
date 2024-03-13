@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/onboardingStates/write",
+  "OperationName": "Update Onboarding States",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Onboarding States",
+  "Description": "Updates an onboarding state",
+  "IsDataAction": false
+}

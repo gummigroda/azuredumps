@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BillingBenefits/savingsPlanOrderAliases/write",
+  "OperationName": "Create SavingsPlanOrderAliases",
+  "ProviderNamespace": "Microsoft BillingBenefits",
+  "ResourceName": "SavingsPlanOrderAliases",
+  "Description": "Create a Savings plan order alias",
+  "IsDataAction": false
+}

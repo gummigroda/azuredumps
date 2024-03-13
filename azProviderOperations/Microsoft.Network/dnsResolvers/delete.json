@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/delete",
+  "OperationName": "Delete a DNS Resolver",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver",
+  "Description": "Deletes a DNS Resolver",
+  "IsDataAction": false
+}

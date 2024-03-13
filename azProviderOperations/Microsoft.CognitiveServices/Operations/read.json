@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/Operations/read",
+  "OperationName": "List Operations",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Cognitive Services Operation",
+  "Description": "List all available operations",
+  "IsDataAction": false
+}

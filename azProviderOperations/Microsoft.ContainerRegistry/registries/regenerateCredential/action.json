@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/regenerateCredential/action",
+  "OperationName": "Regenerate Container Registry Login Credentials",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Regenerates one of the login credentials for the specified container registry.",
+  "IsDataAction": false
+}

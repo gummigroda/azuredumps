@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/register/action",
+  "OperationName": "Register Resource Provider Microsoft.SignalRService",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "",
+  "Description": "Registers the 'Microsoft.SignalRService' resource provider with a subscription",
+  "IsDataAction": false
+}

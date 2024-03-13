@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "NSP Association Proxy delete operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "NSP Association Proxy resource name.",
+  "Description": "Network Security Perimeter Association Proxy delete description.",
+  "IsDataAction": false
+}

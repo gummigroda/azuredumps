@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrderPartner/searchInventories/action",
+  "OperationName": null,
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "",
+  "Description": null,
+  "IsDataAction": false
+}

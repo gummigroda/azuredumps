@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/serverKeyAzureAsyncOperation/read",
+  "OperationName": "Data Encryption server keys operation",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Data Encryption server key operation",
+  "Description": "Gets in-progress operations on data encryption server keys",
+  "IsDataAction": false
+}

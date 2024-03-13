@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/write",
+  "OperationName": "Creates or updates Data Box Edge devices",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge devices",
+  "Description": "Creates or updates the Data Box Edge devices",
+  "IsDataAction": false
+}

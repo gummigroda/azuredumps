@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/speechrest/evaluations/files/read",
+  "OperationName": "Get one or more evaluation files",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Files",
+  "Description": "Get one or more evaluation files",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/healthz/autoregister-completion/read",
+  "OperationName": "Gets/List autoregister-completion resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Healthz/Autoregister-Completion",
+  "Description": "Reads autoregister-completion",
+  "IsDataAction": true
+}

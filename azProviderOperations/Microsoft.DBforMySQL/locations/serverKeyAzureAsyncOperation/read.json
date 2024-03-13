@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/locations/serverKeyAzureAsyncOperation/read",
+  "OperationName": "Data Encryption server keys operation",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Data Encryption server key operation",
+  "Description": "Gets in-progress operations on transparent data encryption server keys",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/functions/Read",
+  "OperationName": "List Static Site Functions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Functions",
+  "Description": "List the functions for a Static Site",
+  "IsDataAction": false
+}

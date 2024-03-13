@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HealthcareApis/services/privateEndpointConnectionProxies/write",
+  "OperationName": "Write",
+  "ProviderNamespace": "Microsoft.HealthcareApis",
+  "ResourceName": "Private Endpoint Connection Proxies.",
+  "Description": "Writes Private Endpoint Connection Proxy resources.",
+  "IsDataAction": false
+}

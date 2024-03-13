@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/privateLinkServicesForPowerBI/privateEndpointConnections/write",
+  "OperationName": "Creates or updates private endpoint connection",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Private link service resources",
+  "Description": "Creates or updates private endpoint connection for the tenant.",
+  "IsDataAction": false
+}

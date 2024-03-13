@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/dataLakeStoreGen2Accounts/write",
+  "OperationName": "Create or Update Linked DataLakeStoreGen2 Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "DataLakeStoreGen2 Account",
+  "Description": "Create or update a linked DataLakeStoreGen2 account of a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

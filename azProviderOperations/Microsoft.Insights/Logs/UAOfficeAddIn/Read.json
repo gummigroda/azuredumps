@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/UAOfficeAddIn/Read",
+  "OperationName": "Read UAOfficeAddIn data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "UAOfficeAddIn",
+  "Description": "Read data from the UAOfficeAddIn table",
+  "IsDataAction": false
+}

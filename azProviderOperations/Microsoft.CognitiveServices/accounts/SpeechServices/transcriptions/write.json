@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/transcriptions/write",
+  "OperationName": "Create Transcription|Update Transcription*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "transcriptions*",
+  "Description": "Creates a new transcription.\r\nUpdates the mutable details of the transcription identified by its ID.*",
+  "IsDataAction": true
+}

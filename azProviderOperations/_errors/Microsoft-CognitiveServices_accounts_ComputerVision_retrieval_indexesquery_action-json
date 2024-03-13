@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/indexes:query/action",
+  "OperationName": "Search Indexes",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Search indexes using the specified search query and parameters.",
+  "IsDataAction": true
+}

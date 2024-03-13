@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCircuits/providers/Microsoft.Insights/diagnosticSettings/write",
+  "OperationName": "Create or update diagnostic settings for ExpressRoute Circuits",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Diagnostic settings for ExpressRoute Circuits",
+  "Description": "Creates or updates diagnostic settings for ExpressRoute Circuits",
+  "IsDataAction": false
+}

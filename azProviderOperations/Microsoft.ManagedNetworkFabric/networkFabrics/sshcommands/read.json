@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkfabrics/sshcommands/read",
+  "OperationName": "SSHCommands_Get",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkfabrics/sshcommands",
+  "Description": "Get the SSHCommand resource details.",
+  "IsDataAction": false
+}

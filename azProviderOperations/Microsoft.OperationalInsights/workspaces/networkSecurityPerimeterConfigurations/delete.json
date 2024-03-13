@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/networkSecurityPerimeterConfigurations/delete",
+  "OperationName": "Delete Network Security Perimeter Configurations",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "NetworkSecurityPerimeterConfigurations",
+  "Description": "Delete Network Security Perimeter Configurations",
+  "IsDataAction": false
+}

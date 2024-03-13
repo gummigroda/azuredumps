@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/locations/operationResults/read",
+  "OperationName": "Async operation result",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Resource provider operations.",
+  "Description": "Get async operation result",
+  "IsDataAction": false
+}

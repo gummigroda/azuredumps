@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/databases/columns/read",
+  "OperationName": "Return a list of columns for a managed database",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Database Column",
+  "Description": "Return a list of columns for a managed database",
+  "IsDataAction": false
+}

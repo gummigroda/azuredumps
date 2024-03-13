@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/roleAssignments/delete",
+  "OperationName": "Delete role assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Role assignment",
+  "Description": "Delete a role assignment at the specified scope.",
+  "IsDataAction": false
+}

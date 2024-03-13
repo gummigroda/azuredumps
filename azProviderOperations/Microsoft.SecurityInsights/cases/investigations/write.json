@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/cases/investigations/write",
+  "OperationName": "Update Case Investigation",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Investigations",
+  "Description": "Updates the metadata of a case",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/privateEndpointConnections/Delete",
+  "OperationName": "Delete Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment Private Endpoint Connection",
+  "Description": "Delete a private endpoint connection.",
+  "IsDataAction": false
+}

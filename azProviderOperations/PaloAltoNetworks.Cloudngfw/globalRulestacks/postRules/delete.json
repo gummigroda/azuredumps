@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/globalRulestacks/postRules/delete",
+  "OperationName": "PostRules_Delete",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "globalRulestacks/postRules",
+  "Description": "Delete a PostRulesResource",
+  "IsDataAction": false
+}

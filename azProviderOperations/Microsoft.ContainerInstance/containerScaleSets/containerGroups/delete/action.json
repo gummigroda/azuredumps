@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/containerGroups/delete/action",
+  "OperationName": "Delete Container Groups in a Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Delete specific contianer groups in a container scale set.",
+  "IsDataAction": false
+}

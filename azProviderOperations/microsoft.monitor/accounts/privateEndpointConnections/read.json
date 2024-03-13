@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnections/read",
+  "OperationName": "Read Monitoring Account Private Endpoint Connections",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read any Monitoring Account Private Endpoint Connection",
+  "IsDataAction": false
+}

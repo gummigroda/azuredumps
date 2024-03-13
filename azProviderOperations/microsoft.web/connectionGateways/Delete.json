@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/connectionGateways/Delete",
+  "OperationName": "Delete Connection Gateway",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Connection Gateways",
+  "Description": "Deletes a Connection Gateway.",
+  "IsDataAction": false
+}

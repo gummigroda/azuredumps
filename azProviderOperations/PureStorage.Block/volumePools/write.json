@@ -1,0 +1,8 @@
+{
+  "Operation": "PureStorage.Block/volumePools/write",
+  "OperationName": "VolumePools_Update",
+  "ProviderNamespace": "PureStorage.Block",
+  "ResourceName": "volumePools",
+  "Description": "Update a VolumePool",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Search/searchServices/skillsets/read",
+  "OperationName": "Read Skillset",
+  "ProviderNamespace": "Microsoft Search",
+  "ResourceName": "Skillsets",
+  "Description": "Return a skillset or a list of skillsets.",
+  "IsDataAction": false
+}

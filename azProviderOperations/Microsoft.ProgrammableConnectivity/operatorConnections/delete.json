@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ProgrammableConnectivity/operatorConnections/delete",
+  "OperationName": "OperatorConnections_Delete",
+  "ProviderNamespace": "Microsoft.ProgrammableConnectivity",
+  "ResourceName": "operatorConnections",
+  "Description": "Delete an Operator Connection",
+  "IsDataAction": false
+}

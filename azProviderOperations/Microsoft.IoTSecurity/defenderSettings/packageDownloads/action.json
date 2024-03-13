@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/defenderSettings/packageDownloads/action",
+  "OperationName": "Get downloadable IoT Defender packages information",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "IoT Defender Settings",
+  "Description": "Gets downloadable IoT Defender packages information",
+  "IsDataAction": false
+}

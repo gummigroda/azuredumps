@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobileNetwork/Locations/OperationStatuses/write",
+  "OperationName": "write_OperationStatuses",
+  "ProviderNamespace": "Microsoft.MobileNetwork",
+  "ResourceName": "Locations/OperationStatuses",
+  "Description": "write OperationStatuses",
+  "IsDataAction": false
+}

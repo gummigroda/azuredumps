@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/importFromApim/action",
+  "OperationName": "Import APIM API",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "Service",
+  "Description": "Imports API from API Management instance.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/read",
+  "OperationName": "Get Trigger",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger",
+  "Description": "Reads the trigger.",
+  "IsDataAction": false
+}

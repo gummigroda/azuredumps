@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/customfields/read",
+  "OperationName": "Get a custom field",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Custom Fields",
+  "Description": "Get a custom field.",
+  "IsDataAction": false
+}

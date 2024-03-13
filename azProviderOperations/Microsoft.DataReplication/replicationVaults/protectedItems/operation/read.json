@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataReplication/replicationVaults/protectedItems/operation/read",
+  "OperationName": "Gets operation status of protected item",
+  "ProviderNamespace": "Microsoft Data Replication",
+  "ResourceName": "Protected Items",
+  "Description": "Gets operation status of any protected item",
+  "IsDataAction": false
+}

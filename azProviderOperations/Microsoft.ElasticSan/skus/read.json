@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ElasticSan/skus/read",
+  "OperationName": "Get Sku",
+  "ProviderNamespace": "MicrosoftElasticSan",
+  "ResourceName": "Sku",
+  "Description": "Get Sku",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sshPublicKeys/generateKeyPair/action",
+  "OperationName": "Generate SSH Key Pair",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SSH Public Keys",
+  "Description": "Generates a new SSH public/private key pair",
+  "IsDataAction": false
+}

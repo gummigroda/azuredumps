@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/ec2Instances/read",
+  "OperationName": "Ec2Instances_Get",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "ec2Instances",
+  "Description": "Get a Ec2Instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/delete",
+  "OperationName": "HealthModels_Delete",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels",
+  "Description": "Delete a HealthModel",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AddonAzureBackupPolicy/read",
+  "OperationName": "Read AddonAzureBackupPolicy data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AddonAzureBackupPolicy",
+  "Description": "Read data from the AddonAzureBackupPolicy table",
+  "IsDataAction": false
+}

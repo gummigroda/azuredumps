@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Batch/batchAccounts/jobs/write",
+  "OperationName": "Create or Update Job",
+  "ProviderNamespace": "Microsoft Batch",
+  "ResourceName": "Jobs",
+  "Description": "Creates a new job on a Batch account or updates an existing job",
+  "IsDataAction": true
+}

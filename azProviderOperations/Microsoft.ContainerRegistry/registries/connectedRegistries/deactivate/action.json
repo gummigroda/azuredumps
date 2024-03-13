@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/connectedRegistries/deactivate/action",
+  "OperationName": "Deactivate a connected registry",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/ConnectedRegistries",
+  "Description": "Deactivates a connected registry for a container registry",
+  "IsDataAction": false
+}

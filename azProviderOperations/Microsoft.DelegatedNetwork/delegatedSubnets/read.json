@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DelegatedNetwork/delegatedSubnets/read",
+  "OperationName": "Get a Delegated subnet instance.",
+  "ProviderNamespace": "Microsoft Delegated Network Service",
+  "ResourceName": "Microsoft Delegated subnet instance",
+  "Description": "Get a Delegated subnet instance.",
+  "IsDataAction": false
+}

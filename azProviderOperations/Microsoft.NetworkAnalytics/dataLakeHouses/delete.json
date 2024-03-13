@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataLakeHouses/delete",
+  "OperationName": "Storage_Delete",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataLakeHouses",
+  "Description": "Delete a DataLakeHouseResources",
+  "IsDataAction": false
+}

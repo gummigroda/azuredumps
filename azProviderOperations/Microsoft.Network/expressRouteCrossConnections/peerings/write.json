@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteCrossConnections/peerings/write",
+  "OperationName": "Create or Update Express Route Cross Connection Peering",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Cross Connection Peering",
+  "Description": "Creates an Express Route Cross Connection Peering or Updates an existing Express Route Cross Connection Peering",
+  "IsDataAction": false
+}

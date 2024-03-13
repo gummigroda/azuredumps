@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AADB2CRequestLogs/read",
+  "OperationName": "Read AADB2CRequestLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AADB2CRequestLogs",
+  "Description": "Read data from the AADB2CRequestLogs table",
+  "IsDataAction": false
+}

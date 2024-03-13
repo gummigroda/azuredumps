@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/plantTissueAnalysesCascadeDeleteJobs/read",
+  "OperationName": "Get or List AgFoodPlatform plantTissueAnalysesCascadeDeleteJobs resource(s).",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform plantTissueAnalysesCascadeDeleteJobs",
+  "Description": "Gets or Lists existing AgFoodPlatform plantTissueAnalysesCascadeDeleteJobs resource(s).",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AlertsManagement/investigations/read",
+  "OperationName": "Read the Investigation",
+  "ProviderNamespace": "Microsoft.AlertsManagement",
+  "ResourceName": "investigations",
+  "Description": "Read Investigation",
+  "IsDataAction": false
+}

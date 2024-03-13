@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labPlans/images/write",
+  "OperationName": "Update Image",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labPlans/images",
+  "Description": "Enable or disable a marketplace or gallery image.",
+  "IsDataAction": false
+}

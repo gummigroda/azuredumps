@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ModelDistribution/models/latest/read",
+  "OperationName": "Latest Model",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "latest model",
+  "Description": "Get latest available and compatible model for a specific service.",
+  "IsDataAction": true
+}

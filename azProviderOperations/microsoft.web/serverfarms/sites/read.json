@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/serverfarms/sites/read",
+  "OperationName": "Get App Service Plans Web Apps",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plans Web Apps",
+  "Description": "Get App Service Plans Web Apps.",
+  "IsDataAction": false
+}

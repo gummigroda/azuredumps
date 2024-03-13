@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/TLSA/delete",
+  "OperationName": "Deletes the DNS record set of type TLSA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS record set of type TLSA",
+  "Description": "Deletes the DNS record set of type TLSA",
+  "IsDataAction": false
+}

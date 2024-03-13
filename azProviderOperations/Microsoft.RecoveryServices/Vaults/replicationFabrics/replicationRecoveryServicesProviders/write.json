@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders/write",
+  "OperationName": "Create or Update Recovery Services Providers",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Services Providers",
+  "Description": "Create or Update any Recovery Services Providers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/notifications/recipientEmails/write",
+  "OperationName": "Create new email recipient",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Emails associated with a notification",
+  "Description": "Adds the Email address to the list of Recipients for the Notification.",
+  "IsDataAction": false
+}

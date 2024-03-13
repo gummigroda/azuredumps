@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/trafficManagerProfiles/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Traffic Manager metric definitions",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Traffic Manager metric definition",
+  "Description": "Gets the available metrics for Traffic Manager.",
+  "IsDataAction": false
+}

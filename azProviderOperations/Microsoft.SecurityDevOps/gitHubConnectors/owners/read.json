@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/owners/read",
+  "OperationName": "GitHubOwners_Get",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors/owners",
+  "Description": "read owners",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/locations/azureAsyncOperation/read",
+  "OperationName": "Get MariaDB Server Operation Results",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Server Operation Results",
+  "Description": "Return MariaDB Server Operation Results",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/read",
+  "OperationName": "Gets deployments in batch inference endpoints in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Batch Endpoint Deployments",
+  "Description": "Gets deployments in batch inference endpoints in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

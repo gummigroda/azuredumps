@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceConnector/operations/read",
+  "OperationName": "List Available Operations for Appliances",
+  "ProviderNamespace": "Microsoft ResourceConnector",
+  "ResourceName": "Operations",
+  "Description": "Gets list of Available Operations for Appliances",
+  "IsDataAction": false
+}

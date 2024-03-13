@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BareMetal/Utilization/region/read",
+  "OperationName": "read",
+  "ProviderNamespace": "ProviderName",
+  "ResourceName": "Utilization",
+  "Description": "Read operation",
+  "IsDataAction": false
+}

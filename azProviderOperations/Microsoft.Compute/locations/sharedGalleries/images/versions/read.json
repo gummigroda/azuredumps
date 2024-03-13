@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/locations/sharedGalleries/images/versions/read",
+  "OperationName": "Get Shared Gallery Image Version",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Shared Gallery Image Version",
+  "Description": "Get the properties of a Shared Gallery Image Version",
+  "IsDataAction": false
+}

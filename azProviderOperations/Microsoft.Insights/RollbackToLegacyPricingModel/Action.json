@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/RollbackToLegacyPricingModel/Action",
+  "OperationName": "Rollback subscription to legacy pricing model action",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "",
+  "Description": "Rollback subscription to legacy pricing model",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/extensions/podsecuritypolicies/delete",
+  "OperationName": "Deletes/DeletesCollection podsecuritypolicies resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Podsecuritypolicies",
+  "Description": "Deletes podsecuritypolicies",
+  "IsDataAction": true
+}

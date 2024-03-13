@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/:migratefromluis/action",
+  "OperationName": "Migrate Luis app",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Language service",
+  "Description": "Triggers a job to migrate one or more LUIS apps.",
+  "IsDataAction": true
+}

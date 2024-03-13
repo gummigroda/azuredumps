@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/locations/sapVirtualInstanceMetadata/getSapSupportedSku/action",
+  "OperationName": "SAPSupportedSku",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "locations/sapVirtualInstanceMetadata",
+  "Description": "Get SAP supported SKUs.",
+  "IsDataAction": false
+}

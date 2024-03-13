@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaSHub/cloudServices/canUpdate/action",
+  "OperationName": "CloudServices_CanUpdate",
+  "ProviderNamespace": "Microsoft.SaaSHub",
+  "ResourceName": "cloudServices",
+  "Description": "Evaluates whether the request payload can update an existing cloud service resource.",
+  "IsDataAction": false
+}

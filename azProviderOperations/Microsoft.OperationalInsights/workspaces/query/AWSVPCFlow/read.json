@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AWSVPCFlow/read",
+  "OperationName": "Read AWSVPCFlow data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AWSVPCFlow",
+  "Description": "Read data from the AWSVPCFlow table",
+  "IsDataAction": false
+}

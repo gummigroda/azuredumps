@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/reports/updateselecteddeployment/read",
+  "OperationName": "Gets the browsing location for the users.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "DevOps Reports",
+  "Description": "Gets the geo location from which data will be accessed.",
+  "IsDataAction": false
+}

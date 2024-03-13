@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureScan/scanningAccounts/read",
+  "OperationName": "AzureScanningAccount_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.AzureScan",
+  "ResourceName": "scanningAccounts",
+  "Description": "List Scanning Accounts within a resource group",
+  "IsDataAction": false
+}

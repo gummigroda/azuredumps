@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.FluidRelay/fluidRelayServers/write",
+  "OperationName": "FluidRelayServers_Update",
+  "ProviderNamespace": "Microsoft.FluidRelay",
+  "ResourceName": "fluidRelayServers",
+  "Description": "write fluidRelayServers",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/resources/assign/jobs/read",
+  "OperationName": "Get assign deployment resources status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Gets the status of an existing assign deployment resources job.",
+  "IsDataAction": true
+}

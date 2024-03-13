@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerNamespaces/eventChannels/SetEventChannelToIdle/action",
+  "OperationName": "Set provisioning status of EventChannel to idle",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventChannels",
+  "Description": "Set provisioning status of event channel to idle",
+  "IsDataAction": false
+}

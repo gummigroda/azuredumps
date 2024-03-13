@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/ec2Instances/write",
+  "OperationName": "Ec2Instances_CreateOrUpdate",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "ec2Instances",
+  "Description": "Create a Ec2Instance. Please note that end user resource creation is currently restricted, but it will be enabled in the future.",
+  "IsDataAction": false
+}

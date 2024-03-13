@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/action",
+  "OperationName": "Updates PrivateStore.",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "",
+  "Description": "Updates PrivateStore.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/notifications/recipientEmails/read",
+  "OperationName": "Get Email Recipients associated with Publisher Notification",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Recipient Emails associated with a notification",
+  "Description": "Gets the list of the Notification Recipient Emails subscribed to a notification.",
+  "IsDataAction": false
+}

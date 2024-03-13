@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/pkis/write",
+  "OperationName": "Pki_Update",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "pkis",
+  "Description": "Updates some properties of a PKI resource, while not touching other properties.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/register/action",
+  "OperationName": "Registers the Orbital Resource Provider",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "",
+  "Description": "Registers the subscription for the Orbital Resource Provider.",
+  "IsDataAction": false
+}

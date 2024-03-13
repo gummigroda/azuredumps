@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/internetGatewayRules/delete",
+  "OperationName": "InternetGatewayRules_Delete",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "internetGatewayRules",
+  "Description": "Implements Internet Gateway Rules DELETE method.",
+  "IsDataAction": false
+}

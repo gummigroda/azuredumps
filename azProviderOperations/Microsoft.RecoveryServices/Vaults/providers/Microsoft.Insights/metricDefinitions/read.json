@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Azure Backup Metrics",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "Azure Backup Metrics",
+  "IsDataAction": false
+}

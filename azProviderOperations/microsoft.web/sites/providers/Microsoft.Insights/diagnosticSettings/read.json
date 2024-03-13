@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Diagnostic setting for Web App",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

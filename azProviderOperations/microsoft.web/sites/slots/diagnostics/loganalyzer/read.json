@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/diagnostics/loganalyzer/read",
+  "OperationName": "Get Web Apps Slots Diagnostics Log Analyzer",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Diagnostics Log Analyzer",
+  "Description": "Get Web Apps Slots Diagnostics Log Analyzer.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/compositesmigration/apps/versions/operations/migrate/read",
+  "OperationName": "app - GetCompositeMigrationResult",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "migrate*",
+  "Description": "Get composite migration result",
+  "IsDataAction": true
+}

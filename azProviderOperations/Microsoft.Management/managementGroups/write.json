@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/write",
+  "OperationName": "Create or Update",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Create or update a management group.",
+  "IsDataAction": false
+}

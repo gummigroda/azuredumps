@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/storageMovers/projects/jobDefinitions/startJob/action",
+  "OperationName": "JobDefinitions_StartJob",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "storageMovers/projects/jobDefinitions",
+  "Description": "Requests an Agent to start a new instance of this Job Definition, generating a new Job Run resource.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/invoices/pricesheet/download/action",
+  "OperationName": "Download Pricesheet by Invoice",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Pricesheet",
+  "Description": null,
+  "IsDataAction": false
+}

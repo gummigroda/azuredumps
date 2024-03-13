@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ThreatIntelligenceIndicator/Read",
+  "OperationName": "Read ThreatIntelligenceIndicator data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ThreatIntelligenceIndicator",
+  "Description": "Read data from the ThreatIntelligenceIndicator table",
+  "IsDataAction": false
+}

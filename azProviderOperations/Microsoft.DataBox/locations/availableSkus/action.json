@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/locations/availableSkus/action",
+  "OperationName": "Availabe Skus",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Validate Inputs",
+  "Description": "This method returns the list of available skus.",
+  "IsDataAction": false
+}

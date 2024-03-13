@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/listHosts/read",
+  "OperationName": "List Hosts",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "ListHosts",
+  "Description": "List all the hosts for the given monitor resource",
+  "IsDataAction": false
+}

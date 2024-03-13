@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings/read",
+  "OperationName": "Read Workspace SQL server Tls Settings.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Server Tls Settings",
+  "Description": "Reads workspace SQL server TLS Version setting",
+  "IsDataAction": false
+}

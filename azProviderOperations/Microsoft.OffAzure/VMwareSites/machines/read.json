@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/machines/read",
+  "OperationName": "Get VMware machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Gets the properties of a VMware machines",
+  "IsDataAction": false
+}

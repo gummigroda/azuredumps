@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/join/action",
+  "OperationName": "L3IsolationDomains_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Join action for L3 Isolation Domain resource.",
+  "IsDataAction": false
+}

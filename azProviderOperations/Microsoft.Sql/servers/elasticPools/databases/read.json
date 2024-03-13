@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/databases/read",
+  "OperationName": "Gets a list of databases for an elastic pool",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Gets a list of databases for an elastic pool",
+  "IsDataAction": false
+}

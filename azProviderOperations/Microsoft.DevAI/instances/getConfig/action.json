@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/getConfig/action",
+  "OperationName": "Instances_GetConfiguration",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances",
+  "Description": "action getConfig",
+  "IsDataAction": false
+}

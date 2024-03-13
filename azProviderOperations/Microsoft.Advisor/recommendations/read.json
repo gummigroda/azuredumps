@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/recommendations/read",
+  "OperationName": "Read recommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Recommendations",
+  "Description": "Reads recommendations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Databricks/workspaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Databricks workspace log definitions",
+  "ProviderNamespace": "Microsoft Databricks",
+  "ResourceName": "Databricks Workspace",
+  "Description": "Gets the available log definitions for the Databricks workspace",
+  "IsDataAction": false
+}

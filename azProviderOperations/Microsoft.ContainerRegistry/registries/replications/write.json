@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/replications/write",
+  "OperationName": "Create or Update Replication",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Replications",
+  "Description": "Creates or updates a replication for a container registry with the specified parameters.",
+  "IsDataAction": false
+}

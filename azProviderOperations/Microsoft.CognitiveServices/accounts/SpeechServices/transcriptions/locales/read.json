@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/transcriptions/locales/read",
+  "OperationName": "Get Supported Locales for Transcriptions",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "locales*",
+  "Description": "Gets a list of supported locales for offline transcriptions.",
+  "IsDataAction": true
+}

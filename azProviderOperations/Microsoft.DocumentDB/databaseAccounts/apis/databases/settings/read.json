@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/settings/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read database throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read a database throughput. Only applicable to API types: 'sql', 'mongodb', 'gremlin'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

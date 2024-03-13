@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/kubernetesClusters/read",
+  "OperationName": "KubernetesClusters_Get",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "kubernetesClusters",
+  "Description": "Get properties of the provided the Kubernetes cluster.",
+  "IsDataAction": false
+}

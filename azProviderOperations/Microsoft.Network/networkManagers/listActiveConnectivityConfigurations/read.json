@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/listActiveConnectivityConfigurations/read",
+  "OperationName": "List Active Connectivity Configurations Permission",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Manager",
+  "Description": "Permission for calling List Active Connectivity Configurations operation. This read permission, not listActiveConnectivityConfigurations/action, is required to call List Active Connectivity Configurations.",
+  "IsDataAction": false
+}

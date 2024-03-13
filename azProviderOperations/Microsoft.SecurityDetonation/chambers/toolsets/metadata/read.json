@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/toolsets/metadata/read",
+  "OperationName": "Toolsets Metadata Read",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Toolsets Metadata",
+  "Description": "Allows reading toolsets metadata",
+  "IsDataAction": true
+}

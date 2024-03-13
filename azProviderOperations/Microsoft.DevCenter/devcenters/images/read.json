@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/devcenters/images/read",
+  "OperationName": "Images_ListByDevCenter",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "devcenters/images",
+  "Description": "Lists images for a devcenter.",
+  "IsDataAction": false
+}

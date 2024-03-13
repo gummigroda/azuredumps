@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevAI/instances/experiments/write",
+  "OperationName": "Experiments_Update",
+  "ProviderNamespace": "Microsoft.DevAI",
+  "ResourceName": "instances/experiments",
+  "Description": "write experiments",
+  "IsDataAction": false
+}

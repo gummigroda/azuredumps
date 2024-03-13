@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/devices/read",
+  "OperationName": "Devices_ListByResourceGroup",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "devices",
+  "Description": "Lists all the device resource in a resource group.",
+  "IsDataAction": false
+}

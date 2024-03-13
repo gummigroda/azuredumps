@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HDInsight/register/action",
+  "OperationName": "Register HDInsight resource provider",
+  "ProviderNamespace": "Microsoft.HDInsight",
+  "ResourceName": "",
+  "Description": "Register HDInsight resource provider for the subscription",
+  "IsDataAction": false
+}

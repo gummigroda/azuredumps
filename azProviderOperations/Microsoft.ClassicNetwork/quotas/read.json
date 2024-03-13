@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/quotas/read",
+  "OperationName": "Get Subscription Quota",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Quota",
+  "Description": "Get the quota for the subscription.",
+  "IsDataAction": false
+}

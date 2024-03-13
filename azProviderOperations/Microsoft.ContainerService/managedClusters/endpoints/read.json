@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/endpoints/read",
+  "OperationName": "Gets/List endpoints resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Endpoints",
+  "Description": "Reads endpoints",
+  "IsDataAction": true
+}

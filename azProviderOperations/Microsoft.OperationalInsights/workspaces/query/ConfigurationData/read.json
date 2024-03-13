@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ConfigurationData/read",
+  "OperationName": "Read ConfigurationData data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ConfigurationData",
+  "Description": "Read data from the ConfigurationData table",
+  "IsDataAction": false
+}

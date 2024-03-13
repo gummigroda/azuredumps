@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/HyperVSites/refresh/action",
+  "OperationName": "Refresh Hyper-V site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "HyperVSites",
+  "Description": "Refreshes the objects within a Hyper-V site",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/virtualNetworkRules/read",
+  "OperationName": "Get Virtual Network Rule",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Virtual Network Rule",
+  "Description": "Get information about a virtual network rule.",
+  "IsDataAction": false
+}

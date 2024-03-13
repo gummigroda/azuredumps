@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/IotHubs/configurations/testQueries/action",
+  "OperationName": "Test Configuration Queries",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Validates target condition and custom metric queries for a configuration",
+  "IsDataAction": true
+}

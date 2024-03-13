@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.network/virtualnetworkgateways/getvpnclientconnectionhealth/action",
+  "OperationName": "Get Per Vpn Client Connection Health for VirtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Get Per Vpn Client Connection Health for VirtualNetworkGateway",
+  "IsDataAction": false
+}

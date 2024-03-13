@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/queryInternalOfferIds/action",
+  "OperationName": "Get privatestore query internal offers",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "privateStores",
+  "Description": "List of all internal offers under given azure application and plans",
+  "IsDataAction": false
+}

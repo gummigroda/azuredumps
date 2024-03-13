@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/internalAzureVirtualNetworkManagerOperation/action",
+  "OperationName": "Internal AzureVirtualNetworkManager Operation",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Resource Ownership Request",
+  "Description": "Internal AzureVirtualNetworkManager Operation In ANM",
+  "IsDataAction": false
+}

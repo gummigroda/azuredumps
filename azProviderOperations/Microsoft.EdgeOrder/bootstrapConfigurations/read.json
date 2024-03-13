@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/bootstrapConfigurations/read",
+  "OperationName": "List or Get BootstrapConfigurations",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "BootstrapConfigurations",
+  "Description": "List or get the BootstrapConfigurations",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/storage.k8s.io/csinodes/read",
+  "OperationName": "Gets/List csinodes resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Csinodes",
+  "Description": "Reads csinodes",
+  "IsDataAction": true
+}

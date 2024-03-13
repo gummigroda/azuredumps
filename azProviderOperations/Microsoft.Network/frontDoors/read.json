@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/read",
+  "OperationName": "Gets a Front Door",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door",
+  "Description": "Gets a Front Door",
+  "IsDataAction": false
+}

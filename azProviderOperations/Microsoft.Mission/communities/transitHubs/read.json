@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/communities/transitHubs/read",
+  "OperationName": "TransitHub_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "communities/transitHubs",
+  "Description": "Get a TransitHubResource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzureSpringBoot/springbootsites/summaries/delete",
+  "OperationName": "Summaries_Delete",
+  "ProviderNamespace": "Microsoft.OffAzureSpringBoot",
+  "ResourceName": "springbootsites/summaries",
+  "Description": "Deletesummariesresource.",
+  "IsDataAction": false
+}

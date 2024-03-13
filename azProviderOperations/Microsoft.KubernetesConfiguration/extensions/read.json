@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesConfiguration/extensions/read",
+  "OperationName": "Microsoft.KubernetesConfiguration/extensions/read",
+  "ProviderNamespace": "Microsoft Kubernetes Configuration",
+  "ResourceName": "Microsoft.KubernetesConfiguration/extensions",
+  "Description": "Gets extension instance resource.",
+  "IsDataAction": false
+}

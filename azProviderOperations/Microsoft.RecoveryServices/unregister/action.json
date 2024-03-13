@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/unregister/action",
+  "OperationName": "Unregister Resource Provider",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "",
+  "Description": "Unregisters subscription for given Resource Provider",
+  "IsDataAction": false
+}

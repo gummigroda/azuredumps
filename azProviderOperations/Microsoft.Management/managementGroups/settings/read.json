@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Management/managementGroups/settings/read",
+  "OperationName": "List Management Group Hierarchy Settings",
+  "ProviderNamespace": "Microsoft Management",
+  "ResourceName": "managementGroups",
+  "Description": "Lists existing management group hierarchy settings.",
+  "IsDataAction": false
+}

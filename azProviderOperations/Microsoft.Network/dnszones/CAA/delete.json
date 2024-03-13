@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnszones/CAA/delete",
+  "OperationName": "Delete record set of type CAA",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS CAA record set",
+  "Description": "Remove the record set of a given name and type ‘CAA’ from a DNS zone.",
+  "IsDataAction": false
+}

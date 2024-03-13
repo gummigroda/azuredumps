@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AnomalyDetector/timeseries/last/detect/action",
+  "OperationName": "Univariate Anomaly Detection - Detect anomaly status of the latest point in time series.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "last",
+  "Description": "This operation generates a model using points before the latest one. With this method, only historical points are used to determine whether the target point is an anomaly. The latest point detecting matches the scenario of real-time monitoring of business metrics.",
+  "IsDataAction": true
+}

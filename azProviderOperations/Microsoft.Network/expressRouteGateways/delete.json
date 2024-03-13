@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/expressRouteGateways/delete",
+  "OperationName": "Delete Express Route Gateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Express Route Gateway",
+  "Description": "Delete Express Route Gateway",
+  "IsDataAction": false
+}

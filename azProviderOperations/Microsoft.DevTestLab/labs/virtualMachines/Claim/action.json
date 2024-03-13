@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/Claim/action",
+  "OperationName": "Claim a virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Take ownership of an existing virtual machine",
+  "IsDataAction": false
+}

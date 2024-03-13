@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/platformAccounts/write",
+  "OperationName": "Creates/updates Connected Vehicle Platform account",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "platformAccount",
+  "Description": "Creates/updates Connected Vehicle Platform account",
+  "IsDataAction": false
+}

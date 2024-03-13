@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems/Write",
+  "OperationName": "Create/update vcenters inventoryitems resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "vcenters/inventoryitems",
+  "Description": "Writes vcenters inventoryitems",
+  "IsDataAction": false
+}

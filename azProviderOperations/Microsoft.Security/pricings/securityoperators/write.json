@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/pricings/securityoperators/write",
+  "OperationName": "Update security operators",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Pricings/SecurityOperators",
+  "Description": "Updates the security operators for the scope",
+  "IsDataAction": false
+}

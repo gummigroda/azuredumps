@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections/delete",
+  "OperationName": "PrivateEndpointConnections read",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "PrivateEndpointConnections",
+  "Description": "Delete PrivateEndpointConnections",
+  "IsDataAction": false
+}

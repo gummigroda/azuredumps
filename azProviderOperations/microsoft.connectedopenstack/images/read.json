@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/images/read",
+  "OperationName": "Images_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "images",
+  "Description": "Implements Images list by subscription GET method.",
+  "IsDataAction": false
+}

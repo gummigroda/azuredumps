@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/register/action",
+  "OperationName": "Register MySQL Resource Provider",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "",
+  "Description": "Register MySQL Resource Provider",
+  "IsDataAction": false
+}

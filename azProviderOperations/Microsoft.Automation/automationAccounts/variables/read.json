@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/variables/read",
+  "OperationName": "Read an Azure Automation variable asset",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Variable Asset",
+  "Description": "Reads an Azure Automation variable asset",
+  "IsDataAction": false
+}

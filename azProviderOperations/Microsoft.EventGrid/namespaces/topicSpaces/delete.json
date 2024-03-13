@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/namespaces/topicSpaces/delete",
+  "OperationName": "Delete Topic Space",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "topicSpaces",
+  "Description": "Delete a Topic Space",
+  "IsDataAction": false
+}

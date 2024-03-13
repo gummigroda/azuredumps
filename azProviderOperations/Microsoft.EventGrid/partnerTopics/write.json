@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/partnerTopics/write",
+  "OperationName": "Write PartnerTopic",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "partnerTopics",
+  "Description": "Create or update a partner topic",
+  "IsDataAction": false
+}

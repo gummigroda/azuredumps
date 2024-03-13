@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.BotService/botServices/privateEndpointConnections/write",
+  "OperationName": "Write a Private Endpoint Connections Resource",
+  "ProviderNamespace": "Bot Service Resource Provider",
+  "ResourceName": "Private Endpoints Connection Resource",
+  "Description": "Write a Private Endpoint Connections Resource",
+  "IsDataAction": false
+}

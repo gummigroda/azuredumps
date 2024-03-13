@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/workspaces/apiVersionSets/write",
+  "OperationName": "Create VersionSet or Update VersionSet",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Workspace ApiVersionSets",
+  "Description": "Creates or Updates a Api Version Set. or Updates the details of the Api VersionSet specified by its identifier.",
+  "IsDataAction": false
+}

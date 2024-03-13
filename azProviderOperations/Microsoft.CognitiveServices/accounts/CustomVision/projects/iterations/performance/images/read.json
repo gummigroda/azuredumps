@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/performance/images/read",
+  "OperationName": "GetImagePerformances",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "images*",
+  "Description": "This API supports batching and range selection. By default it will only return first 50 images matching images.",
+  "IsDataAction": true
+}

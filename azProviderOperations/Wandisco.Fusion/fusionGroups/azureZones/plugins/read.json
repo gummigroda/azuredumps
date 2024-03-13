@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/fusionGroups/azureZones/plugins/read",
+  "OperationName": "Get",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "Plugins",
+  "Description": "Returns an AzureZone Plugin",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/transcriptions/delete",
+  "OperationName": "Delete Transcription",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "transcriptions*",
+  "Description": "Deletes the specified transcription task.",
+  "IsDataAction": true
+}

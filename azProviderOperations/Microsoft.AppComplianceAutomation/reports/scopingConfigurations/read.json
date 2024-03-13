@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppComplianceAutomation/reports/scopingConfigurations/read",
+  "OperationName": "ScopingConfigurations_Get",
+  "ProviderNamespace": "Microsoft.AppComplianceAutomation",
+  "ResourceName": "reports/scopingConfigurations",
+  "Description": "Get the AppComplianceAutomation scoping configuration of the specific report.",
+  "IsDataAction": false
+}

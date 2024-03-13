@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OracleDiscovery/unregister/action",
+  "OperationName": "Unregister the Microsoft.OracleDiscovery",
+  "ProviderNamespace": "Microsoft.OracleDiscovery",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.OracleDiscovery",
+  "IsDataAction": false
+}

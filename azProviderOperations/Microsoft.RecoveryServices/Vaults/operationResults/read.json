@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/operationResults/read",
+  "OperationName": "Get Operation Results",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "locations/operationStatus",
+  "Description": "The Get Operation Results operation can be used get the operation status and result for the asynchronously submitted operation",
+  "IsDataAction": false
+}

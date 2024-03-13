@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/updateDependencyMapStatus/action",
+  "OperationName": "Toggle dependency map data of a list of machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Toggle dependency map data of a list of machines",
+  "IsDataAction": false
+}

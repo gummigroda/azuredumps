@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/webhooks/read",
+  "OperationName": "Get Webhook or List Webhooks",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries/Webhooks",
+  "Description": "Gets the properties of the specified webhook or lists all the webhooks for the specified container registry.",
+  "IsDataAction": false
+}

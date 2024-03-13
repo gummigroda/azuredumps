@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/bastionHosts/read",
+  "OperationName": "Gets a Bastion Host",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Bastion Host",
+  "Description": "Gets a Bastion Host",
+  "IsDataAction": false
+}

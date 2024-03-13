@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/listsecrets/action",
+  "OperationName": "List Static Site Secrets",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site",
+  "Description": "List the secrets for a Static Site",
+  "IsDataAction": false
+}

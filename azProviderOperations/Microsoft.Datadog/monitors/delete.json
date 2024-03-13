@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Datadog/monitors/delete",
+  "OperationName": "Delete monitor resources",
+  "ProviderNamespace": "Microsoft.Datadog",
+  "ResourceName": "Monitors",
+  "Description": "Delete monitors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/write",
+  "OperationName": "Sets the properties for a specific workload group.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload group.",
+  "Description": "Sets the properties for a specific workload group.",
+  "IsDataAction": false
+}

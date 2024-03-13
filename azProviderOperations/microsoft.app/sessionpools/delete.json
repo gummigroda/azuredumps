@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/sessionpools/delete",
+  "OperationName": "Delete Session Pool",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Session Pool",
+  "Description": "Delete a Session Pool",
+  "IsDataAction": false
+}

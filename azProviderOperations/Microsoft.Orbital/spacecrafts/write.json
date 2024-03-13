@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/spacecrafts/write",
+  "OperationName": "Create or Update Spacecraft",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Spacecrafts",
+  "Description": "Create or Update any Spacecraft",
+  "IsDataAction": false
+}

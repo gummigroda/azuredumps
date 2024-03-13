@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DatabricksMLflowAcledArtifact/read",
+  "OperationName": "Read DatabricksMLflowAcledArtifact data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DatabricksMLflowAcledArtifact",
+  "Description": "Read data from the DatabricksMLflowAcledArtifact table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/databases/write",
+  "OperationName": "Create/Update MariaDB Database",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "MariaDB Databases",
+  "Description": "Creates a MariaDB Database with the specified parameters or update the properties for the specified Database.",
+  "IsDataAction": false
+}

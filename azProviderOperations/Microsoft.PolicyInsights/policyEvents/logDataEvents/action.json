@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyEvents/logDataEvents/action",
+  "OperationName": "Log Data Policy Events",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Events",
+  "Description": "Log the resource component policy events.",
+  "IsDataAction": true
+}

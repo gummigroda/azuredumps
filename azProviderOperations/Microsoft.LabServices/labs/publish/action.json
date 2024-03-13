@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labs/publish/action",
+  "OperationName": "Publish Lab",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Microsoft.LabServices/labs",
+  "Description": "Publish a lab by propagating image of the template virtual machine to all virtual machines in the lab.",
+  "IsDataAction": false
+}

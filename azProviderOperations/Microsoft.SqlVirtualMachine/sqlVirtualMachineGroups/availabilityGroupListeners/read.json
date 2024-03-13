@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/read",
+  "OperationName": "Get availability group listener details",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL availability group listener",
+  "Description": "Retrieve details of SQL availability group listener on a given SQL virtual machine group",
+  "IsDataAction": false
+}

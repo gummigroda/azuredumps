@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/ingestionrulelist/write",
+  "OperationName": "Create or update the set of TI Ingestion Rules",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "TIIngestionRules",
+  "Description": "Creates or updates a set of TI Ingestion Rules",
+  "IsDataAction": false
+}

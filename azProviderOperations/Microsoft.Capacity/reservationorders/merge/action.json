@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Capacity/reservationorders/merge/action",
+  "OperationName": "Merge Reservation",
+  "ProviderNamespace": "Microsoft Capacity",
+  "ResourceName": "Reservations",
+  "Description": "Merge any Reservation",
+  "IsDataAction": false
+}

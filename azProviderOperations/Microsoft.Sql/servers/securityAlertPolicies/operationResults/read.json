@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/securityAlertPolicies/operationResults/read",
+  "OperationName": "Get server threat detection policy operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Threat Detection Policy Operation Results",
+  "Description": "Retrieve results of the server threat detection policy write operation",
+  "IsDataAction": false
+}

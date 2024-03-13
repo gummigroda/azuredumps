@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/register/action",
+  "OperationName": "Register Classic Network",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "",
+  "Description": "Register to Classic Network",
+  "IsDataAction": false
+}

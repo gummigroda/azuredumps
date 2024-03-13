@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/gateways/delete",
+  "OperationName": "Delete Gateway",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Gateway",
+  "Description": "Deletes any Gateway.",
+  "IsDataAction": false
+}

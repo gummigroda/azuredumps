@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/aggregations/read",
+  "OperationName": "Get aggregations",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Aggregations",
+  "Description": "Gets aggregations",
+  "IsDataAction": false
+}

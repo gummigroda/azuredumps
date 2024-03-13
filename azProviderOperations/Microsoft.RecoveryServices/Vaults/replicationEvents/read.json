@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationEvents/read",
+  "OperationName": "Read Events",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Events",
+  "Description": "Read any Events",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/Metadata/CustomvoiceGlobalSettings/read",
+  "OperationName": "Query customvoice global settings.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Audio content creation metadata",
+  "Description": "Query customvoice global settings.",
+  "IsDataAction": true
+}

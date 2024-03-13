@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerBIActivity/read",
+  "OperationName": "Read PowerBIActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerBIActivity",
+  "Description": "Read data from the PowerBIActivity table",
+  "IsDataAction": false
+}

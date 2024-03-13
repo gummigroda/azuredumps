@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/networkInterfaces/associatedNetworkSecurityGroups/delete",
+  "OperationName": "Delete Network Interface Associated Network Security Group",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Network Interface Associated Network Security Group",
+  "Description": "Deletes the network security group associated with the network interface.",
+  "IsDataAction": false
+}

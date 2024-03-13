@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/remediations/cancel/action",
+  "OperationName": "Cancel Policy Remediations",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy Remediations",
+  "Description": "Cancel in-progress Microsoft Policy remediations.",
+  "IsDataAction": false
+}

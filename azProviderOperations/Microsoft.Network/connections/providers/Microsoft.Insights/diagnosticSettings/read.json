@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/connections/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Gets diagnostic settings for Connections",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Diagnostic settings for Connections",
+  "Description": "Gets diagnostic settings for Connections",
+  "IsDataAction": false
+}

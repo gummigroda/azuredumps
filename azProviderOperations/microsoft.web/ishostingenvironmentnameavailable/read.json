@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/ishostingenvironmentnameavailable/read",
+  "OperationName": "Check if Hosting Environment Name is available",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Hosting Environment Name",
+  "Description": "Get if Hosting Environment Name is available.",
+  "IsDataAction": false
+}

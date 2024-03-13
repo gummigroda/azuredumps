@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/nfvis/clusters/amfDeployments/read",
+  "OperationName": "AmfDeployments_ListByCluster",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/nfvis/clusters/amfDeployments",
+  "Description": "Lists all the Access and Mobility Management Function deployment resources in a cluster.",
+  "IsDataAction": false
+}

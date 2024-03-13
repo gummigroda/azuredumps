@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/ddosProtectionPlans/read",
+  "OperationName": "Gets a DDoS Protection Plan",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DDoS Protection Plan",
+  "Description": "Gets a DDoS Protection Plan",
+  "IsDataAction": false
+}

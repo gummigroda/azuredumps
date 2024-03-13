@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/accounts/write",
+  "OperationName": "Create/Update Account",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Account",
+  "Description": "Creates or updates a Device Update Account",
+  "IsDataAction": false
+}

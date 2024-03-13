@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/coordination.k8s.io/leases/read",
+  "OperationName": "Gets/List leases resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "leases",
+  "Description": "Reads leases",
+  "IsDataAction": true
+}

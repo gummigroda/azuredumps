@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/StorageBlobLogs/Read",
+  "OperationName": "Read StorageBlobLogs data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "StorageBlobLogs",
+  "Description": "Read data from the StorageBlobLogs table",
+  "IsDataAction": false
+}

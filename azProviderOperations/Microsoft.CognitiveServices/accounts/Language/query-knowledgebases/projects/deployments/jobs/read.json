@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/projects/deployments/jobs/read",
+  "OperationName": "Deploy Job Status",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "jobs*",
+  "Description": "Get Deploy Job Status.",
+  "IsDataAction": true
+}

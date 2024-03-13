@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/vaults/replicationJobs/cancel/action",
+  "OperationName": "Cancel Job",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Jobs",
+  "Description": "Cancel Job",
+  "IsDataAction": false
+}

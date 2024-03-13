@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/storage.k8s.io/volumeattachments/delete",
+  "OperationName": "Deletes/DeletesCollection volumeattachments resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Volumeattachments",
+  "Description": "Deletes volumeattachments",
+  "IsDataAction": true
+}

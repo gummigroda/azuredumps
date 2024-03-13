@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/detectliveness/multimodal/action",
+  "OperationName": "Face - DetectLiveness MultiModal",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "detectliveness*",
+  "Description": "<p>Performs liveness detection on a target face in a sequence of infrared, color and/or depth images, and returns the liveness classification of the target face as either &lsquo;real face&rsquo;, &lsquo;spoof face&rsquo;, or &lsquo;uncertain&rsquo; if a classification cannot be made with the given inputs.</p>",
+  "IsDataAction": true
+}

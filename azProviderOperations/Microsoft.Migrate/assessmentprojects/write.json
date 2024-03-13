@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/write",
+  "OperationName": "Create or Update Assessment Project",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Assessment Projects",
+  "Description": "Creates a new assessment project or updates an existing assessment project",
+  "IsDataAction": false
+}

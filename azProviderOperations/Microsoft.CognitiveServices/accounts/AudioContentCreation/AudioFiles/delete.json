@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/AudioContentCreation/AudioFiles/delete",
+  "OperationName": "Delete audio files.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "ACC audio files",
+  "Description": "Delete audio files.",
+  "IsDataAction": true
+}

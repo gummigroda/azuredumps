@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/intents/delete",
+  "OperationName": "models - Delete intent",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Intents",
+  "Description": "Deletes an intent classifier from the application version.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/publishers/networkServiceDesignGroups/delete",
+  "OperationName": "networkServiceDesignGroups_Delete",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "publishers/networkServiceDesignGroups",
+  "Description": "Deletes a specified network service design group.",
+  "IsDataAction": false
+}

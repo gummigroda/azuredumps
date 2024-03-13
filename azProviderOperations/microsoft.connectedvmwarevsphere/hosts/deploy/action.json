@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/hosts/deploy/action",
+  "OperationName": "Deploys on host",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "hosts",
+  "Description": "Deploys on host",
+  "IsDataAction": false
+}

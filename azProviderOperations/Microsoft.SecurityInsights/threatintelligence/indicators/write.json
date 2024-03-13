@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/indicators/write",
+  "OperationName": "Update Threat Intelligence Indicators",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Updates Threat Intelligence Indicators",
+  "IsDataAction": false
+}

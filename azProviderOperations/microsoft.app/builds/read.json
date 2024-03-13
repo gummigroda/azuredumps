@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builds/read",
+  "OperationName": "Read Build",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Build",
+  "Description": "Get a Builder's Build",
+  "IsDataAction": false
+}

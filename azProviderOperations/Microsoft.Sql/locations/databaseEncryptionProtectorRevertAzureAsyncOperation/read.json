@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/databaseEncryptionProtectorRevertAzureAsyncOperation/read",
+  "OperationName": "Revert key for azure sql database azure async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Revert key for azure sql database azure async operation",
+  "Description": "Revert key for azure sql database azure async operation",
+  "IsDataAction": false
+}

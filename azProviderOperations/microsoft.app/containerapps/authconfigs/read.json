@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/authconfigs/read",
+  "OperationName": "Read Container App Auth Configuration",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App AuthConfig",
+  "Description": "Get auth config of a container app",
+  "IsDataAction": false
+}

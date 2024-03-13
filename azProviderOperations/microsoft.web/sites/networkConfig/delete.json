@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networkConfig/delete",
+  "OperationName": "Delete App Service Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Network Configuration",
+  "Description": "Delete App Service Network Configuration.",
+  "IsDataAction": false
+}

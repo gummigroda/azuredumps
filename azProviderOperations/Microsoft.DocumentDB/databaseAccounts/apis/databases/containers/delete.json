@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/delete",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Delete container",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Delete a container. Only applicable to API types: 'sql'.",
+  "IsDataAction": false
+}

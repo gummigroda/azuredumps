@@ -1,0 +1,8 @@
+{
+  "Operation": "NewRelic.Observability/monitors/delete",
+  "OperationName": "Delete monitor resources",
+  "ProviderNamespace": "NewRelic.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Delete monitors",
+  "IsDataAction": false
+}

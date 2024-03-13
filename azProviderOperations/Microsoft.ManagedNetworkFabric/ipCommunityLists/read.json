@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/ipCommunityLists/read",
+  "OperationName": "IpCommunityLists_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "ipCommunityLists",
+  "Description": "Implements IpCommunityLists list by subscription GET method.",
+  "IsDataAction": false
+}

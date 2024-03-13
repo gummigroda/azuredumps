@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServicesHub/connectors/checkAssessmentEntitlement/action",
+  "OperationName": "Entitlement_ServicesHub",
+  "ProviderNamespace": "Microsoft.ServicesHub",
+  "ResourceName": "Connectors",
+  "Description": "Lists the Assessment Entitlements for a given Services Hub Workspace",
+  "IsDataAction": false
+}

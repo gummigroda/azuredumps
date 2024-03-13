@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/hanaInstances/restart/action",
+  "OperationName": "Restart SAP HANA Instance",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "SAP HANA Instance",
+  "Description": "Restart any SAP HANA Instance",
+  "IsDataAction": false
+}

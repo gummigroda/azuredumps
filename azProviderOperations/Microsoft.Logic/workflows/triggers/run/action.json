@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/triggers/run/action",
+  "OperationName": "Trigger Run",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Trigger",
+  "Description": "Executes the trigger.",
+  "IsDataAction": false
+}

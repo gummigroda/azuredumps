@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/runAsSuperUser/action",
+  "OperationName": "Execute the command as super user",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Blobs",
+  "Description": "Returns the result of the blob command",
+  "IsDataAction": true
+}

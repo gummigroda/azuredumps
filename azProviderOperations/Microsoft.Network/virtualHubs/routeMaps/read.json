@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualHubs/routeMaps/read",
+  "OperationName": "Gets Route Map child resource of Virtual Hub",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "RouteMap",
+  "Description": "Gets a Route Map child resource of Virtual Hub",
+  "IsDataAction": false
+}

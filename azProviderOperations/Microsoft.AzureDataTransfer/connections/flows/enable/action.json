@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/connections/flows/enable/action",
+  "OperationName": "Flows_Enable",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "connections/flows",
+  "Description": "Enables the specified flow.",
+  "IsDataAction": false
+}

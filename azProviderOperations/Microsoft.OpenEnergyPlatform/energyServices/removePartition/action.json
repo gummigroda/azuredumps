@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OpenEnergyPlatform/energyServices/removePartition/action",
+  "OperationName": "EnergyServices_RemovePartition",
+  "ProviderNamespace": "Microsoft.OpenEnergyPlatform",
+  "ResourceName": "energyServices",
+  "Description": "Method that gets called if new partition is to be removed from a resource.",
+  "IsDataAction": false
+}

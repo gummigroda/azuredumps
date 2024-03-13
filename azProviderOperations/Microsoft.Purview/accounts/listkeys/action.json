@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Purview/accounts/listkeys/action",
+  "OperationName": "List keys on the account resource",
+  "ProviderNamespace": "Microsoft Purview",
+  "ResourceName": "Account",
+  "Description": "List keys on the account resource for Microsoft Purview provider.",
+  "IsDataAction": false
+}

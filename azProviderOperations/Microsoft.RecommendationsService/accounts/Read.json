@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecommendationsService/accounts/Read",
+  "OperationName": "Get/list accounts resources",
+  "ProviderNamespace": "Microsoft.RecommendationsService",
+  "ResourceName": "accounts",
+  "Description": "Reads accounts",
+  "IsDataAction": false
+}

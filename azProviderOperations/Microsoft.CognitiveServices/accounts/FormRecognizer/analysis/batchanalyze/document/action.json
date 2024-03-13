@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/FormRecognizer/analysis/batchanalyze/document/action",
+  "OperationName": "Batch Analyze documents",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Managing Form Recognizers",
+  "Description": "Batch Analyze Documents. Support prebuilt models or custom trained model.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/logTrackingEvents/action",
+  "OperationName": "Log Integration Account Tracking Events",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account",
+  "Description": "Logs the tracking events in the integration account.",
+  "IsDataAction": false
+}

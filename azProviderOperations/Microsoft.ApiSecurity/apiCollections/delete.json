@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiSecurity/apiCollections/delete",
+  "OperationName": "V3APICollectionOffboarding_Delete",
+  "ProviderNamespace": "Microsoft.ApiSecurity",
+  "ResourceName": "apiCollections",
+  "Description": "Offboard an APIM API Collection from Defender for APIs. The system will stop monitoring the APIs within the APIM API Collection for intrusive behaviors.",
+  "IsDataAction": false
+}

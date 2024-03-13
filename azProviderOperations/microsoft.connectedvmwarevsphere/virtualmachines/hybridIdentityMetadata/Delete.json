@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/hybridIdentityMetadata/Delete",
+  "OperationName": "Deletes hybridIdentityMetadata resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/hybridIdentityMetadata",
+  "Description": "Deletes hybridIdentityMetadata",
+  "IsDataAction": false
+}

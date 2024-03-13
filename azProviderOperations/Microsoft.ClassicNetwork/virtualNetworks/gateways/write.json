@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicNetwork/virtualNetworks/gateways/write",
+  "OperationName": "Add Virtual Network Gateway",
+  "ProviderNamespace": "Microsoft ClassicNetwork",
+  "ResourceName": "Virtual Network Gateway",
+  "Description": "Adds a virtual network gateway.",
+  "IsDataAction": false
+}

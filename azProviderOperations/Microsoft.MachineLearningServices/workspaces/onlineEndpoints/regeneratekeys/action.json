@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/onlineendpoints/regeneratekeys/action",
+  "OperationName": "Regenerate Keys action for Online Endpoint in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Online Endpoints",
+  "Description": "Regenerate Keys action for Online Endpoint in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/vpnsites/write",
+  "OperationName": "Creates or updates a Vpn Site resource.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a Vpn Site resource.",
+  "Description": "Creates or updates a Vpn Site resource.",
+  "IsDataAction": false
+}

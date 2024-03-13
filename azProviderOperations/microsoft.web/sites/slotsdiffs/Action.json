@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/sites/slotsdiffs/Action",
+  "OperationName": "Get Web App Slots Differences",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App",
+  "Description": "Get differences in configuration between web app and slots",
+  "IsDataAction": false
+}

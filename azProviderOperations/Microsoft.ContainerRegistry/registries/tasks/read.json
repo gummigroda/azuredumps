@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/tasks/read",
+  "OperationName": "Get a task for a container registry or list all tasks.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Gets a task for a container registry or list all tasks.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/operations/read",
+  "OperationName": "Reads the Orbital Resource Provider operations",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Microsoft.Orbital",
+  "Description": "Reads the Orbital Resource Provider operations.",
+  "IsDataAction": false
+}

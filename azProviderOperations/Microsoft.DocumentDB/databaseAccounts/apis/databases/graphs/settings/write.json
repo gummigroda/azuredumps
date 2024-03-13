@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/settings/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write gremlin throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Graph throughput setting",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Update a graph throughput. Only applicable to API types: 'gremlin'. Only applicable for setting types: 'throughput'.",
+  "IsDataAction": false
+}

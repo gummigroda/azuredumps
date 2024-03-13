@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ChangeAnalysis/changes/read",
+  "OperationName": "List changes of the subscription/resource group and the resources under the subscription/resource group",
+  "ProviderNamespace": "Microsoft Change Analysis",
+  "ResourceName": "Subscription, resource group, resource change",
+  "Description": "Return the list of changes. Customer data will always be masked.",
+  "IsDataAction": false
+}

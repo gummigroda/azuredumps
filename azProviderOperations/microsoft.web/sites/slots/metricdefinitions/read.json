@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/metricdefinitions/read",
+  "OperationName": "Get Web Apps Slots Metric Definitions",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Slots Metric Definitions",
+  "Description": "Get Web Apps Slots Metric Definitions.",
+  "IsDataAction": false
+}

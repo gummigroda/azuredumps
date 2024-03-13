@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/StorageContainers/Read",
+  "OperationName": "Gets/Lists storage containers resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "StorageContainers",
+  "Description": "Gets/Lists storage containers resource",
+  "IsDataAction": false
+}

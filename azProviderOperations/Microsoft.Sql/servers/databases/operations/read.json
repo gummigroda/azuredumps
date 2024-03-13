@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/operations/read",
+  "OperationName": "List Azure SQL Database operations",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Return the list of operations performed on the database",
+  "IsDataAction": false
+}

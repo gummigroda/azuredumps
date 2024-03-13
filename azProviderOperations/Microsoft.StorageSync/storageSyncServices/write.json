@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageSync/storageSyncServices/write",
+  "OperationName": "Create or Update Storage Sync Services",
+  "ProviderNamespace": "Microsoft.StorageSync",
+  "ResourceName": "Storage Sync Services",
+  "Description": "Create or Update any Storage Sync Services",
+  "IsDataAction": false
+}

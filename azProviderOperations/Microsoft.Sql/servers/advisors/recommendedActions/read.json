@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/advisors/recommendedActions/read",
+  "OperationName": "Get recommended actions of a server",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Server Recommended Action",
+  "Description": "Returns list of recommended actions of specified advisor for the server",
+  "IsDataAction": false
+}

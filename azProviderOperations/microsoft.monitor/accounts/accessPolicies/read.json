@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/accessPolicies/read",
+  "OperationName": "Read Monitoring Account Access Policies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Read any Monitoring Account Access Policy",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/hostingEnvironments/workerPools/Read",
+  "OperationName": "Get Worker Pool",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Environment Worker Pool",
+  "Description": "Get the properties of a Worker Pool in an App Service Environment",
+  "IsDataAction": false
+}

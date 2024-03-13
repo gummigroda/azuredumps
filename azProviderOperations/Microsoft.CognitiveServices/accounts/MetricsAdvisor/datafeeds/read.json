@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/read",
+  "OperationName": "Get a data feed by its id or list all data feeds",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Data feed",
+  "Description": "Get a data feed by its id or list all data feeds",
+  "IsDataAction": true
+}

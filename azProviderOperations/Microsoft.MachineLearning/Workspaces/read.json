@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearning/Workspaces/read",
+  "OperationName": "Read Machine Learning Workspace",
+  "ProviderNamespace": "Microsoft Machine Learning Web Services Management",
+  "ResourceName": "Machine Learning Workspace",
+  "Description": "Read any Machine Learning Workspace",
+  "IsDataAction": false
+}

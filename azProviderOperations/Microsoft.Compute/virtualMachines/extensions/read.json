@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/virtualMachines/extensions/read",
+  "OperationName": "Get Virtual Machine Extension",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Virtual Machine Extensions",
+  "Description": "Get the properties of a virtual machine extension",
+  "IsDataAction": false
+}

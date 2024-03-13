@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/datadriftdetectors/read",
+  "OperationName": "Gets data drift detectors in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Data Drifts",
+  "Description": "Gets data drift detectors in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

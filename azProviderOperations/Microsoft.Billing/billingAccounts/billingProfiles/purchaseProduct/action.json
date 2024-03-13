@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/billingProfiles/purchaseProduct/action",
+  "OperationName": "Purchase a SEAT product",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Billing Profiles",
+  "Description": null,
+  "IsDataAction": false
+}

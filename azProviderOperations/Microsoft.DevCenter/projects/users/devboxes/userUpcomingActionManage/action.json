@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userUpcomingActionManage/action",
+  "OperationName": "Projects_Users_DevBoxes_UserUpcomingActionManage",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to skip or delay upcoming actions.",
+  "IsDataAction": true
+}

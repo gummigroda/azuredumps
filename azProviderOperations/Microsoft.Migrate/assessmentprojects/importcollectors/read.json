@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/importcollectors/read",
+  "OperationName": "Get Import collector",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "Import Collector",
+  "Description": "Gets the properties of Import collector",
+  "IsDataAction": false
+}

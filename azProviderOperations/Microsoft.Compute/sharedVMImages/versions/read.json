@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/sharedVMImages/versions/read",
+  "OperationName": "Get SharedVMImageVersion",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "SharedVMImageVersions",
+  "Description": "Get the properties of a SharedVMImageVersion",
+  "IsDataAction": false
+}

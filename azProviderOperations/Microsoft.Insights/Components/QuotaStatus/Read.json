@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/QuotaStatus/Read",
+  "OperationName": "Application Insights component quota status read",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights component quota status",
+  "Description": "Reading Application Insights component quota status",
+  "IsDataAction": false
+}

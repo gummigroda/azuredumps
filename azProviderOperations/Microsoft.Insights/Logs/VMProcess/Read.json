@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/VMProcess/Read",
+  "OperationName": "Read VMProcess data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "VMProcess",
+  "Description": "Read data from the VMProcess table",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Quota/quotas/write",
+  "OperationName": "Creates resource Quota limit request",
+  "ProviderNamespace": "Microsoft.Quota",
+  "ResourceName": "Resource Quota limit",
+  "Description": "Creates the service limit or quota request for the specified resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppConfiguration/configurationStores/snapshots/archive/action",
+  "OperationName": "Archive Snapshot",
+  "ProviderNamespace": "Microsoft App Configuration",
+  "ResourceName": "Snapshot",
+  "Description": "Modifies archival state for an existing snapshot in the configuration store.",
+  "IsDataAction": true
+}

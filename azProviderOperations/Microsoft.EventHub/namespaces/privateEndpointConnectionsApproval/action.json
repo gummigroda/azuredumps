@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventHub/namespaces/privateEndpointConnectionsApproval/action",
+  "OperationName": "Approve Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft Azure EventHub",
+  "ResourceName": "Namespace",
+  "Description": "Approve Private Endpoint Connection",
+  "IsDataAction": false
+}

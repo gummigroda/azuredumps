@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/data/delete",
+  "OperationName": "Deletes Data container in Machine Learning Services Workspace(s)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace Data",
+  "Description": "Deletes Data container in Machine Learning Services Workspace(s)",
+  "IsDataAction": false
+}

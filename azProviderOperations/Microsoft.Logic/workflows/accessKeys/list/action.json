@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/workflows/accessKeys/list/action",
+  "OperationName": "List Access Key",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Access Key",
+  "Description": "Lists the access key secrets.",
+  "IsDataAction": false
+}

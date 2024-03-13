@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Experimentation/experimentWorkspaces/providers/Microsoft.Insights/logDefinitions/read",
+  "OperationName": "Read Log Definition",
+  "ProviderNamespace": "Experimentation Resource Provider",
+  "ResourceName": "Experiment Workspace",
+  "Description": "Read Log Definition",
+  "IsDataAction": true
+}

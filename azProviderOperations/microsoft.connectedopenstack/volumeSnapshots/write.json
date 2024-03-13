@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/volumeSnapshots/write",
+  "OperationName": "VolumeSnapshots_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "volumeSnapshots",
+  "Description": "API to update certain properties of the VolumeSnapshot resource.",
+  "IsDataAction": false
+}

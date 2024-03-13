@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceBus/namespaces/disasterRecoveryConfigs/read",
+  "OperationName": "Get Disaster Recovery configuration",
+  "ProviderNamespace": "Microsoft Azure ServiceBus",
+  "ResourceName": "DisasterRecoveryConfigurations",
+  "Description": "Gets the Disaster Recovery configuration associated with the namespace.",
+  "IsDataAction": false
+}

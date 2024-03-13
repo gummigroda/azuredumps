@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/Locations/operationstatuses/read",
+  "OperationName": "read_operationstatuses",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "Locations/operationstatuses",
+  "Description": "read operationstatuses",
+  "IsDataAction": false
+}

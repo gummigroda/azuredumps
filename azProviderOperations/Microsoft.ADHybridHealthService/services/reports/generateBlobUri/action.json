@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/reports/generateBlobUri/action",
+  "OperationName": "Initiate generation of new risky IP report.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service",
+  "Description": "Generates Risky IP report and returns a URI pointing to it.",
+  "IsDataAction": false
+}

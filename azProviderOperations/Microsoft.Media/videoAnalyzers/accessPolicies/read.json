@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/videoAnalyzers/accessPolicies/read",
+  "OperationName": "Read Access Policy",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Access Policy Resource",
+  "Description": "Read any Access Policy",
+  "IsDataAction": false
+}

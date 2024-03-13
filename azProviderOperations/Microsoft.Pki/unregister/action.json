@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Pki/unregister/action",
+  "OperationName": "Unregister the Microsoft.Pki",
+  "ProviderNamespace": "Microsoft.Pki",
+  "ResourceName": "",
+  "Description": "Unregister the subscription for Microsoft.Pki",
+  "IsDataAction": false
+}

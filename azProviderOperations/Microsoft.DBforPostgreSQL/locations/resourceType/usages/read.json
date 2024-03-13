@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/locations/resourceType/usages/read",
+  "OperationName": "Gets quota usage",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "",
+  "Description": "Gets the quota usages of a subscription",
+  "IsDataAction": false
+}

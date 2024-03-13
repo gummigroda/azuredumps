@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/raiPolicies/delete",
+  "OperationName": "Delete a custom Responsible AI policy.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Responsible AI policies",
+  "Description": "Deletes a custom Responsible AI policy that's not referenced by an existing deployment.",
+  "IsDataAction": false
+}

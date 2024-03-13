@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/backupTieringCost/fetchTieringCost/action",
+  "OperationName": "Get tiering costs info",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Fetch Tiering Cost",
+  "Description": "Returns the tiering related cost info.",
+  "IsDataAction": false
+}

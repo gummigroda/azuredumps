@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/locations/syncMemberOperationResults/read",
+  "OperationName": "Get sync member resource operation results",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Sync Member.",
+  "Description": "Retrieve result of the sync member resource operation",
+  "IsDataAction": false
+}

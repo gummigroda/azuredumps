@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/networkConfig/write",
+  "OperationName": "Update App Service Slots Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Slots Network Configuration",
+  "Description": "Update App Service Slots Network Configuration.",
+  "IsDataAction": false
+}

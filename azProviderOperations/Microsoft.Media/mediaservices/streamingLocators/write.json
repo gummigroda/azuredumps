@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/streamingLocators/write",
+  "OperationName": "Create or Update Streaming Locator",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Streaming Locator",
+  "Description": "Create or Update any Streaming Locator",
+  "IsDataAction": false
+}

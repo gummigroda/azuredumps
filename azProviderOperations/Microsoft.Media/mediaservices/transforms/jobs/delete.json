@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Media/mediaservices/transforms/jobs/delete",
+  "OperationName": "Delete Job",
+  "ProviderNamespace": "Microsoft Media Services",
+  "ResourceName": "Job",
+  "Description": "Delete any Job",
+  "IsDataAction": false
+}

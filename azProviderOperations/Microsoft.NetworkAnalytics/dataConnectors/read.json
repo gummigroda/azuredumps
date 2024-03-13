@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/dataConnectors/read",
+  "OperationName": "DataConnector_Get",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "dataConnectors",
+  "Description": "Get a DataConnectors",
+  "IsDataAction": false
+}

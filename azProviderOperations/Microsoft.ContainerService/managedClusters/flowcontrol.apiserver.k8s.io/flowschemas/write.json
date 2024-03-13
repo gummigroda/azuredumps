@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/managedClusters/flowcontrol.apiserver.k8s.io/flowschemas/write",
+  "OperationName": "Creates/Updates flowschemas resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Flowschemas",
+  "Description": "Writes flowschemas",
+  "IsDataAction": true
+}

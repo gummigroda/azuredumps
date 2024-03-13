@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SqlVirtualMachine/locations/sqlVirtualMachineGroupOperationResults/read",
+  "OperationName": "Get SQL virtual machine group operation result",
+  "ProviderNamespace": "",
+  "ResourceName": "SQL virtual machine group",
+  "Description": "Get result of a SQL virtual machine group operation",
+  "IsDataAction": false
+}

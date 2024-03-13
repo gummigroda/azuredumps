@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/livetrace/write",
+  "OperationName": "Create live trace connections",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/LiveTrace",
+  "Description": "Create live trace connections",
+  "IsDataAction": true
+}

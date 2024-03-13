@@ -1,0 +1,8 @@
+{
+  "Operation": "PaloAltoNetworks.Cloudngfw/localRulestacks/prefixlists/write",
+  "OperationName": "PrefixListLocalRulestack_CreateOrUpdate",
+  "ProviderNamespace": "PaloAltoNetworks.Cloudngfw",
+  "ResourceName": "localRulestacks/prefixlists",
+  "Description": "Create a PrefixListResource",
+  "IsDataAction": false
+}

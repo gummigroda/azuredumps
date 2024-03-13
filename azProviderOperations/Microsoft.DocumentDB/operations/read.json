@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/operations/read",
+  "OperationName": "List operations",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "operations",
+  "Description": "Read operations available for the Microsoft DocumentDB ",
+  "IsDataAction": false
+}

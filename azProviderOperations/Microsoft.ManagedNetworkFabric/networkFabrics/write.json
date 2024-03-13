@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/write",
+  "OperationName": "NetworkFabrics_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Update certain properties of the Network Fabric resource.",
+  "IsDataAction": false
+}

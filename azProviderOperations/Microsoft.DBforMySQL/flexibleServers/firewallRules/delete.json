@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/firewallRules/delete",
+  "OperationName": "Delete Firewall Rule",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "Firewall Rule",
+  "Description": "Deletes an existing firewall rule.",
+  "IsDataAction": false
+}

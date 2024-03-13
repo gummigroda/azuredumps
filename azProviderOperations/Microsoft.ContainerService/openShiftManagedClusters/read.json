@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/openShiftManagedClusters/read",
+  "OperationName": "Get Open Shift Managed Cluster",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Open Shift Managed Cluster",
+  "Description": "Get a Open Shift Managed Cluster",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StreamAnalytics/locations/TestQuery/action",
+  "OperationName": "Test Query for Stream Analytics Resource Provider",
+  "ProviderNamespace": "Microsoft Azure Stream Analytics",
+  "ResourceName": "Stream Analytics Resource Provider",
+  "Description": "Test Query for Stream Analytics Resource Provider",
+  "IsDataAction": false
+}

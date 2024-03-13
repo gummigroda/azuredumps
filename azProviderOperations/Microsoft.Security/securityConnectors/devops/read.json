@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/read",
+  "OperationName": "Configurations_List",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps",
+  "Description": "List DevOps Configurations.",
+  "IsDataAction": false
+}

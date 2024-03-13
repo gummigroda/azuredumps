@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/tenants/keys/read",
+  "OperationName": "Get keys list or Get key details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Keys",
+  "Description": "Get a list of keys or Get details of key",
+  "IsDataAction": false
+}

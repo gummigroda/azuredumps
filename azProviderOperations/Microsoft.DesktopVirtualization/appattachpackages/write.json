@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/appattachpackages/write",
+  "OperationName": "Update the appattachpackages",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "appattachpackages",
+  "Description": "Update the appattachpackages to save changes.",
+  "IsDataAction": false
+}

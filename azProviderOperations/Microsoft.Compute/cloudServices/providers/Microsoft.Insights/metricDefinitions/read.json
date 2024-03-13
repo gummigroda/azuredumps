@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/cloudServices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Gets the CloudService metrics definition",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Cloud Services Metric Defintion.",
+  "Description": "Gets the CloudService metrics definition",
+  "IsDataAction": false
+}

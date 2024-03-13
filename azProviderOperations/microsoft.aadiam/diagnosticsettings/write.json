@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.aadiam/diagnosticsettings/write",
+  "OperationName": "Diagnostic settings write",
+  "ProviderNamespace": "Azure Active Directory",
+  "ResourceName": "Diagnostic settings",
+  "Description": "Writing a diagnostic setting",
+  "IsDataAction": false
+}

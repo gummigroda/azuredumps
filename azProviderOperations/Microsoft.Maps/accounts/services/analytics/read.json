@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/services/analytics/read",
+  "OperationName": "Analytics Service Read",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Analytics",
+  "Description": "Allows reading of data for Analytics services.",
+  "IsDataAction": true
+}

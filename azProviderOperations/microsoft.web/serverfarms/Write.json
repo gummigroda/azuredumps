@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/serverfarms/Write",
+  "OperationName": "Create or Update App Service Plan",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Plan",
+  "Description": "Create a new App Service Plan or update an existing one",
+  "IsDataAction": false
+}

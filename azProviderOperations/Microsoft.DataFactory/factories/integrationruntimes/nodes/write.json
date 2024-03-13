@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/nodes/write",
+  "OperationName": "Update Integration Runtime Node",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Updates a self-hosted Integration Runtime Node.",
+  "IsDataAction": false
+}

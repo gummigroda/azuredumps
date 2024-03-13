@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/operations/cancel/action",
+  "OperationName": "Cancel Azure SQL Database async operation",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Database",
+  "Description": "Cancels Azure SQL Database pending asynchronous operation that is not finished yet.",
+  "IsDataAction": false
+}

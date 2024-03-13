@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Migrate/assessmentprojects/aksAssessments/costdetails/read",
+  "OperationName": "Get costdetails",
+  "ProviderNamespace": "Microsoft.Migrate",
+  "ResourceName": "costdetails",
+  "Description": "Gets the properties of the costdetails ",
+  "IsDataAction": false
+}

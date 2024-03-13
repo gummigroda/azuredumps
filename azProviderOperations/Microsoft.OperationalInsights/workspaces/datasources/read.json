@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/datasources/read",
+  "OperationName": "Get Data Source",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Data Source",
+  "Description": "Get data source under a workspace.",
+  "IsDataAction": false
+}

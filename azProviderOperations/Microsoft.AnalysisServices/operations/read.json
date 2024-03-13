@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AnalysisServices/operations/read",
+  "OperationName": "Read operations",
+  "ProviderNamespace": "Microsoft Analysis Services",
+  "ResourceName": "servers",
+  "Description": "Retrieves the information of operations",
+  "IsDataAction": false
+}

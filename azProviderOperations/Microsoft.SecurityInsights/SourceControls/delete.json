@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/SourceControls/delete",
+  "OperationName": "Delete SourceControls",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "SourceControls",
+  "Description": "Delete SourceControls",
+  "IsDataAction": false
+}

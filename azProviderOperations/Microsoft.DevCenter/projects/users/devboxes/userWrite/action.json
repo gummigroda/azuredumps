@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/devboxes/userWrite/action",
+  "OperationName": "Projects_Users_DevBoxes_UserWrite",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/devboxes",
+  "Description": "Allows a user to create and update their own Dev Box resources.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/patternrules/write",
+  "OperationName": "Batch add patterns or update pattern or batch update patterns",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Pattern rules",
+  "Description": "Adds a list of patterns to the application version.\r\nUpdates a pattern in the application version.\r\nUpdates a list of patterns in the application version.",
+  "IsDataAction": true
+}

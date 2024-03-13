@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/failover/action",
+  "OperationName": "Storage Account Failover",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Accounts",
+  "Description": "Customer is able to control the failover in case of availability issues",
+  "IsDataAction": false
+}

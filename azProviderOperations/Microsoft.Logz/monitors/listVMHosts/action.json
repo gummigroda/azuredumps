@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/listVMHosts/action",
+  "OperationName": "List VM Hosts",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Monitors",
+  "Description": "List all vms that are sending compute logs for a monitor",
+  "IsDataAction": false
+}

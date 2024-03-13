@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

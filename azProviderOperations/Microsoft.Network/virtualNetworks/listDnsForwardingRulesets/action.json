@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/listDnsForwardingRulesets/action",
+  "OperationName": "Gets the DNS Forwarding Ruleset for Virtual Network",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Virtual Network",
+  "Description": "Gets the DNS Forwarding Ruleset for Virtual Network, in JSON format",
+  "IsDataAction": false
+}

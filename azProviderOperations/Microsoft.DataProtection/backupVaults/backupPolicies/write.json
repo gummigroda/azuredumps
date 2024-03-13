@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/backupVaults/backupPolicies/write",
+  "OperationName": "Create Backup Policy",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "Backup Policies",
+  "Description": "Creates Backup Policy",
+  "IsDataAction": false
+}

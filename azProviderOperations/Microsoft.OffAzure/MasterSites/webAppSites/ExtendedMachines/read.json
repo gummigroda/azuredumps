@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/webAppSites/ExtendedMachines/read",
+  "OperationName": "Get Web App Extended Machines For A Given Site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Web App Extended Machine Resource",
+  "Description": "Get Web App Extended Machines For A Given Site",
+  "IsDataAction": false
+}

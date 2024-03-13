@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/apps/deployments/connectorProps/read",
+  "OperationName": "Get the details of a service connector of a deployment in Azure Spring Apps",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The deployment service connector of Microsoft Azure Spring Apps",
+  "Description": "Get the service connectors for a specific deployment",
+  "IsDataAction": false
+}

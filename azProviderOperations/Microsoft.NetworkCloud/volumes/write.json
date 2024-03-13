@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/volumes/write",
+  "OperationName": "Volumes_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "volumes",
+  "Description": "Update tags associated with the provided volume.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworks/taggedTrafficConsumers/validate/action",
+  "OperationName": "Validate Tagged Traffic Consumer",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Tagged Traffic Consumer",
+  "Description": "Validates a Tagged Traffic Consumer",
+  "IsDataAction": false
+}

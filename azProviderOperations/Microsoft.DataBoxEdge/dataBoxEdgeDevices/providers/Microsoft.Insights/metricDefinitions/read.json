@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Read Data Box Edge device metric definition",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "Data Box Edge device",
+  "Description": "Gets the available Data Box Edge device level metrics",
+  "IsDataAction": false
+}

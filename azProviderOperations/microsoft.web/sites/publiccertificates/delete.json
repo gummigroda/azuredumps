@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/publiccertificates/delete",
+  "OperationName": "Delete Web Apps Public Certificates",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Public Certificates",
+  "Description": "Delete Web Apps Public Certificates.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/PowerPlatformAdminActivity/read",
+  "OperationName": "Read PowerPlatformAdminActivity data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "PowerPlatformAdminActivity",
+  "Description": "Read data from the PowerPlatformAdminActivity table",
+  "IsDataAction": false
+}

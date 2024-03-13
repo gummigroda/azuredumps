@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/keys/import/action",
+  "OperationName": "Import Key",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Key",
+  "Description": "Imports an externally created key. If the key does not exist, the first version is created with the imported material. Otherwise, a new version is created with the imported material.",
+  "IsDataAction": true
+}

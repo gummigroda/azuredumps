@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/gateways/listTrace/action",
+  "OperationName": "List collected trace",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateways",
+  "Description": "List collected trace created by gateway",
+  "IsDataAction": false
+}

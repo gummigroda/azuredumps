@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/provisioningServices/Write",
+  "OperationName": "Create IotDps resource",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "Microsoft.Devices/provisioningServices",
+  "Description": "Create IotDps resource",
+  "IsDataAction": false
+}

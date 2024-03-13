@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/enclaveConnections/read",
+  "OperationName": "EnclaveConnection_Get",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "enclaveConnections",
+  "Description": "Get a EnclaveConnectionResource",
+  "IsDataAction": false
+}

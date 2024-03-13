@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/certificates/write",
+  "OperationName": "Add certificate",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Certificates",
+  "Description": "Creates or updates the certificate being used for authentication with the backend.",
+  "IsDataAction": false
+}

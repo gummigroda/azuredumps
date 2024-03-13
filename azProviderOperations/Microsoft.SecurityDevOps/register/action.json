@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/register/action",
+  "OperationName": "Register the Microsoft.SecurityDevOps",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.SecurityDevOps",
+  "IsDataAction": false
+}

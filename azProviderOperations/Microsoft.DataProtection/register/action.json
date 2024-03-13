@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataProtection/register/action",
+  "OperationName": "Register Resource Provider",
+  "ProviderNamespace": "Microsoft.DataProtection",
+  "ResourceName": "",
+  "Description": "Registers subscription for given Resource Provider",
+  "IsDataAction": false
+}

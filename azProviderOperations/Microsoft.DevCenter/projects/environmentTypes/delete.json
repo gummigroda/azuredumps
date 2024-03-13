@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/environmentTypes/delete",
+  "OperationName": "ProjectEnvironmentTypes_Delete",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/environmentTypes",
+  "Description": "Deletes a project environment type.",
+  "IsDataAction": false
+}

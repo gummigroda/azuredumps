@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/operationResults/read",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Read operation results",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Keyspace",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Read status of the asynchronous operation. Only applicable to API types: 'cassandra'.",
+  "IsDataAction": false
+}

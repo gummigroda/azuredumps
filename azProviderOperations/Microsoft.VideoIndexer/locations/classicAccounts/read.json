@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.VideoIndexer/locations/classicAccounts/read",
+  "OperationName": "ClassicAccounts_GetDetails",
+  "ProviderNamespace": "Microsoft.VideoIndexer",
+  "ResourceName": "locations/classicAccounts",
+  "Description": "Gets the properties of an Azure Video Indexer Classic account.",
+  "IsDataAction": false
+}

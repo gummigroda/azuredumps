@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/livez/read",
+  "OperationName": "Gets/List livez resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Livez",
+  "Description": "Reads livez",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/runs/cancel/action",
+  "OperationName": "Cancel an existing run.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Cancel an existing run.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Clusters/ListFollowerDatabases/action",
+  "OperationName": "List follower's databases action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "Clusters resource type",
+  "Description": "Lists the follower's databases.",
+  "IsDataAction": false
+}

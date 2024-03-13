@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Orbital/contactProfiles/write",
+  "OperationName": "Create or Update Contact Profile",
+  "ProviderNamespace": "Orbital Resource Provider",
+  "ResourceName": "Contact Profiles",
+  "Description": "Create or Update any Contact Profile",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/linkedIntegrationRuntime/action",
+  "OperationName": "Create Linked Integration Runtime Reference",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Create Linked Integration Runtime Reference on the Specified Shared Integration Runtime.",
+  "IsDataAction": false
+}

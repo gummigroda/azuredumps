@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterAssociationProxies/read",
+  "OperationName": "Read NSP association proxies",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account",
+  "Description": "Read association proxies related to network security perimeter",
+  "IsDataAction": false
+}

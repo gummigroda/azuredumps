@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/packetCaptures/delete",
+  "OperationName": "Delete Packet Capture",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Packet Capture",
+  "Description": "Deletes a packet capture",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/write",
+  "OperationName": "Write Accounts",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "Create or update accounts",
+  "IsDataAction": false
+}

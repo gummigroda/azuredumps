@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/AppServiceServerlessSecurityPluginData/read",
+  "OperationName": "Read AppServiceServerlessSecurityPluginData data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "AppServiceServerlessSecurityPluginData",
+  "Description": "Read data from the AppServiceServerlessSecurityPluginData table",
+  "IsDataAction": false
+}

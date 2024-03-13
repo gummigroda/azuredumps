@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l2IsolationDomains/clearArpTable/action",
+  "OperationName": "L2IsolationDomains_clearArpTable",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l2IsolationDomains",
+  "Description": "Clears ARP tables for this Isolation Domain.",
+  "IsDataAction": false
+}

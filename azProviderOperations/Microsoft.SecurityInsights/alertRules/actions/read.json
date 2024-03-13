@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/alertRules/actions/read",
+  "OperationName": "Get Alert Rule Response Actions",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Alert Rules Actions",
+  "Description": "Gets the response actions of an alert rule",
+  "IsDataAction": false
+}

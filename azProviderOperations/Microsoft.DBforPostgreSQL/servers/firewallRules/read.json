@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/servers/firewallRules/read",
+  "OperationName": "List/Get Firewall Rules",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Firewall Rules",
+  "Description": "Return the list of firewall rules for a server or gets the properties for the specified firewall rule.",
+  "IsDataAction": false
+}

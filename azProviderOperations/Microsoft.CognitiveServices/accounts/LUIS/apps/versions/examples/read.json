@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/examples/read",
+  "OperationName": "Examples - Review labeled examples",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Examples",
+  "Description": "Returns a subset of endpoint examples to be reviewed.",
+  "IsDataAction": true
+}

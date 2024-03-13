@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/pause/action",
+  "OperationName": "Pause Container CopyJob",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Container Copy Jobs",
+  "Description": "Pause a container copy job in a database account",
+  "IsDataAction": false
+}

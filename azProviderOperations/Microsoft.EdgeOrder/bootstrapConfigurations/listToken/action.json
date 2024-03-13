@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeOrder/bootstrapConfigurations/listToken/action",
+  "OperationName": "List Token",
+  "ProviderNamespace": "Edge Ordering",
+  "ResourceName": "BootstrapConfigurations",
+  "Description": "Fetch site key token",
+  "IsDataAction": false
+}

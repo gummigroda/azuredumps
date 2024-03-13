@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBox/locations/availableSkus/read",
+  "OperationName": "List Available Skus",
+  "ProviderNamespace": "Azure Data Box",
+  "ResourceName": "Available Skus",
+  "Description": "List or get the Available Skus",
+  "IsDataAction": false
+}

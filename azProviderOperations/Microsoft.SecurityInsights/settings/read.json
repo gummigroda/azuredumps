@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/settings/read",
+  "OperationName": "Get Settings",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Settings",
+  "Description": "Gets settings",
+  "IsDataAction": false
+}

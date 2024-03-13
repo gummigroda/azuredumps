@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevCenter/projects/users/environments/adminOutputsRead/action",
+  "OperationName": "Projects_Users_Environments_AdminOutputsRead",
+  "ProviderNamespace": "Microsoft.DevCenter",
+  "ResourceName": "projects/users/environments",
+  "Description": "Allows an admin to read Output values from environment deployment.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBI/locations/checkNameAvailability/action",
+  "OperationName": "Check Name Availability",
+  "ProviderNamespace": "Microsoft.PowerBI",
+  "ResourceName": "Workspace Collections",
+  "Description": "Retrieves the name availability for the specified resource.",
+  "IsDataAction": false
+}

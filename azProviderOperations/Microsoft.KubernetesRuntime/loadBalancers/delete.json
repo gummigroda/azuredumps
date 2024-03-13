@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KubernetesRuntime/loadBalancers/delete",
+  "OperationName": "LoadBalancers_Delete",
+  "ProviderNamespace": "Microsoft.KubernetesRuntime",
+  "ResourceName": "loadBalancers",
+  "Description": "Delete a LoadBalancer",
+  "IsDataAction": false
+}

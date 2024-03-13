@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/outboundFirewallRules/delete",
+  "OperationName": "Delete outbound firewall rule",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL DB Outbound Firewall Rule",
+  "Description": "Delete outbound firewall rule",
+  "IsDataAction": false
+}

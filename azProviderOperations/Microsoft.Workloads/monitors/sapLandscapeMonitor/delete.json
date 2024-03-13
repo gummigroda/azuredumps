@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/monitors/sapLandscapeMonitor/delete",
+  "OperationName": "SapLandscapeMonitor_Delete",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "monitors/sapLandscapeMonitor",
+  "Description": "Deletes a SAP Landscape monitor configuration with the specified subscription, resource group, and monitor name.",
+  "IsDataAction": false
+}

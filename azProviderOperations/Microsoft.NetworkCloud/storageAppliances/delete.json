@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/storageAppliances/delete",
+  "OperationName": "StorageAppliances_Delete",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "storageAppliances",
+  "Description": "Delete the provided storage appliance.\nAll customer initiated requests will be rejected as the life cycle of this resource is managed by the system.",
+  "IsDataAction": false
+}

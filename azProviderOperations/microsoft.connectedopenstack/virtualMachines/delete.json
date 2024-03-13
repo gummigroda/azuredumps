@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/virtualMachines/delete",
+  "OperationName": "VirtualMachines_Delete",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "virtualMachines",
+  "Description": "Implements virtual machine DELETE method.",
+  "IsDataAction": false
+}

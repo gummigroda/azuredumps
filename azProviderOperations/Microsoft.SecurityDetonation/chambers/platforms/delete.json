@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/platforms/delete",
+  "OperationName": "Platforms Delete",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Platforms",
+  "Description": "Allows deleting available platforms",
+  "IsDataAction": true
+}

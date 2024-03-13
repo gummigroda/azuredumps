@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/ExtendedDiagnosticSettings/Delete",
+  "OperationName": "Delete network flow log diagnostic setting",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Network flow log diagnostic setting",
+  "Description": "Delete a network flow log diagnostic setting",
+  "IsDataAction": false
+}

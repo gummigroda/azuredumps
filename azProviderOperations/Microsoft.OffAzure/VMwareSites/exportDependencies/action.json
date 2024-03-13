@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/exportDependencies/action",
+  "OperationName": "Exports dependencies information for the selected machines",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "VMwareSites",
+  "Description": "Exports the dependencies information for the selected machines",
+  "IsDataAction": false
+}

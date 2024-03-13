@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupAadProperties/read",
+  "OperationName": "Get Aad Properties for CRR",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "Get AAD Properties for authentication in the third region for Cross Region Restore.",
+  "IsDataAction": false
+}

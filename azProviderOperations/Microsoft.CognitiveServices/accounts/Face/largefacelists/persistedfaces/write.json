@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/largefacelists/persistedfaces/write",
+  "OperationName": "LargeFaceList - Add Face|LargeFaceList - Update Face*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Add a face to a specified large face list, up to 1,000,000 faces.\r\nUpdate a specified face's userData field in a large face list by its persistedFaceId.*",
+  "IsDataAction": true
+}

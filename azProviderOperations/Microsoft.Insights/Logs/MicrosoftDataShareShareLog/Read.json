@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/MicrosoftDataShareShareLog/Read",
+  "OperationName": "Read MicrosoftDataShareShareLog data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "MicrosoftDataShareShareLog",
+  "Description": "Read data from the MicrosoftDataShareShareLog table",
+  "IsDataAction": false
+}

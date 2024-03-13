@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagement/externalSubscriptions/query/action",
+  "OperationName": "Query usage data",
+  "ProviderNamespace": "Microsoft.CostManagement",
+  "ResourceName": "ExternalSubscriptions",
+  "Description": "Query usage data for external subscription.",
+  "IsDataAction": false
+}

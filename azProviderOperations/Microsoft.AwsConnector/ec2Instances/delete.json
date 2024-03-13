@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AwsConnector/ec2Instances/delete",
+  "OperationName": "Ec2Instances_Delete",
+  "ProviderNamespace": "Microsoft.AwsConnector",
+  "ResourceName": "ec2Instances",
+  "Description": "Delete a Ec2Instance",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "NGINX.NGINXPLUS/locations/read",
+  "OperationName": "Get locations",
+  "ProviderNamespace": "NGINX.NGINXPLUS",
+  "ResourceName": "Locations",
+  "Description": "Get locations",
+  "IsDataAction": false
+}

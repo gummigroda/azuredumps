@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AVS/privateClouds/operationstatuses/read",
+  "OperationName": "Read privateClouds operationstatuses",
+  "ProviderNamespace": "Microsoft.AVS",
+  "ResourceName": "privateClouds/operationstatuses",
+  "Description": "Reads privateClouds operationstatuses.",
+  "IsDataAction": false
+}

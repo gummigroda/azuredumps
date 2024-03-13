@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/users/ListAllEnvironments/action",
+  "OperationName": "ListAllEnvironments",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "Users",
+  "Description": "List all Environments for the user",
+  "IsDataAction": false
+}

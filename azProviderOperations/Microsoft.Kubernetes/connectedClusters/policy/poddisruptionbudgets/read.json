@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/policy/poddisruptionbudgets/read",
+  "OperationName": "Gets/List poddisruptionbudgets resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "poddisruptionbudgets",
+  "Description": "Reads poddisruptionbudgets",
+  "IsDataAction": true
+}

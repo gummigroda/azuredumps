@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Compute/galleries/delete",
+  "OperationName": "Delete Gallery",
+  "ProviderNamespace": "Microsoft Compute",
+  "ResourceName": "Galleries",
+  "Description": "Deletes the Gallery",
+  "IsDataAction": false
+}

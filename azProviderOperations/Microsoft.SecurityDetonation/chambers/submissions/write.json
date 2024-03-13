@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDetonation/chambers/submissions/write",
+  "OperationName": "Create Sumissions",
+  "ProviderNamespace": "Microsoft SecurityDetonationChamber",
+  "ResourceName": "Submissions",
+  "Description": "Allows creating submissions of files/urls for detonation",
+  "IsDataAction": true
+}

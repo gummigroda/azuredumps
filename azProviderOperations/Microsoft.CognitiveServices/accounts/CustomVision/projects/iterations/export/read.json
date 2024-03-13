@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/export/read",
+  "OperationName": "GetExports",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "export*",
+  "Description": "Get the list of exports for a specific iteration.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/recommendations/suppressions/write",
+  "OperationName": "Create/Update Suppressions",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "Suppressions",
+  "Description": "Creates/updates suppressions",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/buildServices/builders/write",
+  "OperationName": "Write Microsoft Azure Spring Apps Builders",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Builder of Microsoft Azure Spring Apps",
+  "Description": "Create or update the Builders for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

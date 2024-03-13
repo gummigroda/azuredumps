@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/policy/read",
+  "OperationName": "Get Tenant policy configuration",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Tenant policies configuration",
+  "Description": "Get the policy configuration at Tenant level",
+  "IsDataAction": false
+}

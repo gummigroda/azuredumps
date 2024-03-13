@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/notificationsettings/read",
+  "OperationName": "Get Notification Settings",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Notification Settings",
+  "Description": "Get the user's notification settings for the workspace.",
+  "IsDataAction": false
+}

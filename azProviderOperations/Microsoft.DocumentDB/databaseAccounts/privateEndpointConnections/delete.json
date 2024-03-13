@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/delete",
+  "OperationName": "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/delete",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Database Account Private Endpoint Connection",
+  "Description": "Delete a private endpoint connection of a Database Account",
+  "IsDataAction": false
+}

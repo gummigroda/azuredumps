@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/read",
+  "OperationName": "Get DataLakeAnalytics Account",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Account",
+  "Description": "Get information about an existing DataLakeAnalytics account.",
+  "IsDataAction": false
+}

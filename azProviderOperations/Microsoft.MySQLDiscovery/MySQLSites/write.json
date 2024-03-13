@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MySQLDiscovery/MySQLSites/write",
+  "OperationName": "MySQLSites_Update",
+  "ProviderNamespace": "Microsoft.MySQLDiscovery",
+  "ResourceName": "MySQLSites",
+  "Description": "Patch the MySQLSites resource.",
+  "IsDataAction": false
+}

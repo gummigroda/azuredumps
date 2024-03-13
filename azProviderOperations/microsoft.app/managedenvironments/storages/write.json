@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/storages/write",
+  "OperationName": "Create or Update a Managed Environment Storage.",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Storage",
+  "Description": "Create or Update a storage of Managed Environment.",
+  "IsDataAction": false
+}

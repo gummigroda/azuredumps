@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/jobs/action",
+  "OperationName": "Job - Create",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage jobs.",
+  "Description": "A job Id will be returned for the Image content posted on this endpoint. ",
+  "IsDataAction": true
+}

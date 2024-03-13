@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Put Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Account Private Endpoint Connection Proxy",
+  "Description": "Put Private Endpoint Connection Proxies",
+  "IsDataAction": false
+}

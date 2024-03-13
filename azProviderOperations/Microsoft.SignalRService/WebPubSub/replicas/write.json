@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SignalRService/WebPubSub/replicas/write",
+  "OperationName": "Manage WebPubSub replica(read-write)",
+  "ProviderNamespace": "Microsoft.SignalRService",
+  "ResourceName": "WebPubSub/replicas",
+  "Description": "Modify the WebPubSub replica's settings and configurations in the management portal or through API",
+  "IsDataAction": false
+}

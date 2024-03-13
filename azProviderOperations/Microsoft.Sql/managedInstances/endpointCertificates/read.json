@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/managedInstances/endpointCertificates/read",
+  "OperationName": "Get the endpoint certificate.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Azure SQL Managed Instance Endpoint Certificate.",
+  "Description": "Get the endpoint certificate.",
+  "IsDataAction": false
+}

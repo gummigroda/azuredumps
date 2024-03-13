@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/incidents/createTeam/action",
+  "OperationName": "Create Microsoft Team for incident",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "Incidents",
+  "Description": "Creates a Microsoft team to investigate the incident by sharing information and insights between participants",
+  "IsDataAction": false
+}

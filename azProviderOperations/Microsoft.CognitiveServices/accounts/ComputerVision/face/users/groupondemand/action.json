@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/face/users/groupondemand/action",
+  "OperationName": "Face Grouping - Group on Demand (Internal)",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "users*",
+  "Description": "Face Grouping - Group on Demand",
+  "IsDataAction": true
+}

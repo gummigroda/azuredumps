@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/processtext/detectlanguage/action",
+  "OperationName": "Text - Detect Language",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "processtext*",
+  "Description": "This operation will detect the language of given input content. Returns the <a href=\"http://www-01.sil.org/iso639-3/codes.asp\">ISO 639-3 code</a> for the predominant language comprising the submitted text. Over 110 languages supported.",
+  "IsDataAction": true
+}

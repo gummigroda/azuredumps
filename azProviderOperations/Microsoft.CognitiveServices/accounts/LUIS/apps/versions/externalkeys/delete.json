@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/externalkeys/delete",
+  "OperationName": "versions - Delete application version external key",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "externalkeys*",
+  "Description": "THIS API IS DEPRECATED.",
+  "IsDataAction": true
+}

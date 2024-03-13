@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/recoverableSqlpools/read",
+  "OperationName": "Gets recoverable SQL Analytics Pools",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Recoverable Sql Analytics Pools",
+  "Description": "Gets recoverable SQL Analytics Pools, which are the resources representing geo backups of SQL Analytics Pools",
+  "IsDataAction": false
+}

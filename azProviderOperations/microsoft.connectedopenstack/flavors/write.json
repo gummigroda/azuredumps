@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/flavors/write",
+  "OperationName": "Flavors_Update",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "flavors",
+  "Description": "API to update certain properties of the Flavor resource.",
+  "IsDataAction": false
+}

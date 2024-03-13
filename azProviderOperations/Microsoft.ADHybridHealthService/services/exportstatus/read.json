@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ADHybridHealthService/services/exportstatus/read",
+  "OperationName": "Gets the export status for a given service.",
+  "ProviderNamespace": "Microsoft ADHybridHealthService",
+  "ResourceName": "Service Member",
+  "Description": "Gets the export status for a given service.",
+  "IsDataAction": false
+}

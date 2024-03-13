@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/register/action",
+  "OperationName": "Registers the Azure Synapse Analytics (workspaces) Resource Provider.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "",
+  "Description": "Registers the Azure Synapse Analytics (workspaces) Resource Provider and enables the creation of Workspaces.",
+  "IsDataAction": false
+}

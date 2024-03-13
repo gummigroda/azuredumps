@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVehicle/operations/read",
+  "OperationName": "Gets all ResourceProvider operations",
+  "ProviderNamespace": "Microsoft.ConnectedVehicle",
+  "ResourceName": "operations",
+  "Description": "Gets all ResourceProvider operations",
+  "IsDataAction": false
+}

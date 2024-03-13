@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/bigDataPools/write",
+  "OperationName": "Create or Update Spark pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Spark pools",
+  "Description": "Create or Update any Spark pools.",
+  "IsDataAction": false
+}

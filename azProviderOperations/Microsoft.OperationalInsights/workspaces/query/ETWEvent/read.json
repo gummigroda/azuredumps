@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ETWEvent/read",
+  "OperationName": "Read ETWEvent data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ETWEvent",
+  "Description": "Read data from the ETWEvent table",
+  "IsDataAction": false
+}

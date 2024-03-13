@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/permissions/write",
+  "OperationName": "permissions - Add email to access list|permissions - Update access list*",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "permissions*",
+  "Description": "Adds a user to the allowed list of users to access this LUIS application.\r\nReplaces the current users access list with the one sent in the body.*",
+  "IsDataAction": true
+}

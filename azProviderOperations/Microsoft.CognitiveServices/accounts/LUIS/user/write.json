@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/user/write",
+  "OperationName": "user - UpdateUserInfo",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "user*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

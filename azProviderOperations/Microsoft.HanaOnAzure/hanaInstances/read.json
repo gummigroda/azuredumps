@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HanaOnAzure/hanaInstances/read",
+  "OperationName": "Read SAP HANA Instance",
+  "ProviderNamespace": "Microsoft SAP HANA on Azure",
+  "ResourceName": "SAP HANA Instance",
+  "Description": "Read any SAP HANA Instance",
+  "IsDataAction": false
+}

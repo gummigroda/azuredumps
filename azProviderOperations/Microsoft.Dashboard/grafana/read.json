@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Dashboard/grafana/read",
+  "OperationName": "Get/List grafana resources",
+  "ProviderNamespace": "Microsoft.Dashboard",
+  "ResourceName": "Grafana",
+  "Description": "Read grafana",
+  "IsDataAction": false
+}

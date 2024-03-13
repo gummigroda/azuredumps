@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/datastores/Read",
+  "OperationName": "Gets/List datastores resources",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "datastores",
+  "Description": "Read datastores",
+  "IsDataAction": false
+}

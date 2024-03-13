@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/hostruntime/webhooks/api/workflows/runs/read",
+  "OperationName": "List Web Apps Hostruntime Workflow Runs",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Hostruntime Workflows",
+  "Description": "List Web Apps Hostruntime Workflow Runs.",
+  "IsDataAction": false
+}

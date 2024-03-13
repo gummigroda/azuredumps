@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabrics/updateWorkloadManagementBfdConfiguration/action",
+  "OperationName": "NetworkFabrics_UpdateWorkloadManagementBfdConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabrics",
+  "Description": "Updates the Workload Management BFD Configuration of the underlying resources in the given Network Fabric instance.",
+  "IsDataAction": false
+}

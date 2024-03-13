@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PolicyInsights/policyStates/queryResults/read",
+  "OperationName": "Query Policy States",
+  "ProviderNamespace": "Microsoft Policy Insights",
+  "ResourceName": "Policy States",
+  "Description": "Query information about policy states.",
+  "IsDataAction": false
+}

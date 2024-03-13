@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridNetwork/devices/write",
+  "OperationName": "Devices_UpdateTags",
+  "ProviderNamespace": "Microsoft.HybridNetwork",
+  "ResourceName": "devices",
+  "Description": "Updates device tags.",
+  "IsDataAction": false
+}

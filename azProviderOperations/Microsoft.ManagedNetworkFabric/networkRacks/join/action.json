@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkRacks/join/action",
+  "OperationName": "NetworkRacks_Join",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkRacks",
+  "Description": "Join action for Network Rack resource.",
+  "IsDataAction": false
+}

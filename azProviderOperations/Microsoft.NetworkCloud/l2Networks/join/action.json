@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/l2Networks/join/action",
+  "OperationName": "L2Networks_Join",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "l2Networks",
+  "Description": "Join a layer 2 (L2) network.",
+  "IsDataAction": false
+}

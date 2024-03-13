@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADFSSISPackageExecutionComponentPhases/Read",
+  "OperationName": "Read ADFSSISPackageExecutionComponentPhases data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADFSSISPackageExecutionComponentPhases",
+  "Description": "Read data from the ADFSSISPackageExecutionComponentPhases table",
+  "IsDataAction": false
+}

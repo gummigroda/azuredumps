@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/chemicalProducts/list/action",
+  "OperationName": "Delete AgFoodPlatform Chemical Products resource.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform Chemical Products",
+  "Description": "Deletes an existing AgFoodPlatform Chemical Products resource.",
+  "IsDataAction": true
+}

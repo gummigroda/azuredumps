@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/vcenters/Read",
+  "OperationName": "Gets/List vcenters resources",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "vcenters",
+  "Description": "Read vcenters",
+  "IsDataAction": false
+}

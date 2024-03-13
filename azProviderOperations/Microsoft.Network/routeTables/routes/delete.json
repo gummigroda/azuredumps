@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/routeTables/routes/delete",
+  "OperationName": "Delete Route",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Route",
+  "Description": "Deletes a route definition",
+  "IsDataAction": false
+}

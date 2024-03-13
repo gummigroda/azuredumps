@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/saasresources/read",
+  "OperationName": "Get SaaS Resources",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Resources",
+  "Description": "Get all SaaS resources or one resource",
+  "IsDataAction": false
+}

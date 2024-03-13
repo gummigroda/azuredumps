@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/MADeviceNRT/read",
+  "OperationName": "Read MADeviceNRT data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MADeviceNRT",
+  "Description": "Read data from the MADeviceNRT table",
+  "IsDataAction": false
+}

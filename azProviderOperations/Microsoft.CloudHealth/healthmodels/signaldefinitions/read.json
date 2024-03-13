@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CloudHealth/healthmodels/signaldefinitions/read",
+  "OperationName": "SignalDefinitions_Get",
+  "ProviderNamespace": "Microsoft.CloudHealth",
+  "ResourceName": "healthmodels/signaldefinitions",
+  "Description": "Get a SignalDefinition",
+  "IsDataAction": false
+}

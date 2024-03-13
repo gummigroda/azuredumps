@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/accessControlLists/validateConfiguration/action",
+  "OperationName": "AccessControlLists_ValidateConfiguration",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "accessControlLists",
+  "Description": "Implements the operation to the underlying resources.",
+  "IsDataAction": false
+}

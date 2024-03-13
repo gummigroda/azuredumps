@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/threatintelligence/indicators/replaceTags/action",
+  "OperationName": "Replace Tags of Threat Intelligence Indicator",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "ThreatIntelligence",
+  "Description": "Replace Tags of Threat Intelligence Indicator",
+  "IsDataAction": false
+}

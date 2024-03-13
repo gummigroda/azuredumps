@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMariaDB/servers/providers/Microsoft.Insights/metricDefinitions/read",
+  "OperationName": "Get database metric definitions",
+  "ProviderNamespace": "Microsoft DB for MariaDB",
+  "ResourceName": "Database Metric Definition",
+  "Description": "Return types of metrics that are available for databases",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/scalingplans/write",
+  "OperationName": "Write scalingplans",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "scalingplans",
+  "Description": "Write scalingplans",
+  "IsDataAction": false
+}

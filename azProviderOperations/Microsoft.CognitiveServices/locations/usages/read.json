@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/usages/read",
+  "OperationName": "Read all usages data",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Usages",
+  "Description": "Read all usages data",
+  "IsDataAction": false
+}

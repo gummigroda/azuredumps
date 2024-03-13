@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureDataTransfer/validateSchema/action",
+  "OperationName": "AzureDataTransfer_validateSchema",
+  "ProviderNamespace": "Microsoft.AzureDataTransfer",
+  "ResourceName": "",
+  "Description": "Validates a schema for Azure Data Transfer.",
+  "IsDataAction": false
+}

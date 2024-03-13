@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/metrics/data/query/action",
+  "OperationName": "Get time series data from metric",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Data of metrics",
+  "Description": "Get time series data from metric",
+  "IsDataAction": true
+}

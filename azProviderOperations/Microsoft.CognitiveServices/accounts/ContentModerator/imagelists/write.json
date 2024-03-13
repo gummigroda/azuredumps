@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/imagelists/write",
+  "OperationName": "Image Lists - Update Details",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage image lists.",
+  "Description": "Image Lists - Update Details",
+  "IsDataAction": true
+}

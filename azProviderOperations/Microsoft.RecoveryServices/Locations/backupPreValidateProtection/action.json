@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Locations/backupPreValidateProtection/action",
+  "OperationName": "Pre Validate Enable Protection",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Recovery Points",
+  "Description": "",
+  "IsDataAction": false
+}

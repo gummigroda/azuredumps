@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "Read Network Security Perimeter configuration ",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "Network Security Perimeter Configuration",
+  "Description": "Read the Network Security Perimeter configuration stored in a vault.",
+  "IsDataAction": false
+}

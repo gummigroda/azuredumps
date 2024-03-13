@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IntegrationSpaces/spaces/applications/businessProcesses/write",
+  "OperationName": "BusinessProcesses_Patch",
+  "ProviderNamespace": "Microsoft.IntegrationSpaces",
+  "ResourceName": "spaces/applications/businessProcesses",
+  "Description": "Update a BusinessProcess",
+  "IsDataAction": false
+}

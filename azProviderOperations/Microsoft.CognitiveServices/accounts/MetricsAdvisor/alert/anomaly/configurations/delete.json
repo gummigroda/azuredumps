@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/alert/anomaly/configurations/delete",
+  "OperationName": "Delete anomaly alerting configuration",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Anomaly alert configurations",
+  "Description": "Delete anomaly alerting configuration",
+  "IsDataAction": true
+}

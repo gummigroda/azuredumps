@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies/write",
+  "OperationName": "Put blob container immutability policy",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Blob Service Containers ImmutabilityPolicy",
+  "Description": "Put blob container immutability policy",
+  "IsDataAction": false
+}

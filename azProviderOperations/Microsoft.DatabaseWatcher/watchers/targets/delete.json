@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DatabaseWatcher/watchers/targets/delete",
+  "OperationName": "Targets_Delete",
+  "ProviderNamespace": "Microsoft.DatabaseWatcher",
+  "ResourceName": "watchers/targets",
+  "Description": "Delete a Target",
+  "IsDataAction": false
+}

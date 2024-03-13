@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LanguageAuthoring/projects/cultures/read",
+  "OperationName": "Projects_GetSupportedCultures",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "cultures*",
+  "Description": "Get List of Supported Cultures.",
+  "IsDataAction": true
+}

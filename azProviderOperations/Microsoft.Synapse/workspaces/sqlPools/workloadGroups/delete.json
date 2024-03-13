@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/workloadGroups/delete",
+  "OperationName": "Drops a specific workload group.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics Pool workload group.",
+  "Description": "Drops a specific workload group.",
+  "IsDataAction": false
+}

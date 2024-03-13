@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/dotnetcomponents/read",
+  "OperationName": "Read Managed Environment .NET Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment .NET Component",
+  "Description": "Read Managed Environment .NET Component",
+  "IsDataAction": false
+}

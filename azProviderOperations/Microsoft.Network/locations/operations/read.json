@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/locations/operations/read",
+  "OperationName": "Get Operation Resource",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Operation",
+  "Description": "Gets operation resource that represents status of an asynchronous operation",
+  "IsDataAction": false
+}

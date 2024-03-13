@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/links/write",
+  "OperationName": "Creates or Updates a Network Security Perimeter Link",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Link",
+  "Description": "Creates or Updates a Network Security Perimeter Link",
+  "IsDataAction": false
+}

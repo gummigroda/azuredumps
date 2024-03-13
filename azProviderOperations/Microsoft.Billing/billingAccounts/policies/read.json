@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Billing/billingAccounts/policies/read",
+  "OperationName": "Policies_GetByBillingAccount",
+  "ProviderNamespace": "Microsoft Billing",
+  "ResourceName": "Policies",
+  "Description": "Get the policies for a billing account of Enterprise Agreement type.",
+  "IsDataAction": false
+}

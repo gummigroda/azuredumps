@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityInsights/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Microsoft Security Insights",
+  "ResourceName": "",
+  "Description": "Registers the subscription to Azure Sentinel",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Wandisco.Fusion/locations/operationStatuses/write",
+  "OperationName": "Update",
+  "ProviderNamespace": "Wandisco.Fusion",
+  "ResourceName": "OperationStatuses",
+  "Description": "Patches a given operationStatus.",
+  "IsDataAction": false
+}

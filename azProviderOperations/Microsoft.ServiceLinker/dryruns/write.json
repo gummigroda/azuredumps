@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/dryruns/write",
+  "OperationName": "Linkers_UpdateDryrun",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "dryruns",
+  "Description": "add a dryrun job to do necessary check before actual creation",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedOpenStack/securityGroups/read",
+  "OperationName": "SecurityGroups_ListBySubscription",
+  "ProviderNamespace": "Microsoft.ConnectedOpenStack",
+  "ResourceName": "securityGroups",
+  "Description": "Implements SecurityGroups list by subscription GET method.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/read",
+  "OperationName": "Read Cassandra table throughput",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Cassandra Table throughput setting",
+  "Description": "Read a Cassandra table throughput.",
+  "IsDataAction": false
+}

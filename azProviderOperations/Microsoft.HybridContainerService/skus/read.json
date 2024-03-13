@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.HybridContainerService/skus/read",
+  "OperationName": "VMSkus_List",
+  "ProviderNamespace": "Microsoft.HybridContainerService",
+  "ResourceName": "skus",
+  "Description": "Lists the supported VM SKUs from the underlying custom location",
+  "IsDataAction": false
+}

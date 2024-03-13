@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/storage.k8s.io/storageclasses/write",
+  "OperationName": "Creates/Updates storageclasses resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "storageclasses",
+  "Description": "Writes storageclasses",
+  "IsDataAction": true
+}

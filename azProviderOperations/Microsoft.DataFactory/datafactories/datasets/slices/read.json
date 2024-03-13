@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/datafactories/datasets/slices/read",
+  "OperationName": "Read Data Slices",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Data Slice",
+  "Description": "Gets the Data Slices in the given period.",
+  "IsDataAction": false
+}

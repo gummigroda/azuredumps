@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/phraselists/presuggestion/read",
+  "OperationName": "features - load previous suggestion result for phraselist feature",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "presuggestion*",
+  "Description": "Loads previous suggestion result for phraselist feature.",
+  "IsDataAction": true
+}

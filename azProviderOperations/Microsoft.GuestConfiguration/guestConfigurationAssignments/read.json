@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
+  "OperationName": "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
+  "ProviderNamespace": "Microsoft Guest Configuration",
+  "ResourceName": "Microsoft.GuestConfiguration/guestConfigurationAssignments",
+  "Description": "Get guest configuration assignment.",
+  "IsDataAction": false
+}

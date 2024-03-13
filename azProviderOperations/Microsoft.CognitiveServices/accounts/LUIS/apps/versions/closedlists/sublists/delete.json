@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/closedlists/sublists/delete",
+  "OperationName": "Delete closedlist's sublist",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Sublists",
+  "Description": "Deletes a sublist of a specified list entity.",
+  "IsDataAction": true
+}

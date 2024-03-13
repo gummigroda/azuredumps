@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/servers/resetQueryPerformanceInsightData/action",
+  "OperationName": "Reset Query Performance Insight data",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Reset Query Performance Insight data",
+  "IsDataAction": false
+}

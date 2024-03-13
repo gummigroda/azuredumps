@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/applicationSecurityGroups/read",
+  "OperationName": "Gets An Application Security Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Application Security Group",
+  "Description": "Gets an Application Security Group ID.",
+  "IsDataAction": false
+}

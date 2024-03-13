@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CodeSigning/IdentityVerification/Write",
+  "OperationName": "Creates/Updates Identity Verification Request",
+  "ProviderNamespace": "Microsoft.CodeSigning",
+  "ResourceName": "IdentityVerification",
+  "Description": "Creates or updates identity verification requests",
+  "IsDataAction": true
+}

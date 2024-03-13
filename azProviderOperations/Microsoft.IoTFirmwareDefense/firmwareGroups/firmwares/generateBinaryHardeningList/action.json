@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTFirmwareDefense/firmwareGroups/firmwares/generateBinaryHardeningList/action",
+  "OperationName": "Firmware_GenerateBinaryHardeningList",
+  "ProviderNamespace": "Microsoft.IoTFirmwareDefense",
+  "ResourceName": "firmwareGroups/firmwares",
+  "Description": "The operation to list all binary hardening result for a firmware.",
+  "IsDataAction": false
+}

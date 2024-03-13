@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/networkGroups/join/action",
+  "OperationName": "Join Network Group",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Group",
+  "Description": "Join Network Group",
+  "IsDataAction": false
+}

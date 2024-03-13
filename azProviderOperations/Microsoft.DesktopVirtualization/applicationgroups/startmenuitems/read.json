@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/applicationgroups/startmenuitems/read",
+  "OperationName": "startmenuitems",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "applicationgroups/startmenuitems",
+  "Description": "Read start menu items",
+  "IsDataAction": false
+}

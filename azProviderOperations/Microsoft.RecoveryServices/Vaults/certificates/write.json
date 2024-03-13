@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.RecoveryServices/Vaults/certificates/write",
+  "OperationName": "Update Resource Certificate",
+  "ProviderNamespace": "Microsoft.RecoveryServices",
+  "ResourceName": "Vaults",
+  "Description": "The Update Resource Certificate operation updates the resource/vault credential certificate.",
+  "IsDataAction": false
+}

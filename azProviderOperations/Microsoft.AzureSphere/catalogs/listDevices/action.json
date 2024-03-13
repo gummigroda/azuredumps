@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureSphere/catalogs/listDevices/action",
+  "OperationName": "Catalogs_ListDevices",
+  "ProviderNamespace": "Microsoft.AzureSphere",
+  "ResourceName": "catalogs",
+  "Description": "Lists devices for catalog.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataLakeAnalytics/accounts/storageAccounts/Containers/read",
+  "OperationName": "Get Storage Container",
+  "ProviderNamespace": "Microsoft DataLakeAnalytics",
+  "ResourceName": "Container",
+  "Description": "Get containers of a linked Storage account of a DataLakeAnalytics account.",
+  "IsDataAction": false
+}

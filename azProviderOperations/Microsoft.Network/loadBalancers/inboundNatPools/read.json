@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/loadBalancers/inboundNatPools/read",
+  "OperationName": "Get Load Balancer Inbound Nat Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Load Balancer Inbound Nat Pool",
+  "Description": "Gets a load balancer inbound nat pool definition",
+  "IsDataAction": false
+}

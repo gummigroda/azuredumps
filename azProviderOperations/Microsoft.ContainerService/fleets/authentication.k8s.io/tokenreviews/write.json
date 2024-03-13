@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/authentication.k8s.io/tokenreviews/write",
+  "OperationName": "Creates/Updates tokenreviews resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Tokenreviews",
+  "Description": "Writes tokenreviews",
+  "IsDataAction": true
+}

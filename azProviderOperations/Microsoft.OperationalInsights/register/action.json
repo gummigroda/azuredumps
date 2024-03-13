@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/register/action",
+  "OperationName": "Register Subscription",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "",
+  "Description": "Register a subscription to a resource provider.",
+  "IsDataAction": false
+}

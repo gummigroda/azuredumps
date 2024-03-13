@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/databases/replicationLinks/delete",
+  "OperationName": "Delete Azure SQL Database replication link.",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Replication links.",
+  "Description": "Execute deletion of an existing replication link.",
+  "IsDataAction": false
+}

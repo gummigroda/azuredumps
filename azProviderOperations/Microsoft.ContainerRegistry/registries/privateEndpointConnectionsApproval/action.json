@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/privateEndpointConnectionsApproval/action",
+  "OperationName": "Auto Approves a Private Endpoint Connection",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Auto Approves a Private Endpoint Connection",
+  "IsDataAction": false
+}

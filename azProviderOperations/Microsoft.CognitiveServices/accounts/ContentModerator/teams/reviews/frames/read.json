@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/teams/reviews/frames/read",
+  "OperationName": "Review - Get video frames",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Manage video frames.",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}

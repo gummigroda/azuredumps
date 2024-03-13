@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Help/troubleshooters/read",
+  "OperationName": "Can perform Create, Read, Continue and restart actions on a Troubleshooter instance.",
+  "ProviderNamespace": "Microsoft.Help",
+  "ResourceName": "Troubleshooters",
+  "Description": "This role can create, read, continue and restart a troubleshooter.",
+  "IsDataAction": false
+}

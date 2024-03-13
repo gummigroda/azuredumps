@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.GraphServices/register/action",
+  "OperationName": "Register the Microsoft.GraphServices",
+  "ProviderNamespace": "Microsoft.GraphServices",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.GraphServices",
+  "IsDataAction": false
+}

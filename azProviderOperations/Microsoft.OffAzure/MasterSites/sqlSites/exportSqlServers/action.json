@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/MasterSites/sqlSites/exportSqlServers/action",
+  "OperationName": "Export Sql servers",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Sql Site",
+  "Description": "Export Sql servers for the entire Sql site inventory",
+  "IsDataAction": false
+}

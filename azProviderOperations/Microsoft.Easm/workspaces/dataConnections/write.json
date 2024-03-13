@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/dataConnections/write",
+  "OperationName": "DataConnections_Put",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Create or update a data connection with a given dataConnectionName.",
+  "IsDataAction": true
+}

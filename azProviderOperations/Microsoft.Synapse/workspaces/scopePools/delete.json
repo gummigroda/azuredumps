@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/scopePools/delete",
+  "OperationName": "Delete Scope pools.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "Scope pools",
+  "Description": "Delete any Scope pools.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.IoTSecurity/onPremiseSensors/read",
+  "OperationName": "Get on-premise IoT Sensors",
+  "ProviderNamespace": "Microsoft IoT Security",
+  "ResourceName": "On-premise IoT Sensors",
+  "Description": "Gets on-premise IoT Sensors",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Advisor/triageRecommendations/approve/action",
+  "OperationName": "Approves triageRecommendations",
+  "ProviderNamespace": "Microsoft Advisor",
+  "ResourceName": "triageRecommendations",
+  "Description": "Approve triageRecommendations",
+  "IsDataAction": false
+}

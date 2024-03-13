@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/capacities/delete",
+  "OperationName": "Delete the Power BI Dedicated Capacity",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "capacities",
+  "Description": "Deletes the Power BI Dedicated Capacity.",
+  "IsDataAction": false
+}

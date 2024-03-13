@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/jobscancel/action",
+  "OperationName": "Cancel a long-running Text Analysis job",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "analyze-text*",
+  "Description": "Cancel a long-running Text Analysis job.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkTaps/networkInterfaceTapConfigurationProxies/delete",
+  "OperationName": "Delete Network Interface Tap Configuration Proxy.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface Tap Configuration Proxy.",
+  "Description": "Deletes a Network Interface Tap Configuration Proxy.",
+  "IsDataAction": false
+}

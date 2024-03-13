@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DevTestLab/labs/virtualMachines/Redeploy/action",
+  "OperationName": "Redeploy a virtual machine",
+  "ProviderNamespace": "Microsoft DevTest Labs",
+  "ResourceName": "Virtual machines",
+  "Description": "Redeploy a virtual machine",
+  "IsDataAction": false
+}

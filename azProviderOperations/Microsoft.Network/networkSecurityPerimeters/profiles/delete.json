@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkSecurityPerimeters/profiles/delete",
+  "OperationName": "Deletes a Network Security Perimeter Profile",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Security Perimeter Profile",
+  "Description": "Deletes a Network Security Perimeter Profile",
+  "IsDataAction": false
+}

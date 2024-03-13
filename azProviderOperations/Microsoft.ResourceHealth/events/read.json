@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceHealth/events/read",
+  "OperationName": "Get Service Health Events",
+  "ProviderNamespace": "Microsoft ResourceHealth",
+  "ResourceName": "Events",
+  "Description": "Get Service Health Events for given subscription",
+  "IsDataAction": false
+}

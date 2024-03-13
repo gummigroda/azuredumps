@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.vmware/arczones/Delete",
+  "OperationName": "Deletes arczones resource",
+  "ProviderNamespace": "microsoft.vmware",
+  "ResourceName": "arczones",
+  "Description": "Deletes arczones",
+  "IsDataAction": false
+}

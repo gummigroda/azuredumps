@@ -1,0 +1,8 @@
+{
+  "Operation": "Dynatrace.Observability/monitors/read",
+  "OperationName": "Get/List monitor resources",
+  "ProviderNamespace": "Dynatrace.Observability",
+  "ResourceName": "Monitors",
+  "Description": "Read monitors",
+  "IsDataAction": false
+}

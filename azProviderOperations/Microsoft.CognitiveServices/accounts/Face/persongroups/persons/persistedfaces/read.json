@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Face/persongroups/persons/persistedfaces/read",
+  "OperationName": "PersonGroup Person - Get Face",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "persistedfaces*",
+  "Description": "Retrieve person face information. The persisted person face is specified by its personGroupId, personId and persistedFaceId.",
+  "IsDataAction": true
+}

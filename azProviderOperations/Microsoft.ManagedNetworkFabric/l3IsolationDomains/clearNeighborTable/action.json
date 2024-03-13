@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/l3IsolationDomains/clearNeighborTable/action",
+  "OperationName": "L3IsolationDomains_clearNeighborTable",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "l3IsolationDomains",
+  "Description": "Clears IPv6 neighbor tables for this Isolation Domain.",
+  "IsDataAction": false
+}

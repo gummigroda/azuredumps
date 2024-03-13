@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/privateEndpointConnections/read",
+  "OperationName": "Read private endpoint connections",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Private endpoint connection resource",
+  "Description": "Reads private endpoint connections.",
+  "IsDataAction": false
+}

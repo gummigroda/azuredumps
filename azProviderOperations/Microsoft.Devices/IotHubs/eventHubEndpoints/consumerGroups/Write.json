@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/eventHubEndpoints/consumerGroups/Write",
+  "OperationName": "Create EventHub Consumer Group",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Create EventHub Consumer Group",
+  "IsDataAction": false
+}

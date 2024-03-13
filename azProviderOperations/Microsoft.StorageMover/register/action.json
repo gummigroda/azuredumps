@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.StorageMover/register/action",
+  "OperationName": "Register the Microsoft.StorageMover",
+  "ProviderNamespace": "Microsoft.StorageMover",
+  "ResourceName": "",
+  "Description": "Register the subscription for Microsoft.StorageMover",
+  "IsDataAction": false
+}

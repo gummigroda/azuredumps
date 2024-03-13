@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/networkSecurityPerimeterConfigurations/read",
+  "OperationName": "NSP Configuration read operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Network Security Perimeter Configuration.",
+  "Description": "Network Security Perimeter Configuration read description.",
+  "IsDataAction": false
+}

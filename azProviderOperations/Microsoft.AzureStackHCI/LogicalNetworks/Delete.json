@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/LogicalNetworks/Delete",
+  "OperationName": "Deletes logical networks resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "LogicalNetworks",
+  "Description": "Deletes logical networks resource",
+  "IsDataAction": false
+}

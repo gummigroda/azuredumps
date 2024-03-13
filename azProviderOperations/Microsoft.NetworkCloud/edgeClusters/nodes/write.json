@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkCloud/edgeClusters/nodes/write",
+  "OperationName": "EdgeClusterNodes_Update",
+  "ProviderNamespace": "Microsoft.NetworkCloud",
+  "ResourceName": "edgeClusters/nodes",
+  "Description": "Patch properties of the provided edge cluster node, or update the tags assigned to the edge cluster node. Properties and tag updates can be done independently.",
+  "IsDataAction": false
+}

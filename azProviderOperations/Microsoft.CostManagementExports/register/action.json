@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CostManagementExports/register/action",
+  "OperationName": "Register Subscriptions",
+  "ProviderNamespace": "Microsoft.CostManagementExports",
+  "ResourceName": "",
+  "Description": "Register action for scope of Microsoft.CostManagementExports by a subscription.",
+  "IsDataAction": false
+}

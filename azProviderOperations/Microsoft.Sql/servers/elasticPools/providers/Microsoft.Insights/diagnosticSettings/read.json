@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/elasticPools/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read diagnostic setting",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Elastic Database Pool Diagnostic Settings",
+  "Description": "Gets the diagnostic setting for the resource",
+  "IsDataAction": false
+}

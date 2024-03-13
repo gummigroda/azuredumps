@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/Update/Read",
+  "OperationName": "Read Update data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Update",
+  "Description": "Read data from the Update table",
+  "IsDataAction": false
+}

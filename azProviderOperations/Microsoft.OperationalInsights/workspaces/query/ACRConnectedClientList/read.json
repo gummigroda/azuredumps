@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/ACRConnectedClientList/read",
+  "OperationName": "Read ACRConnectedClientList data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ACRConnectedClientList",
+  "Description": "Read data from the ACRConnectedClientList table",
+  "IsDataAction": false
+}

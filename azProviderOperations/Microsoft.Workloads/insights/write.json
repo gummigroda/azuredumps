@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Workloads/insights/write",
+  "OperationName": "Insights_Update",
+  "ProviderNamespace": "Microsoft.Workloads",
+  "ResourceName": "insights",
+  "Description": "Patches the Workload Insights instance for the specified subscription, resource group, and instance name.",
+  "IsDataAction": false
+}

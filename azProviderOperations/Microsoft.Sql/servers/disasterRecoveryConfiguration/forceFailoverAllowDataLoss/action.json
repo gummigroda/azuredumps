@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Sql/servers/disasterRecoveryConfiguration/forceFailoverAllowDataLoss/action",
+  "OperationName": "Force Failover a DisasterRecoveryConfiguration",
+  "ProviderNamespace": "Microsoft SQL Database",
+  "ResourceName": "Disaster Recovery Configuration",
+  "Description": "Force Failover a DisasterRecoveryConfiguration",
+  "IsDataAction": false
+}

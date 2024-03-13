@@ -1,0 +1,8 @@
+{
+  "Operation": "SolarWinds.Observability/organizations/singleSignOnConfigurations/delete",
+  "OperationName": "SingleSignOnOperations_Delete",
+  "ProviderNamespace": "SolarWinds.Observability",
+  "ResourceName": "organizations/singleSignOnConfigurations",
+  "Description": "Delete aSingleSignOn",
+  "IsDataAction": false
+}

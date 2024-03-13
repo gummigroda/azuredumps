@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/apis/autoscaling/v2beta2/read",
+  "OperationName": "Gets/List autoscaling/v2beta2 resource",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "Autoscaling/V2beta2",
+  "Description": "Reads autoscaling/v2beta2",
+  "IsDataAction": true
+}

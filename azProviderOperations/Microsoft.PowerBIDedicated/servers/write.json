@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.PowerBIDedicated/servers/write",
+  "OperationName": "Create/Update Power BI Dedicated Server",
+  "ProviderNamespace": "Microsoft Power BI Dedicated",
+  "ResourceName": "servers",
+  "Description": "Creates or updates the specified Power BI Dedicated Server",
+  "IsDataAction": false
+}

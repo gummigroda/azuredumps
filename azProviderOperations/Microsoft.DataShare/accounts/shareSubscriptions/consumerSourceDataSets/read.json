@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataShare/accounts/shareSubscriptions/consumerSourceDataSets/read",
+  "OperationName": "Read Data Share ConsumerSourceDataSet",
+  "ProviderNamespace": "Microsoft Data Share",
+  "ResourceName": "Data Share ConsumerSourceDataSet",
+  "Description": "Reads a Data Share Consumer Source DataSet.",
+  "IsDataAction": false
+}

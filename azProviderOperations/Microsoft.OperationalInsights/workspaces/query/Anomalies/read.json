@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/Anomalies/read",
+  "OperationName": "Read Anomalies data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Anomalies",
+  "Description": "Read data from the Anomalies table",
+  "IsDataAction": false
+}

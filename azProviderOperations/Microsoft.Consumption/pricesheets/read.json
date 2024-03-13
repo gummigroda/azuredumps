@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Consumption/pricesheets/read",
+  "OperationName": "List Price sheets",
+  "ProviderNamespace": "Microsoft.Consumption",
+  "ResourceName": "Pricesheets",
+  "Description": "List the Pricesheets data for a subscription or a management group.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/securityPartnerProviders/validate/action",
+  "OperationName": "Validate SecurityPartnerProvider",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "SecurityPartnerProviders",
+  "Description": "Validates a SecurityPartnerProvider",
+  "IsDataAction": false
+}

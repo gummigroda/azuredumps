@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Storage/storageAccounts/tableServices/tables/entities/add/action",
+  "OperationName": "Insert table entities",
+  "ProviderNamespace": "Microsoft Storage",
+  "ResourceName": "Storage Table Entities",
+  "Description": "Insert table entities",
+  "IsDataAction": true
+}

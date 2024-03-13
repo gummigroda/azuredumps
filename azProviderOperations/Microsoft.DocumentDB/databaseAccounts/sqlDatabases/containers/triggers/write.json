@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/triggers/write",
+  "OperationName": "Write SQL trigger",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "SQL Tirgger",
+  "Description": "Create or update a SQL trigger.",
+  "IsDataAction": false
+}

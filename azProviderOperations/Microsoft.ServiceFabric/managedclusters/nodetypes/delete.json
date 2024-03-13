@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceFabric/managedclusters/nodetypes/delete",
+  "OperationName": "Delete Node Type",
+  "ProviderNamespace": "Microsoft ServiceFabric",
+  "ResourceName": "Node Types",
+  "Description": "Delete Node Type",
+  "IsDataAction": false
+}

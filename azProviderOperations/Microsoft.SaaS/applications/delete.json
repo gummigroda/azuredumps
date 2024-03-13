@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SaaS/applications/delete",
+  "OperationName": "Delete SaaS Application",
+  "ProviderNamespace": "Microsoft",
+  "ResourceName": "SaaS Application",
+  "Description": "Deletes any SaaS Application",
+  "IsDataAction": false
+}

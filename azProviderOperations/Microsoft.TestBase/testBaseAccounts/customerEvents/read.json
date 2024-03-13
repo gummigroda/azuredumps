@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.TestBase/testBaseAccounts/customerEvents/read",
+  "OperationName": "CustomerEvents_Get",
+  "ProviderNamespace": "Microsoft.TestBase",
+  "ResourceName": "testBaseAccounts/customerEvents",
+  "Description": "Gets a Test Base CustomerEvent.",
+  "IsDataAction": false
+}

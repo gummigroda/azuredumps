@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/healthz/poststarthook/start-apiextensions-controllers/read",
+  "OperationName": "Gets/List start-apiextensions-controllers resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "healthz/poststarthook/start-apiextensions-controllers",
+  "Description": "Reads start-apiextensions-controllers",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/apps/versions/read",
+  "OperationName": "Versions - Get version or Get versions list",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Versions",
+  "Description": "Gets the application version info.\r\nGets the info for the list of application versions.",
+  "IsDataAction": true
+}

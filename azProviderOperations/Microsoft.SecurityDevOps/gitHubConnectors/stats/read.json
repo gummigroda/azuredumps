@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SecurityDevOps/gitHubConnectors/stats/read",
+  "OperationName": "GitHubConnectorStatistics_List",
+  "ProviderNamespace": "Microsoft.SecurityDevOps",
+  "ResourceName": "gitHubConnectors/stats",
+  "Description": "read stats",
+  "IsDataAction": false
+}

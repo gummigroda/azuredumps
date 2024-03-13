@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/networkSecurityPerimeterAssociationProxies/delete",
+  "OperationName": "Delete NspAssociationProxies for topics",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "networkSecurityPerimeterAssociationProxies",
+  "Description": "Delete NspAssociationProxies for topics",
+  "IsDataAction": false
+}

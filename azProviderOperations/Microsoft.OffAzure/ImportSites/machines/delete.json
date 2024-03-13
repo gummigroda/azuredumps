@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ImportSites/machines/delete",
+  "OperationName": "Delete Import machine",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Deletes the Import machine",
+  "IsDataAction": false
+}

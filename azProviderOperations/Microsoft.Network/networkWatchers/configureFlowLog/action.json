@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkWatchers/configureFlowLog/action",
+  "OperationName": "Configure Flow Log",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Watcher",
+  "Description": "Configures flow logging for a target resource.",
+  "IsDataAction": false
+}

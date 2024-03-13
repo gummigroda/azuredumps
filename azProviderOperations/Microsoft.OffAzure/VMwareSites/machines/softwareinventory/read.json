@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/VMwareSites/machines/softwareinventory/read",
+  "OperationName": "GetsVMware machine software inventory data",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "Machines",
+  "Description": "Gets VMware machine software inventory data",
+  "IsDataAction": false
+}

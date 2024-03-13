@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DeviceUpdate/locations/operationStatuses/read",
+  "OperationName": "Get Operation Status",
+  "ProviderNamespace": "Microsoft.DeviceUpdate",
+  "ResourceName": "Device Update Operation Status",
+  "Description": "Gets an Operation Status",
+  "IsDataAction": false
+}

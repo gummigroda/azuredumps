@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/SynapseBuiltinSqlPoolRequestsEnded/read",
+  "OperationName": "Read SynapseBuiltinSqlPoolRequestsEnded data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "SynapseBuiltinSqlPoolRequestsEnded",
+  "Description": "Read data from the SynapseBuiltinSqlPoolRequestsEnded table",
+  "IsDataAction": false
+}

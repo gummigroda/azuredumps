@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/write",
+  "OperationName": "Create policy assignment",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy assignment",
+  "Description": "Create a policy assignment at the specified scope.",
+  "IsDataAction": false
+}

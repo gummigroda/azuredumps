@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.LabServices/labAccounts/sharedGalleries/write",
+  "OperationName": "Add or modify sharedgalleries.",
+  "ProviderNamespace": "Microsoft Azure Lab Services",
+  "ResourceName": "SharedGalleries",
+  "Description": "Add or modify sharedgalleries.",
+  "IsDataAction": false
+}

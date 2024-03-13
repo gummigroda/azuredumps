@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeMarketplace/operations/read",
+  "OperationName": "read_operations",
+  "ProviderNamespace": "Microsoft.EdgeMarketplace",
+  "ResourceName": "operations",
+  "Description": "read operations",
+  "IsDataAction": false
+}

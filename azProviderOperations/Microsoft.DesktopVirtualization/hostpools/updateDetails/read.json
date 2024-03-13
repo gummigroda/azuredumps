@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DesktopVirtualization/hostpools/updateDetails/read",
+  "OperationName": "updateDetails",
+  "ProviderNamespace": "Microsoft.DesktopVirtualization",
+  "ResourceName": "hostpools/updateDetails",
+  "Description": "Read updateDetails",
+  "IsDataAction": false
+}

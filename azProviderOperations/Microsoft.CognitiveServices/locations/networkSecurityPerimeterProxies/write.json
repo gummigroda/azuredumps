@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/locations/networkSecurityPerimeterProxies/write",
+  "OperationName": "Write a network security perimeter",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Network security perimeter resource",
+  "Description": "Writes a network security perimeter.",
+  "IsDataAction": false
+}

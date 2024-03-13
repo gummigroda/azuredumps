@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontDoors/loadBalancingSettings/write",
+  "OperationName": "Creates or updates load balancing settings",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Front Door Load Balancing Settings",
+  "Description": "Creates or updates load balancing settings",
+  "IsDataAction": false
+}

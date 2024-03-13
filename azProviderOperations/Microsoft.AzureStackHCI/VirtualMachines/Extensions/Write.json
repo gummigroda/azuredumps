@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/VirtualMachines/Extensions/Write",
+  "OperationName": "Creates/Updates virtual machine extensions resource",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "VirtualMachines/Extensions",
+  "Description": "Creates/Updates virtual machine extensions resource",
+  "IsDataAction": false
+}

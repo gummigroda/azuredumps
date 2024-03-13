@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/smfProfiles/read",
+  "OperationName": "SmfProfiles_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/smfProfiles",
+  "Description": "Lists all the Session Management Function Profiles in a mobile packet core instance.",
+  "IsDataAction": false
+}

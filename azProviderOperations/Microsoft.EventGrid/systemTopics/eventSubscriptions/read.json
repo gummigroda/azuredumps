@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/systemTopics/eventSubscriptions/read",
+  "OperationName": "Read SystemTopic EventSubscription",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "eventSubscriptions",
+  "Description": "Read a SystemTopic eventSubscription",
+  "IsDataAction": false
+}

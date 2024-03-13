@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents/Write",
+  "OperationName": "Write guestagents resource",
+  "ProviderNamespace": "Microsoft.ConnectedVMwarevSphere",
+  "ResourceName": "virtualmachines/guestagents",
+  "Description": "Write guestagent resource",
+  "IsDataAction": false
+}

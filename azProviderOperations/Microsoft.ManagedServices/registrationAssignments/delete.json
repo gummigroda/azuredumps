@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedServices/registrationAssignments/delete",
+  "OperationName": "Remove Managed Services Registration Assignment",
+  "ProviderNamespace": "Microsoft Managed Services",
+  "ResourceName": "Managed Services Registration Assignment",
+  "Description": "Removes Managed Services registration assignment.",
+  "IsDataAction": false
+}

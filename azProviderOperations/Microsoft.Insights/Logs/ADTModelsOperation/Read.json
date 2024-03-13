@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Logs/ADTModelsOperation/Read",
+  "OperationName": "Read ADTModelsOperation data",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "ADTModelsOperation",
+  "Description": "Read data from the ADTModelsOperation table",
+  "IsDataAction": false
+}

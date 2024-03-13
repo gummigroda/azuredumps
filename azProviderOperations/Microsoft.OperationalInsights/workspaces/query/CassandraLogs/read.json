@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/CassandraLogs/read",
+  "OperationName": "Read CassandraLogs data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "CassandraLogs",
+  "Description": "Read data from the CassandraLogs table",
+  "IsDataAction": false
+}

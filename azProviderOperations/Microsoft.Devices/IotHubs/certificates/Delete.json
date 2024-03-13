@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/certificates/Delete",
+  "OperationName": "Deletes Certificate",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "",
+  "Description": "Deletes Certificate",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/events/send/action",
+  "OperationName": "Send events",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "events",
+  "Description": "Send events to topics",
+  "IsDataAction": true
+}

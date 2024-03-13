@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.NetworkAnalytics/metricsIngestionEndpoints/write",
+  "OperationName": "MetricsIngestionEndpoints_Update",
+  "ProviderNamespace": "Microsoft.NetworkAnalytics",
+  "ResourceName": "metricsIngestionEndpoints",
+  "Description": "Update a MetricsIngestionEndpointResources",
+  "IsDataAction": false
+}

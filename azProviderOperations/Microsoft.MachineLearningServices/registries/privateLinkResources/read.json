@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/registries/privateLinkResources/read",
+  "OperationName": "Gets the available private link resources for the specified instance of the Machine Learning Services registry(ies)",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Services Workspace",
+  "Description": "Gets the available private link resources for the specified instance of the Machine Learning Services registry(ies)",
+  "IsDataAction": false
+}

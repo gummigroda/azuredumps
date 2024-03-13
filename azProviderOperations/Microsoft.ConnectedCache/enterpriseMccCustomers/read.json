@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ConnectedCache/enterpriseMccCustomers/read",
+  "OperationName": "EnterpriseMccCustomers_Get",
+  "ProviderNamespace": "Microsoft.ConnectedCache",
+  "ResourceName": "enterpriseMccCustomers",
+  "Description": "Gets the enterprise mcc customer resource information using this get call",
+  "IsDataAction": false
+}

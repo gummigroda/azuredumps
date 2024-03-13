@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/products/groups/read",
+  "OperationName": "Get product groups list",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Developer groups associated with product",
+  "Description": "Lists the collection of developer groups associated with the specified product.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/customhostnameSites/Read",
+  "OperationName": "Get custom hostnames under subscription",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "custom hostnames",
+  "Description": "Get info about custom hostnames under subscription.",
+  "IsDataAction": false
+}

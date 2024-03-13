@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AgFoodPlatform/farmBeats/farmers/seasonalFields/write",
+  "OperationName": "Create or Update AgFoodPlatform seasonal fields.",
+  "ProviderNamespace": "Microsoft AgFoodPlatform",
+  "ResourceName": "AgFoodPlatform seasonal fields",
+  "Description": "Creates or Updates AgFoodPlatform seasonal fields.",
+  "IsDataAction": true
+}

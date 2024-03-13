@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerRegistry/registries/buildTasks/steps/delete",
+  "OperationName": "Delete build step.",
+  "ProviderNamespace": "Microsoft ContainerRegistry",
+  "ResourceName": "Registries",
+  "Description": "Deletes a build step from a build task.",
+  "IsDataAction": false
+}

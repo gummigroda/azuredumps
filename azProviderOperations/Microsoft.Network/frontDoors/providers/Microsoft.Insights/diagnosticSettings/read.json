@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/frontdoors/providers/Microsoft.Insights/diagnosticSettings/read",
+  "OperationName": "Read Frontdoor diagnostic setting",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Frontdoor diagnostic setting",
+  "Description": "Get the diagnostic setting for the Frontdoor resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/raiPolicies/write",
+  "OperationName": "Puts a custom Responsible AI policy.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Responsible AI policies",
+  "Description": "Create or update a custom Responsible AI policy.",
+  "IsDataAction": false
+}

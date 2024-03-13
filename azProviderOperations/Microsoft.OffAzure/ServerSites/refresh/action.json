@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OffAzure/ServerSites/refresh/action",
+  "OperationName": "Refresh Server site",
+  "ProviderNamespace": "Microsoft.OffAzure",
+  "ResourceName": "ServerSites",
+  "Description": "Refreshes the objects within a Server site",
+  "IsDataAction": false
+}

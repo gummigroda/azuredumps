@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ServiceLinker/daprConfigurations/read",
+  "OperationName": "Linkers_ListDaprConfigurations",
+  "ProviderNamespace": "Microsoft.ServiceLinker",
+  "ResourceName": "daprConfigurations",
+  "Description": "List the dapr configuration supported by Service Connector.",
+  "IsDataAction": false
+}

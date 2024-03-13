@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Maps/accounts/regenerateKey/action",
+  "OperationName": "Generate new primary or secondary key",
+  "ProviderNamespace": "Microsoft.Maps",
+  "ResourceName": "Maps Account",
+  "Description": "Generate new Maps Account primary or secondary key.",
+  "IsDataAction": false
+}

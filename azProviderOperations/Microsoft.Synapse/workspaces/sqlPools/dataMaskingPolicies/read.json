@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/read",
+  "OperationName": "Return the list of  SQL Analytics pool data masking policies.",
+  "ProviderNamespace": "Azure Synapse Analytics (workspaces)",
+  "ResourceName": "SQL Analytics pool Data Masking Policy",
+  "Description": "Return the list of SQL Analytics pool data masking policies.",
+  "IsDataAction": false
+}

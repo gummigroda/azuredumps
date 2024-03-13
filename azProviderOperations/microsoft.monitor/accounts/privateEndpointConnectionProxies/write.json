@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.monitor/accounts/privateEndpointConnectionProxies/write",
+  "OperationName": "Create or Update Monitoring Account Private Endpoint Connection Proxies",
+  "ProviderNamespace": "Microsoft Monitoring",
+  "ResourceName": "Monitoring Accounts",
+  "Description": "Create or Update any Monitoring Account Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

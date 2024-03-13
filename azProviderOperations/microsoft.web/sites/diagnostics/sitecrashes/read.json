@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/diagnostics/sitecrashes/read",
+  "OperationName": "Get Web Apps Diagnostics Site Crashes",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web Apps Diagnostics Site Crashes",
+  "Description": "Get Web Apps Diagnostics Site Crashes.",
+  "IsDataAction": false
+}

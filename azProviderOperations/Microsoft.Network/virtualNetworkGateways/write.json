@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualNetworkGateways/write",
+  "OperationName": "Creates or updates a VirtualNetworkGateway",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "VirtualNetworkGateway",
+  "Description": "Creates or updates a VirtualNetworkGateway",
+  "IsDataAction": false
+}

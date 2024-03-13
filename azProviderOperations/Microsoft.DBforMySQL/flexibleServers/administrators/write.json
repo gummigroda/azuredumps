@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/administrators/write",
+  "OperationName": "Create/Update MySQL Server Administrator",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server Administrator",
+  "Description": "Creates an administrator with the specified parameters or updates an existing administrator",
+  "IsDataAction": false
+}

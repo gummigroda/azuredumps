@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataMigration/databaseMigrations/write",
+  "OperationName": "Create or Update Database Migration resource",
+  "ProviderNamespace": "Azure Database Migration Service",
+  "ResourceName": "Database Migration Resource",
+  "Description": "Create or Update Database Migration resource",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureActiveDirectory/b2cDirectories/write",
+  "OperationName": "Create or update B2C Dictory resource",
+  "ProviderNamespace": "Microsoft Azure Active Directory",
+  "ResourceName": "B2C Directory",
+  "Description": "Create or update B2C Dictory resource",
+  "IsDataAction": false
+}

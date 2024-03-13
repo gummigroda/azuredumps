@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/delete",
+  "OperationName": "Delete roles",
+  "ProviderNamespace": "Microsoft.DataBoxEdge",
+  "ResourceName": "roles",
+  "Description": "Deletes the roles",
+  "IsDataAction": false
+}

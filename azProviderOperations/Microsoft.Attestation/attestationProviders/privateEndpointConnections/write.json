@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Attestation/attestationProviders/privateEndpointConnections/write",
+  "OperationName": "Private endpoints write operation.",
+  "ProviderNamespace": "Microsoft Azure Attestation",
+  "ResourceName": "Private endpoints resource name.",
+  "Description": "Private endpoints write description.",
+  "IsDataAction": false
+}

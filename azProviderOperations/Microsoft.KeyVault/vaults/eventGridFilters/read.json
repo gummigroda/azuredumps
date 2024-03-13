@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.KeyVault/vaults/eventGridFilters/read",
+  "OperationName": "View EventGrid Subscription for Key Vault notification",
+  "ProviderNamespace": "Microsoft Key Vault",
+  "ResourceName": "EventGrid Subscription for Key Vault",
+  "Description": "Notifies Microsoft.KeyVault that an EventGrid Subscription for Key Vault is being viewed",
+  "IsDataAction": false
+}

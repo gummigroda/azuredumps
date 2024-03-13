@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyAssignments/resourceManagementPrivateLinks/delete",
+  "OperationName": "Delete a Resource Management Private Link",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Resource Management Private Link",
+  "Description": "Deletes a resource management private link.",
+  "IsDataAction": false
+}

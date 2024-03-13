@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ClassicCompute/virtualMachines/read",
+  "OperationName": "Retrieve Virtual Machines",
+  "ProviderNamespace": "Microsoft ClassicCompute",
+  "ResourceName": "Virtual Machine",
+  "Description": "Retrieves list of virtual machines.",
+  "IsDataAction": false
+}

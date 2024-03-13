@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/delete",
+  "OperationName": "Delete Azure Digital Twins resource",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "digitalTwinsInstances",
+  "Description": "Delete an Microsoft.DigitalTwins/digitalTwinsInstances resource",
+  "IsDataAction": false
+}

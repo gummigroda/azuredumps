@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Marketplace/privateStores/RequestApprovals/withdrawPlan/write",
+  "OperationName": "Withdraw a plan from offer's notification",
+  "ProviderNamespace": "Microsoft Marketplace",
+  "ResourceName": "Withdraw offer's notification plan",
+  "Description": "Withdraw a plan from offer's notifications",
+  "IsDataAction": false
+}

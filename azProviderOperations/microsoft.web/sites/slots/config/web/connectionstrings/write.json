@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/slots/config/web/connectionstrings/write",
+  "OperationName": "Create or Update Web App Slot's single sonnection string",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Web App Slot Connectionstring",
+  "Description": "Create or Update Web App Slot's single sonnection string",
+  "IsDataAction": false
+}

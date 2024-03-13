@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/TextTranslation/transliterate/action",
+  "OperationName": "Transliterate",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Translator Text API",
+  "Description": "Converts text in one language from one script to another script.",
+  "IsDataAction": true
+}

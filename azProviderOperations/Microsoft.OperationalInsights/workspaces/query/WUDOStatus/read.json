@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/WUDOStatus/read",
+  "OperationName": "Read WUDOStatus data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "WUDOStatus",
+  "Description": "Read data from the WUDOStatus table",
+  "IsDataAction": false
+}

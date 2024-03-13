@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-conversations/projects/authorize-copy/action",
+  "OperationName": "Copy project authorization",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "projects*",
+  "Description": "Generates a copy project operation authorization to the current target Azure resource.",
+  "IsDataAction": true
+}

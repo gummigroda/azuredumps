@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/Language/analyze-text/projects/exported-models/write",
+  "OperationName": "Create or replace exported model.",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "exported-models*",
+  "Description": "Creates a new exported model or replaces an existing one.",
+  "IsDataAction": true
+}

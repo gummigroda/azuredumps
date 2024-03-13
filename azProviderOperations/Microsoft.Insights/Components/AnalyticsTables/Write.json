@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Insights/Components/AnalyticsTables/Write",
+  "OperationName": "Application Insights analytics table write",
+  "ProviderNamespace": "Microsoft Azure Monitor",
+  "ResourceName": "Application Insights analytics table",
+  "Description": "Writing an Application Insights analytics table schema",
+  "IsDataAction": false
+}

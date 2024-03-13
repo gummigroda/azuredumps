@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Automation/automationAccounts/runbooks/getCount/action",
+  "OperationName": "Get the count of Azure Automation runbooks",
+  "ProviderNamespace": "Microsoft Automation",
+  "ResourceName": "Azure Automation Runbook",
+  "Description": "Gets the count of Azure Automation runbooks",
+  "IsDataAction": false
+}

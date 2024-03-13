@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerInstance/containerScaleSets/containerGroups/stop/action",
+  "OperationName": "Stop Container Groups in a Container Scale Set",
+  "ProviderNamespace": "Microsoft Container Instance",
+  "ResourceName": "Container Scale Set",
+  "Description": "Stop specific contianer groups in a container scale set.",
+  "IsDataAction": false
+}

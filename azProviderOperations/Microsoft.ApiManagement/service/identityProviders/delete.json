@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/service/identityProviders/delete",
+  "OperationName": "Remove Identity Provider",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Identity Providers",
+  "Description": "Deletes the specified identity provider configuration.",
+  "IsDataAction": false
+}

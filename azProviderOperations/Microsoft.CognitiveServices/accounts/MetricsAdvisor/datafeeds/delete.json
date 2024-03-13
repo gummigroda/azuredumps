@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/MetricsAdvisor/datafeeds/delete",
+  "OperationName": "Delete a data feed",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Data feed",
+  "Description": "Delete a data feed",
+  "IsDataAction": true
+}

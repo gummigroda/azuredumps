@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Easm/workspaces/read",
+  "OperationName": "Workspaces_Get",
+  "ProviderNamespace": "Microsoft.Easm",
+  "ResourceName": "workspaces",
+  "Description": "Retrieve a workspace by workspaceName.",
+  "IsDataAction": true
+}

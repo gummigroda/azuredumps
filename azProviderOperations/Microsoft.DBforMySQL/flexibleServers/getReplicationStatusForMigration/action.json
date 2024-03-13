@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforMySQL/flexibleServers/getReplicationStatusForMigration/action",
+  "OperationName": "Get replication status for auto migration",
+  "ProviderNamespace": "Microsoft DB for MySQL",
+  "ResourceName": "MySQL Server",
+  "Description": "Return whether the replication is able to migration.",
+  "IsDataAction": false
+}

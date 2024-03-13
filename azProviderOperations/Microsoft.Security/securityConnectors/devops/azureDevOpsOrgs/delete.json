@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/delete",
+  "OperationName": "AzureDevOpsOrgs_Delete",
+  "ProviderNamespace": "Microsoft Security",
+  "ResourceName": "Security Connectors DevOps AzureDevOpsOrgs",
+  "Description": "Deletes a monitored Azure DevOps organization.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MachineLearningServices/workspaces/listNotebookAccessToken/read",
+  "OperationName": "List Azure Notebook Access Token for a Machine Learning Services Workspace",
+  "ProviderNamespace": "Machine Learning Services Resource Provider",
+  "ResourceName": "Machine Learning Service Workspace",
+  "Description": "List Azure Notebook Access Token for a Machine Learning Services Workspace",
+  "IsDataAction": false
+}

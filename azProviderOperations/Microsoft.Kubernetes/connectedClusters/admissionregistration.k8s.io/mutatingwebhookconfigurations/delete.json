@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kubernetes/connectedClusters/admissionregistration.k8s.io/mutatingwebhookconfigurations/delete",
+  "OperationName": "Deletes/DeletesCollection mutatingwebhookconfigurations resource",
+  "ProviderNamespace": "Microsoft.Kubernetes",
+  "ResourceName": "mutatingwebhookconfigurations",
+  "Description": "Deletes mutatingwebhookconfigurations",
+  "IsDataAction": true
+}

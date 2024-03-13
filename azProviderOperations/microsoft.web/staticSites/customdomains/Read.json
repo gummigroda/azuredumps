@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Web/staticSites/customdomains/Read",
+  "OperationName": "List Static Site Custom Domains",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "Static Site Custom Domain",
+  "Description": "List the custom domains for a Static Site",
+  "IsDataAction": false
+}

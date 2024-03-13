@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkInterfaces/ipconfigurations/read",
+  "OperationName": "Get Network Interface IP Configuration",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Interface IP Configuration",
+  "Description": "Gets a network interface ip configuration definition. ",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/containerapps/privateendpointconnectionproxies/validate/action",
+  "OperationName": "Validate Container App Private Endpoint Connection Proxy",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Container App Private Endpoint Connection Proxy",
+  "Description": "Validate Container App Private Endpoint Connection Proxy",
+  "IsDataAction": false
+}

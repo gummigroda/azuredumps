@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceGraph/operations/read",
+  "OperationName": "Get Operations",
+  "ProviderNamespace": "Microsoft Resource Graph",
+  "ResourceName": "Operation",
+  "Description": "Gets the list of supported operations",
+  "IsDataAction": false
+}

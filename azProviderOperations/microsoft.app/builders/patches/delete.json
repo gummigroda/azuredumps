@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/builders/patches/delete",
+  "OperationName": "Delete Builder's Patch",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Patch",
+  "Description": "Delete a Builder's Patch",
+  "IsDataAction": false
+}

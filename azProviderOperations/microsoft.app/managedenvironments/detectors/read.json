@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/managedenvironments/detectors/read",
+  "OperationName": "Read Managed Environment Detector",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Managed Environment Detector",
+  "Description": "Get detector of a managed environment",
+  "IsDataAction": false
+}

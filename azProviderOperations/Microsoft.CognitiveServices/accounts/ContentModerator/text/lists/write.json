@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ContentModerator/text/lists/write",
+  "OperationName": "Create Or Update Text List",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "lists*",
+  "Description": "Updates an Text List by listId, , if listId not exists, create a new Text List",
+  "IsDataAction": true
+}

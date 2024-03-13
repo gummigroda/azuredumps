@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkVirtualAppliances/getDelegatedSubnets/action",
+  "OperationName": "Get Network Virtual Appliance delegated subnets",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Network Virtual Appliance",
+  "Description": "Get Network Virtual Appliance delegated subnets",
+  "IsDataAction": false
+}

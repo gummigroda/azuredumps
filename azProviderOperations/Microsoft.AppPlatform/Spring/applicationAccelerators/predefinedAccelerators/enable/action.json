@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AppPlatform/Spring/applicationAccelerators/predefinedAccelerators/enable/action",
+  "OperationName": "Enable Microsoft Azure Spring Apps Predefined Accelerator",
+  "ProviderNamespace": "Microsoft Azure Spring Apps",
+  "ResourceName": "The Predefined Accelerator of Microsoft Azure Spring Apps",
+  "Description": "Enable Predefined Accelerator for a specific Azure Spring Apps service instance",
+  "IsDataAction": false
+}

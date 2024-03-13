@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/certificates/delete",
+  "OperationName": "Delete Integration Account Certificate",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Integration Account Certificate",
+  "Description": "Deletes the certificate in integration account.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/read",
+  "OperationName": "List/Get Azure Database for PostgreSQL Flexible Server Advanced Threat Protection states.",
+  "ProviderNamespace": "Microsoft DB for PostgreSQL",
+  "ResourceName": "Azure Database for PostgreSQL Server Advanced Threat Protection",
+  "Description": "Returns the list of Advanced Threat Protection or gets the properties for the specified Advanced Threat Protection.",
+  "IsDataAction": false
+}

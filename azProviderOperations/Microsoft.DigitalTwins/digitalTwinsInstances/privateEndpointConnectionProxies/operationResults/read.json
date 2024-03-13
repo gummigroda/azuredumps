@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnectionProxies/operationResults/read",
+  "OperationName": "Get PrivateEndpointConnectionProxies Async Operation Result",
+  "ProviderNamespace": "Azure Digital Twins",
+  "ResourceName": "PrivateEndpointConnectionProxies",
+  "Description": "Get the result of an async operation on a private endpoint connection proxy",
+  "IsDataAction": false
+}

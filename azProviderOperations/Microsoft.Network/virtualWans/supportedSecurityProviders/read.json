@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/virtualwans/supportedSecurityProviders/read",
+  "OperationName": "Gets supported VirtualWan Security Providers.",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Represents a VirtualWan SupportedSecurityProviders",
+  "Description": "Gets supported VirtualWan Security Providers.",
+  "IsDataAction": false
+}

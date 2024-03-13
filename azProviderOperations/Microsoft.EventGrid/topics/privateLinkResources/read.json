@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EventGrid/topics/privateLinkResources/read",
+  "OperationName": "Read PrivateLinkResources for topics",
+  "ProviderNamespace": "Microsoft Event Grid",
+  "ResourceName": "privateLinkResources",
+  "Description": "Read PrivateLinkResources for topics",
+  "IsDataAction": false
+}

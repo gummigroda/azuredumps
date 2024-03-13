@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/UCUpdateAlert/read",
+  "OperationName": "Read UCUpdateAlert data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "UCUpdateAlert",
+  "Description": "Read data from the UCUpdateAlert table",
+  "IsDataAction": false
+}

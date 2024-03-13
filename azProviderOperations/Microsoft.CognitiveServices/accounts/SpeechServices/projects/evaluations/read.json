@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/SpeechServices/projects/evaluations/read",
+  "OperationName": "Get Evaluations for Project",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "evaluations*",
+  "Description": "Gets the list of evaluations for specified project.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ResourceNotifications/eventGridFilters/write",
+  "OperationName": "Create/Update event grid filters",
+  "ProviderNamespace": "Microsoft Resource Notifications",
+  "ResourceName": "Event grid filters",
+  "Description": "Creates/Updates the specified event grid filters",
+  "IsDataAction": false
+}

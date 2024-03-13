@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DataFactory/factories/integrationruntimes/upgrade/action",
+  "OperationName": "Upgrade Integration Runtime",
+  "ProviderNamespace": "Microsoft Data Factory",
+  "ResourceName": "Integration Runtime",
+  "Description": "Upgrades the specified Integration Runtime.",
+  "IsDataAction": false
+}

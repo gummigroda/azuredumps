@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Mission/internalConnections/write",
+  "OperationName": "InternalConnections_Update",
+  "ProviderNamespace": "Microsoft.Mission",
+  "ResourceName": "internalConnections",
+  "Description": "Update a InternalConnection",
+  "IsDataAction": false
+}

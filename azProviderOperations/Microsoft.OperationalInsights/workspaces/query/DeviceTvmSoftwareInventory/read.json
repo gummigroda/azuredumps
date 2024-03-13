@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.OperationalInsights/workspaces/query/DeviceTvmSoftwareInventory/read",
+  "OperationName": "Read DeviceTvmSoftwareInventory data",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "DeviceTvmSoftwareInventory",
+  "Description": "Read data from the DeviceTvmSoftwareInventory table",
+  "IsDataAction": false
+}

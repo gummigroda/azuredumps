@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/write",
+  "OperationName": "(Deprecated. Please use resource paths without '/apis/' segment) Write table",
+  "ProviderNamespace": "Microsoft DocumentDB",
+  "ResourceName": "Table",
+  "Description": "(Deprecated. Please use resource paths without '/apis/' segment) Create or update a table. Only applicable to API types: 'cassandra'.",
+  "IsDataAction": false
+}

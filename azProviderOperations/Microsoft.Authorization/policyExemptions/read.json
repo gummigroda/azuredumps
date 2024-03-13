@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Authorization/policyExemptions/read",
+  "OperationName": "Get policy exemption",
+  "ProviderNamespace": "Microsoft Authorization",
+  "ResourceName": "Policy exemption",
+  "Description": "Get information about a policy exemption.",
+  "IsDataAction": false
+}

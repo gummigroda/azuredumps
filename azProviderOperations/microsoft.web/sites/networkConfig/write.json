@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.web/sites/networkConfig/write",
+  "OperationName": "Update App Service Network Configuration",
+  "ProviderNamespace": "Microsoft Web Apps",
+  "ResourceName": "App Service Network Configuration",
+  "Description": "Update App Service Network Configuration.",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Bing/accounts/delete",
+  "OperationName": "Delete Accounts",
+  "ProviderNamespace": "Bing Search",
+  "ResourceName": "Bing Search Account",
+  "Description": "Delete accounts",
+  "IsDataAction": false
+}

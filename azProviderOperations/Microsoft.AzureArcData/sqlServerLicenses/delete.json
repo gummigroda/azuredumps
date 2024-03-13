@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureArcData/sqlServerLicenses/delete",
+  "OperationName": "SqlServerLicenses_Delete",
+  "ProviderNamespace": "Microsoft.AzureArcData",
+  "ResourceName": "sqlServerLicenses",
+  "Description": "Deletes a SQL Server license resource",
+  "IsDataAction": false
+}

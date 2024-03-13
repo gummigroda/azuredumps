@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabricControllers/write",
+  "OperationName": "NetworkFabricControllers_Update",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabricControllers",
+  "Description": "Updates are currently not supported for the Network Fabric Controller resource.",
+  "IsDataAction": false
+}

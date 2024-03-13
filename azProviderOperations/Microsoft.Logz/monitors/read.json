@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logz/monitors/read",
+  "OperationName": "Get/List monitor resources",
+  "ProviderNamespace": "Microsoft.Logz",
+  "ResourceName": "Monitors",
+  "Description": "Read monitors",
+  "IsDataAction": false
+}

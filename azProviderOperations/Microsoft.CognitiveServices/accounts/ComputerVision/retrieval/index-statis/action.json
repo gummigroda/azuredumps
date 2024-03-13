@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/ComputerVision/retrieval/index-statis/action",
+  "OperationName": "GeIndexStatistics",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "Computer Vision Service",
+  "Description": "Get index statistics inforamtion for the given users.",
+  "IsDataAction": true
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Elastic/monitors/vmIngestionDetails/action",
+  "OperationName": "Get VM Ingestion details",
+  "ProviderNamespace": "Microsoft.Elastic",
+  "ResourceName": "Monitors",
+  "Description": "Get VM Ingestion details",
+  "IsDataAction": false
+}

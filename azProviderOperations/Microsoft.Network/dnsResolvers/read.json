@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/dnsResolvers/read",
+  "OperationName": "Get DNS Resolver",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "DNS Resolver",
+  "Description": "Gets the DNS Resolver Properties, in JSON format",
+  "IsDataAction": false
+}

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiCenter/services/workspaces/apis/deployments/read",
+  "OperationName": "List API deployments",
+  "ProviderNamespace": "Microsoft Azure API Center",
+  "ResourceName": "API Deployment",
+  "Description": "Returns paginated collection of API deployments.",
+  "IsDataAction": false
+}

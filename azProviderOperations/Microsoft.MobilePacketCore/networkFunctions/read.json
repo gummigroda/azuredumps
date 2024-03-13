@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/networkFunctions/read",
+  "OperationName": "NetworkFunctions_Get",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "networkFunctions",
+  "Description": "Get a NetworkFunctionResource",
+  "IsDataAction": false
+}

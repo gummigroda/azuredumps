@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.AzureStackHCI/Clusters/ArcSettings/Extensions/Read",
+  "OperationName": "Gets/List extension resources of HCI cluster",
+  "ProviderNamespace": "Microsoft.AzureStackHCI",
+  "ResourceName": "Clusters/ArcSettings/Extensions",
+  "Description": "Gets extension resource of HCI cluster",
+  "IsDataAction": false
+}

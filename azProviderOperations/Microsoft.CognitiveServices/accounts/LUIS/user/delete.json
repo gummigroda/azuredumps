@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.CognitiveServices/accounts/LUIS/user/delete",
+  "OperationName": "user - RemoveUser",
+  "ProviderNamespace": "Microsoft Cognitive Services",
+  "ResourceName": "user*",
+  "Description": "*NotDefined*",
+  "IsDataAction": true
+}
