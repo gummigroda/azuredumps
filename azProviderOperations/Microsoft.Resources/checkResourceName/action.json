@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkResourceName/action",
-  "OperationName": "检查资源名称",
-  "ProviderNamespace": "Microsoft 资源",
+  "OperationName": "Erőforrásnév ellenőrzése",
+  "ProviderNamespace": "Microsoft-erőforrások",
   "ResourceName": "",
-  "Description": "检查资源名称是否有效。",
+  "Description": "Erőforrásnév érvényességének ellenőrzése.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/locations/moboOperationStatuses/read",
-  "OperationName": "获取 Mobo 服务操作状态",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "Mobo 服务操作状态",
-  "Description": "读取资源的 Mobo 服务操作状态。",
+  "OperationName": "A Mobo szolgáltatásműveleti állapot beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Mobo szolgáltatásműveleti állapot",
+  "Description": "Az erőforrás Mobo szolgáltatásműveleti állapotának beolvasása.",
   "IsDataAction": false
 }

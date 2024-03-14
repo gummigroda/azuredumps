@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/querypacks/write",
+  "OperationName": "Create or Update Query Packs",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Query Pack",
+  "Description": "Create or Update Query Packs.",
+  "IsDataAction": false
+}

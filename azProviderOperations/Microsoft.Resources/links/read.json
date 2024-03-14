@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/read",
-  "OperationName": "获取资源链接",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "资源链接",
-  "Description": "获取或列出资源链接。",
+  "OperationName": "Erőforrás-hivatkozás beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Erőforrás-hivatkozás",
+  "Description": "Beolvassa vagy listázza az erőforrás-hivatkozásokat.",
   "IsDataAction": false
 }

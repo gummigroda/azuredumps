@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/views/read",
-  "OperationName": "Get views",
+  "Operation": "Microsoft.OperationalInsights/workspaces/views/read",
+  "OperationName": "Get View",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "View",
-  "Description": "Get workspace views.",
+  "Description": "Get workspace view.",
   "IsDataAction": false
 }

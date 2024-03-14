@@ -1,6 +1,6 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/searchJobs/write",
-  "OperationName": "Run a search job",
+  "Operation": "Microsoft.OperationalInsights/workspaces/searchJobs/write",
+  "OperationName": "Run a search job.",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Search Job",
   "Description": "Run a search job.",

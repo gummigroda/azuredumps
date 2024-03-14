@@ -1,5 +1,5 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/operations/read",
+  "Operation": "Microsoft.OperationalInsights/workspaces/operations/read",
   "OperationName": "Get Operations Status",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Workspace",

@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/rules/read",
+  "OperationName": "Get all alert rules",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Rule",
+  "Description": "Get all alert rules.",
+  "IsDataAction": false
+}

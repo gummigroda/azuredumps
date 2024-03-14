@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/write",
-  "OperationName": "写入部署堆栈",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署堆栈",
-  "Description": "创建或更新部署堆栈",
+  "OperationName": "Üzembe helyezési verem írása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési vermek",
+  "Description": "Létrehoz vagy frissít egy üzembe helyezési vermet",
   "IsDataAction": false
 }

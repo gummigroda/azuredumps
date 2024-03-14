@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkZonePeers/action",
-  "OperationName": "检查区域对等",
-  "ProviderNamespace": "Microsoft 资源",
+  "OperationName": "Zónabeli társak ellenőrzése",
+  "ProviderNamespace": "Microsoft-erőforrások",
   "ResourceName": "",
-  "Description": "检查区域对等",
+  "Description": "Zónabeli társak ellenőrzése",
   "IsDataAction": false
 }

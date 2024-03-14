@@ -1,5 +1,5 @@
 {
-  "Operation": "Microsoft.EdgeMarketplace/offers/getAccessToken/action",
+  "Operation": "Microsoft.EdgeMarketPlace/offers/getAccessToken/action",
   "OperationName": "Offers_GetAccessToken",
   "ProviderNamespace": "Microsoft.EdgeMarketplace",
   "ResourceName": "offers/getAccessToken",

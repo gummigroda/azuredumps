@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabricControllers/joinartifactstore/action",
+  "OperationName": "NetworkFabricControllers_JoinArtifacts",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabricControllers",
+  "Description": "Link external artifacts with network fabric controller resource.",
+  "IsDataAction": false
+}

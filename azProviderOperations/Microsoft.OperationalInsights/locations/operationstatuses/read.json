@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/locations/operationStatuses/read",
+  "Operation": "Microsoft.OperationalInsights/locations/operationstatuses/read",
   "OperationName": "Get Log Analytics Azure Async Operation Status",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Operation Status",
-  "Description": "Get Log Analytics Azure Async Operation Status.",
+  "Description": "Get Log Analytics Azure Async Operation Status",
   "IsDataAction": false
 }

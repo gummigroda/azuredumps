@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.EdgeMarketplace/offers/getAccessToken/action",
+  "OperationName": "Offers_GetAccessToken",
+  "ProviderNamespace": "Microsoft.EdgeMarketplace",
+  "ResourceName": "offers/getAccessToken",
+  "Description": "get access token.",
+  "IsDataAction": false
+}

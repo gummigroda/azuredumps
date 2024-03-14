@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/features/generateMap/read",
+  "OperationName": "Get the Service Map of a resource",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "GenerateMap",
+  "Description": "Get the Service Map of a resource.",
+  "IsDataAction": false
+}

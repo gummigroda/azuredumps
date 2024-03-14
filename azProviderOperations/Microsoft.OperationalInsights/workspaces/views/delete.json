@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/views/delete",
-  "OperationName": "Delete view",
+  "Operation": "Microsoft.OperationalInsights/workspaces/views/delete",
+  "OperationName": "Delete View",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "View",
-  "Description": "Delete a workspace view.",
+  "Description": "Delete workspace view.",
   "IsDataAction": false
 }

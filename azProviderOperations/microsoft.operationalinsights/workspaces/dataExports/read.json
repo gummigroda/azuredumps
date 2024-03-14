@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/dataExports/read",
+  "OperationName": "Get data export",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Data Export",
+  "Description": "Get specific data export.",
+  "IsDataAction": false
+}

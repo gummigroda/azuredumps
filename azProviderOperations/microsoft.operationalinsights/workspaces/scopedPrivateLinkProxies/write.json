@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/scopedPrivateLinkProxies/write",
+  "OperationName": "Put Scoped Private Link Proxy",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Scoped Private Link Proxy",
+  "Description": "Put Scoped Private Link Proxy.",
+  "IsDataAction": false
+}

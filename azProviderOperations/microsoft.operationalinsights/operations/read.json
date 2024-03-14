@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/operations/read",
+  "OperationName": "Get Operations List",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Operations",
+  "Description": "Lists all of the available OperationalInsights Rest API operations.",
+  "IsDataAction": false
+}

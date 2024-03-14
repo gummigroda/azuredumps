@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/delete",
-  "OperationName": "删除部署脚本",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署脚本",
-  "Description": "删除部署脚本",
+  "OperationName": "Üzembe helyezési szkript törlése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési szkriptek",
+  "Description": "Egy üzembe helyezési szkript törlése",
   "IsDataAction": false
 }

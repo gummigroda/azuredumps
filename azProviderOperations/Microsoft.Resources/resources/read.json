@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/resources/read",
-  "OperationName": "获取资源",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "资源",
-  "Description": "基于筛选获取资源列表。",
+  "OperationName": "Erőforrások beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Erőforrások",
+  "Description": "Az erőforrások listájának beolvasása szűrők alapján.",
   "IsDataAction": false
 }

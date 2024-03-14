@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/write",
-  "OperationName": "创建 mobo 中转站",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "mobo 中转站",
-  "Description": "创建或更新 mobo 中转站",
+  "OperationName": "Mobo-közvetítő létrehozása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Mobo-közvetítő",
+  "Description": "Mobo-közvetítőt hoz létre vagy frissíti azt",
   "IsDataAction": false
 }

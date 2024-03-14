@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/changes/read",
-  "OperationName": "读取更改",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "更改",
-  "Description": "获取或列出更改",
+  "OperationName": "Módosítások olvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Módosítások",
+  "Description": "Módosítások beolvasása vagy listázása",
   "IsDataAction": false
 }

@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.Resources/subscriptions/resourcegroups/resources/read",
-  "OperationName": "获取资源组资源",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "资源组的资源",
-  "Description": "获取资源组的资源。",
-  "IsDataAction": false
-}

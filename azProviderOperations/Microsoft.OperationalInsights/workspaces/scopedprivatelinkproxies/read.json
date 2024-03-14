@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/scopedPrivateLinkProxies/read",
+  "Operation": "Microsoft.OperationalInsights/workspaces/scopedprivatelinkproxies/read",
   "OperationName": "Get Scoped Private Link Proxy",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Scoped Private Link Proxy",
-  "Description": "Get Scoped Private Link Proxy.",
+  "Description": "Get Scoped Private Link Proxy",
   "IsDataAction": false
 }

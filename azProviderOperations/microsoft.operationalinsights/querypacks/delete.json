@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/querypacks/delete",
+  "OperationName": "Delete Query Packs",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Query Pack",
+  "Description": "Delete Query Packs.",
+  "IsDataAction": false
+}

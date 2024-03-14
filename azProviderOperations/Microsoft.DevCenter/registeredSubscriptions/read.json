@@ -1,8 +1,8 @@
 {
-  "Operation": "Microsoft.DevCenter/RegisteredSubscriptions/read",
-  "OperationName": "Gets/Lists registered subscriptions",
+  "Operation": "Microsoft.DevCenter/registeredSubscriptions/read",
+  "OperationName": "read_registeredSubscriptions",
   "ProviderNamespace": "Microsoft.DevCenter",
   "ResourceName": "registeredSubscriptions",
-  "Description": "Reads registered subscriptions",
+  "Description": "read registeredSubscriptions",
   "IsDataAction": false
 }

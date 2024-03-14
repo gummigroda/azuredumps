@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkPolicyCompliance/read",
-  "OperationName": "检查策略符合性",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "检查策略符合性",
-  "Description": "参照资源策略检查给定资源的符合性状态。",
+  "OperationName": "Szabályzatoknak való megfelelőség ellenőrzése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Szabályzatoknak való megfelelőség ellenőrzése",
+  "Description": "Annak ellenőrzése, hogy egy adott erőforrás megfelelőségi állapota megfelel-e az erőforrás-szabályzatoknak.",
   "IsDataAction": false
 }

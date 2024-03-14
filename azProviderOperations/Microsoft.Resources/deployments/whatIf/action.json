@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/whatIf/action",
-  "OperationName": "部署模拟",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署",
-  "Description": "预测模板部署更改。",
+  "OperationName": "Telepítési lehetőségelemzés",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Központi telepítés",
+  "Description": "A sablontelepítéssel járó módosítások előrejelzése.",
   "IsDataAction": false
 }

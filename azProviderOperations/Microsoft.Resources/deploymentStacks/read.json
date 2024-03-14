@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/read",
-  "OperationName": "读取部署堆栈",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署堆栈",
-  "Description": "获取或列出部署堆栈",
+  "OperationName": "Üzembe helyezési verem olvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési vermek",
+  "Description": "Beolvassa vagy listázza az üzembe helyezési vermeket",
   "IsDataAction": false
 }

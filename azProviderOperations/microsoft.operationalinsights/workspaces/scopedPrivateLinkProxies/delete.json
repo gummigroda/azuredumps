@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/scopedPrivateLinkProxies/delete",
+  "OperationName": "Delete Scoped Private Link Proxy",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Scoped Private Link Proxy",
+  "Description": "Delete Scoped Private Link Proxy.",
+  "IsDataAction": false
+}

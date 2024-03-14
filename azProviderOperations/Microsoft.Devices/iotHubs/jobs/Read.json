@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Devices/iotHubs/jobs/Read",
+  "OperationName": "Get the Job(s) on IotHub",
+  "ProviderNamespace": "Microsoft Devices",
+  "ResourceName": "IotHubs",
+  "Description": "Get Job(s) details submitted on given IotHub",
+  "IsDataAction": false
+}

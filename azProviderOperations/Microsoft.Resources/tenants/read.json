@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tenants/read",
-  "OperationName": "获取租户",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "租户",
-  "Description": "获取租户列表。",
+  "OperationName": "Bérlők beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Bérlő",
+  "Description": "Beolvassa a bérlők listáját.",
   "IsDataAction": false
 }

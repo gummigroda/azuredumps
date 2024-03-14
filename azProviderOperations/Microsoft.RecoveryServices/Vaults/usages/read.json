@@ -1,8 +1,8 @@
 {
-  "Operation": "Microsoft.RecoveryServices/vaults/usages/read",
-  "OperationName": "Read Vault Usages",
+  "Operation": "Microsoft.RecoveryServices/Vaults/usages/read",
+  "OperationName": "Recovery Services Vault usage details.",
   "ProviderNamespace": "Microsoft.RecoveryServices",
   "ResourceName": "Vault Usage",
-  "Description": "Read any Vault Usages",
+  "Description": "Returns usage details for a Recovery Services Vault.",
   "IsDataAction": false
 }

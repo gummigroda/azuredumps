@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/features/servergroups/members/read",
+  "OperationName": "Get Server Group Members of a resource",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "ServerGroupsMembers",
+  "Description": "Get Server Group Members of a resource.",
+  "IsDataAction": false
+}
