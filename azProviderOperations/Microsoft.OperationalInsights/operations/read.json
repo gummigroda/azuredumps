@@ -1,5 +1,5 @@
 {
-  "Operation": "microsoft.operationalinsights/operations/read",
+  "Operation": "Microsoft.OperationalInsights/operations/read",
   "OperationName": "Get Operations List",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Operations",

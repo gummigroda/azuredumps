@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/dataExports/delete",
-  "OperationName": "Delete data export",
+  "Operation": "Microsoft.OperationalInsights/workspaces/dataexports/delete",
+  "OperationName": "Delete Data Export",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Data Export",
-  "Description": "Delete specific data export.",
+  "Description": "Delete specific Data Export/",
   "IsDataAction": false
 }

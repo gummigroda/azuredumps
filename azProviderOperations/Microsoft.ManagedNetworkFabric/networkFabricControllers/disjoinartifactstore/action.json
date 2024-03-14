@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/networkFabricControllers/disjoinartifactstore/action",
+  "OperationName": "NetworkFabricControllers_DisJoinArtifacts",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "networkFabricControllers",
+  "Description": "UnLink external artifcats with network fabric controller resource.",
+  "IsDataAction": false
+}

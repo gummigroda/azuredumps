@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/delete",
-  "OperationName": "删除订阅标记",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "订阅标记",
-  "Description": "删除订阅标记。",
+  "OperationName": "Előfizetéscímke törlése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Előfizetéscímke",
+  "Description": "Törli az előfizetéscímkét.",
   "IsDataAction": false
 }

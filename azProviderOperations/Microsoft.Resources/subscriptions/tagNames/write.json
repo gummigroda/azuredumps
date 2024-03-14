@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/write",
-  "OperationName": "添加订阅标记",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "订阅标记",
-  "Description": "添加订阅标记。",
+  "OperationName": "Előfizetéscímke hozzáadása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Előfizetéscímke",
+  "Description": "Előfizetéscímke hozzáadása.",
   "IsDataAction": false
 }

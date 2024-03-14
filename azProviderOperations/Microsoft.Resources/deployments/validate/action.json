@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/validate/action",
-  "OperationName": "验证部署",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署",
-  "Description": "验证部署。",
+  "OperationName": "Üzemelő példány érvényesítése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Központi telepítés",
+  "Description": "Érvényesíti az üzemelő példányt.",
   "IsDataAction": false
 }

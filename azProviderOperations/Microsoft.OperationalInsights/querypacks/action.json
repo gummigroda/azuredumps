@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/querypacks/action",
-  "OperationName": "Perform Query Packs Actions",
+  "Operation": "Microsoft.OperationalInsights/querypacks/action",
+  "OperationName": "Perform Query Pack Action",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "",
-  "Description": "Perform Query Packs Actions.",
+  "Description": "Perform Query Pack Action.",
   "IsDataAction": false
 }

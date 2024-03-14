@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/write",
+  "OperationName": "Üzemelő példány létrehozása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Központi telepítés",
+  "Description": "Létrehozza vagy frissíti az üzemelő példányt.",
+  "IsDataAction": false
+}

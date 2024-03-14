@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/read",
-  "OperationName": "获取订阅标记值",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "订阅标记值",
-  "Description": "获取或列出订阅标记值。",
+  "OperationName": "Előfizetéscímke értékének beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Előfizetéscímke értéke",
+  "Description": "Beolvassa vagy listázza az előfizetéscímkék értékeit.",
   "IsDataAction": false
 }

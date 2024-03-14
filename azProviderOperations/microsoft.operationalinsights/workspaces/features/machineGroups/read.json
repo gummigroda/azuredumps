@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/features/machineGroups/read",
+  "OperationName": "Get the Service Map Machine Groups",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "MachineGroups",
+  "Description": "Get the Service Map Machine Groups.",
+  "IsDataAction": false
+}

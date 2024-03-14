@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptionRegistrations/read",
-  "OperationName": "获取订阅注册",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "订阅注册",
-  "Description": "获取资源提供程序命名空间的订阅注册。",
+  "OperationName": "Előfizetés-regisztrációk lekérése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Előfizetés-regisztrációk",
+  "Description": "Lekérheti egy erőforrás-szolgáltatói névtér előfizetés-regisztrációját.",
   "IsDataAction": false
 }

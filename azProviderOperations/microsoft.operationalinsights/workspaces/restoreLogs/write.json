@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/restoreLogs/write",
+  "OperationName": "Restore data from a table",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Restore Logs",
+  "Description": "Restore data from a table.",
+  "IsDataAction": false
+}

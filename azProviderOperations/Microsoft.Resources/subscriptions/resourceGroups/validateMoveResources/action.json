@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/validateMoveResources/action",
-  "OperationName": "验证资源组资源的移动操作",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "资源组",
-  "Description": "验证将资源从一个资源组移动到另一个资源组的操作。",
+  "OperationName": "Erőforráscsoport-erőforrások áthelyezésének ellenőrzése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Erőforráscsoport",
+  "Description": "Erőforrások erőforráscsoportok közötti áthelyezésének ellenőrzése.",
   "IsDataAction": false
 }

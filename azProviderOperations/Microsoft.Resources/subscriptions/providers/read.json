@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/providers/read",
-  "OperationName": "获取资源提供程序",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "资源提供程序",
-  "Description": "获取或列出资源提供程序。",
+  "OperationName": "Erőforrás-szolgáltatók beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Erőforrás-szolgáltatók",
+  "Description": "Beolvassa vagy listázza az erőforrás-szolgáltatókat.",
   "IsDataAction": false
 }

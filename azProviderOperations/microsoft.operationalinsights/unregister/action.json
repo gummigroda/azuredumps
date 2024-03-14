@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/unregister/action",
+  "OperationName": "UnregisterSubscription",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "",
+  "Description": "Unregisters the subscription.",
+  "IsDataAction": false
+}

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/locations/read",
-  "OperationName": "获取位置",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "位置",
-  "Description": "获取支持的位置列表。",
+  "OperationName": "Helyek beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Hely",
+  "Description": "Beolvassa a támogatott helyek listáját.",
   "IsDataAction": false
 }

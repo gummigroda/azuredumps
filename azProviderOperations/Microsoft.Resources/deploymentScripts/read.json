@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/read",
-  "OperationName": "读取部署脚本",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署脚本",
-  "Description": "获取或列出部署脚本",
+  "OperationName": "Üzembe helyezési szkriptek olvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési szkriptek",
+  "Description": "Beolvassa vagy listázza az üzembe helyezési szkripteket",
   "IsDataAction": false
 }

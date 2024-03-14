@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.MobilePacketCore/mobilePacketCores/PacketFlowDescriptions/read",
+  "OperationName": "PacketFlowDescriptions_ListByMobilePacketCore",
+  "ProviderNamespace": "Microsoft.MobilePacketCore",
+  "ResourceName": "mobilePacketCores/packetFlowDescriptions",
+  "Description": "Lists all the Packet Flow Descriptions in a mobile packet core instance.",
+  "IsDataAction": false
+}

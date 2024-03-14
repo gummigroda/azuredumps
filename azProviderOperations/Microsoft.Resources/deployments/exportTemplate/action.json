@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/exportTemplate/action",
-  "OperationName": "导出模板进行部署",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署",
-  "Description": "导出部署的模板",
+  "OperationName": "Üzemelő példány sablonjának exportálása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Központi telepítés",
+  "Description": "Üzemelő példány sablonjának exportálása",
   "IsDataAction": false
 }

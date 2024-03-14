@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/cancel/action",
-  "OperationName": "取消部署",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署",
-  "Description": "取消部署。",
+  "OperationName": "Üzembe helyezés megszakítása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Központi telepítés",
+  "Description": "Megszakítja az üzembe helyezést.",
   "IsDataAction": false
 }

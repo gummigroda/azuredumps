@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.operationalinsights/workspaces/search/read",
+  "OperationName": "Get Search Results",
+  "ProviderNamespace": "Azure Log Analytics",
+  "ResourceName": "Workspace Operations",
+  "Description": "Get search results. Deprecated.",
+  "IsDataAction": false
+}

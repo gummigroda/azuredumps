@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/delete",
-  "OperationName": "删除模板规格",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "模板规格",
-  "Description": "删除模板规格",
+  "OperationName": "Sablonspecifikáció törlése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Sablonspecifikációk",
+  "Description": "Töröl egy sablonspecifikációt",
   "IsDataAction": false
 }

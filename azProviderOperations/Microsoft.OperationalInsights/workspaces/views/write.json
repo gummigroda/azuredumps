@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/views/write",
-  "OperationName": "Create or update a view",
+  "Operation": "Microsoft.OperationalInsights/workspaces/views/write",
+  "OperationName": "Upsert View",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "View",
-  "Description": "Create or update a workspace view.",
+  "Description": "Create or update workspace view.",
   "IsDataAction": false
 }

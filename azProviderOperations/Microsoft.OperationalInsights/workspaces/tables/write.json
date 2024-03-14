@@ -1,6 +1,6 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/tables/write",
-  "OperationName": "Create or update a log analytics table",
+  "Operation": "Microsoft.OperationalInsights/workspaces/tables/write",
+  "OperationName": "Create or update a log analytics table.",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Tables",
   "Description": "Create or update a log analytics table.",

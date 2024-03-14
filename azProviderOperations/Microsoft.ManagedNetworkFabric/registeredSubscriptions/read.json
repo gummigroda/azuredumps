@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ManagedNetworkFabric/registeredSubscriptions/read",
+  "OperationName": "Gets/Lists registered subscriptions",
+  "ProviderNamespace": "Microsoft.ManagedNetworkFabric",
+  "ResourceName": "registeredSubscriptions",
+  "Description": "Reads registered subscriptions",
+  "IsDataAction": false
+}

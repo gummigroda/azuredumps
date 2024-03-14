@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/read",
-  "OperationName": "获取部署",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署",
-  "Description": "获取或列出部署。",
-  "IsDataAction": false
-}

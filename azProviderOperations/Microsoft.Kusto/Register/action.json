@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Kusto/Register/action",
+  "OperationName": "Register action",
+  "ProviderNamespace": "Microsoft.Kusto",
+  "ResourceName": "",
+  "Description": "Registers the subscription to the Kusto Resource Provider.",
+  "IsDataAction": false
+}

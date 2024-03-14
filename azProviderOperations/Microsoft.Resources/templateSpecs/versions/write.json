@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/write",
-  "OperationName": "编写模板规格版本",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "模板规格版本",
-  "Description": "创建或更新模板规格版本",
+  "OperationName": "Sablonspecifikáció-verzió írása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Sablonspecifikáció-verziók",
+  "Description": "Létrehoz vagy frissít egy sablonspecifikáció-verziót",
   "IsDataAction": false
 }

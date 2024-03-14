@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/read",
-  "OperationName": "获取 mobo 中转站",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "mobo 中转站",
-  "Description": "获取或列出 mobo 中转站",
+  "OperationName": "Mobo-közvetítő lekérése",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Mobo-közvetítő",
+  "Description": "Mobo-közvetítőket kér le vagy listázza azokat",
   "IsDataAction": false
 }

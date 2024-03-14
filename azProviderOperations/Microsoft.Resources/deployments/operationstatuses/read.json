@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/operationstatuses/read",
-  "OperationName": "获取部署操作状态",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署操作状态",
-  "Description": "获取或列出部署操作状态。",
+  "OperationName": "Üzembe helyezési művelet állapotának beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési művelet állapota",
+  "Description": "Az üzembe helyezési műveletek állapotának beolvasása vagy listázása.",
   "IsDataAction": false
 }

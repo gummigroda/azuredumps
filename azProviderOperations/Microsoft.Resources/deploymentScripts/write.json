@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/write",
-  "OperationName": "编写部署脚本",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署脚本",
-  "Description": "创建或更新部署脚本",
+  "OperationName": "Üzembe helyezési szkript írása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési szkriptek",
+  "Description": "Üzembe helyezési szkript létrehozása vagy frissítése",
   "IsDataAction": false
 }

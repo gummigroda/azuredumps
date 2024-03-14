@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/operations/read",
-  "OperationName": "获取部署操作",
-  "ProviderNamespace": "Microsoft 资源",
-  "ResourceName": "部署操作",
-  "Description": "获取或列出部署操作。",
+  "OperationName": "Üzembe helyezési műveletek beolvasása",
+  "ProviderNamespace": "Microsoft-erőforrások",
+  "ResourceName": "Üzembe helyezési művelet",
+  "Description": "Beolvassa vagy listázza az üzembe helyezési műveleteket.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
-  "Operation": "microsoft.operationalinsights/workspaces/savedsearches/results/read",
+  "Operation": "Microsoft.OperationalInsights/workspaces/savedSearches/results/read",
   "OperationName": "Get Saved Searches Results",
   "ProviderNamespace": "Azure Log Analytics",
   "ResourceName": "Saved Search",
-  "Description": "Get saved searches results. Deprecated",
+  "Description": "Get saved searches results. Deprecated.",
   "IsDataAction": false
 }
