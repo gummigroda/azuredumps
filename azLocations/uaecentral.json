@@ -34,6 +34,7 @@
     "Microsoft.DocumentDB",
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
+    "Microsoft.ContainerInstance",
     "Microsoft.Automation",
     "Microsoft.Media",
     "microsoft.insights",
