@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/resources/read",
-  "OperationName": "Erőforrások beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforrások",
-  "Description": "Az erőforrások listájának beolvasása szűrők alapján.",
+  "OperationName": "Resources ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resources",
+  "Description": "Hiermee wordt de lijst met resources op basis van filters opgehaald.",
   "IsDataAction": false
 }

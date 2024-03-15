@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/availabilitySets/Read",
+  "OperationName": "Gets/List availabilitySets resources",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "availabilitySets",
+  "Description": "Read availabilitySets",
+  "IsDataAction": false
+}

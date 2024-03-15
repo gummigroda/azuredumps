@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/daprcomponents/delete",
+  "OperationName": "Delete Connected Environment Dapr Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment Dapr Component",
+  "Description": "Delete Connected Environment Dapr Component",
+  "IsDataAction": false
+}

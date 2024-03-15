@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/read",
-  "OperationName": "Sablonspecifikáció-verzió olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Sablonspecifikáció-verziók",
-  "Description": "Lekérdezi vagy felsorolja a sablonspecifikációkat",
+  "OperationName": "Versie van sjabloonspecificaties lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Versies van sjabloonspecificaties",
+  "Description": "Hiermee worden de sjabloonspecificaties opgehaald of weergegeven",
   "IsDataAction": false
 }

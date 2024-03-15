@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/virtualnetworks/join/action",
-  "OperationName": "Join virtual network.",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualnetworks",
-  "Description": "Join virtual network.",
-  "IsDataAction": false
-}

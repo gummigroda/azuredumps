@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/createCheckpoint/action",
+  "OperationName": "VirtualMachineInstances_CreateCheckpoint",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "Creates a checkpoint in virtual machine instance.",
+  "IsDataAction": false
+}

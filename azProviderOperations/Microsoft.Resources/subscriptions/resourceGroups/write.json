@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/write",
-  "OperationName": "Erőforráscsoport létrehozása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforráscsoport",
-  "Description": "Létrehozza vagy frissíti az erőforráscsoportot.",
+  "OperationName": "Resourcegroep maken",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcegroep",
+  "Description": "Hiermee kunt u een resourcegroep maken of bijwerken.",
   "IsDataAction": false
 }

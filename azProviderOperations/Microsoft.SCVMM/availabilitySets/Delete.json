@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/availabilitySets/Delete",
+  "OperationName": "Deletes availabilitySets resource",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "availabilitySets",
+  "Description": "Deletes availabilitySets",
+  "IsDataAction": false
+}

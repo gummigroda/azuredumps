@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/vmmservers/inventoryitems/Write",
-  "OperationName": "Create/update vmmservers inventoryitems resources",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "vmmservers/inventoryitems",
-  "Description": "Writes vmmservers inventoryitems",
-  "IsDataAction": false
-}

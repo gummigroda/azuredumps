@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/clouds/Write",
+  "OperationName": "Create/update clouds resources",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "clouds",
+  "Description": "Writes clouds",
+  "IsDataAction": false
+}

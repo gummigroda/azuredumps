@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/read",
-  "OperationName": "Erőforráscsoport beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforráscsoport",
-  "Description": "Beolvassa vagy listázza az erőforráscsoportokat.",
+  "OperationName": "Resourcegroep downloaden",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcegroep",
+  "Description": "Hiermee kunt u resourcegroepen ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

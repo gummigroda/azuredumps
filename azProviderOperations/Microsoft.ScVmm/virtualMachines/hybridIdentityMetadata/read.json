@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/hybridIdentityMetadata/read",
-  "OperationName": "HybridIdentityMetadatas_Get",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/hybridIdentityMetadata",
-  "Description": "Implements HybridIdentityMetadata GET method.",
-  "IsDataAction": false
-}

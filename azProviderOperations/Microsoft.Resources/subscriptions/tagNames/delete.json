@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/delete",
-  "OperationName": "Előfizetéscímke törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetéscímke",
-  "Description": "Törli az előfizetéscímkét.",
+  "OperationName": "Abonnementstag verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementstag",
+  "Description": "Hiermee kunt u een abonnementstag verwijderen.",
   "IsDataAction": false
 }

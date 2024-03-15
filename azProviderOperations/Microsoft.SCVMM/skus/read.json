@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/skus/read",
+  "OperationName": "Get skus.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "skus",
+  "Description": "Get skus.",
+  "IsDataAction": false
+}

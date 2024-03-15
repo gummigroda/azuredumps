@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/write",
-  "OperationName": "Üzembe helyezési verem írása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési vermek",
-  "Description": "Létrehoz vagy frissít egy üzembe helyezési vermet",
+  "OperationName": "Implementatiestack schrijven",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiestacks",
+  "Description": "Hiermee wordt een implementatiestack gemaakt of bijgewerkt",
   "IsDataAction": false
 }

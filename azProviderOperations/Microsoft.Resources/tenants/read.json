@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tenants/read",
-  "OperationName": "Bérlők beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Bérlő",
-  "Description": "Beolvassa a bérlők listáját.",
+  "OperationName": "Tenants ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Tenant",
+  "Description": "Hiermee kunt u de lijst met tenants ophalen.",
   "IsDataAction": false
 }

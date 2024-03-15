@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/guestAgents/read",
+  "OperationName": "VMInstanceGuestAgents_Get",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances/guestAgents",
+  "Description": "Implements GuestAgent GET method.",
+  "IsDataAction": false
+}

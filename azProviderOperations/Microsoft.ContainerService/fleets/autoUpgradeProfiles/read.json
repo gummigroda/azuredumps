@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/autoUpgradeProfiles/read",
+  "OperationName": "Get a fleet auto upgrade profile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "AutoUpgradeProfiles",
+  "Description": "Get a fleet auto upgrade profile",
+  "IsDataAction": false
+}

@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/virtualmachines/Read",
-  "OperationName": "Gets/List virtualmachines resources",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualmachines",
-  "Description": "Read virtualmachines",
-  "IsDataAction": false
-}

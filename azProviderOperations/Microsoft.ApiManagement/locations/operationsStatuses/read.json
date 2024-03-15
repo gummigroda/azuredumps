@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/locations/operationsStatuses/read",
+  "OperationName": "Read the status of a long running operation",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "",
+  "Description": "View the status of a long running operation for which the 'AzureAsync' header was previously returned to the client",
+  "IsDataAction": false
+}

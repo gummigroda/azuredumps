@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/clouds/deploy/action",
+  "OperationName": "Deploy on resource pool.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "clouds",
+  "Description": "Deploy on resource pool.",
+  "IsDataAction": false
+}

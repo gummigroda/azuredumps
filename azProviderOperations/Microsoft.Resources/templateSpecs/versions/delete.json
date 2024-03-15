@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/delete",
-  "OperationName": "Sablonspecifikáció-verzió törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Sablonspecifikáció-verziók",
-  "Description": "Töröl egy sablonspecifikáció-verziót",
+  "OperationName": "Een versie van sjabloonspecificaties verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Versies van sjabloonspecificaties",
+  "Description": "Hiermee wordt een versie van sjabloonspecificaties verwijderd",
   "IsDataAction": false
 }

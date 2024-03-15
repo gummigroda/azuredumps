@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/validate/action",
-  "OperationName": "Üzemelő példány érvényesítése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "Érvényesíti az üzemelő példányt.",
+  "OperationName": "Implementatie valideren",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Hiermee kunt u een implementatie valideren.",
   "IsDataAction": false
 }

@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachineInstances/restart/action",
-  "OperationName": "VirtualMachineInstances_Restart",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachineInstances",
-  "Description": "The operation to restart a virtual machine instance.",
-  "IsDataAction": false
-}

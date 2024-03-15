@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/deleteCheckpoint/action",
+  "OperationName": "VirtualMachineInstances_DeleteCheckpoint",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "Deletes a checkpoint in virtual machine instance.",
+  "IsDataAction": false
+}

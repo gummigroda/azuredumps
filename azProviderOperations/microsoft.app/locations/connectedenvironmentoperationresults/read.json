@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/locations/connectedenvironmentoperationresults/read",
+  "OperationName": "Read Connected Environment Operation Result",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment",
+  "Description": "Get a Connected Environment Long Running Operation Result",
+  "IsDataAction": false
+}

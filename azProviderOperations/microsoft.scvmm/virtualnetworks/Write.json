@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/virtualnetworks/Write",
-  "OperationName": "Create/update virtualnetworks resources",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualnetworks",
-  "Description": "Writes virtualnetworks",
-  "IsDataAction": false
-}

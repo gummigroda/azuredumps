@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/autoUpgradeProfiles/delete",
+  "OperationName": "Delete a fleet auto upgrade profile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "AutoUpgradeProfiles",
+  "Description": "Delete a fleet auto upgrade profile",
+  "IsDataAction": false
+}

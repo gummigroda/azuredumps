@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/hybridIdentityMetadata/delete",
-  "OperationName": "HybridIdentityMetadatas_Delete",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/hybridIdentityMetadata",
-  "Description": "Implements HybridIdentityMetadata DELETE method.",
-  "IsDataAction": false
-}

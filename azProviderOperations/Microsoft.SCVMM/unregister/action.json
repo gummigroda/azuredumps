@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/unregister/action",
+  "OperationName": "unregister RP.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "",
+  "Description": "unregister RP.",
+  "IsDataAction": false
+}

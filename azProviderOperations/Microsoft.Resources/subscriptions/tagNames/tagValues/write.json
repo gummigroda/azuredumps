@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/write",
-  "OperationName": "Előfizetéscímke értékének hozzáadása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetéscímke értéke",
-  "Description": "Hozzáadja az előfizetéscímke értékét.",
+  "OperationName": "Abonnementstagwaarde toevoegen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementstagwaarde",
+  "Description": "Hiermee kunt u een abonnementstagwaarde toevoegen.",
   "IsDataAction": false
 }

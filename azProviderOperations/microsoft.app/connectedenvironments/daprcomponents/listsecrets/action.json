@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/daprcomponents/listsecrets/action",
+  "OperationName": "List Dapr Component Secrets",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment Dapr Component",
+  "Description": "List Secrets of a Dapr Component",
+  "IsDataAction": false
+}

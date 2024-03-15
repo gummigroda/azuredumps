@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/read",
-  "OperationName": "Előfizetéscímke értékének beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetéscímke értéke",
-  "Description": "Beolvassa vagy listázza az előfizetéscímkék értékeit.",
+  "OperationName": "Abonnementstagwaarde ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementstagwaarde",
+  "Description": "Hiermee kunt u abonnementstagwaarden ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/locations/operationstatuses/write",
+  "OperationName": "Write operationstatus.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "Write operationstatus.",
+  "IsDataAction": false
+}

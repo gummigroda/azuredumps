@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/read",
-  "OperationName": "Mobo-közvetítő lekérése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Mobo-közvetítő",
-  "Description": "Mobo-közvetítőket kér le vagy listázza azokat",
+  "OperationName": "Mobo Broker ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Mobo Broker",
+  "Description": "Hiermee worden mobo brokers opgehaald of vermeld",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/dataBoundaries/write",
-  "OperationName": "Részvétel az adathatárban",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Adathatár",
-  "Description": "Bérlői szintű jóváhagyás az adathatárhoz",
+  "OperationName": "Aanmelden voor gegevensgrens",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Gegevensgrens",
+  "Description": "Aanmelden voor gegevensgrens op tenantniveau",
   "IsDataAction": false
 }

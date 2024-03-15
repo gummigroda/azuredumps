@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/exportTemplate/action",
-  "OperationName": "Üzemelő példány sablonjának exportálása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "Üzemelő példány sablonjának exportálása",
+  "OperationName": "Sjabloon voor implementatie exporteren",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Sjabloon voor een implementatie exporteren",
   "IsDataAction": false
 }

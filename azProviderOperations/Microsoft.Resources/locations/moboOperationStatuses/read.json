@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/locations/moboOperationStatuses/read",
-  "OperationName": "A Mobo szolgáltatásműveleti állapot beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Mobo szolgáltatásműveleti állapot",
-  "Description": "Az erőforrás Mobo szolgáltatásműveleti állapotának beolvasása.",
+  "OperationName": "De bewerkingsstatus van de Mobo-service ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Bewerkingsstatus van Mobo-service",
+  "Description": "Hiermee wordt de bewerkingsstatus van de Mobo-service voor de resource gelezen.",
   "IsDataAction": false
 }

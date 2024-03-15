@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/delete",
-  "OperationName": "Üzemelő példány törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "Törli az üzemelő példányt.",
+  "OperationName": "Implementatie verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Hiermee kunt u een implementatie verwijderen.",
   "IsDataAction": false
 }

@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/vmmservers/Delete",
-  "OperationName": "Deletes vmmservers resource",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "vmmservers",
-  "Description": "Deletes vmmservers",
-  "IsDataAction": false
-}

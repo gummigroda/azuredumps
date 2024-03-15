@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/read",
-  "OperationName": "Üzemelő példányok beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "Beolvassa vagy listázza az üzemelő példányokat.",
+  "OperationName": "Implementatie ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Hiermee kunt u implementaties ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

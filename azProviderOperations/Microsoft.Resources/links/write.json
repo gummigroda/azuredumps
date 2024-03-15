@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/write",
-  "OperationName": "Erőforrás-hivatkozás létrehozása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforrás-hivatkozás",
-  "Description": "Létrehozza vagy frissíti az erőforrás-hivatkozást.",
+  "OperationName": "Resourcekoppeling maken",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcekoppeling",
+  "Description": "Hiermee kunt u een resourcekoppeling maken of bijwerken.",
   "IsDataAction": false
 }

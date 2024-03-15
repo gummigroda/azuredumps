@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/guestAgents/write",
-  "OperationName": "GuestAgents_Create",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/guestAgents",
-  "Description": "Create Or Update GuestAgent.",
-  "IsDataAction": false
-}

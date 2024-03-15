@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/vmmservers/Read",
-  "OperationName": "Gets/List vmmservers resources",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "vmmservers",
-  "Description": "Read vmmservers",
-  "IsDataAction": false
-}

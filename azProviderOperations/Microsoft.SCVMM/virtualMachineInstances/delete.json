@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/delete",
+  "OperationName": "VirtualMachineInstances_Delete",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "The operation to delete a virtual machine instance.",
+  "IsDataAction": false
+}

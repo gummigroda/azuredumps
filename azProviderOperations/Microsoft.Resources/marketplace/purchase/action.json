@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/marketplace/purchase/action",
-  "OperationName": "Erőforrás vásárlása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Piactér",
-  "Description": "Erőforrás vásárlása a Piactéren.",
+  "OperationName": "Resource kopen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Marketplace",
+  "Description": "Hiermee worden een resource gekocht via de marketplace.",
   "IsDataAction": false
 }

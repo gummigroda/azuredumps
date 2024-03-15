@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/vmmservers/inventoryitems/Delete",
+  "OperationName": "Deletes vmmservers inventoryitems resource",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "vmmservers/inventoryitems",
+  "Description": "Deletes vmmserver inventoryitems",
+  "IsDataAction": false
+}

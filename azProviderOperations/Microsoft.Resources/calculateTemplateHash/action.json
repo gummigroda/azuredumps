@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/calculateTemplateHash/action",
-  "OperationName": "Sablon kivonatának kiszámítása",
-  "ProviderNamespace": "Microsoft-erőforrások",
+  "OperationName": "Sjabloon-hash berekenen",
+  "ProviderNamespace": "Microsoft-resources",
   "ResourceName": "",
-  "Description": "A megadott sablon kivonatának kiszámítása.",
+  "Description": "De hash van de opgegeven sjabloon berekenen.",
   "IsDataAction": false
 }

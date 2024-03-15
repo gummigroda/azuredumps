@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ContainerService/fleets/autoUpgradeProfiles/write",
+  "OperationName": "Create or Update a fleet auto upgrade profile",
+  "ProviderNamespace": "Microsoft Container Service",
+  "ResourceName": "AutoUpgradeProfiles",
+  "Description": "Create or Update a fleet auto upgrade profile",
+  "IsDataAction": false
+}

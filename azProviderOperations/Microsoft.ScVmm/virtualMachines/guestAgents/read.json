@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/guestAgents/read",
-  "OperationName": "GuestAgents_Get",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/guestAgents",
-  "Description": "Implements GuestAgent GET method.",
-  "IsDataAction": false
-}

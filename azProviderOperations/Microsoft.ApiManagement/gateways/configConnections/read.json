@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/gateways/configConnections/read",
+  "OperationName": "Get Gateway ConfigConnection List or Get Gateway ConfigConnection details",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway Config Connections",
+  "Description": "Lists Gateway ConfigConnections or Gets a Gateway ConfigConnection",
+  "IsDataAction": false
+}
