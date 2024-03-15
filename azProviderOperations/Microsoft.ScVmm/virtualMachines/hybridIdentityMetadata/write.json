@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/hybridIdentityMetadata/write",
-  "OperationName": "HybridIdentityMetadatas_Create",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/hybridIdentityMetadata",
-  "Description": "Create Or Update HybridIdentityMetadata.",
-  "IsDataAction": false
-}

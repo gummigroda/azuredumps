@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/extensions/write",
-  "OperationName": "MachineExtensions_CreateOrUpdate",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/extensions",
-  "Description": "The operation to create or update the extension.",
-  "IsDataAction": false
-}

@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.Network/networkManagers/ipamPools/allocateAzureResource/action",
-  "OperationName": "Allocate Azure Resource from Ipam Pool",
-  "ProviderNamespace": "Microsoft Network",
-  "ResourceName": "Ipam Pool",
-  "Description": "Allocate CIDR range for Azure resource from Ipam Pool",
-  "IsDataAction": false
-}

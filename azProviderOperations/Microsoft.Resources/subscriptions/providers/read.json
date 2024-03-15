@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/providers/read",
-  "OperationName": "Erőforrás-szolgáltatók beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforrás-szolgáltatók",
-  "Description": "Beolvassa vagy listázza az erőforrás-szolgáltatókat.",
+  "OperationName": "Resourceproviders ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourceproviders",
+  "Description": "Hiermee kunt u de resourceproviders ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

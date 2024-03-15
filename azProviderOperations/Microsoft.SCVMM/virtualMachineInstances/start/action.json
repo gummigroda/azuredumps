@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/start/action",
+  "OperationName": "VirtualMachineInstances_Start",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "The operation to start a virtual machine instance.",
+  "IsDataAction": false
+}

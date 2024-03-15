@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/read",
-  "OperationName": "Előfizetések beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetés",
-  "Description": "Beolvassa az előfizetések listáját.",
+  "OperationName": "Abonnementen ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnement",
+  "Description": "Hiermee kunt u de lijst met abonnementen ophalen.",
   "IsDataAction": false
 }

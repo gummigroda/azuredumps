@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/read",
-  "OperationName": "Előfizetéscímke beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetéscímke",
-  "Description": "Beolvassa vagy listázza az előfizetéscímkéket.",
+  "OperationName": "Abonnementstag ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementstag",
+  "Description": "Hiermee kunt u abonnementstags ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

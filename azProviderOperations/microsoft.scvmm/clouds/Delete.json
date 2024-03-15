@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/clouds/Delete",
-  "OperationName": "Deletes clouds resource",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "clouds",
-  "Description": "Deletes clouds",
-  "IsDataAction": false
-}

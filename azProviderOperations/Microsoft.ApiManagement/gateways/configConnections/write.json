@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/gateways/configConnections/write",
+  "OperationName": "Create a Gateway Config Connection",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway Config Connections",
+  "Description": "Creates a Gateway Config Connection",
+  "IsDataAction": false
+}

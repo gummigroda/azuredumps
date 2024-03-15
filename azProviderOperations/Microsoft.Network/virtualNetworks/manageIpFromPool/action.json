@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.Network/virtualNetworks/manageIpFromPool/action",
-  "OperationName": "Manage Private Ip Inventory Pool Operation",
-  "ProviderNamespace": "Microsoft Network",
-  "ResourceName": "Virtual Network",
-  "Description": "Manage Private Ip Inventory Pool Operation Description",
-  "IsDataAction": false
-}

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/moveResources/action",
-  "OperationName": "Erőforráscsoport erőforrásainak áthelyezése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforráscsoport",
-  "Description": "Erőforrásokat helyez át az egyik erőforráscsoportból egy másikba.",
+  "OperationName": "Resources van resourcegroep verplaatsen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcegroep",
+  "Description": "Hiermee kunt u resources van een resourcegroep naar een andere resourcegroep verplaatsen.",
   "IsDataAction": false
 }

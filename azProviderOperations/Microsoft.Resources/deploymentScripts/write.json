@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/write",
-  "OperationName": "Üzembe helyezési szkript írása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési szkriptek",
-  "Description": "Üzembe helyezési szkript létrehozása vagy frissítése",
+  "OperationName": "Implementatiescript schrijven",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiescripts",
+  "Description": "Hiermee wordt een implementatiescript gemaakt of bijgewerkt",
   "IsDataAction": false
 }

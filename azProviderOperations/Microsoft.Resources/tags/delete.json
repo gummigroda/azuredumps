@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tags/delete",
-  "OperationName": "Címkék törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Címkék",
-  "Description": "Egy adott erőforrás összes címkéjének eltávolítása.",
+  "OperationName": "Tags verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Tags",
+  "Description": "Hiermee worden alle tags van een resource verwijderd.",
   "IsDataAction": false
 }

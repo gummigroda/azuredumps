@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/whatIf/action",
-  "OperationName": "Telepítési lehetőségelemzés",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "A sablontelepítéssel járó módosítások előrejelzése.",
+  "OperationName": "What if-implementatie",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Hiermee worden sjabloonimplementatiewijzigingen voorspeld.",
   "IsDataAction": false
 }

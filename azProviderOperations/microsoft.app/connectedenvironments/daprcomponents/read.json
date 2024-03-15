@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/daprcomponents/read",
+  "OperationName": "Read Connected Environment Dapr Component",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment Dapr Component",
+  "Description": "Read Connected Environment Dapr Component",
+  "IsDataAction": false
+}

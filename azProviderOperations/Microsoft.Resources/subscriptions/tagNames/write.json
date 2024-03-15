@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/write",
-  "OperationName": "Előfizetéscímke hozzáadása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetéscímke",
-  "Description": "Előfizetéscímke hozzáadása.",
+  "OperationName": "Abonnementstag toevoegen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementstag",
+  "Description": "Hiermee kunt u een abonnementstag toevoegen.",
   "IsDataAction": false
 }

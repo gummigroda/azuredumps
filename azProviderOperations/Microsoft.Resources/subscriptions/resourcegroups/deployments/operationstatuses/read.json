@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/operationstatuses/read",
-  "OperationName": "Üzembe helyezési művelet állapotának beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési művelet állapota",
-  "Description": "Az üzembe helyezési műveletek állapotának beolvasása vagy listázása.",
+  "OperationName": "Status van implementatiebewerking ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Status van implementatiebewerking",
+  "Description": "Hiermee worden lijsten met statussen van implementatiebewerkingen opgehaald.",
   "IsDataAction": false
 }

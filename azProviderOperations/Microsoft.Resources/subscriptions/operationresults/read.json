@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/operationresults/read",
-  "OperationName": "Előfizetési művelet eredményeinek lekérése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetési művelet eredménye",
-  "Description": "Az előfizetési művelet eredményeinek lekérése.",
+  "OperationName": "Resultaten van de abonnementsbewerking ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resultaten van de abonnementsbewerking",
+  "Description": "Hiermee worden de resultaten van de abonnementsbewerking opgehaald.",
   "IsDataAction": false
 }

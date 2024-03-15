@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualmachinetemplates/Read",
+  "OperationName": "Gets/List virtualmachinetemplates resources",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualmachinetemplates",
+  "Description": "Read virtualmachinetemplates",
+  "IsDataAction": false
+}

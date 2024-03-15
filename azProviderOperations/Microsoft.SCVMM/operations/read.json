@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/operations/read",
+  "OperationName": "Read operations.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "operations",
+  "Description": "Read operations.",
+  "IsDataAction": false
+}

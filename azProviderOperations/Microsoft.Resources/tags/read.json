@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tags/read",
-  "OperationName": "Címkék olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Címkék",
-  "Description": "Egy adott erőforrás összes címkéjének beolvasása.",
+  "OperationName": "Tags lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Tags",
+  "Description": "Hiermee worden alle tags in een resource opgehaald.",
   "IsDataAction": false
 }

@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/virtualnetworks/Delete",
-  "OperationName": "Deletes virtualnetworks resource",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualnetworks",
-  "Description": "Deletes virtualnetworks",
-  "IsDataAction": false
-}

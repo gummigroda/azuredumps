@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/resources/read",
-  "OperationName": "Erőforráscsoport erőforrásainak lekérése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforráscsoport erőforrásai",
-  "Description": "Az erőforráscsoporthoz tartozó erőforrások lekérése.",
+  "OperationName": "Resources voor resourcegroep ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resources van resourcegroep",
+  "Description": "Hiermee worden de resources voor de resourcegroep opgehaald.",
   "IsDataAction": false
 }

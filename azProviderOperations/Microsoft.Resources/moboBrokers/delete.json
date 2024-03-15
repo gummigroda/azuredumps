@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/delete",
-  "OperationName": "Mobo-közvetítő törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Mobo-közvetítő",
-  "Description": "Mobo-közvetítőt töröl",
+  "OperationName": "Mobo broker verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Mobo Broker",
+  "Description": "Hiermee wordt een mobo-broker verwijderd",
   "IsDataAction": false
 }

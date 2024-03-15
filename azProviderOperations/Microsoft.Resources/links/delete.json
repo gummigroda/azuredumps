@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/delete",
-  "OperationName": "Erőforrás-hivatkozás törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforrás-hivatkozás",
-  "Description": "Törli az erőforrás-hivatkozást.",
+  "OperationName": "Resourcekoppeling verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcekoppeling",
+  "Description": "Hiermee kunt u een resourcekoppeling verwijderen.",
   "IsDataAction": false
 }

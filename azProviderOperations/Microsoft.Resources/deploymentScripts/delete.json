@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/delete",
-  "OperationName": "Üzembe helyezési szkript törlése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési szkriptek",
-  "Description": "Egy üzembe helyezési szkript törlése",
+  "OperationName": "Een implementatiescript verwijderen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiescripts",
+  "Description": "Hiermee kunt u een implementatiescript verwijderen",
   "IsDataAction": false
 }

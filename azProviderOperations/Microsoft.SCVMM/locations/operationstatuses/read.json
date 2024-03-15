@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/locations/operationstatuses/read",
+  "OperationName": "Read operationstatus.",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "locations/operationstatuses",
+  "Description": "Read operationstatus.",
+  "IsDataAction": false
+}

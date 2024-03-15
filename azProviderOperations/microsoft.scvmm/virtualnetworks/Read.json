@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.scvmm/virtualnetworks/Read",
-  "OperationName": "Gets/List virtualnetworks resources",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualnetworks",
-  "Description": "Read virtualnetworks",
-  "IsDataAction": false
-}

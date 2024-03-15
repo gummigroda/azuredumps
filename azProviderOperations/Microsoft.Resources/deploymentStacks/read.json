@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/read",
-  "OperationName": "Üzembe helyezési verem olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési vermek",
-  "Description": "Beolvassa vagy listázza az üzembe helyezési vermeket",
+  "OperationName": "Implementatiestack lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiestacks",
+  "Description": "Hiermee worden implementatiestacks opgehaald of weergegeven",
   "IsDataAction": false
 }

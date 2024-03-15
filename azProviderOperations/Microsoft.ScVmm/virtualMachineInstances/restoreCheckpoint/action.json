@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachineInstances/restoreCheckpoint/action",
-  "OperationName": "VirtualMachineInstances_RestoreCheckpoint",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachineInstances",
-  "Description": "Restores to a checkpoint in virtual machine instance.",
-  "IsDataAction": false
-}

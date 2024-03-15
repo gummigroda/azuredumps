@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/changes/read",
-  "OperationName": "Módosítások olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Módosítások",
-  "Description": "Módosítások beolvasása vagy listázása",
+  "OperationName": "Wijzigingen lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Wijzigingen",
+  "Description": "Hiermee worden wijzigingen opgehaald of weergegeven",
   "IsDataAction": false
 }

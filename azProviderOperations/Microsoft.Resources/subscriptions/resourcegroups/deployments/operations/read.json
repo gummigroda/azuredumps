@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/operations/read",
-  "OperationName": "Üzembe helyezési műveletek beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési művelet",
-  "Description": "Beolvassa vagy listázza az üzembe helyezési műveleteket.",
+  "OperationName": "Implementatiebewerking ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiebewerking",
+  "Description": "Hiermee kunt u implementatiebewerkingen ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

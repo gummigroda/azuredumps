@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/write",
-  "OperationName": "Mobo-közvetítő létrehozása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Mobo-közvetítő",
-  "Description": "Mobo-közvetítőt hoz létre vagy frissíti azt",
+  "OperationName": "Mobo Broker maken",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Mobo Broker",
+  "Description": "Hiermee wordt een mobo broker gemaakt of bijgewerkt",
   "IsDataAction": false
 }

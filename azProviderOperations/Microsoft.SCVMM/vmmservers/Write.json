@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/vmmservers/Write",
+  "OperationName": "Create/update vmmservers resources",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "vmmservers",
+  "Description": "Writes vmmservers",
+  "IsDataAction": false
+}

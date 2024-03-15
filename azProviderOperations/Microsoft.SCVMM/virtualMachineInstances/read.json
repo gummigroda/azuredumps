@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualMachineInstances/read",
+  "OperationName": "VirtualMachineInstances_Get",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualMachineInstances",
+  "Description": "Retrieves information about a virtual machine instance.",
+  "IsDataAction": false
+}

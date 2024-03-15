@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptionRegistrations/read",
-  "OperationName": "Előfizetés-regisztrációk lekérése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Előfizetés-regisztrációk",
-  "Description": "Lekérheti egy erőforrás-szolgáltatói névtér előfizetés-regisztrációját.",
+  "OperationName": "Abonnementsregistraties ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Abonnementsregistraties",
+  "Description": "Abonnementsregistratie voor een naamruimte van een resourceprovider ophalen.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tags/write",
-  "OperationName": "Címkék írása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Címkék",
-  "Description": "Egy adott erőforrás címkéinek frissítése a meglévő címkék új címkékkel való lecserélésével vagy egyesítésével, illetve a meglévő címkék eltávolításával.",
+  "OperationName": "Tags schrijven",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Tags",
+  "Description": "Hiermee worden de tags voor een resource bijgewerkt door bestaande tags te vervangen of samen te voegen met een nieuwe set tags of door bestaande tags te verwijderen.",
   "IsDataAction": false
 }

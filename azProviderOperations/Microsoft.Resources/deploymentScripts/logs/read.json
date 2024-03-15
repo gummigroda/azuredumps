@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/logs/read",
-  "OperationName": "Üzembe helyezési szkriptek naplóinak olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési szkriptek naplói",
-  "Description": "Beolvassa vagy listázza az üzembe helyezési szkriptek naplóit",
+  "OperationName": "Scriptlogboeken voor implementatie lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Scriptlogboeken voor implementatie",
+  "Description": "Hiermee worden de scriptlogboeken van de implementatie opgehaald of weergegeven",
   "IsDataAction": false
 }

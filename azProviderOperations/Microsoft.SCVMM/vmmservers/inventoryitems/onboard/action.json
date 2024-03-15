@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/vmmservers/inventoryitems/onboard/action",
+  "OperationName": "Onboards vmmservers inventoryitems resources",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "vmmservers/inventoryitems",
+  "Description": "Onboards vmmservers inventoryitems",
+  "IsDataAction": false
+}

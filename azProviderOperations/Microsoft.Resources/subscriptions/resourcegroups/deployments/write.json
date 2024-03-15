@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/write",
-  "OperationName": "Üzemelő példány létrehozása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Központi telepítés",
-  "Description": "Létrehozza vagy frissíti az üzemelő példányt.",
+  "OperationName": "Implementatie maken",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatie",
+  "Description": "Hiermee kunt u een implementatie maken of bijwerken.",
   "IsDataAction": false
 }

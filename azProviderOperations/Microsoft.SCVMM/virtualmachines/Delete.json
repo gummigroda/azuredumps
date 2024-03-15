@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.SCVMM/virtualmachines/Delete",
+  "OperationName": "Deletes virtualmachines resource",
+  "ProviderNamespace": "Microsoft.SCVMM",
+  "ResourceName": "virtualmachines",
+  "Description": "Deletes virtualmachines",
+  "IsDataAction": false
+}

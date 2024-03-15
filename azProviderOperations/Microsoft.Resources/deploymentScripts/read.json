@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/read",
-  "OperationName": "Üzembe helyezési szkriptek olvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Üzembe helyezési szkriptek",
-  "Description": "Beolvassa vagy listázza az üzembe helyezési szkripteket",
+  "OperationName": "Implementatiescripts lezen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Implementatiescripts",
+  "Description": "Hiermee kunt u implementatiescripts ophalen of weergeven",
   "IsDataAction": false
 }

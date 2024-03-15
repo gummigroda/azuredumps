@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/providers/read",
-  "OperationName": "Szolgáltatók lekérése",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Szolgáltatók",
-  "Description": "A szolgáltatók listájának lekérése.",
+  "OperationName": "Providers ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Providers",
+  "Description": "De lijst met providers ophalen.",
   "IsDataAction": false
 }

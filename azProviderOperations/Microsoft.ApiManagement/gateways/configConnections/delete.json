@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.ApiManagement/gateways/configConnections/delete",
+  "OperationName": "Deletes Gateway Config Connection",
+  "ProviderNamespace": "Microsoft API Management",
+  "ResourceName": "Gateway Config Connections",
+  "Description": "Deletes a Gateway Config Connection",
+  "IsDataAction": false
+}

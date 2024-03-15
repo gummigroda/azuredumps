@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.ScVmm/virtualMachines/guestAgents/delete",
-  "OperationName": "GuestAgents_Delete",
-  "ProviderNamespace": "microsoft.scvmm",
-  "ResourceName": "virtualMachines/guestAgents",
-  "Description": "Implements GuestAgent DELETE method.",
-  "IsDataAction": false
-}

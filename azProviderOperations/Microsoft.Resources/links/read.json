@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/read",
-  "OperationName": "Erőforrás-hivatkozás beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Erőforrás-hivatkozás",
-  "Description": "Beolvassa vagy listázza az erőforrás-hivatkozásokat.",
+  "OperationName": "Resourcekoppeling ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Resourcekoppeling",
+  "Description": "Hiermee kunt u resourcekoppelingen ophalen of opnemen in een lijst.",
   "IsDataAction": false
 }

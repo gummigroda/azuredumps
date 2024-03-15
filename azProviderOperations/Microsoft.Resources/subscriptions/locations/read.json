@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/locations/read",
-  "OperationName": "Helyek beolvasása",
-  "ProviderNamespace": "Microsoft-erőforrások",
-  "ResourceName": "Hely",
-  "Description": "Beolvassa a támogatott helyek listáját.",
+  "OperationName": "Locaties ophalen",
+  "ProviderNamespace": "Microsoft-resources",
+  "ResourceName": "Locatie",
+  "Description": "Hiermee kunt u de lijst met ondersteunde locaties ophalen.",
   "IsDataAction": false
 }
