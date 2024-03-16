@@ -8,7 +8,7 @@
     "Description": "This is a test policy only for internal use by Policy team. Prevents customers from applying AKS specific labels",
     "DisplayName": "[Deprecated]: No AKS Specific Labels. Versioning Test BuiltIn.",
     "Metadata": {
-      "version": "2.1.0-deprecated",
+      "version": "2.2.0-deprecated",
       "category": "BuiltInPolicyTest",
       "deprecated": true
     },
@@ -140,12 +140,15 @@
       "if": {
         "allOf": [
           {
-            "field": "[parameters('testString')]",
+            "value": "[parameters('testString')]",
             "equals": "test"
           },
           {
             "field": "type",
-            "equals": "Microsoft.ContainerService/managedClusters"
+            "in": [
+              "Microsoft.Kubernetes/connectedClusters",
+              "Microsoft.ContainerService/managedClusters"
+            ]
           }
         ]
       },

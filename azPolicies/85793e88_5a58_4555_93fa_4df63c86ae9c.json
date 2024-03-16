@@ -8,7 +8,7 @@
     "Description": "Only deploy Registry Models in the allowed Registry and that are not restricted.",
     "DisplayName": "[Deprecated]: Azure Machine Learning Model Registry Deployments are restricted except for the allowed Registry. Versioning Test BuiltIn.",
     "Metadata": {
-      "version": "2.1.0-deprecated",
+      "version": "2.2.0-deprecated",
       "category": "BuiltInPolicyTest",
       "deprecated": true
     },
@@ -55,7 +55,7 @@
       "if": {
         "allOf": [
           {
-            "field": "[parameters('testString')]",
+            "value": "[parameters('testString')]",
             "equals": "test"
           },
           {
