@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkZonePeers/action",
-  "OperationName": "Zonepeers controleren",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Check Zone Peers",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "",
-  "Description": "Zonepeers controleren",
+  "Description": "Check Zone Peers",
   "IsDataAction": false
 }

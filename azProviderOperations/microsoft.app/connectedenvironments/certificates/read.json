@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/certificates/read",
-  "OperationName": "Read Connected Environment Certificate",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Certificate",
-  "Description": "Get a Connected Environment's Certificate",
-  "IsDataAction": false
-}

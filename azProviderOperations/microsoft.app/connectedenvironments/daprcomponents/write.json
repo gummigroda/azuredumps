@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/daprcomponents/write",
-  "OperationName": "Create or Update Connected Environment Dapr Component",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment Dapr Component",
-  "Description": "Create or Update Connected Environment Dapr Component",
-  "IsDataAction": false
-}

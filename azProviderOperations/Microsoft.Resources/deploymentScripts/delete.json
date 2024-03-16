@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/delete",
-  "OperationName": "Een implementatiescript verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatiescripts",
-  "Description": "Hiermee kunt u een implementatiescript verwijderen",
+  "OperationName": "Delete deployment script",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Scripts",
+  "Description": "Deletes a deployment script",
   "IsDataAction": false
 }

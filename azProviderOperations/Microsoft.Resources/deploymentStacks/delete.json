@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/delete",
-  "OperationName": "Een implementatiestack verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatiestacks",
-  "Description": "Hiermee wordt een implementatiestack verwijderd",
+  "OperationName": "Delete a deployment stack",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Stacks",
+  "Description": "Deletes a deployment stack",
   "IsDataAction": false
 }

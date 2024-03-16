@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/operations/read",
-  "OperationName": "Implementatiebewerking ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatiebewerking",
-  "Description": "Hiermee kunt u implementatiebewerkingen ophalen of opnemen in een lijst.",
+  "OperationName": "Get Deployment Operation",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Operation",
+  "Description": "Gets or lists deployment operations.",
   "IsDataAction": false
 }

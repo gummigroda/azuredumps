@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptionRegistrations/read",
-  "OperationName": "Abonnementsregistraties ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementsregistraties",
-  "Description": "Abonnementsregistratie voor een naamruimte van een resourceprovider ophalen.",
+  "OperationName": "Get Subscription Registrations",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Registrations",
+  "Description": "Get Subscription Registration for a resource provider namespace.",
   "IsDataAction": false
 }

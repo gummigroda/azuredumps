@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/operationstatuses/read",
-  "OperationName": "Status van implementatiebewerking ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Status van implementatiebewerking",
-  "Description": "Hiermee worden lijsten met statussen van implementatiebewerkingen opgehaald.",
+  "OperationName": "Get deployment operation status",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment operation status",
+  "Description": "Gets or lists deployment operation statuses.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/locations/read",
-  "OperationName": "Locaties ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Locatie",
-  "Description": "Hiermee kunt u de lijst met ondersteunde locaties ophalen.",
+  "OperationName": "Get Locations",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Location",
+  "Description": "Gets the list of locations supported.",
   "IsDataAction": false
 }

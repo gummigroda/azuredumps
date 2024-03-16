@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/moveResources/action",
-  "OperationName": "Resources van resourcegroep verplaatsen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resourcegroep",
-  "Description": "Hiermee kunt u resources van een resourcegroep naar een andere resourcegroep verplaatsen.",
+  "OperationName": "Move Resource Group Resources",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Group",
+  "Description": "Moves resources from one resource group to another.",
   "IsDataAction": false
 }

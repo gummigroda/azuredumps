@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/read",
-  "OperationName": "Versie van sjabloonspecificaties lezen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Versies van sjabloonspecificaties",
-  "Description": "Hiermee worden de sjabloonspecificaties opgehaald of weergegeven",
+  "OperationName": "Read template spec version",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Template Spec Versions",
+  "Description": "Gets or lists template specs",
   "IsDataAction": false
 }

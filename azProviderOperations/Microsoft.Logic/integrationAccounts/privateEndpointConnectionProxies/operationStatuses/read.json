@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Logic/integrationAccounts/privateEndpointConnectionProxies/operationStatuses/read",
+  "OperationName": "Get Private Endpoint Connection Proxies operation status.",
+  "ProviderNamespace": "Microsoft Logic",
+  "ResourceName": "Private Endpoints Connection Proxies",
+  "Description": "Gets Private Endpoint Connection Proxies operation status.",
+  "IsDataAction": false
+}

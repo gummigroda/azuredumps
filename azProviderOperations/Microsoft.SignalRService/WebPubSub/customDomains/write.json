@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.SignalRService/WebPubSub/customDomains/write",
-  "OperationName": "",
-  "ProviderNamespace": "Microsoft.SignalRService",
-  "ResourceName": "WebPubSub/CustomDomains",
-  "Description": "",
-  "IsDataAction": false
-}

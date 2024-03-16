@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/read",
-  "OperationName": "Abonnementstagwaarde ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementstagwaarde",
-  "Description": "Hiermee kunt u abonnementstagwaarden ophalen of opnemen in een lijst.",
+  "OperationName": "Get Subscription Tag Value",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Tag Value",
+  "Description": "Gets or lists subscription tag values.",
   "IsDataAction": false
 }

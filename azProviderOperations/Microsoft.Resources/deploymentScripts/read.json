@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/read",
-  "OperationName": "Implementatiescripts lezen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatiescripts",
-  "Description": "Hiermee kunt u implementatiescripts ophalen of weergeven",
+  "OperationName": "Read deployment scripts",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Scripts",
+  "Description": "Gets or lists deployment scripts",
   "IsDataAction": false
 }

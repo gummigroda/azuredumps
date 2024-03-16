@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/delete",
-  "OperationName": "Een sjabloonspecificatie verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Sjabloonspecificaties",
-  "Description": "Hiermee wordt een sjabloonspecificatie verwijderd",
+  "OperationName": "Delete a template spec",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Template Specs",
+  "Description": "Deletes a template spec",
   "IsDataAction": false
 }

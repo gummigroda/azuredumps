@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/delete",
-  "OperationName": "Resourcekoppeling verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resourcekoppeling",
-  "Description": "Hiermee kunt u een resourcekoppeling verwijderen.",
+  "OperationName": "Delete Resource Link",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Link",
+  "Description": "Deletes a resource link.",
   "IsDataAction": false
 }

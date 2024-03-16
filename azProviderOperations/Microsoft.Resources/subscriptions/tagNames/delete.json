@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/delete",
-  "OperationName": "Abonnementstag verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementstag",
-  "Description": "Hiermee kunt u een abonnementstag verwijderen.",
+  "OperationName": "Delete Subscription Tag",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Tag",
+  "Description": "Deletes a subscription tag.",
   "IsDataAction": false
 }

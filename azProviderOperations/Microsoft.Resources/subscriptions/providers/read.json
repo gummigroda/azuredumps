@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/providers/read",
-  "OperationName": "Resourceproviders ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resourceproviders",
-  "Description": "Hiermee kunt u de resourceproviders ophalen of opnemen in een lijst.",
+  "OperationName": "Get Resource Providers",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Providers",
+  "Description": "Gets or lists resource providers.",
   "IsDataAction": false
 }

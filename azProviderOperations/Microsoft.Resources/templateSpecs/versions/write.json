@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/write",
-  "OperationName": "Een versie van sjabloonspecificaties schrijven",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Versies van sjabloonspecificaties",
-  "Description": "Hiermee wordt een versie van sjabloonspecificaties gemaakt of bijgewerkt",
+  "OperationName": "Write a template spec version",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Template Spec Versions",
+  "Description": "Creates or updates a template spec version",
   "IsDataAction": false
 }

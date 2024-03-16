@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/delete",
-  "OperationName": "Abonnementstagwaarde verwijderen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementstagwaarde",
-  "Description": "Hiermee kunt een abonnementstagwaarde verwijderen.",
+  "OperationName": "Delete Subscription Tag Value",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Tag Value",
+  "Description": "Deletes a subscription tag value.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkPolicyCompliance/read",
-  "OperationName": "Naleving van het beleid controleren",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Naleving van het beleid controleren",
-  "Description": "Controleer de nalevingsstatus van een bepaalde resource aan de hand van het beleid voor resources.",
+  "OperationName": "Check Policy Compliance",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Check Policy Compliance",
+  "Description": "Check the compliance status of a given resource against resource policies.",
   "IsDataAction": false
 }
