@@ -46,7 +46,6 @@
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
     "Microsoft.Datadog",
-    "Microsoft.DeviceUpdate",
     "Microsoft.Elastic",
     "Microsoft.HealthBot",
     "Microsoft.HybridContainerService",
