@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "As outlined in the unified vulnerability assessment solution strategy blog (https://aka.ms/MDCUnifiedVAblog), we have made a strategic decision to unify all vulnerability assessment solutions in Defender for Cloud to use Defender vulnerability management. As part of this change, the built-in Qualys offering is now retired. See https://aka.ms/TransitionToMDVM4Containers for more information and transition guidelines.",
-    "DisplayName": "Azure running container images should have vulnerabilities resolved (powered by Qualys)",
+    "DisplayName": "[Deprecated]: Azure running container images should have vulnerabilities resolved (powered by Qualys)",
     "Metadata": {
-      "version": "1.0.3",
-      "category": "Security Center"
+      "version": "1.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
