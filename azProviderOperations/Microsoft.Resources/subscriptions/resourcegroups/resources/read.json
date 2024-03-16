@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/resources/read",
-  "OperationName": "Resources voor resourcegroep ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resources van resourcegroep",
-  "Description": "Hiermee worden de resources voor de resourcegroep opgehaald.",
+  "OperationName": "Get Resource Group Resources",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Group Resources",
+  "Description": "Gets the resources for the resource group.",
   "IsDataAction": false
 }

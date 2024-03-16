@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/allocateNonAzureResource/action",
+  "OperationName": "Allocate Non Azure Resource from Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Allocate CIDR range for non Azure resource from Ipam Pool",
+  "IsDataAction": false
+}

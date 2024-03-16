@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/whatIf/action",
-  "OperationName": "What if-implementatie",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Hiermee worden sjabloonimplementatiewijzigingen voorspeld.",
+  "OperationName": "Deployment What-If",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Predicts template deployment changes.",
   "IsDataAction": false
 }

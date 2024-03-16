@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tenants/read",
-  "OperationName": "Tenants ophalen",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Get Tenants",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "Tenant",
-  "Description": "Hiermee kunt u de lijst met tenants ophalen.",
+  "Description": "Gets the list of tenants.",
   "IsDataAction": false
 }

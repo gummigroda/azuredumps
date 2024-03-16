@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/write",
-  "OperationName": "Resourcegroep maken",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resourcegroep",
-  "Description": "Hiermee kunt u een resourcegroep maken of bijwerken.",
+  "OperationName": "Create Resource Group",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Group",
+  "Description": "Creates or updates a resource group.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/dataBoundaries/write",
-  "OperationName": "Aanmelden voor gegevensgrens",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Gegevensgrens",
-  "Description": "Aanmelden voor gegevensgrens op tenantniveau",
+  "OperationName": "Opt-in to Data Boundary",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Data Boundary",
+  "Description": "Tenant level opt-in to data boundary",
   "IsDataAction": false
 }

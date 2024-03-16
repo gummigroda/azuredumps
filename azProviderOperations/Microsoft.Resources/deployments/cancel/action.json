@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/cancel/action",
-  "OperationName": "Implementatie annuleren",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Hiermee kunt u een implementatie annuleren.",
+  "OperationName": "Cancel Deployment",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Cancels a deployment.",
   "IsDataAction": false
 }

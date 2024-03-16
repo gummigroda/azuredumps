@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/logs/read",
-  "OperationName": "Scriptlogboeken voor implementatie lezen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Scriptlogboeken voor implementatie",
-  "Description": "Hiermee worden de scriptlogboeken van de implementatie opgehaald of weergegeven",
+  "OperationName": "Read deployment script logs",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Script Logs",
+  "Description": "Gets or lists deployment script logs",
   "IsDataAction": false
 }

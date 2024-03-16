@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/write",
-  "OperationName": "Implementatiestack schrijven",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatiestacks",
-  "Description": "Hiermee wordt een implementatiestack gemaakt of bijgewerkt",
+  "OperationName": "Write deployment stack",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment Stacks",
+  "Description": "Creates or updates a deployment stack",
   "IsDataAction": false
 }

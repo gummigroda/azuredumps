@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkResourceName/action",
-  "OperationName": "Resourcenaam controleren",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Check Resource Name",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "",
-  "Description": "Controleer of de resourcenaam geldig is.",
+  "Description": "Check the resource name for validity.",
   "IsDataAction": false
 }

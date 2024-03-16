@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/delete",
-  "OperationName": "Delete Connected Environment",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment",
-  "Description": "Delete a Connected Environment",
-  "IsDataAction": false
-}

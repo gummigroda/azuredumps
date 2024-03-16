@@ -1,0 +1,8 @@
+{
+  "Operation": "Microsoft.Network/networkManagers/ipamPools/disassociateResourcesFromPool/action",
+  "OperationName": "Disassociate resources from Ipam Pool",
+  "ProviderNamespace": "Microsoft Network",
+  "ResourceName": "Ipam Pool",
+  "Description": "Disassociate Azure resources (i.e. VNet) from Ipam Pool",
+  "IsDataAction": false
+}

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourcegroups/deployments/write",
-  "OperationName": "Implementatie maken",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Hiermee kunt u een implementatie maken of bijwerken.",
+  "OperationName": "Create Deployment",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Creates or updates an deployment.",
   "IsDataAction": false
 }

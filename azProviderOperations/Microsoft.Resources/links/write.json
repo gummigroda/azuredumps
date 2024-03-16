@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/write",
-  "OperationName": "Resourcekoppeling maken",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Resourcekoppeling",
-  "Description": "Hiermee kunt u een resourcekoppeling maken of bijwerken.",
+  "OperationName": "Create Resource Link",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Resource Link",
+  "Description": "Creates or updates a resource link.",
   "IsDataAction": false
 }

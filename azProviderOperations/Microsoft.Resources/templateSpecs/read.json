@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/read",
-  "OperationName": "Sjabloonspecificatie lezen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Sjabloonspecificaties",
-  "Description": "Hiermee worden de sjabloonspecificaties opgehaald of weergegeven",
+  "OperationName": "Read template spec",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Template Specs",
+  "Description": "Gets or lists template specs",
   "IsDataAction": false
 }

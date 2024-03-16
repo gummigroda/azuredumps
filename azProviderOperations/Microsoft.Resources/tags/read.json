@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tags/read",
-  "OperationName": "Tags lezen",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Read tags",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "Tags",
-  "Description": "Hiermee worden alle tags in een resource opgehaald.",
+  "Description": "Gets all the tags on a resource.",
   "IsDataAction": false
 }

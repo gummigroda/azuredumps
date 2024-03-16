@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/validate/action",
-  "OperationName": "Implementatie valideren",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Hiermee kunt u een implementatie valideren.",
+  "OperationName": "Validate Deployment",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Validates an deployment.",
   "IsDataAction": false
 }

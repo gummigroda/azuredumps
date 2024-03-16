@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/exportTemplate/action",
-  "OperationName": "Sjabloon voor implementatie exporteren",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Sjabloon voor een implementatie exporteren",
+  "OperationName": "Export template for deployment",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Export template for a deployment",
   "IsDataAction": false
 }

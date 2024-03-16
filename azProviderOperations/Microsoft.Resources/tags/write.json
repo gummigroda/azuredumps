@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tags/write",
-  "OperationName": "Tags schrijven",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Write tags",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "Tags",
-  "Description": "Hiermee worden de tags voor een resource bijgewerkt door bestaande tags te vervangen of samen te voegen met een nieuwe set tags of door bestaande tags te verwijderen.",
+  "Description": "Updates the tags on a resource by replacing or merging existing tags with a new set of tags, or removing existing tags.",
   "IsDataAction": false
 }

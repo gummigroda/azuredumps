@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/write",
-  "OperationName": "Abonnementstagwaarde toevoegen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementstagwaarde",
-  "Description": "Hiermee kunt u een abonnementstagwaarde toevoegen.",
+  "OperationName": "Add Subscription Tag Value",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Tag Value",
+  "Description": "Adds a subscription tag value.",
   "IsDataAction": false
 }

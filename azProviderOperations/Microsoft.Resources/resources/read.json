@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/resources/read",
-  "OperationName": "Resources ophalen",
-  "ProviderNamespace": "Microsoft-resources",
+  "OperationName": "Get Resources",
+  "ProviderNamespace": "Microsoft Resources",
   "ResourceName": "Resources",
-  "Description": "Hiermee wordt de lijst met resources op basis van filters opgehaald.",
+  "Description": "Get the list of resources based upon filters.",
   "IsDataAction": false
 }

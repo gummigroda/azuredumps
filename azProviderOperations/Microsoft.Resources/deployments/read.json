@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/read",
-  "OperationName": "Implementatie ophalen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Implementatie",
-  "Description": "Hiermee kunt u implementaties ophalen of opnemen in een lijst.",
+  "OperationName": "Get Deployment",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Deployment",
+  "Description": "Gets or lists deployments.",
   "IsDataAction": false
 }

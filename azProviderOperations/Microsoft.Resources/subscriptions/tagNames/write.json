@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/write",
-  "OperationName": "Abonnementstag toevoegen",
-  "ProviderNamespace": "Microsoft-resources",
-  "ResourceName": "Abonnementstag",
-  "Description": "Hiermee kunt u een abonnementstag toevoegen.",
+  "OperationName": "Add Subscription Tag",
+  "ProviderNamespace": "Microsoft Resources",
+  "ResourceName": "Subscription Tag",
+  "Description": "Adds a subscription tag.",
   "IsDataAction": false
 }
