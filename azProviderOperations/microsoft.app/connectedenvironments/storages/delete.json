@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/storages/delete",
+  "OperationName": "Delete a Connected Environment Storage",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment Storage",
+  "Description": "Delete a storage of Connected Environment.",
+  "IsDataAction": false
+}

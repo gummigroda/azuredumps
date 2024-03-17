@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/certificates/delete",
+  "OperationName": "Delete Connected Environment's Certificate",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Delete a Connected Environment's Certificate",
+  "IsDataAction": false
+}
