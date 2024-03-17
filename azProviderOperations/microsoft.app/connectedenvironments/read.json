@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/read",
+  "OperationName": "Read Connected Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment",
+  "Description": "Get a Connected Environment",
+  "IsDataAction": false
+}

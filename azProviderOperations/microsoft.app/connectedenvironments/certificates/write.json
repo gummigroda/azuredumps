@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/certificates/write",
+  "OperationName": "Create or Update Connected Environment Certificate",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Certificate",
+  "Description": "Create or update a Connected Environment Certificate",
+  "IsDataAction": false
+}
