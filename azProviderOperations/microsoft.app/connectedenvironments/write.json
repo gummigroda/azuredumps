@@ -1,0 +1,8 @@
+{
+  "Operation": "microsoft.app/connectedenvironments/write",
+  "OperationName": "Create or Update Connected Environment",
+  "ProviderNamespace": "Microsoft Apps",
+  "ResourceName": "Connected Environment",
+  "Description": "Create or update a Connected Environment",
+  "IsDataAction": false
+}
