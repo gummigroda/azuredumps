@@ -70,6 +70,7 @@
     "Microsoft.HybridCloud",
     "Microsoft.IoTSecurity",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
     "Microsoft.NetworkFunction",

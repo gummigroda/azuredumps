@@ -97,6 +97,7 @@
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.Mission",
     "Microsoft.Monitor",
     "Microsoft.NetApp",

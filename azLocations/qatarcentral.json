@@ -69,6 +69,7 @@
     "Microsoft.ExtendedLocation",
     "Microsoft.Fabric",
     "Microsoft.HybridCloud",
+    "Microsoft.LoadTestService",
     "Microsoft.Migrate",
     "Microsoft.NetApp",
     "Microsoft.OffAzure",

@@ -66,6 +66,7 @@
     "Microsoft.Fabric",
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
+    "Microsoft.LoadTestService",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
     "Microsoft.OffAzure",

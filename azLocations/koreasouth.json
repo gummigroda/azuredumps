@@ -75,6 +75,7 @@
     "Microsoft.IoTSecurity",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
