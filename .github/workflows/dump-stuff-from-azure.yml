@@ -72,6 +72,7 @@ jobs:
 
   Get-ProviderOperations:
     runs-on: ubuntu-latest
+    if: false
     steps:
       ## CHECKOUT CODE
       - name: Checkout code
