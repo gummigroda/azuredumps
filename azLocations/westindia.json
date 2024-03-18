@@ -68,6 +68,7 @@
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTSecurity",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.Peering",
     "Microsoft.Portal",
     "Microsoft.PowerBI",

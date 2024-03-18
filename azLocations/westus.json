@@ -126,6 +126,7 @@
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.MarketplaceOrdering",
     "Microsoft.Mission",
     "Microsoft.Monitor",
@@ -163,6 +164,7 @@
     "Microsoft.VirtualMachineImages",
     "microsoft.visualstudio",
     "Microsoft.VMware",
+    "Microsoft.WindowsIoT",
     "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"

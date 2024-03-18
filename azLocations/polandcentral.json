@@ -59,6 +59,7 @@
     "Microsoft.HybridCloud",
     "Microsoft.IntegrationSpaces",
     "Microsoft.KubernetesConfiguration",
+    "Microsoft.LoadTestService",
     "Microsoft.Migrate",
     "Microsoft.OffAzure",
     "Microsoft.Resources",

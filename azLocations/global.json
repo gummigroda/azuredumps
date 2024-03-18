@@ -61,6 +61,7 @@
     "Microsoft.SecurityCopilot",
     "Microsoft.Sovereign",
     "Microsoft.TestBase",
-    "Microsoft.VoiceServices"
+    "Microsoft.VoiceServices",
+    "Oracle.Database"
   ]
 }

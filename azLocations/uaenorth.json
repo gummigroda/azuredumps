@@ -93,6 +93,7 @@
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
+    "Microsoft.LoadTestService",
     "Microsoft.ManagedNetworkFabric",
     "Microsoft.Migrate",
     "Microsoft.MobileNetwork",
