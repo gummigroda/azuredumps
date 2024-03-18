@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/delete",
-  "OperationName": "Delete a deployment stack",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment Stacks",
-  "Description": "Deletes a deployment stack",
+  "OperationName": "Eliminar una pila de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Pilas de implementación",
+  "Description": "Elimina una pila de implementación",
   "IsDataAction": false
 }

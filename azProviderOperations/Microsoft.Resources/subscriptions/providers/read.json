@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/providers/read",
-  "OperationName": "Get Resource Providers",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Providers",
-  "Description": "Gets or lists resource providers.",
+  "OperationName": "Obtener proveedores de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Proveedores de recursos",
+  "Description": "Obtiene o enumera proveedores de recursos.",
   "IsDataAction": false
 }

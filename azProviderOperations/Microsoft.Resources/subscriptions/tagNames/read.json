@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/read",
-  "OperationName": "Get Subscription Tag",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription Tag",
-  "Description": "Gets or lists subscription tags.",
+  "OperationName": "Obtener etiqueta de suscripción",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Etiqueta de suscripción",
+  "Description": "Obtiene o enumera etiquetas de suscripción.",
   "IsDataAction": false
 }

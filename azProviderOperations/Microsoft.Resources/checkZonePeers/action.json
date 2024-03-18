@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkZonePeers/action",
-  "OperationName": "Check Zone Peers",
-  "ProviderNamespace": "Microsoft Resources",
+  "OperationName": "Comprobar elementos del mismo nivel de zona",
+  "ProviderNamespace": "Recursos de Microsoft",
   "ResourceName": "",
-  "Description": "Check Zone Peers",
+  "Description": "Comprobar elementos del mismo nivel de zona",
   "IsDataAction": false
 }

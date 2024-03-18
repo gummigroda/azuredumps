@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/delete",
-  "OperationName": "Delete deployment script",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment Scripts",
-  "Description": "Deletes a deployment script",
+  "OperationName": "Eliminar script de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Scripts de implementación",
+  "Description": "Elimina un script de implementación",
   "IsDataAction": false
 }

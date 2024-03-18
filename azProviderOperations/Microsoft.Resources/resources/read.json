@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/resources/read",
-  "OperationName": "Get Resources",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resources",
-  "Description": "Get the list of resources based upon filters.",
+  "OperationName": "Obtener recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Recursos",
+  "Description": "Obtener la lista de recursos en función de los filtros.",
   "IsDataAction": false
 }

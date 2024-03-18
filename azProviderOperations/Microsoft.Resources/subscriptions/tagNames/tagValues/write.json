@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/tagValues/write",
-  "OperationName": "Add Subscription Tag Value",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription Tag Value",
-  "Description": "Adds a subscription tag value.",
+  "OperationName": "Agregar valor de etiqueta de suscripción",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Valor de etiqueta de suscripción",
+  "Description": "Agrega un valor de etiqueta de suscripción.",
   "IsDataAction": false
 }

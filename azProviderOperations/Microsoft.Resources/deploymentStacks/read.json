@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/read",
-  "OperationName": "Read deployment stack",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment Stacks",
-  "Description": "Gets or lists deployment stacks",
+  "OperationName": "Leer la pila de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Pilas de implementación",
+  "Description": "Obtiene o enumera pilas de implementación",
   "IsDataAction": false
 }

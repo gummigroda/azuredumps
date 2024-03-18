@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/read",
-  "OperationName": "Get Subscriptions",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription",
-  "Description": "Gets the list of subscriptions.",
+  "OperationName": "Obtener suscripciones",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Suscripción",
+  "Description": "Obtiene la lista de suscripciones.",
   "IsDataAction": false
 }

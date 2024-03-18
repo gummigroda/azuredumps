@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.SignalRService/SignalR/customDomains/delete",
-  "OperationName": "",
-  "ProviderNamespace": "Microsoft.SignalRService",
-  "ResourceName": "SignalR/CustomDomains",
-  "Description": "",
-  "IsDataAction": false
-}

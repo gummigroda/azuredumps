@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/delete",
-  "OperationName": "Delete mobo broker",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Mobo Broker",
-  "Description": "Deletes a mobo broker",
+  "OperationName": "Eliminar agente de MOBO",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Agente de MOBO",
+  "Description": "Elimina un agente de MOBO",
   "IsDataAction": false
 }

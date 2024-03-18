@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/delete",
-  "OperationName": "Delete Resource Group",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Group",
-  "Description": "Deletes a resource group and all its resources.",
+  "OperationName": "Eliminar grupo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Grupo de recursos",
+  "Description": "Elimina un grupo de recursos y todos sus recursos.",
   "IsDataAction": false
 }

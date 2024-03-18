@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/delete",
-  "OperationName": "Delete Deployment",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment",
-  "Description": "Deletes a deployment.",
+  "OperationName": "Eliminar implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Implementación",
+  "Description": "Elimina una implementación.",
   "IsDataAction": false
 }

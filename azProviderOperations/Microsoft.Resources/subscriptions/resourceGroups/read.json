@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/read",
-  "OperationName": "Get Resource Group",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Group",
-  "Description": "Gets or lists resource groups.",
+  "OperationName": "Obtener grupo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Grupo de recursos",
+  "Description": "Obtiene o enumera grupos de recursos.",
   "IsDataAction": false
 }

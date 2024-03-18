@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/tenants/read",
-  "OperationName": "Get Tenants",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Tenant",
-  "Description": "Gets the list of tenants.",
+  "OperationName": "Obtener inquilinos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Inquilino",
+  "Description": "Obtiene la lista de inquilinos.",
   "IsDataAction": false
 }

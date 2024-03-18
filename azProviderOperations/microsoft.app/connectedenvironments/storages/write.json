@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/storages/write",
-  "OperationName": "Create or Update a Connected Environment Storage.",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment Storage",
-  "Description": "Create or Update a storage of Connected Environment.",
-  "IsDataAction": false
-}

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/validateMoveResources/action",
-  "OperationName": "Validate Move Resource Group Resources",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Group",
-  "Description": "Validate move of resources from one resource group to another.",
+  "OperationName": "Validar el traslado de recursos del grupo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Grupo de recursos",
+  "Description": "Valida el traslado de recursos de un grupo de recursos a otro.",
   "IsDataAction": false
 }

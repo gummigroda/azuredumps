@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/read",
-  "OperationName": "Read template spec",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Template Specs",
-  "Description": "Gets or lists template specs",
+  "OperationName": "Leer especificación de plantilla",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Especificaciones de plantilla",
+  "Description": "Obtiene o muestra las especificaciones de plantilla.",
   "IsDataAction": false
 }

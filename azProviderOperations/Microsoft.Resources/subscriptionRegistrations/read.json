@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptionRegistrations/read",
-  "OperationName": "Get Subscription Registrations",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription Registrations",
-  "Description": "Get Subscription Registration for a resource provider namespace.",
+  "OperationName": "Obtener registros de suscripción",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Registros de suscripción",
+  "Description": "Obtener el registro de suscripción para un espacio de nombres del proveedor de recursos.",
   "IsDataAction": false
 }

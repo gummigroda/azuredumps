@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/locations/connectedenvironmentoperationstatuses/read",
-  "OperationName": "Read Connected Environment Operation Status",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment",
-  "Description": "Get a Connected Environment Long Running Operation Status",
-  "IsDataAction": false
-}

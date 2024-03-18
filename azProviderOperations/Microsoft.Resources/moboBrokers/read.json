@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/read",
-  "OperationName": "Get Mobo Broker",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Mobo Broker",
-  "Description": "Gets or lists mobo brokers",
+  "OperationName": "Obtener agente de MOBO",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Agente de MOBO",
+  "Description": "Obtiene o muestra una lista de agentes de MOBO",
   "IsDataAction": false
 }

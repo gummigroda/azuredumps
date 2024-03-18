@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/moboBrokers/write",
-  "OperationName": "Create Mobo Broker",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Mobo Broker",
-  "Description": "Creates or updates a mobo broker",
+  "OperationName": "Crear agente de MOBO",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Agente de MOBO",
+  "Description": "Crea o actualiza un agente de MOBO",
   "IsDataAction": false
 }

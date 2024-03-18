@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/whatIf/action",
-  "OperationName": "Deployment What-If",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment",
-  "Description": "Predicts template deployment changes.",
+  "OperationName": "Implementación de tipo \"y si\"",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Implementación",
+  "Description": "Predice los cambios de implementación de plantillas.",
   "IsDataAction": false
 }

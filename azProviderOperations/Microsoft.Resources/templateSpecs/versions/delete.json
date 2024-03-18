@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/versions/delete",
-  "OperationName": "Delete a template spec version",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Template Spec Versions",
-  "Description": "Deletes a template spec version",
+  "OperationName": "Eliminar una versión de especificación de plantilla",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Versiones de especificaciones de plantilla",
+  "Description": "Elimina una versión de especificación de plantilla.",
   "IsDataAction": false
 }
