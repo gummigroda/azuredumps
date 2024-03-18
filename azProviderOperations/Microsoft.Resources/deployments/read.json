@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/read",
-  "OperationName": "Get Deployment",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment",
-  "Description": "Gets or lists deployments.",
+  "OperationName": "Obtener implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Implementación",
+  "Description": "Obtiene o enumera implementaciones.",
   "IsDataAction": false
 }

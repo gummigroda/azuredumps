@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/storages/read",
-  "OperationName": "Read Connected Environment Storage.",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment Storage",
-  "Description": "Get storage for a Connected Environment.",
-  "IsDataAction": false
-}

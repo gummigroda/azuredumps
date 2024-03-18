@@ -1,8 +1,0 @@
-{
-  "Operation": "microsoft.app/connectedenvironments/checknameavailability/action",
-  "OperationName": "Check Connected Environment Name Availability",
-  "ProviderNamespace": "Microsoft Apps",
-  "ResourceName": "Connected Environment",
-  "Description": "Check reource name availability for a Connected Environment",
-  "IsDataAction": false
-}

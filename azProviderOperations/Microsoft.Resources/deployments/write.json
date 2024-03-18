@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/write",
-  "OperationName": "Create Deployment",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment",
-  "Description": "Creates or updates an deployment.",
+  "OperationName": "Crear implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Implementación",
+  "Description": "Crea o actualiza una implementación.",
   "IsDataAction": false
 }

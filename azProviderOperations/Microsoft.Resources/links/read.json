@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/read",
-  "OperationName": "Get Resource Link",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Link",
-  "Description": "Gets or lists resource links.",
+  "OperationName": "Obtener vínculo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Vínculo de recursos",
+  "Description": "Obtiene o enumera vínculos de recursos.",
   "IsDataAction": false
 }

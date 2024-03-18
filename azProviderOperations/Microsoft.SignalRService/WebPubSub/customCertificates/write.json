@@ -1,8 +1,0 @@
-{
-  "Operation": "Microsoft.SignalRService/WebPubSub/customCertificates/write",
-  "OperationName": "",
-  "ProviderNamespace": "Microsoft.SignalRService",
-  "ResourceName": "WebPubSub/CustomCertificates",
-  "Description": "",
-  "IsDataAction": false
-}

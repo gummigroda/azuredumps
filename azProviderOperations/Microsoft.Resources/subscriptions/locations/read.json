@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/locations/read",
-  "OperationName": "Get Locations",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Location",
-  "Description": "Gets the list of locations supported.",
+  "OperationName": "Obtener ubicaciones",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Ubicación",
+  "Description": "Obtiene la lista de ubicaciones admitidas.",
   "IsDataAction": false
 }

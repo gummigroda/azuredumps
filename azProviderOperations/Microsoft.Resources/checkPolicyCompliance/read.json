@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkPolicyCompliance/read",
-  "OperationName": "Check Policy Compliance",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Check Policy Compliance",
-  "Description": "Check the compliance status of a given resource against resource policies.",
+  "OperationName": "Comprobar cumplimiento de directivas",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Comprobar cumplimiento de directivas",
+  "Description": "Compruebe el estado de cumplimiento de un recurso determinado en relación con las directivas de recursos.",
   "IsDataAction": false
 }

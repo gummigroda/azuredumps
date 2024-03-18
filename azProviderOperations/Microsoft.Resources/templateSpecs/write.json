@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/write",
-  "OperationName": "Write template spec",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Template Specs",
-  "Description": "Creates or updates a template spec",
+  "OperationName": "Escribir especificación de plantilla",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Especificaciones de plantilla",
+  "Description": "Crea o actualiza una especificación de plantilla.",
   "IsDataAction": false
 }

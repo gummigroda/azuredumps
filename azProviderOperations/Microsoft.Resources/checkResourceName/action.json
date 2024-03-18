@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/checkResourceName/action",
-  "OperationName": "Check Resource Name",
-  "ProviderNamespace": "Microsoft Resources",
+  "OperationName": "Comprobar nombre del recurso",
+  "ProviderNamespace": "Recursos de Microsoft",
   "ResourceName": "",
-  "Description": "Check the resource name for validity.",
+  "Description": "Comprobar la validez del nombre del recurso.",
   "IsDataAction": false
 }

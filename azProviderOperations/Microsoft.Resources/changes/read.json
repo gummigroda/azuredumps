@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/changes/read",
-  "OperationName": "Read Changes",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Changes",
-  "Description": "Gets or lists changes",
+  "OperationName": "Leer cambios",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Cambios",
+  "Description": "Permite obtener o enumerar los cambios",
   "IsDataAction": false
 }

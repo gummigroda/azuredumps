@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/tagNames/delete",
-  "OperationName": "Delete Subscription Tag",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription Tag",
-  "Description": "Deletes a subscription tag.",
+  "OperationName": "Eliminar etiqueta de suscripción",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Etiqueta de suscripción",
+  "Description": "Elimina una etiqueta de suscripción.",
   "IsDataAction": false
 }

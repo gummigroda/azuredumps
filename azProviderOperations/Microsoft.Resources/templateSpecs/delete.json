@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/templateSpecs/delete",
-  "OperationName": "Delete a template spec",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Template Specs",
-  "Description": "Deletes a template spec",
+  "OperationName": "Eliminar una especificación de plantilla",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Especificaciones de plantilla",
+  "Description": "Elimina una especificación de plantilla.",
   "IsDataAction": false
 }

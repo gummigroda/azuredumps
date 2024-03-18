@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/links/delete",
-  "OperationName": "Delete Resource Link",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Link",
-  "Description": "Deletes a resource link.",
+  "OperationName": "Eliminar vínculo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Vínculo de recursos",
+  "Description": "Elimina un vínculo de recursos.",
   "IsDataAction": false
 }

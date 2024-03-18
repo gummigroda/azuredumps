@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentScripts/write",
-  "OperationName": "Write deployment script",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment Scripts",
-  "Description": "Creates or updates a deployment script",
+  "OperationName": "Escribir script de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Scripts de implementación",
+  "Description": "Crea o actualiza un script de implementación",
   "IsDataAction": false
 }

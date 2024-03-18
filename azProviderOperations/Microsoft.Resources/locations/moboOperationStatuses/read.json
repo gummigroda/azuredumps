@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/locations/moboOperationStatuses/read",
-  "OperationName": "Get the Mobo Service Operation Status",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Mobo Service Operation Status",
-  "Description": "Reads the Mobo Service Operation Status for the resource.",
+  "OperationName": "Obtener el estado de la operación del servicio Mobo",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Estado de la operación del servicio Mobo",
+  "Description": "Lee el estado de la operación del servicio Mobo para el recurso.",
   "IsDataAction": false
 }

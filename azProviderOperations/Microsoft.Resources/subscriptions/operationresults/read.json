@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/operationresults/read",
-  "OperationName": "Get Subscription Operation Results",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Subscription Operation Results",
-  "Description": "Get the subscription operation results.",
+  "OperationName": "Obtener resultados de la operación de suscripción",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Resultados de la operación de suscripción",
+  "Description": "Obtiene los resultados de la operación de suscripción.",
   "IsDataAction": false
 }

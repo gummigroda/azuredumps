@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/exportTemplate/action",
-  "OperationName": "Export template for deployment",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment",
-  "Description": "Export template for a deployment",
+  "OperationName": "Exportar una plantilla para la implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Implementación",
+  "Description": "Exportar una plantilla para una implementación",
   "IsDataAction": false
 }

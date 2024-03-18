@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/subscriptions/resourceGroups/write",
-  "OperationName": "Create Resource Group",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Resource Group",
-  "Description": "Creates or updates a resource group.",
+  "OperationName": "Crear grupo de recursos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Grupo de recursos",
+  "Description": "Crea o actualiza un grupo de recursos.",
   "IsDataAction": false
 }

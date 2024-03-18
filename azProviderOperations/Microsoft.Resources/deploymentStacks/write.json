@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deploymentStacks/write",
-  "OperationName": "Write deployment stack",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment Stacks",
-  "Description": "Creates or updates a deployment stack",
+  "OperationName": "Escribir la pila de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Pilas de implementación",
+  "Description": "Crea o actualiza una pila de implementación",
   "IsDataAction": false
 }

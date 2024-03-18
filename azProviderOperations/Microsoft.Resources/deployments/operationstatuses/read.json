@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/deployments/operationstatuses/read",
-  "OperationName": "Get deployment operation status",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Deployment operation status",
-  "Description": "Gets or lists deployment operation statuses.",
+  "OperationName": "Obtener el estado de la operación de implementación",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Estado de la operación de implementación",
+  "Description": "Obtiene o enumera los estados de la operación de implementación.",
   "IsDataAction": false
 }

@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/dataBoundaries/write",
-  "OperationName": "Opt-in to Data Boundary",
-  "ProviderNamespace": "Microsoft Resources",
-  "ResourceName": "Data Boundary",
-  "Description": "Tenant level opt-in to data boundary",
+  "OperationName": "Participación en el límite de datos",
+  "ProviderNamespace": "Recursos de Microsoft",
+  "ResourceName": "Límite de datos",
+  "Description": "Participación en el nivel de inquilino en el límite de datos",
   "IsDataAction": false
 }

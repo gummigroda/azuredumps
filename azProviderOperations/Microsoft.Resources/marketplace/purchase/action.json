@@ -1,8 +1,8 @@
 {
   "Operation": "Microsoft.Resources/marketplace/purchase/action",
-  "OperationName": "Purchase Resource",
-  "ProviderNamespace": "Microsoft Resources",
+  "OperationName": "Comprar recurso",
+  "ProviderNamespace": "Recursos de Microsoft",
   "ResourceName": "Marketplace",
-  "Description": "Purchases a resource from the marketplace.",
+  "Description": "Compra un recurso del Marketplace.",
   "IsDataAction": false
 }
