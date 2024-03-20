@@ -63,6 +63,7 @@
     "Microsoft.NetApp",
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",
+    "Microsoft.SerialConsole",
     "Microsoft.SqlVirtualMachine",
     "Microsoft.Synapse",
     "Microsoft.UsageBilling",
