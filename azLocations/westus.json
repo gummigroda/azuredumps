@@ -164,6 +164,7 @@
     "Microsoft.VirtualMachineImages",
     "microsoft.visualstudio",
     "Microsoft.VMware",
+    "Microsoft.WindowsIoT",
     "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
