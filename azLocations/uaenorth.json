@@ -121,6 +121,7 @@
     "Microsoft.UsageBilling",
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
+    "Microsoft.Workloads",
     "Qumulo.Storage"
   ]
 }

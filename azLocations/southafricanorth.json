@@ -121,6 +121,7 @@
     "Microsoft.Syntex",
     "Microsoft.UsageBilling",
     "Microsoft.VideoIndexer",
-    "Microsoft.VirtualMachineImages"
+    "Microsoft.VirtualMachineImages",
+    "Microsoft.Workloads"
   ]
 }

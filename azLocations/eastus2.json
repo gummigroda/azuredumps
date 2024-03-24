@@ -168,7 +168,6 @@
     "Microsoft.Workloads",
     "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
-    "PureStorage.Block",
     "Qumulo.Storage",
     "Wandisco.Fusion"
   ]
