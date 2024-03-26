@@ -35,6 +35,7 @@
     "Microsoft.AzureArcData",
     "Astronomer.Astro",
     "Dynatrace.Observability",
+    "Informatica.DataManagement",
     "Microsoft.ApiSecurity",
     "Microsoft.App",
     "Microsoft.AppAssessment",

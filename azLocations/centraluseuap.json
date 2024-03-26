@@ -6,7 +6,7 @@
   "Latitude": "41.5908",
   "PhysicalLocation": "",
   "RegionType": "Physical",
-  "RegionCategory": "Recommended",
+  "RegionCategory": "Other",
   "GeographyGroup": "US",
   "PairedRegion": [
     {
@@ -31,6 +31,7 @@
     "Microsoft.AzureArcData",
     "Astronomer.Astro",
     "Dynatrace.Observability",
+    "Informatica.DataManagement",
     "Microsoft.App",
     "Microsoft.AppConfiguration",
     "Microsoft.AzureScan",
