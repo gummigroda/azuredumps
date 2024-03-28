@@ -10,6 +10,7 @@
   "GeographyGroup": null,
   "PairedRegion": null,
   "Providers": [
+    "Microsoft.ManagedIdentity",
     "Microsoft.PowerPlatform"
   ]
 }
