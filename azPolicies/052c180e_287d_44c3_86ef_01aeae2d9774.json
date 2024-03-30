@@ -6,9 +6,9 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "If a virtual network already has traffic analytics enabled, then, this policy will overwrite its existing settings with the ones provided during policy creation. Traffic analytics is a cloud-based solution that provides visibility into user and application activity in cloud networks.",
-    "DisplayName": "Configure virtual networks to use specific workspace, storage account and retention interval for Flow logs and Traffic Analytics",
+    "DisplayName": "Configure virtual networks to enforce workspace, storage account and retention interval for Flow logs and Traffic Analytics",
     "Metadata": {
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Network"
     },
     "Mode": "Indexed",
