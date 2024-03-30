@@ -112,6 +112,7 @@
     "Microsoft.FluidRelay",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.HybridCloud",
+    "Microsoft.HybridContainerService",
     "Microsoft.HybridNetwork",
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTCentral",
