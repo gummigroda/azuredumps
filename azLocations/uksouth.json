@@ -142,6 +142,7 @@
     "Microsoft.SaaSHub",
     "Microsoft.Scom",
     "Microsoft.ScVmm",
+    "Microsoft.SecurityCopilot",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",
     "Microsoft.ServiceNetworking",
