@@ -104,6 +104,7 @@
     "Microsoft.DigitalTwins",
     "Microsoft.ExtendedLocation",
     "Microsoft.Fabric",
+    "Microsoft.HardwareSecurityModules",
     "Microsoft.HealthBot",
     "Microsoft.HybridCloud",
     "Microsoft.HybridNetwork",
