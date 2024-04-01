@@ -35,6 +35,7 @@
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
     "Microsoft.ContainerInstance",
+    "Microsoft.StreamAnalytics",
     "Microsoft.Automation",
     "Microsoft.Media",
     "microsoft.insights",

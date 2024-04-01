@@ -120,6 +120,7 @@
     "Microsoft.Syntex",
     "Microsoft.UsageBilling",
     "Microsoft.VideoIndexer",
+    "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage",
     "Wandisco.Fusion"
   ]
