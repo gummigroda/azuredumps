@@ -46,6 +46,7 @@
     "Microsoft.AlertsManagement",
     "Microsoft.ServiceLinker",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
