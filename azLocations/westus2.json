@@ -83,6 +83,7 @@
     "Microsoft.App",
     "Microsoft.AppConfiguration",
     "Microsoft.ArcNetworking",
+    "Microsoft.Attestation",
     "Microsoft.Automanage",
     "Microsoft.AzureLargeInstance",
     "Microsoft.AzureSphere",
