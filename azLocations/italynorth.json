@@ -54,6 +54,7 @@
     "Microsoft.AlertsManagement",
     "Microsoft.HybridCompute",
     "Microsoft.HybridConnectivity",
+    "Microsoft.AzureArcData",
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.BareMetal",
