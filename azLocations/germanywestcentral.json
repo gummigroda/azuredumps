@@ -68,6 +68,7 @@
     "Microsoft.AlertsManagement",
     "Microsoft.HybridCompute",
     "Microsoft.HybridConnectivity",
+    "Microsoft.AzureArcData",
     "Microsoft.ServiceLinker",
     "GitHub.Network",
     "Informatica.DataManagement",

@@ -66,6 +66,7 @@
     "Microsoft.HDInsight",
     "Microsoft.AlertsManagement",
     "Microsoft.HybridConnectivity",
+    "Microsoft.AzureArcData",
     "Microsoft.ServiceLinker",
     "microsoft.aadiam",
     "Microsoft.AppConfiguration",
