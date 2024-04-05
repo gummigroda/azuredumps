@@ -73,6 +73,7 @@
     "Microsoft.AzureArcData",
     "Microsoft.ServiceLinker",
     "GitHub.Network",
+    "Informatica.DataManagement",
     "Microsoft.AadCustomSecurityAttributesDiagnosticSettings",
     "microsoft.aadiam",
     "Microsoft.ADHybridHealthService",
