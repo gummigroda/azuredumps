@@ -86,6 +86,7 @@
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevCenter",
     "Microsoft.DevHub",
+    "Microsoft.Edge",
     "Microsoft.Elastic",
     "Microsoft.ElasticSan",
     "Microsoft.ExtendedLocation",

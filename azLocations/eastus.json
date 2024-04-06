@@ -128,6 +128,7 @@
     "Microsoft.DeviceUpdate",
     "Microsoft.DigitalTwins",
     "Microsoft.Easm",
+    "Microsoft.Edge",
     "Microsoft.EdgeOrder",
     "Microsoft.EdgeOrderPartner",
     "Microsoft.Elastic",
