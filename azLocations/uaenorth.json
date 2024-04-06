@@ -100,6 +100,7 @@
     "Microsoft.MobilePacketCore",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
+    "Microsoft.NetworkAnalytics",
     "Microsoft.NetworkCloud",
     "Microsoft.NetworkFunction",
     "Microsoft.OffAzure",

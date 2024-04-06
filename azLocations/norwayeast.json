@@ -85,6 +85,7 @@
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",
     "Microsoft.Easm",
+    "Microsoft.Edge",
     "Microsoft.ExtendedLocation",
     "Microsoft.Fabric",
     "Microsoft.FluidRelay",
