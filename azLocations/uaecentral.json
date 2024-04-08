@@ -56,7 +56,6 @@
     "Microsoft.SqlVirtualMachine",
     "Microsoft.StandbyPool",
     "Microsoft.StorageSync",
-    "Microsoft.Synapse",
-    "Microsoft.UsageBilling"
+    "Microsoft.Synapse"
   ]
 }
