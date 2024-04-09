@@ -1,0 +1,49 @@
+{
+  "Name": "5f86d473-38a8-46c9-bdfe-d7fa3b9836bf",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/5f86d473-38a8-46c9-bdfe-d7fa3b9836bf",
+  "ResourceName": "5f86d473-38a8-46c9-bdfe-d7fa3b9836bf",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Setting container memory limits to prevent resource exhaustion attacks in a Kubernetes cluster.",
+    "DisplayName": "[Preview]: Sets Kubernetes cluster containers memory limits to default values in case not present or exceeding limits.",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Kubernetes",
+      "preview": true
+    },
+    "Mode": "Microsoft.Kubernetes.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Mutate' modifies a non-compliant resource to be compliant when creating or updating. 'Disabled' turns off the policy.",
+          "portalReview": true
+        },
+        "allowedValues": [
+          "Mutate",
+          "Disabled"
+        ],
+        "defaultValue": "Mutate"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "mutationInfo": {
+            "sourceType": "PublicURL",
+            "url": "https://store.policy.core.windows.net/kubernetes/mutate-resource-memory-limits/v1/mutation.yaml"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5f86d473-38a8-46c9-bdfe-d7fa3b9836bf"
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "e16d171b-bfe5-4d79-a525-19736b396e92",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/e16d171b-bfe5-4d79-a525-19736b396e92",
+  "ResourceName": "e16d171b-bfe5-4d79-a525-19736b396e92",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "To avoid eviction of user apps from user pools and maintain separation of concerns between the user and system pools, the 'CriticalAddonsOnly' taint should not be applied to user pools.",
+    "DisplayName": "[Preview]: Restricts the CriticalAddonsOnly taint to just the system pool.",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Kubernetes",
+      "preview": true
+    },
+    "Mode": "Microsoft.Kubernetes.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Mutate' modifies a non-compliant resource be compliant when creating or updating. 'Disabled' turns off the policy.",
+          "portalReview": true
+        },
+        "allowedValues": [
+          "Mutate",
+          "Disabled"
+        ],
+        "defaultValue": "Mutate"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "mutationInfo": {
+            "sourceType": "PublicURL",
+            "url": "https://store.policy.core.windows.net/kubernetes/mutate-systempool-taints/v1/mutation.yaml"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e16d171b-bfe5-4d79-a525-19736b396e92"
+}

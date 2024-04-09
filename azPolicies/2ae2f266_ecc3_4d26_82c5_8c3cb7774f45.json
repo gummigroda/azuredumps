@@ -1,0 +1,49 @@
+{
+  "Name": "2ae2f266-ecc3-4d26-82c5-8c3cb7774f45",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/2ae2f266-ecc3-4d26-82c5-8c3cb7774f45",
+  "ResourceName": "2ae2f266-ecc3-4d26-82c5-8c3cb7774f45",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Setting readOnlyRootFileSystem to true increases security by preventing containers from writing into the root filesystem. This works only for linux containers.",
+    "DisplayName": "[Preview]: Sets readOnlyRootFileSystem in the Pod spec in init containers to true if it is not set.",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Kubernetes",
+      "preview": true
+    },
+    "Mode": "Microsoft.Kubernetes.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Mutate' modifies a non-compliant resource be compliant when creating or updating. 'Disabled' turns off the policy.",
+          "portalReview": true
+        },
+        "allowedValues": [
+          "Mutate",
+          "Disabled"
+        ],
+        "defaultValue": "Mutate"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "mutationInfo": {
+            "sourceType": "PublicURL",
+            "url": "https://store.policy.core.windows.net/kubernetes/mutate-read-only-root-filesystem-init-containers/v1/mutation.yaml"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2ae2f266-ecc3-4d26-82c5-8c3cb7774f45"
+}

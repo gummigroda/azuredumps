@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "To improve the security of Cognitive Services accounts, ensure that it isn't exposed to the public internet and can only be accessed from a private endpoint. Disable the public network access property as described in https://go.microsoft.com/fwlink/?linkid=2129800. This option disables access from any public address space outside the Azure IP range, and denies all logins that match IP or virtual network-based firewall rules. This reduces data leakage risks.",
-    "DisplayName": "Cognitive Services accounts should disable public network access",
+    "DisplayName": "[Deprecated]: Cognitive Services accounts should disable public network access",
     "Metadata": {
-      "version": "3.0.1",
-      "category": "Cognitive Services"
+      "version": "3.1.0-deprecated",
+      "category": "Cognitive Services",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -24,7 +25,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
