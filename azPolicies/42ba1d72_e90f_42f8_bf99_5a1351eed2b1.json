@@ -1,0 +1,49 @@
+{
+  "Name": "42ba1d72-e90f-42f8-bf99-5a1351eed2b1",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/42ba1d72-e90f-42f8-bf99-5a1351eed2b1",
+  "ResourceName": "42ba1d72-e90f-42f8-bf99-5a1351eed2b1",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Setting container CPU limits to prevent resource exhaustion attacks in a Kubernetes cluster.",
+    "DisplayName": "[Preview]: Sets Kubernetes cluster containers CPU limits to default values in case not present or exceeding limits.",
+    "Metadata": {
+      "version": "1.0.0-preview",
+      "category": "Kubernetes",
+      "preview": true
+    },
+    "Mode": "Microsoft.Kubernetes.Data",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "'Mutate' modifies a non-compliant resource to be compliant when creating or updating. 'Disabled' turns off the policy.",
+          "portalReview": true
+        },
+        "allowedValues": [
+          "Mutate",
+          "Disabled"
+        ],
+        "defaultValue": "Mutate"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.ContainerService/managedClusters"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "mutationInfo": {
+            "sourceType": "PublicURL",
+            "url": "https://store.policy.core.windows.net/kubernetes/mutate-resource-cpu-limits/v1/mutation.yaml"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/42ba1d72-e90f-42f8-bf99-5a1351eed2b1"
+}
