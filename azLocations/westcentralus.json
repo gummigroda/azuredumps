@@ -78,6 +78,7 @@
     "Microsoft.App",
     "Microsoft.AppAssessment",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.Automanage",
     "Microsoft.AutonomousDevelopmentPlatform",
     "Microsoft.AzureSphere",
