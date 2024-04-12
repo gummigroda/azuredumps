@@ -1,0 +1,26 @@
+{
+  "Location": "mexicocentral",
+  "DisplayName": "Mexico Central",
+  "Type": "Region",
+  "Longitude": "-100.389888",
+  "Latitude": "20.588818",
+  "PhysicalLocation": "Querétaro State",
+  "RegionType": "Physical",
+  "RegionCategory": "Recommended",
+  "GeographyGroup": "Mexico",
+  "PairedRegion": [],
+  "Providers": [
+    "Microsoft.Maintenance",
+    "Microsoft.AppConfiguration",
+    "Microsoft.Batch",
+    "Microsoft.ClassicCompute",
+    "Microsoft.ClassicNetwork",
+    "Microsoft.ClassicStorage",
+    "Microsoft.DevHub",
+    "Microsoft.Monitor",
+    "Microsoft.Resources",
+    "Microsoft.SecurityDetonation",
+    "Microsoft.SqlVirtualMachine",
+    "Microsoft.UsageBilling"
+  ]
+}
