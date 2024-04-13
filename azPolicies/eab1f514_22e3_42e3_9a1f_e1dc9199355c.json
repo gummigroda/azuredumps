@@ -8,7 +8,7 @@
     "Description": "Deploy Association to link Windows virtual machines, virtual machine scale sets, and Arc machines to the specified Data Collection Rule or the specified Data Collection Endpoint. The list of locations and OS images are updated over time as support is increased.",
     "DisplayName": "Configure Windows Machines to be associated with a Data Collection Rule or a Data Collection Endpoint",
     "Metadata": {
-      "version": "4.4.0",
+      "version": "4.5.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -174,7 +174,7 @@
                           },
                           {
                             "field": "Microsoft.Compute/virtualMachines/storageProfile.osDisk.osType",
-                            "like": "Linux*"
+                            "like": "Windows*"
                           }
                         ]
                       },
@@ -190,7 +190,7 @@
                           },
                           {
                             "field": "Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.storageProfile.osDisk.osType",
-                            "like": "Linux*"
+                            "like": "Windows*"
                           }
                         ]
                       },
