@@ -8,7 +8,7 @@
     "Description": "Linux virtual machines should be monitored and secured through the deployed Azure Monitor Agent. The Azure Monitor Agent collects telemetry data from the guest OS. This policy will audit virtual machines with supported OS images in supported regions. Learn more: https://aka.ms/AMAOverview.",
     "DisplayName": "Linux virtual machines should have Azure Monitor Agent installed",
     "Metadata": {
-      "version": "3.1.0",
+      "version": "3.2.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -57,9 +57,11 @@
             "field": "location",
             "in": [
               "australiacentral",
+              "australiacentral2",
               "australiaeast",
               "australiasoutheast",
               "brazilsouth",
+              "brazilsoutheast",
               "canadacentral",
               "canadaeast",
               "centralindia",
@@ -70,22 +72,38 @@
               "eastus2",
               "eastus2euap",
               "francecentral",
+              "francesouth",
+              "germanynorth",
               "germanywestcentral",
+              "israelcentral",
+              "italynorth",
               "japaneast",
               "japanwest",
+              "jioindiacentral",
               "jioindiawest",
               "koreacentral",
               "koreasouth",
+              "malaysiasouth",
+              "mexicocentral",
               "northcentralus",
               "northeurope",
               "norwayeast",
+              "norwaywest",
+              "polandcentral",
               "qatarcentral",
               "southafricanorth",
+              "southafricawest",
               "southcentralus",
               "southeastasia",
               "southindia",
+              "spaincentral",
               "swedencentral",
+              "swedensouth",
               "switzerlandnorth",
+              "switzerlandwest",
+              "taiwannorth",
+              "taiwannorthwest",
+              "uaecentral",
               "uaenorth",
               "uksouth",
               "ukwest",
@@ -145,11 +163,19 @@
                       },
                       {
                         "field": "Microsoft.Compute/imageSku",
+                        "like": "9*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
                         "like": "rhel-lvm7*"
                       },
                       {
                         "field": "Microsoft.Compute/imageSku",
                         "like": "rhel-lvm8*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "rhel-lvm9*"
                       }
                     ]
                   }
@@ -294,6 +320,18 @@
                       {
                         "field": "Microsoft.Compute/imageSku",
                         "like": "8*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "ol7*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "ol8*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "ol9*"
                       }
                     ]
                   }
@@ -315,10 +353,6 @@
                   },
                   {
                     "anyOf": [
-                      {
-                        "field": "Microsoft.Compute/imageSku",
-                        "like": "6*"
-                      },
                       {
                         "field": "Microsoft.Compute/imageSku",
                         "like": "7*"
@@ -358,8 +392,16 @@
                     "equals": "almalinux"
                   },
                   {
-                    "field": "Microsoft.Compute/imageSku",
-                    "like": "8*"
+                    "anyOf": [
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "8*"
+                      },
+                      {
+                        "field": "Microsoft.Compute/imageSku",
+                        "like": "9*"
+                      }
+                    ]
                   }
                 ]
               },
