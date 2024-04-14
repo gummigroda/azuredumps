@@ -142,6 +142,7 @@
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
     "Microsoft.Migrate",
+    "Microsoft.MobileNetwork",
     "Microsoft.MobilePacketCore",
     "Microsoft.Monitor",
     "Microsoft.NetApp",

@@ -207,6 +207,7 @@
     "Microsoft.Workloads",
     "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
-    "Qumulo.Storage"
+    "Qumulo.Storage",
+    "SplitIO.Experimentation"
   ]
 }
