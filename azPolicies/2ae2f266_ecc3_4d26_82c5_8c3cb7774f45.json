@@ -18,7 +18,7 @@
         "type": "String",
         "metadata": {
           "displayName": "Effect",
-          "description": "'Mutate' modifies a non-compliant resource to be compliant when creating or updating. 'Disabled' turns off the policy.",
+          "description": "'Mutate' modifies a non-compliant resource be compliant when creating or updating. 'Disabled' turns off the policy.",
           "portalReview": true
         },
         "allowedValues": [
