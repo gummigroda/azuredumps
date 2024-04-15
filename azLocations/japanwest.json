@@ -65,6 +65,7 @@
     "Microsoft.Sql",
     "Microsoft.HDInsight",
     "Microsoft.AlertsManagement",
+    "Microsoft.HybridCompute",
     "Microsoft.HybridConnectivity",
     "Microsoft.AzureArcData",
     "Microsoft.ServiceLinker",
