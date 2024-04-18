@@ -12,6 +12,7 @@
   "Providers": [
     "Microsoft.Maintenance",
     "Microsoft.Compute",
+    "Microsoft.ContainerRegistry",
     "Microsoft.DBforPostgreSQL",
     "Microsoft.AppConfiguration",
     "Microsoft.Batch",
