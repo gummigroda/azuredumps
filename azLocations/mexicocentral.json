@@ -12,6 +12,7 @@
   "Providers": [
     "Microsoft.Maintenance",
     "Microsoft.Compute",
+    "Microsoft.ManagedIdentity",
     "Microsoft.ContainerRegistry",
     "Microsoft.DBforPostgreSQL",
     "Microsoft.AppConfiguration",
