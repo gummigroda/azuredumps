@@ -20,6 +20,7 @@
     "Microsoft.Storage",
     "Microsoft.AAD",
     "Microsoft.Maintenance",
+    "Microsoft.AVS",
     "Microsoft.ApiManagement",
     "Microsoft.ContainerService",
     "Microsoft.Logic",
