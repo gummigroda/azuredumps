@@ -6,7 +6,7 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Setting container memory limits to prevent resource exhaustion attacks in a Kubernetes cluster.",
-    "DisplayName": "[Preview]: Sets Kubernetes cluster containers memory limits to default values in case not present or exceeding limits.",
+    "DisplayName": "[Preview]: Sets Kubernetes cluster containers memory limits to default values in case not present.",
     "Metadata": {
       "version": "1.1.0-preview",
       "category": "Kubernetes",
