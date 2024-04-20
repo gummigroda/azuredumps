@@ -48,6 +48,7 @@
     "Microsoft.Kusto",
     "Microsoft.Sql",
     "Microsoft.HDInsight",
+    "Microsoft.App",
     "Microsoft.AppConfiguration",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",
