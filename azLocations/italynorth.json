@@ -55,6 +55,7 @@
     "Microsoft.HybridCompute",
     "Microsoft.HybridConnectivity",
     "Microsoft.AzureArcData",
+    "Microsoft.App",
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.BareMetal",

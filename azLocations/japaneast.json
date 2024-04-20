@@ -72,6 +72,7 @@
     "Microsoft.HybridConnectivity",
     "Microsoft.AzureArcData",
     "Microsoft.ServiceLinker",
+    "GitHub.Network",
     "microsoft.aadiam",
     "Microsoft.AnalysisServices",
     "Microsoft.AnyBuild",
