@@ -1,0 +1,76 @@
+{
+  "Name": "0e7201a7-b325-480a-907d-5f198e95e1d3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0e7201a7-b325-480a-907d-5f198e95e1d3",
+  "ResourceName": "0e7201a7-b325-480a-907d-5f198e95e1d3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "The policy defines the naming conventions for the specified resource types in the specified regions",
+    "DisplayName": "[Deprecated]: The resource name should follow naming conventions in the region.",
+    "Metadata": {
+      "version": "1.0.0-deprecated",
+      "category": "System Policy",
+      "deprecated": true
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "resourceTypes": {
+        "type": "Array",
+        "metadata": {
+          "description": "The list of resource types that should follow naming conventions.",
+          "strongType": "resourceTypes",
+          "displayName": "Resource types"
+        },
+        "defaultValue": [
+          "Microsoft.Network/networkSecurityGroups"
+        ]
+      },
+      "resourceLocations": {
+        "type": "Array",
+        "metadata": {
+          "description": "The list of locations where the resources should follow naming conventions.",
+          "strongType": "location",
+          "displayName": "Resource locations"
+        },
+        "defaultValue": [
+          "brazilsouth"
+        ]
+      },
+      "resourceNameTemplate": {
+        "type": "String",
+        "metadata": {
+          "description": "The resource name template. It is using like operator. You provide a wildcard * in the value. The value shouldn't have more than one wildcard *.",
+          "displayName": "Resource name template"
+        },
+        "defaultValue": "*nsg"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "in": "[parameters('resourceTypes')]"
+          },
+          {
+            "field": "location",
+            "in": "[parameters('resourceLocations')]"
+          },
+          {
+            "value": "[empty(parameters('resourceNameTemplate'))]",
+            "equals": false
+          },
+          {
+            "field": "name",
+            "notLike": "[parameters('resourceNameTemplate')]"
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0e7201a7-b325-480a-907d-5f198e95e1d3"
+}
