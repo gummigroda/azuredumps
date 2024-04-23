@@ -14,6 +14,7 @@
     "Microsoft.Storage",
     "Microsoft.Maintenance",
     "Microsoft.ContainerService",
+    "Microsoft.EventHub",
     "Microsoft.Cache",
     "Microsoft.ServiceFabric",
     "Microsoft.Compute",
