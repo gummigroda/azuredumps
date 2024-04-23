@@ -9,7 +9,7 @@
     "DisplayName": "Configure Arc-enabled SQL Servers to automatically install Microsoft Defender for SQL and DCR with a user-defined LA workspace",
     "Metadata": {
       "category": "Security Center",
-      "version": "1.4.0"
+      "version": "1.5.0"
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -85,8 +85,7 @@
           "type": "Microsoft.Insights/dataCollectionRules",
           "deploymentScope": "subscription",
           "roleDefinitionIds": [
-            "/providers/microsoft.authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c",
-            "/providers/Microsoft.Authorization/roleDefinitions/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+            "/providers/microsoft.authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
           ],
           "existenceScope": "subscription",
           "existenceCondition": {
@@ -309,18 +308,6 @@
                                   ]
                                 }
                               ]
-                            }
-                          },
-                          {
-                            "type": "Microsoft.Insights/dataCollectionRules/providers/locks",
-                            "apiVersion": "2020-05-01",
-                            "name": "[concat(parameters('dcrName'), '/Microsoft.Authorization/', 'CanNotDeleteLock-', parameters('dcrName'))]",
-                            "dependsOn": [
-                              "[parameters('dcrName')]"
-                            ],
-                            "properties": {
-                              "level": "CanNotDelete",
-                              "notes": "Please do not delete this data collection rule since Defender for SQL extension enabled by Azure Policy is relying on its existence."
                             }
                           }
                         ]

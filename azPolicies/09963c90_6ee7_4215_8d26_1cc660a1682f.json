@@ -8,7 +8,7 @@
     "Description": "Create and assign a built-in user-assigned managed identity at scale to SQL virtual machines.",
     "DisplayName": "Create and assign a built-in user-assigned managed identity",
     "Metadata": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -92,8 +92,7 @@
             ]
           },
           "roleDefinitionIds": [
-            "/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c",
-            "/providers/Microsoft.Authorization/roleDefinitions/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+            "/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
           ],
           "deployment": {
             "location": "eastus",
@@ -196,18 +195,6 @@
                             "location": "[parameters('location')]",
                             "tags": {
                               "createdBy": "MicrosoftDefenderForSQL"
-                            }
-                          },
-                          {
-                            "type": "Microsoft.ManagedIdentity/userAssignedIdentities/providers/locks",
-                            "apiVersion": "2020-05-01",
-                            "name": "[concat(parameters('userAssignedName'), '/Microsoft.Authorization/', 'CanNotDeleteLock-', parameters('userAssignedName'))]",
-                            "dependsOn": [
-                              "[parameters('userAssignedName')]"
-                            ],
-                            "properties": {
-                              "level": "CanNotDelete",
-                              "notes": "Please do not delete this User-Assigned Identity since extensions enabled by Azure Policy are relying on their existence."
                             }
                           }
                         ]
