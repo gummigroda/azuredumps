@@ -23,6 +23,7 @@
     "Microsoft.Relay",
     "Microsoft.EventGrid",
     "Microsoft.Web",
+    "Microsoft.DocumentDB",
     "Microsoft.RecoveryServices",
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
