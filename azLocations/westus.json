@@ -81,6 +81,7 @@
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.Automanage",
+    "Microsoft.AzureFleet",
     "Microsoft.AzureLargeInstance",
     "Microsoft.AzureScan",
     "Microsoft.AzureSphere",
