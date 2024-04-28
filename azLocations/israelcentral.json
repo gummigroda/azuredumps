@@ -57,6 +57,7 @@
     "Microsoft.ClassicStorage",
     "Microsoft.DataFactory",
     "Microsoft.DevHub",
+    "Microsoft.Fabric",
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.Monitor",

@@ -84,6 +84,7 @@
     "Microsoft.ArcNetworking",
     "Microsoft.Attestation",
     "Microsoft.Automanage",
+    "Microsoft.AzureFleet",
     "Microsoft.AzureLargeInstance",
     "Microsoft.AzureSphere",
     "Microsoft.AzureStackHCI",
