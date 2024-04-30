@@ -9,7 +9,7 @@
     "DisplayName": "Enable logging by category group for Event Grid Topics (microsoft.eventgrid/topics) to Log Analytics",
     "Metadata": {
       "category": "Monitoring",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -91,6 +91,7 @@
         "effect": "[parameters('effect')]",
         "details": {
           "type": "Microsoft.Insights/diagnosticSettings",
+          "evaluationDelay": "AfterProvisioning",
           "existenceCondition": {
             "allOf": [
               {
