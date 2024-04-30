@@ -21,6 +21,7 @@
     "Microsoft.DataMigration",
     "Microsoft.DBforMySQL",
     "Microsoft.CognitiveServices",
+    "Microsoft.Devices",
     "Microsoft.EventGrid",
     "Microsoft.DocumentDB",
     "Microsoft.KeyVault",

@@ -30,6 +30,7 @@
     "Microsoft.Relay",
     "Microsoft.EventGrid",
     "Microsoft.Web",
+    "Microsoft.PowerBIDedicated",
     "Microsoft.OperationsManagement",
     "Microsoft.DocumentDB",
     "Microsoft.RecoveryServices",

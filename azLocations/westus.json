@@ -81,6 +81,7 @@
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.Automanage",
+    "Microsoft.AzureDataTransfer",
     "Microsoft.AzureFleet",
     "Microsoft.AzureLargeInstance",
     "Microsoft.AzureScan",
@@ -168,6 +169,7 @@
     "microsoft.visualstudio",
     "Microsoft.VMware",
     "NGINX.NGINXPLUS",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
