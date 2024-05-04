@@ -64,6 +64,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.DataFactory",
+    "Microsoft.DevCenter",
     "Microsoft.DevHub",
     "Microsoft.Fabric",
     "Microsoft.Kubernetes",
