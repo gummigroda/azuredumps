@@ -45,6 +45,7 @@
     "Microsoft.IoTOperationsOrchestrator",
     "Microsoft.ManufacturingPlatform",
     "Microsoft.MessagingCatalog",
+    "Microsoft.MessagingConnectors",
     "Microsoft.Mission",
     "Microsoft.ModSimWorkbench",
     "Microsoft.MySQLDiscovery",
