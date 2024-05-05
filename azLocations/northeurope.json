@@ -118,6 +118,7 @@
     "Microsoft.DevHub",
     "Microsoft.DeviceRegistry",
     "Microsoft.DeviceUpdate",
+    "Microsoft.DevOpsInfrastructure",
     "Microsoft.DigitalTwins",
     "Microsoft.Easm",
     "Microsoft.Edge",
