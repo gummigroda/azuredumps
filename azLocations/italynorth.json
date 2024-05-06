@@ -84,7 +84,6 @@
     "Microsoft.StorageCache",
     "Microsoft.Synapse",
     "Microsoft.UsageBilling",
-    "Microsoft.VirtualMachineImages",
-    "PaloAltoNetworks.Cloudngfw"
+    "Microsoft.VirtualMachineImages"
   ]
 }

@@ -50,7 +50,6 @@
     "Microsoft.Fabric",
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTSecurity",
-    "Microsoft.KubernetesConfiguration",
     "Microsoft.NetworkFunction",
     "Microsoft.Peering",
     "Microsoft.Portal",

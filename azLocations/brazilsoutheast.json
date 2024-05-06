@@ -50,7 +50,6 @@
     "Microsoft.DevAI",
     "Microsoft.DevHub",
     "Microsoft.IntegrationSpaces",
-    "Microsoft.KubernetesConfiguration",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
     "Microsoft.NetworkFunction",
