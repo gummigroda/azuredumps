@@ -1,0 +1,15 @@
+{
+  "Location": "newzealand",
+  "DisplayName": "New Zealand",
+  "Type": "Region",
+  "Longitude": null,
+  "Latitude": null,
+  "PhysicalLocation": null,
+  "RegionType": "Logical",
+  "RegionCategory": "Other",
+  "GeographyGroup": null,
+  "PairedRegion": null,
+  "Providers": [
+    "Microsoft.ManagedIdentity"
+  ]
+}

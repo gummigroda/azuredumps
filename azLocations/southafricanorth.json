@@ -123,6 +123,7 @@
     "Microsoft.UsageBilling",
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
-    "Microsoft.Workloads"
+    "Microsoft.Workloads",
+    "PaloAltoNetworks.Cloudngfw"
   ]
 }

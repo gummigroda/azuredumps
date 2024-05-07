@@ -104,6 +104,7 @@
     "Microsoft.NetworkAnalytics",
     "Microsoft.NetworkCloud",
     "Microsoft.NetworkFunction",
+    "Microsoft.NexusIdentity",
     "Microsoft.OffAzure",
     "Microsoft.Portal",
     "Microsoft.Purview",
@@ -124,6 +125,7 @@
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
     "Microsoft.Workloads",
+    "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
 }

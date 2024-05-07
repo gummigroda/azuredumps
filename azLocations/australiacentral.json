@@ -68,6 +68,7 @@
     "Microsoft.DevHub",
     "Microsoft.HybridCloud",
     "Microsoft.IoTSecurity",
+    "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
     "Microsoft.Monitor",
