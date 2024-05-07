@@ -128,6 +128,7 @@
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
     "Microsoft.Workloads",
+    "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
 }

@@ -51,6 +51,7 @@
     "Microsoft.CloudTest",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",
+    "Microsoft.DevOpsInfrastructure",
     "Microsoft.Fabric",
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTSecurity",
