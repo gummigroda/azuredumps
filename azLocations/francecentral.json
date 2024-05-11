@@ -131,6 +131,7 @@
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
     "Microsoft.Workloads",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
