@@ -21,6 +21,7 @@
     "Microsoft.AAD",
     "Microsoft.HealthcareApis",
     "Microsoft.Maintenance",
+    "Microsoft.AVS",
     "Microsoft.ApiManagement",
     "Microsoft.ContainerService",
     "Microsoft.Logic",
