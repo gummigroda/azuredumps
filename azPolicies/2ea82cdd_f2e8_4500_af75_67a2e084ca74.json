@@ -8,7 +8,7 @@
     "Description": "Deploy Association to link Linux virtual machines, virtual machine scale sets, and Arc machines to the specified Data Collection Rule or the specified Data Collection Endpoint. The list of locations and OS images are updated over time as support is increased.",
     "DisplayName": "Configure Linux Machines to be associated with a Data Collection Rule or a Data Collection Endpoint",
     "Metadata": {
-      "version": "6.3.0",
+      "version": "6.4.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -228,11 +228,19 @@
                               },
                               {
                                 "field": "Microsoft.Compute/imageSku",
+                                "like": "9*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
                                 "like": "rhel-lvm7*"
                               },
                               {
                                 "field": "Microsoft.Compute/imageSku",
                                 "like": "rhel-lvm8*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "rhel-lvm9*"
                               }
                             ]
                           }
@@ -377,6 +385,18 @@
                               {
                                 "field": "Microsoft.Compute/imageSku",
                                 "like": "8*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "ol7*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "ol8*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "ol9*"
                               }
                             ]
                           }
@@ -398,10 +418,6 @@
                           },
                           {
                             "anyOf": [
-                              {
-                                "field": "Microsoft.Compute/imageSku",
-                                "like": "6*"
-                              },
                               {
                                 "field": "Microsoft.Compute/imageSku",
                                 "like": "7*"
@@ -441,8 +457,16 @@
                             "equals": "almalinux"
                           },
                           {
-                            "field": "Microsoft.Compute/imageSku",
-                            "like": "8*"
+                            "anyOf": [
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "8*"
+                              },
+                              {
+                                "field": "Microsoft.Compute/imageSku",
+                                "like": "9*"
+                              }
+                            ]
                           }
                         ]
                       },
