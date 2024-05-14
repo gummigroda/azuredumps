@@ -8,11 +8,31 @@
     "Description": "Create and assign a built-in user-assigned managed identity at scale to SQL virtual machines.",
     "DisplayName": "Create and assign a built-in user-assigned managed identity",
     "Metadata": {
-      "version": "1.5.0",
+      "version": "1.6.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
     "Parameters": {
+      "bringYourOwnUserAssignedManagedIdentity": {
+        "type": "Boolean",
+        "metadata": {
+          "displayName": "Bring your own User-Assigned Managed Identity",
+          "description": "Enable this to use your own user-assigned managed identity. The pre-created identity MUST exist otherwise the policy deployment will fail. If enabled, ensure that the user-assigned managed identity resource ID parameter matches the pre-created user-assigned managed identity resource ID. If not enabled, the policy will create a new user-assigned managed identitiy per subscription, in a new resource group named 'Built-In-Identity-RG'."
+        },
+        "allowedValues": [
+          true,
+          false
+        ],
+        "defaultValue": false
+      },
+      "userAssignedIdentityResourceId": {
+        "type": "String",
+        "metadata": {
+          "displayName": "User-Assigned Managed Identity Resource ID",
+          "description": "The resource ID of the pre-created user-assigned managed identity. This parameter is only used when bringYourOwnUserAssignedManagedIdentity is set to true"
+        },
+        "defaultValue": ""
+      },
       "builtInIdentityResourceGroupLocation": {
         "type": "String",
         "metadata": {
@@ -73,7 +93,7 @@
                   },
                   {
                     "field": "identity.userAssignedIdentities",
-                    "containsKey": "[concat('/subscriptions/', subscription().subscriptionId, '/resourceGroups/Built-In-Identity-RG/providers/Microsoft.ManagedIdentity/userAssignedIdentities/Built-In-Identity-', field('location'))]"
+                    "containsKey": "[if(parameters('bringYourOwnUserAssignedManagedIdentity'), parameters('userAssignedIdentityResourceId'), concat('/subscriptions/', subscription().subscriptionId, '/resourceGroups/Built-In-Identity-RG/providers/Microsoft.ManagedIdentity/userAssignedIdentities/Built-In-Identity-', field('location')))]"
                   }
                 ]
               },
@@ -102,6 +122,12 @@
                 "location": {
                   "value": "[field('location')]"
                 },
+                "bringYourOwnUserAssignedManagedIdentity": {
+                  "value": "[parameters('bringYourOwnUserAssignedManagedIdentity')]"
+                },
+                "userAssignedIdentityResourceId": {
+                  "value": "[parameters('userAssignedIdentityResourceId')]"
+                },
                 "builtInIdentityResourceGroupLocation": {
                   "value": "[parameters('builtInIdentityResourceGroupLocation')]"
                 },
@@ -120,6 +146,12 @@
                 "contentVersion": "1.0.0.1",
                 "parameters": {
                   "location": {
+                    "type": "string"
+                  },
+                  "bringYourOwnUserAssignedManagedIdentity": {
+                    "type": "bool"
+                  },
+                  "userAssignedIdentityResourceId": {
                     "type": "string"
                   },
                   "builtInIdentityResourceGroupLocation": {
@@ -146,6 +178,7 @@
                 },
                 "resources": [
                   {
+                    "condition": "[not(parameters('bringYourOwnUserAssignedManagedIdentity'))]",
                     "type": "Microsoft.Resources/resourceGroups",
                     "apiVersion": "2022-09-01",
                     "name": "[variables('identityResourceGroup')]",
@@ -155,6 +188,7 @@
                     }
                   },
                   {
+                    "condition": "[not(parameters('bringYourOwnUserAssignedManagedIdentity'))]",
                     "type": "Microsoft.Resources/deployments",
                     "apiVersion": "2022-09-01",
                     "name": "[variables('deployUserAssignedName')]",
@@ -242,7 +276,7 @@
                       },
                       "parameters": {
                         "userAssignedId": {
-                          "value": "[variables('autoCreatedUaId')]"
+                          "value": "[if(parameters('bringYourOwnUserAssignedManagedIdentity'), parameters('userAssignedIdentityResourceId'), variables('autoCreatedUaId'))]"
                         },
                         "vmName": {
                           "value": "[parameters('vmName')]"

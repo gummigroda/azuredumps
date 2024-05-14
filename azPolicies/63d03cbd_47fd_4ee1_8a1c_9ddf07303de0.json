@@ -9,7 +9,7 @@
     "DisplayName": "Configure Arc-enabled SQL Servers to automatically install Microsoft Defender for SQL and DCR with a user-defined LA workspace",
     "Metadata": {
       "category": "Security Center",
-      "version": "1.5.0"
+      "version": "1.6.0"
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -60,11 +60,27 @@
           false
         ],
         "defaultValue": false
+      },
+      "bringYourOwnDcr": {
+        "type": "Boolean",
+        "metadata": {
+          "displayName": "Bring your own DCR",
+          "description": "Enable or disable the use of a user-defined Data Collection Rule."
+        },
+        "allowedValues": [
+          true,
+          false
+        ],
+        "defaultValue": false
       }
     },
     "PolicyRule": {
       "if": {
         "allOf": [
+          {
+            "value": "[parameters('bringYourOwnDcr')]",
+            "equals": false
+          },
           {
             "field": "type",
             "equals": "Microsoft.HybridCompute/machines"
