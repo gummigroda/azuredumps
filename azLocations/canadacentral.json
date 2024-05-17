@@ -112,6 +112,7 @@
     "Microsoft.Fabric",
     "Microsoft.FluidRelay",
     "Microsoft.HardwareSecurityModules",
+    "Microsoft.HealthDataAIServices",
     "Microsoft.HybridCloud",
     "Microsoft.HybridContainerService",
     "Microsoft.HybridNetwork",

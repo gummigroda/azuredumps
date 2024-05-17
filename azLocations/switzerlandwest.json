@@ -58,6 +58,7 @@
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
+    "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.DataFactory",
     "Microsoft.DevHub",
     "Microsoft.Fabric",

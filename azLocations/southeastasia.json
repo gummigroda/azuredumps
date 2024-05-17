@@ -79,6 +79,7 @@
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.Automanage",
+    "Microsoft.AwsConnector",
     "Microsoft.AzureStack",
     "Microsoft.AzureStackHCI",
     "Microsoft.BareMetal",

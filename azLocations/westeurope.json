@@ -91,6 +91,7 @@
     "Microsoft.Attestation",
     "Microsoft.Automanage",
     "Microsoft.AutonomousDevelopmentPlatform",
+    "Microsoft.AwsConnector",
     "Microsoft.AzureLargeInstance",
     "Microsoft.AzurePlaywrightService",
     "Microsoft.AzureScan",

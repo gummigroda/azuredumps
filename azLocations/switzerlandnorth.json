@@ -84,6 +84,7 @@
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
     "Microsoft.Confluent",
+    "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.DataBox",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",

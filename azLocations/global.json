@@ -21,6 +21,7 @@
     "microsoft.insights",
     "Microsoft.DomainRegistration",
     "Microsoft.AlertsManagement",
+    "Microsoft.HybridConnectivity",
     "GitHub.Network",
     "Microsoft.Authorization",
     "Microsoft.AzureActiveDirectory",
