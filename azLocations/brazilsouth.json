@@ -74,6 +74,7 @@
     "Microsoft.AnalysisServices",
     "Microsoft.App",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.AwsConnector",
     "Microsoft.BareMetal",
     "Microsoft.Batch",

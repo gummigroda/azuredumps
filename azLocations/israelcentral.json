@@ -51,6 +51,7 @@
     "Microsoft.HybridCompute",
     "Microsoft.HybridConnectivity",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",

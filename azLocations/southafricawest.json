@@ -43,6 +43,7 @@
     "Microsoft.Kusto",
     "Microsoft.Sql",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
     "Microsoft.DelegatedNetwork",
