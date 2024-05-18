@@ -75,6 +75,7 @@
     "microsoft.aadiam",
     "Microsoft.App",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",

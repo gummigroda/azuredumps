@@ -47,6 +47,7 @@
     "Microsoft.Sql",
     "Microsoft.AlertsManagement",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
     "Microsoft.DelegatedNetwork",

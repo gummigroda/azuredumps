@@ -50,6 +50,7 @@
     "Microsoft.HDInsight",
     "Microsoft.App",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",
     "Microsoft.ClassicNetwork",

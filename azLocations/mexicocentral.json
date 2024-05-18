@@ -36,6 +36,7 @@
     "Microsoft.Sql",
     "Microsoft.HDInsight",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",
     "Microsoft.ClassicNetwork",

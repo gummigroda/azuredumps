@@ -42,6 +42,7 @@
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Sql",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
