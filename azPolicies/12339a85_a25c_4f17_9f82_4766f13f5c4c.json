@@ -1,0 +1,64 @@
+{
+  "Name": "12339a85-a25c-4f17-9f82-4766f13f5c4c",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/12339a85-a25c-4f17-9f82-4766f13f5c4c",
+  "ResourceName": "12339a85-a25c-4f17-9f82-4766f13f5c4c",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disallow the IP Firewall rule, '0.0.0.0', which allows for all traffic from any Azure data centers. Learn more at https://aka.ms/cosmosdb-firewall",
+    "DisplayName": "Azure Cosmos DB accounts should not allow traffic from all Azure data centers",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Cosmos DB"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Policy Effect",
+          "description": "The desired effect of the policy."
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.DocumentDB/databaseAccounts"
+          },
+          {
+            "anyOf": [
+              {
+                "count": {
+                  "field": "Microsoft.DocumentDB/databaseAccounts/ipRules[*]",
+                  "where": {
+                    "field": "Microsoft.DocumentDB/databaseAccounts/ipRules[*].ipAddressOrRange",
+                    "equals": "0.0.0.0"
+                  }
+                },
+                "greaterOrEquals": 1
+              },
+              {
+                "field": "Microsoft.DocumentDB/databaseAccounts/ipRangeFilter",
+                "contains": "0.0.0.0"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/12339a85-a25c-4f17-9f82-4766f13f5c4c"
+}
