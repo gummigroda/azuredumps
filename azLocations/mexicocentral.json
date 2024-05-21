@@ -20,6 +20,7 @@
     "Microsoft.Compute",
     "Microsoft.ManagedIdentity",
     "Microsoft.DBforMySQL",
+    "Microsoft.Security",
     "Microsoft.Relay",
     "Microsoft.EventGrid",
     "Microsoft.Web",
