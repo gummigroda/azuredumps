@@ -1,0 +1,33 @@
+{
+  "Location": "spaincentral",
+  "DisplayName": "Spain Central",
+  "Type": "Region",
+  "Longitude": "3.4209",
+  "Latitude": "40.4259",
+  "PhysicalLocation": "Madrid",
+  "RegionType": "Physical",
+  "RegionCategory": "Recommended",
+  "GeographyGroup": "Europe",
+  "PairedRegion": [],
+  "Providers": [
+    "Microsoft.Compute",
+    "Microsoft.Security",
+    "microsoft.insights",
+    "Microsoft.DBforPostgreSQL",
+    "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
+    "Microsoft.BareMetal",
+    "Microsoft.Batch",
+    "Microsoft.ClassicCompute",
+    "Microsoft.ClassicNetwork",
+    "Microsoft.ClassicStorage",
+    "Microsoft.DevHub",
+    "Microsoft.Monitor",
+    "Microsoft.Resources",
+    "Microsoft.SecurityDetonation",
+    "Microsoft.Singularity",
+    "Microsoft.SqlVirtualMachine",
+    "Microsoft.UsageBilling",
+    "Microsoft.VirtualMachineImages"
+  ]
+}
