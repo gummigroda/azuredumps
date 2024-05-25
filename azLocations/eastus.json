@@ -131,6 +131,7 @@
     "Microsoft.DeviceUpdate",
     "Microsoft.DevOpsInfrastructure",
     "Microsoft.DigitalTwins",
+    "Microsoft.DurableTask",
     "Microsoft.Easm",
     "Microsoft.Edge",
     "Microsoft.EdgeOrder",
