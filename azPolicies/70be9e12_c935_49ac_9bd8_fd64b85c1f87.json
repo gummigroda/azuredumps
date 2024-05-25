@@ -1,0 +1,49 @@
+{
+  "Name": "70be9e12-c935-49ac-9bd8-fd64b85c1f87",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/70be9e12-c935-49ac-9bd8-fd64b85c1f87",
+  "ResourceName": "70be9e12-c935-49ac-9bd8-fd64b85c1f87",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy helps audit any PostgreSQL flexible servers in your environment without log_checkpoints setting enabled.",
+    "DisplayName": "Log checkpoints should be enabled for PostgreSQL flexible servers",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "PostgreSQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBforPostgreSQL/flexibleServers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBforPostgreSQL/flexibleServers/configurations",
+          "name": "log_checkpoints",
+          "existenceCondition": {
+            "field": "Microsoft.DBforPostgreSQL/flexibleServers/configurations/value",
+            "equals": "ON"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/70be9e12-c935-49ac-9bd8-fd64b85c1f87"
+}
