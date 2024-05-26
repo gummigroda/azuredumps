@@ -39,6 +39,7 @@
     "Microsoft.RecoveryServices",
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
+    "Microsoft.AppPlatform",
     "Microsoft.DataProtection",
     "Microsoft.ContainerInstance",
     "Microsoft.StreamAnalytics",
