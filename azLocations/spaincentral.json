@@ -10,10 +10,13 @@
   "GeographyGroup": "Europe",
   "PairedRegion": [],
   "Providers": [
+    "Microsoft.Maintenance",
     "Microsoft.Compute",
     "Microsoft.Security",
     "microsoft.insights",
     "Microsoft.DBforPostgreSQL",
+    "Microsoft.Kusto",
+    "Microsoft.AlertsManagement",
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.BareMetal",
