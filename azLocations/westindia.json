@@ -55,6 +55,7 @@
     "Microsoft.Sql",
     "microsoft.aadiam",
     "Microsoft.AnalysisServices",
+    "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.ClassicCompute",
