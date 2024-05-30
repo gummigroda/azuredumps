@@ -11,6 +11,7 @@
   "PairedRegion": [],
   "Providers": [
     "Microsoft.Maintenance",
+    "Microsoft.ContainerService",
     "Microsoft.Compute",
     "Microsoft.Security",
     "Microsoft.DocumentDB",
