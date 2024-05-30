@@ -6,7 +6,6 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.AgFoodPlatform/farmBeats/parties/read",
     "Microsoft.AgFoodPlatform/farmBeats/parties/fields/read",
     "Microsoft.AgFoodPlatform/farmBeats/parties/fields/write",
     "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/satelliteDataIngestionJobs/*",
