@@ -52,6 +52,7 @@
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTSecurity",
     "Microsoft.KubernetesConfiguration",
+    "Microsoft.Monitor",
     "Microsoft.NetworkFunction",
     "Microsoft.Peering",
     "Microsoft.Portal",

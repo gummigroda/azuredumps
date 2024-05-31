@@ -51,6 +51,7 @@
     "Microsoft.IoTSecurity",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
+    "Microsoft.Monitor",
     "Microsoft.NetApp",
     "Microsoft.NetworkFunction",
     "Microsoft.Portal",

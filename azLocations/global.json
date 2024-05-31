@@ -49,6 +49,7 @@
     "Microsoft.MessagingConnectors",
     "Microsoft.Mission",
     "Microsoft.ModSimWorkbench",
+    "Microsoft.Monitor",
     "Microsoft.MySQLDiscovery",
     "Microsoft.NetworkCloud",
     "Microsoft.ObjectStore",
