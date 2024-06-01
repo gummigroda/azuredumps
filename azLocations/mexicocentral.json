@@ -28,6 +28,7 @@
     "Microsoft.RecoveryServices",
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
+    "Microsoft.DataProtection",
     "Microsoft.ContainerInstance",
     "Microsoft.StreamAnalytics",
     "Microsoft.ServiceBus",
