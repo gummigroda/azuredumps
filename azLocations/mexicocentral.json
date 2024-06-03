@@ -13,6 +13,7 @@
     "Microsoft.Network",
     "Microsoft.Storage",
     "Microsoft.Maintenance",
+    "Microsoft.ApiManagement",
     "Microsoft.ContainerService",
     "Microsoft.EventHub",
     "Microsoft.Cache",
