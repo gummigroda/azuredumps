@@ -15,6 +15,7 @@
     "Microsoft.Maintenance",
     "Microsoft.ApiManagement",
     "Microsoft.ContainerService",
+    "Microsoft.EventHub",
     "Microsoft.Cache",
     "Microsoft.ServiceFabric",
     "Microsoft.Compute",
