@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "This policy definition is no longer the recommended way to achieve its intent. Instead of continuing to use this policy, we recommend you assign this replacement policies with policy IDs 3dc5edcd-002d-444c-b216-e123bbfa37c0 and ca88aadc-6e2b-416c-9de2-5a0f01d1693f. Learn more about policy definition deprecation at aka.ms/policydefdeprecation",
+    "Description": "By default, a virtual machine's OS and data disks are encrypted-at-rest using platform-managed keys. Temp disks, data caches and data flowing between compute and storage aren't encrypted. Disregard this recommendation if: 1. using encryption-at-host, or 2. server-side encryption on Managed Disks meets your security requirements. Learn more in: Server-side encryption of Azure Disk Storage: https://aka.ms/disksse, Different disk encryption offerings: https://aka.ms/diskencryptioncomparison",
     "DisplayName": "[Deprecated]: Virtual machines should encrypt temp disks, caches, and data flows between Compute and Storage resources",
     "Metadata": {
       "version": "2.1.0-deprecated",
