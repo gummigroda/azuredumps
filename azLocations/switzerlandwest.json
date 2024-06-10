@@ -65,7 +65,6 @@
     "Microsoft.Fabric",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.IntegrationSpaces",
-    "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
