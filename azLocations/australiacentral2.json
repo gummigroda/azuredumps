@@ -49,7 +49,6 @@
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",
     "Microsoft.IoTSecurity",
-    "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
