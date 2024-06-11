@@ -8,7 +8,7 @@
     "Description": "Microsoft Defender for SQL collects events from the agent and uses them to provide security alerts and tailored hardening tasks (recommendations). Create a resource group and a Data Collection Rule in the same region as the user-defined Log Analytics workspace.",
     "DisplayName": "Configure SQL Virtual Machines to automatically install Microsoft Defender for SQL and DCR with a user-defined LA workspace",
     "Metadata": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -353,7 +353,8 @@
                                       "Microsoft-DefenderForSqlLogins",
                                       "Microsoft-DefenderForSqlTelemetry",
                                       "Microsoft-DefenderForSqlScanEvents",
-                                      "Microsoft-DefenderForSqlScanResults"
+                                      "Microsoft-DefenderForSqlScanResults",
+                                      "Microsoft-SqlAtpStatus-DefenderForSql"
                                     ],
                                     "extensionSettings": {
                                       "enableCollectionOfSqlQueriesForSecurityResearch": "[parameters('enableCollectionOfSqlQueriesForSecurityResearch')]"
@@ -376,7 +377,8 @@
                                     "Microsoft-DefenderForSqlLogins",
                                     "Microsoft-DefenderForSqlTelemetry",
                                     "Microsoft-DefenderForSqlScanEvents",
-                                    "Microsoft-DefenderForSqlScanResults"
+                                    "Microsoft-DefenderForSqlScanResults",
+                                    "Microsoft-SqlAtpStatus-DefenderForSql"
                                   ],
                                   "destinations": [
                                     "LogAnalyticsDest"

@@ -8,7 +8,7 @@
     "Description": "Microsoft Defender for Containers provides cloud-native Kubernetes security capabilities including environment hardening, workload protection, and run-time protection. When you enable the SecurityProfile.Defender on your Azure Kubernetes Service cluster, an agent is deployed to your cluster to collect security event data. Learn more about Microsoft Defender for Containers: https://docs.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?tabs=defender-for-container-arch-aks.",
     "DisplayName": "Configure Azure Kubernetes Service clusters to enable Defender profile",
     "Metadata": {
-      "version": "4.1.0",
+      "version": "4.2.0",
       "category": "Kubernetes"
     },
     "Mode": "Indexed",
@@ -119,6 +119,7 @@
                     "jioindiawest": "JINW",
                     "koreacentral": "SE",
                     "koreasouth": "PS",
+                    "mexicocentral": "MXC",
                     "northcentralus": "NCUS",
                     "northeurope": "NEU",
                     "norwayeast": "NOE",
@@ -130,6 +131,7 @@
                     "southcentralus": "SCUS",
                     "southeastasia": "SEA",
                     "southindia": "MA",
+                    "spaincentral": "ESC",
                     "swedencentral": "SEC",
                     "switzerlandnorth": "CHN",
                     "switzerlandwest": "CHW",

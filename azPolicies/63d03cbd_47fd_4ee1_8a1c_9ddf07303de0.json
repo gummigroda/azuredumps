@@ -9,7 +9,7 @@
     "DisplayName": "Configure Arc-enabled SQL Servers to automatically install Microsoft Defender for SQL and DCR with a user-defined LA workspace",
     "Metadata": {
       "category": "Security Center",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -294,7 +294,8 @@
                                       "Microsoft-DefenderForSqlLogins",
                                       "Microsoft-DefenderForSqlTelemetry",
                                       "Microsoft-DefenderForSqlScanEvents",
-                                      "Microsoft-DefenderForSqlScanResults"
+                                      "Microsoft-DefenderForSqlScanResults",
+                                      "Microsoft-SqlAtpStatus-DefenderForSql"
                                     ],
                                     "extensionSettings": {
                                       "enableCollectionOfSqlQueriesForSecurityResearch": "[parameters('enableCollectionOfSqlQueriesForSecurityResearch')]"
@@ -317,7 +318,8 @@
                                     "Microsoft-DefenderForSqlLogins",
                                     "Microsoft-DefenderForSqlTelemetry",
                                     "Microsoft-DefenderForSqlScanEvents",
-                                    "Microsoft-DefenderForSqlScanResults"
+                                    "Microsoft-DefenderForSqlScanResults",
+                                    "Microsoft-SqlAtpStatus-DefenderForSql"
                                   ],
                                   "destinations": [
                                     "LogAnalyticsDest"
