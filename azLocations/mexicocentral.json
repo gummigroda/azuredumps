@@ -48,6 +48,7 @@
     "Microsoft.Monitor",
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",
+    "Microsoft.Singularity",
     "Microsoft.SqlVirtualMachine",
     "Microsoft.UsageBilling"
   ]
