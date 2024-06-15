@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Enabling all Intrusion Detection and Prevention System (IDPS) signature rules is recommanded to better identify known threats in the traffic flows. To learn more about the Intrusion Detection and Prevention System (IDPS) signatures with Azure Firewall Premium, visit https://aka.ms/fw-idps-signature",
-    "DisplayName": "Firewall Policy Premium should enable all IDPS signature rules to monitor all inbound and outbound traffic flows",
+    "DisplayName": "[Deprecated]: Firewall Policy Premium should enable all IDPS signature rules to monitor all inbound and outbound traffic flows",
     "Metadata": {
-      "version": "1.0.0",
-      "category": "Network"
+      "version": "1.1.0-deprecated",
+      "category": "Network",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -24,7 +25,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

@@ -8,7 +8,7 @@
     "Description": "Disabling the public network access property improves security by ensuring your Azure Database for PostgreSQL flexible servers can only be accessed from a private endpoint. This configuration strictly disables access from any public address space outside of Azure IP range and denies all logins that match IP or virtual network-based firewall rules.",
     "DisplayName": "Public network access should be disabled for PostgreSQL flexible servers",
     "Metadata": {
-      "version": "3.0.1",
+      "version": "3.1.0",
       "category": "SQL"
     },
     "Mode": "Indexed",
@@ -35,16 +35,40 @@
             "equals": "Microsoft.DBforPostgreSQL/flexibleServers"
           },
           {
-            "field": "Microsoft.DBforPostgreSQL/flexibleServers/createMode",
-            "notEquals": "Update"
+            "anyOf": [
+              {
+                "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.delegatedSubnetResourceId",
+                "exists": "true"
+              },
+              {
+                "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.privateDnsZoneArmResourceId",
+                "exists": "true"
+              },
+              {
+                "allOf": [
+                  {
+                    "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.publicNetworkAccess",
+                    "exists": "true"
+                  },
+                  {
+                    "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.publicNetworkAccess",
+                    "notEquals": "Disabled"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.delegatedSubnetResourceId",
-            "exists": "false"
-          },
-          {
-            "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.privateDnsZoneArmResourceId",
-            "exists": "false"
+            "anyOf": [
+              {
+                "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.delegatedSubnetResourceId",
+                "exists": "false"
+              },
+              {
+                "field": "Microsoft.DBforPostgreSQL/flexibleServers/network.privateDnsZoneArmResourceId",
+                "exists": "false"
+              }
+            ]
           }
         ]
       },

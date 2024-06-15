@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Enabling the Intrusion Detection and Prevention System (IDPS) allows you to monitor your network for malicious activity, log information about this activity, report it, and optionally attempt to block it. To learn more about the Intrusion Detection and Prevention System (IDPS) with Azure Firewall Premium, visit https://aka.ms/fw-idps",
-    "DisplayName": "Firewall Policy Premium should enable the Intrusion Detection and Prevention System (IDPS)",
+    "DisplayName": "[Deprecated]: Firewall Policy Premium should enable the Intrusion Detection and Prevention System (IDPS)",
     "Metadata": {
-      "version": "1.0.0",
-      "category": "Network"
+      "version": "1.1.0-deprecated",
+      "category": "Network",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -24,7 +25,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Configure a valid intermediate certificate and enable Azure Firewall Premium TLS inspection to detect, alert, and mitigate malicious activity in HTTPS. To learn more about TLS inspection with Azure Firewall, visit https://aka.ms/fw-tlsinspect",
-    "DisplayName": "Azure Firewall Premium should configure a valid intermediate certificate to enable TLS inspection",
+    "DisplayName": "[Deprecated]: Azure Firewall Premium should configure a valid intermediate certificate to enable TLS inspection",
     "Metadata": {
-      "version": "1.0.0",
-      "category": "Network"
+      "version": "1.1.0-deprecated",
+      "category": "Network",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -24,7 +25,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

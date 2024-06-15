@@ -9,7 +9,7 @@
     "DisplayName": "Windows machines should enable Windows Defender Real-time protection",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],

@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Enabling TLS inspection is recommended for all application rules to detect, alert, and mitigate malicious activity in HTTPS. To learn more about TLS inspection with Azure Firewall, visit https://aka.ms/fw-tlsinspect",
-    "DisplayName": "Azure firewall policy should enable TLS inspection within application rules",
+    "DisplayName": "[Deprecated]: Azure firewall policy should enable TLS inspection within application rules",
     "Metadata": {
-      "version": "1.0.0",
-      "category": "Network"
+      "version": "1.1.0-deprecated",
+      "category": "Network",
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -24,7 +25,7 @@
           "Deny",
           "Disabled"
         ],
-        "defaultValue": "Audit"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
