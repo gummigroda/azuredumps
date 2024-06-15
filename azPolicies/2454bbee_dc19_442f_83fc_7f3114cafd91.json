@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Setup the 'time.windows.com' as the default NTP Server for all Windows machines to ensure logs across all systems have system clocks that are all in sync. This policy requires that the Guest Configuration prerequisites have been deployed to the policy assignment scope. For more information on Guest Configuration, visit https://aka.ms/gcpol.",
-    "DisplayName": "Windows machines should use the default NTP server",
+    "DisplayName": "[Deprecated]: Windows machines should use the default NTP server",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "1.0.0",
+      "version": "1.1.0-deprecated",
+      "deprecated": true,
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],
@@ -42,7 +43,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

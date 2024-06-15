@@ -1,0 +1,49 @@
+{
+  "Name": "a43d5475-c569-45ce-a268-28fa79f4e87a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/a43d5475-c569-45ce-a268-28fa79f4e87a",
+  "ResourceName": "a43d5475-c569-45ce-a268-28fa79f4e87a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "This policy helps audit any PostgreSQL flexible servers in your environment which is running with TLS version less than 1.2.",
+    "DisplayName": "PostgreSQL flexible servers should be running TLS version 1.2 or newer",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "PostgreSQL"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.DBforPostgreSQL/flexibleServers"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.DBforPostgreSQL/flexibleServers/configurations",
+          "name": "ssl_min_protocol_version",
+          "existenceCondition": {
+            "field": "Microsoft.DBforPostgreSQL/flexibleServers/configurations/value",
+            "equals": "TLSv1.2"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a43d5475-c569-45ce-a268-28fa79f4e87a"
+}

@@ -9,7 +9,7 @@
     "DisplayName": "Windows machines should configure Windows Defender to update protection signatures within one day",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],

@@ -1,0 +1,36 @@
+{
+  "Name": "de6f20c1-9cba-4da2-86ba-85fbf1d18a73",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/de6f20c1-9cba-4da2-86ba-85fbf1d18a73",
+  "ResourceName": "de6f20c1-9cba-4da2-86ba-85fbf1d18a73",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Resource operations allowed based on catalog.",
+    "DisplayName": "Allowed resource operations",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "System Policy"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "allowedResourceOperations": {
+        "type": "Array",
+        "metadata": {
+          "description": "The list of resource operations that can be deployed.",
+          "displayName": "Allowed resource operations"
+        }
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "notIn": "[parameters('allowedResourceOperations')]"
+      },
+      "then": {
+        "effect": "deny"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/de6f20c1-9cba-4da2-86ba-85fbf1d18a73"
+}
