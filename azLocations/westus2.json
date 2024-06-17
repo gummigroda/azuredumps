@@ -141,6 +141,7 @@
     "Microsoft.Logz",
     "Microsoft.Migrate",
     "Microsoft.Mission",
+    "Microsoft.ModSimWorkbench",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
     "Microsoft.NetworkFunction",
