@@ -81,6 +81,7 @@
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.Automanage",
+    "Microsoft.AzureFleet",
     "Microsoft.AzureStackHCI",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
