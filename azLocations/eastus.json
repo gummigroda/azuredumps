@@ -151,6 +151,7 @@
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTCentral",
     "Microsoft.IoTFirmwareDefense",
+    "Microsoft.IoTOperations",
     "Microsoft.IoTOperationsDataProcessor",
     "Microsoft.IoTOperationsMQ",
     "Microsoft.IoTOperationsOrchestrator",

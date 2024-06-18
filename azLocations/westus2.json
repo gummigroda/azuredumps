@@ -129,6 +129,7 @@
     "Microsoft.HealthBot",
     "Microsoft.HybridCloud",
     "Microsoft.IntegrationSpaces",
+    "Microsoft.IoTOperations",
     "Microsoft.IoTOperationsDataProcessor",
     "Microsoft.IoTOperationsMQ",
     "Microsoft.IoTOperationsOrchestrator",
