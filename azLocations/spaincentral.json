@@ -50,7 +50,6 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.DevHub",
-    "Microsoft.Fabric",
     "Microsoft.Monitor",
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",
