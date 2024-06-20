@@ -48,6 +48,7 @@
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.CloudTest",
+    "Microsoft.DevAI",
     "Microsoft.DevHub",
     "Microsoft.IntegrationSpaces",
     "Microsoft.Monitor",
