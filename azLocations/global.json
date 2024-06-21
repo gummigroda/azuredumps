@@ -41,6 +41,7 @@
     "Microsoft.GraphServices",
     "Microsoft.HealthDataAIServices",
     "Microsoft.Impact",
+    "Microsoft.IoTOperations",
     "Microsoft.IoTOperationsDataProcessor",
     "Microsoft.IoTOperationsMQ",
     "Microsoft.IoTOperationsOrchestrator",
