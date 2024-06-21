@@ -26,6 +26,7 @@
     "Microsoft.DocumentDB",
     "Microsoft.KeyVault",
     "Microsoft.Search",
+    "microsoft.insights",
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Sql",
     "Microsoft.HybridCompute",
