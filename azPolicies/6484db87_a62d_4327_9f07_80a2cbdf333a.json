@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Enabling the Intrusion Detection and Prevention System (IDPS) allows you to monitor your network for malicious activity, log information about this activity, report it, and optionally attempt to block it. To learn more about the Intrusion Detection and Prevention System (IDPS) with Azure Firewall Premium, visit https://aka.ms/fw-idps",
+    "Description": "This policy is deprecated because Microsoft 365 App Compliance Program no longer requires Azure Firewall premium as the only network security control solution. Learn more details about the latest M365 APP Compliance requirements about network security controls at aka.ms/acat-cert2-seg-ops-nsc. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
     "DisplayName": "[Deprecated]: Firewall Policy Premium should enable the Intrusion Detection and Prevention System (IDPS)",
     "Metadata": {
       "version": "1.1.0-deprecated",
