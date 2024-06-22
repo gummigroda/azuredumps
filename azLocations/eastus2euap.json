@@ -62,7 +62,7 @@
     "Microsoft.ScVmm",
     "Microsoft.TestBase",
     "Microsoft.UsageBilling",
-    "Microsoft.VMWare",
+    "Microsoft.VMware",
     "Microsoft.WorkloadBuilder",
     "NewRelic.Observability",
     "NGINX.NGINXPLUS",
