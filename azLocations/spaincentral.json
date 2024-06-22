@@ -57,6 +57,7 @@
     "Microsoft.SecurityDetonation",
     "Microsoft.Singularity",
     "Microsoft.SqlVirtualMachine",
+    "Microsoft.Synapse",
     "Microsoft.UsageBilling",
     "Microsoft.VirtualMachineImages"
   ]
