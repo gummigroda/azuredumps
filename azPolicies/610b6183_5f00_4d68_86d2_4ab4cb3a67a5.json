@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "This policy is deprecated because Microsoft 365 App Compliance Program no longer requires Azure Firewall premium as the only network security control solution. Learn more details about the latest M365 APP Compliance requirements about network security controls at aka.ms/acat-cert2-seg-ops-nsc. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
+    "Description": "Enabling all Intrusion Detection and Prevention System (IDPS) signature rules is recommanded to better identify known threats in the traffic flows. To learn more about the Intrusion Detection and Prevention System (IDPS) signatures with Azure Firewall Premium, visit https://aka.ms/fw-idps-signature",
     "DisplayName": "[Deprecated]: Firewall Policy Premium should enable all IDPS signature rules to monitor all inbound and outbound traffic flows",
     "Metadata": {
       "version": "1.1.0-deprecated",
