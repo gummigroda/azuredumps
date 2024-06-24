@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Windows machines should enable the Real-time protection in the Windows Defender to provide adequate protection against newly released malware. This policy is not applicable to arc connected servers and it requires that the Guest Configuration prerequisites have been deployed to the policy assignment scope. For more information on Guest Configuration, visit https://aka.ms/gcpol.",
+    "Description": "Windows machines should enable the Real-time protection in the Windows Defender to provide adequate protection against newly released malware. This policy requires that the Guest Configuration prerequisites have been deployed to the policy assignment scope. For more information on Guest Configuration, visit https://aka.ms/gcpol.",
     "DisplayName": "Windows machines should enable Windows Defender Real-time protection",
     "Metadata": {
       "category": "Guest Configuration",
