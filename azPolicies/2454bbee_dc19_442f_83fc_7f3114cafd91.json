@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Setup the 'time.windows.com' as the default NTP Server for all Windows machines to ensure logs across all systems have system clocks that are all in sync. This policy requires that the Guest Configuration prerequisites have been deployed to the policy assignment scope. For more information on Guest Configuration, visit https://aka.ms/gcpol.",
+    "Description": "This policy is deprecated because Microsoft 365 App Compliance Program no longer checks the default NTP server on Windows machines. Learn more details about the latest M365 APP Compliance requirements at aka.ms/acat-cert2-seg-ops. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
     "DisplayName": "[Deprecated]: Windows machines should use the default NTP server",
     "Metadata": {
       "category": "Guest Configuration",

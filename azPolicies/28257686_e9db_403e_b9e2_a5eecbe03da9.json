@@ -1,0 +1,64 @@
+{
+  "Name": "28257686-e9db-403e-b9e2-a5eecbe03da9",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/28257686-e9db-403e-b9e2-a5eecbe03da9",
+  "ResourceName": "28257686-e9db-403e-b9e2-a5eecbe03da9",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disable SSH gives you the ability to secure your cluster and reduce the attack surface. To learn more, visit: aka.ms/aks/disablessh",
+    "DisplayName": "Azure Kubernetes Clusters should disable SSH",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Kubernetes"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy",
+          "portalReview": true
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.ContainerService/managedClusters"
+          },
+          {
+            "count": {
+              "field": "Microsoft.ContainerService/managedClusters/agentPoolProfiles[*]",
+              "where": {
+                "anyOf": [
+                  {
+                    "field": "Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile.sshAccess",
+                    "exists": "False"
+                  },
+                  {
+                    "field": "Microsoft.ContainerService/managedClusters/agentPoolProfiles[*].securityProfile.sshAccess",
+                    "equals": "localuser"
+                  }
+                ]
+              }
+            },
+            "greater": 0
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/28257686-e9db-403e-b9e2-a5eecbe03da9"
+}

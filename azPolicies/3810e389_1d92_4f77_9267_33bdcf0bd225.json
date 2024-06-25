@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "To ensure prompt detection of malware and minimize its impact on your system, it is recommended that Windows machines with Windows Defender schedule a daily scan. Please make sure Windows Defender is supported, preinstalled on the device, and Guest Configuration prerequisites are deployed. Failure to meet these requirements may lead to inaccurate evaluation results. Learn more about Guest Configuration at https://aka.ms/gcpol.",
+    "Description": "This policy is deprecated because Microsoft 365 App Compliance Program no longer checks schedule frequency on Windows machines. Learn more details about the latest M365 APP Compliance requirements at aka.ms/acat-cert2-seg-ops. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
     "DisplayName": "[Deprecated]: Windows machines should schedule Windows Defender to perform a scheduled scan every day",
     "Metadata": {
       "category": "Guest Configuration",
