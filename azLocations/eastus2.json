@@ -125,6 +125,7 @@
     "Microsoft.HybridCloud",
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTCentral",
+    "Microsoft.IoTOperations",
     "Microsoft.IoTOperationsDataProcessor",
     "Microsoft.IoTOperationsMQ",
     "Microsoft.IoTOperationsOrchestrator",

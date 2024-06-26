@@ -60,7 +60,6 @@
     "Microsoft.Quantum",
     "Microsoft.Scom",
     "Microsoft.ScVmm",
-    "Microsoft.TestBase",
     "Microsoft.UsageBilling",
     "Microsoft.VMware",
     "Microsoft.WorkloadBuilder",
