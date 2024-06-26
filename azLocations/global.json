@@ -41,6 +41,7 @@
     "Microsoft.GraphServices",
     "Microsoft.HealthDataAIServices",
     "Microsoft.Impact",
+    "Microsoft.IoTOperations",
     "Microsoft.IoTOperationsDataProcessor",
     "Microsoft.IoTOperationsMQ",
     "Microsoft.IoTOperationsOrchestrator",
@@ -65,7 +66,6 @@
     "Microsoft.SecurityCopilot",
     "Microsoft.SoftwarePlan",
     "Microsoft.Sovereign",
-    "Microsoft.TestBase",
     "Microsoft.VoiceServices",
     "Oracle.Database"
   ]

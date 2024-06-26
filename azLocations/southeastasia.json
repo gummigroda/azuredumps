@@ -104,7 +104,6 @@
     "Microsoft.DataReplication",
     "Microsoft.DataShare",
     "Microsoft.DelegatedNetwork",
-    "Microsoft.DevAI",
     "Microsoft.DevCenter",
     "Microsoft.DevHub",
     "Microsoft.DeviceUpdate",
@@ -171,6 +170,7 @@
     "Microsoft.VirtualMachineImages",
     "microsoft.visualstudio",
     "Microsoft.Workloads",
+    "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage",
     "Wandisco.Fusion"

@@ -131,6 +131,7 @@
     "Microsoft.Monitor",
     "Microsoft.NetApp",
     "Microsoft.NetworkAnalytics",
+    "Microsoft.NetworkCloud",
     "Microsoft.NetworkFunction",
     "Microsoft.NexusIdentity",
     "Microsoft.OffAzure",

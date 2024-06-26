@@ -129,6 +129,7 @@
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
     "Microsoft.Workloads",
+    "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
