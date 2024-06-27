@@ -66,6 +66,7 @@
     "Microsoft.SecurityCopilot",
     "Microsoft.SoftwarePlan",
     "Microsoft.Sovereign",
+    "Microsoft.TestBase",
     "Microsoft.VoiceServices",
     "Oracle.Database"
   ]
