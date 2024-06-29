@@ -1,0 +1,50 @@
+{
+  "Name": "0656cf40-485c-427b-b992-703a4ecf4f88",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/0656cf40-485c-427b-b992-703a4ecf4f88",
+  "ResourceName": "0656cf40-485c-427b-b992-703a4ecf4f88",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Disables API keys and service account for automated workloads in Grafana workspace.",
+    "DisplayName": "Azure Managed Grafana workspaces should disable service account",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Managed Grafana"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Dashboard/grafana"
+          },
+          {
+            "field": "Microsoft.Dashboard/grafana/apiKey",
+            "notEquals": "Disabled"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0656cf40-485c-427b-b992-703a4ecf4f88"
+}
