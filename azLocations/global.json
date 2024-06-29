@@ -35,6 +35,7 @@
     "Microsoft.ConnectedCredentials",
     "Microsoft.DevCenter",
     "Microsoft.DeviceRegistry",
+    "Microsoft.DevOpsInfrastructure",
     "Microsoft.EnterpriseSupport",
     "Microsoft.EntitlementManagement",
     "Microsoft.FluidRelay",
