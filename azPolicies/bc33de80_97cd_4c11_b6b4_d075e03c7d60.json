@@ -8,7 +8,7 @@
     "Description": "Private endpoints connect your virtual networks to Azure services without a public IP address at the source or destination. By mapping private endpoints to Azure Managed Grafana, you can reduce data leakage risks.",
     "DisplayName": "Configure Azure Managed Grafana dashboards with private endpoints",
     "Metadata": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Managed Grafana"
     },
     "Mode": "Indexed",
