@@ -88,6 +88,7 @@
     "Microsoft.HybridCloud",
     "Microsoft.IntegrationSpaces",
     "Microsoft.IoTSecurity",
+    "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
