@@ -142,6 +142,7 @@
     "Microsoft.VirtualMachineImages",
     "microsoft.visualstudio",
     "Microsoft.Workloads",
+    "NGINX.NGINXPLUS",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
