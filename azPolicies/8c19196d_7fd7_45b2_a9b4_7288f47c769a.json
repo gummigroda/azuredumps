@@ -1,0 +1,50 @@
+{
+  "Name": "8c19196d-7fd7-45b2-a9b4-7288f47c769a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/8c19196d-7fd7-45b2-a9b4-7288f47c769a",
+  "ResourceName": "8c19196d-7fd7-45b2-a9b4-7288f47c769a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "If you are looking for next generation protection like IDPS and TLS inspection, you should consider upgrading your Azure Firewall to Premium sku.",
+    "DisplayName": "Azure Firewall Standard should be upgraded to Premium for next generation protection",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/azureFirewalls"
+          },
+          {
+            "field": "Microsoft.Network/azureFirewalls/sku.tier",
+            "equals": "Standard"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/8c19196d-7fd7-45b2-a9b4-7288f47c769a"
+}

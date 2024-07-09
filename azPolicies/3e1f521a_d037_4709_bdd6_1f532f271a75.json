@@ -1,0 +1,50 @@
+{
+  "Name": "3e1f521a-d037-4709-bdd6-1f532f271a75",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3e1f521a-d037-4709-bdd6-1f532f271a75",
+  "ResourceName": "3e1f521a-d037-4709-bdd6-1f532f271a75",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "For increased availability we recommend deploying your Azure Firewall to span multiple Availability Zones. This ensures that your Azure Firewall will remain available in the event of a zone failure.",
+    "DisplayName": "Azure Firewall should be deployed to span multiple Availability Zones",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/azureFirewalls"
+          },
+          {
+            "field": "Microsoft.Network/azureFirewalls/zones",
+            "exists": false
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3e1f521a-d037-4709-bdd6-1f532f271a75"
+}

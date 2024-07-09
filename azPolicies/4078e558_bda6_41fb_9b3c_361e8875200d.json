@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Machines are non-compliant if Log Analytics agent is not installed on Azure Arc enabled windows server.",
-    "DisplayName": "Windows machines should have Log Analytics agent installed on Azure Arc",
+    "DisplayName": "[Deprecated]: Windows machines should have Log Analytics agent installed on Azure Arc",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "2.0.0",
+      "version": "2.1.0-deprecated",
+      "deprecated": true,
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],
@@ -43,7 +44,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

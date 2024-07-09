@@ -8,7 +8,7 @@
     "Description": "This policy definition is no longer the recommended way to achieve its intent. Instead of continuing to use this policy, we recommend you assign this replacement policy with policy ID a3a6ea0c-e018-4933-9ef0-5aaa1501449b. Learn more about policy definition deprecation at aka.ms/policydefdeprecation",
     "DisplayName": "[Deprecated]: Resource logs in Virtual Machine Scale Sets should be enabled",
     "Metadata": {
-      "version": "2.1.0-deprecated",
+      "version": "2.2.0-deprecated",
       "category": "Compute",
       "deprecated": true
     },
@@ -24,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       },
       "includeAKSClusters": {
         "type": "Boolean",

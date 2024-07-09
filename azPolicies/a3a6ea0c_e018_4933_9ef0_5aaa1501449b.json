@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Security Center collects data from your Azure virtual machines (VMs) to monitor for security vulnerabilities and threats.",
-    "DisplayName": "Log Analytics agent should be installed on your virtual machine scale sets for Azure Security Center monitoring",
+    "DisplayName": "[Deprecated]: Log Analytics agent should be installed on your virtual machine scale sets for Azure Security Center monitoring",
     "Metadata": {
-      "version": "1.0.0",
-      "category": "Security Center"
+      "version": "1.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
