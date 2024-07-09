@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Machines are non-compliant if Log Analytics agent is not installed on Azure Arc enabled Linux server.",
-    "DisplayName": "Linux machines should have Log Analytics agent installed on Azure Arc",
+    "DisplayName": "[Deprecated]: Linux machines should have Log Analytics agent installed on Azure Arc",
     "Metadata": {
       "category": "Guest Configuration",
-      "version": "1.1.0",
+      "version": "1.2.0-deprecated",
+      "deprecated": true,
       "requiredProviders": [
         "Microsoft.GuestConfiguration"
       ],
@@ -43,7 +44,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

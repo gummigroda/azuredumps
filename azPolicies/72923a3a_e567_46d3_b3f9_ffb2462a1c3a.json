@@ -1,0 +1,50 @@
+{
+  "Name": "72923a3a-e567-46d3-b3f9-ffb2462a1c3a",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/72923a3a-e567-46d3-b3f9-ffb2462a1c3a",
+  "ResourceName": "72923a3a-e567-46d3-b3f9-ffb2462a1c3a",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Deploy an Azure Firewall to your Virtual Hubs to protect and granularly control internet egress and ingress traffic.",
+    "DisplayName": "Virtual Hubs should be protected with Azure Firewall",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/virtualHubs"
+          },
+          {
+            "field": "Microsoft.Network/virtualHubs/azureFirewall",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/72923a3a-e567-46d3-b3f9-ffb2462a1c3a"
+}

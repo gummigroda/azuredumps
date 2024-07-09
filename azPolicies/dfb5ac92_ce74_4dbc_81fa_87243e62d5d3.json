@@ -1,0 +1,49 @@
+{
+  "Name": "dfb5ac92-ce74-4dbc-81fa-87243e62d5d3",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/dfb5ac92-ce74-4dbc-81fa-87243e62d5d3",
+  "ResourceName": "dfb5ac92-ce74-4dbc-81fa-87243e62d5d3",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Enabling Policy Analytics provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance",
+    "DisplayName": "Azure Firewall Policy Analytics should be Enabled",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Network/firewallPolicies"
+          },
+          {
+            "field": "Microsoft.Network/firewallPolicies/insights.isEnabled",
+            "exists": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/dfb5ac92-ce74-4dbc-81fa-87243e62d5d3"
+}
