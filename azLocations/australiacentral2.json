@@ -28,6 +28,7 @@
     "Microsoft.Security",
     "Microsoft.Devices",
     "Microsoft.EventGrid",
+    "Microsoft.Web",
     "Microsoft.DevTestLab",
     "Microsoft.Databricks",
     "Microsoft.OperationsManagement",
