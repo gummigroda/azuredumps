@@ -24,6 +24,7 @@
     "Microsoft.OperationalInsights",
     "Microsoft.Devices",
     "Microsoft.EventGrid",
+    "Microsoft.Web",
     "Microsoft.DocumentDB",
     "Microsoft.KeyVault",
     "Microsoft.Search",
