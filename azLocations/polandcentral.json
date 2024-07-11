@@ -69,6 +69,7 @@
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",
+    "Microsoft.SignalRService",
     "Microsoft.Singularity",
     "Microsoft.Solutions",
     "Microsoft.SqlVirtualMachine",
