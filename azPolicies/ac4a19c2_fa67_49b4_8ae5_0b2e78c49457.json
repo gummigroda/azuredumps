@@ -5,8 +5,8 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "To provide granular filtering on the actions that users can perform, use Azure Role-Based Access Control (RBAC) to manage permissions in Kubernetes Service Clusters and configure relevant authorization policies.",
-    "DisplayName": "Azure Role-Based Access Control (RBAC) should be used on Kubernetes Services",
+    "Description": "To provide granular filtering on the actions that users can perform, use Role-Based Access Control (RBAC) to manage permissions in Kubernetes Service Clusters and configure relevant authorization policies.",
+    "DisplayName": "Role-Based Access Control (RBAC) should be used on Kubernetes Services",
     "Metadata": {
       "version": "1.0.4",
       "category": "Security Center"
