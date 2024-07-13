@@ -98,6 +98,7 @@
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
+    "Microsoft.CloudHealth",
     "Microsoft.CloudTest",
     "Microsoft.Community",
     "Microsoft.Confluent",
