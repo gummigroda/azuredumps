@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Azure Private Link lets you connect your virtual networks to Azure services without a public IP address at the source or destination. The Private Link platform handles the connectivity between the consumer and services over the Azure backbone network. By mapping private endpoints to Cognitive Services, you'll reduce the potential for data leakage. Learn more about private links at: https://go.microsoft.com/fwlink/?linkid=2129800.",
-    "DisplayName": "Cognitive Services should use private link",
+    "DisplayName": "[Deprecated]: Cognitive Services should use private link",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Cognitive Services"
+      "version": "3.0.1-deprecated",
+      "category": "Cognitive Services",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
