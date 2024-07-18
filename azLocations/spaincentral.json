@@ -21,6 +21,7 @@
     "Microsoft.Compute",
     "Microsoft.ManagedIdentity",
     "Microsoft.DBforMySQL",
+    "Microsoft.CognitiveServices",
     "Microsoft.OperationalInsights",
     "Microsoft.Security",
     "Microsoft.Relay",
