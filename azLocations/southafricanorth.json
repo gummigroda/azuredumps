@@ -81,6 +81,7 @@
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
     "Microsoft.Confluent",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataBox",
     "Microsoft.DataFactory",
     "Microsoft.DataShare",

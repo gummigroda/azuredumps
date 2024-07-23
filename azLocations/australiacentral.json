@@ -57,6 +57,7 @@
     "Microsoft.ServiceLinker",
     "Microsoft.ClassicCompute",
     "GitHub.Network",
+    "Informatica.DataManagement",
     "microsoft.aadiam",
     "Microsoft.AppConfiguration",
     "Microsoft.Attestation",

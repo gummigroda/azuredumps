@@ -102,6 +102,7 @@
     "Microsoft.ConnectedCache",
     "Microsoft.CostManagement",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DatabaseWatcher",
     "Microsoft.DataBox",
     "Microsoft.DataCatalog",

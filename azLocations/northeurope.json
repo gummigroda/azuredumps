@@ -108,6 +108,7 @@
     "Microsoft.ConnectedVehicle",
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataCatalog",
     "Microsoft.DataFactory",
     "Microsoft.DataReplication",
