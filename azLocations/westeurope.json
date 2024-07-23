@@ -117,6 +117,7 @@
     "Microsoft.ConnectedVehicle",
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DatabaseWatcher",
     "Microsoft.DataBox",
     "Microsoft.DataBoxEdge",

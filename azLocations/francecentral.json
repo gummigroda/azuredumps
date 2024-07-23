@@ -86,6 +86,7 @@
     "Microsoft.Confluent",
     "Microsoft.ConnectedCredentials",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",

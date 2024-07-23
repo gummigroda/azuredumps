@@ -87,6 +87,7 @@
     "Microsoft.CloudTest",
     "Microsoft.Confluent",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevCenter",

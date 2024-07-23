@@ -83,6 +83,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",

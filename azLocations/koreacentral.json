@@ -83,6 +83,7 @@
     "Microsoft.Confluent",
     "Microsoft.ConnectedCache",
     "Microsoft.ConnectedCredentials",
+    "Microsoft.DatabaseFleetManager",
     "Microsoft.DataBox",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",
