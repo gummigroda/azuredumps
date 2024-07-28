@@ -92,6 +92,7 @@
     "Microsoft.CloudTest",
     "Microsoft.Confluent",
     "Microsoft.ConnectedCredentials",
+    "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
     "Microsoft.DataFactory",
     "Microsoft.DataReplication",
