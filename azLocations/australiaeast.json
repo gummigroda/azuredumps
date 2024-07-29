@@ -106,7 +106,6 @@
     "Microsoft.DatabaseFleetManager",
     "Microsoft.DatabaseWatcher",
     "Microsoft.DataBox",
-    "Microsoft.DataCatalog",
     "Microsoft.DataFactory",
     "Microsoft.DataShare",
     "Microsoft.DelegatedNetwork",

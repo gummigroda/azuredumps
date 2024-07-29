@@ -101,7 +101,6 @@
     "Microsoft.DatabaseWatcher",
     "Microsoft.DataBox",
     "Microsoft.DataBoxEdge",
-    "Microsoft.DataCatalog",
     "Microsoft.DataFactory",
     "Microsoft.DataReplication",
     "Microsoft.DataShare",
