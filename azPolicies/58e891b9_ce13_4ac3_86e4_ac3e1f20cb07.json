@@ -8,7 +8,7 @@
     "Description": "Deploy Association to link Linux virtual machines to the specified Data Collection Rule or the specified Data Collection Endpoint. The list of locations and OS images are updated over time as support is increased.",
     "DisplayName": "Configure Linux Virtual Machines to be associated with a Data Collection Rule or a Data Collection Endpoint",
     "Metadata": {
-      "version": "4.3.0",
+      "version": "4.4.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -410,7 +410,7 @@
                   },
                   {
                     "field": "Microsoft.Compute/imageOffer",
-                    "equals": "almalinux"
+                    "like": "almalinux*"
                   },
                   {
                     "anyOf": [
