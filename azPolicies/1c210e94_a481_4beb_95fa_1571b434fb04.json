@@ -8,7 +8,7 @@
     "Description": "Deploy Dependency agent for Windows virtual machines if the virtual machine image is in the list defined and the agent is not installed.",
     "DisplayName": "Deploy - Configure Dependency agent to be enabled on Windows virtual machines",
     "Metadata": {
-      "version": "3.1.0",
+      "version": "3.2.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -281,6 +281,7 @@
                       "publisher": "[variables('vmExtensionPublisher')]",
                       "type": "[variables('vmExtensionType')]",
                       "typeHandlerVersion": "[variables('vmExtensionTypeHandlerVersion')]",
+                      "enableAutomaticUpgrade": true,
                       "autoUpgradeMinorVersion": true
                     }
                   }

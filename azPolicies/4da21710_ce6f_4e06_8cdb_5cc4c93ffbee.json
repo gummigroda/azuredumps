@@ -8,7 +8,7 @@
     "Description": "Deploy Dependency agent for Linux virtual machines if the VM Image (OS) is in the list defined and the agent is not installed.",
     "DisplayName": "Deploy Dependency agent for Linux virtual machines",
     "Metadata": {
-      "version": "5.0.0",
+      "version": "5.1.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -305,6 +305,7 @@
                       "publisher": "[variables('vmExtensionPublisher')]",
                       "type": "[variables('vmExtensionType')]",
                       "typeHandlerVersion": "[variables('vmExtensionTypeHandlerVersion')]",
+                      "enableAutomaticUpgrade": true,
                       "autoUpgradeMinorVersion": true
                     }
                   }

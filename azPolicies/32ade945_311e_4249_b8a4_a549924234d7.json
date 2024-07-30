@@ -8,7 +8,7 @@
     "Description": "Linux virtual machine scale sets should be monitored and secured through the deployed Azure Monitor Agent. The Azure Monitor Agent collects telemetry data from the guest OS. This policy will audit virtual machine scale sets with supported OS images in supported regions. Learn more: https://aka.ms/AMAOverview.",
     "DisplayName": "Linux virtual machine scale sets should have Azure Monitor Agent installed",
     "Metadata": {
-      "version": "3.2.0",
+      "version": "3.3.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -389,7 +389,7 @@
                   },
                   {
                     "field": "Microsoft.Compute/imageOffer",
-                    "equals": "almalinux"
+                    "like": "almalinux*"
                   },
                   {
                     "anyOf": [

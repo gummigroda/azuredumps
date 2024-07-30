@@ -8,7 +8,7 @@
     "Description": "Enable VM insights on servers and machines connected to Azure through Arc enabled servers by installing the Dependency agent virtual machine extension. VM insights uses the Dependency agent to collect network metrics and discovered data about processes running on the machine and external process dependencies. See more - https://aka.ms/vminsightsdocs.",
     "DisplayName": "Configure Dependency agent on Azure Arc enabled Linux servers",
     "Metadata": {
-      "version": "2.0.0",
+      "version": "2.1.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -79,7 +79,8 @@
                 "variables": {
                   "vmExtensionName": "DependencyAgentLinux",
                   "vmExtensionPublisher": "Microsoft.Azure.Monitoring.DependencyAgent",
-                  "vmExtensionType": "DependencyAgentLinux"
+                  "vmExtensionType": "DependencyAgentLinux",
+                  "vmExtensionTypeHandlerVersion": "9.10"
                 },
                 "resources": [
                   {
@@ -90,6 +91,9 @@
                     "properties": {
                       "publisher": "[variables('vmExtensionPublisher')]",
                       "type": "[variables('vmExtensionType')]",
+                      "typeHandlerVersion": "[variables('vmExtensionTypeHandlerVersion')]",
+                      "enableAutomaticUpgrade": true,
+                      "autoUpgradeMinorVersion": true,
                       "settings": {}
                     }
                   }

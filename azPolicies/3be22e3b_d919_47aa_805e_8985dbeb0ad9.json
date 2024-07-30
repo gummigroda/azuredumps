@@ -8,7 +8,7 @@
     "Description": "Deploy Dependency agent for Windows virtual machine scale sets if the virtual machine image is in the list defined and the agent is not installed. If your scale set upgradePolicy is set to Manual, you need to apply the extension to all the virtual machines in the set by updating them.",
     "DisplayName": "Deploy - Configure Dependency agent to be enabled on Windows virtual machine scale sets",
     "Metadata": {
-      "version": "3.1.0",
+      "version": "3.2.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -277,6 +277,7 @@
                       "publisher": "[variables('vmExtensionPublisher')]",
                       "type": "[variables('vmExtensionType')]",
                       "typeHandlerVersion": "[variables('vmExtensionTypeHandlerVersion')]",
+                      "enableAutomaticUpgrade": true,
                       "autoUpgradeMinorVersion": true
                     }
                   }

@@ -8,7 +8,7 @@
     "Description": "Deploy Dependency agent for Linux virtual machine scale sets if the VM Image (OS) is in the list defined and the agent is not installed. Note: if your scale set upgradePolicy is set to Manual, you need to apply the extension to the all virtual machines in the set by calling upgrade on them. In CLI this would be az vmss update-instances.",
     "DisplayName": "Deploy Dependency agent for Linux virtual machine scale sets",
     "Metadata": {
-      "version": "5.0.0",
+      "version": "5.1.0",
       "category": "Monitoring"
     },
     "Mode": "Indexed",
@@ -301,6 +301,7 @@
                       "publisher": "[variables('vmExtensionPublisher')]",
                       "type": "[variables('vmExtensionType')]",
                       "typeHandlerVersion": "[variables('vmExtensionTypeHandlerVersion')]",
+                      "enableAutomaticUpgrade": true,
                       "autoUpgradeMinorVersion": true
                     }
                   }

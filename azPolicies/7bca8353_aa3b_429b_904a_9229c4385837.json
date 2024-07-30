@@ -1,0 +1,66 @@
+{
+  "Name": "7bca8353-aa3b-429b-904a-9229c4385837",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/7bca8353-aa3b-429b-904a-9229c4385837",
+  "ResourceName": "7bca8353-aa3b-429b-904a-9229c4385837",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Ensure your subnets are secure by default by preventing default outbound access. For more information go to https://aka.ms/defaultoutboundaccessretirement",
+    "DisplayName": "Subnets should be private",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Network"
+    },
+    "Mode": "All",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "anyOf": [
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Network/virtualNetworks"
+              },
+              {
+                "field": "Microsoft.Network/virtualNetworks/subnets[*].defaultOutboundAccess",
+                "notEquals": "false"
+              }
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.Network/virtualNetworks/subnets"
+              },
+              {
+                "field": "Microsoft.Network/virtualNetworks/subnets/defaultOutboundAccess",
+                "notEquals": "false"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7bca8353-aa3b-429b-904a-9229c4385837"
+}
