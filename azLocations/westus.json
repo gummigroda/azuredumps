@@ -117,6 +117,7 @@
     "Microsoft.Fabric",
     "Microsoft.Falcon",
     "Microsoft.HanaOnAzure",
+    "Microsoft.Hardware",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.HybridCloud",
     "Microsoft.HybridNetwork",
