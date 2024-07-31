@@ -146,6 +146,7 @@
     "Microsoft.Hardware",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.HealthBot",
+    "Microsoft.HealthDataAIServices",
     "Microsoft.HybridCloud",
     "Microsoft.HybridContainerService",
     "Microsoft.HybridNetwork",
