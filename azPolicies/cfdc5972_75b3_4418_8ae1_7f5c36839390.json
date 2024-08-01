@@ -41,7 +41,7 @@
         "type": "Integer",
         "metadata": {
           "displayName": "Cap GB Per Month Per Storage Account",
-          "description": "Limit the GB to be scanned per month for each storage account within the subscription. Set to -1 for unlimited GB scanning"
+          "description": "Limit the GB scanned per month for each storage account within the subscription.\r\nValue must be an integer, 10GB or higher\r\nSet to -1 for unlimited scanning"
         },
         "defaultValue": 5000
       },
