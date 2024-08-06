@@ -1,0 +1,50 @@
+{
+  "Name": "3827af20-8f80-4b15-8300-6db0873ec901",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/3827af20-8f80-4b15-8300-6db0873ec901",
+  "ResourceName": "3827af20-8f80-4b15-8300-6db0873ec901",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Not using local authentication methods like access keys and using more secure alternatives like Microsoft Entra ID (recommended) improves security for your Azure Cache for Redis. Learn more at aka.ms/redis/disableAccessKeyAuthentication",
+    "DisplayName": "Azure Cache for Redis should not use access keys for authentication",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "Cache"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Cache/Redis"
+          },
+          {
+            "field": "Microsoft.Cache/Redis/disableAccessKeyAuthentication",
+            "equals": "false"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3827af20-8f80-4b15-8300-6db0873ec901"
+}
