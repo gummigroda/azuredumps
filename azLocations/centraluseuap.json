@@ -36,7 +36,6 @@
     "Astronomer.Astro",
     "Dynatrace.Observability",
     "Informatica.DataManagement",
-    "Microsoft.App",
     "Microsoft.AppConfiguration",
     "Microsoft.AzureScan",
     "Microsoft.AzureStackHCI",
