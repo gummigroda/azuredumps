@@ -45,6 +45,7 @@
     "Microsoft.Datadog",
     "Microsoft.Elastic",
     "Microsoft.HybridNetwork",
+    "Microsoft.Kubernetes",
     "Microsoft.Logz",
     "Microsoft.MobileNetwork",
     "Microsoft.MySQLDiscovery",
