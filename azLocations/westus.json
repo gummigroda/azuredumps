@@ -148,6 +148,7 @@
     "Microsoft.RedHatOpenShift",
     "Microsoft.Resources",
     "Microsoft.Scom",
+    "Microsoft.SecretSyncController",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",
     "Microsoft.ServiceNetworking",

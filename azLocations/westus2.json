@@ -160,6 +160,7 @@
     "Microsoft.Resources",
     "Microsoft.Scom",
     "Microsoft.ScVmm",
+    "Microsoft.SecretSyncController",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",
     "Microsoft.ServicesHub",

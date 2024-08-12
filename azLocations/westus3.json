@@ -135,6 +135,7 @@
     "Microsoft.SaaSHub",
     "Microsoft.Scom",
     "Microsoft.ScVmm",
+    "Microsoft.SecretSyncController",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",
     "Microsoft.SignalRService",

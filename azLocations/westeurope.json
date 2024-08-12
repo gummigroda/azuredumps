@@ -183,6 +183,7 @@
     "Microsoft.SaaSHub",
     "Microsoft.Scom",
     "Microsoft.ScVmm",
+    "Microsoft.SecretSyncController",
     "Microsoft.SecurityCopilot",
     "Microsoft.SecurityDetonation",
     "Microsoft.SerialConsole",

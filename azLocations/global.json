@@ -66,6 +66,7 @@
     "Microsoft.ProgrammableConnectivity",
     "Microsoft.ResourceGraph",
     "Microsoft.SaaS",
+    "Microsoft.SecretSyncController",
     "Microsoft.SecurityCopilot",
     "Microsoft.SoftwarePlan",
     "Microsoft.Sovereign",
