@@ -67,6 +67,7 @@
     "Microsoft.DataFactory",
     "Microsoft.DevCenter",
     "Microsoft.DevHub",
+    "Microsoft.DevOpsInfrastructure",
     "Microsoft.ExtendedLocation",
     "Microsoft.Fabric",
     "Microsoft.Kubernetes",
