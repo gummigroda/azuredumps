@@ -50,6 +50,7 @@
     "Microsoft.Monitor",
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",
+    "Microsoft.SerialConsole",
     "Microsoft.Singularity",
     "Microsoft.SqlVirtualMachine",
     "Microsoft.Synapse",
