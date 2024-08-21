@@ -6,10 +6,9 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Your machines are missing system, security, and critical updates. Software updates often include critical patches to security holes. Such holes are frequently exploited in malware attacks so it's vital to keep your software updated. To install all outstanding patches and secure your machines, follow the remediation steps.",
-    "DisplayName": "[Preview]: System updates should be installed on your machines (powered by Update Center)",
+    "DisplayName": "System updates should be installed on your machines (powered by Update Center)",
     "Metadata": {
-      "version": "1.0.0-preview",
-      "preview": true,
+      "version": "1.0.1",
       "category": "Security Center"
     },
     "Mode": "Indexed",
