@@ -43,6 +43,7 @@
     "Microsoft.Search",
     "Microsoft.Automation",
     "microsoft.insights",
+    "Microsoft.MachineLearningServices",
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Kusto",
     "Microsoft.Sql",
