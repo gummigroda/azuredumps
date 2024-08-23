@@ -118,6 +118,7 @@
     "Microsoft.DeviceUpdate",
     "Microsoft.DevOpsInfrastructure",
     "Microsoft.DigitalTwins",
+    "Microsoft.DurableTask",
     "Microsoft.Edge",
     "Microsoft.Elastic",
     "Microsoft.ElasticSan",
