@@ -107,6 +107,7 @@
     "Microsoft.Edge",
     "Microsoft.ExtendedLocation",
     "Microsoft.Fabric",
+    "Microsoft.Hardware",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.HealthBot",
     "Microsoft.HybridCloud",

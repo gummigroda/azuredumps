@@ -126,6 +126,7 @@
     "Microsoft.Fabric",
     "Microsoft.FluidRelay",
     "Microsoft.HanaOnAzure",
+    "Microsoft.Hardware",
     "Microsoft.HardwareSecurityModules",
     "Microsoft.HealthBot",
     "Microsoft.HealthDataAIServices",
