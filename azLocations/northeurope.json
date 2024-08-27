@@ -109,6 +109,7 @@
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
     "Microsoft.DatabaseFleetManager",
+    "Microsoft.DatabaseWatcher",
     "Microsoft.DataFactory",
     "Microsoft.DataReplication",
     "Microsoft.DataShare",
