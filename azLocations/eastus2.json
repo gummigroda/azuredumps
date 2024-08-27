@@ -105,6 +105,7 @@
     "Microsoft.D365CustomerInsights",
     "Microsoft.Dashboard",
     "Microsoft.DatabaseFleetManager",
+    "Microsoft.DatabaseWatcher",
     "Microsoft.DataFactory",
     "Microsoft.DataShare",
     "Microsoft.DelegatedNetwork",

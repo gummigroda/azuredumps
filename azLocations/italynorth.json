@@ -90,6 +90,7 @@
     "Microsoft.Synapse",
     "Microsoft.UsageBilling",
     "Microsoft.VirtualMachineImages",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw"
   ]
 }

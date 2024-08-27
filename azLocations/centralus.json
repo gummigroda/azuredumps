@@ -94,6 +94,7 @@
     "Microsoft.ConnectedCredentials",
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",
+    "Microsoft.DatabaseWatcher",
     "Microsoft.DataFactory",
     "Microsoft.DataReplication",
     "Microsoft.DataShare",
@@ -156,6 +157,7 @@
     "microsoft.visualstudio",
     "Microsoft.Workloads",
     "NGINX.NGINXPLUS",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]

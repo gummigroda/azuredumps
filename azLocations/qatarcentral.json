@@ -55,6 +55,7 @@
     "Microsoft.Kusto",
     "Microsoft.Sql",
     "Microsoft.HDInsight",
+    "Microsoft.HybridConnectivity",
     "Microsoft.ServiceLinker",
     "Microsoft.ClassicCompute",
     "Microsoft.AppConfiguration",
