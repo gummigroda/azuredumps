@@ -92,7 +92,6 @@
     "Microsoft.StandbyPool",
     "Microsoft.StorageSync",
     "Microsoft.UsageBilling",
-    "Microsoft.Workloads",
-    "NGINX.NGINXPLUS"
+    "Microsoft.Workloads"
   ]
 }
