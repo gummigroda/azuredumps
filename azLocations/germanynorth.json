@@ -17,6 +17,7 @@
   ],
   "Providers": [
     "Microsoft.Network",
+    "Microsoft.Storage",
     "Microsoft.AAD",
     "Microsoft.HealthcareApis",
     "Microsoft.Maintenance",

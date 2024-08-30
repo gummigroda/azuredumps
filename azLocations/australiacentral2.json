@@ -17,6 +17,7 @@
   ],
   "Providers": [
     "Microsoft.Network",
+    "Microsoft.Storage",
     "Microsoft.Maintenance",
     "Microsoft.ContainerService",
     "Microsoft.EventHub",

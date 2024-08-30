@@ -16,6 +16,7 @@
     }
   ],
   "Providers": [
+    "Microsoft.Storage",
     "Microsoft.ContainerService",
     "Microsoft.EventHub",
     "Microsoft.DataMigration",
