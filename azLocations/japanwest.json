@@ -50,6 +50,7 @@
     "Microsoft.RecoveryServices",
     "Microsoft.ContainerRegistry",
     "Microsoft.KeyVault",
+    "Microsoft.DesktopVirtualization",
     "Microsoft.DataProtection",
     "Microsoft.DBforMariaDB",
     "Microsoft.ContainerInstance",
