@@ -127,7 +127,6 @@
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
-    "Microsoft.MachineLearning",
     "Microsoft.ManagedNetworkFabric",
     "Microsoft.MarketplaceOrdering",
     "Microsoft.Mission",

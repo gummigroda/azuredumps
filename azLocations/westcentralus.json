@@ -119,7 +119,6 @@
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
-    "Microsoft.MachineLearning",
     "Microsoft.Migrate",
     "Microsoft.Mission",
     "Microsoft.MobileNetwork",

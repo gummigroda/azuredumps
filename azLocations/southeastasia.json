@@ -132,7 +132,6 @@
     "Microsoft.KubernetesRuntime",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
-    "Microsoft.MachineLearning",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
     "Microsoft.MySQLDiscovery",
