@@ -138,7 +138,6 @@
     "Microsoft.KubernetesRuntime",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
-    "Microsoft.MachineLearning",
     "Microsoft.Migrate",
     "Microsoft.Mission",
     "Microsoft.ModSimWorkbench",

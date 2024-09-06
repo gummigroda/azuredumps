@@ -116,7 +116,6 @@
     "Microsoft.KubernetesConfiguration",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
-    "Microsoft.MachineLearning",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
