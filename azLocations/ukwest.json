@@ -122,6 +122,7 @@
     "Microsoft.UsageBilling",
     "Microsoft.VideoIndexer",
     "Microsoft.VirtualMachineImages",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
