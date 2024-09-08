@@ -12,8 +12,7 @@
     "Microsoft.Compute/virtualMachineScaleSets/instanceView/read",
     "Microsoft.Compute/virtualMachineScaleSets/read",
     "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/read",
-    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/instanceView/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/instanceView/read"
   ],
   "NotActions": [],
   "DataActions": [],
