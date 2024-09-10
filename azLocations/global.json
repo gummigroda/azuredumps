@@ -23,6 +23,7 @@
     "Microsoft.AlertsManagement",
     "Microsoft.HybridConnectivity",
     "GitHub.Network",
+    "Microsoft.AgriculturePlatform",
     "Microsoft.Authorization",
     "Microsoft.AzureActiveDirectory",
     "Microsoft.AzureSphere",
@@ -70,6 +71,7 @@
     "Microsoft.SecurityCopilot",
     "Microsoft.SoftwarePlan",
     "Microsoft.Sovereign",
+    "Microsoft.SustainabilityServices",
     "Microsoft.VoiceServices",
     "Oracle.Database"
   ]
