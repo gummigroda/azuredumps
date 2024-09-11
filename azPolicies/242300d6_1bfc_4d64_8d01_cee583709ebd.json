@@ -8,7 +8,7 @@
     "Description": "Microsoft Defender for SQL collects events from the agent and uses them to provide security alerts and tailored hardening tasks (recommendations). Create a resource group and Log Analytics workspace in the same region as the machine.",
     "DisplayName": "Configure the Microsoft Defender for SQL Log Analytics workspace",
     "Metadata": {
-      "version": "1.3.0",
+      "version": "1.4.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -33,15 +33,15 @@
             "allOf": [
               {
                 "field": "type",
-                "equals": "Microsoft.Compute/virtualMachines"
+                "equals": "Microsoft.SqlVirtualMachine/SqlVirtualMachines"
               },
               {
-                "field": "Microsoft.Compute/virtualMachines/storageProfile.osDisk.osType",
-                "like": "Windows*"
+                "value": "[requestContext().apiVersion]",
+                "greaterOrEquals": "2023-10-01"
               },
               {
-                "field": "Microsoft.Compute/imagePublisher",
-                "equals": "microsoftsqlserver"
+                "field": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/osType",
+                "equals": "Windows"
               }
             ]
           },
