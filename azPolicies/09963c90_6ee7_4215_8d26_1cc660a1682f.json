@@ -8,7 +8,7 @@
     "Description": "Create and assign a built-in user-assigned managed identity at scale to SQL virtual machines.",
     "DisplayName": "Create and assign a built-in user-assigned managed identity",
     "Metadata": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -60,15 +60,11 @@
         "allOf": [
           {
             "field": "type",
-            "equals": "Microsoft.Compute/virtualMachines"
+            "equals": "Microsoft.SqlVirtualMachine/SqlVirtualMachines"
           },
           {
-            "field": "Microsoft.Compute/virtualMachines/storageProfile.osDisk.osType",
-            "like": "Windows*"
-          },
-          {
-            "field": "Microsoft.Compute/imagePublisher",
-            "equals": "microsoftsqlserver"
+            "field": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/osType",
+            "equals": "Windows"
           },
           {
             "value": "[requestContext().apiVersion]",
@@ -80,7 +76,7 @@
         "effect": "[parameters('effect')]",
         "details": {
           "type": "Microsoft.Compute/virtualMachines",
-          "name": "[field('fullName')]",
+          "name": "[last(split(field('Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId'), '/'))]",
           "evaluationDelay": "AfterProvisioning",
           "deploymentScope": "subscription",
           "existenceCondition": {
@@ -132,13 +128,13 @@
                   "value": "[parameters('builtInIdentityResourceGroupLocation')]"
                 },
                 "vmName": {
-                  "value": "[field('fullName')]"
+                  "value": "[last(split(field('Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId'), '/'))]"
                 },
                 "vmResourceGroup": {
                   "value": "[resourceGroup().name]"
                 },
                 "resourceId": {
-                  "value": "[first(split(field('id'), '/extension'))]"
+                  "value": "[field('Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId')]"
                 }
               },
               "template": {

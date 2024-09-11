@@ -8,7 +8,7 @@
     "Description": "Configure Windows SQL Virtual Machines to automatically install the Microsoft Defender for SQL extension. Microsoft Defender for SQL collects events from the agent and uses them to provide security alerts and tailored hardening tasks (recommendations).",
     "DisplayName": "Configure SQL Virtual Machines to automatically install Microsoft Defender for SQL",
     "Metadata": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "category": "Security Center"
     },
     "Mode": "Indexed",
@@ -68,15 +68,11 @@
         "allOf": [
           {
             "field": "type",
-            "equals": "Microsoft.Compute/virtualMachines"
+            "equals": "Microsoft.SqlVirtualMachine/SqlVirtualMachines"
           },
           {
-            "field": "Microsoft.Compute/virtualMachines/storageProfile.osDisk.osType",
-            "like": "Windows*"
-          },
-          {
-            "field": "Microsoft.Compute/imagePublisher",
-            "equals": "microsoftsqlserver"
+            "field": "Microsoft.SqlVirtualMachine/sqlVirtualMachines/osType",
+            "equals": "Windows"
           }
         ]
       },
@@ -84,7 +80,7 @@
         "effect": "[parameters('effect')]",
         "details": {
           "type": "Microsoft.Compute/virtualMachines/extensions",
-          "name": "[concat(field('fullName'), '/MicrosoftDefenderForSQL')]",
+          "name": "[concat(last(split(field('Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId'), '/')), '/MicrosoftDefenderForSQL')]",
           "evaluationDelay": "AfterProvisioning",
           "existenceCondition": {
             "allOf": [
@@ -117,7 +113,7 @@
                   "value": "[field('location')]"
                 },
                 "vmName": {
-                  "value": "[field('fullName')]"
+                  "value": "[last(split(field('Microsoft.SqlVirtualMachine/SqlVirtualMachines/virtualMachineResourceId'), '/'))]"
                 },
                 "workspaceRegion": {
                   "value": "[parameters('workspaceRegion')]"
