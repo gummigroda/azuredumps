@@ -79,6 +79,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.Confluent",
     "Microsoft.Dashboard",
     "Microsoft.DatabaseFleetManager",

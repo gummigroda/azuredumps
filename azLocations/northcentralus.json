@@ -87,6 +87,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.DatabaseFleetManager",
     "Microsoft.DataFactory",

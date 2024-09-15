@@ -95,6 +95,7 @@
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
     "Microsoft.Community",
+    "Microsoft.ComputeSchedule",
     "Microsoft.ConfidentialLedger",
     "Microsoft.Confluent",
     "Microsoft.ConnectedCredentials",

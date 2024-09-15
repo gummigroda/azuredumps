@@ -99,6 +99,7 @@
     "Microsoft.CleanRoom",
     "Microsoft.CloudTest",
     "Microsoft.CodeSigning",
+    "Microsoft.ComputeSchedule",
     "Microsoft.ConnectedCache",
     "Microsoft.CostManagement",
     "Microsoft.Dashboard",
