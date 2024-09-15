@@ -118,6 +118,7 @@
     "Microsoft.IoTOperationsOrchestrator",
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
+    "Microsoft.KubernetesRuntime",
     "Microsoft.LoadTestService",
     "Microsoft.ManagedNetworkFabric",
     "Microsoft.Mission",

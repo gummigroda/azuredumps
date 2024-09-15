@@ -46,6 +46,7 @@
     "Microsoft.Batch",
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DevHub",
     "Microsoft.Fabric",
     "Microsoft.Monitor",

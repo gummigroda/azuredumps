@@ -86,6 +86,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.Confluent",
     "Microsoft.ConnectedVMwarevSphere",
     "Microsoft.Dashboard",

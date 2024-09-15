@@ -64,6 +64,7 @@
     "Microsoft.Batch",
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
+    "Microsoft.ComputeSchedule",
     "Microsoft.Confluent",
     "Microsoft.DataFactory",
     "Microsoft.DevCenter",

@@ -80,6 +80,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.Confluent",
     "Microsoft.ConnectedCache",
     "Microsoft.ConnectedCredentials",

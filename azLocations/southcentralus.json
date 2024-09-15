@@ -125,6 +125,7 @@
     "Microsoft.IoTSecurity",
     "Microsoft.Kubernetes",
     "Microsoft.KubernetesConfiguration",
+    "Microsoft.KubernetesRuntime",
     "Microsoft.LabServices",
     "Microsoft.LoadTestService",
     "Microsoft.ManagedNetworkFabric",
