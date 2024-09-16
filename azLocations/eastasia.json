@@ -75,6 +75,7 @@
     "microsoft.aadiam",
     "Microsoft.App",
     "Microsoft.AppConfiguration",
+    "Microsoft.Attestation",
     "Microsoft.AzurePlaywrightService",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
