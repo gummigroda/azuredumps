@@ -35,6 +35,7 @@
     "Microsoft.ContainerInstance",
     "Microsoft.StreamAnalytics",
     "Microsoft.ServiceBus",
+    "Microsoft.Search",
     "microsoft.insights",
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Kusto",
