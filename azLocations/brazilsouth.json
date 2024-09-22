@@ -142,6 +142,7 @@
     "microsoft.visualstudio",
     "Microsoft.Workloads",
     "NGINX.NGINXPLUS",
+    "Oracle.Database",
     "PaloAltoNetworks.Cloudngfw",
     "Qumulo.Storage"
   ]
