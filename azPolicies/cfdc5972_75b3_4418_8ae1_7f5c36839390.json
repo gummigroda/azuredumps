@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Microsoft Defender for Storage is an Azure-native layer of security intelligence that detects potential threats to your storage accounts.\r\nThis policy will enable all Defender for Storage capabilities; Activity Monitoring, Malware Scanning and Sensitive Data Threat Detection. To learn more about Defender for Storage capabilities and benefits, visit aka.ms/DefenderForStorage.",
+    "Description": "Microsoft Defender for Storage is an Azure-native layer of security intelligence that detects potential threats to your storage accounts.\nThis policy will enable all Defender for Storage capabilities; Activity Monitoring, Malware Scanning and Sensitive Data Threat Detection. To learn more about Defender for Storage capabilities and benefits, visit aka.ms/DefenderForStorage.",
     "DisplayName": "Configure Microsoft Defender for Storage to be enabled",
     "Metadata": {
       "version": "1.4.0",
@@ -41,7 +41,7 @@
         "type": "Integer",
         "metadata": {
           "displayName": "Cap GB Per Month Per Storage Account",
-          "description": "Limit the GB scanned per month for each storage account within the subscription.\r\nValue must be an integer, 10GB or higher\r\nSet to -1 for unlimited scanning"
+          "description": "Limit the GB scanned per month for each storage account within the subscription.\nValue must be an integer, 10GB or higher\nSet to -1 for unlimited scanning"
         },
         "defaultValue": 5000
       },
