@@ -44,7 +44,6 @@
     "Microsoft.PowerBIDedicated",
     "Microsoft.Databricks",
     "Microsoft.OperationsManagement",
-    "Microsoft.TimeSeriesInsights",
     "Microsoft.Cdn",
     "Microsoft.DocumentDB",
     "Microsoft.RecoveryServices",

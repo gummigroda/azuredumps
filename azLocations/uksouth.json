@@ -47,7 +47,6 @@
     "Microsoft.PowerBIDedicated",
     "Microsoft.Databricks",
     "Microsoft.OperationsManagement",
-    "Microsoft.TimeSeriesInsights",
     "Microsoft.DocumentDB",
     "Microsoft.RecoveryServices",
     "Microsoft.ContainerRegistry",

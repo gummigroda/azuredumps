@@ -26,7 +26,6 @@
     "Microsoft.Devices",
     "Microsoft.EventGrid",
     "Microsoft.Web",
-    "Microsoft.TimeSeriesInsights",
     "Microsoft.DocumentDB",
     "Microsoft.KeyVault",
     "Microsoft.Search",
