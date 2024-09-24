@@ -82,6 +82,7 @@
     "Microsoft.Attestation",
     "Microsoft.Automanage",
     "Microsoft.AwsConnector",
+    "Microsoft.AzureFleet",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.Chaos",
