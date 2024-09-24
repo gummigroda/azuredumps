@@ -6,7 +6,7 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Denies the creation of a resource that contains the given tag. Does not apply to resource groups.",
-    "DisplayName": "Requires resources to not have a specific tag. This is a versioning test built-in.",
+    "DisplayName": "Requires resources to not have a specific tag.",
     "Metadata": {
       "version": "2.0.0",
       "category": "Tags"

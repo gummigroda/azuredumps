@@ -5,7 +5,7 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Microsoft Defender for Storage is an Azure-native layer of security intelligence that detects potential threats to your storage accounts.\r\nThis policy will enable the basic Defender for Storage capabilities (Activity Monitoring). To enable full protection, which also includes On-upload Malware Scanning and Sensitive Data Threat Detection use the full enablement policy: aka.ms/DefenderForStoragePolicy. To learn more about Defender for Storage capabilities and benefits, visit aka.ms/DefenderForStorage.",
+    "Description": "Microsoft Defender for Storage is an Azure-native layer of security intelligence that detects potential threats to your storage accounts.\nThis policy will enable the basic Defender for Storage capabilities (Activity Monitoring). To enable full protection, which also includes On-upload Malware Scanning and Sensitive Data Threat Detection use the full enablement policy: aka.ms/DefenderForStoragePolicy. To learn more about Defender for Storage capabilities and benefits, visit aka.ms/DefenderForStorage.",
     "DisplayName": "Configure basic Microsoft Defender for Storage to be enabled (Activity Monitoring only)",
     "Metadata": {
       "version": "1.1.0",
