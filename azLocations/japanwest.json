@@ -80,6 +80,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DataFactory",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",

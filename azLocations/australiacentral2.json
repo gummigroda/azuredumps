@@ -48,6 +48,7 @@
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DelegatedNetwork",
     "Microsoft.DevHub",
     "Microsoft.IoTSecurity",

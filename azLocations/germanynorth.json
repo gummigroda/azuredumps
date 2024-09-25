@@ -53,6 +53,7 @@
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DevHub",
     "Microsoft.Fabric",
     "Microsoft.IntegrationSpaces",
