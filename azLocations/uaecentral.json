@@ -47,6 +47,7 @@
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DataBox",
     "Microsoft.DevHub",
     "Microsoft.Fabric",

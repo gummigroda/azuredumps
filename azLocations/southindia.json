@@ -78,6 +78,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DatabaseFleetManager",
     "Microsoft.DataBox",
     "Microsoft.DataFactory",

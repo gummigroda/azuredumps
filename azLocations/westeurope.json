@@ -71,7 +71,6 @@
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Kusto",
     "Microsoft.Sql",
-    "Microsoft.DataLakeStore",
     "Microsoft.HDInsight",
     "Microsoft.AlertsManagement",
     "Microsoft.HybridCompute",

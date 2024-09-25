@@ -49,6 +49,7 @@
     "Microsoft.BareMetal",
     "Microsoft.Batch",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DevHub",
     "Microsoft.IntegrationSpaces",
     "Microsoft.KubernetesConfiguration",

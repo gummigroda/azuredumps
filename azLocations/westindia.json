@@ -30,6 +30,7 @@
     "Microsoft.Compute",
     "Microsoft.ManagedIdentity",
     "Microsoft.DBforMySQL",
+    "Microsoft.OperationalInsights",
     "Microsoft.Security",
     "Microsoft.ServiceFabricMesh",
     "Microsoft.Relay",
