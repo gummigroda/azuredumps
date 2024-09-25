@@ -8,7 +8,7 @@
     "Description": "Cannot Edit Individual Nodes. Users should not edit individual nodes. Please edit node pools. Modifying individual nodes can lead to inconsistent settings, operational challenges, and potential security risks.",
     "DisplayName": "[Preview]: Cannot Edit Individual Nodes",
     "Metadata": {
-      "version": "1.2.0-preview",
+      "version": "1.3.0-preview",
       "category": "Kubernetes",
       "preview": true
     },
@@ -132,14 +132,25 @@
         "metadata": {
           "displayName": "Allowed Users",
           "description": "Users that are allowed by deployment safeguards to modify node labels on individual nodes."
-        }
+        },
+        "defaultValue": [
+          "nodeclient",
+          "system:serviceaccount:kube-system:aci-connector-linux",
+          "system:serviceaccount:kube-system:node-controller",
+          "acsService",
+          "aksService",
+          "system:serviceaccount:kube-system:cloud-node-manager"
+        ]
       },
       "allowedGroups": {
         "type": "Array",
         "metadata": {
           "displayName": "Allowed Groups",
           "description": "Groups that are allowed by deployment safeguards to modify node labels on individual nodes."
-        }
+        },
+        "defaultValue": [
+          "system:node"
+        ]
       }
     },
     "PolicyRule": {
