@@ -9,7 +9,7 @@
     "DisplayName": "Configure Azure Cache for Redis Enterprise with private endpoints",
     "Metadata": {
       "category": "Cache",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -49,7 +49,7 @@
             "equals": "Approved"
           },
           "roleDefinitionIds": [
-            "/providers/Microsoft.Authorization/roleDefinitions/e0f68234-74aa-48ed-b826-c38b57376e17"
+            "/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c"
           ],
           "deployment": {
             "properties": {
@@ -126,7 +126,7 @@
                                   "properties": {
                                     "privateLinkServiceId": "[parameters('serviceId')]",
                                     "groupIds": [
-                                      "redisCache"
+                                      "redisEnterprise"
                                     ],
                                     "requestMessage": "autoapprove"
                                   }
