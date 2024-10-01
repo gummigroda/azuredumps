@@ -43,6 +43,7 @@
     "Microsoft.DBforPostgreSQL",
     "Microsoft.Sql",
     "Microsoft.HDInsight",
+    "Microsoft.AppConfiguration",
     "Microsoft.Attestation",
     "Microsoft.BareMetal",
     "Microsoft.ClassicInfrastructureMigrate",
