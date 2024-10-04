@@ -1,0 +1,19 @@
+{
+  "Name": "Service Fabric Cluster Contributor",
+  "Id": "b6efc156-f0da-4e90-a50a-8c000140b017",
+  "IsCustom": false,
+  "Description": "Lets you manage your Service Fabric Cluster. Only provides Service Fabric permissions. You will need additional permissions to manage the cluster's underlying resources.",
+  "Actions": [
+    "Microsoft.ServiceFabric/clusters/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}
