@@ -1,0 +1,19 @@
+{
+  "Name": "Stream Analytics Contributor",
+  "Id": "6e0c8711-85a0-4490-8365-8ec13c4560b4",
+  "IsCustom": false,
+  "Description": "Contributor access to Clusters and Streaming Jobs",
+  "Actions": [
+    "Microsoft.StreamAnalytics/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}
