@@ -67,6 +67,7 @@
     "Microsoft.LoadTestService",
     "Microsoft.Migrate",
     "Microsoft.Monitor",
+    "Microsoft.NetworkFunction",
     "Microsoft.OffAzure",
     "Microsoft.Resources",
     "Microsoft.SecurityDetonation",

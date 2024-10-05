@@ -55,6 +55,7 @@
     "Microsoft.IoTSecurity",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
+    "Microsoft.NetworkFunction",
     "Microsoft.Portal",
     "Microsoft.SecurityDetonation",
     "Microsoft.SqlVirtualMachine",
