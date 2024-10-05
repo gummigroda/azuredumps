@@ -79,6 +79,7 @@
     "Microsoft.Migrate",
     "Microsoft.Monitor",
     "Microsoft.NetApp",
+    "Microsoft.NetworkFunction",
     "Microsoft.OffAzure",
     "Microsoft.RedHatOpenShift",
     "Microsoft.Resources",
