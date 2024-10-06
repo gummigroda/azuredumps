@@ -88,6 +88,7 @@
     "Microsoft.AzureStackHCI",
     "Microsoft.BareMetal",
     "Microsoft.Batch",
+    "Microsoft.Chaos",
     "Microsoft.ClassicInfrastructureMigrate",
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
