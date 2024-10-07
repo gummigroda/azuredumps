@@ -14,7 +14,6 @@
     "Microsoft.Compute/virtualMachines/delete",
     "Microsoft.Compute/virtualMachines/read",
     "Microsoft.Compute/virtualMachines/write",
-    "Microsoft.Compute/capacityReservationGroups/deploy/action",
     "Microsoft.ManagedIdentity/userAssignedIdentities/assign/action",
     "Microsoft.Network/applicationSecurityGroups/read",
     "Microsoft.Network/loadBalancers/backendAddressPools/join/action",
