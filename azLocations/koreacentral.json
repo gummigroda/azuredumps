@@ -73,6 +73,7 @@
     "Microsoft.AppConfiguration",
     "Microsoft.ClassicCompute",
     "Microsoft.SignalRService",
+    "GitHub.Network",
     "microsoft.aadiam",
     "Microsoft.App",
     "Microsoft.Attestation",
