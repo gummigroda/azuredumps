@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Audit whether there are any missing system security updates and critical updates that should be installed to ensure that your Windows and Linux virtual machine scale sets are secure.",
-    "DisplayName": "System updates on virtual machine scale sets should be installed",
+    "DisplayName": "[Deprecated]: System updates on virtual machine scale sets should be installed",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Security Center"
+      "version": "3.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

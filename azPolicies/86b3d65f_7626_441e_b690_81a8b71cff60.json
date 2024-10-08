@@ -6,10 +6,11 @@
   "SubscriptionId": null,
   "Properties": {
     "Description": "Missing security system updates on your servers will be monitored by Azure Security Center as recommendations",
-    "DisplayName": "System updates should be installed on your machines",
+    "DisplayName": "[Deprecated]: System updates should be installed on your machines",
     "Metadata": {
-      "version": "4.0.0",
-      "category": "Security Center"
+      "version": "4.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

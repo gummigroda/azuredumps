@@ -1,0 +1,48 @@
+{
+  "Name": "d242c24b-bac7-439e-8af7-22d7dcfd3c4f",
+  "ResourceId": "/providers/Microsoft.Authorization/policyDefinitions/d242c24b-bac7-439e-8af7-22d7dcfd3c4f",
+  "ResourceName": "d242c24b-bac7-439e-8af7-22d7dcfd3c4f",
+  "ResourceType": "Microsoft.Authorization/policyDefinitions",
+  "SubscriptionId": null,
+  "Properties": {
+    "Description": "Use the geo-replication feature to create replicas in other locations of your current configuration store for enhanced resiliency and availability. Additionally, having multi-region replicas lets you better distribute load, lower latency, protect against datacenter outages, and compartmentalize globally distributed workloads. Learn more at: https://aka.ms/appconfig/geo-replication.",
+    "DisplayName": "App Configuration should use geo-replication",
+    "Metadata": {
+      "version": "1.0.0",
+      "category": "App Configuration"
+    },
+    "Mode": "Indexed",
+    "Parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "AuditIfNotExists",
+          "Disabled"
+        ],
+        "defaultValue": "AuditIfNotExists"
+      }
+    },
+    "PolicyRule": {
+      "if": {
+        "field": "type",
+        "equals": "Microsoft.AppConfiguration/configurationStores"
+      },
+      "then": {
+        "effect": "[parameters('effect')]",
+        "details": {
+          "type": "Microsoft.AppConfiguration/configurationStores/replicas",
+          "existenceCondition": {
+            "field": "Microsoft.AppConfiguration/configurationStores/replicas/provisioningState",
+            "equals": "Succeeded"
+          }
+        }
+      }
+    },
+    "PolicyType": 2
+  },
+  "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/d242c24b-bac7-439e-8af7-22d7dcfd3c4f"
+}

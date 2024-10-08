@@ -5,11 +5,12 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Audit vulnerabilities in security configuration on machines with Docker installed and display as recommendations in Azure Security Center.",
-    "DisplayName": "Vulnerabilities in container security configurations should be remediated",
+    "Description": "Audit Docker security vulnerabilities and display recommendations in Azure Security Center. This policy is deprecated due to Azure Monitoring agent deprecation. Learn more at aka.ms/policydefdeprecation.",
+    "DisplayName": "[Deprecated]: Vulnerabilities in container security configurations should be remediated",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Security Center"
+      "version": "3.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
