@@ -5,11 +5,12 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Audit the OS vulnerabilities on your virtual machine scale sets to protect them from attacks.",
-    "DisplayName": "Vulnerabilities in security configuration on your virtual machine scale sets should be remediated",
+    "Description": "Audit the OS vulnerabilities on your virtual machine scale sets to protect them from attacks, This policy is deprecated because it depends on the Azure Monitoring agent, which has also been deprecated. Learn more about policy definition deprecation at aka.ms/policydefdeprecation.",
+    "DisplayName": "[Deprecated]: Vulnerabilities in security configuration on your virtual machine scale sets should be remediated",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Security Center"
+      "version": "3.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

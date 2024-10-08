@@ -8,7 +8,7 @@
     "Description": "Disable public network access to improve security by exposing the Container Apps environment through an internal load balancer. This removes the need for a public IP address and prevents internet access to all Container Apps within the environment.",
     "DisplayName": "Container Apps environment should disable public network access",
     "Metadata": {
-      "version": "1.0.1",
+      "version": "1.1.0",
       "category": "Container Apps"
     },
     "Mode": "Indexed",
@@ -38,6 +38,10 @@
             "anyOf": [
               {
                 "field": "Microsoft.App/managedEnvironments/vnetConfiguration",
+                "exists": false
+              },
+              {
+                "field": "Microsoft.App/managedEnvironments/vnetConfiguration.internal",
                 "exists": false
               },
               {

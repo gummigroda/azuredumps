@@ -5,11 +5,12 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Enable application controls to define the list of known-safe applications running on your machines, and alert you when other applications run. This helps harden your machines against malware. To simplify the process of configuring and maintaining your rules, Security Center uses machine learning to analyze the applications running on each machine and suggest the list of known-safe applications.",
-    "DisplayName": "Adaptive application controls for defining safe applications should be enabled on your machines",
+    "Description": "Enable application controls to define safe applications and get alerts for others, enhancing security. This policy is deprecated due to the Azure Monitoring agent deprecation. Learn more at aka.ms/policydefdeprecation.",
+    "DisplayName": "[Deprecated]: Adaptive application controls for defining safe applications should be enabled on your machines",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Security Center"
+      "version": "3.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "All",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {

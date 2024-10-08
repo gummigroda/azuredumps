@@ -5,11 +5,12 @@
   "ResourceType": "Microsoft.Authorization/policyDefinitions",
   "SubscriptionId": null,
   "Properties": {
-    "Description": "Azure Security Center analyzes the traffic patterns of Internet facing virtual machines and provides Network Security Group rule recommendations that reduce the potential attack surface",
-    "DisplayName": "Adaptive network hardening recommendations should be applied on internet facing virtual machines",
+    "Description": "Azure Security Center recommends NSG rules for Internet-facing VMs. This policy is deprecated due to Azure Monitoring agent deprecation. Learn more at aka.ms/policydefdeprecation.",
+    "DisplayName": "[Deprecated]: Adaptive network hardening recommendations should be applied on internet facing virtual machines",
     "Metadata": {
-      "version": "3.0.0",
-      "category": "Security Center"
+      "version": "3.1.0-deprecated",
+      "category": "Security Center",
+      "deprecated": true
     },
     "Mode": "Indexed",
     "Parameters": {
@@ -23,7 +24,7 @@
           "AuditIfNotExists",
           "Disabled"
         ],
-        "defaultValue": "AuditIfNotExists"
+        "defaultValue": "Disabled"
       }
     },
     "PolicyRule": {
