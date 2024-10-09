@@ -68,6 +68,7 @@
     "Microsoft.ClassicStorage",
     "Microsoft.ComputeSchedule",
     "Microsoft.Confluent",
+    "Microsoft.Dashboard",
     "Microsoft.DevCenter",
     "Microsoft.DevHub",
     "Microsoft.DevOpsInfrastructure",
