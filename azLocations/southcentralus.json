@@ -93,6 +93,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.ConfidentialLedger",
     "Microsoft.Confluent",
     "Microsoft.ConnectedVMwarevSphere",

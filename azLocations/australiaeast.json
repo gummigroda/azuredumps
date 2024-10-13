@@ -78,6 +78,7 @@
     "Microsoft.ClassicCompute",
     "Microsoft.SignalRService",
     "Astronomer.Astro",
+    "Dynatrace.Observability",
     "GitHub.Network",
     "microsoft.aadiam",
     "Microsoft.AnalysisServices",
