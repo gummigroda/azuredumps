@@ -63,6 +63,7 @@
     "Microsoft.ClassicNetwork",
     "Microsoft.ClassicStorage",
     "Microsoft.CloudTest",
+    "Microsoft.ComputeSchedule",
     "Microsoft.DelegatedNetwork",
     "Microsoft.Fabric",
     "Microsoft.HybridCloud",
